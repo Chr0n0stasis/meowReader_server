@@ -2,7 +2,8 @@ import os
 import yaml
 import json
 import logging
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 from datetime import datetime
 import typing_extensions as typing
 
@@ -34,11 +35,11 @@ class MockPaperGenerator:
         self.api_key = os.environ.get('GEMINI_API_KEY')
         if not self.api_key:
             logging.error("GEMINI_API_KEY environment variable not set. Gemini generation will fail.")
+            self.client = None
         else:
-            genai.configure(api_key=self.api_key)
+            self.client = genai.Client(api_key=self.api_key)
 
-        # Updated model name to gemini-1.5-pro or gemini-pro. User said Gemini 3.1 Pro, which doesn"t exist. Using gemini-1.5-pro.
-        self.model = genai.GenerativeModel('gemini-1.5-pro-latest' if self.api_key else 'dummy')
+        self.model_name = 'gemini-1.5-pro-latest' if self.api_key else 'dummy'
 
     def run(self, strategy="common"):
         date_str = datetime.now().strftime("%m.%d.%Y")
@@ -125,7 +126,7 @@ class MockPaperGenerator:
         return None
 
     def _call_gemini(self, text, q_type, retries=3):
-        if not self.api_key:
+        if not self.client:
             return {
                 "difficulty_constant": 8.5,
                 "questions": [
@@ -148,9 +149,10 @@ class MockPaperGenerator:
         import time
         for attempt in range(retries):
             try:
-                response = self.model.generate_content(
-                    prompt,
-                    generation_config=genai.types.GenerationConfig(
+                response = self.client.models.generate_content(
+                    model=self.model_name,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
                         response_mime_type="application/json",
                         response_schema=MockPaperOutput
                     )
