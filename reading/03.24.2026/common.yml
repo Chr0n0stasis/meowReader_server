@@ -1,19 +1,20 @@
 articles:
-- article_id: epub_94
+- article_id: epub_68
   journal_name: Economist
   publish_date: 03.24.2026
-  title: Which is the best sparkling water?
-- article_id: epub_42
-  journal_name: Wired
+  title: The future of Africa will be shaped by investment rather than aid
+- article_id: epub_7
+  journal_name: Atlantic
   publish_date: 03.24.2026
-  title: Pause
-- article_id: rss_8_1774318608
-  journal_name: China Daily
+  title: Chapter 7
+- article_id: rss_1_1774318586
+  journal_name: Nature
   publish_date: 03.24.2026
-  title: Nanjing massacre remembered on 80th anniversary
-- article_id: rss_4_1774318606
-  journal_name: China Daily
+  title: How to measure a good life – tips for moving beyond GDP
+- article_id: rss_5_1774318612
+  journal_name: The Guardian
   publish_date: 03.24.2026
-  title: Chinese, Russian and Indian ministers meet
+  title: '‘A miracle’: Canadian flight attendant ejected from plane survives New York
+    crash'
 generate_date: 03.24.2026
 strategy: common
