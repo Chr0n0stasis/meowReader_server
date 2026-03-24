@@ -39,7 +39,7 @@ class MockPaperGenerator:
         else:
             self.client = genai.Client(api_key=self.api_key)
             
-        self.model_names = ['gemini-3.0-pro', 'gemini-3.1-pro', 'gemini-2.5-pro', 'gemini-2.0-flash', 'gemini-1.5-pro'] if self.api_key else ['dummy']
+        self.model_names = ['gemini-3.1-flash-lite', 'gemini-3.0-flash', 'gemini-2.5-flash-lite', 'gemini-2.5-flash'] if self.api_key else ['dummy']
 
     def run(self, strategy="common"):
         date_str = datetime.now().strftime("%m.%d.%Y")
