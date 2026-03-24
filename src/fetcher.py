@@ -186,8 +186,8 @@ class DataFetcher:
             else:
                 publish_date = today_str
 
-            if source.get('last_fetched_date') == publish_date:
-                logging.info(f"{source['journal_name']} EPUB already up-to-date ({publish_date}).")
+            if self.is_raw_source_fetched(source, publish_date, "json"):
+                logging.info(f"{source['journal_name']} EPUB already parsed and up-to-date ({publish_date}).")
                 return source
 
             # Download EPUB temporarily via direct download_url to avoid 'unsupported encoding: none' for large files
