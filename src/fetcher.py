@@ -122,26 +122,37 @@ class DataFetcher:
         current_year = datetime.now().strftime("%Y")
         
         # Determine the possible directory based on journal_name
-        # e.g., journal_name "Economist" maps to "The_Economist" in the awesome-english-ebooks repo structure
         journal_dir_map = {
-            "Economist": "The_Economist",
-            "New Yorker": "The_New_Yorker",
-            "Scientific American": "Scientific_American",
-            "Nature": "Nature",
-            "Science": "Science"
+            "Economist": "01_economist",
+            "New Yorker": "02_new_yorker",
+            "Scientific American": "03_scientific_american",
+            "Atlantic": "04_atlantic",
+            "Wired": "05_wired"
         }
-        dir_name = journal_dir_map.get(source['journal_name'], source['journal_name'].replace(' ', '_'))
-        target_path = f"{current_year}/{dir_name}"
+        target_path = journal_dir_map.get(source['journal_name'])
+        if not target_path:
+            logging.error(f"Unknown GitHub source mapping for {source['journal_name']}")
+            return source
         
         try:
             contents = repo.get_contents(target_path)
-            # Find the latest EPUB file
-            epub_files = [c for c in contents if c.name.endswith('.epub')]
-            if not epub_files:
-                logging.info(f"No EPUB files found in {target_path}")
+            # Find all subdirectories
+            subdirs = [c for c in contents if c.type == "dir"]
+            if not subdirs:
+                logging.info(f"No subdirectories found in {target_path}")
                 return source
                 
             # Sort by name assuming the name contains a sortable date
+            subdirs.sort(key=lambda x: x.name, reverse=True)
+            latest_dir = subdirs[0]
+            
+            # Fetch contents of the latest directory
+            dir_contents = repo.get_contents(latest_dir.path)
+            epub_files = [c for c in dir_contents if c.name.endswith('.epub')]
+            if not epub_files:
+                logging.info(f"No EPUB files found in {latest_dir.path}")
+                return source
+                
             epub_files.sort(key=lambda x: x.name, reverse=True)
             latest_file = epub_files[0]
             
