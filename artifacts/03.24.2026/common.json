@@ -2,282 +2,282 @@
   "group_update_date": "03.24.2026",
   "papers": [
     {
-      "title": "Eight arrested for ‘brutal’ attack on capybara in Brazil",
+      "title": "The intelligence illusion: why AI isn’t as smart as it is made out to be",
       "article_update_date": "03.24.2026",
-      "source_journal": "The Guardian",
-      "body_text": "Police in Rio de Janeiro have arrested eight people for brutally beating a capybara – the world’s largest rodent. Resembling a giant guinea pig, the light brown capybara (Hydrochoerus hydrochaeris) is often seen roaming the Brazilian city, particularly near streams and lagoons. In an incident filmed by security cameras before dawn on Saturday, a group of attackers beat the capybara with sticks and iron bars in the neighbourhood of Ilha do Governador. “This is a brutal crime that shocks society,” said Felipe Santoro, the police commissioner in charge of the investigation, was quoted as saying by the O Globo daily newspaper. “It is an act of extreme cruelty toward a creature that posed absolutely no threat … yet was deliberately attacked nonetheless,” he added. View image in fullscreen Wounds are seen on the muzzle of the capybara. Photograph: Mauro Pimentel/AFP/Getty The attackers – including two minors – were identified through CCTV footage and arrested on Saturday, police said in a statement. The capybara, a 65kg (143lb) male, was taken to the Wildlife Care Center (CRAS) at the private Estacio University in south-western Rio. Jeferson Pires, the veterinarian and head of CRAS, told AFP: “We have been treating Rio’s wildlife here for 22 years, and I have never before received a capybara subjected to such extreme aggression.” He said the creature was doing better, but was “suffering from head trauma, swelling with internal bleeding around his left eye, and multiple injuries to his back”. In recent years the semi-aquatic capybara – native to South America – has gained a devoted following online. One popular meme is “Comrade Capybara”, depicting the animal as a communist revolutionary, inspired by the 2021 “invasion” by capybaras of a luxury gated estate in Argentina that was built on a wetland that had been their natural habitat. In early January, the death of a stray dog after it was beaten to death by teenagers caused a wave of outrage in Brazil.",
+      "source_journal": "Nature",
+      "body_text": "The AI Illusion: Why Machines Aren’t Creative Luc Julia Wiley (2026) French-American computer scientist Luc Julia has worked at the interface of artificial intelligence and consumer technologies for more than three decades. Currently chief scientific officer at the car maker Renault Group, he has previously worked at Samsung Electronics, Apple and Hewlett-Packard. He did early work on the natural-language-processing tools that underlie current generative AI models. In his book, The AI Illusion, translated from French, he argues that the hype and fear surrounding the intelligence and creative abilities of AI models are overblown. What is the ‘AI Illusion’? The term aims to address a fundamental misunderstanding about AI that has persisted for nearly 70 years, dating back to 1956 when AI research formally began. The term ‘intelligence’ is widely misunderstood, often leading people to anthropomorphize AI tools, attributing human-like qualities to machines. This illusion has been perpetuated by science fiction and media portrayals, which depict AI systems as potentially dangerous or capable of developing human-like emotions and decision-making skills. Does AI already have human-level intelligence? The evidence is clear In reality, the systems that we call AI are more about processing information than showing intelligence similar to human smartness. The illusion lies in our tendency to overestimate AI’s capabilities and potential threats, rather than understanding it as a collection of sophisticated but narrow tools designed for specific tasks. Just as a magician uses sleight of hand to create the illusion of magic, the terminology around AI creates the illusion of human-like intelligence. This stems from the dual meaning of the word intelligence, which can refer to both information processing and cognitive smartness. The latter is often projected onto AI, leading to exaggerated expectations and fears. AI, in its current form, operates on algorithms and data, performing tasks with precision but lacking the consciousness and creativity that is inherent in human intelligence. This distinction is essential for understanding the true capabilities and limitations of AI. Who is being deceived? The general public, by the technology companies and organizations that benefit from the hype around AI. These companies are in a race to develop the technology and are incentivized to promote the idea of human-like artificial general intelligence to secure funding and market dominance. Members of the scientific community, particularly those who are not directly involved in the race for AI funding, acknowledge the reality that AI is a set of specialized tools, rather than a unified intelligent entity. This distinction is crucial, but it is blurred by commercial interests that amplify the illusion for monetary gain. How close is AI to human-level intelligence? The narrative of AI as an impending replacement for human intelligence fuels both fascination and apprehension. It generates excitement and investment, driving technological advancements and economic growth. But it also creates unrealistic expectations and fears, influencing public perception and policy decisions. It is important to recognize that, although AI can augment human capabilities, it is not a sentient entity poised to overtake human roles. Understanding this dynamic is essential for fostering informed discussions about the role of AI in society. What is intelligence in the context of AI? Intelligence is a contentious term because it lacks a single, universally accepted definition. In the context of AI, ‘intelligence’ often refers to information processing rather than genuine cognitive ability. A calculator performs calculations faster than a human, which might seem intelligent, but it is merely executing predefined operations. Similarly, AI systems are designed to excel at specific tasks, outperforming humans in those areas, but they lack the creativity and adaptability that is inherent to human intelligence. Philosophers and psychologists offer various perspectives on intelligence, but AI, as it stands, does not have the innate creativity or consciousness that is associated with true intelligence. The debate over AI’s intelligence highlights the complexity of defining intelligence itself. Human intelligence encompasses a range of cognitive abilities, including reasoning, problem solving and emotional understanding. AI operates in the confines of algorithms and the data on which it is trained, lacking the experiential learning and emotional depth of human cognition. Yet AI systems are powerful? Absolutely, AI systems are impressive in their designated functions. The power of AI lies in its ability to process vast amounts of data quickly and accurately. This capability has transformed industries such as health care, finance and transportation. However, with great power comes great responsibility. The effectiveness of AI models depends on the quality of the data they are trained on and the context in which they are applied. Misuse or misunderstanding of AI can lead to errors, biases and ethical concerns, highlighting the importance of human oversight and regulation. The key to harnessing AI’s potential lies in recognizing it as a tool that complements human abilities rather than as a replacement for human intelligence. AI can be used to support medical applications including robotic surgery.Credit: Costfoto/NurPhoto/Getty What would a truly intelligent AI look like to you? It would need to have a form of general intelligence similar to that of humans, capable of continuous and creative thought across various domains. This means the system would need to reflect and act on any subject, innovate spontaneously and create new concepts or solutions independently. AI currently lacks the biological and creative aspects of human intelligence. A system designed to play chess, for example, can defeat human grandmasters but is incapable of understanding or writing a poem. Why do you argue that AI and machine learning are different? This distinction is important for understanding the various components and capabilities of modern AI systems.",
       "difficulty_constant": 7.8,
       "question_type": "Use of English",
       "questions": [
         {
           "q_number": 1,
-          "stem": "The police commissioner described the beating of the capybara as a \"brutal crime\" because the animal __________.",
+          "stem": "In the context of the passage, the term 'AI Illusion' refers primarily to the common tendency to ______.",
           "options": {
-            "A": "was known to be aggressive toward humans",
-            "B": "posed no threat to anyone at the time",
-            "C": "had escaped from a local wildlife center",
-            "D": "was a rare and protected species in Rio"
+            "A": "overestimate the technical capabilities of AI systems",
+            "B": "attribute human-like consciousness and intelligence to AI",
+            "C": "fear the economic dominance of major technology firms",
+            "D": "confuse natural language processing with genuine creativity"
           },
           "answer": "B",
-          "explanation": "文章中警方负责人明确提到该动物\"posed absolutely no threat\"（完全没有构成任何威胁），因此这被视为极度的残忍行为。"
+          "explanation": "文章明确指出，AI Illusion是指人们倾向于将人类的特质（如意识、情感、智力）投射到AI上，即拟人化（anthropomorphize），从而造成了对AI本质的误解。"
         },
         {
           "q_number": 2,
-          "stem": "Which of the following best describes the condition of the capybara after the attack?",
+          "stem": "According to Luc Julia, the commercial hype surrounding AI is largely driven by ______.",
           "options": {
-            "A": "It suffered from minor scratches and was released.",
-            "B": "It required immediate surgery for broken limbs.",
-            "C": "It was in a stable state but had severe injuries.",
-            "D": "It died shortly after arriving at the wildlife center."
+            "A": "the genuine scientific breakthrough in cognitive computing",
+            "B": "a widespread misunderstanding of algorithms",
+            "C": "the need for companies to attract funding and market power",
+            "D": "the pressure from media and science fiction writers"
           },
           "answer": "C",
-          "explanation": "文中兽医Jeferson Pires表示动物正在好转（doing better），但患有头部创伤、内出血和多处背部损伤，属于病情严重但正在恢复。"
+          "explanation": "文中提到，科技公司为了争取资金（secure funding）和市场主导地位（market dominance），有动力去宣扬类人的人工通用智能，从而制造了这种炒作。"
         },
         {
           "q_number": 3,
-          "stem": "What is the primary reason behind the \"Comrade Capybara\" meme mentioned in the text?",
+          "stem": "The author compares AI systems to a magician's 'sleight of hand' to illustrate that ______.",
           "options": {
-            "A": "A protest against deforestation in Brazil.",
-            "B": "A response to the illegal pet trade of rodents.",
-            "C": "A reaction to an incident involving a luxury estate.",
-            "D": "An attempt to promote animal rights through satire."
+            "A": "AI performance is unpredictable and lacks transparency",
+            "B": "the terminology used for AI masks its true nature as a tool",
+            "C": "AI is capable of deceiving its users in malicious ways",
+            "D": "the complexity of AI systems makes them difficult to explain"
           },
-          "answer": "C",
-          "explanation": "文中提到该meme受到2021年水豚“入侵”阿根廷一处建在湿地上的豪华门控社区事件的启发。"
+          "answer": "B",
+          "explanation": "魔术戏法（sleight of hand）用来掩盖真相。文章用此比喻说明围绕AI的术语使得AI看起来具有人类智能，实际上它仅仅是专门处理信息的工具。"
         },
         {
           "q_number": 4,
-          "stem": "According to the passage, how were the attackers apprehended?",
+          "stem": "What does the author suggest about the relationship between human intelligence and AI?",
           "options": {
-            "A": "Through anonymous tips provided by local residents.",
-            "B": "By monitoring the animal's tracking collar.",
-            "C": "Through the analysis of security camera footage.",
-            "D": "By tracing the iron bars used in the crime."
+            "A": "AI should eventually replace human roles in complex fields",
+            "B": "Human intelligence is increasingly being modeled after AI logic",
+            "C": "AI acts as a complement that enhances human capabilities",
+            "D": "The distinction between AI and human thought is becoming negligible"
           },
           "answer": "C",
-          "explanation": "文章指出袭击者是\"identified through CCTV footage\"（通过监控录像识别），因此是C选项。"
+          "explanation": "文章结尾强调，认识AI潜力的关键在于将其视为一种“补充人类能力的工具”（a tool that complements human abilities），而非人类智能的替代品。"
         },
         {
           "q_number": 5,
-          "stem": "The word \"devoted\" in the context of the capybara's online following most likely means __________.",
+          "stem": "Which of the following best describes the 'intellectual' limitation of current AI?",
           "options": {
-            "A": "highly enthusiastic",
-            "B": "morally upright",
-            "C": "extremely skeptical",
-            "D": "narrowly defined"
+            "A": "It lacks the ability to process data at high speeds",
+            "B": "It is unable to innovate independently outside predefined tasks",
+            "C": "It is constrained by ethical regulations and human oversight",
+            "D": "It relies too heavily on biological and experiential learning"
           },
-          "answer": "A",
-          "explanation": "在描述网络受众对某种事物的喜爱时，devoted表示“热情的、忠实的、入迷的”，与enthusiastic同义。"
+          "answer": "B",
+          "explanation": "文章多次提到，现有的AI运行在算法和数据限制内（confines of algorithms），缺乏人类那种跨领域创新、独立产生新概念的能力，只能在既定任务中表现优异。"
         }
       ]
     },
     {
-      "title": "Two pilots killed after Air Canada jet collision at LaGuardia in New York",
+      "title": "Lab-grown oesophagus restores pigs’ ability to swallow",
+      "article_update_date": "03.24.2026",
+      "source_journal": "Nature",
+      "body_text": "Pigs that received bioengineered oesophagi were able to swallow food normally.Credit: Fotosmurf03/iStock via Getty Scientists have used stem cells to make bioengineered oesophagi that they successfully implanted into pigs, restoring the animals’ ability to swallow and eat. Similar lab-grown structures could be used to treat people with cancer and other conditions affecting the muscular tube that connects the throat to the stomach, researchers say. Paolo De Coppi, a paediatric surgeon and researcher at University College London, says his team has been investigating minimally invasive ways to treat children born with a large hole in their oesophagus, a condition called long-gap oesophageal atresia. The current treatment is to move the child’s stomach up to their neck and join it directly to the back of their throat, or to transplant part of their colon to bridge the gap. De Coppi and his colleagues have previously grown mouse cells on a rat oesophagus and implanted them into mice. They have also transplanted the pig-based scaffold into rabbits. The team’s latest work, published in Nature Biotechnology today1, involved transplanting sections of oesophagus that had been grown in the lab into pigs, which are better than rodents as a model for humans, because of their size and physiology. The ability to generate an oesophagus with the necessary components that also functions normally is impressive, says Andrew Barbour, an academic surgeon at the Frazer Institute of the University of Queensland in Brisbane, Australia. The grafts developed some scar tissue — which causes issues with swallowing — but this reduced over time, which is also promising, he adds. Transplant option To grow oesophagi in the lab, De Coppi and his colleagues started with small samples of muscle cells and connective tissue from the recipient pigs and used them to make two kinds of stem cell, which can be turned into other types of cell. They also took the oesophagi from 16 other young pigs and removed the original cells to create oesophagus scaffolds. The team injected each scaffold with the recipient pig’s stem cells. Over two months, the cells grew across the scaffold to create a graft. The researchers used 10-kilogram minipigs, in part to approximate the size of the children who could one day be treated with the method. The surgeons then removed 2.5-centimetre segments of oesophagus from the eight recipient pigs and replaced them with segments of the oesophagus scaffolds. These were covered with a biodegradable mesh tube to help blood vessels develop. Five of the pigs survived for the whole six-month study period; they showed functioning muscle, nerves and blood vessels, the team notes, and were able to swallow. The remaining three pigs were killed early for humane reasons. From pigs to people",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary motivation for Paolo De Coppi’s research on bioengineered oesophagi?",
+          "options": {
+            "A": "To refine the surgical techniques for colon transplantation in adults.",
+            "B": "To seek a less invasive treatment for a congenital oesophageal defect in children.",
+            "C": "To test the efficacy of rodent models in human cancer research.",
+            "D": "To develop a new type of biodegradable mesh for general surgery."
+          },
+          "answer": "B",
+          "explanation": "文章提到De Coppi致力于研究微创方法来治疗患有先天性食管闭锁（long-gap oesophageal atresia）的儿童，这是该研究的主要临床驱动力。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does the author suggest pigs are better models than rodents for this study?",
+          "options": {
+            "A": "Pigs possess a more complex immune system than rodents.",
+            "B": "Pigs have a longer lifespan, making long-term observation easier.",
+            "C": "Pigs are anatomically and physiologically more similar to humans.",
+            "D": "Pigs are more affordable and easier to maintain in a laboratory setting."
+          },
+          "answer": "C",
+          "explanation": "文中明确指出，猪在体型和生理结构上与人类更为接近，因此比啮齿动物更适合作为研究人类食管的模型。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, how were the oesophagus scaffolds prepared?",
+          "options": {
+            "A": "By harvesting tissue directly from the recipient pigs.",
+            "B": "By using artificial synthetic materials to mimic human tissue.",
+            "C": "By removing original cells from the oesophagi of donor pigs.",
+            "D": "By culturing stem cells in a bio-degradable mesh tube for two months."
+          },
+          "answer": "C",
+          "explanation": "文中提到研究人员获取了其他年轻猪的食管，并移除了其原始细胞以制造食管支架（scaffolds）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What observation regarding the grafts is described as 'promising' by Andrew Barbour?",
+          "options": {
+            "A": "The rapid growth of nerve cells within the first few weeks.",
+            "B": "The gradual reduction of scar tissue that initially hindered swallowing.",
+            "C": "The complete absence of immune rejection in all recipient pigs.",
+            "D": "The ability of the graft to produce its own blood vessels immediately."
+          },
+          "answer": "B",
+          "explanation": "文章提到移植物产生了一些导致吞咽困难的瘢痕组织，但这种组织随时间推移而减少，Andrew Barbour认为这一点很值得期待（promising）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following can be inferred about the status of the bioengineered oesophagi research?",
+          "options": {
+            "A": "It has reached the stage of successful human clinical trials.",
+            "B": "It is still in the developmental phase using animal models.",
+            "C": "It has been rejected due to the high mortality rate in test subjects.",
+            "D": "It currently faces insurmountable physiological challenges in mammals."
+          },
+          "answer": "B",
+          "explanation": "文章描述了在猪身上的研究过程和成果，且讨论了未来治疗人类的可能性，说明该技术目前仍处于实验室动物模型阶段。"
+        }
+      ]
+    },
+    {
+      "title": "At least 34 dead as Colombian military plane crashes",
       "article_update_date": "03.24.2026",
       "source_journal": "The Guardian",
-      "body_text": "The pilot and co-pilot of an Air Canada Express regional jet have been killed after it collided with a fire truck while landing at New York’s LaGuardia airport, in an incident that closed the airport for several hours. The Air Canada Express CRJ-900 plane, operated by Jazz Aviation, was carrying 72 passengers and four crew members from Montreal. Nine people remain hospitalized after the collision, which happened around 11.45pm ET on Sunday as the firefighting vehicle was responding to a separate incident. Quebec’s TVA News identified one of the pilots as Antoine Forest, 30, of Coteau-du-Lac, a city south-west of Montreal. He joined Jazz Aviation in 2022. The other pilot was Mackenzie Gunther, Radio-Canada sources have confirmed. In a press conference on Monday evening, National Transportation Safety Board chair Jennifer Homendy said an investigation was under way. The plane’s flight data recorder, or black box, was recovered, as was the cockpit voice recorder. LaGuardia reopened at 2pm on Monday and the airport told passengers to expect delays and or cancellations. Homendy said the runway where the crash took place would remain closed for “some time” due to the amount of debris and hazardous material at the site. “It’s going to be days,” she said. In the moments before the crash, an air traffic controller could be heard on a radio transmission giving clearance to a vehicle to cross part of the runway, then trying to stop it. 0:42 Control tower audio captures moments before LaGuardia plane crash – audio “Stop, Truck 1. Stop,” the transmission says. The controller is then heard quickly diverting incoming aircraft from landing. Following the collision, audio released by LiveATC appears to show air traffic controllers discussing the incident. One controller says the impact “wasn’t good to watch”. Another responds: “Yeah, I know, I was here. I tried to reach out … We were dealing with an emergency earlier. I messed up.” “Nah, man, you did the best you could,” the other controller says in the recording. Donald Trump told reporters in response to the incident: “They made a mistake; it’s a dangerous business. That’s terrible.” Mark Carney, Canada’s prime minister, said the collision was “deeply saddening”. Sean Duffy, the US transportation secretary, said in a statement that “our prayers this morning are with the families impacted by the ground collision at LaGuardia”, and that the FAA was deploying a team to the site to support the investigation. Officials will look at whether air traffic control staffing levels were an issue in the deadly crash. Kathryn Garcia, the Port Authority executive director, said at a news conference that Forest and Gunther were both based in Canada. View image in fullscreen The aftermath of the collision at LaGuardia airport. Photograph: Anadolu/Getty Images “The loss of our two fellow crewmembers onboard Flight 8646 is a profound tragedy,” said Jason Ambrosi, president of the Air Line Pilots Association, the largest airline pilot union in the world. “These pilots dedicated their careers to the safe transport of passengers, and we are all thinking of their families, loved ones, and colleagues at Jazz Aviation during this devastating time.” Photos showed significant damage to the nose of the plane, which was tilted upwards. Stairways used to evacuate passengers from aircraft were pushed up to the emergency exits on the jet. A photo of the fire vehicle showed it had tipped on to its side. NBC News had earlier said a sergeant and an officer had broken limbs and were in stable condition at a hospital. The truck had been responding to a United Airlines flight, which had declared an emergency due to an odour reported onboard. Controllers told the aircraft that fire trucks were available on site. A 2025 FAA database showed that LaGuardia was in 2024 the 19th busiest out of more than 500 US airports, with more than 16.7 million passengers boarding there. A ground stop was also put in place on Monday morning at Newark Liberty international airport in New Jersey. ABC News reported that an air traffic control tower was evacuated due to reports of smoke. Separate reports indicated that a bus had caught on fire on the New Jersey Turnpike expressway near the airport and was sending smoke billowing into the air. Flight delays there subsequently mounted, with some exceeding an hour, as CNN transportation reporter Pete Muntean reported. The Associated Press contributed reporting",
+      "body_text": "At least 34 people were killed when a Colombian Air Force plane carrying 125 people crashed just after takeoff in the south of the country, authorities said. The defence minister, Pedro Sánchez, said the accident happened as the Lockheed Martin Hercules C-130 plane was taking off from Puerto Leguízamo, deep in Colombia’s southern Amazon region, on the border with Peru, as it transported troops from the armed forces. Maj Gen Carlos Fernando Silva, the chief of the Colombian air force, said the aircraft was carrying 11 air force members and 114 soldiers. He said that 48 injured people had been rescued but gave no figure for survivors or fatalities. Gustavo Petro, the Colombian president, posted that there was at least one confirmed death, 77 people in hospital and “43 people whose status is to be established”. The governor of the department of Putumayo, Jhon Gabriel Molina Acosta, told the television channel Caracol early in the evening that 34 deaths had been confirmed at that point, although the Colombian government has yet to officially verify the figure. View image in fullscreen Paramedics receive an injured person at CATAM airbase in Bogotá, Colombia. Photograph: Fuerzas Militares de Colombia Handout/EPA The mayor of Puerto Leguízamo, Emilio Augusto, told Radio Caracol that “medical capacity has been overwhelmed by the magnitude of the emergency”, and requested immediate support from the national and departmental governments to evacuate the injured. The armed forces deployed seven aircraft to transport the injured and posted a video of some of them arriving in the capital, Bogotá. They were all on stretchers – most of them motionless – some with oxygen cylinders and covered with thermal blankets, and one conscious and even able to take a few steps. Gustavo Petro, the Colombian president, described the crash as a “horrific accident that should never have happened”. In a lengthy post, apparently attempting to pre-empt potential criticism, Petro said he had been trying to renew the military fleet for years but has been hindered by “bureaucratic difficulties”. “If the civil or military administrative officials are not up to this challenge, they must be removed,” said Petro. The leading candidates for the Colombian presidency – the first round of which will take place in late May, when Petro will not run as there is no re-election – also posted messages mourning the tragedy and calling for investigations into its causes. Images shared online by local media outlets show a black cloud of smoke rising from a field where the plane crashed, a truck with soldiers rushing to the site and civilians trying to extinguish the fire. Sánchez did not specify the number of troops who were onboard the Hercules C-130. He said rescue teams had been sent to the site of the crash and that the cause of the accident still had not been determined. “This event is profoundly painful for the country,” Sánchez wrote. “We hope that our prayers can help to relieve some of the pain.” Sánchez later said: “The aircraft was in airworthy condition and the crew was duly qualified.” The minister added that, while the causes are still under investigation, it is already possible to rule out that the crash was caused by an attack from any of the numerous armed groups that plague Colombia. The US defence company Lockheed Martin did not immediately respond to a request for comment. At the end of February, another Hercules C-130 belonging to the Bolivian air force crashed in the populous city of El Alto, barely missing a residential block, killing more than 20 people and injuring another 30.",
       "difficulty_constant": 6.8,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "According to the passage, what was the primary cause of the runway closure at LaGuardia airport following the crash?",
+          "stem": "What can be inferred about the immediate aftermath of the plane crash in Puerto Leguízamo?",
           "options": {
-            "A": "The need to preserve evidence for the ongoing NTSB investigation.",
-            "B": "The presence of dangerous debris and hazardous materials at the site.",
-            "C": "The evacuation of the air traffic control tower due to smoke.",
-            "D": "The systematic failure of the airport's emergency response protocols."
-          },
-          "answer": "B",
-          "explanation": "文章明确提到 Homendy 表示由于现场存在大量的残骸和危险物质（amount of debris and hazardous material），跑道将保持关闭。"
-        },
-        {
-          "q_number": 2,
-          "stem": "What can be inferred from the air traffic control audio recordings mentioned in the text?",
-          "options": {
-            "A": "The controllers were unable to communicate with the aircraft prior to the crash.",
-            "B": "The fire truck was intentionally ignoring instructions from the control tower.",
-            "C": "The controller on duty acknowledged a possible error during the unfolding emergency.",
-            "D": "The emergency response team had already successfully cleared the runway."
-          },
-          "answer": "C",
-          "explanation": "文中录音显示，一名调度员表示“We were dealing with an emergency earlier. I messed up.”，这表明该调度员承认在之前的应急处置中可能存在失误。"
-        },
-        {
-          "q_number": 3,
-          "stem": "Why was the fire truck present on the runway when the collision occurred?",
-          "options": {
-            "A": "It was performing a routine safety inspection of the landing strip.",
-            "B": "It was responding to a mechanical failure involving a different aircraft.",
-            "C": "It was attempting to clear debris left by an earlier landing.",
-            "D": "It was transporting airport staff to the scene of a ground incident."
-          },
-          "answer": "B",
-          "explanation": "文中提到消防车当时正在响应另一起事故（responding to a separate incident），即一架联合航空的航班报告了异味并宣布了紧急状态。"
-        },
-        {
-          "q_number": 4,
-          "stem": "Which of the following is highlighted as a potential focus of the official investigation?",
-          "options": {
-            "A": "The training standards of Jazz Aviation pilots.",
-            "B": "The structural integrity of the CRJ-900 jet model.",
-            "C": "The sufficiency of air traffic control staffing levels.",
-            "D": "The impact of severe weather conditions on airport visibility."
-          },
-          "answer": "C",
-          "explanation": "文中明确指出官方调查人员将研究航空交通管制的人员配置水平（air traffic control staffing levels）是否是导致这起致命事故的一个问题。"
-        },
-        {
-          "q_number": 5,
-          "stem": "What is the tone of the passage regarding the incident at LaGuardia airport?",
-          "options": {
-            "A": "Critically condemnatory.",
-            "B": "Objective and reportorial.",
-            "C": "Speculative and alarmist.",
-            "D": "Subjectively empathetic."
-          },
-          "answer": "B",
-          "explanation": "文章主要通过引用各方官方声明（NTSB、FAA、航司代表）和客观记录（录音、数据、事实描述）来陈述事实，整体语调保持了新闻报道的客观性和陈述性。"
-        }
-      ]
-    },
-    {
-      "title": "Young Chinese-Irish ballroom dancer goes international",
-      "article_update_date": "03.24.2026",
-      "source_journal": "China Daily",
-      "body_text": "Kerry Sui and Francis Carty perform on the dance floor at Blackpool Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a 10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set to compete in Italy and perform on Chinese TV after winning the British juvenile ballroom championship. Kerry and Francis, who is also 10, won the British National Juvenile Ballroom trophy and took first prize last month in the juvenile Latin category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing. She started ballroom and Latin dancing four years ago and was partnered earlier this year with Francis, who lives in the English county of Shropshire. The two were friends before they performed together and Kerry said their friendship is one of the best things about her dancing partnership with Francis. Their hard work, under the guidance of teachers Laura O'Brien and David and Helen Truman, meant Kerry and Francis have seen quite a lot of success. \"When Francis is stressed, I can calm him down, because he hasn't really been in many big competitions, such as the nationals and internationals,\" Kerry said. \"My mum said I have to guide him.\" Francis said Kerry has a positive attitude and described her as always remaining upbeat. And they both have a dance that they like the least: the tango. \"The tango is like an angry dance, you have to be sharp,\" Kerry said. The dancers often visit each other's families and describe their friendship and their teachers' involvement as like being in a big family. She said a visit to China put a strain on the close bonds. \"I was in China for six weeks and there was a dance studio there where I would practice, but I felt lonely,\" Kerry said. Francis described the time they spent apart as \"horrible\". Kerry and Francis were training on Saturday in Wolverhampton, a city in England's West Midlands region, in advance of a competition in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall across parts of the United Kingdom. The pair head to Italy in January for a competition, before jetting off to China to appear on a TV show.",
-      "difficulty_constant": 5.2,
-      "question_type": "Reading Comprehension",
-      "questions": [
-        {
-          "q_number": 1,
-          "stem": "What is mentioned as a contributing factor to the success of Kerry Sui and Francis Carty?",
-          "options": {
-            "A": "Their long-term experience in professional dancing.",
-            "B": "The professional guidance provided by their teachers.",
-            "C": "Their frequent practice sessions in Italy and China.",
-            "D": "Their decision to move to the same city to train."
-          },
-          "answer": "B",
-          "explanation": "文章提到他们获得成功离不开老师Laura O'Brien以及David和Helen Truman的指导，对应文中Their hard work, under the guidance of teachers... meant Kerry and Francis have seen quite a lot of success。"
-        },
-        {
-          "q_number": 2,
-          "stem": "How does Kerry handle the stress associated with dancing competitions?",
-          "options": {
-            "A": "She relies on her parents to guide her partner.",
-            "B": "She focuses exclusively on perfecting the tango.",
-            "C": "She provides emotional support to her partner.",
-            "D": "She avoids practicing in large stadiums."
-          },
-          "answer": "C",
-          "explanation": "文中Kerry表示当Francis感到压力时，她能让他冷静下来，因为她更有经验，并提到她妈妈让她去引导Francis，这说明她为同伴提供了情感支持。"
-        },
-        {
-          "q_number": 3,
-          "stem": "What can be inferred about the pair's feelings toward the tango?",
-          "options": {
-            "A": "They find it emotionally and technically demanding.",
-            "B": "They consider it their most successful performance style.",
-            "C": "They are eager to master it to win more prizes.",
-            "D": "They avoid practicing it because it is too simple."
+            "A": "The rescue operations were hindered by the lack of local medical resources.",
+            "B": "The Colombian government confirmed exactly 34 fatalities within hours of the crash.",
+            "C": "All injured passengers were transported to Bogotá in critical and motionless conditions.",
+            "D": "The cause of the crash was quickly identified as an attack by armed groups."
           },
           "answer": "A",
-          "explanation": "文中提到他们最不喜欢tango，Kerry称其为一种愤怒的舞蹈，且要求动作sharp（锋利/严谨），这暗示了该舞种对情绪表达和技术细节要求极高。"
+          "explanation": "文章提到Puerto Leguízamo市长表示“medical capacity has been overwhelmed”（医疗能力不堪重负），这说明当地救援确实面临资源短缺问题，选项A符合文意。B项说法与文中“government has yet to officially verify”矛盾；C项中“all”过于绝对；D项与文中明确排除武装袭击原因矛盾。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary reason President Gustavo Petro mentions 'bureaucratic difficulties' in his statement?",
+          "options": {
+            "A": "To apologize for the poor condition of the Hercules C-130 fleet.",
+            "B": "To deflect potential criticism regarding his administration's failure to modernize the military.",
+            "C": "To justify the removal of military officials responsible for the crash.",
+            "D": "To highlight the financial constraints preventing the purchase of new aircraft."
+          },
+          "answer": "B",
+          "explanation": "文中指出Petro提到行政阻力是为了“pre-empt potential criticism”（预先应对潜在的批评），说明他在为政府可能面临的指责进行开脱，选项B最为准确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, what is the official stance of the Colombian government regarding the cause of the accident?",
+          "options": {
+            "A": "It was caused by a mechanical failure in the Hercules C-130 model.",
+            "B": "It was a tragic accident caused by pilot error.",
+            "C": "The cause is currently undetermined and under investigation.",
+            "D": "It was caused by negligence within the military administrative staff."
+          },
+          "answer": "C",
+          "explanation": "文中多次提到“cause of the accident still had not been determined”以及“while the causes are still under investigation”，说明目前官方尚未定论，选项C正确。"
         },
         {
           "q_number": 4,
-          "stem": "The phrase 'put a strain on' in the fifth paragraph most likely means:",
+          "stem": "What does the author imply by mentioning the Bolivian air force crash at the end of the text?",
           "options": {
-            "A": "strengthened.",
-            "B": "tested.",
-            "C": "formalized.",
-            "D": "interrupted."
+            "A": "To suggest that Hercules C-130 planes are inherently unsafe for mountainous regions.",
+            "B": "To emphasize that air crashes are a recurring problem in neighboring South American nations.",
+            "C": "To provide a point of comparison regarding the scale of casualties in air disasters.",
+            "D": "To show that such tragedies are not unique to Colombia and happen in the region recently."
           },
-          "answer": "B",
-          "explanation": "结合语境，Kerry去中国六周，两人分开感到孤独和“horrible”，这表明这段分开的经历对他们的友谊和紧密联系造成了压力或考验。"
+          "answer": "D",
+          "explanation": "文章结尾补充了玻利维亚发生类似事故的信息，旨在说明此类悲剧近期在地区内并非孤立事件，选项D准确概括了其叙事功能。"
         },
         {
           "q_number": 5,
-          "stem": "Which of the following is true about Kerry and Francis's upcoming plans?",
+          "stem": "Which of the following best describes the tone of the Colombian government officials' statements?",
           "options": {
-            "A": "They will skip the competition in Stoke-on-Trent.",
-            "B": "They are planning to permanently move to China.",
-            "C": "They are preparing for a performance in Italy.",
-            "D": "They will appear on a television show in the United Kingdom."
+            "A": "Defensive and evasive.",
+            "B": "Critical and objective.",
+            "C": "Mournful yet professionally cautious.",
+            "D": "Urgent and emotionally volatile."
           },
           "answer": "C",
-          "explanation": "文章结尾明确提到这对搭档一月份会去意大利参加比赛，随后前往中国参加电视节目。A选项中Stoke-on-Trent的比赛是因为天气取消，不是他们主动放弃。"
+          "explanation": "官员们在表达哀悼（“profoundly painful”、“prayers”）的同时，对于伤亡数字、事故原因等关键信息保持谨慎态度（如等待官方核实、拒绝妄下结论），选项C体现了这种双重基调。"
         }
       ]
     },
     {
-      "title": "Chinese, Russian and Indian ministers meet",
+      "title": "UK and China allow more direct flights",
       "article_update_date": "03.24.2026",
       "source_journal": "China Daily",
-      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
-      "difficulty_constant": 7.2,
+      "body_text": "The United Kingdom and China have agreed to raise the limit on the number of direct weekly flights between the two nations to 150 from 100. The UK government said the move was the first of several \"open skies\" deals struck in an effort to increase trade post-Brexit. The deal follows an agreement in October 2016 to raise the limit from 40 to 100. Such services are regulated internationally, typically through bilateral agreements that limit the number and type of flights. Currently, despite the deal allowing up to 100 flights a week, there are around 60. UK Transport Secretary Chris Grayling said the new agreement is an \"important part of preparing Britain\" for its future outside the European Union. \"It just underlines that Britain will do well, regardless of the outcome of the Brexit negotiations,\" Grayling said. Several new services have been set up recently, including a direct route between Manchester and Beijing operated by Hainan Airlines, and China Airlines' renewal of a London-Taipei link. Zheng Lei, director of the Centre for Aviation Research at the University of Surrey, said the UK government may be anticipating continued growth in the number of visitors from China. Between January and June, 115,000 visitors from China arrived in the UK, an increase of 47 percent on the same period in 2016. \"They are possibly expecting more demand,\" Zheng said. \"And China is in the process of negotiating traffic restrictions with countries in continental Europe as well, including France. So, the UK is trying to get ahead and be more proactive.\" Zheng said demand is what will ultimately lead to airlines and airports establishing new routes. \"Eventually, it's down to the airlines to decide whether or not to utilize the new traffic rights,\" he said. \"If there is no demand, the airlines won't operate the route, otherwise they will lose money. Profitability is really the main concern.\" Local authorities in several large UK cities, including Glasgow, Edinburgh, and Birmingham, have lobbied extensively for direct links with China. Denise Hill, head of market strategy at VisitScotland, welcomed the news. \"The relaxation of restrictions on flights between China and the UK is great news and we are confident that, when this results in a reappraisal of the options open to them, airlines will be encouraged by the strong performance delivered by Scotland,\" Hill said.",
+      "difficulty_constant": 6.8,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "According to the passage, what is the primary objective of the China-Russia-India trilateral meeting in New Delhi?",
+          "stem": "According to the passage, why did the UK government decide to increase the flight limit between the UK and China?",
           "options": {
-            "A": "To reorganize the global economic architecture through exclusive partnerships.",
-            "B": "To discuss and strengthen outcomes of existing frameworks like BRICS and the SCO.",
-            "C": "To form a military alliance against external threats in the Asia-Pacific region.",
-            "D": "To host the Ninth BRICS Summit for the second time in Xiamen."
+            "A": "To satisfy the demands of major local authorities in Scotland.",
+            "B": "To prepare for post-Brexit trade expansion.",
+            "C": "To replace the previous agreement made in October 2016.",
+            "D": "To resolve the ongoing issues with the European Union."
           },
           "answer": "B",
-          "explanation": "文章明确提到三方旨在加强BRICS和上海合作组织的成果。选项A中'exclusive'与文中的'inclusive'矛盾，选项C中未提及军事联盟，选项D中描述与事实不符。"
+          "explanation": "文章提到“The UK government said the move was the first of several 'open skies' deals struck in an effort to increase trade post-Brexit”，明确指出此举是为了增加脱欧后的贸易往来。"
         },
         {
           "q_number": 2,
-          "stem": "Which of the following phrases best characterizes the 'regional security and economic architecture' advocated by the three countries?",
+          "stem": "What does the current situation regarding flight volume reveal about the UK-China aviation relationship?",
           "options": {
-            "A": "Isolationist and protectionist in its approach to trade.",
-            "B": "Strictly limited to the political interests of the three member states.",
-            "C": "Open, inclusive, and based on multilateral principles.",
-            "D": "Prioritizing individual national security over international law."
+            "A": "Airlines are fully utilizing the current flight capacity.",
+            "B": "Government agreements are the only factors determining flight routes.",
+            "C": "The current flight limit is higher than the actual demand for services.",
+            "D": "The number of direct flights has decreased since 2016."
           },
           "answer": "C",
-          "explanation": "文章第二段明确指出该架构是'open, inclusive and based on multilateralism and universally recognized principles of international law'，直接支持选项C。"
+          "explanation": "文中提到虽然协议允许每周100个航班，但目前实际上只有约60个，说明目前的运力供给超出了实际运营需求。"
         },
         {
           "q_number": 3,
-          "stem": "What does the phrase 'usher in the second golden decade of BRICS cooperation' imply?",
+          "stem": "What can be inferred from Zheng Lei's comments regarding the UK's motivation?",
           "options": {
-            "A": "The termination of BRICS cooperation after the first decade.",
-            "B": "A commitment to deepen and extend the success of BRICS collaboration.",
-            "C": "The replacement of BRICS with a more effective international organization.",
-            "D": "A purely symbolic gesture without concrete economic goals."
+            "A": "The UK is proactively competing for Chinese visitors against other European nations.",
+            "B": "The UK aims to decrease its reliance on mainland European aviation markets.",
+            "C": "The UK expects the number of visitors from China to stabilize soon.",
+            "D": "The UK is forcing airlines to establish new routes to ensure profitability."
           },
-          "answer": "B",
-          "explanation": "该短语出现在谈论落实BRICS峰会成果之后，暗示的是对合作广度和深度的进一步拓展，旨在延续并提升之前的合作成就。"
+          "answer": "A",
+          "explanation": "郑磊提到中国也在与欧洲大陆国家谈判，英国此举是为了“get ahead and be more proactive”，即在争取中国游客方面占据先机。"
         },
         {
           "q_number": 4,
-          "stem": "According to the joint statement, the trilateral cooperation is intended to be:",
+          "stem": "According to the passage, what is the ultimate deciding factor for airlines to start new routes?",
           "options": {
-            "A": "Targeted against specific regional powers.",
-            "B": "A defensive mechanism for regional territorial disputes.",
-            "C": "A neutral platform for dialogue not directed against any other country.",
-            "D": "An alternative to global organizations like the United Nations."
+            "A": "Government subsidies for international travel.",
+            "B": "Pressure from local authorities in UK cities.",
+            "C": "The availability of new traffic rights.",
+            "D": "The profitability and market demand for the routes."
           },
-          "answer": "C",
-          "explanation": "文章倒数第二段明确提到'such cooperation is not directed against any other country'，直接对应选项C。"
+          "answer": "D",
+          "explanation": "文中明确指出“Eventually, it's down to the airlines to decide... If there is no demand, the airlines won't operate the route... Profitability is really the main concern.”"
         },
         {
           "q_number": 5,
-          "stem": "What is the implied role of the Shanghai Cooperation Organization (SCO) as described in the text?",
+          "stem": "What is the primary sentiment of Denise Hill regarding the new agreement?",
           "options": {
-            "A": "A forum solely focused on resolving historical security grievances.",
-            "B": "An essential tool for fostering multilateral interaction in the region.",
-            "C": "A regulatory body for international trade in the Asia-Pacific.",
-            "D": "An experimental framework that replaces the need for trilateral dialogue."
+            "A": "Skeptical about the potential for Scottish tourism growth.",
+            "B": "Optimistic that airlines will reconsider Scotland due to the policy change.",
+            "C": "Concerned that the competition from other UK cities will hurt Scotland.",
+            "D": "Indifferent as the agreement does not affect regional markets."
           },
           "answer": "B",
-          "explanation": "文章提到SCO是'an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region'，选项B是对这一表述的同义改写。"
+          "explanation": "Denise Hill认为这是好消息，并表示相信当航空公司重新评估选项时，苏格兰强劲的市场表现会吸引航空公司。"
         }
       ]
     }
