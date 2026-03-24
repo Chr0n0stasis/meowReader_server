@@ -254,12 +254,12 @@ class DataFetcher:
         
         for idx, item in enumerate(book.get_items()):
             if item.get_type() == ebooklib.ITEM_DOCUMENT:
-                soup = BeautifulSoup(item.get_body_content(), 'html.parser')
+                soup = BeautifulSoup(item.get_content(), 'html.parser')
                 text = soup.get_text(separator='\n', strip=True)
                 title_val = soup.title.string if soup.title else None
                 title = str(title_val).strip() if title_val else f"Chapter {idx}"
                 
-                if len(text) > 1000:
+                if len(text) > 500:
                     art_id = f"epub_{idx}"
                     articles.append({
                         'id': art_id,
