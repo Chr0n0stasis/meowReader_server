@@ -1,36 +1,31 @@
 sources:
-  - journal_name: Nature
-    source_type: rss
-    update_frequency: daily
-    url: https://www.nature.com/nature.rss
-    last_fetched_date: ""
-
-  - journal_name: China Daily
-    source_type: rss
-    update_frequency: daily
-    url: https://www.chinadaily.com.cn/rss/world_rss.xml
-    last_fetched_date: ""
-
-  - journal_name: The Guardian
-    source_type: rss
-    update_frequency: daily
-    url: https://www.theguardian.com/world/rss
-    last_fetched_date: ""
-
-  - journal_name: Scientific American
-    source_type: rss
-    update_frequency: daily
-    url: https://rss.sciam.com/ScientificAmerican-Global
-    last_fetched_date: ""
-
-  - journal_name: Economist
-    source_type: github
-    update_frequency: weekly
-    url: hehonghui/awesome-english-ebooks
-    last_fetched_date: ""
-
-  - journal_name: New Yorker
-    source_type: github
-    update_frequency: monthly
-    url: hehonghui/awesome-english-ebooks
-    last_fetched_date: ""
+- journal_name: Nature
+  last_fetched_date: 03.24.2026
+  source_type: rss
+  update_frequency: daily
+  url: https://www.nature.com/nature.rss
+- journal_name: China Daily
+  last_fetched_date: 03.24.2026
+  source_type: rss
+  update_frequency: daily
+  url: https://www.chinadaily.com.cn/rss/world_rss.xml
+- journal_name: The Guardian
+  last_fetched_date: 03.24.2026
+  source_type: rss
+  update_frequency: daily
+  url: https://www.theguardian.com/world/rss
+- journal_name: Scientific American
+  last_fetched_date: ''
+  source_type: rss
+  update_frequency: daily
+  url: https://rss.sciam.com/ScientificAmerican-Global
+- journal_name: Economist
+  last_fetched_date: 03.24.2026
+  source_type: github
+  update_frequency: weekly
+  url: hehonghui/awesome-english-ebooks
+- journal_name: New Yorker
+  last_fetched_date: ''
+  source_type: github
+  update_frequency: monthly
+  url: hehonghui/awesome-english-ebooks
