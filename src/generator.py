@@ -98,6 +98,11 @@ class MockPaperGenerator:
             'papers': papers
         }
 
+        if not papers:
+            logging.error("Failed to generate any questions. Exiting to prevent publishing empty paper.")
+            import sys
+            sys.exit(1)
+
         self._save_artifacts(date_str, strategy, output_data)
 
     def _extract_text(self, item):
