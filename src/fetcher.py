@@ -185,8 +185,20 @@ class DataFetcher:
                 logging.info(f"{source['journal_name']} EPUB already up-to-date ({publish_date}).")
                 return source
 
-            # Download EPUB temporarily
-            epub_content = latest_file.decoded_content
+            # Download EPUB temporarily via direct download_url to avoid 'unsupported encoding: none' for large files
+            download_url = latest_file.download_url
+            if not download_url:
+                logging.error(f"No download URL for {latest_file.name}")
+                return source
+
+            req = urllib.request.Request(download_url, headers={'User-Agent': 'Mozilla/5.0 (meowReader)'})
+            try:
+                with urllib.request.urlopen(req, timeout=30) as response:
+                    epub_content = response.read()
+            except Exception as e:
+                logging.error(f"Failed to download EPUB via stream: {e}")
+                return source
+                
             self.save_raw_source(source, publish_date, "epub", epub_content, mode='wb')
             epub_path = self.get_raw_source_path(source, publish_date, "epub")
             

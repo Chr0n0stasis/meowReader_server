@@ -37,9 +37,7 @@ class MockPaperGenerator:
             logging.error("GEMINI_API_KEY environment variable not set. Gemini generation will fail.")
             self.client = None
         else:
-            self.client = genai.Client(api_key=self.api_key)
-
-        self.model_name = 'gemini-3.1-pro' if self.api_key else 'dummy'
+            self.model_names = ['gemini-3.0-pro', 'gemini-3.1-pro', 'gemini-2.5-pro', 'gemini-2.0-flash', 'gemini-1.5-pro'] if self.api_key else ['dummy']
 
     def run(self, strategy="common"):
         date_str = datetime.now().strftime("%m.%d.%Y")
@@ -152,20 +150,25 @@ class MockPaperGenerator:
 {text}
 """
         import time
-        for attempt in range(retries):
-            try:
-                response = self.client.models.generate_content(
-                    model=self.model_name,
-                    contents=prompt,
-                    config=types.GenerateContentConfig(
-                        response_mime_type="application/json",
-                        response_schema=MockPaperOutput
+        for model_variant in self.model_names:
+            for attempt in range(retries):
+                try:
+                    response = self.client.models.generate_content(
+                        model=model_variant,
+                        contents=prompt,
+                        config=types.GenerateContentConfig(
+                            response_mime_type="application/json",
+                            response_schema=MockPaperOutput
+                        )
                     )
-                )
-                return json.loads(response.text)
-            except Exception as e:
-                logging.error(f"Gemini API error (attempt {attempt+1}/{retries}): {e}")
-                time.sleep(2)
+                    logging.info(f"Successfully generated with model {model_variant}")
+                    return json.loads(response.text)
+                except Exception as e:
+                    logging.error(f"Gemini API error with {model_variant} (attempt {attempt+1}/{retries}): {e}")
+                    # Only sleep if it's a transient error, but if not found we break straight to next model
+                    if "is not found" in str(e) or "404" in str(e):
+                        break
+                    time.sleep(2)
         return None
 
     def _save_artifacts(self, date_str, strategy, data):

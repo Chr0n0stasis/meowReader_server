@@ -5,12 +5,6 @@ sources:
     url: https://www.nature.com/nature.rss
     last_fetched_date: ""
 
-  - journal_name: Science
-    source_type: rss
-    update_frequency: daily
-    url: https://www.science.org/rss/news_current.xml
-    last_fetched_date: ""
-
   - journal_name: China Daily
     source_type: rss
     update_frequency: daily
