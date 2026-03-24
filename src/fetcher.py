@@ -15,6 +15,11 @@ from newspaper import Article, Config, ArticleException
 from github import Github
 import ebooklib
 from ebooklib import epub
+import warnings
+
+# Suppress harmless ebooklib warnings mapping to futures
+warnings.filterwarnings('ignore', category=UserWarning, module='ebooklib.epub')
+warnings.filterwarnings('ignore', category=FutureWarning, module='ebooklib.epub')
 from bs4 import BeautifulSoup
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
