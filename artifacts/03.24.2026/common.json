@@ -2,282 +2,282 @@
   "group_update_date": "03.24.2026",
   "papers": [
     {
-      "title": "The world just lived through the 11 hottest years on record — what now?",
+      "title": "Forty-five years of progress after a key paper about the evolution of cooperation",
       "article_update_date": "03.24.2026",
       "source_journal": "Nature",
-      "body_text": "The past 11 years (2015-2025) have been the hottest on record, with last year being the second or third warmest year since observations began, according to a report released today by the World Meteorological Organization (WMO). The State of the Global Climate 2025 report, which tracks important climate indicators, found that atmospheric carbon dioxide concentrations and ocean temperatures reached record levels last year. Global surface temperatures were slightly lower in 2025 than the previous year — the hottest on record — but continued a run of exceptionally high temperatures, the report states. The amount of sea ice in the Antarctic and the Arctic was among the lowest recorded since 1979. The speed at which temperatures are rising, the ocean is heating up and glacial ice mass is melting is concerning, says Mandy Freund, a climate scientist at the University of Melbourne in Australia. “We seem to be entering this new era where temperatures will be significantly higher than what they were ten years ago,” says climate scientist Sarah Perkins-Kirkpatrick, who is from the Australian National University in Canberra. The past three years have seen large changes in temperature that could only be a result of climate change, she adds. Energy imbalance For the first time, the report includes a measure of the accumulation of heat on Earth and in the atmosphere. The indicator, called the Earth’s energy imbalance (EEI), has been used by climate scientists for at least a decade, and is the difference between the amount of energy that the Earth receives from the Sun and the amount radiated back into space. It allows scientists to monitor the rate of global warming. A positive EEI value means that the total amount of heat stored on Earth is increasing. Last year, the EEI reached its highest level since observations started in 1960, the report states. The increased concentration of greenhouse gases in the atmosphere traps heat on Earth, reducing the amount of warmth that is radiated back into space. Thomas Mortlock, a climate analyst at the University of New South Wales in Sydney, Australia, says that the inclusion of EEI in the WMO report is notable. Typically, the rise in surface temperatures is what makes headlines, but the atmosphere absorbs just 1% of the planet’s excess heat so using it to gauge the severity of global warming is “quite misleading”, he says. More than “91% of all of the excess heat that has been received by the Earth since the 1970s has been absorbed in the oceans”, he adds. Mortlock suggests that the planet’s energy imbalance is a much better descriptor to understand the true impact of global warming. Freund adds that EEI is also a clearer measure of long-term changes than comparing average temperatures, which can fluctuate year to year owing to events with short-term impacts, such as volcanic eruptions or the La Niña weather pattern. Record greenhouse gases",
+      "body_text": "Ever since Charles Darwin, scientists studying evolution have grappled with how cooperative behaviours that are costly to an individual but beneficial to others can be consistent with maximal fitness. In 1981, writing in Science, Robert Axelrod and William D. Hamilton1 presented key findings on how such cooperation can evolve. They accomplished this by weaving together two emerging ideas of the time in this area of research. Nature 651, 894-895 (2026) doi: https://doi.org/10.1038/d41586-026-00802-7 References Axelrod, R. & Hamilton, W. D. Science 211, 1390–1396 (1981). Maynard Smith, J. & Price, G. R. Nature 246, 15–18 (1973). Trivers, R. L. Q. Rev. Biol. 46, 35–57 (1971). Hamilton, W. D. J. Theor. Biol. 7, 1–16 (1964). Rapoport, A. & Chammah, A. M. Prisoner’s Dilemma: A Study in Conflict and Cooperation (Univ. Michigan Press, 1965). Hammerstein, P. in Genetic and Cultural Evolution of Cooperation (ed. Hammerstein, P.) 83–93 (MIT Press, 2003). Clutton-Brock, T. Nature 462, 51–57 (2009). Wu, J. & Axelrod, R. J. Conflict Resolut. 39, 183–189 (1995). Sugden, R. The Economics of Rights, Co-operation and Welfare (Blackwell, 1986). Lenfesty, H., Mathew, S., Fikes, T., Ross, C. T. & Boyd, R. Proc. R. Soc. B 291, 20240861 (2024). van Veelen, M., García, J., Rand, D. G. & Nowak, M. A. Proc. Natl Acad. Sci. USA 109, 9929–9934 (2012). Graser, C. & van Veelen, M. Tinbergen Institute Discussion Paper No. TI 2024-022/I (2024). Mathew, S. & Boyd, R. Preprint at PsyArXiv https://doi.org/10.31234/osf.io/e5zuc_v1 (2026). Hruschka, D. J. & Henrich, J. J. Theor. Biol. 239, 1–15 (2006). Leimar, O. & Bshary, R. Proc. Natl Acad. Sci. USA 121, e2317736121 (2024). Xue, M. & Silk, J. B. Evol. Hum. Behav. 33, 17–25 (2012). Download references Competing Interests The authors declare no competing interests. Related Articles Subjects",
       "difficulty_constant": 8.5,
       "question_type": "Use of English",
       "questions": [
         {
           "q_number": 1,
-          "stem": "The WMO report mentions that global surface temperatures in 2025 were slightly lower than the previous year, yet it emphasizes that this does not indicate a ________ of the warming trend.",
+          "stem": "Ever since Charles Darwin, scientists studying evolution have ______ with how cooperative behaviours that are costly to an individual but beneficial to others can be consistent with maximal fitness.",
           "options": {
-            "A": "cessation",
-            "B": "fluctuation",
-            "C": "deviation",
-            "D": "manifestation"
+            "A": "contended",
+            "B": "grappled",
+            "C": "tampered",
+            "D": "shuffled"
+          },
+          "answer": "B",
+          "explanation": "本题考查动词辨析。grapple with意为“努力克服/应对/探讨（困难问题）”，与上下文语境中科学家面对进化论难题的语境最为吻合。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Cooperative behaviours are described as those that are costly to an individual but ______ to others, posing a challenge to evolutionary fitness.",
+          "options": {
+            "A": "detrimental",
+            "B": "beneficial",
+            "C": "indifferent",
+            "D": "superficial"
+          },
+          "answer": "B",
+          "explanation": "本题考查形容词对比关系。句中使用了but进行转折，costly（代价大的）与beneficial（有益的）形成对比，符合逻辑。"
+        },
+        {
+          "q_number": 3,
+          "stem": "In 1981, writing in Science, Robert Axelrod and William D. Hamilton presented ______ findings on how such cooperation can evolve.",
+          "options": {
+            "A": "key",
+            "B": "obscure",
+            "C": "trivial",
+            "D": "random"
           },
           "answer": "A",
-          "explanation": "文章提到2025年气温略低但仍处于极高水平，说明变暖趋势并未停止。Cessation意为停止，符合语境。Fluctuation意为波动，文中虽提到气温波动，但此处需填入的是趋势的状态。"
-        },
-        {
-          "q_number": 2,
-          "stem": "The Earth’s energy imbalance (EEI) is considered a more effective indicator because it allows scientists to monitor the ________ of global warming more accurately than surface temperatures alone.",
-          "options": {
-            "A": "dimension",
-            "B": "velocity",
-            "C": "prevalence",
-            "D": "magnitude"
-          },
-          "answer": "B",
-          "explanation": "文中提到EEI能帮助科学家监测全球变暖的“rate”，即速率，对应velocity。magnitude意为量级，虽可描述变暖程度，但文中重点在于变化的速度与积累。"
-        },
-        {
-          "q_number": 3,
-          "stem": "Thomas Mortlock suggests that relying solely on atmospheric temperature data to gauge global warming is ________, as the atmosphere absorbs only a tiny fraction of excess heat.",
-          "options": {
-            "A": "erroneous",
-            "B": "superficial",
-            "C": "misleading",
-            "D": "insufficient"
-          },
-          "answer": "C",
-          "explanation": "原文直接引用了Thomas Mortlock的原话，使用“quite misleading”来评价仅使用大气温度作为评估指标的行为，故选misleading。"
+          "explanation": "本题考查形容词搭配。作者在学术刊物Science上发表文章，通常指重要的（key）研究发现，其他选项均不符合学术严肃性语境。"
         },
         {
           "q_number": 4,
-          "stem": "The passage highlights that the vast majority of excess heat is absorbed by the oceans, which makes ocean heat content a more ________ metric for long-term climate analysis.",
+          "stem": "The authors ______ this by weaving together two emerging ideas of the time in this area of research.",
           "options": {
-            "A": "resilient",
-            "B": "robust",
-            "C": "explicit",
-            "D": "transient"
+            "A": "accomplished",
+            "B": "forfeited",
+            "C": "abrogated",
+            "D": "interfered"
           },
-          "answer": "B",
-          "explanation": "Robust在这里意为“强有力的、可靠的”，符合科学指标对于长期气候分析的要求。相比之下，A、C、D项语义不符。"
+          "answer": "A",
+          "explanation": "本题考查动词用法。根据上下文，作者通过整合两个新思想成功地（accomplished）解释了合作如何演化。"
         },
         {
           "q_number": 5,
-          "stem": "Unlike atmospheric temperature, which is often ________ by short-term events like volcanic eruptions, EEI provides a more stable view of the climate.",
+          "stem": "The researchers made progress by ______ together two emerging ideas of the time in this area of research.",
           "options": {
-            "A": "compromised",
-            "B": "impacted",
-            "C": "obscured",
-            "D": "skewed"
+            "A": "tearing",
+            "B": "weaving",
+            "C": "breaking",
+            "D": "discarding"
           },
-          "answer": "D",
-          "explanation": "文章提到平均气温会由于火山爆发等短期事件而波动，导致数据失真。Skewed意为“偏斜的、有偏差的”，最准确地描述了短期事件对长期温度趋势统计的影响。"
+          "answer": "B",
+          "explanation": "本题考查动词语义。weave together意为“编织在一起/整合”，指将两个独立的研究思想结合起来，符合学术创新方法论的表达。"
         }
       ]
     },
     {
-      "title": "Elusive ‘nuclear clocks’ tick closer to reality — after decades in the making",
+      "title": "How the idea of human superiority over nature was invented",
       "article_update_date": "03.24.2026",
       "source_journal": "Nature",
-      "body_text": "Researchers are attempting to build the world’s first nuclear clock. This is a view inside the vacuum chamber that holds crystals doped with the isotope thorium-229, which can be excited by a laser.Credit: Ye Labs/JILA/NIST/University of Colorado Denver, Colorado Physicists are getting closer to creating a long-sought ‘nuclear clock’. This device would keep time by measuring energy transitions in the nuclei of atoms and could become the most precise clock on the planet. Decades ago, scientists predicted that the isotope thorium-229 could be used in such a clock, but they couldn’t pin down its unusual nuclear energy transition. That feat, achieved with a laser in 2024, started the countdown to a nuclear clock. ‘Nuclear clock’ breakthrough paves the way for super-precise timekeeping Now, such a clock is “way closer than people think”, says Eric Hudson, a physicist at the University of California, Los Angeles, who is working on one. “You’ll see nuclear-clock measurements in 2026, I’m sure.” Nearly a dozen research teams, spread across China, Europe, Japan and the United States, are closing in on assembling the components of such a clock, including a source of 229Th — which is radioactive — and a powerful continuous-wave ultraviolet laser to excite the energy transition. At the American Physical Society (APS) Global Physics Summit in Denver, Colorado, this week, researchers provided updates on their progress, including details of laser development. Claire Cramer, the executive director of quantum science at the University of California, Berkeley, who was in attendance, expressed optimism about the potential of solid-state nuclear clocks: “This is a really, really promising technology for commercial applications.” That’s because nuclear clocks could be resilient to noise and have a compact design for use outside the laboratory. They might also surpass the precision of optical atomic clocks, the field’s current top timekeepers, which lose only one second every 40 billion years. Laser jockeying Timekeeping, whether in a pocket watch or a physics lab, boils down to counting rapid, regular events — the ‘ticks’ in any clock. In optical atomic clocks, these events are the hopping of electrons in an atom between a ground and an excited energy state. A laser with a wavelength in the 350- to 750-nanometre range (the visible, or optical, part of the electromagnetic spectrum) excites this transition, which can ‘tick’ trillions of times per second. By contrast, a nuclear clock would count transitions between nuclear states of 229Th. These have the same number of protons and neutrons, but different energies depending on how the particles are squeezed together in the nucleus. For half a century, the precise energy of the 229Th transition remained uncertain. Several independent research groups began to close in on an answer a few years ago1. The search culminated in a 2024 experiment2 led by Chuankun Zhang, a physicist now at the California Institute of Technology in Pasadena, and Jun Ye, a physicist at the JILA research institute in Boulder, Colorado. Using a frequency comb — a laser with about 30 million frequencies that can hit a crystal simultaneously — Zhang, Ye and their colleagues pinpointed the transition with ultra-high precision. To access it in a functioning nuclear clock, however, scientists now need a powerful and stable continuous-wave laser with an ultraviolet wavelength of around 148 nanometres. And no such laser has been made. A group based at Tsinghua University in Beijing, China, has taken some of the most promising strides towards constructing one. Last month, the team reported in Nature3 that it had delivered 100 nanowatts of power at 148.4 nm. Although researchers have praised the advance, some at the APS meeting expressed hesitation about the laser’s long-term prospects, because it requires heating toxic cadmium vapour to 550 ºC. Another approach converts an optical laser’s wavelength to 148 nm with a specialized crystal. Ye said that preliminary tests with a particular crystal have provided a nearly stable 40 microwatts of power. He did not disclose the material’s identity, instead saying that it is “tremendously promising”. But his group collaborates with IPG Photonics, a laser manufacturer based in Marlborough, Massachusetts, which has filed a patent for a method of growing specialized strontium tetraborate crystals.",
+      "body_text": "A young girl plays a game of chess with a chimpanzee at London Zoo in the 1950s.Credit: William Vanderson/Fox Photos/Getty Animate: How Animals Shape the Human Mind Michael Bond Picador (2026) Humans are animals. This statement, although true, is unsettling for many people. Such discomfort reveals a deep ambivalence about how we see ourselves — a part of nature, yet somehow different from the rest of it. Could tracking animals’ health help to avert the next pandemic? In Animate, science writer Michael Bond explores how human relationships with other animals have changed over time, and what those shifts mean for both them and us. The topic has never been more urgent. As the environmental consequences of our actions increasingly threaten our own survival, humans are reminded that we are part of Earth’s system, not its masters. Animate challenges the supposed boundary between humans and other animals, arguing that it is neither fixed nor ancient. Our ancestors’ fascination with animals is vividly preserved in cave art that depicts many more beasts than it does people. Only in the past few millennia — under the influence of classical philosophy, Christian theology and Enlightenment-era rationalism — did humans come to see themselves as distinct, set apart by reason, language and the possession of a soul. As Bond argues, this separation was not accidental: human exceptionalism and the belief that we could transcend our bodily limits helped to ease anxieties about our mortality, and legitimize the widespread use of animals for labour, warfare and entertainment. The great divide Humans increasingly cast themselves not as part of nature, but as its masters and stewards. Although people had been hunting and eating animals for millennia, farming animals for consumption only emerged during the Neolithic period, some 10,000 years ago. How ‘forest bathing’ keeps lungs healthy The divide has also shaped human society. As early world views that saw humans, animals and spirits as one interconnected system gave way to more abstract, hierarchical ideas about life, people applied the same logic to human groups. Dehumanization — portraying people as more ‘animal-like’ — justified domination, exclusion and selective empathy. Moral concern became conditional; inequality was normalized; and animal metaphors were used to rationalize colonialism, imperialism and interventions, which were often framed as ‘civilizing’ missions. Distancing ourselves from animals created a chasm that some people eventually fell into, suggests Bond. Forays into psychology Reinforcing a sharp boundary between humans and other animals has had unintended costs, but it has also created space for modern explorations of human psychology. Naturalist E. O. Wilson’s biophilia hypothesis — the idea that humans are naturally drawn to life and lifelike processes — which was published in his 1984 book Biophilia, has since gained empirical support. Studies show, for instance, that children pay more attention to animals than to objects, and prefer interacting with live animals over engaging toys1. Although Bond does not directly cite the biophilia hypothesis, he documents a similar evolved attentional bias towards animals, drawing on research on visual perception, neuroscience and evolutionary psychology. He argues that the long amount of time that our predecessors spent living among wild animals shaped our swift detection of and strong emotional responses to animate beings. However, recognizing this evolved sensitivity only highlights how inconsistent our attitudes towards different animals can be. As psychologist Hal Herzog notes in his book of the same name, and as Bond reiterates, “Some we love, Some we hate, Some we eat”. These inconsistencies reflect human needs as much as animal characteristics.",
       "difficulty_constant": 8.5,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "According to the passage, why is the development of a 'nuclear clock' considered a significant milestone?",
+          "stem": "According to the first paragraph, the 'deep ambivalence' humans feel towards animals stems from the conflict between ______.",
           "options": {
-            "A": "It utilizes radioactive materials that were previously deemed too dangerous for lab use.",
-            "B": "It promises to improve upon the precision of existing optical atomic clocks.",
-            "C": "It eliminates the need for expensive and complex lasers in timekeeping.",
-            "D": "It relies on electron hopping between energy states rather than nuclear transitions."
+            "A": "our biological identity and our psychological self-perception",
+            "B": "the need to dominate nature and the desire to protect it",
+            "C": "our survival instincts and our adherence to religious doctrines",
+            "D": "our evolutionary past and our technological advancements"
           },
-          "answer": "B",
-          "explanation": "文章明确提到核钟有望超越光学原子钟（目前最精确的计时器），光学原子钟每400亿年才误差一秒，这证明了核钟在精度方面的潜力。"
+          "answer": "A",
+          "explanation": "文章第一段提到，人类虽然承认自己是动物，但感到不安，这揭示了我们看待自己时的一种矛盾：既是自然的一部分，又觉得自己与众不同。这反映了我们在生物属性（即动物）与自我认知（人类独特性）之间的张力。"
         },
         {
           "q_number": 2,
-          "stem": "What has been the primary historical obstacle in building a nuclear clock using thorium-229?",
+          "stem": "Which of the following does the author imply about 'human exceptionalism'?",
           "options": {
-            "A": "The difficulty in sourcing stable thorium-229 isotopes.",
-            "B": "The inability to measure the precise energy transition within the nucleus.",
-            "C": "The lack of commercial interest from laser manufacturers.",
-            "D": "The extreme temperature requirements for cooling the crystals."
+            "A": "It emerged as a necessary response to the survival challenges of the Neolithic period.",
+            "B": "It was primarily a byproduct of scientific skepticism towards religious doctrines.",
+            "C": "It served both psychological and pragmatic functions in human history.",
+            "D": "It was a universal belief that predated ancient classical philosophy."
           },
-          "answer": "B",
-          "explanation": "文章提到几十年来科学家预测钍-229可用于此类时钟，但一直无法精确确定其异常的核能跃迁，直到2024年的实验才实现这一壮举。"
+          "answer": "C",
+          "explanation": "文章提到，人类的这种特殊主义并非偶然，它不仅减轻了人们对死亡的焦虑（心理功能），还使人类利用动物进行劳动、战争和娱乐的行为合理化（实用功能）。"
         },
         {
           "q_number": 3,
-          "stem": "How do 'nuclear clocks' differ from 'optical atomic clocks' in their ticking mechanism?",
+          "stem": "The author suggests that the 'dehumanization' of human groups was historically linked to ______.",
           "options": {
-            "A": "Nuclear clocks count electron movement whereas optical clocks count proton vibration.",
-            "B": "Optical clocks rely on radioactive decay while nuclear clocks rely on laser pulses.",
-            "C": "Optical clocks use electron energy state changes; nuclear clocks use nuclear state transitions.",
-            "D": "Nuclear clocks operate at a lower frequency range than optical clocks."
+            "A": "a failure to adopt hierarchical structures in society",
+            "B": "the application of human-animal power dynamics to human relations",
+            "C": "a return to ancient, interconnected, and holistic worldviews",
+            "D": "the scientific discovery of innate psychological differences"
           },
-          "answer": "C",
-          "explanation": "文章解释了光学原子钟通过电子在原子中能态之间的跃迁计数，而核钟则是计数钍-229核态之间的跃迁。"
+          "answer": "B",
+          "explanation": "文中指出，当人类将自身视为自然的掌控者而非一部分时，这种等级制度逻辑被应用到人类群体中。将人贬低为‘动物化’，从而使殖民主义、统治和排斥合理化，说明人类处理动物的方式被迁移到了人际关系中。"
         },
         {
           "q_number": 4,
-          "stem": "What concern is raised regarding the laser technology currently being developed by the Tsinghua University team?",
+          "stem": "What can be inferred about the 'biophilia hypothesis' from the text?",
           "options": {
-            "A": "The laser's power output is insufficient for any experimental use.",
-            "B": "The specialized crystal required is currently under patent litigation.",
-            "C": "The method involves heating hazardous substances to high temperatures.",
-            "D": "The wavelength produced is significantly off the 148 nm target."
+            "A": "It claims that humans are inherently indifferent to non-living objects.",
+            "B": "It has been largely discredited by recent research in neuroscience.",
+            "C": "It posits that human attention is evolved to focus on living things.",
+            "D": "It emphasizes that our love for animals is purely a cultural construct."
           },
           "answer": "C",
-          "explanation": "文中提到，虽然清华大学的研究取得了进展，但一些与会者对其长期前景持保留意见，因为该技术需要将有毒的镉蒸汽加热到550摄氏度。"
+          "explanation": "biophilia hypothesis（亲生命假说）认为人类天生被生命和生命过程所吸引。文中通过儿童对动物的偏好以及对animate beings（有生命体）的快速检测能力，论证了这种进化的注意偏差。"
         },
         {
           "q_number": 5,
-          "stem": "Which of the following best characterizes the current state of nuclear clock development according to experts?",
+          "stem": "What is the main argument regarding human attitudes towards animals in the concluding paragraph?",
           "options": {
-            "A": "It remains purely theoretical with no practical components currently in existence.",
-            "B": "It is progressing rapidly, with functional measurements anticipated in the near future.",
-            "C": "It is suffering from a lack of international collaboration.",
-            "D": "It has been deemed commercially unviable due to the cost of strontium tetraborate."
+            "A": "Our treatment of animals is primarily dictated by their unique biological traits.",
+            "B": "Human behavior towards animals is consistently shaped by environmental ethics.",
+            "C": "Our perceptions of animals are often driven by personal needs rather than consistent logic.",
+            "D": "Scientific advancements have finally helped us reconcile our inconsistent treatment of animals."
           },
-          "answer": "B",
-          "explanation": "文章引用物理学家Eric Hudson的话称，这种时钟“比人们想象的要近得多”，并明确表示预计在2026年就会看到核钟的测量结果。"
+          "answer": "C",
+          "explanation": "文章最后一段指出，我们对动物的态度既有爱也有恨和吃，这种不一致性反映了人类自身的需求（human needs），而不仅仅是动物本身的特征，强调了这种态度的复杂性和主观性。"
         }
       ]
     },
     {
-      "title": "Chinese, Russian and Indian ministers meet",
+      "title": "Re-examining one of the world’s most notorious assassinations",
       "article_update_date": "03.24.2026",
-      "source_journal": "China Daily",
-      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
-      "difficulty_constant": 7.2,
+      "source_journal": "Economist",
+      "body_text": "Re-examining one of the world’s most notorious assassinations Culture | Hatchet job Re-examining one of the world’s most notorious assassinations A new history of Leon Trotsky’s murder reads like a spy thriller March 19th 2026 MOST murder mysteries end with a revelation: the sleuth explains who did it, where, why and how. But how do you tell a gripping story when all of that is known? Josh Ireland, a writer and editor, overcomes that problem in a new book about one of the most famous murders in history: that of Leon Trotsky, in Mexico City, with an ice pick. (Actually it was a mountaineering axe, but why split hairs over splitting heads?) The murderer was Ramón Mercader, a Spanish communist and secret agent, acting on the orders of Josef Stalin , who loathed his one-time rival. What is there new to say, 86 years later? A lot, it turns out. Mr Ireland has a novelist’s eye for detail and captures the characters’ complexity. Trotsky was brilliant, charismatic and a gifted speaker; he was also vain and aloof. One reason Stalin, rather than he, succeeded Vladimir Lenin was that Trotsky “took no time to meet the Bolshevik faithful” after his electrifying speeches. One of his most ardent admirers admitted that his capacity for friendship was “about on the level of a barnyard fowl”. Mercader, meanwhile, was charming, handsome, eloquent and “a gifted actor who appeared to actively enjoy deceit…in short, the perfect spy”. He was an agent for the Soviet internal police, the NKVD, which committed atrocities at Stalin’s command. The book follows him as he travels between America and Mexico in the run-up to the assassination (after a hilariously incompetent first attempt involving machineguns and liquor failed). “The Death of Trotsky” does not offer new breakthroughs or revelations about this notorious crime. But narrative masterworks do not always need to unearth new history, if they can combine meticulous research with propulsive pacing. This was true with Erik Larson’s “The Devil in the White City” (2003), a bestseller about a serial killer and Chicago World’s Fair in 1893, and David Grann’s “Killers of the Flower Moon” (2017), about the Osage murders. Mr Ireland’s book opens in 1907 with Stalin’s and Trotsky’s first meeting, at a conference for the Russian Social Democratic Labour Party in London: “The two men felt an immediate and almost physical revulsion for each other.” Trotsky was eloquent and authoritative; Stalin apparently said nothing for three weeks of meetings. They are the two poles of the narrative, though they never saw each other again after Stalin exiled Trotsky in 1929. Over the course of the book, Trotsky wanders anxiously around the world, as Stalin seethes and plots from Moscow. Trotsky lived with Frida Kahlo and Diego Rivera for as long as they could tolerate each other. Natalia, Trotsky’s doting wife, acted as an intermediary between her husband and the world. People floated in and out of their lives; Mr Ireland brilliantly foreshadows the end by emphasising Trotsky’s naive indifference to security (he hated searching visitors for weapons). Trotsky has long been one of the left’s great “what ifs”. (If only he had outmanoeuvred Stalin to succeed Lenin, the Soviet Union might never have endured so much violence, some believe.) Mr Ireland does not agree. Compared with Stalin, Trotsky seems almost meek, but in fact he was just as eager to kill as any other Bolshevik. While still in Russia he approved summary executions and village burnings in response to a peasant rebellion and helped create the NKVD. “We must rid ourselves once and for all of the Quaker-Papist babble about the sanctity of life,” Trotsky once said ominously. Mr Ireland shows that Trotsky’s murder was less tragic than pathetic. By the time of his death he was isolated and powerless, living on the cinders of his reputation. Stalin murdered him out of personal hatred and paranoia, not because he had any actual reason to fear him. Nor is this ancient history. Once upon a time critics of Russia’s leaders ended up axed down or shot; more recently they have fallen out of windows and been poisoned. Plus ça change. ■ For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist , our weekly subscriber-only newsletter This article was downloaded by zlibrary from https://www.economist.com//culture/2026/03/19/re-examining-one-of-the-worlds-most-notorious-assassinations",
+      "difficulty_constant": 8.4,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "According to the joint statement, what is the primary purpose of the trilateral cooperation between China, Russia, and India?",
+          "stem": "What is the author's primary assessment of Josh Ireland's new book on Leon Trotsky?",
           "options": {
-            "A": "To form a military alliance against external threats.",
-            "B": "To dominate the regional economic architecture in the Asia-Pacific.",
-            "C": "To maintain peace and stability through open and inclusive multilateralism.",
-            "D": "To replace existing international laws with new regional regulations."
+            "A": "It relies on new, previously unknown historical documents regarding the assassination.",
+            "B": "It succeeds by employing narrative skill to recount a familiar historical event.",
+            "C": "It focuses primarily on the technicalities of the murder weapon used by Mercader.",
+            "D": "It argues that Trotsky was an innocent victim of Stalin's inexplicable paranoia."
           },
-          "answer": "C",
-          "explanation": "文章明确提到Maintaining regional security and economic architecture that is open, inclusive and based on multilateralism... is imperative for lasting peace and stability，说明合作的核心是基于多边主义以维持和平与稳定，而非针对他国或对抗。"
+          "answer": "B",
+          "explanation": "The text explicitly states that the book does not offer new breakthroughs or revelations, but qualifies as a 'narrative masterwork' by combining meticulous research with propulsive pacing, indicating that its strength lies in the storytelling rather than new evidence."
         },
         {
           "q_number": 2,
-          "stem": "What is the significance of the upcoming phase of BRICS cooperation as mentioned in the text?",
+          "stem": "According to the passage, why did Stalin succeed Lenin instead of Trotsky?",
           "options": {
-            "A": "It marks the end of the initial stage of economic partnership.",
-            "B": "It aims to usher in the second golden decade of cooperation.",
-            "C": "It focuses solely on political and security matters.",
-            "D": "It intends to host more summits in Xiamen."
+            "A": "Trotsky lacked the oratorical skills required to influence the Bolsheviks.",
+            "B": "Trotsky was too preoccupied with his physical safety and security measures.",
+            "C": "Trotsky failed to foster interpersonal connections with his fellow party members.",
+            "D": "Stalin was seen as more charismatic and eloquent than his rival."
           },
-          "answer": "B",
-          "explanation": "文中明确引用声明指出We will work together... so as to usher in the second golden decade of BRICS cooperation，因此B项正确。"
+          "answer": "C",
+          "explanation": "The text mentions that Trotsky 'took no time to meet the Bolshevik faithful' after speeches and was described as having a capacity for friendship 'about on the level of a barnyard fowl', directly explaining why he failed to build necessary political support."
         },
         {
           "q_number": 3,
-          "stem": "Which of the following is considered an 'important instrument' by the three countries for promoting multilateral interaction?",
+          "stem": "How does the author characterize Trotsky's political ideology based on the book's evidence?",
           "options": {
-            "A": "The East Asia Summit.",
-            "B": "The Shanghai Cooperation Organization.",
-            "C": "The Ninth BRICS Summit.",
-            "D": "The New Delhi foreign ministers meeting."
+            "A": "He was a pacifist who abhorred the violence of the Bolshevik regime.",
+            "B": "He was a principled reformer who opposed the creation of the NKVD.",
+            "C": "He was just as ruthless as Stalin regarding the use of violence.",
+            "D": "He was largely indifferent to the internal politics of the Soviet Union."
           },
-          "answer": "B",
-          "explanation": "文章提到The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting... interaction，因此B项符合原文。"
+          "answer": "C",
+          "explanation": "The author contradicts the idea that Trotsky was 'meek', noting he was 'just as eager to kill as any other Bolshevik' and citing his approval of executions and his rejection of the 'sanctity of life'."
         },
         {
           "q_number": 4,
-          "stem": "How do the three countries characterize their trilateral cooperation format in relation to other nations?",
+          "stem": "What is the function of the phrase 'Plus ça change' at the end of the article?",
           "options": {
-            "A": "It is designed to counter the influence of Western powers.",
-            "B": "It is a competitive framework to ensure regional leadership.",
-            "C": "It is not directed against any other country.",
-            "D": "It is a conditional partnership subject to third-party approval."
+            "A": "To imply that the assassination of political dissidents remains a recurring pattern in Russia.",
+            "B": "To suggest that historical accounts of assassinations have become more accurate over time.",
+            "C": "To contrast the primitive weapons of the past with modern methods of state-sponsored killing.",
+            "D": "To show that Stalin's motives have changed significantly since the 1920s."
           },
-          "answer": "C",
-          "explanation": "文中直接说明said such cooperation is not directed against any other country，即三方合作不针对任何第三方国家。"
+          "answer": "A",
+          "explanation": "The phrase means 'the more things change, the more they stay the same'. By linking historical murders to recent cases of critics 'falling out of windows and being poisoned', the author implies a persistent, unchanging pattern of state violence against critics."
         },
         {
           "q_number": 5,
-          "stem": "What can be inferred about the nature of the trilateral dialogue among China, Russia, and India?",
+          "stem": "What is the author's tone regarding Trotsky's death as described in the final paragraphs?",
           "options": {
-            "A": "It is a closed system limited to narrow security concerns.",
-            "B": "It is built on a spirit of mutual understanding and trust.",
-            "C": "It is an informal talk with no practical outcomes.",
-            "D": "It focuses primarily on bilateral trade disputes."
+            "A": "Deeply sentimental and filled with mourning.",
+            "B": "Analytical, viewing it as more pathetic than historically tragic.",
+            "C": "Alarmed by the implications of the assassination for modern politics.",
+            "D": "Indifferent, focusing only on the literary quality of the book."
           },
           "answer": "B",
-          "explanation": "文中提到We wish to strengthen the trilateral dialogue... in the spirit of mutual understanding and trust，表明合作的基础在于互信与理解，B项为正确推断。"
+          "explanation": "The author explicitly states: 'Mr Ireland shows that Trotsky’s murder was less tragic than pathetic,' explaining that by his death, Trotsky was 'isolated and powerless, living on the cinders of his reputation'."
         }
       ]
     },
     {
-      "title": "Nanjing massacre remembered on 80th anniversary",
+      "title": "Briefly Noted",
       "article_update_date": "03.24.2026",
-      "source_journal": "China Daily",
-      "body_text": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed by the Japanese military during World War II brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition, the Committee to Promote Reunification of China, the Alliance for Preserving the Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held annually for the past 20 years with the aim of exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history. \"The Japanese Army blatantly violated international conventions and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians were murdered and one third of the buildings were destroyed,\" said Zha Liyou, acting Chinese consul general in San Francisco, at the service. Japanese troops captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing a slaughter that lasted more than 40 days. Tens of thousands of women were raped. \"Our stories are linked. The fate of over 400,000 women sexually enslaved by the Japanese Imperial Army during World War II is part and parcel of what happened during the Nanjing Massacre,\" said Judith Mirkinson, president of the Comfort Women Justice Coalition. She said the 20th century has been called the most violent century in the history of the world, and that one way to ensure peace in the 21st century is through truth and reconciliation. \"Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes,\" she said. \"They must give justice to those few people who still survive from the Nanjing Massacre and to the memory of what happened there.\" From the time that Japan invaded northeast China in September 1931, followed by a full-scale invasion that started on July 7, 1937, around 35 million Chinese soldiers and civilians were killed or injured during the Japanese occupation, which continued until 1945. To honor the victims and the survivors, and to pursue justice and an enduring peace, the Chinese community worldwide joined hands this year to commemorate this historic event which was designated by the Chinese government as National Memorial Day for Nanjing Massacre Victims. \"To remember the atrocities committed by the Japanese Army during World War II does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace,\" said Zha. \"It might be a comfort to the victims and those who sacrificed their lives that the Nanjing Massacre has been etched into the memory of the Chinese people and the world civilization.\" The Nanjing Massacre was entered onto the UNESCO Memory of the World Register, a compendium aimed at preserving documented heritage of universal value, in 2015. liazhu@chinadailyusa.com",
-      "difficulty_constant": 8.5,
+      "source_journal": "New Yorker",
+      "body_text": "Briefly Noted Books Briefly Noted “On Morrison,” “Scale Boy,” “Sisters in Yellow,” and “White River Crossing.” March 16, 2026 On Morrison , by Namwali Serpell (Hogarth) . This collection of essays, by a novelist and literary scholar, considers the writer Toni Morrison’s varied body of work. Serpell homes in on its challenging qualities—including its unique orchestration of voice, unconventional chronologies, and layered metaphors—unearthing fresh insights about Morrison’s themes and craft. In a close reading of Morrison’s famed story “Recitatif,” for example, Serpell examines the ways that “race, often relegated to a visual regime, fundamentally works through language.” Enriching her research with letters, draft manuscripts, and other sources, Serpell captures Morrison’s “masterful difficulty” without sanding down its edges. Scale Boy , by Patrice Nganang (Farrar, Straus & Giroux) . In this unhurried, lyrical memoir, a novelist remembers his youth in Cameroon in the nineteen-seventies and eighties. Anchored by Nganang’s years as a “scale boy”—weighing people and products for a small fee—the narrative wends through anecdotes that depict a young man discovering his artistic and intellectual powers along with his nation’s colonial history. Reflecting on the meaning of the scale as an object, Nganang draws an ominous historical line from the present to the past, noting that “the scale was the very last instrument Black people stepped onto before boarding the slave ships, before entering the soul-wrenching and dreaded institution of their despair.” What We’re Reading Discover notable new fiction, nonfiction, and poetry. Sisters in Yellow , by Mieko Kawakami, translated from the Japanese by Laurel Taylor and Hitomi Yoshio (Knopf) . This engrossing novel follows a teen-age girl coming of age in working-class Tokyo as she desperately tries to achieve financial stability. At the novel’s outset, Hana lives in a cramped apartment with her mother, a sweet but hapless bar waitress, and longs to escape from a home life that her bullies condemn as “not normal.” Then she meets a charismatic friend of her mother’s, and the two begin running a bar; together with two other girls who become Hana’s friends, they soon form a kind of makeshift happy family. But, when a series of events threatens their ability to earn, Hana discovers how difficult class ascension really is. “I’m trying so hard,” she says at one point. “But I always wind up back here.” White River Crossing , by Ian McGuire (Crown) . Set in 1766, this harrowing novel centers on an expedition organized by the head of a Hudson’s Bay Company trading post, in Canada, who dispatches a group to secretly search for a gold deposit on remote lands inhabited by Indigenous tribes. Led by Inuit guides, the three white men in the party form an uneasy mix of personalities. There is the trading-post head’s “scrawny” young nephew; his deputy, “an oaf and a scoundrel”; and a former aspiring minister who has lost his faith. Briskly paced, immersive, and often violent, McGuire’s novel depicts the destructive and corrupting effects of the colonists’ gold lust on themselves and the Native people in their path. As one of the guides, Keasik, observes, this greed “leaves behind, like a falling tide, a tangled wrack of wariness and fear.”",
+      "difficulty_constant": 8.4,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "What is the primary purpose of the annual memorial service held in San Francisco?",
+          "stem": "According to the passage, how does Namwali Serpell approach Toni Morrison’s work in 'On Morrison'?",
           "options": {
-            "A": "To lobby for financial reparations from the Japanese government.",
-            "B": "To expose war crimes and ensure the historical truth is not forgotten.",
-            "C": "To celebrate the 80th anniversary of the founding of the Comfort Women Justice Coalition.",
-            "D": "To facilitate political reunification between various Asian nations."
+            "A": "By simplifying Morrison's complex linguistic structures for general readers.",
+            "B": "By focusing primarily on the chronological order of Morrison's novels.",
+            "C": "By critically analyzing the interplay between race and language in Morrison's writing.",
+            "D": "By relying solely on secondary critical sources to interpret Morrison's themes."
           },
-          "answer": "B",
-          "explanation": "文章明确提到该纪念活动举办的目的是exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history，即揭露战争罪行并提醒人们勿忘历史。"
+          "answer": "C",
+          "explanation": "文章提到Serpell通过Close reading研究Morrison的作品，特别是在Recitatif一文中，她分析了种族（race）如何通过语言（language）运作，这直接对应了选项C。"
         },
         {
           "q_number": 2,
-          "stem": "According to Judith Mirkinson, what is the prerequisite for achieving reconciliation in the 21st century?",
+          "stem": "What does Patrice Nganang intend to symbolize by using the 'scale' in his memoir 'Scale Boy'?",
           "options": {
-            "A": "The complete eradication of international conflicts.",
-            "B": "The official apology from the current Japanese military.",
-            "C": "The acknowledgment of historical crimes by the Japanese government.",
-            "D": "The global recognition of the 20th century as the most violent era."
+            "A": "The transition from youth to adulthood in colonial Cameroon.",
+            "B": "A historical link between commercial labor and the horrors of the slave trade.",
+            "C": "The objective measurement of artistic and intellectual growth.",
+            "D": "The financial instability inherent in working-class life."
           },
-          "answer": "C",
-          "explanation": "文中Mirkinson明确指出Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes，意为没有真相就没有和解，日本政府必须承认罪行。"
+          "answer": "B",
+          "explanation": "文章明确提到Nganang将秤（scale）联系到黑人在登上奴隶船之前被迫进行的称重过程，这是一种历史性的警示，指向奴隶制度的痛苦，因此选B。"
         },
         {
           "q_number": 3,
-          "stem": "What does the author suggest by the phrase 'part and parcel' in the context of the passage?",
+          "stem": "Which of the following best describes the core conflict faced by Hana in 'Sisters in Yellow'?",
           "options": {
-            "A": "A trivial component.",
-            "B": "An essential element.",
-            "C": "A historical deviation.",
-            "D": "A separate investigation."
+            "A": "Her struggle to escape the emotional abuse inflicted by her mother.",
+            "B": "Her inability to form meaningful relationships in a hostile Tokyo environment.",
+            "C": "The inevitable failure of her business venture due to a lack of charisma.",
+            "D": "The systemic challenges of improving one's socio-economic status."
           },
-          "answer": "B",
-          "explanation": "“Part and parcel”意为“重要组成部分”。Mirkinson认为慰安妇遭受的苦难与南京大屠杀期间发生的罪行是密不可分的整体，故B项正确。"
+          "answer": "D",
+          "explanation": "文章提到Hana试图追求财务稳定，但最终发现阶级跃升（class ascension）非常困难，即系统性的社会经济挑战，因此选D。"
         },
         {
           "q_number": 4,
-          "stem": "How does Zha Liyou interpret the act of remembering the atrocities committed by the Japanese Army?",
+          "stem": "In 'White River Crossing', the author uses the expedition to highlight:",
           "options": {
-            "A": "It is a strategy to pass on the enmity to future generations.",
-            "B": "It is intended to complicate the diplomatic relations between China and Japan.",
-            "C": "It is a way to mourn the victims while fostering a love for peace.",
-            "D": "It is a legal requirement for the UNESCO Memory of the World Register."
+            "A": "The cooperation between colonial traders and Indigenous guides.",
+            "B": "The spiritual renewal of the former minister through nature.",
+            "C": "The corrosive influence of greed on both colonizers and Indigenous communities.",
+            "D": "The geographic challenges of mapping Canada in the eighteenth century."
           },
           "answer": "C",
-          "explanation": "Zha Liyou指出记住这些暴行并非为了传递仇恨，而是为了提醒人们勿忘历史并inspire them to love peace（激发人们热爱和平），与C项一致。"
+          "explanation": "文章提到麦奎尔的小说描写了殖民者对黄金的渴望（gold lust）对他们自身以及原住民造成的破坏性和腐蚀性影响，因此选C。"
         },
         {
           "q_number": 5,
-          "stem": "What can be inferred about the UNESCO Memory of the World Register based on the text?",
+          "stem": "What is the common thread among the books reviewed in this collection?",
           "options": {
-            "A": "It mandates the Japanese government to pay for victim reparations.",
-            "B": "It is a repository for documents that hold universal significance.",
-            "C": "It was established in 1937 to document the Nanjing Massacre.",
-            "D": "It is an organization that coordinates annual memorial services worldwide."
+            "A": "All of them are historical memoirs written by contemporary novelists.",
+            "B": "They all explore the complexities of human identity and social structures.",
+            "C": "They focus exclusively on the experiences of marginalized people in Asia.",
+            "D": "Each book is a translation of a previously overlooked foreign literary work."
           },
           "answer": "B",
-          "explanation": "文章提到该名录是一个compendium aimed at preserving documented heritage of universal value，即旨在保存具有普遍价值的文献遗产的汇编。"
+          "explanation": "综合分析四本书，分别涉及了文学评论（身份与创作）、回忆录（种族历史与殖民）、小说（阶级地位与自我实现）、以及历史小说（贪婪与殖民冲突），它们都探讨了人的身份、社会结构及个体与历史的关系，因此选B。"
         }
       ]
     }
