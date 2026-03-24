@@ -1,0 +1,62 @@
+name: Daily Mock Paper Generator
+
+concurrency:
+  group: generator-group
+  cancel-in-progress: false
+
+on:
+  schedule:
+    # Runs at 18:00 UTC (02:00 CST daily)
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+    inputs:
+      strategy:
+        description: 'Strategy for article selection'
+        required: true
+        default: 'common'
+        type: choice
+        options:
+        - common
+        - manual
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Fetcher, Selector, and Generator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STRATEGY: ${{ github.event.inputs.strategy || 'common' }}
+        run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add config/ source/ articleList/ reading/ artifacts/
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-generate mock paper for $(date +'%m.%d.%Y')"
+            git pull --rebase
+            git push
+          fi

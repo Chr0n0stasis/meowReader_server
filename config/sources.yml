@@ -1,0 +1,42 @@
+sources:
+  - journal_name: Nature
+    source_type: rss
+    update_frequency: daily
+    url: https://www.nature.com/nature.rss
+    last_fetched_date: ""
+
+  - journal_name: Science
+    source_type: rss
+    update_frequency: daily
+    url: https://www.science.org/rss/news_current.xml
+    last_fetched_date: ""
+
+  - journal_name: China Daily
+    source_type: rss
+    update_frequency: daily
+    url: https://www.chinadaily.com.cn/rss/world_rss.xml
+    last_fetched_date: ""
+
+  - journal_name: The Guardian
+    source_type: rss
+    update_frequency: daily
+    url: https://www.theguardian.com/world/rss
+    last_fetched_date: ""
+
+  - journal_name: Scientific American
+    source_type: rss
+    update_frequency: daily
+    url: https://rss.sciam.com/ScientificAmerican-Global
+    last_fetched_date: ""
+
+  - journal_name: Economist
+    source_type: github
+    update_frequency: weekly
+    url: hehonghui/awesome-english-ebooks
+    last_fetched_date: ""
+
+  - journal_name: New Yorker
+    source_type: github
+    update_frequency: monthly
+    url: hehonghui/awesome-english-ebooks
+    last_fetched_date: ""
