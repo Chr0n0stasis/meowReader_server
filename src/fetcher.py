@@ -11,7 +11,7 @@ import json
 import logging
 
 import feedparser
-from newspaper import Article, ArticleException
+from newspaper import Article, Config, ArticleException
 from github import Github
 import ebooklib
 from ebooklib import epub
@@ -64,6 +64,11 @@ class DataFetcher:
         articles_data = []
         raw_source_content = {}
         
+        # Setup modern User-Agent to bypass Cloudflare/403 blocks on sites like Science.org
+        np_config = Config()
+        np_config.browser_user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+        np_config.request_timeout = 15
+        
         for idx, entry in enumerate(feed.entries):
             title = entry.get('title', 'Unknown Title')
             link = entry.get('link', '')
@@ -71,7 +76,7 @@ class DataFetcher:
                 continue
                 
             try:
-                article = Article(link)
+                article = Article(link, config=np_config)
                 article.download()
                 article.parse()
                 text = article.text
