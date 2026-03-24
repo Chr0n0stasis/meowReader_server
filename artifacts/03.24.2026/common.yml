@@ -1,363 +1,371 @@
 group_update_date: 03.24.2026
 papers:
 - article_update_date: 03.24.2026
-  body_text: A strike on a healthcare facility in Sudan has killed 64 people and wounded
-    89 more, the World Health Organization reported on Saturday. The UN’s humanitarian
-    office in Sudan had earlier said it was “appalled by the attack on a hospital
-    in East Darfur yesterday, reportedly killing dozens, including children, and injuring
-    more”. Sudanese rights group the Emergency Lawyers, who document atrocities in
-    the war between Sudan’s army and the paramilitary Rapid Support Forces, reported
-    it was an army drone strike that hit the El-Daein teaching hospital. The RSF dominates
-    the vast western Darfur region, while the army is in control of Sudan’s east,
-    centre and north. The WHO’s surveillance system for attacks marked Friday’s incident
-    as “confirmed” but did not give an exact location. The attack involved “violence
-    with heavy weapons” and affected a secondary health care facility, medical personnel,
-    patients, supplies and storage, the record showed. Though the WHO counts and verifies
-    attacks on health care, it does not attribute blame, as it is not an investigative
-    agency. El-Daein, the RSF-controlled state capital of East Darfur, has been regularly
-    attacked by the army, which is trying to push the paramilitary back towards its
-    Darfur strongholds and away from Sudan’s central corridor. Its most recent strike
-    on the city’s market earlier this month set fire to oil barrels that burned for
-    hours. Near-daily drone strikes are now a hallmark of Sudan’s brutal war, killing
-    dozens at a time, mostly in the southern Kordofan region. The UN human rights
-    chief, Volker Türk, this month said he was “appalled” after more than 200 civilians
-    were reported killed by drone attacks within an eight-day period. “Parties to
-    the conflict in Sudan continue to use increasingly powerful drones to deploy explosive
-    weapons with wide-area impacts in populated areas,” he said. To the repeated condemnation
-    of the UN, hospitals have been a regular target throughout the war. By December,
-    more than 1,800 people had been killed in attacks on health facilities since the
-    start of the war, including 173 health workers, according to the UN. This year,
-    a total of 12 attacks on health care in Sudan have been recorded, causing 178
-    deaths and 237 injuries. Across the country, the war has killed tens of thousands
-    and driven more than 11 million people from their homes. It has fuelled what the
-    UN describes as the world’s largest displacement and hunger crises, with more
-    than 33 million people in need of humanitarian aid.
-  difficulty_constant: 8.4
+  body_text: 'Police in Rio de Janeiro have arrested eight people for brutally beating
+    a capybara – the world’s largest rodent. Resembling a giant guinea pig, the light
+    brown capybara (Hydrochoerus hydrochaeris) is often seen roaming the Brazilian
+    city, particularly near streams and lagoons. In an incident filmed by security
+    cameras before dawn on Saturday, a group of attackers beat the capybara with sticks
+    and iron bars in the neighbourhood of Ilha do Governador. “This is a brutal crime
+    that shocks society,” said Felipe Santoro, the police commissioner in charge of
+    the investigation, was quoted as saying by the O Globo daily newspaper. “It is
+    an act of extreme cruelty toward a creature that posed absolutely no threat …
+    yet was deliberately attacked nonetheless,” he added. View image in fullscreen
+    Wounds are seen on the muzzle of the capybara. Photograph: Mauro Pimentel/AFP/Getty
+    The attackers – including two minors – were identified through CCTV footage and
+    arrested on Saturday, police said in a statement. The capybara, a 65kg (143lb)
+    male, was taken to the Wildlife Care Center (CRAS) at the private Estacio University
+    in south-western Rio. Jeferson Pires, the veterinarian and head of CRAS, told
+    AFP: “We have been treating Rio’s wildlife here for 22 years, and I have never
+    before received a capybara subjected to such extreme aggression.” He said the
+    creature was doing better, but was “suffering from head trauma, swelling with
+    internal bleeding around his left eye, and multiple injuries to his back”. In
+    recent years the semi-aquatic capybara – native to South America – has gained
+    a devoted following online. One popular meme is “Comrade Capybara”, depicting
+    the animal as a communist revolutionary, inspired by the 2021 “invasion” by capybaras
+    of a luxury gated estate in Argentina that was built on a wetland that had been
+    their natural habitat. In early January, the death of a stray dog after it was
+    beaten to death by teenagers caused a wave of outrage in Brazil.'
+  difficulty_constant: 7.8
   question_type: Use of English
   questions:
-  - answer: A
-    explanation: 根据原文“appalled by the attack on a hospital”，appalled意为“极其震惊的/愤慨的”，符合语境中联合国机构对袭击医院行为的谴责态度。
+  - answer: B
+    explanation: 文章中警方负责人明确提到该动物"posed absolutely no threat"（完全没有构成任何威胁），因此这被视为极度的残忍行为。
     options:
-      A: appalled
-      B: apathetic
-      C: ambiguous
-      D: applicable
+      A: was known to be aggressive toward humans
+      B: posed no threat to anyone at the time
+      C: had escaped from a local wildlife center
+      D: was a rare and protected species in Rio
     q_number: 1
-    stem: The UN’s humanitarian office in Sudan expressed deep shock, using the word
-      "______" to describe their reaction to the attack on the hospital.
-  - answer: B
-    explanation: 原文提到“it does not attribute blame”，意为“不归咎责任”，blame符合语义逻辑，即WHO作为非调查机构，不对袭击方的责任进行定性。
+    stem: The police commissioner described the beating of the capybara as a "brutal
+      crime" because the animal __________.
+  - answer: C
+    explanation: 文中兽医Jeferson Pires表示动物正在好转（doing better），但患有头部创伤、内出血和多处背部损伤，属于病情严重但正在恢复。
     options:
-      A: merit
-      B: blame
-      C: tribute
-      D: caution
+      A: It suffered from minor scratches and was released.
+      B: It required immediate surgery for broken limbs.
+      C: It was in a stable state but had severe injuries.
+      D: It died shortly after arriving at the wildlife center.
     q_number: 2
-    stem: The World Health Organization does not point fingers or assign ______ for
-      the attacks because it is not an investigative body.
-  - answer: A
-    explanation: hallmark意为“标志/显著特征”，文中指无人机袭击已成为苏丹残酷战争的一个典型特征，符合句意。
+    stem: Which of the following best describes the condition of the capybara after
+      the attack?
+  - answer: C
+    explanation: 文中提到该meme受到2021年水豚“入侵”阿根廷一处建在湿地上的豪华门控社区事件的启发。
     options:
-      A: hallmark
-      B: byproduct
-      C: milestone
-      D: counterpart
+      A: A protest against deforestation in Brazil.
+      B: A response to the illegal pet trade of rodents.
+      C: A reaction to an incident involving a luxury estate.
+      D: An attempt to promote animal rights through satire.
     q_number: 3
-    stem: Near-daily drone strikes have become a ______ of Sudan’s brutal war, appearing
-      frequently in the conflict.
-  - answer: B
-    explanation: 文中提到在“populated areas”（人口稠密地区）使用爆炸性武器，这解释了为何造成大量平民伤亡，populated在此处最为准确。
+    stem: What is the primary reason behind the "Comrade Capybara" meme mentioned
+      in the text?
+  - answer: C
+    explanation: 文章指出袭击者是"identified through CCTV footage"（通过监控录像识别），因此是C选项。
     options:
-      A: remote
-      B: populated
-      C: vacant
-      D: secluded
+      A: Through anonymous tips provided by local residents.
+      B: By monitoring the animal's tracking collar.
+      C: Through the analysis of security camera footage.
+      D: By tracing the iron bars used in the crime.
     q_number: 4
-    stem: Sudanese warring factions are using increasingly powerful drones to deploy
-      weapons in ______ areas, leading to mass civilian casualties.
+    stem: According to the passage, how were the attackers apprehended?
   - answer: A
-    explanation: fuelled意为“加剧/刺激”，指战争导致了严重的人道主义危机。alleviated（缓解）与文意相反，discarded（抛弃）和contained（包含/控制）逻辑不通。
+    explanation: 在描述网络受众对某种事物的喜爱时，devoted表示“热情的、忠实的、入迷的”，与enthusiastic同义。
     options:
-      A: fuelled
-      B: alleviated
-      C: discarded
-      D: contained
+      A: highly enthusiastic
+      B: morally upright
+      C: extremely skeptical
+      D: narrowly defined
     q_number: 5
-    stem: The ongoing war in Sudan has ______ what the UN describes as the world’s
-      largest displacement and hunger crises.
+    stem: The word "devoted" in the context of the capybara's online following most
+      likely means __________.
   source_journal: The Guardian
-  title: Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports
+  title: Eight arrested for ‘brutal’ attack on capybara in Brazil
 - article_update_date: 03.24.2026
-  body_text: Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA
-    A Chinese-made communications satellite became the first "export" of such a spacecraft
-    to an Arab country when it was launched by China on Monday for Algeria. A Long
-    March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in
-    the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes
-    before placing the Alcomsat-1, the Algeria's first communications satellite, into
-    geostationary transfer orbit, according to a news release from China Great Wall
-    Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart
-    Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the
-    successful mission. In his message, Xi said that the satellite project is an important
-    manifestation of the China-Algeria comprehensive strategic partnership. It has
-    become a good example of space cooperation between China and Arab countries and
-    will play a significant role in promoting Algeria's economic and social development,
-    he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges
-    and cooperation in various fields, deepening the bilateral partnership so as to
-    benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable
-    achievement in space cooperation between the two countries and reflects the deep
-    traditional friendship between the two sides. Algeria is willing to work with
-    China to strengthen cooperation, he said. The satellite contract was signed in
-    December 2013 between the Algerian Space Agency and China Great Wall Industry
-    Corp, the country's largest space contractor in the international market. Alcomsat-1
-    was designed and manufactured by the China Academy of Space Technology, part of
-    China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform.
-    With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the
-    satellite will be used for a wide variety of public services such as television
-    broadcasting, emergency communications, remote education and satellite-based signal
-    augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of
-    the company, said Alcomsat-1 is as good as Western communications satellites in
-    terms of technology and capacity. He said there are other contracts between his
-    firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn
-  difficulty_constant: 5.2
-  question_type: Reading Comprehension
-  questions:
-  - answer: A
-    explanation: 文章第一段明确指出：A Chinese-made communications satellite became the first
-      'export' of such a spacecraft to an Arab country。故A项正确。
-    options:
-      A: It marks the first time China has exported a spacecraft to an Arab country.
-      B: It is the first satellite ever launched by the Long March 3B carrier rocket.
-      C: It symbolizes the official start of a space competition between China and
-        Western nations.
-      D: It serves as the first instance of Algeria collaborating with a space-capable
-        country.
-    q_number: 1
-    stem: What is the primary significance of the Alcomsat-1 launch mentioned in the
-      text?
-  - answer: C
-    explanation: 文章第四段引述习近平主席的话：the satellite project is an important manifestation
-      of the China-Algeria comprehensive strategic partnership。故C项符合题意。
-    options:
-      A: As a purely financial venture between two commercial entities.
-      B: As a critical step in China's military expansion in North Africa.
-      C: As a key manifestation of the comprehensive strategic partnership between
-        China and Algeria.
-      D: As a minor technical experiment with limited long-term impact on social development.
-    q_number: 2
-    stem: How did President Xi Jinping characterize the Alcomsat-1 project?
-  - answer: B
-    explanation: 文章第八段明确指出：Alcomsat-1 was designed and manufactured by the China Academy
-      of Space Technology... based on the DFH-4 satellite platform。故B项正确。
-    options:
-      A: It was designed by international partners to ensure global compatibility.
-      B: It utilizes the DFH-4 satellite platform and was built by the China Academy
-        of Space Technology.
-      C: It is an outdated model sold to Algeria at a discounted price.
-      D: It has a shorter lifespan compared to Western-made satellites.
-    q_number: 3
-    stem: Which of the following statements best describes the design and technical
-      background of Alcomsat-1?
-  - answer: C
-    explanation: 文章第九段提到：the satellite will be used for a wide variety of public services
-      such as television broadcasting, emergency communications, remote education
-      and satellite-based signal augmentation。故C项正确。
-    options:
-      A: Primarily for military reconnaissance and border surveillance.
-      B: Exclusively for television broadcasting and entertainment.
-      C: For a diverse range of public services including education and emergency
-        communications.
-      D: For scientific research into the geostationary transfer orbit.
-    q_number: 4
-    stem: According to the passage, what is the intended use of the Alcomsat-1 satellite?
-  - answer: B
-    explanation: 文章最后一段指出：Fu Zhiheng... said Alcomsat-1 is as good as Western communications
-      satellites in terms of technology and capacity。这说明其技术水平与西方卫星旗鼓相当。故B项正确。
-    options:
-      A: The satellite is technologically inferior to Western models but cost-effective.
-      B: The satellite is highly competitive and comparable to those produced in the
-        West.
-      C: The satellite represents a collaborative effort incorporating Western technology.
-      D: The company struggles to match the standards set by Western space contractors.
-    q_number: 5
-    stem: What can be inferred from the remarks made by Fu Zhiheng regarding the satellite's
-      quality?
-  source_journal: China Daily
-  title: Satellite lofted for first Arab country
-- article_update_date: 03.24.2026
-  body_text: Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA
-    A Chinese-made communications satellite became the first "export" of such a spacecraft
-    to an Arab country when it was launched by China on Monday for Algeria. A Long
-    March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in
-    the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes
-    before placing the Alcomsat-1, the Algeria's first communications satellite, into
-    geostationary transfer orbit, according to a news release from China Great Wall
-    Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart
-    Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the
-    successful mission. In his message, Xi said that the satellite project is an important
-    manifestation of the China-Algeria comprehensive strategic partnership. It has
-    become a good example of space cooperation between China and Arab countries and
-    will play a significant role in promoting Algeria's economic and social development,
-    he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges
-    and cooperation in various fields, deepening the bilateral partnership so as to
-    benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable
-    achievement in space cooperation between the two countries and reflects the deep
-    traditional friendship between the two sides. Algeria is willing to work with
-    China to strengthen cooperation, he said. The satellite contract was signed in
-    December 2013 between the Algerian Space Agency and China Great Wall Industry
-    Corp, the country's largest space contractor in the international market. Alcomsat-1
-    was designed and manufactured by the China Academy of Space Technology, part of
-    China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform.
-    With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the
-    satellite will be used for a wide variety of public services such as television
-    broadcasting, emergency communications, remote education and satellite-based signal
-    augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of
-    the company, said Alcomsat-1 is as good as Western communications satellites in
-    terms of technology and capacity. He said there are other contracts between his
-    firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn
+  body_text: 'The pilot and co-pilot of an Air Canada Express regional jet have been
+    killed after it collided with a fire truck while landing at New York’s LaGuardia
+    airport, in an incident that closed the airport for several hours. The Air Canada
+    Express CRJ-900 plane, operated by Jazz Aviation, was carrying 72 passengers and
+    four crew members from Montreal. Nine people remain hospitalized after the collision,
+    which happened around 11.45pm ET on Sunday as the firefighting vehicle was responding
+    to a separate incident. Quebec’s TVA News identified one of the pilots as Antoine
+    Forest, 30, of Coteau-du-Lac, a city south-west of Montreal. He joined Jazz Aviation
+    in 2022. The other pilot was Mackenzie Gunther, Radio-Canada sources have confirmed.
+    In a press conference on Monday evening, National Transportation Safety Board
+    chair Jennifer Homendy said an investigation was under way. The plane’s flight
+    data recorder, or black box, was recovered, as was the cockpit voice recorder.
+    LaGuardia reopened at 2pm on Monday and the airport told passengers to expect
+    delays and or cancellations. Homendy said the runway where the crash took place
+    would remain closed for “some time” due to the amount of debris and hazardous
+    material at the site. “It’s going to be days,” she said. In the moments before
+    the crash, an air traffic controller could be heard on a radio transmission giving
+    clearance to a vehicle to cross part of the runway, then trying to stop it. 0:42
+    Control tower audio captures moments before LaGuardia plane crash – audio “Stop,
+    Truck 1. Stop,” the transmission says. The controller is then heard quickly diverting
+    incoming aircraft from landing. Following the collision, audio released by LiveATC
+    appears to show air traffic controllers discussing the incident. One controller
+    says the impact “wasn’t good to watch”. Another responds: “Yeah, I know, I was
+    here. I tried to reach out … We were dealing with an emergency earlier. I messed
+    up.” “Nah, man, you did the best you could,” the other controller says in the
+    recording. Donald Trump told reporters in response to the incident: “They made
+    a mistake; it’s a dangerous business. That’s terrible.” Mark Carney, Canada’s
+    prime minister, said the collision was “deeply saddening”. Sean Duffy, the US
+    transportation secretary, said in a statement that “our prayers this morning are
+    with the families impacted by the ground collision at LaGuardia”, and that the
+    FAA was deploying a team to the site to support the investigation. Officials will
+    look at whether air traffic control staffing levels were an issue in the deadly
+    crash. Kathryn Garcia, the Port Authority executive director, said at a news conference
+    that Forest and Gunther were both based in Canada. View image in fullscreen The
+    aftermath of the collision at LaGuardia airport. Photograph: Anadolu/Getty Images
+    “The loss of our two fellow crewmembers onboard Flight 8646 is a profound tragedy,”
+    said Jason Ambrosi, president of the Air Line Pilots Association, the largest
+    airline pilot union in the world. “These pilots dedicated their careers to the
+    safe transport of passengers, and we are all thinking of their families, loved
+    ones, and colleagues at Jazz Aviation during this devastating time.” Photos showed
+    significant damage to the nose of the plane, which was tilted upwards. Stairways
+    used to evacuate passengers from aircraft were pushed up to the emergency exits
+    on the jet. A photo of the fire vehicle showed it had tipped on to its side. NBC
+    News had earlier said a sergeant and an officer had broken limbs and were in stable
+    condition at a hospital. The truck had been responding to a United Airlines flight,
+    which had declared an emergency due to an odour reported onboard. Controllers
+    told the aircraft that fire trucks were available on site. A 2025 FAA database
+    showed that LaGuardia was in 2024 the 19th busiest out of more than 500 US airports,
+    with more than 16.7 million passengers boarding there. A ground stop was also
+    put in place on Monday morning at Newark Liberty international airport in New
+    Jersey. ABC News reported that an air traffic control tower was evacuated due
+    to reports of smoke. Separate reports indicated that a bus had caught on fire
+    on the New Jersey Turnpike expressway near the airport and was sending smoke billowing
+    into the air. Flight delays there subsequently mounted, with some exceeding an
+    hour, as CNN transportation reporter Pete Muntean reported. The Associated Press
+    contributed reporting'
   difficulty_constant: 6.8
   question_type: Reading Comprehension
   questions:
   - answer: B
-    explanation: 文章第一段明确指出，该卫星是中国首次向阿拉伯国家出口的此类航天器，故选项B正确。
+    explanation: 文章明确提到 Homendy 表示由于现场存在大量的残骸和危险物质（amount of debris and hazardous
+      material），跑道将保持关闭。
     options:
-      A: It marks the first time a Chinese satellite has been launched into orbit.
-      B: It represents the inaugural export of a Chinese communications satellite
-        to an Arab nation.
-      C: It demonstrates the superiority of the DFH-4 satellite platform over Western
-        technology.
-      D: It serves as the final step in the China-Algeria comprehensive strategic
-        partnership.
+      A: The need to preserve evidence for the ongoing NTSB investigation.
+      B: The presence of dangerous debris and hazardous materials at the site.
+      C: The evacuation of the air traffic control tower due to smoke.
+      D: The systematic failure of the airport's emergency response protocols.
     q_number: 1
-    stem: According to the passage, what is the primary significance of the Alcomsat-1
-      launch?
+    stem: According to the passage, what was the primary cause of the runway closure
+      at LaGuardia airport following the crash?
   - answer: C
-    explanation: 文中两位领导人均表示该项目是中阿全面战略伙伴关系的体现，象征着友谊与进一步合作，这直接支持了选项C。
+    explanation: 文中录音显示，一名调度员表示“We were dealing with an emergency earlier. I messed
+      up.”，这表明该调度员承认在之前的应急处置中可能存在失误。
     options:
-      A: The mission was a result of a contract signed in early 2017.
-      B: The two countries intend to limit their cooperation to the aerospace sector.
-      C: Both leaders view the project as a milestone in strengthening bilateral relations.
-      D: The project was primarily initiated to compete with Western space technology.
+      A: The controllers were unable to communicate with the aircraft prior to the
+        crash.
+      B: The fire truck was intentionally ignoring instructions from the control tower.
+      C: The controller on duty acknowledged a possible error during the unfolding
+        emergency.
+      D: The emergency response team had already successfully cleared the runway.
     q_number: 2
-    stem: Which of the following can be inferred from the message exchanged between
-      President Xi and President Bouteflika?
+    stem: What can be inferred from the air traffic control audio recordings mentioned
+      in the text?
   - answer: B
-    explanation: 文章提到该卫星由中国空间技术研究院设计制造，基于DFH-4平台，起飞重量为5.2公吨，选项B符合文意。
+    explanation: 文中提到消防车当时正在响应另一起事故（responding to a separate incident），即一架联合航空的航班报告了异味并宣布了紧急状态。
     options:
-      A: It was developed by a private European firm in partnership with China.
-      B: It is based on the DFH-4 platform and weighs over 5 metric tons.
-      C: It has an estimated lifespan of 10 years for public service operations.
-      D: It was launched from the Jiuquan Satellite Launch Center.
+      A: It was performing a routine safety inspection of the landing strip.
+      B: It was responding to a mechanical failure involving a different aircraft.
+      C: It was attempting to clear debris left by an earlier landing.
+      D: It was transporting airport staff to the scene of a ground incident.
     q_number: 3
-    stem: What is the technical background of the Alcomsat-1 satellite?
+    stem: Why was the fire truck present on the runway when the collision occurred?
   - answer: C
-    explanation: 文章最后一段详细列举了该卫星的用途，包括电视广播、应急通信、远程教育等公共服务，选项C与原文一致。
+    explanation: 文中明确指出官方调查人员将研究航空交通管制的人员配置水平（air traffic control staffing levels）是否是导致这起致命事故的一个问题。
     options:
-      A: Exclusively for military surveillance and national security monitoring.
-      B: To facilitate diplomatic exchanges between China and Western nations.
-      C: To support various public services including education and emergency communication.
-      D: To serve as a test bed for future carrier rocket experimental flights.
+      A: The training standards of Jazz Aviation pilots.
+      B: The structural integrity of the CRJ-900 jet model.
+      C: The sufficiency of air traffic control staffing levels.
+      D: The impact of severe weather conditions on airport visibility.
     q_number: 4
-    stem: What is the intended use of the Alcomsat-1 satellite according to the text?
-  - answer: D
-    explanation: 作者提到副总裁Fu Zhiheng称公司与阿拉伯国家还有其他合同，但没有详细说明，这说明公司拥有其他合作项目，但拒绝透露具体细节。
+    stem: Which of the following is highlighted as a potential focus of the official
+      investigation?
+  - answer: B
+    explanation: 文章主要通过引用各方官方声明（NTSB、FAA、航司代表）和客观记录（录音、数据、事实描述）来陈述事实，整体语调保持了新闻报道的客观性和陈述性。
     options:
-      A: The company is reluctant to disclose information due to legal complications.
-      B: The company has no further plans to cooperate with Arab countries.
-      C: The company prefers to maintain a low profile regarding its commercial strategies.
-      D: The company has other ongoing contracts but is keeping the specific details
-        private.
+      A: Critically condemnatory.
+      B: Objective and reportorial.
+      C: Speculative and alarmist.
+      D: Subjectively empathetic.
     q_number: 5
-    stem: What does the phrase 'without elaborating' in the final paragraph suggest
-      about the company's future?
-  source_journal: China Daily
-  title: Satellite lofted for first Arab country
+    stem: What is the tone of the passage regarding the incident at LaGuardia airport?
+  source_journal: The Guardian
+  title: Two pilots killed after Air Canada jet collision at LaGuardia in New York
 - article_update_date: 03.24.2026
-  body_text: Police officers stand guard outside the New York Port Authority Bus Terminal
-    in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies]
-    A would-be suicide bomber set off part of a homemade explosive device in a subway
-    passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan
-    during Monday's morning rush hour, seriously wounding himself and injuring three
-    others, police said. The injuries to two commuters and a Port Authority police
-    officer were all non-life threatening, according to the New York Fire Department.
-    At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist
-    attack, and he said no other devices had been found. The suspect was identified
-    by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He
-    was in serious condition at Bellevue Hospital Center. Ullah acted alone, police
-    said, and the device was reported to have gone off prematurely in the passage
-    just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one
-    of the busiest transit hubs in the country — at 7:20 am, authorities said. Two
-    commuters and a Port Authority police officer suffered minor injuries, officials
-    said. The device was affixed to Ullah's body with Velcro and zip ties, police
-    officials said. The explosion caused commuter chaos at one of the city's key traffic
-    hubs. "Our lives revolve around the subway," the mayor said. "The choice of New
-    York is always for a reason, because we are beacons of the world. And we show
-    that a society of many background and many faiths can work." "The terrorists want
-    to undermine that," he added. "They yearn to attack New York City." "I'm glad
-    I wasn't there. We were supposed to take a bus out at the time (when the accident
-    happened), so I'm glad we waited," said Monica Gannon, who planned to take the
-    bus back to New Jersey at this morning when the explosion happened. "We are stuck
-    here. Now we are waiting for all this to be over and go back home." "I was evacuated
-    from the terminal after it (the explosion) happened. It was terrible, and I was
-    so scared when I saw some people running,"said Alicia Carmona. She said she was
-    evacuated from the terminal after the explosion and to wait outside the bus terminal
-    for about two hours. Carmona said she planned to pick up her niece at LaGuardia
-    Airport at around 9 am, but now she couldn't make it. "I was thinking to take
-    the subway instead, but the nearby subway stations are closed too."
-  difficulty_constant: 5.4
+  body_text: 'Kerry Sui and Francis Carty perform on the dance floor at Blackpool
+    Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a
+    10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set
+    to compete in Italy and perform on Chinese TV after winning the British juvenile
+    ballroom championship. Kerry and Francis, who is also 10, won the British National
+    Juvenile Ballroom trophy and took first prize last month in the juvenile Latin
+    category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there
+    with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing.
+    She started ballroom and Latin dancing four years ago and was partnered earlier
+    this year with Francis, who lives in the English county of Shropshire. The two
+    were friends before they performed together and Kerry said their friendship is
+    one of the best things about her dancing partnership with Francis. Their hard
+    work, under the guidance of teachers Laura O''Brien and David and Helen Truman,
+    meant Kerry and Francis have seen quite a lot of success. "When Francis is stressed,
+    I can calm him down, because he hasn''t really been in many big competitions,
+    such as the nationals and internationals," Kerry said. "My mum said I have to
+    guide him." Francis said Kerry has a positive attitude and described her as always
+    remaining upbeat. And they both have a dance that they like the least: the tango.
+    "The tango is like an angry dance, you have to be sharp," Kerry said. The dancers
+    often visit each other''s families and describe their friendship and their teachers''
+    involvement as like being in a big family. She said a visit to China put a strain
+    on the close bonds. "I was in China for six weeks and there was a dance studio
+    there where I would practice, but I felt lonely," Kerry said. Francis described
+    the time they spent apart as "horrible". Kerry and Francis were training on Saturday
+    in Wolverhampton, a city in England''s West Midlands region, in advance of a competition
+    in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall
+    across parts of the United Kingdom. The pair head to Italy in January for a competition,
+    before jetting off to China to appear on a TV show.'
+  difficulty_constant: 5.2
   question_type: Reading Comprehension
   questions:
-  - answer: C
-    explanation: 文章提到“the device was reported to have gone off prematurely”，即装置提前爆炸，这解释了为何伤势并不致命，并未造成大规模伤亡。
+  - answer: B
+    explanation: 文章提到他们获得成功离不开老师Laura O'Brien以及David和Helen Truman的指导，对应文中Their hard
+      work, under the guidance of teachers... meant Kerry and Francis have seen quite
+      a lot of success。
     options:
-      A: The terrorist successfully targeted the most crowded area of the bus terminal.
-      B: The explosion resulted in multiple fatalities, causing widespread panic.
-      C: The device detonated earlier than intended, resulting in limited casualties.
-      D: The suspect received immediate support from an accomplice in the subway passage.
+      A: Their long-term experience in professional dancing.
+      B: The professional guidance provided by their teachers.
+      C: Their frequent practice sessions in Italy and China.
+      D: Their decision to move to the same city to train.
     q_number: 1
-    stem: According to the passage, what can be inferred about the perpetrator's intention
-      and the outcome of the explosion?
-  - answer: B
-    explanation: 市长提到“we are beacons of the world. And we show that a society of many
-      background and many faiths can work”，这说明纽约市因其多元融合的象征意义而成为目标。
-    options:
-      A: It has weak security measures at its transit hubs.
-      B: It serves as a symbolic representative of a diverse and functioning society.
-      C: It is the only city in the United States that allows for open expression
-        of faith.
-      D: It frequently hosts high-profile international political conferences.
-    q_number: 2
-    stem: 'Mayor Bill de Blasio''s statement suggests that New York City is often
-      targeted by terrorists because:'
+    stem: What is mentioned as a contributing factor to the success of Kerry Sui and
+      Francis Carty?
   - answer: C
-    explanation: 文中Alicia Carmona提到她被疏散，且原本接侄女的计划被迫取消，附近地铁站也关闭了，说明出行计划受到了严重干扰。
+    explanation: 文中Kerry表示当Francis感到压力时，她能让他冷静下来，因为她更有经验，并提到她妈妈让她去引导Francis，这说明她为同伴提供了情感支持。
     options:
-      A: She was physically injured and required immediate hospitalization.
-      B: She lost her belongings while running away from the bus terminal.
-      C: She was forced to abandon her plans due to evacuations and transit closures.
-      D: She successfully managed to reach the airport by using an alternative route.
+      A: She relies on her parents to guide her partner.
+      B: She focuses exclusively on perfecting the tango.
+      C: She provides emotional support to her partner.
+      D: She avoids practicing in large stadiums.
+    q_number: 2
+    stem: How does Kerry handle the stress associated with dancing competitions?
+  - answer: A
+    explanation: 文中提到他们最不喜欢tango，Kerry称其为一种愤怒的舞蹈，且要求动作sharp（锋利/严谨），这暗示了该舞种对情绪表达和技术细节要求极高。
+    options:
+      A: They find it emotionally and technically demanding.
+      B: They consider it their most successful performance style.
+      C: They are eager to master it to win more prizes.
+      D: They avoid practicing it because it is too simple.
     q_number: 3
-    stem: How did the explosion affect the daily lives of commuters like Alicia Carmona?
+    stem: What can be inferred about the pair's feelings toward the tango?
   - answer: B
-    explanation: '''Would-be''在此处表示“未遂的”或“自封的”，结合上下文该袭击未造成致命后果且属于未遂的恐怖主义行为，旨在强调其目标未达成。'
+    explanation: 结合语境，Kerry去中国六周，两人分开感到孤独和“horrible”，这表明这段分开的经历对他们的友谊和紧密联系造成了压力或考验。
     options:
-      A: To imply that the suspect was coerced by others into committing the act.
-      B: To highlight that the mission failed to achieve its ultimate destructive
-        goal.
-      C: To suggest that the suspect regretted his decision at the last moment.
-      D: To emphasize that the suspect was not affiliated with any known terrorist
-        organization.
+      A: strengthened.
+      B: tested.
+      C: formalized.
+      D: interrupted.
     q_number: 4
-    stem: What is the primary function of the phrase 'would-be' when describing the
-      suicide bomber in the first paragraph?
-  - answer: B
-    explanation: 目击者描述中使用了“scared”、“stuck”、“terrible”等词汇，表现出袭击事件对其正常生活造成的惊慌与干扰，故选B。
+    stem: 'The phrase ''put a strain on'' in the fifth paragraph most likely means:'
+  - answer: C
+    explanation: 文章结尾明确提到这对搭档一月份会去意大利参加比赛，随后前往中国参加电视节目。A选项中Stoke-on-Trent的比赛是因为天气取消，不是他们主动放弃。
     options:
-      A: Indifferent and detached.
-      B: Anxious and disrupted.
-      C: Aggressive and defensive.
-      D: Optimistic and hopeful.
+      A: They will skip the competition in Stoke-on-Trent.
+      B: They are planning to permanently move to China.
+      C: They are preparing for a performance in Italy.
+      D: They will appear on a television show in the United Kingdom.
     q_number: 5
-    stem: Which of the following best describes the tone of the eyewitness accounts
-      in the article?
+    stem: Which of the following is true about Kerry and Francis's upcoming plans?
   source_journal: China Daily
-  title: Would-be suicide bomber sets off explosion in NYC
+  title: Young Chinese-Irish ballroom dancer goes international
+- article_update_date: 03.24.2026
+  body_text: Before the start of the 15th China-Russia-India trilateral meeting, Foreign
+    Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of
+    External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed
+    a range of issues and pledged to implement and strengthen outcomes of BRICS and
+    the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and
+    India agreed to maintain regional security and economic architecture in the Asia-Pacific,
+    according to a joint statement issued on Monday after the 15th trilateral meeting
+    of the foreign ministers of the three countries. Maintaining regional security
+    and economic architecture that is "open, inclusive and based on multilateralism
+    and universally recognized principles of international law" is imperative for
+    lasting peace and stability in the region, the statement said. The three countries
+    emphasized the need for coordination and cooperation in various regional forums
+    and organizations such as the East Asia Summit to maintain regional peace and
+    stability and to promote regional development and prosperity. During the one-day
+    meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian
+    counterpart Sushma Swaraj discussed a wide range of global and regional issues
+    of common concern, according to the statement. The three countries reiterated
+    the importance they attached to cooperation and strategic partnership within BRICS.
+    "We will work together to implement all outcomes of BRICS summits to strengthen
+    cooperation in economic, political, security and people-to-people fields, so as
+    to usher in the second golden decade of BRICS cooperation," said the statement,
+    while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen
+    in September. The three countries also attached special importance to the joint
+    work within the Shanghai Cooperation Organization, saying the SCO is an important
+    instrument in promoting multilateral political, security, economic and people-to-people
+    interaction in the region. Describing the Russia-India-China trilateral format
+    as a platform to foster closer dialogue and practical cooperation in identified
+    areas among the three countries, the joint statement said such cooperation is
+    not directed against any other country. "We wish to strengthen the trilateral
+    dialogue for consultation and coordination on regional and global issues of mutual
+    interest in the spirit of mutual understanding and trust," it said. "Our cooperation
+    is conducive to maintaining international and regional peace and stability, and
+    promoting global economic growth and prosperity," it added. XINHUA
+  difficulty_constant: 7.2
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到三方旨在加强BRICS和上海合作组织的成果。选项A中'exclusive'与文中的'inclusive'矛盾，选项C中未提及军事联盟，选项D中描述与事实不符。
+    options:
+      A: To reorganize the global economic architecture through exclusive partnerships.
+      B: To discuss and strengthen outcomes of existing frameworks like BRICS and
+        the SCO.
+      C: To form a military alliance against external threats in the Asia-Pacific
+        region.
+      D: To host the Ninth BRICS Summit for the second time in Xiamen.
+    q_number: 1
+    stem: According to the passage, what is the primary objective of the China-Russia-India
+      trilateral meeting in New Delhi?
+  - answer: C
+    explanation: 文章第二段明确指出该架构是'open, inclusive and based on multilateralism and universally
+      recognized principles of international law'，直接支持选项C。
+    options:
+      A: Isolationist and protectionist in its approach to trade.
+      B: Strictly limited to the political interests of the three member states.
+      C: Open, inclusive, and based on multilateral principles.
+      D: Prioritizing individual national security over international law.
+    q_number: 2
+    stem: Which of the following phrases best characterizes the 'regional security
+      and economic architecture' advocated by the three countries?
+  - answer: B
+    explanation: 该短语出现在谈论落实BRICS峰会成果之后，暗示的是对合作广度和深度的进一步拓展，旨在延续并提升之前的合作成就。
+    options:
+      A: The termination of BRICS cooperation after the first decade.
+      B: A commitment to deepen and extend the success of BRICS collaboration.
+      C: The replacement of BRICS with a more effective international organization.
+      D: A purely symbolic gesture without concrete economic goals.
+    q_number: 3
+    stem: What does the phrase 'usher in the second golden decade of BRICS cooperation'
+      imply?
+  - answer: C
+    explanation: 文章倒数第二段明确提到'such cooperation is not directed against any other country'，直接对应选项C。
+    options:
+      A: Targeted against specific regional powers.
+      B: A defensive mechanism for regional territorial disputes.
+      C: A neutral platform for dialogue not directed against any other country.
+      D: An alternative to global organizations like the United Nations.
+    q_number: 4
+    stem: 'According to the joint statement, the trilateral cooperation is intended
+      to be:'
+  - answer: B
+    explanation: 文章提到SCO是'an important instrument in promoting multilateral political,
+      security, economic and people-to-people interaction in the region'，选项B是对这一表述的同义改写。
+    options:
+      A: A forum solely focused on resolving historical security grievances.
+      B: An essential tool for fostering multilateral interaction in the region.
+      C: A regulatory body for international trade in the Asia-Pacific.
+      D: An experimental framework that replaces the need for trilateral dialogue.
+    q_number: 5
+    stem: What is the implied role of the Shanghai Cooperation Organization (SCO)
+      as described in the text?
+  source_journal: China Daily
+  title: Chinese, Russian and Indian ministers meet
