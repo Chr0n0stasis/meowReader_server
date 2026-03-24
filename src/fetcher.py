@@ -253,7 +253,10 @@ class DataFetcher:
         book = epub.read_epub(epub_path)
         
         for idx, item in enumerate(book.get_items()):
-            if item.get_type() == ebooklib.ITEM_DOCUMENT:
+            is_doc = item.get_type() == ebooklib.ITEM_DOCUMENT
+            is_html = getattr(item, 'media_type', '') in ['text/html', 'application/xhtml+xml']
+            
+            if is_doc or is_html:
                 soup = BeautifulSoup(item.get_content(), 'html.parser')
                 text = soup.get_text(separator='\n', strip=True)
                 title_val = soup.title.string if soup.title else None
