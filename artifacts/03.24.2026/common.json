@@ -2,282 +2,282 @@
   "group_update_date": "03.24.2026",
   "papers": [
     {
-      "title": "‘Unaffordable’ visa price hike threatens Australia’s researcher pipeline",
+      "title": "Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports",
       "article_update_date": "03.24.2026",
-      "source_journal": "Nature",
-      "body_text": "An increase in the price of an Australian visa might make it more difficult for graduates to stay in the nation after they complete their degree.Credit: Bianca De Marchi /AAP/Alamy University and postgraduate groups in Australia are urging their government to exempt PhD graduates from the surprise doubling of a key visa fee, warning that the price increase will drive international research talent away. On 1 March, the Australian Department of Home Affairs said that the fee charged for higher-education temporary graduate visas (a category called subclass 485) would double with immediate effect, from Aus$2,300 (around US$1,600) to Aus$4,600. The visa allows international students who have graduated from Australian universities less than six months previously to remain in the nation for a few years (usually two or three depending on the type of qualification they receive) after completing their degrees. It lets graduates either continue their studies or find work and can serve as a bridge for those transitioning from PhD programmes to postdoctoral positions or into other research careers. On 10 March, the Council of Australian Postgraduate Associations (CAPA) wrote to Tony Burke, the home affairs minister, arguing that the increased fee risks cutting off Australia’s “critical pipeline” of foreign research talent. The organization called on the government to exempt people who are completing research-based master’s or PhD degrees from the price hike. For PhD students who would like to stay in Australia after graduating, this visa is, on average, the equivalent of 13% of their yearly stipend. PhD students already cite cost of living as their biggest concern, CAPA said. “Doubling the cost of their ticket into early-career research … will turn the talent elsewhere,” said the organization. Australia must boost R&D investment to reclaim global research standing In 2023, international candidates made up 40% of all PhD enrolments in Australia, compared with an average of 25% in 2022 across Organisation for Economic Co-operation and Development (OECD) nations. The visa fee hike could add to other pressures that universities face when recruiting research talent, such as a lack of funding available for PhD stipends — which often sit close to the poverty line — and a cap on university spending that limits the proportion of doctoral funding that can be offered to international students to 10%. One international PhD student at an Australian university, who asked not to be identified owing to concerns about future visa applications, told Nature that the increased fees might affect the pipeline of postdocs into Australian research. “Universities will potentially lose some often-exceptional candidates that can’t afford to put that much money upfront, way before they start getting paid,” he said. Extra measures The visa fee increase is the latest in a series of tightened immigration measures flowing from a migration strategy launched by the Australian government in December 2023. The strategy aimed to fix what it described as a “broken” migration system, tackling serial ‘visa hopping’, a tactic that enabled visitors to stay in the nation for a long time by moving between visa types. The measures also seek to protect Australia’s higher-education system from “unscrupulous” actors, including “ghost schools” that allow students to enroll without attending real classes as a route to live and work in the nation. Since then, changes to migration policies have come in quick succession. In 2024, the maximum eligible age for the 485 visa was reduced from 50 to 35, although postgraduates with research-based degrees were exempt from the change. From January this year, further restrictions on visa hopping will prevent holders of 485 and visitor visas from applying for student visas while in Australia.",
-      "difficulty_constant": 6.8,
+      "source_journal": "The Guardian",
+      "body_text": "A strike on a healthcare facility in Sudan has killed 64 people and wounded 89 more, the World Health Organization reported on Saturday. The UN’s humanitarian office in Sudan had earlier said it was “appalled by the attack on a hospital in East Darfur yesterday, reportedly killing dozens, including children, and injuring more”. Sudanese rights group the Emergency Lawyers, who document atrocities in the war between Sudan’s army and the paramilitary Rapid Support Forces, reported it was an army drone strike that hit the El-Daein teaching hospital. The RSF dominates the vast western Darfur region, while the army is in control of Sudan’s east, centre and north. The WHO’s surveillance system for attacks marked Friday’s incident as “confirmed” but did not give an exact location. The attack involved “violence with heavy weapons” and affected a secondary health care facility, medical personnel, patients, supplies and storage, the record showed. Though the WHO counts and verifies attacks on health care, it does not attribute blame, as it is not an investigative agency. El-Daein, the RSF-controlled state capital of East Darfur, has been regularly attacked by the army, which is trying to push the paramilitary back towards its Darfur strongholds and away from Sudan’s central corridor. Its most recent strike on the city’s market earlier this month set fire to oil barrels that burned for hours. Near-daily drone strikes are now a hallmark of Sudan’s brutal war, killing dozens at a time, mostly in the southern Kordofan region. The UN human rights chief, Volker Türk, this month said he was “appalled” after more than 200 civilians were reported killed by drone attacks within an eight-day period. “Parties to the conflict in Sudan continue to use increasingly powerful drones to deploy explosive weapons with wide-area impacts in populated areas,” he said. To the repeated condemnation of the UN, hospitals have been a regular target throughout the war. By December, more than 1,800 people had been killed in attacks on health facilities since the start of the war, including 173 health workers, according to the UN. This year, a total of 12 attacks on health care in Sudan have been recorded, causing 178 deaths and 237 injuries. Across the country, the war has killed tens of thousands and driven more than 11 million people from their homes. It has fuelled what the UN describes as the world’s largest displacement and hunger crises, with more than 33 million people in need of humanitarian aid.",
+      "difficulty_constant": 8.4,
       "question_type": "Use of English",
       "questions": [
         {
           "q_number": 1,
-          "stem": "The primary reason Australian universities and postgraduate groups are urging the government to exempt PhD graduates from the visa fee increase is to ____.",
+          "stem": "The UN’s humanitarian office in Sudan expressed deep shock, using the word \"______\" to describe their reaction to the attack on the hospital.",
           "options": {
-            "A": "maintain the current cost of living for international students.",
-            "B": "prevent a decline in international research talent entering the country.",
-            "C": "encourage more graduates to pursue undergraduate degrees.",
-            "D": "simplify the visa application process for all graduates."
+            "A": "appalled",
+            "B": "apathetic",
+            "C": "ambiguous",
+            "D": "applicable"
           },
-          "answer": "B",
-          "explanation": "The article states that universities and postgraduate groups are warning that the price increase will 'drive international research talent away,' indicating their primary concern is retaining skilled researchers."
+          "answer": "A",
+          "explanation": "根据原文“appalled by the attack on a hospital”，appalled意为“极其震惊的/愤慨的”，符合语境中联合国机构对袭击医院行为的谴责态度。"
         },
         {
           "q_number": 2,
-          "stem": "What is the main purpose of the temporary graduate visa (subclass 485) as described in the text?",
+          "stem": "The World Health Organization does not point fingers or assign ______ for the attacks because it is not an investigative body.",
           "options": {
-            "A": "To allow international students to start their studies in Australia immediately after graduation.",
-            "B": "To provide a pathway for international students to work in Australia after completing their degrees and potentially pursue further research.",
-            "C": "To enable recent graduates to find temporary housing while searching for permanent employment.",
-            "D": "To facilitate the transition of Australian citizens into postgraduate programs overseas."
+            "A": "merit",
+            "B": "blame",
+            "C": "tribute",
+            "D": "caution"
           },
           "answer": "B",
-          "explanation": "The text explains that the visa 'allows international students who have graduated from Australian universities... to remain in the nation for a few years... after completing their degrees. It lets graduates either continue their studies or find work and can serve as a bridge for those transitioning from PhD programmes to postdoctoral positions or into other research careers.'"
+          "explanation": "原文提到“it does not attribute blame”，意为“不归咎责任”，blame符合语义逻辑，即WHO作为非调查机构，不对袭击方的责任进行定性。"
         },
         {
           "q_number": 3,
-          "stem": "According to the Council of Australian Postgraduate Associations (CAPA), the increased visa fee for PhD graduates represents a significant financial burden because ____.",
+          "stem": "Near-daily drone strikes have become a ______ of Sudan’s brutal war, appearing frequently in the conflict.",
           "options": {
-            "A": "it exceeds the average annual stipend of a PhD student.",
-            "B": "it is disproportionately high compared to other visa application costs.",
-            "C": "it constitutes a substantial percentage of their yearly earnings.",
-            "D": "it must be paid upfront before any research funding is received."
+            "A": "hallmark",
+            "B": "byproduct",
+            "C": "milestone",
+            "D": "counterpart"
           },
-          "answer": "C",
-          "explanation": "CAPA states that 'For PhD students who would like to stay in Australia after graduating, this visa is, on average, the equivalent of 13% of their yearly stipend.' This indicates it's a considerable portion of their income."
+          "answer": "A",
+          "explanation": "hallmark意为“标志/显著特征”，文中指无人机袭击已成为苏丹残酷战争的一个典型特征，符合句意。"
         },
         {
           "q_number": 4,
-          "stem": "The article mentions that in 2023, international candidates constituted a larger proportion of PhD enrolments in Australia compared to the average across OECD nations. This statistic is used to highlight ____.",
+          "stem": "Sudanese warring factions are using increasingly powerful drones to deploy weapons in ______ areas, leading to mass civilian casualties.",
           "options": {
-            "A": "Australia's declining attractiveness for international students.",
-            "B": "the success of previous government policies in attracting global talent.",
-            "C": "the potential negative impact of the visa fee hike on Australia's research landscape.",
-            "D": "the increasing cost of doctoral education in OECD countries."
+            "A": "remote",
+            "B": "populated",
+            "C": "vacant",
+            "D": "secluded"
           },
-          "answer": "C",
-          "explanation": "By presenting Australia's high percentage of international PhD students in 2023, the article sets a context that makes the subsequent concern about driving talent away due to increased fees more impactful, suggesting a potential decline from this strong position."
+          "answer": "B",
+          "explanation": "文中提到在“populated areas”（人口稠密地区）使用爆炸性武器，这解释了为何造成大量平民伤亡，populated在此处最为准确。"
         },
         {
           "q_number": 5,
-          "stem": "The Australian government's recent migration strategy, launched in December 2023, aims to address issues such as 'broken' migration systems and 'visa hopping'. The increase in the temporary graduate visa fee can be seen as ____.",
+          "stem": "The ongoing war in Sudan has ______ what the UN describes as the world’s largest displacement and hunger crises.",
           "options": {
-            "A": "an unrelated policy change occurring simultaneously with the strategy.",
-            "B": "a measure designed to curb specific immigration tactics and reinforce the strategy's goals.",
-            "C": "an initiative to encourage more international students to stay permanently in Australia.",
-            "D": "a response to pressure from international research talent to reduce visa costs."
+            "A": "fuelled",
+            "B": "alleviated",
+            "C": "discarded",
+            "D": "contained"
           },
-          "answer": "B",
-          "explanation": "The article explicitly states, 'The visa fee increase is the latest in a series of tightened immigration measures flowing from a migration strategy launched by the Australian government in December 2023. The strategy aimed to fix what it described as a 'broken' migration system, tackling serial ‘visa hopping’...' This directly links the fee increase as part of the broader strategy to control migration."
+          "answer": "A",
+          "explanation": "fuelled意为“加剧/刺激”，指战争导致了严重的人道主义危机。alleviated（缓解）与文意相反，discarded（抛弃）和contained（包含/控制）逻辑不通。"
         }
       ]
     },
     {
-      "title": "Chapter 235",
+      "title": "Satellite lofted for first Arab country",
       "article_update_date": "03.24.2026",
-      "source_journal": "Economist",
-      "body_text": "TheEconomist.2026.03.21 The world this week Politics Business The weekly cartoon Leaders War in Iran is making Donald Trump weaker—and angrier Lebanon’s leaders must take on Hizbullah Africa after aid is more resilient than you might think A dirty deal with Cuba would be better than the alternatives Gas will not be killed off by renewables any time soon Letters Are data centres in space less crazy than we think? By Invitation America’s friends must help extricate it from an unlawful war Briefing There is plenty of scope for the Iran war to intensify The Iran war could sap American military power for years The assassination of senior leaders weakens Iran—but at a cost United States How the Iran war is hurting Donald Trump Tucker Carlson on whether Donald Trump has betrayed his base A muddled war and rising prices are boosting Democrats’ midterm hopes American farmers are feeling the squeeze Is an obsession with immigration leaving America exposed? Does Donald Trump even care about the midterms? The Americas Cuba’s broken economy leaves it at Donald Trump’s mercy Asia Will America’s Asian allies get dragged into the Iran war? Panicked Indians are scrambling to buy gas What Nitish Kumar did for Bihar, India’s poorest state Life in Myanmar’s biggest city is increasingly grim A deadly strike in Kabul could have big knock-on effects China Is cheap energy the key to China gaining AI supremacy? Public opinion in China is hardening on America and Taiwan Why China’s fight on air pollution has slowed A Maoist survival guide to the Iranian energy crisis Middle East & Africa Africa’s richest man has ambitious plans for the continent The war in eastern Congo is escalating far from view A shake-up at Africa’s spikiest media group Israel contemplates a ground invasion of Lebanon Europe The Iran war is forcing Europe to confront its energy problem Vladimir Putin enjoys a huge windfall from the Iran war Viktor Orban’s pro-natalist policies are not working A spy scandal upends Slovenia’s election campaign The quiet recovery of Ireland’s ancient tongue How Ukraine and Europe got caught in a geopolitical lovers’ tiff Britain Britain’s chancellor starts a tilt towards Europe By our calculations, motoring in Britain has rarely been so cheap Britain’s youngsters are increasingly out of work The Duke of Edinburgh’s award is more popular than ever The new Archbishop of Canterbury inherits a church in turmoil Industrial-scale fly-tipping is spreading across Britain CBeebies or barbarism! International The future of Africa will be shaped by investment rather than aid America’s failing gunboat diplomacy Business Nvidia is expanding its empire Trouble is brewing among America’s corporate borrowers War may bring lasting change to the airline business The Iran war casts a shadow over BASF’s nascent revival Why AI has not yet upset India’s IT industry How Zara fought off H&M and Shein The secrets to a good employee survey Elliott Management and the art of telling bosses they’re wrong Finance & economics America may be a petrostate. But the energy shock still hurts What if Donald Trump decided to ban oil exports? China cannot escape the energy shock Which country is the biggest loser from the energy shock? The Iran war is roiling commodities far beyond oil Will South Korea’s epic bull market survive the energy shock? The new economics of sex work Science & technology China is a serious contender in the race for fusion energy The next phase of artificial intelligence may require very different processors Rapid-charging EV batteries are on the way Should you take GLP-1 drugs for longevity? Culture War is only the starkest way that politics is disrupting tourism Which is the best sparkling water? Re-examining one of the world’s most notorious assassinations It’s strictly business: the enduring allure of mafiosi in culture Looking for a Paris hotel with a past? Economic & financial indicators Economic data, commodities and markets Obituary Jürgen Habermas hoped rational discussion could save the world",
-      "difficulty_constant": 8.7,
+      "source_journal": "China Daily",
+      "body_text": "Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria. A Long March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes before placing the Alcomsat-1, the Algeria's first communications satellite, into geostationary transfer orbit, according to a news release from China Great Wall Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the successful mission. In his message, Xi said that the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership. It has become a good example of space cooperation between China and Arab countries and will play a significant role in promoting Algeria's economic and social development, he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges and cooperation in various fields, deepening the bilateral partnership so as to benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable achievement in space cooperation between the two countries and reflects the deep traditional friendship between the two sides. Algeria is willing to work with China to strengthen cooperation, he said. The satellite contract was signed in December 2013 between the Algerian Space Agency and China Great Wall Industry Corp, the country's largest space contractor in the international market. Alcomsat-1 was designed and manufactured by the China Academy of Space Technology, part of China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform. With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the satellite will be used for a wide variety of public services such as television broadcasting, emergency communications, remote education and satellite-based signal augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of the company, said Alcomsat-1 is as good as Western communications satellites in terms of technology and capacity. He said there are other contracts between his firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn",
+      "difficulty_constant": 5.2,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "Based on the provided text, which of the following regions is NOT explicitly mentioned as being significantly impacted or discussed in relation to the 'Iran war' or its consequences?",
+          "stem": "What is the primary significance of the Alcomsat-1 launch mentioned in the text?",
           "options": {
-            "A": "The United States",
-            "B": "Europe",
-            "C": "South America",
-            "D": "Asia"
+            "A": "It marks the first time China has exported a spacecraft to an Arab country.",
+            "B": "It is the first satellite ever launched by the Long March 3B carrier rocket.",
+            "C": "It symbolizes the official start of a space competition between China and Western nations.",
+            "D": "It serves as the first instance of Algeria collaborating with a space-capable country."
           },
-          "answer": "C",
-          "explanation": "The text details the 'Iran war's' impact on the United States (hurting Donald Trump, military power, etc.), Europe (energy problems), and Asia (dragging allies in, Indian gas scramble, etc.). South America is not directly mentioned in connection to the Iran war's effects within this context."
+          "answer": "A",
+          "explanation": "文章第一段明确指出：A Chinese-made communications satellite became the first 'export' of such a spacecraft to an Arab country。故A项正确。"
         },
         {
           "q_number": 2,
-          "stem": "The article 'War in Iran is making Donald Trump weaker—and angrier' suggests a potential correlation between the Iran war and Donald Trump's political standing. What is the primary sentiment conveyed about Trump's reaction to this situation?",
+          "stem": "How did President Xi Jinping characterize the Alcomsat-1 project?",
           "options": {
-            "A": "He is calmly strategizing diplomatic solutions.",
-            "B": "He is becoming more politically vulnerable and irritable.",
-            "C": "He is focusing on economic recovery measures.",
-            "D": "He is delegating war responsibilities to allies."
+            "A": "As a purely financial venture between two commercial entities.",
+            "B": "As a critical step in China's military expansion in North Africa.",
+            "C": "As a key manifestation of the comprehensive strategic partnership between China and Algeria.",
+            "D": "As a minor technical experiment with limited long-term impact on social development."
           },
-          "answer": "B",
-          "explanation": "The headline explicitly states the war is making Trump 'weaker—and angrier,' directly indicating a negative impact on his political strength and an increase in his negative emotional state."
+          "answer": "C",
+          "explanation": "文章第四段引述习近平主席的话：the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership。故C项符合题意。"
         },
         {
           "q_number": 3,
-          "stem": "According to the text, which of the following is presented as a potential consequence of the Iran war for American military power?",
+          "stem": "Which of the following statements best describes the design and technical background of Alcomsat-1?",
           "options": {
-            "A": "It will lead to a significant reduction in military spending.",
-            "B": "It could deplete American military capabilities for an extended period.",
-            "C": "It will necessitate a complete withdrawal from global military engagements.",
-            "D": "It will result in a swift and decisive victory, enhancing US influence."
+            "A": "It was designed by international partners to ensure global compatibility.",
+            "B": "It utilizes the DFH-4 satellite platform and was built by the China Academy of Space Technology.",
+            "C": "It is an outdated model sold to Algeria at a discounted price.",
+            "D": "It has a shorter lifespan compared to Western-made satellites."
           },
           "answer": "B",
-          "explanation": "The article mentions 'The Iran war could sap American military power for years,' directly suggesting a long-term depletion of capabilities."
+          "explanation": "文章第八段明确指出：Alcomsat-1 was designed and manufactured by the China Academy of Space Technology... based on the DFH-4 satellite platform。故B项正确。"
         },
         {
           "q_number": 4,
-          "stem": "The article mentions that 'Public opinion in China is hardening on America and Taiwan.' What does this suggest about the relationship between China, America, and Taiwan in the context of the broader geopolitical landscape presented?",
+          "stem": "According to the passage, what is the intended use of the Alcomsat-1 satellite?",
           "options": {
-            "A": "China is seeking closer ties with both America and Taiwan.",
-            "B": "China's stance towards America and Taiwan is becoming more rigid and potentially confrontational.",
-            "C": "China is advocating for de-escalation and peaceful resolution of disputes.",
-            "D": "China views America and Taiwan as strategic partners in regional security."
+            "A": "Primarily for military reconnaissance and border surveillance.",
+            "B": "Exclusively for television broadcasting and entertainment.",
+            "C": "For a diverse range of public services including education and emergency communications.",
+            "D": "For scientific research into the geostationary transfer orbit."
           },
-          "answer": "B",
-          "explanation": "The phrase 'hardening on' implies a strengthening of negative or resistant attitudes, indicating a more inflexible and potentially adversarial position from China regarding America and Taiwan."
+          "answer": "C",
+          "explanation": "文章第九段提到：the satellite will be used for a wide variety of public services such as television broadcasting, emergency communications, remote education and satellite-based signal augmentation。故C项正确。"
         },
         {
           "q_number": 5,
-          "stem": "Which of the following business sectors is explicitly mentioned as potentially undergoing significant transformation due to the Iran war?",
+          "stem": "What can be inferred from the remarks made by Fu Zhiheng regarding the satellite's quality?",
           "options": {
-            "A": "Technology and Artificial Intelligence",
-            "B": "Renewable Energy and Gas",
-            "C": "Airline Industry",
-            "D": "Luxury Fashion Retail"
+            "A": "The satellite is technologically inferior to Western models but cost-effective.",
+            "B": "The satellite is highly competitive and comparable to those produced in the West.",
+            "C": "The satellite represents a collaborative effort incorporating Western technology.",
+            "D": "The company struggles to match the standards set by Western space contractors."
           },
-          "answer": "C",
-          "explanation": "Under the 'Business' section, the article states, 'War may bring lasting change to the airline business,' directly linking the war to potential shifts in this industry."
+          "answer": "B",
+          "explanation": "文章最后一段指出：Fu Zhiheng... said Alcomsat-1 is as good as Western communications satellites in terms of technology and capacity。这说明其技术水平与西方卫星旗鼓相当。故B项正确。"
         }
       ]
     },
     {
-      "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
+      "title": "Satellite lofted for first Arab country",
       "article_update_date": "03.24.2026",
-      "source_journal": "The Guardian",
-      "body_text": "Madagascar’s military president has said new ministers will have to pass lie detector tests to root out corrupt candidates, after he dismissed the prime minister and cabinet without explanation earlier this month. Michael Randrianirina came to power in a coup in October after weeks of youth-led protests under the banner “Gen Z Madagascar”. However, young people were quickly disenchanted by his choice of government officials, which they saw as being part of the old, corrupt elite. Randrianirina told local media: “We have decided to use a polygraph. It is with this polygraph that the background integrity checks will be carried out.” The president said a new cabinet would be announced early next week. “We will know who is corrupt and who can help us, who is going to betray the youth struggle,” he said. View image in fullscreen A youth protester throws a teargas canister back at security forces during clashes in October. Photograph: Luis Tato/AFP/Getty Images Malagasy young people started protesting in September last year, first against water and power cuts, then demanding a complete overhaul of the political system. At least 22 people were killed in the first days of the protests, according to the UN. On 11 October, the elite military unit Capsat, in which Randrianirina was a colonel, came out in support of protesters. The next day, the president, Andry Rajoelina, reportedly fled the country for Dubai on a French military plane. Randrianirina was sworn in as interim president and has pledged to hold elections by late 2027. Gen Z activists have been pushing him to confirm the date, while criticising his appointments over their perceived ties to the previous regime. Randrianirina fired the prime minister and cabinet on 9 March, then announced on Sunday that the anti-corruption chief, Mamitiana Rajaonarison, would be the new prime minister. He and Rajaonarison would only interview ministerial candidates who passed a lie detector test, he said on Thursday. He said: “We’re not looking for someone who is 100% clean, but over 60%. That way, Madagascar will finally be able to develop.” One of the managers of Gen Z Madagascar’s social media accounts expressed scepticism at the use of polygraphs. “It’s not even scientifically proven to work,” he said. “For me it’s just a joke and embarrassing.” He added: “We agree that the previous ministers weren’t good. We still have hope for the new ministers, but in general I think this regime is already better than the regime of Andry Rajoelina.” Madagascar is one of the world’s poorest countries, with a GDP per capita of just $545 (£408) in 2024, according to World Bank data. The island is rich in natural resources, including vanilla and precious gems, which campaigners say have been exploited by officials and corrupt businesspeople. The country ranked 148 out of 180 countries in Transparency International’s 2025 corruption perceptions index. Agence-France Presse and Associated Press contributed to this report",
-      "difficulty_constant": 6.7,
+      "source_journal": "China Daily",
+      "body_text": "Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria. A Long March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes before placing the Alcomsat-1, the Algeria's first communications satellite, into geostationary transfer orbit, according to a news release from China Great Wall Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the successful mission. In his message, Xi said that the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership. It has become a good example of space cooperation between China and Arab countries and will play a significant role in promoting Algeria's economic and social development, he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges and cooperation in various fields, deepening the bilateral partnership so as to benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable achievement in space cooperation between the two countries and reflects the deep traditional friendship between the two sides. Algeria is willing to work with China to strengthen cooperation, he said. The satellite contract was signed in December 2013 between the Algerian Space Agency and China Great Wall Industry Corp, the country's largest space contractor in the international market. Alcomsat-1 was designed and manufactured by the China Academy of Space Technology, part of China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform. With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the satellite will be used for a wide variety of public services such as television broadcasting, emergency communications, remote education and satellite-based signal augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of the company, said Alcomsat-1 is as good as Western communications satellites in terms of technology and capacity. He said there are other contracts between his firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn",
+      "difficulty_constant": 6.8,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "What is the primary reason cited for the dismissal of the prime minister and cabinet by Madagascar's military president?",
+          "stem": "According to the passage, what is the primary significance of the Alcomsat-1 launch?",
           "options": {
-            "A": "Lack of explanation for their policies.",
-            "B": "Allegations of corruption and dissatisfaction with government appointments.",
-            "C": "Failure to address youth-led protests effectively.",
-            "D": "Disagreements over the implementation of lie detector tests."
+            "A": "It marks the first time a Chinese satellite has been launched into orbit.",
+            "B": "It represents the inaugural export of a Chinese communications satellite to an Arab nation.",
+            "C": "It demonstrates the superiority of the DFH-4 satellite platform over Western technology.",
+            "D": "It serves as the final step in the China-Algeria comprehensive strategic partnership."
           },
           "answer": "B",
-          "explanation": "The article states that the president dismissed the prime minister and cabinet, and later announced new ministers would need to pass lie detector tests to 'root out corrupt candidates'. It also mentions that young people were 'disenchanted by his choice of government officials, which they saw as being part of the old, corrupt elite'. While youth protests were a catalyst for the change in power, the immediate reason for the cabinet dismissal and the subsequent policy is related to corruption concerns."
+          "explanation": "文章第一段明确指出，该卫星是中国首次向阿拉伯国家出口的此类航天器，故选项B正确。"
         },
         {
           "q_number": 2,
-          "stem": "What is the proposed method to ensure the integrity of new ministerial candidates in Madagascar?",
+          "stem": "Which of the following can be inferred from the message exchanged between President Xi and President Bouteflika?",
           "options": {
-            "A": "Public scrutiny of their past actions.",
-            "B": "Background checks conducted by independent auditors.",
-            "C": "Passing lie detector (polygraph) tests.",
-            "D": "Interviews with representatives of 'Gen Z Madagascar'."
+            "A": "The mission was a result of a contract signed in early 2017.",
+            "B": "The two countries intend to limit their cooperation to the aerospace sector.",
+            "C": "Both leaders view the project as a milestone in strengthening bilateral relations.",
+            "D": "The project was primarily initiated to compete with Western space technology."
           },
           "answer": "C",
-          "explanation": "The president, Michael Randrianirina, explicitly stated, 'We have decided to use a polygraph. It is with this polygraph that the background integrity checks will be carried out.' He further elaborated that he and the new prime minister would 'only interview ministerial candidates who passed a lie detector test'."
+          "explanation": "文中两位领导人均表示该项目是中阿全面战略伙伴关系的体现，象征着友谊与进一步合作，这直接支持了选项C。"
         },
         {
           "q_number": 3,
-          "stem": "What was the initial cause of the youth-led protests in Madagascar, according to the article?",
+          "stem": "What is the technical background of the Alcomsat-1 satellite?",
           "options": {
-            "A": "The president's decision to dismiss the cabinet.",
-            "B": "The perceived ties of new appointments to the previous regime.",
-            "C": "Discontent with the country's economic performance.",
-            "D": "Protests against water and power cuts."
+            "A": "It was developed by a private European firm in partnership with China.",
+            "B": "It is based on the DFH-4 platform and weighs over 5 metric tons.",
+            "C": "It has an estimated lifespan of 10 years for public service operations.",
+            "D": "It was launched from the Jiuquan Satellite Launch Center."
+          },
+          "answer": "B",
+          "explanation": "文章提到该卫星由中国空间技术研究院设计制造，基于DFH-4平台，起飞重量为5.2公吨，选项B符合文意。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the intended use of the Alcomsat-1 satellite according to the text?",
+          "options": {
+            "A": "Exclusively for military surveillance and national security monitoring.",
+            "B": "To facilitate diplomatic exchanges between China and Western nations.",
+            "C": "To support various public services including education and emergency communication.",
+            "D": "To serve as a test bed for future carrier rocket experimental flights."
+          },
+          "answer": "C",
+          "explanation": "文章最后一段详细列举了该卫星的用途，包括电视广播、应急通信、远程教育等公共服务，选项C与原文一致。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the phrase 'without elaborating' in the final paragraph suggest about the company's future?",
+          "options": {
+            "A": "The company is reluctant to disclose information due to legal complications.",
+            "B": "The company has no further plans to cooperate with Arab countries.",
+            "C": "The company prefers to maintain a low profile regarding its commercial strategies.",
+            "D": "The company has other ongoing contracts but is keeping the specific details private."
           },
           "answer": "D",
-          "explanation": "The article mentions that 'Malagasy young people started protesting in September last year, first against water and power cuts, then demanding a complete overhaul of the political system.' While later protests evolved to include political system demands and dissatisfaction with appointments, the initial trigger was related to basic utilities."
-        },
-        {
-          "q_number": 4,
-          "stem": "Which statement best reflects the sentiment of some 'Gen Z Madagascar' activists regarding the lie detector tests?",
-          "options": {
-            "A": "They fully support the tests as a scientifically proven method to combat corruption.",
-            "B": "They are confident that all new candidates will pass the tests.",
-            "C": "They express skepticism, questioning the scientific validity of polygraphs.",
-            "D": "They believe the tests are a necessary step towards developing the country."
-          },
-          "answer": "C",
-          "explanation": "One of the managers of Gen Z Madagascar’s social media accounts expressed skepticism, stating, 'It’s not even scientifically proven to work,' and calling the idea 'just a joke and embarrassing'."
-        },
-        {
-          "q_number": 5,
-          "stem": "Despite being rich in natural resources, what is a major challenge Madagascar faces, as indicated by the provided data?",
-          "options": {
-            "A": "A high GDP per capita but low levels of natural resources.",
-            "B": "Low rankings in corruption perceptions.",
-            "C": "Being one of the world's poorest countries with a low GDP per capita.",
-            "D": "Exploitation of resources by foreign powers."
-          },
-          "answer": "C",
-          "explanation": "The article highlights that 'Madagascar is one of the world’s poorest countries, with a GDP per capita of just $545 (£408) in 2024'. While the exploitation of resources is mentioned as a problem, the direct economic indicator presented is its poverty status and low GDP per capita. The corruption perception index is also mentioned but the question asks about a 'major challenge' indicated by the data, and the poverty level is a more direct indicator of economic hardship."
+          "explanation": "作者提到副总裁Fu Zhiheng称公司与阿拉伯国家还有其他合同，但没有详细说明，这说明公司拥有其他合作项目，但拒绝透露具体细节。"
         }
       ]
     },
     {
-      "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
+      "title": "Would-be suicide bomber sets off explosion in NYC",
       "article_update_date": "03.24.2026",
-      "source_journal": "The Guardian",
-      "body_text": "Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics, due to budget cuts set out by the foreign secretary. The UK’s bilateral aid to African countries will be reduced by almost £900m by 2028-29 – a 56% cut – as part of more than £6bn in cuts which are funding an increase in defence spending. Aid agencies said the cuts would be the steepest in the G7, leaving “the UK’s reputation in tatters, and a poorer, more unequal and unstable world for us all”. Labour MPs have privately expressed scepticism that the cuts have done much to achieve their desired intention – to bolster UK military spending in an uncertain world – because of the long delay in the defence investment plan and demands for billions more in spending from military chiefs in the wake of the Iran-US conflict. The 40% reduction in UK aid spending, which MPs voted to back last year, will mean all aid spending being cut to all G20 countries except Turkey, and the majority now focused on conflict zones, primarily Palestine, Sudan and Ukraine. Spending will be protected this year for Lebanon, a decision signed off by officials on Wednesday night, because of the intensity of the current offensive from Israel. The overhaul means 70% of all support will be allocated to the most fragile and conflict-affected states by 2029. Countries such as Afghanistan, Somalia and Yemen will be among those facing cuts, though Yvette Cooper, the foreign secretary, said they would still receive funding from multinational aid agencies. Countries such as Mozambique and Pakistan will have almost all their development aid cut, replaced by partnerships for investment. The crisis reserve for humanitarian emergencies has also been cut, though by less than expected, from £85m to £75m. “This for us is not an ideological step – it is a difficult choice in the face of international threats,” Cooper said. But Romilly Greenhill, CEO of Bond, the UK network for NGOs said: “Africa and the Middle East, both home to some of the world’s least-developed countries, will be forced to pay the highest price because of the reduced budget.” In its analysis of the impact assessment, Bond said the government’s own data showed the cuts would leave children, people with disabilities and older people more vulnerable across Ethiopia, Mozambique, Rwanda, Tanzania and Zambia and that fewer girls and children with disabilities will be able to go to school in South Sudan. Cuts to programmes in Somalia, one of the world’s most unstable countries, are likely to heavily affect the access to health services for women and children. The most significant impact will be felt across Africa, with bilateral overseas development aid due to fall from £818m in 2026 to £677m by 2029, which the Foreign, Commonwealth and Development Office said was part of a pivot to multilateral contributions through the World Bank and African Development Bank. The FCDO will also phase out all funding for bilateral programmes in G20 countries – apart from a small allocation to refugee-hosting in Turkey. No direct aid will go to countries such as Brazil, India, Indonesia and South Africa. The development minister, Jenny Chapman, said some of the poorest African nations that would feel the brunt of the cuts, such as Malawi, Mozambique and Sierra Leone, had expressed a preference for expertise partnerships with the UK, building stable financial systems and clean energy, rather than traditional aid programmes. “I think the concern that happened a year ago around the cuts was that people thought we were doing this because we lost faith in the agenda, we were turning our backs on the world … that this was a values shift. It’s absolutely not,” she said. “We’ve undertaken this task … in a very collaborative way with our global south partners. We’ve been very open about it. We’ve listened hard to what people have told us. We’ve been present. We’ve shown up just about everywhere we can, to have these conversations internationally.” But some Labour MPs were critical, with Fleur Anderson, the MP for Putney, saying: “The government has on one hand increased defence spending in response to a more dangerous world, but on the other cut the investment that helps build stability before crises emerge. “A serious approach must place development spending at the heart of global resilience and security. Without this, we are not preventing crises; we are simply waiting for them.” Admitting she was having to make hard choices on aid, Cooper said the UK still expected to be the fifth-biggest funder in the world, but in her statement she avoided spelling out the precise level of cuts, detail revealed only in the equality impact assessments. The FCDO has said the changes will prioritise geopolitical security and conflict – as well as funding the bigger multinational agencies, such as the vaccine programme Gavi. Funding is also being protected for the British Council and the BBC World Service. The UK has ringfenced £240m a year until 2029, alongside billions in loan guarantees for Ukraine, as well as protecting allocations for Palestine and Lebanon at current levels, with the latter explicitly funded to “reduce the drivers of irregular migration”. The cuts will also end aid to some major funders, including polio eradication and the Pandemic Fund. The cost of housing asylum seekers in UK hotels – running at roughly £2bn a year – is taken from the aid budget. It means that by 2027-28, aid spending on overseas programmes is expected to reach its lowest since records began in 1970, at just 0.24% of gross national income. Chapman said it was a wholesale overhaul of the way aid spending would now operate, after the decision to cut the aid budget despite a 0.7% target being legally enshrined. Cooper said it was the government’s intention to gradually return to the target when possible. Adrian Lovett, UK executive director of the ONE Campaign, said: “Today’s figures lay bare the true scale of these cuts and the damage they will do. Slashing bilateral aid to Africa, where need is greatest, will have a devastating impact. “These choices will leave millions without access to basic healthcare, education and urgent humanitarian support, and risk a resurgence of deadly diseases we’ve spent decades trying to fight.”",
-      "difficulty_constant": 6.5,
+      "source_journal": "China Daily",
+      "body_text": "Police officers stand guard outside the New York Port Authority Bus Terminal in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies] A would-be suicide bomber set off part of a homemade explosive device in a subway passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan during Monday's morning rush hour, seriously wounding himself and injuring three others, police said. The injuries to two commuters and a Port Authority police officer were all non-life threatening, according to the New York Fire Department. At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist attack, and he said no other devices had been found. The suspect was identified by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He was in serious condition at Bellevue Hospital Center. Ullah acted alone, police said, and the device was reported to have gone off prematurely in the passage just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one of the busiest transit hubs in the country — at 7:20 am, authorities said. Two commuters and a Port Authority police officer suffered minor injuries, officials said. The device was affixed to Ullah's body with Velcro and zip ties, police officials said. The explosion caused commuter chaos at one of the city's key traffic hubs. \"Our lives revolve around the subway,\" the mayor said. \"The choice of New York is always for a reason, because we are beacons of the world. And we show that a society of many background and many faiths can work.\" \"The terrorists want to undermine that,\" he added. \"They yearn to attack New York City.\" \"I'm glad I wasn't there. We were supposed to take a bus out at the time (when the accident happened), so I'm glad we waited,\" said Monica Gannon, who planned to take the bus back to New Jersey at this morning when the explosion happened. \"We are stuck here. Now we are waiting for all this to be over and go back home.\" \"I was evacuated from the terminal after it (the explosion) happened. It was terrible, and I was so scared when I saw some people running,\"said Alicia Carmona. She said she was evacuated from the terminal after the explosion and to wait outside the bus terminal for about two hours. Carmona said she planned to pick up her niece at LaGuardia Airport at around 9 am, but now she couldn't make it. \"I was thinking to take the subway instead, but the nearby subway stations are closed too.\"",
+      "difficulty_constant": 5.4,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "According to the text, what is the primary reason cited for the UK's reduction in foreign aid spending?",
+          "stem": "According to the passage, what can be inferred about the perpetrator's intention and the outcome of the explosion?",
           "options": {
-            "A": "A shift in foreign policy priorities towards domestic issues.",
-            "B": "An increase in defense spending to address international threats.",
-            "C": "Economic recession and a need to cut all government expenditures.",
-            "D": "A strategic decision to focus aid solely on G7 countries."
+            "A": "The terrorist successfully targeted the most crowded area of the bus terminal.",
+            "B": "The explosion resulted in multiple fatalities, causing widespread panic.",
+            "C": "The device detonated earlier than intended, resulting in limited casualties.",
+            "D": "The suspect received immediate support from an accomplice in the subway passage."
           },
-          "answer": "B",
-          "explanation": "The article explicitly states that the cuts are 'funding an increase in defence spending' and that the foreign secretary referred to it as a 'difficult choice in the face of international threats'."
+          "answer": "C",
+          "explanation": "文章提到“the device was reported to have gone off prematurely”，即装置提前爆炸，这解释了为何伤势并不致命，并未造成大规模伤亡。"
         },
         {
           "q_number": 2,
-          "stem": "Which of the following is a significant consequence of the UK's aid budget cuts, as highlighted by aid agencies and analysts?",
+          "stem": "Mayor Bill de Blasio's statement suggests that New York City is often targeted by terrorists because:",
           "options": {
-            "A": "An immediate improvement in the stability of recipient countries.",
-            "B": "A boost in the UK's international reputation and influence.",
-            "C": "Increased vulnerability for children, people with disabilities, and older people in affected nations.",
-            "D": "A redirection of funds towards private sector investment partnerships in all G20 countries."
+            "A": "It has weak security measures at its transit hubs.",
+            "B": "It serves as a symbolic representative of a diverse and functioning society.",
+            "C": "It is the only city in the United States that allows for open expression of faith.",
+            "D": "It frequently hosts high-profile international political conferences."
           },
-          "answer": "C",
-          "explanation": "The text mentions that 'the government’s own data showed the cuts would leave children, people with disabilities and older people more vulnerable across Ethiopia, Mozambique, Rwanda, Tanzania and Zambia' and that 'fewer girls and children with disabilities will be able to go to school in South Sudan'."
+          "answer": "B",
+          "explanation": "市长提到“we are beacons of the world. And we show that a society of many background and many faiths can work”，这说明纽约市因其多元融合的象征意义而成为目标。"
         },
         {
           "q_number": 3,
-          "stem": "The article notes that while overall aid spending is reduced, certain regions and countries will receive protected or prioritized funding. Which of the following is an example of such a protected allocation?",
+          "stem": "How did the explosion affect the daily lives of commuters like Alicia Carmona?",
           "options": {
-            "A": "All G20 countries except Turkey will continue to receive substantial bilateral aid.",
-            "B": "Afghanistan, Somalia, and Yemen will see their funding levels maintained or increased.",
-            "C": "Lebanon's aid spending will be protected due to the intensity of the current offensive from Israel.",
-            "D": "Mozambique and Pakistan will receive increased development aid to foster new partnerships."
+            "A": "She was physically injured and required immediate hospitalization.",
+            "B": "She lost her belongings while running away from the bus terminal.",
+            "C": "She was forced to abandon her plans due to evacuations and transit closures.",
+            "D": "She successfully managed to reach the airport by using an alternative route."
           },
           "answer": "C",
-          "explanation": "The article states, 'Spending will be protected this year for Lebanon, a decision signed off by officials on Wednesday night, because of the intensity of the current offensive from Israel.'"
+          "explanation": "文中Alicia Carmona提到她被疏散，且原本接侄女的计划被迫取消，附近地铁站也关闭了，说明出行计划受到了严重干扰。"
         },
         {
           "q_number": 4,
-          "stem": "According to the development minister, Jenny Chapman, what is the stated preference of some of the poorest African nations affected by the cuts?",
+          "stem": "What is the primary function of the phrase 'would-be' when describing the suicide bomber in the first paragraph?",
           "options": {
-            "A": "A complete cessation of all UK aid and a move towards self-sufficiency.",
-            "B": "Increased traditional aid programs focused on immediate humanitarian relief.",
-            "C": "Partnerships focused on expertise, building stable financial systems, and clean energy.",
-            "D": "A return to the 0.7% aid spending target as soon as possible."
+            "A": "To imply that the suspect was coerced by others into committing the act.",
+            "B": "To highlight that the mission failed to achieve its ultimate destructive goal.",
+            "C": "To suggest that the suspect regretted his decision at the last moment.",
+            "D": "To emphasize that the suspect was not affiliated with any known terrorist organization."
           },
-          "answer": "C",
-          "explanation": "The minister is quoted as saying that some nations 'had expressed a preference for expertise partnerships with the UK, building stable financial systems and clean energy, rather than traditional aid programmes.'"
+          "answer": "B",
+          "explanation": "'Would-be'在此处表示“未遂的”或“自封的”，结合上下文该袭击未造成致命后果且属于未遂的恐怖主义行为，旨在强调其目标未达成。"
         },
         {
           "q_number": 5,
-          "stem": "The article suggests a significant shift in the UK's approach to foreign aid. What is a key element of this overhaul?",
+          "stem": "Which of the following best describes the tone of the eyewitness accounts in the article?",
           "options": {
-            "A": "A complete withdrawal from multilateral contributions and a focus on bilateral aid.",
-            "B": "Prioritizing humanitarian emergencies with an increased crisis reserve fund.",
-            "C": "A pivot towards multilateral contributions through international financial institutions and a focus on conflict zones.",
-            "D": "Ending all funding for the British Council and BBC World Service to reallocate resources."
+            "A": "Indifferent and detached.",
+            "B": "Anxious and disrupted.",
+            "C": "Aggressive and defensive.",
+            "D": "Optimistic and hopeful."
           },
-          "answer": "C",
-          "explanation": "The text mentions that the Foreign, Commonwealth and Development Office (FCDO) said the reduction in bilateral overseas development aid was 'part of a pivot to multilateral contributions through the World Bank and African Development Bank' and that 'the changes will prioritise geopolitical security and conflict – as well as funding the bigger multinational agencies'."
+          "answer": "B",
+          "explanation": "目击者描述中使用了“scared”、“stuck”、“terrible”等词汇，表现出袭击事件对其正常生活造成的惊慌与干扰，故选B。"
         }
       ]
     }
