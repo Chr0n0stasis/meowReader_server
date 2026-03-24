@@ -1,19 +1,20 @@
 articles:
-- article_id: epub_95
+- article_id: epub_90
   journal_name: Economist
   publish_date: 03.24.2026
-  title: Re-examining one of the world’s most notorious assassinations
-- article_id: epub_28
-  journal_name: New Yorker
+  title: Rapid-charging EV batteries are on the way
+- article_id: epub_17
+  journal_name: Wired
   publish_date: 03.24.2026
-  title: Briefly Noted
-- article_id: rss_5_1774318592
+  title: Chapter 17
+- article_id: rss_3_1774318612
+  journal_name: The Guardian
+  publish_date: 03.24.2026
+  title: Woman has sentence quashed by Tanzania court after over a decade on death
+    row
+- article_id: rss_2_1774318588
   journal_name: Nature
   publish_date: 03.24.2026
-  title: Forty-five years of progress after a key paper about the evolution of cooperation
-- article_id: rss_0_1774318585
-  journal_name: Nature
-  publish_date: 03.24.2026
-  title: How the idea of human superiority over nature was invented
+  title: How I squeeze fresh science from public data
 generate_date: 03.24.2026
 strategy: common

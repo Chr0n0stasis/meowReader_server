@@ -2,282 +2,462 @@
   "group_update_date": "03.24.2026",
   "papers": [
     {
-      "title": "Forty-five years of progress after a key paper about the evolution of cooperation",
+      "title": "How I squeeze fresh science from public data",
       "article_update_date": "03.24.2026",
       "source_journal": "Nature",
-      "body_text": "Ever since Charles Darwin, scientists studying evolution have grappled with how cooperative behaviours that are costly to an individual but beneficial to others can be consistent with maximal fitness. In 1981, writing in Science, Robert Axelrod and William D. Hamilton1 presented key findings on how such cooperation can evolve. They accomplished this by weaving together two emerging ideas of the time in this area of research. Nature 651, 894-895 (2026) doi: https://doi.org/10.1038/d41586-026-00802-7 References Axelrod, R. & Hamilton, W. D. Science 211, 1390–1396 (1981). Maynard Smith, J. & Price, G. R. Nature 246, 15–18 (1973). Trivers, R. L. Q. Rev. Biol. 46, 35–57 (1971). Hamilton, W. D. J. Theor. Biol. 7, 1–16 (1964). Rapoport, A. & Chammah, A. M. Prisoner’s Dilemma: A Study in Conflict and Cooperation (Univ. Michigan Press, 1965). Hammerstein, P. in Genetic and Cultural Evolution of Cooperation (ed. Hammerstein, P.) 83–93 (MIT Press, 2003). Clutton-Brock, T. Nature 462, 51–57 (2009). Wu, J. & Axelrod, R. J. Conflict Resolut. 39, 183–189 (1995). Sugden, R. The Economics of Rights, Co-operation and Welfare (Blackwell, 1986). Lenfesty, H., Mathew, S., Fikes, T., Ross, C. T. & Boyd, R. Proc. R. Soc. B 291, 20240861 (2024). van Veelen, M., García, J., Rand, D. G. & Nowak, M. A. Proc. Natl Acad. Sci. USA 109, 9929–9934 (2012). Graser, C. & van Veelen, M. Tinbergen Institute Discussion Paper No. TI 2024-022/I (2024). Mathew, S. & Boyd, R. Preprint at PsyArXiv https://doi.org/10.31234/osf.io/e5zuc_v1 (2026). Hruschka, D. J. & Henrich, J. J. Theor. Biol. 239, 1–15 (2006). Leimar, O. & Bshary, R. Proc. Natl Acad. Sci. USA 121, e2317736121 (2024). Xue, M. & Silk, J. B. Evol. Hum. Behav. 33, 17–25 (2012). Download references Competing Interests The authors declare no competing interests. Related Articles Subjects",
+      "body_text": "I didn’t set out to build a career on other people’s data. But five years after my first secondary-data analysis, I’m still doing it. In 2018, halfway through my PhD programme at the University of Queensland in Brisbane, Australia, I discovered a previously unknown virus in the laboratory’s Aedes aegypti mosquito cell lines. Insect cells often harbour persistent, unnoticed viral infections, so the finding wasn’t entirely surprising. But this new virus was uncharacterized. We found that it couldn’t infect mammalian cells and, unexpectedly, that it modestly reduced replication of the dengue virus. That drew our attention — insect-specific viruses that interfere with human pathogens could have implications for understanding, and potentially disrupting, how mosquitoes transmit disease. My doctoral adviser, molecular virologist Sassan Asgari, excitedly pointed me towards other data sets from our lab, and encouraged me to widen the search. He wanted to know how common this virus was across A. aegypti cells in our lab and others. Luckily, transcriptomic data sets were available from mosquito researchers all over the world. Before long, I had downloaded and examined around 3,000 of them and had traced the virus’s evolutionary history across the globe1. Then, towards the end of my PhD programme, I came across data from the lab of Alexander Khromykh, a virologist at the University of Queensland, where I still work. Khromykh studies the role of non-coding RNA in extracellular vesicles during viral infections. Taking a fresh look at his lab’s published data, I found something unexpected: viruses seemed to be chopping up cellular RNA in ways that hadn’t been seen before. That reanalysis led to an introductory e-mail, then a conversation, then a collaboration. Alex and I are now co-investigators on a national grant built on that initial finding. For early-career researchers, already-published data are a golden opportunity — a way to generate data for publications and funding applications at little to no cost. Doing so requires only a question, a laptop with the programming languages R or Python installed and a willingness to look at old data from a new angle. Most researchers, in my experience, are glad to know that their data are being used in this way. Some of my e-mails have led to collaborations, and others have led authors to share metadata that weren’t included in their original publication. Occasionally, the original authors have the samples or equipment necessary to test the results in a way that you can’t; a quick experiment on their end might confirm an association that becomes preliminary data for your next grant. The data were free Genomic data of the type I was mining are particularly suited to secondary analysis. The Sequence Read Archive (SRA), hosted by the National Center for Biotechnology Information, part of the US National Institutes of Health, holds more than 50 petabytes of data, much of which are deposited and rarely used again. In 2022, a project called Serratus aligned billions of these reads against viral reference genomes to identify thousands of new viral sequences2, expanding known RNA virus diversity by an order of magnitude. These large-scale efforts demonstrate what becomes possible when secondary data analysis is taken seriously. And the pattern holds across the sciences. Many clinical-trial data sets, ecological surveys and medical-imaging archives are available online and ripe for the picking. Published analyses often just scratch the surface of what the data can reveal. Taking a new look at old data can open doors, says Rhys Parry.Rhys Parry / UQ Funding agencies and publishers require researchers to archive our data, to ensure reproducibility and verification of results. But reproducibility is not the only thing that archived data are good for; every data set contains associations beyond those found by the researchers who generated it. New methods arise, new hypotheses emerge and fields shift in ways that can make old data new again. There is an opportunity to bring fresh angles to existing data, to find new associations and, ideally, to validate them. The most interesting reanalyses tend to involve combining data types — proteomics with transcriptomics, say, or satellite imagery and survey data. Start with data sets for which you understand the underlying science but can ask a question that the original authors did not. But first, check the metadata. If you can’t understand the system, treatment, time point, replicates and platform without too much detective work, reanalysing these data is probably not worth the effort. Not all data sets or analyses will provide something new. I’ve downloaded thousands of data sets that went nowhere. But the cost of searching is low, and null results can be as informative as positive ones. A well-executed secondary analysis can be published, cited and used as preliminary data, on a par with any other scientific output.",
       "difficulty_constant": 8.5,
       "question_type": "Use of English",
       "questions": [
         {
           "q_number": 1,
-          "stem": "Ever since Charles Darwin, scientists studying evolution have ______ with how cooperative behaviours that are costly to an individual but beneficial to others can be consistent with maximal fitness.",
+          "stem": "I didn’t set out to build a career on other people’s data. But five years after my first secondary-data analysis, I’m still doing it. In 2018, halfway through my PhD programme, I ____ a previously unknown virus.",
           "options": {
-            "A": "contended",
-            "B": "grappled",
-            "C": "tampered",
-            "D": "shuffled"
+            "A": "discovered",
+            "B": "dismissed",
+            "C": "distorted",
+            "D": "discarded"
           },
-          "answer": "B",
-          "explanation": "本题考查动词辨析。grapple with意为“努力克服/应对/探讨（困难问题）”，与上下文语境中科学家面对进化论难题的语境最为吻合。"
+          "answer": "A",
+          "explanation": "根据上下文，作者是在进行研究时发现了病毒，discovered符合语境。"
         },
         {
           "q_number": 2,
-          "stem": "Cooperative behaviours are described as those that are costly to an individual but ______ to others, posing a challenge to evolutionary fitness.",
+          "stem": "Insect cells often harbour persistent, unnoticed viral infections, so the finding wasn’t entirely ____.",
           "options": {
-            "A": "detrimental",
-            "B": "beneficial",
-            "C": "indifferent",
-            "D": "superficial"
+            "A": "inevitable",
+            "B": "conspicuous",
+            "C": "startling",
+            "D": "surprising"
           },
-          "answer": "B",
-          "explanation": "本题考查形容词对比关系。句中使用了but进行转折，costly（代价大的）与beneficial（有益的）形成对比，符合逻辑。"
+          "answer": "D",
+          "explanation": "因为昆虫细胞常带有此类病毒，所以发现并不令人感到非常惊讶，选surprising。"
         },
         {
           "q_number": 3,
-          "stem": "In 1981, writing in Science, Robert Axelrod and William D. Hamilton presented ______ findings on how such cooperation can evolve.",
+          "stem": "We found that it couldn’t infect mammalian cells and, ____, that it modestly reduced replication of the dengue virus.",
           "options": {
-            "A": "key",
-            "B": "obscure",
-            "C": "trivial",
-            "D": "random"
+            "A": "consequently",
+            "B": "subsequently",
+            "C": "unexpectedly",
+            "D": "predictably"
           },
-          "answer": "A",
-          "explanation": "本题考查形容词搭配。作者在学术刊物Science上发表文章，通常指重要的（key）研究发现，其他选项均不符合学术严肃性语境。"
+          "answer": "C",
+          "explanation": "文中提到这种抑制作用是作者未预料到的，故用unexpectedly。"
         },
         {
           "q_number": 4,
-          "stem": "The authors ______ this by weaving together two emerging ideas of the time in this area of research.",
+          "stem": "That drew our attention — insect-specific viruses that interfere with human pathogens could have ____ for understanding how mosquitoes transmit disease.",
           "options": {
-            "A": "accomplished",
-            "B": "forfeited",
-            "C": "abrogated",
-            "D": "interfered"
+            "A": "implementations",
+            "B": "complications",
+            "C": "applications",
+            "D": "implications"
           },
-          "answer": "A",
-          "explanation": "本题考查动词用法。根据上下文，作者通过整合两个新思想成功地（accomplished）解释了合作如何演化。"
+          "answer": "D",
+          "explanation": "implications指对某事的影响或意义，符合句意。"
         },
         {
           "q_number": 5,
-          "stem": "The researchers made progress by ______ together two emerging ideas of the time in this area of research.",
+          "stem": "My doctoral adviser, molecular virologist Sassan Asgari, excitedly pointed me towards other data sets from our lab, and encouraged me to ____ the search.",
           "options": {
-            "A": "tearing",
-            "B": "weaving",
-            "C": "breaking",
-            "D": "discarding"
+            "A": "narrow",
+            "B": "hasten",
+            "C": "widen",
+            "D": "hinder"
+          },
+          "answer": "C",
+          "explanation": "导师鼓励作者扩大研究范围，widen符合逻辑。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Before long, I had downloaded and examined around 3,000 of them and had ____ the virus’s evolutionary history across the globe.",
+          "options": {
+            "A": "erased",
+            "B": "traced",
+            "C": "defaced",
+            "D": "embraced"
           },
           "answer": "B",
-          "explanation": "本题考查动词语义。weave together意为“编织在一起/整合”，指将两个独立的研究思想结合起来，符合学术创新方法论的表达。"
+          "explanation": "trace history指追踪演化历史，语义搭配正确。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Taking a fresh look at his lab’s published data, I found something unexpected: viruses seemed to be ____ up cellular RNA in ways that hadn’t been seen before.",
+          "options": {
+            "A": "locking",
+            "B": "cropping",
+            "C": "chopping",
+            "D": "hopping"
+          },
+          "answer": "C",
+          "explanation": "原文提到病毒在切割RNA，chopping up是固定表达。"
+        },
+        {
+          "q_number": 8,
+          "stem": "That reanalysis led to an introductory e-mail, then a conversation, then a ____.",
+          "options": {
+            "A": "confrontation",
+            "B": "collaboration",
+            "C": "condensation",
+            "D": "confirmation"
+          },
+          "answer": "B",
+          "explanation": "后续提到两人成为合作者，故前面是collaboration。"
+        },
+        {
+          "q_number": 9,
+          "stem": "For early-career researchers, already-published data are a golden opportunity — a way to generate data for publications and funding applications at little to no ____.",
+          "options": {
+            "A": "loss",
+            "B": "gain",
+            "C": "cost",
+            "D": "risk"
+          },
+          "answer": "C",
+          "explanation": "利用旧数据可以节省成本，at little to no cost是常用搭配。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Doing so requires only a question, a laptop with the programming languages R or Python installed and a ____ to look at old data from a new angle.",
+          "options": {
+            "A": "reluctance",
+            "B": "willingness",
+            "C": "hesitation",
+            "D": "resistance"
+          },
+          "answer": "B",
+          "explanation": "需要有意愿去从新角度审视旧数据，willingness符合语境。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Most researchers, in my experience, are glad to know that their data are being used in this way. Some of my e-mails have led to collaborations, and others have led authors to ____ metadata.",
+          "options": {
+            "A": "spare",
+            "B": "share",
+            "C": "square",
+            "D": "scare"
+          },
+          "answer": "A",
+          "explanation": "作者寻求数据支持，作者们愿意分享metadata，share符合。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Occasionally, the original authors have the samples or equipment necessary to test the results in a way that you can’t; a quick experiment might confirm an association that becomes ____ data.",
+          "options": {
+            "A": "preliminary",
+            "B": "stationary",
+            "C": "arbitrary",
+            "D": "imaginary"
+          },
+          "answer": "B",
+          "explanation": "preliminary data指初步数据，这是申请基金所需。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Genomic data of the type I was mining are particularly ____ to secondary analysis.",
+          "options": {
+            "A": "suited",
+            "B": "subjected",
+            "C": "submitted",
+            "D": "subsided"
+          },
+          "answer": "C",
+          "explanation": "suited to表示适合某事物。"
+        },
+        {
+          "q_number": 14,
+          "stem": "In 2022, a project called Serratus aligned billions of these reads against viral reference genomes to identify thousands of new viral sequences, ____ known RNA virus diversity.",
+          "options": {
+            "A": "expanding",
+            "B": "expending",
+            "C": "extracting",
+            "D": "exposing"
+          },
+          "answer": "D",
+          "explanation": "identifying new sequences表示增加或扩展多样性，expanding正确。"
+        },
+        {
+          "q_number": 15,
+          "stem": "These large-scale efforts demonstrate what becomes possible when secondary data analysis is taken ____.",
+          "options": {
+            "A": "seriously",
+            "B": "cautiously",
+            "C": "anxiously",
+            "D": "curiously"
+          },
+          "answer": "A",
+          "explanation": "当被认真对待时，secondary data analysis能发挥潜力，seriously符合。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Many clinical-trial data sets, ecological surveys and medical-imaging archives are available online and ____ for the picking.",
+          "options": {
+            "A": "rare",
+            "B": "ripe",
+            "C": "raw",
+            "D": "real"
+          },
+          "answer": "B",
+          "explanation": "ripe for the picking意为“等待采摘/利用”，符合固定搭配。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Funding agencies and publishers require researchers to archive our data, to ensure reproducibility and ____ of results.",
+          "options": {
+            "A": "notification",
+            "B": "modification",
+            "C": "clarification",
+            "D": "verification"
+          },
+          "answer": "D",
+          "explanation": "存档数据是为了验证结果，verification符合。"
+        },
+        {
+          "q_number": 18,
+          "stem": "New methods arise, new hypotheses emerge and fields shift in ways that can make old data ____ again.",
+          "options": {
+            "A": "cold",
+            "B": "old",
+            "C": "bold",
+            "D": "new"
+          },
+          "answer": "D",
+          "explanation": "新方法的出现使旧数据焕发新生，new符合逻辑。"
+        },
+        {
+          "q_number": 19,
+          "stem": "If you can’t understand the system, treatment, time point, replicates and platform without too much ____ work, reanalysing these data is probably not worth the effort.",
+          "options": {
+            "A": "objective",
+            "B": "protective",
+            "C": "effective",
+            "D": "detective"
+          },
+          "answer": "A",
+          "explanation": "指理解过程极其费力，detective work形象地表达了这种调查过程。"
+        },
+        {
+          "q_number": 20,
+          "stem": "A well-executed secondary analysis can be published, cited and used as preliminary data, on a ____ with any other scientific output.",
+          "options": {
+            "A": "par",
+            "B": "part",
+            "C": "path",
+            "D": "pass"
+          },
+          "answer": "A",
+          "explanation": "on a par with是固定习语，表示“同等水平”。"
         }
       ]
     },
     {
-      "title": "How the idea of human superiority over nature was invented",
+      "title": "Rapid-charging EV batteries are on the way",
       "article_update_date": "03.24.2026",
-      "source_journal": "Nature",
-      "body_text": "A young girl plays a game of chess with a chimpanzee at London Zoo in the 1950s.Credit: William Vanderson/Fox Photos/Getty Animate: How Animals Shape the Human Mind Michael Bond Picador (2026) Humans are animals. This statement, although true, is unsettling for many people. Such discomfort reveals a deep ambivalence about how we see ourselves — a part of nature, yet somehow different from the rest of it. Could tracking animals’ health help to avert the next pandemic? In Animate, science writer Michael Bond explores how human relationships with other animals have changed over time, and what those shifts mean for both them and us. The topic has never been more urgent. As the environmental consequences of our actions increasingly threaten our own survival, humans are reminded that we are part of Earth’s system, not its masters. Animate challenges the supposed boundary between humans and other animals, arguing that it is neither fixed nor ancient. Our ancestors’ fascination with animals is vividly preserved in cave art that depicts many more beasts than it does people. Only in the past few millennia — under the influence of classical philosophy, Christian theology and Enlightenment-era rationalism — did humans come to see themselves as distinct, set apart by reason, language and the possession of a soul. As Bond argues, this separation was not accidental: human exceptionalism and the belief that we could transcend our bodily limits helped to ease anxieties about our mortality, and legitimize the widespread use of animals for labour, warfare and entertainment. The great divide Humans increasingly cast themselves not as part of nature, but as its masters and stewards. Although people had been hunting and eating animals for millennia, farming animals for consumption only emerged during the Neolithic period, some 10,000 years ago. How ‘forest bathing’ keeps lungs healthy The divide has also shaped human society. As early world views that saw humans, animals and spirits as one interconnected system gave way to more abstract, hierarchical ideas about life, people applied the same logic to human groups. Dehumanization — portraying people as more ‘animal-like’ — justified domination, exclusion and selective empathy. Moral concern became conditional; inequality was normalized; and animal metaphors were used to rationalize colonialism, imperialism and interventions, which were often framed as ‘civilizing’ missions. Distancing ourselves from animals created a chasm that some people eventually fell into, suggests Bond. Forays into psychology Reinforcing a sharp boundary between humans and other animals has had unintended costs, but it has also created space for modern explorations of human psychology. Naturalist E. O. Wilson’s biophilia hypothesis — the idea that humans are naturally drawn to life and lifelike processes — which was published in his 1984 book Biophilia, has since gained empirical support. Studies show, for instance, that children pay more attention to animals than to objects, and prefer interacting with live animals over engaging toys1. Although Bond does not directly cite the biophilia hypothesis, he documents a similar evolved attentional bias towards animals, drawing on research on visual perception, neuroscience and evolutionary psychology. He argues that the long amount of time that our predecessors spent living among wild animals shaped our swift detection of and strong emotional responses to animate beings. However, recognizing this evolved sensitivity only highlights how inconsistent our attitudes towards different animals can be. As psychologist Hal Herzog notes in his book of the same name, and as Bond reiterates, “Some we love, Some we hate, Some we eat”. These inconsistencies reflect human needs as much as animal characteristics.",
+      "source_journal": "Economist",
+      "body_text": "Rapid-charging EV batteries are on the way Science & technology | Leading the charge Rapid-charging EV batteries are on the way They can be topped up in as little time as a tank of fuel March 19th 2026 A LINE OF electric vehicles (EVs) plugged into rechargers as their drivers wait patiently for their batteries to be topped up has become a familiar sight at many service stations. Though some of the latest EVs can recharge in 20 minutes, many take much longer. Yet some EV drivers could soon be back on the road much more quickly. Companies are developing ultra-fast charging systems which can refill a battery almost as fast as a fossil-fuel car can be filled up. Rapid recharging could dispel one of the last remaining obstacles to widespread EV adoption. One such system will be unveiled in Paris on April 8th by BYD, a Chinese firm that is the world’s biggest EV maker. It consists of a powerful 1,500kW drive-through charger, which looks like a large overhead gantry from which recharging cables descend. When plugged into a Denza Z9GT, BYD’s new premium model, the car’s 122kWh “Blade Battery” can be boosted from 10% capacity to 70% in five minutes. A full charge takes nine minutes. Topping up an EV battery requires a charger to convert alternating current, as delivered from the mains, into a direct current. A charger contained in the cars themselves can handle slow overnight charging when plugged into a household supply. For faster top-ups, beefier kit is required. This is contained in public fast-chargers, which convert power directly from the grid. There is, though, a limit to how fast a lithium-ion battery, the type commonly used in EVs, can be recharged. When the battery is plugged in, charged particles called lithium ions migrate from the cathode to the anode, where they are squirrelled away and stored. When the battery is discharged, the ions migrate back. The difficulty is that as the charge rate increases, bottlenecks can build up in the flow of ions, particularly into the anode. This creates resistance and damaging heat. BYD says its Blade Battery uses cathodes and anodes that have been engineered at the molecular level to increase ion flow. In part this is done using thin components, which reduce internal resistance. For these batteries to live up to their potential, BYD will need to install its mighty 1,500kW chargers at service stations, where most existing fast-chargers operate at 100-350kW. BYD aims to install its big chargers globally and expects to have 20,000 operational in China by the end of the year. Nyobolt, an energy-storage company spun out of the University of Cambridge, in Britain, has taken a less daunting approach to the same problem. The 35kWh battery it has installed in a lightweight sports car can, when plugged into an existing 350kW fast-charger, be boosted from 10% capacity to 80% in under five minutes. Although the battery has a small capacity by today’s standards, the light weight of the car means it can still provide a range of around 250km (155 miles). The company can also produce bigger versions. Like BYD, Nyobolt overcomes the internal resistance problem by redesigning the electrodes. Its anodes are built out of a proprietary form of niobium-tungsten oxide, which allows ions to enter and leave much faster, increasing the charge rate. Nyobolt already supplies batteries equipped with these anodes for use in data centres, which require fast-charging batteries to smooth out huge swings in power demand. The company also recently signed a deal with Symbotic, an American firm, to equip its warehouse robots with fast-charging batteries, allowing the bots to work for longer. Nyobolt is talking to a number of vehicle manufacturers, too. These increases in speed come with a cost. One consequence of fast charging is that the added strain on batteries can lead them to lose their capacity more quickly than with regular charging. Engineers are also getting on top of that problem. Sai Shivareddy, Nyobolt’s boss and co-founder, says its batteries have been tested over more than 4,000 fast-charging cycles, equivalent to a car travelling around one million kilometres, while retaining more than 80% of their capacity. BYD says its battery will also have enhanced durability. The opportunity to relax with a coffee or take a nap while your EV recharges may soon be a thing of the past. ■ Curious about the world? To enjoy our mind-expanding science coverage, sign up to Simply Science , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/03/16/rapid-charging-ev-batteries-are-on-the-way",
       "difficulty_constant": 8.5,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "According to the first paragraph, the 'deep ambivalence' humans feel towards animals stems from the conflict between ______.",
+          "stem": "According to the passage, what is the primary benefit of the ultra-fast charging systems being developed?",
           "options": {
-            "A": "our biological identity and our psychological self-perception",
-            "B": "the need to dominate nature and the desire to protect it",
-            "C": "our survival instincts and our adherence to religious doctrines",
-            "D": "our evolutionary past and our technological advancements"
+            "A": "They allow EV batteries to hold more energy than fossil-fuel tanks.",
+            "B": "They enable EV drivers to reach their destination without stopping.",
+            "C": "They eliminate a significant barrier to the widespread adoption of electric vehicles.",
+            "D": "They reduce the need for lithium-ion batteries in modern EVs."
           },
-          "answer": "A",
-          "explanation": "文章第一段提到，人类虽然承认自己是动物，但感到不安，这揭示了我们看待自己时的一种矛盾：既是自然的一部分，又觉得自己与众不同。这反映了我们在生物属性（即动物）与自我认知（人类独特性）之间的张力。"
+          "answer": "C",
+          "explanation": "文章第二段明确提到：Rapid recharging could dispel one of the last remaining obstacles to widespread EV adoption. 选项C准确对应了文中的这一核心观点。"
         },
         {
           "q_number": 2,
-          "stem": "Which of the following does the author imply about 'human exceptionalism'?",
+          "stem": "What is the primary technical challenge associated with increasing the charging speed of lithium-ion batteries?",
           "options": {
-            "A": "It emerged as a necessary response to the survival challenges of the Neolithic period.",
-            "B": "It was primarily a byproduct of scientific skepticism towards religious doctrines.",
-            "C": "It served both psychological and pragmatic functions in human history.",
-            "D": "It was a universal belief that predated ancient classical philosophy."
+            "A": "The lack of available alternating current at public service stations.",
+            "B": "The accumulation of charged particles causing heat and resistance.",
+            "C": "The inability of existing gantry systems to deliver high power.",
+            "D": "The degradation of the grid's ability to supply high-voltage electricity."
           },
-          "answer": "C",
-          "explanation": "文章提到，人类的这种特殊主义并非偶然，它不仅减轻了人们对死亡的焦虑（心理功能），还使人类利用动物进行劳动、战争和娱乐的行为合理化（实用功能）。"
+          "answer": "B",
+          "explanation": "文章第四段指出，当充电速度增加时，离子流会出现瓶颈，导致阻力和产生破坏性的热量（bottlenecks can build up in the flow of ions... This creates resistance and damaging heat）。"
         },
         {
           "q_number": 3,
-          "stem": "The author suggests that the 'dehumanization' of human groups was historically linked to ______.",
+          "stem": "How does BYD achieve faster charging in its new 'Blade Battery'?",
           "options": {
-            "A": "a failure to adopt hierarchical structures in society",
-            "B": "the application of human-animal power dynamics to human relations",
-            "C": "a return to ancient, interconnected, and holistic worldviews",
-            "D": "the scientific discovery of innate psychological differences"
+            "A": "By increasing the total capacity of the battery significantly.",
+            "B": "By using a proprietary form of niobium-tungsten oxide in the anodes.",
+            "C": "By using thinner internal components engineered at the molecular level.",
+            "D": "By replacing lithium ions with more efficient charged particles."
           },
-          "answer": "B",
-          "explanation": "文中指出，当人类将自身视为自然的掌控者而非一部分时，这种等级制度逻辑被应用到人类群体中。将人贬低为‘动物化’，从而使殖民主义、统治和排斥合理化，说明人类处理动物的方式被迁移到了人际关系中。"
+          "answer": "C",
+          "explanation": "文章第五段提到，BYD的电池通过分子层面的工程化设计，特别是使用更薄的组件（thin components）来减少内阻，从而提高离子流速度。选项D中的铌钨氧化物是Nyobolt采用的技术，而非BYD。"
         },
         {
           "q_number": 4,
-          "stem": "What can be inferred about the 'biophilia hypothesis' from the text?",
+          "stem": "What distinguishes Nyobolt’s approach from that of BYD?",
           "options": {
-            "A": "It claims that humans are inherently indifferent to non-living objects.",
-            "B": "It has been largely discredited by recent research in neuroscience.",
-            "C": "It posits that human attention is evolved to focus on living things.",
-            "D": "It emphasizes that our love for animals is purely a cultural construct."
+            "A": "Nyobolt focuses on infrastructure while BYD focuses on vehicle hardware.",
+            "B": "Nyobolt targets existing 350kW chargers rather than requiring 1,500kW systems.",
+            "C": "Nyobolt prioritizes long-range driving over battery durability.",
+            "D": "Nyobolt is the only company currently testing batteries in industrial robots."
           },
-          "answer": "C",
-          "explanation": "biophilia hypothesis（亲生命假说）认为人类天生被生命和生命过程所吸引。文中通过儿童对动物的偏好以及对animate beings（有生命体）的快速检测能力，论证了这种进化的注意偏差。"
+          "answer": "B",
+          "explanation": "文章提到BYD需要安装功率巨大的1,500kW充电器，而Nyobolt采取了较不费力的方法（less daunting approach），其电池在现有的350kW快充桩上即可工作。"
         },
         {
           "q_number": 5,
-          "stem": "What is the main argument regarding human attitudes towards animals in the concluding paragraph?",
+          "stem": "What does the author suggest regarding the trade-off between speed and battery life?",
           "options": {
-            "A": "Our treatment of animals is primarily dictated by their unique biological traits.",
-            "B": "Human behavior towards animals is consistently shaped by environmental ethics.",
-            "C": "Our perceptions of animals are often driven by personal needs rather than consistent logic.",
-            "D": "Scientific advancements have finally helped us reconcile our inconsistent treatment of animals."
+            "A": "The trade-off is currently unavoidable and limits the commercialization of the technology.",
+            "B": "The negative impact of fast charging is increasingly being mitigated by engineering.",
+            "C": "Battery capacity is permanently sacrificed to accommodate higher ion flow.",
+            "D": "Fast charging is inherently harmful and will likely be replaced by other technologies."
           },
-          "answer": "C",
-          "explanation": "文章最后一段指出，我们对动物的态度既有爱也有恨和吃，这种不一致性反映了人类自身的需求（human needs），而不仅仅是动物本身的特征，强调了这种态度的复杂性和主观性。"
+          "answer": "B",
+          "explanation": "文章末段提到：Engineers are also getting on top of that problem，并引用了Nyobolt和BYD的例子说明他们已经实现了在快充的同时保持电池寿命，说明工程师正在克服这一副作用。"
         }
       ]
     },
     {
-      "title": "Re-examining one of the world’s most notorious assassinations",
+      "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
       "article_update_date": "03.24.2026",
-      "source_journal": "Economist",
-      "body_text": "Re-examining one of the world’s most notorious assassinations Culture | Hatchet job Re-examining one of the world’s most notorious assassinations A new history of Leon Trotsky’s murder reads like a spy thriller March 19th 2026 MOST murder mysteries end with a revelation: the sleuth explains who did it, where, why and how. But how do you tell a gripping story when all of that is known? Josh Ireland, a writer and editor, overcomes that problem in a new book about one of the most famous murders in history: that of Leon Trotsky, in Mexico City, with an ice pick. (Actually it was a mountaineering axe, but why split hairs over splitting heads?) The murderer was Ramón Mercader, a Spanish communist and secret agent, acting on the orders of Josef Stalin , who loathed his one-time rival. What is there new to say, 86 years later? A lot, it turns out. Mr Ireland has a novelist’s eye for detail and captures the characters’ complexity. Trotsky was brilliant, charismatic and a gifted speaker; he was also vain and aloof. One reason Stalin, rather than he, succeeded Vladimir Lenin was that Trotsky “took no time to meet the Bolshevik faithful” after his electrifying speeches. One of his most ardent admirers admitted that his capacity for friendship was “about on the level of a barnyard fowl”. Mercader, meanwhile, was charming, handsome, eloquent and “a gifted actor who appeared to actively enjoy deceit…in short, the perfect spy”. He was an agent for the Soviet internal police, the NKVD, which committed atrocities at Stalin’s command. The book follows him as he travels between America and Mexico in the run-up to the assassination (after a hilariously incompetent first attempt involving machineguns and liquor failed). “The Death of Trotsky” does not offer new breakthroughs or revelations about this notorious crime. But narrative masterworks do not always need to unearth new history, if they can combine meticulous research with propulsive pacing. This was true with Erik Larson’s “The Devil in the White City” (2003), a bestseller about a serial killer and Chicago World’s Fair in 1893, and David Grann’s “Killers of the Flower Moon” (2017), about the Osage murders. Mr Ireland’s book opens in 1907 with Stalin’s and Trotsky’s first meeting, at a conference for the Russian Social Democratic Labour Party in London: “The two men felt an immediate and almost physical revulsion for each other.” Trotsky was eloquent and authoritative; Stalin apparently said nothing for three weeks of meetings. They are the two poles of the narrative, though they never saw each other again after Stalin exiled Trotsky in 1929. Over the course of the book, Trotsky wanders anxiously around the world, as Stalin seethes and plots from Moscow. Trotsky lived with Frida Kahlo and Diego Rivera for as long as they could tolerate each other. Natalia, Trotsky’s doting wife, acted as an intermediary between her husband and the world. People floated in and out of their lives; Mr Ireland brilliantly foreshadows the end by emphasising Trotsky’s naive indifference to security (he hated searching visitors for weapons). Trotsky has long been one of the left’s great “what ifs”. (If only he had outmanoeuvred Stalin to succeed Lenin, the Soviet Union might never have endured so much violence, some believe.) Mr Ireland does not agree. Compared with Stalin, Trotsky seems almost meek, but in fact he was just as eager to kill as any other Bolshevik. While still in Russia he approved summary executions and village burnings in response to a peasant rebellion and helped create the NKVD. “We must rid ourselves once and for all of the Quaker-Papist babble about the sanctity of life,” Trotsky once said ominously. Mr Ireland shows that Trotsky’s murder was less tragic than pathetic. By the time of his death he was isolated and powerless, living on the cinders of his reputation. Stalin murdered him out of personal hatred and paranoia, not because he had any actual reason to fear him. Nor is this ancient history. Once upon a time critics of Russia’s leaders ended up axed down or shot; more recently they have fallen out of windows and been poisoned. Plus ça change. ■ For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist , our weekly subscriber-only newsletter This article was downloaded by zlibrary from https://www.economist.com//culture/2026/03/19/re-examining-one-of-the-worlds-most-notorious-assassinations",
-      "difficulty_constant": 8.4,
+      "source_journal": "The Guardian",
+      "body_text": "A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed after spending more than a decade in prison awaiting execution. Lemi Limbu, now in her early 30s, was convicted of the murder of her daughter in 2015. On 4 March, a court in Shinyanga, northern Tanzania, declared she can appeal. She will face a retrial, but a date has yet to be set. Lawyers and activists have condemned her sentence, saying she should not be in prison at all. Limbu, who remains incarcerated, is a survivor of brutal and repeated sexual and domestic violence and has the developmental age of a child. Under Tanzanian and international law, Limbu should not be held criminally liable, given her intellectual disability. “She was not supposed to be in prison in the first place,” said Anna Henga, executive director of Legal and Human Rights Centre, a Tanzanian human rights advocacy organisation. “I’m happy that [her conviction] has been quashed and the appeal has been allowed, but I’m sad because the court ordered a retrial, which is like starting again [after] the case has already taken more than 10 years. My worry is that it could take up to another 10 years if there are more delays.” At her first trial, Limbu pleaded not guilty. Unable to read or write, she said she did not know the contents of a statement that police claimed she had made admitting to the murder. Her original conviction in 2015 was nullified in 2019 due to procedural errors. In 2022, she was retried and sentenced to death a second time. The court did not allow evidence to be heard from medical professionals about her intellectual disabilities or history of abuse. A clinical psychologist who evaluated her had concluded she had a severe intellectual disability and the developmental age of a 10-year-old child or younger. A second appeal was filed in 2022 and heard in February. Growing up, Limbu lived in a household where her father beat her mother. She was repeatedly raped by men in her village and gave birth for the first time aged 15. At about 18, she married an older man and had two more children. She suffered domestic violence until she fled to another village with her youngest child, Tabu, who was about a year old. She later met Kijiji Nyamabu, an alcoholic, who told Limbu he would marry her – but he said he would never accept her baby daughter, Tabu, because he was not the biological father. Shortly afterwards, Tabu was found strangled. There were no witnesses and Nyamabu had already fled by the time Limbu brought the authorities to her daughter’s body. She was arrested in August 2011. Nyamabu was never detained. A coalition of 24 African and international human rights groups last year condemned Limbu’s sentence as part of an appeal to the African court on human and peoples’ rights to look at the plight of women on death row throughout Africa. In July, four UN human rights experts wrote a letter to the government of Tanzania expressing concern about Limbu’s case. In Tanzania, the death penalty is the mandatory sentence for murder, although no executions have been carried out since 1995. There are more than 500 people on death row in the country, according to Henga. Rose Malle, who was wrongfully imprisoned on death row in Tanzania and now campaigns against capital punishment, said there are a number of innocent people facing the death penalty. “This situation is often caused by weaknesses within the justice system, starting from the stage of arrest, the investigation process, and even during the hearing of cases in court.” Prof Sandra Babcock, a clinical professor of law and the faculty director of the Cornell Center on the Death Penalty Worldwide, who is acting as a legal consultant in Limbu’s case, said: “Limbu has endured unimaginable suffering as a survivor of sexual violence living with intellectual disability. After spending more than a decade on death row, she should be released so that she can receive the care and support she needs.”",
+      "difficulty_constant": 8.5,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "What is the author's primary assessment of Josh Ireland's new book on Leon Trotsky?",
+          "stem": "According to the text, why did advocates and lawyers condemn Lemi Limbu’s sentence?",
           "options": {
-            "A": "It relies on new, previously unknown historical documents regarding the assassination.",
-            "B": "It succeeds by employing narrative skill to recount a familiar historical event.",
-            "C": "It focuses primarily on the technicalities of the murder weapon used by Mercader.",
-            "D": "It argues that Trotsky was an innocent victim of Stalin's inexplicable paranoia."
+            "A": "She was wrongly accused of being an accomplice to murder.",
+            "B": "The court failed to consider her intellectual disability and history of abuse.",
+            "C": "She had already served a ten-year sentence which exceeded the legal limit.",
+            "D": "The evidence used against her was based on a forged confession by police."
           },
           "answer": "B",
-          "explanation": "The text explicitly states that the book does not offer new breakthroughs or revelations, but qualifies as a 'narrative masterwork' by combining meticulous research with propulsive pacing, indicating that its strength lies in the storytelling rather than new evidence."
+          "explanation": "文章明确提到法院在审判时未采纳有关她智力障碍及受虐历史的医疗专家证词，且律师认为基于其智力水平，她本不该被追究刑事责任。"
         },
         {
           "q_number": 2,
-          "stem": "According to the passage, why did Stalin succeed Lenin instead of Trotsky?",
+          "stem": "What is Anna Henga's main concern regarding the court's latest ruling?",
           "options": {
-            "A": "Trotsky lacked the oratorical skills required to influence the Bolsheviks.",
-            "B": "Trotsky was too preoccupied with his physical safety and security measures.",
-            "C": "Trotsky failed to foster interpersonal connections with his fellow party members.",
-            "D": "Stalin was seen as more charismatic and eloquent than his rival."
+            "A": "The possibility of further prolonged judicial delays.",
+            "B": "The risk of the defendant being released without adequate care.",
+            "C": "The lack of new evidence to support a successful retrial.",
+            "D": "The inconsistency of international law regarding capital punishment."
           },
-          "answer": "C",
-          "explanation": "The text mentions that Trotsky 'took no time to meet the Bolshevik faithful' after speeches and was described as having a capacity for friendship 'about on the level of a barnyard fowl', directly explaining why he failed to build necessary political support."
+          "answer": "A",
+          "explanation": "Anna Henga虽然对判决撤销感到欣慰，但她明确表达了对“重审”可能导致再次漫长拖延的担忧。"
         },
         {
           "q_number": 3,
-          "stem": "How does the author characterize Trotsky's political ideology based on the book's evidence?",
+          "stem": "Which of the following best describes the circumstances surrounding Limbu’s initial conviction?",
           "options": {
-            "A": "He was a pacifist who abhorred the violence of the Bolshevik regime.",
-            "B": "He was a principled reformer who opposed the creation of the NKVD.",
-            "C": "He was just as ruthless as Stalin regarding the use of violence.",
-            "D": "He was largely indifferent to the internal politics of the Soviet Union."
+            "A": "She confessed to the crime after being intimidated by her husband.",
+            "B": "She was convicted despite the lack of direct witnesses and her own illiteracy.",
+            "C": "She was held responsible for her daughter’s death due to her history of alcoholism.",
+            "D": "She voluntarily admitted to the murder in a written statement to the police."
           },
-          "answer": "C",
-          "explanation": "The author contradicts the idea that Trotsky was 'meek', noting he was 'just as eager to kill as any other Bolshevik' and citing his approval of executions and his rejection of the 'sanctity of life'."
+          "answer": "B",
+          "explanation": "文章提到Limbu无法读写，且不知道警方声称她做出的招供陈述的内容，此外案发时并没有证人，体现了定罪过程中的疑点。"
         },
         {
           "q_number": 4,
-          "stem": "What is the function of the phrase 'Plus ça change' at the end of the article?",
+          "stem": "What does the text imply about the death penalty in Tanzania?",
           "options": {
-            "A": "To imply that the assassination of political dissidents remains a recurring pattern in Russia.",
-            "B": "To suggest that historical accounts of assassinations have become more accurate over time.",
-            "C": "To contrast the primitive weapons of the past with modern methods of state-sponsored killing.",
-            "D": "To show that Stalin's motives have changed significantly since the 1920s."
+            "A": "It is frequently carried out to maintain public order.",
+            "B": "It is rarely applied to women due to judicial leniency.",
+            "C": "It is legally mandatory for murder, though practically dormant for decades.",
+            "D": "It is being challenged by the government to align with international standards."
           },
-          "answer": "A",
-          "explanation": "The phrase means 'the more things change, the more they stay the same'. By linking historical murders to recent cases of critics 'falling out of windows and being poisoned', the author implies a persistent, unchanging pattern of state violence against critics."
+          "answer": "C",
+          "explanation": "文章指出坦桑尼亚谋杀罪的法定刑罚是死刑，但自1995年以来并没有实际执行过，说明该法律在实践中处于“沉睡”状态。"
         },
         {
           "q_number": 5,
-          "stem": "What is the author's tone regarding Trotsky's death as described in the final paragraphs?",
+          "stem": "What can be inferred about the justice system in Tanzania based on Rose Malle’s comments?",
           "options": {
-            "A": "Deeply sentimental and filled with mourning.",
-            "B": "Analytical, viewing it as more pathetic than historically tragic.",
-            "C": "Alarmed by the implications of the assassination for modern politics.",
-            "D": "Indifferent, focusing only on the literary quality of the book."
+            "A": "It is overly reliant on confessions rather than scientific evidence.",
+            "B": "It has successfully reformed its investigation process in recent years.",
+            "C": "It suffers from systemic flaws throughout various legal stages.",
+            "D": "It prioritizes the rights of the accused over victim advocacy."
           },
-          "answer": "B",
-          "explanation": "The author explicitly states: 'Mr Ireland shows that Trotsky’s murder was less tragic than pathetic,' explaining that by his death, Trotsky was 'isolated and powerless, living on the cinders of his reputation'."
+          "answer": "C",
+          "explanation": "Rose Malle指出坦桑尼亚死刑判决的问题往往源于司法系统在逮捕、调查以及法庭审理等各个环节存在的弱点。"
         }
       ]
     },
     {
-      "title": "Briefly Noted",
+      "title": "Chapter 17",
       "article_update_date": "03.24.2026",
-      "source_journal": "New Yorker",
-      "body_text": "Briefly Noted Books Briefly Noted “On Morrison,” “Scale Boy,” “Sisters in Yellow,” and “White River Crossing.” March 16, 2026 On Morrison , by Namwali Serpell (Hogarth) . This collection of essays, by a novelist and literary scholar, considers the writer Toni Morrison’s varied body of work. Serpell homes in on its challenging qualities—including its unique orchestration of voice, unconventional chronologies, and layered metaphors—unearthing fresh insights about Morrison’s themes and craft. In a close reading of Morrison’s famed story “Recitatif,” for example, Serpell examines the ways that “race, often relegated to a visual regime, fundamentally works through language.” Enriching her research with letters, draft manuscripts, and other sources, Serpell captures Morrison’s “masterful difficulty” without sanding down its edges. Scale Boy , by Patrice Nganang (Farrar, Straus & Giroux) . In this unhurried, lyrical memoir, a novelist remembers his youth in Cameroon in the nineteen-seventies and eighties. Anchored by Nganang’s years as a “scale boy”—weighing people and products for a small fee—the narrative wends through anecdotes that depict a young man discovering his artistic and intellectual powers along with his nation’s colonial history. Reflecting on the meaning of the scale as an object, Nganang draws an ominous historical line from the present to the past, noting that “the scale was the very last instrument Black people stepped onto before boarding the slave ships, before entering the soul-wrenching and dreaded institution of their despair.” What We’re Reading Discover notable new fiction, nonfiction, and poetry. Sisters in Yellow , by Mieko Kawakami, translated from the Japanese by Laurel Taylor and Hitomi Yoshio (Knopf) . This engrossing novel follows a teen-age girl coming of age in working-class Tokyo as she desperately tries to achieve financial stability. At the novel’s outset, Hana lives in a cramped apartment with her mother, a sweet but hapless bar waitress, and longs to escape from a home life that her bullies condemn as “not normal.” Then she meets a charismatic friend of her mother’s, and the two begin running a bar; together with two other girls who become Hana’s friends, they soon form a kind of makeshift happy family. But, when a series of events threatens their ability to earn, Hana discovers how difficult class ascension really is. “I’m trying so hard,” she says at one point. “But I always wind up back here.” White River Crossing , by Ian McGuire (Crown) . Set in 1766, this harrowing novel centers on an expedition organized by the head of a Hudson’s Bay Company trading post, in Canada, who dispatches a group to secretly search for a gold deposit on remote lands inhabited by Indigenous tribes. Led by Inuit guides, the three white men in the party form an uneasy mix of personalities. There is the trading-post head’s “scrawny” young nephew; his deputy, “an oaf and a scoundrel”; and a former aspiring minister who has lost his faith. Briskly paced, immersive, and often violent, McGuire’s novel depicts the destructive and corrupting effects of the colonists’ gold lust on themselves and the Native people in their path. As one of the guides, Keasik, observes, this greed “leaves behind, like a falling tide, a tangled wrack of wariness and fear.”",
-      "difficulty_constant": 8.4,
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Noah Shachtman The Big Story Jan 13, 2026 6:00 AM Trump Declared a Space Race With China. The US Is Losing If you want to put people back on the moon, don’t gut the agency in charge of getting them there. ILLUSTRATION: Jiawen Chen The senator wanted a promise. A solemn vow. For the last six years—or maybe the last decade or quarter century, depending on how you count it—the United States and China had been locked in a space race, a contest to see which nation could put its people on the moon . Senator Ted Cruz wanted President Donald Trump’s nominee to run NASA, Jared Isaacman, to pledge that the US would not lose. Cruz brought a little surprise to Isaacman’s confirmation hearing last April. It was a poster of the moon. On one side stood three astronauts and a giant Chinese flag. On the other were two more figures in space suits, with the tiniest Stars and Stripes planted in the lunar soil . Cruz apologized for the imbalance. “My team used ChatGPT,” explained the senator, who chairs the committee that oversees NASA. Then Cruz, with a bit more seriousness, asked Isaacman, “Do we have your commitment that you will not allow the scenario on the right of this poster to happen? That China will not beat us to the moon?” Isaacman, a billionaire entrepreneur who had paid for his own missions to space, replied, “Senator, I only see the left-hand portion of that poster.” It was a red-meat, fuck-yeah, pitch-perfect response. And Isaacman may have meant it. But by the time of his testimony, the Trump administration had started a process that would lay waste to NASA , pushing nearly 4,000 agency employees to quit. Then the White House proposed a massive, 24 percent cut to NASA’s budget. Then Trump yanked Isaacman’s nomination and named a new part-time acting chief, a fellow who boasted in his official NASA biography that he is one-half of “America’s first and longest-married reality TV couple.” Then that guy picked a fight with Elon Musk , who’s building NASA’s moon lander. And Isaacman was back in the running. In December, Trump capped off the year with an executive order pushing Americans to get back to the moon by 2028. If all of this sounds suboptimal to you, welcome to the club, space ranger. That dysfunction is one of many reasons why the vast majority of the two dozen sources I interviewed for this story believe that China will put people on the moon first. I spoke with nine former NASA officials who served at the highest rungs of the space agency under presidents Trump and Biden; none of them were optimistic about America’s chances. “We did the worst of all worlds,” one of the nine tells me. “We positioned it as a race without planning to win.” The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . The original space program was the ultimate symbol of America at its screaming-eagle apex. Rocket scientist was shorthand for brilliant, and many of them were working in Huntsville, Alabama, aka Rocket City. The word astronaut was synonymous with grit, and you could find the gutsiest of them in Houston. Moonshot was (and is) code for something borderline impossible. Space races have helped spur the development of everything from the integrated circuit to the solar panel to 5G. But that was before America decided to stab itself in the brain. Today, much of the world drives Chinese electric cars , powers their homes with Chinese solar panels , and stays in touch with made-in-China phones. Chinese scientists have eclipsed their American counterparts in the production of high-quality research, and the White House has responded by gutting American science funding and charging $100,000 to let in highly skilled immigrants. So if Chinese astronauts step down from their lander and livestream the results in 4K—and to be clear, it’s still an “if” at this point—it’ll be more than a point of national pride for Beijing. It’ll be a declaration that the American Century is officially over. ILLUSTRATION: Jiawen Chen About 18 months ago and some 3,000 miles above the Earth, the Chinese robotic spacecraft Chang’e-6 released its reentry capsule, which skipped in and out of the atmosphere before parachuting into the grasslands of China’s Inner Mongolia. Inside were about 4 pounds of moon rocks and soil. It was the first sample return from the far side in human history. Putting people on the moon might seem like a so-what sequel, coming 50-plus years after Apollo. But there’s a reason no one’s been back to the moon in half a century. It is maddeningly difficult to put anything down there, even little unmanned landers. A handful of soft-landing missions have succeeded, most of them Chinese. More numerous are the flops of the Japanese, Russian, Israeli, American, and Indian space programs. The reasons for failure are many—light gravity and uneven terrain make it easy for a lander to tip over; no atmosphere means firing rockets to brake; that firing kicks up clouds of dust that can limit visibility. “Once you start slowing down, within a matter of single-digit seconds, you are on an intercept course with the moon, and you don’t have enough propellant to go back to lunar orbit and try again,” says Will Coogan, a chief engineer at Firefly Aerospace, the only company to pull off a fully successful robotic moon landing , ever. Operations around the lunar poles are an “order of magnitude” tougher, a person who oversaw NASA’s lunar program tells me. Getting into the proper orbital plane requires more maneuvering. For consistent communication with ground control, you need to position a relay satellite around the moon. (As China did, about six weeks before landing Chang’e-6.) Once you’re there, be careful. Miles-deep craters are shadowed in near-eternal night, which means no solar power and temperatures that can drop below –200 degrees Celsius. Yet that’s exactly where China’s heading. Scientists believe the poles have enormous pockets of ice—and potentially helium-3, an isotope that’s extremely scarce on Earth. Helium-3 could unlock quantum computing and possibly nuclear fusion, many experts believe. “Let’s say on the lunar surface, helium-3 becomes a new source of fusion power,” as Isaacman told Cruz at that April confirmation hearing. “It could shift the balance of power here on Earth. I don’t think we can afford to find that out the hard way.” Both the US and China have dreamed of building a base at the south pole, and both would like to claim the prime landing sites. The upcoming Chang’e-7 mission aims to be the first to extract water from the moon. One desirable landing site is a spot high on the ridge of the Shackleton Crater, near the lunar south pole, at a location that’s almost always light. Chang’e-7 will carry instruments from Russia and several American allies—Italy, Switzerland, Thailand, Egypt, and Bahrain. The Chinese National Space Administration says the launch should happen in August. “When they say they’re going to do something by x, they tend to do it,” says Dean Cheng, a senior fellow at the Potomac Institute for Policy Studies who’s been tracking the progress. China’s space efforts aren’t as sophisticated as America’s; Beijing is only now testing reusable rockets. And every space program faces mishaps. In November, three Chinese astronauts were stranded aboard their space station for nine days after a piece of orbiting junk damaged their return capsule. But China’s crewed lunar effort, for now, seems to be more or less on target. The idea is that a pair of rockets—one carrying the crew and service capsules, the other a lander—will head to the moon. They’ll rendezvous in lunar orbit, and a pair of astronauts will set foot on the surface. Exactly where they’ll land hasn’t been confirmed. But testing for all of the components is well under way. A spokesperson for the China Manned Space Agency has said the mission will launch “before 2030.” When will American astronauts get there? That’s a bit more complicated. Warning: the recent history of the US program to return astronauts to the moon is so contradictory, so politicized, so frustrating, it’s going to make your head hurt. As Jim Bridenstine, who served as Trump’s first NASA administrator, recently told Congress, “This is an architecture that no NASA administrator that I’m aware of would have selected.” “No way to run a program, in my opinion,” says the NASA official who helped oversee the lunar initiative. “You can’t make this shit up. Really can’t. It’s really crazy.” The original Apollo program was insanely ambitious, but there was a clarity to the mission. One giant rocket, carrying one tiny crew capsule and one even tinier landing module. The capsule would orbit the moon, and the lander would ferry astronauts to and from the surface. That was all. The new US moon program— Artemis , named after Apollo’s twin sister—isn’t nearly so neat. For starters: The main rocket and capsule are made up of leftovers. Back in 2010, the Senate ordered NASA to build a rocket with old engines from the space shuttle program and repurpose a capsule from a Bush-era deep-space project. The rocket, known as the Space Launch System, would lift off carrying astronauts in a capsule named Orion. The combination of SLS and Orion has cost taxpayers tens of billions of dollars. It has flown exactly once. A second flight is slotted for February. The Orion capsule was built on the heavy side, to give astronauts extra protection against radiation and other risks. But the capsule’s propulsion was under-powered to reach a tight lunar orbit. (The European Space Agency, which provided the thing, said it couldn’t afford to supply more.) NASA engineers figured out, however, that the capsule could reach a farther-out, super-elliptical orbit, and that orbit would still allow for landings on the lunar poles. The drawback: At that orbit, completing a circuit of the moon takes nearly a week. Once you drop astronauts off, they’re stuck on the surface for days and days. A tear in a spacesuit or a malfunction in the lander’s life support system might turn into a nightmare. NASA also concluded that it needed to put a miniature space station in orbit around the moon. I must’ve heard a half-dozen rationales for this space station. It wouldn’t necessarily help with rescue efforts, but it could communicate with astronauts on the ground. And during later, longer-duration missions, it would give astronauts a more hospitable place to work and rest. Maybe. Some at NASA view the so-called lunar “Gateway” as a kind of insurance policy. As one former official told me, “There’s the belief that if you have these pieces pre-positioned in space, we’ll have a long-term program that Congress is less willing to walk away from.” All of this was meant to take a decade or so to come together—like, 2028 or 2029. Until Mike Pence stepped up to the mic. ILLUSTRATION: Jiawen Chen The American flag behind the vice president was large, almost comically so. Also behind him was an original space capsule from the Apollo days. Pence was exuding confidence that day in the spring of 2019. He proclaimed to the crowd at the Marshall Space Flight Center in Huntsville that “the first woman and the next man on the moon will both be American astronauts, launched by American rockets, from American soil.” He also announced out of nowhere that the schedule was cut in half. It would all be done in five years, by 2024. The end of what the administration hoped would be a second Trump term. People in the room—and around the space agency—were stunned. As a former top NASA official recalls, “Everyone knew from the moment Pence said that, that it was pretty much bullshit.” Reporters quizzed NASA’s leaders on the new deadline. “I do not like being—I will not lie,” a second",
+      "difficulty_constant": 8.5,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "According to the passage, how does Namwali Serpell approach Toni Morrison’s work in 'On Morrison'?",
+          "stem": "What does the author suggest about Senator Ted Cruz's poster during the confirmation hearing?",
           "options": {
-            "A": "By simplifying Morrison's complex linguistic structures for general readers.",
-            "B": "By focusing primarily on the chronological order of Morrison's novels.",
-            "C": "By critically analyzing the interplay between race and language in Morrison's writing.",
-            "D": "By relying solely on secondary critical sources to interpret Morrison's themes."
+            "A": "It was a strategic tool to secure more funding for NASA.",
+            "B": "It served as a visual representation of his concern regarding the US-China space race.",
+            "C": "It was intended to humiliate Jared Isaacman for his lack of experience.",
+            "D": "It accurately reflected the technological superiority of the US over China."
           },
-          "answer": "C",
-          "explanation": "文章提到Serpell通过Close reading研究Morrison的作品，特别是在Recitatif一文中，她分析了种族（race）如何通过语言（language）运作，这直接对应了选项C。"
+          "answer": "B",
+          "explanation": "文章中提到Cruz展示海报是为了对比中美登月实力，以此表达他对美国可能在太空竞赛中落后的担忧，因此B项正确。"
         },
         {
           "q_number": 2,
-          "stem": "What does Patrice Nganang intend to symbolize by using the 'scale' in his memoir 'Scale Boy'?",
+          "stem": "According to the passage, why do many experts believe China might reach the moon before the US?",
           "options": {
-            "A": "The transition from youth to adulthood in colonial Cameroon.",
-            "B": "A historical link between commercial labor and the horrors of the slave trade.",
-            "C": "The objective measurement of artistic and intellectual growth.",
-            "D": "The financial instability inherent in working-class life."
+            "A": "The US has shifted its focus to deep-space exploration beyond the moon.",
+            "B": "China's space program has significantly more funding than NASA.",
+            "C": "The US space program is hindered by political instability and organizational dysfunction.",
+            "D": "China has successfully developed superior re-usable rocket technology."
           },
-          "answer": "B",
-          "explanation": "文章明确提到Nganang将秤（scale）联系到黑人在登上奴隶船之前被迫进行的称重过程，这是一种历史性的警示，指向奴隶制度的痛苦，因此选B。"
+          "answer": "C",
+          "explanation": "文中多处提到美国空间项目因行政干预、预算削减和管理混乱而效率低下，受访的NASA前官员也对此表示悲观，因此C项为主要原因。"
         },
         {
           "q_number": 3,
-          "stem": "Which of the following best describes the core conflict faced by Hana in 'Sisters in Yellow'?",
+          "stem": "What is implied by the author's reference to the 'American Century' in the context of China's potential lunar landing?",
           "options": {
-            "A": "Her struggle to escape the emotional abuse inflicted by her mother.",
-            "B": "Her inability to form meaningful relationships in a hostile Tokyo environment.",
-            "C": "The inevitable failure of her business venture due to a lack of charisma.",
-            "D": "The systemic challenges of improving one's socio-economic status."
+            "A": "It highlights the US historical commitment to scientific advancement.",
+            "B": "It suggests that scientific achievement is the only metric for global dominance.",
+            "C": "It marks the symbolic end of US global influence if China achieves this milestone.",
+            "D": "It acknowledges that the US has already surrendered its lead in technological innovation."
           },
-          "answer": "D",
-          "explanation": "文章提到Hana试图追求财务稳定，但最终发现阶级跃升（class ascension）非常困难，即系统性的社会经济挑战，因此选D。"
+          "answer": "C",
+          "explanation": "作者指出如果中国宇航员能在月球直播，这不仅是北京的骄傲，更意味着“美国世纪”的正式终结，因此C项正确。"
         },
         {
           "q_number": 4,
-          "stem": "In 'White River Crossing', the author uses the expedition to highlight:",
+          "stem": "Why are the lunar poles considered the primary target for both US and Chinese missions?",
           "options": {
-            "A": "The cooperation between colonial traders and Indigenous guides.",
-            "B": "The spiritual renewal of the former minister through nature.",
-            "C": "The corrosive influence of greed on both colonizers and Indigenous communities.",
-            "D": "The geographic challenges of mapping Canada in the eighteenth century."
+            "A": "They offer the easiest terrain for landing unmanned modules.",
+            "B": "They are rich in resources like ice and potentially helium-3.",
+            "C": "They are the only locations with continuous communication with Earth.",
+            "D": "They allow for shorter and safer travel distances from Earth."
           },
-          "answer": "C",
-          "explanation": "文章提到麦奎尔的小说描写了殖民者对黄金的渴望（gold lust）对他们自身以及原住民造成的破坏性和腐蚀性影响，因此选C。"
+          "answer": "B",
+          "explanation": "文中明确提到科学家认为极地拥有大量的冰和氦-3同位素，这对未来的聚变能源和量子计算至关重要，因此B项正确。"
         },
         {
           "q_number": 5,
-          "stem": "What is the common thread among the books reviewed in this collection?",
+          "stem": "What can be inferred about the 'Artemis' program from the author's description?",
           "options": {
-            "A": "All of them are historical memoirs written by contemporary novelists.",
-            "B": "They all explore the complexities of human identity and social structures.",
-            "C": "They focus exclusively on the experiences of marginalized people in Asia.",
-            "D": "Each book is a translation of a previously overlooked foreign literary work."
+            "A": "It is a highly efficient and modern architectural model for space exploration.",
+            "B": "It has benefited from consistent long-term planning and bipartisan support.",
+            "C": "It is a complex and disjointed initiative plagued by historical limitations.",
+            "D": "It is a cost-effective mission that relies primarily on innovative new technology."
           },
-          "answer": "B",
-          "explanation": "综合分析四本书，分别涉及了文学评论（身份与创作）、回忆录（种族历史与殖民）、小说（阶级地位与自我实现）、以及历史小说（贪婪与殖民冲突），它们都探讨了人的身份、社会结构及个体与历史的关系，因此选B。"
+          "answer": "C",
+          "explanation": "文章通过“leftovers”、“contradictory”、“politicized”等词汇描述Artemis项目，指出它由旧组件拼凑而成，且受到政治干扰，呈现出混乱的特征。"
         }
       ]
     }
