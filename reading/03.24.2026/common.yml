@@ -1,20 +1,19 @@
 articles:
-- article_id: epub_90
+- article_id: epub_94
   journal_name: Economist
   publish_date: 03.24.2026
-  title: Rapid-charging EV batteries are on the way
-- article_id: epub_17
+  title: Which is the best sparkling water?
+- article_id: epub_42
   journal_name: Wired
   publish_date: 03.24.2026
-  title: Chapter 17
-- article_id: rss_3_1774318612
-  journal_name: The Guardian
+  title: Pause
+- article_id: rss_8_1774318608
+  journal_name: China Daily
   publish_date: 03.24.2026
-  title: Woman has sentence quashed by Tanzania court after over a decade on death
-    row
-- article_id: rss_2_1774318588
-  journal_name: Nature
+  title: Nanjing massacre remembered on 80th anniversary
+- article_id: rss_4_1774318606
+  journal_name: China Daily
   publish_date: 03.24.2026
-  title: How I squeeze fresh science from public data
+  title: Chinese, Russian and Indian ministers meet
 generate_date: 03.24.2026
 strategy: common

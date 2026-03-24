@@ -2,462 +2,462 @@
   "group_update_date": "03.24.2026",
   "papers": [
     {
-      "title": "How I squeeze fresh science from public data",
+      "title": "Which is the best sparkling water?",
       "article_update_date": "03.24.2026",
-      "source_journal": "Nature",
-      "body_text": "I didn’t set out to build a career on other people’s data. But five years after my first secondary-data analysis, I’m still doing it. In 2018, halfway through my PhD programme at the University of Queensland in Brisbane, Australia, I discovered a previously unknown virus in the laboratory’s Aedes aegypti mosquito cell lines. Insect cells often harbour persistent, unnoticed viral infections, so the finding wasn’t entirely surprising. But this new virus was uncharacterized. We found that it couldn’t infect mammalian cells and, unexpectedly, that it modestly reduced replication of the dengue virus. That drew our attention — insect-specific viruses that interfere with human pathogens could have implications for understanding, and potentially disrupting, how mosquitoes transmit disease. My doctoral adviser, molecular virologist Sassan Asgari, excitedly pointed me towards other data sets from our lab, and encouraged me to widen the search. He wanted to know how common this virus was across A. aegypti cells in our lab and others. Luckily, transcriptomic data sets were available from mosquito researchers all over the world. Before long, I had downloaded and examined around 3,000 of them and had traced the virus’s evolutionary history across the globe1. Then, towards the end of my PhD programme, I came across data from the lab of Alexander Khromykh, a virologist at the University of Queensland, where I still work. Khromykh studies the role of non-coding RNA in extracellular vesicles during viral infections. Taking a fresh look at his lab’s published data, I found something unexpected: viruses seemed to be chopping up cellular RNA in ways that hadn’t been seen before. That reanalysis led to an introductory e-mail, then a conversation, then a collaboration. Alex and I are now co-investigators on a national grant built on that initial finding. For early-career researchers, already-published data are a golden opportunity — a way to generate data for publications and funding applications at little to no cost. Doing so requires only a question, a laptop with the programming languages R or Python installed and a willingness to look at old data from a new angle. Most researchers, in my experience, are glad to know that their data are being used in this way. Some of my e-mails have led to collaborations, and others have led authors to share metadata that weren’t included in their original publication. Occasionally, the original authors have the samples or equipment necessary to test the results in a way that you can’t; a quick experiment on their end might confirm an association that becomes preliminary data for your next grant. The data were free Genomic data of the type I was mining are particularly suited to secondary analysis. The Sequence Read Archive (SRA), hosted by the National Center for Biotechnology Information, part of the US National Institutes of Health, holds more than 50 petabytes of data, much of which are deposited and rarely used again. In 2022, a project called Serratus aligned billions of these reads against viral reference genomes to identify thousands of new viral sequences2, expanding known RNA virus diversity by an order of magnitude. These large-scale efforts demonstrate what becomes possible when secondary data analysis is taken seriously. And the pattern holds across the sciences. Many clinical-trial data sets, ecological surveys and medical-imaging archives are available online and ripe for the picking. Published analyses often just scratch the surface of what the data can reveal. Taking a new look at old data can open doors, says Rhys Parry.Rhys Parry / UQ Funding agencies and publishers require researchers to archive our data, to ensure reproducibility and verification of results. But reproducibility is not the only thing that archived data are good for; every data set contains associations beyond those found by the researchers who generated it. New methods arise, new hypotheses emerge and fields shift in ways that can make old data new again. There is an opportunity to bring fresh angles to existing data, to find new associations and, ideally, to validate them. The most interesting reanalyses tend to involve combining data types — proteomics with transcriptomics, say, or satellite imagery and survey data. Start with data sets for which you understand the underlying science but can ask a question that the original authors did not. But first, check the metadata. If you can’t understand the system, treatment, time point, replicates and platform without too much detective work, reanalysing these data is probably not worth the effort. Not all data sets or analyses will provide something new. I’ve downloaded thousands of data sets that went nowhere. But the cost of searching is low, and null results can be as informative as positive ones. A well-executed secondary analysis can be published, cited and used as preliminary data, on a par with any other scientific output.",
+      "source_journal": "Economist",
+      "body_text": "Which is the best sparkling water? Culture | World in a dish Which is the best sparkling water? Diving into the frothy world of bubbly March 19th 2026 ANGELO ROEFARO loves nothing. He wants you to love nothing, too. A small, trim man with a neat beard, he manned his stall at the recent Brooklyn SeltzerFest with the manic energy of a caffeinated terrier, thrusting little paper cups at passers-by. “See? You finally taste nothing!” Mr Roefaro boasts that he spent “six months researching bubbles”. The result is clean-tasting and only lightly fizzy. Some may see the launch of a new unflavoured seltzer—Seltzie, with the slogan, “only one flavour: none”—as a sign of a bubble in the sparkling-water business. At the stalls on either side, consumers could sample tangerine-ginger, passionfruit, lime-mint, blackberry-cucumber and raspberry, all produced by Topo Chico, a popular Mexican brand owned by Coca-Cola. A rising tide is lifting all fizzy waters. With alcohol consumption declining, sparkling water is more popular than ever. Sales of it in America were around $6.4bn in 2025, up 70% from 2019, according to Mintel, a research firm. Joseph Priestley, an English chemist, is credited with creating artificially sparkling water in 1767 by infusing it with carbon dioxide. Some 15 years later Johann Schweppe, a Swiss scientist whose name in possessive form should be familiar to any enthusiast, started a company to produce it at scale. Soda fountains, which make carbonated drinks on site, spread in the 19th century. In America sparkling water proved especially popular among Jewish immigrants, perhaps because it was the cleanest water available on Manhattan’s Lower East Side. It was known as “seltzer”, after a German town famous for its sparkling water. (Today many use sparkling water and seltzer interchangeably.) Consumers are spoiled for choice. For European sophisticates (or wannabes), there are the delicate bubbles of Badoit or San Pellegrino. Georgians rave about the putative healing properties of Borjomi, a naturally sparkling water with a sulphurous scent and heavy mineral flavour that detractors compare to fizzy saliva. So buoyant is demand for sparkling water that even supermarket chains have their own lines of the flavoured sort. People trying to cut back on fizzy drinks can choose lightly fruity Spindrift or La Croix. Gourmets and Texans—not always separate categories—love the large, sharp bubbles and clean taste of Topo Chico, which has recently experienced a shortage. (As one T-shirt at the festival boasted, “Good seltzer should hurt.” You will understand if you have ever guzzled one too quickly.) So which is the best? Some people prefer a Badoitesque whisper of bubbles, but that seems an experiential waste. Topo Chico, with its lack of mineral aftertaste and bubbles that pack a punch, pairs perfectly with spicy food, cuts through richness and settles the stomach. Consumers should cheer. And then burp. ■ This article was downloaded by zlibrary from https://www.economist.com//culture/2026/03/19/which-is-the-best-sparkling-water",
       "difficulty_constant": 8.5,
       "question_type": "Use of English",
       "questions": [
         {
           "q_number": 1,
-          "stem": "I didn’t set out to build a career on other people’s data. But five years after my first secondary-data analysis, I’m still doing it. In 2018, halfway through my PhD programme, I ____ a previously unknown virus.",
+          "stem": "Angelo Roefaro’s approach to sparkling water is to promote a product that offers ______ nothing in terms of flavour.",
           "options": {
-            "A": "discovered",
-            "B": "dismissed",
-            "C": "distorted",
-            "D": "discarded"
+            "A": "hardly",
+            "B": "consequently",
+            "C": "naturally",
+            "D": "virtually"
           },
-          "answer": "A",
-          "explanation": "根据上下文，作者是在进行研究时发现了病毒，discovered符合语境。"
+          "answer": "D",
+          "explanation": "Virtually nothing implies almost nothing, fitting the context of unflavoured seltzer."
         },
         {
           "q_number": 2,
-          "stem": "Insect cells often harbour persistent, unnoticed viral infections, so the finding wasn’t entirely ____.",
+          "stem": "Mr. Roefaro’s energetic presence at the festival suggests he is ______ about his research into bubbles.",
           "options": {
-            "A": "inevitable",
-            "B": "conspicuous",
-            "C": "startling",
-            "D": "surprising"
+            "A": "ambivalent",
+            "B": "indifferent",
+            "C": "cautious",
+            "D": "passionate"
           },
           "answer": "D",
-          "explanation": "因为昆虫细胞常带有此类病毒，所以发现并不令人感到非常惊讶，选surprising。"
+          "explanation": "Manic energy indicates high level of excitement or passion."
         },
         {
           "q_number": 3,
-          "stem": "We found that it couldn’t infect mammalian cells and, ____, that it modestly reduced replication of the dengue virus.",
+          "stem": "The author uses the phrase 'bubble in the sparkling-water business' to suggest a potential ______ in the market's current trend.",
           "options": {
-            "A": "consequently",
-            "B": "subsequently",
-            "C": "unexpectedly",
-            "D": "predictably"
+            "A": "sustainability",
+            "B": "stagnation",
+            "C": "saturation",
+            "D": "innovation"
           },
           "answer": "C",
-          "explanation": "文中提到这种抑制作用是作者未预料到的，故用unexpectedly。"
+          "explanation": "The term 'bubble' often refers to an unsustainable rise in demand or economic value that might burst."
         },
         {
           "q_number": 4,
-          "stem": "That drew our attention — insect-specific viruses that interfere with human pathogens could have ____ for understanding how mosquitoes transmit disease.",
+          "stem": "With various exotic flavours available, the sparkling water market is clearly ______ by intense competition.",
           "options": {
-            "A": "implementations",
-            "B": "complications",
-            "C": "applications",
-            "D": "implications"
+            "A": "dominated",
+            "B": "depleted",
+            "C": "overlooked",
+            "D": "restricted"
           },
-          "answer": "D",
-          "explanation": "implications指对某事的影响或意义，符合句意。"
+          "answer": "A",
+          "explanation": "The variety of flavours from big brands like Coca-Cola shows they dominate the market."
         },
         {
           "q_number": 5,
-          "stem": "My doctoral adviser, molecular virologist Sassan Asgari, excitedly pointed me towards other data sets from our lab, and encouraged me to ____ the search.",
+          "stem": "The shift away from alcohol consumption has ______ the growth of the sparkling water industry.",
           "options": {
-            "A": "narrow",
-            "B": "hasten",
-            "C": "widen",
-            "D": "hinder"
+            "A": "hampered",
+            "B": "hindered",
+            "C": "ignored",
+            "D": "boosted"
           },
-          "answer": "C",
-          "explanation": "导师鼓励作者扩大研究范围，widen符合逻辑。"
+          "answer": "D",
+          "explanation": "Increased popularity of sparkling water is linked to people drinking less alcohol."
         },
         {
           "q_number": 6,
-          "stem": "Before long, I had downloaded and examined around 3,000 of them and had ____ the virus’s evolutionary history across the globe.",
+          "stem": "Sales data provided by Mintel reflects a ______ growth in the popularity of sparkling water since 2019.",
           "options": {
-            "A": "erased",
-            "B": "traced",
-            "C": "defaced",
-            "D": "embraced"
+            "A": "marginal",
+            "B": "substantial",
+            "C": "stagnant",
+            "D": "diminishing"
           },
           "answer": "B",
-          "explanation": "trace history指追踪演化历史，语义搭配正确。"
+          "explanation": "A 70% increase indicates substantial growth."
         },
         {
           "q_number": 7,
-          "stem": "Taking a fresh look at his lab’s published data, I found something unexpected: viruses seemed to be ____ up cellular RNA in ways that hadn’t been seen before.",
+          "stem": "Joseph Priestley is ______ with the historical origin of artificially created carbonated water.",
           "options": {
-            "A": "locking",
-            "B": "cropping",
-            "C": "chopping",
-            "D": "hopping"
+            "A": "burdened",
+            "B": "credited",
+            "C": "disputed",
+            "D": "occupied"
           },
-          "answer": "C",
-          "explanation": "原文提到病毒在切割RNA，chopping up是固定表达。"
+          "answer": "B",
+          "explanation": "To be credited with something means one is recognized as the originator or responsible person."
         },
         {
           "q_number": 8,
-          "stem": "That reanalysis led to an introductory e-mail, then a conversation, then a ____.",
+          "stem": "The company started by Johann Schweppe eventually brought the production of sparkling water to a ______ level.",
           "options": {
-            "A": "confrontation",
-            "B": "collaboration",
-            "C": "condensation",
-            "D": "confirmation"
+            "A": "theoretical",
+            "B": "commercial",
+            "C": "private",
+            "D": "minimal"
           },
           "answer": "B",
-          "explanation": "后续提到两人成为合作者，故前面是collaboration。"
+          "explanation": "Producing something 'at scale' implies mass production or commercial availability."
         },
         {
           "q_number": 9,
-          "stem": "For early-career researchers, already-published data are a golden opportunity — a way to generate data for publications and funding applications at little to no ____.",
+          "stem": "Soda fountains became a common ______ for producing carbonated drinks throughout the 19th century.",
           "options": {
-            "A": "loss",
-            "B": "gain",
-            "C": "cost",
-            "D": "risk"
+            "A": "technique",
+            "B": "obstacle",
+            "C": "remedy",
+            "D": "medium"
           },
-          "answer": "C",
-          "explanation": "利用旧数据可以节省成本，at little to no cost是常用搭配。"
+          "answer": "D",
+          "explanation": "A medium or channel through which something is produced or disseminated."
         },
         {
           "q_number": 10,
-          "stem": "Doing so requires only a question, a laptop with the programming languages R or Python installed and a ____ to look at old data from a new angle.",
+          "stem": "For Jewish immigrants, seltzer was preferred because it was considered the ______ water option in Manhattan.",
           "options": {
-            "A": "reluctance",
-            "B": "willingness",
-            "C": "hesitation",
-            "D": "resistance"
+            "A": "cleanest",
+            "B": "scarcest",
+            "C": "costliest",
+            "D": "fanciest"
           },
-          "answer": "B",
-          "explanation": "需要有意愿去从新角度审视旧数据，willingness符合语境。"
+          "answer": "A",
+          "explanation": "The text explicitly mentions it was the cleanest water available."
         },
         {
           "q_number": 11,
-          "stem": "Most researchers, in my experience, are glad to know that their data are being used in this way. Some of my e-mails have led to collaborations, and others have led authors to ____ metadata.",
+          "stem": "The terms 'sparkling water' and 'seltzer' are today often used ______, though they share different origins.",
           "options": {
-            "A": "spare",
-            "B": "share",
-            "C": "square",
-            "D": "scare"
+            "A": "exclusively",
+            "B": "erroneously",
+            "C": "interchangeably",
+            "D": "tentatively"
           },
-          "answer": "A",
-          "explanation": "作者寻求数据支持，作者们愿意分享metadata，share符合。"
+          "answer": "C",
+          "explanation": "The text notes that many use these terms interchangeably."
         },
         {
           "q_number": 12,
-          "stem": "Occasionally, the original authors have the samples or equipment necessary to test the results in a way that you can’t; a quick experiment might confirm an association that becomes ____ data.",
+          "stem": "Consumers are currently ______ for choice, given the vast array of available sparkling water brands.",
           "options": {
-            "A": "preliminary",
-            "B": "stationary",
-            "C": "arbitrary",
-            "D": "imaginary"
+            "A": "puzzled",
+            "B": "eager",
+            "C": "prepared",
+            "D": "spoiled"
           },
-          "answer": "B",
-          "explanation": "preliminary data指初步数据，这是申请基金所需。"
+          "answer": "D",
+          "explanation": "The phrase 'spoiled for choice' is a common idiom meaning having many options."
         },
         {
           "q_number": 13,
-          "stem": "Genomic data of the type I was mining are particularly ____ to secondary analysis.",
+          "stem": "Some people find the mineral flavour of Borjomi to be ______, comparing it to fizzy saliva.",
           "options": {
-            "A": "suited",
-            "B": "subjected",
-            "C": "submitted",
-            "D": "subsided"
+            "A": "revolting",
+            "B": "appealing",
+            "C": "neutral",
+            "D": "refreshing"
           },
-          "answer": "C",
-          "explanation": "suited to表示适合某事物。"
+          "answer": "A",
+          "explanation": "A comparison to 'fizzy saliva' indicates a negative, revolting opinion."
         },
         {
           "q_number": 14,
-          "stem": "In 2022, a project called Serratus aligned billions of these reads against viral reference genomes to identify thousands of new viral sequences, ____ known RNA virus diversity.",
+          "stem": "Demand for sparkling water is so ______ that even supermarket chains are developing their own private labels.",
           "options": {
-            "A": "expanding",
-            "B": "expending",
-            "C": "extracting",
-            "D": "exposing"
+            "A": "moderate",
+            "B": "volatile",
+            "C": "buoyant",
+            "D": "declining"
           },
-          "answer": "D",
-          "explanation": "identifying new sequences表示增加或扩展多样性，expanding正确。"
+          "answer": "C",
+          "explanation": "Buoyant demand suggests strong, active, and rising market interest."
         },
         {
           "q_number": 15,
-          "stem": "These large-scale efforts demonstrate what becomes possible when secondary data analysis is taken ____.",
+          "stem": "Those looking to reduce their sugar intake often ______ for fruit-flavoured seltzers like Spindrift.",
           "options": {
-            "A": "seriously",
-            "B": "cautiously",
-            "C": "anxiously",
-            "D": "curiously"
+            "A": "opt",
+            "B": "settle",
+            "C": "crave",
+            "D": "wait"
           },
           "answer": "A",
-          "explanation": "当被认真对待时，secondary data analysis能发挥潜力，seriously符合。"
+          "explanation": "To opt for something is to make a choice or preference."
         },
         {
           "q_number": 16,
-          "stem": "Many clinical-trial data sets, ecological surveys and medical-imaging archives are available online and ____ for the picking.",
+          "stem": "The Topo Chico brand, despite recent shortages, remains ______ among its loyal consumer base.",
           "options": {
-            "A": "rare",
-            "B": "ripe",
-            "C": "raw",
-            "D": "real"
+            "A": "outdated",
+            "B": "unpopular",
+            "C": "coveted",
+            "D": "criticized"
           },
-          "answer": "B",
-          "explanation": "ripe for the picking意为“等待采摘/利用”，符合固定搭配。"
+          "answer": "C",
+          "explanation": "If a product experiences shortages due to high demand, it is considered coveted."
         },
         {
           "q_number": 17,
-          "stem": "Funding agencies and publishers require researchers to archive our data, to ensure reproducibility and ____ of results.",
+          "stem": "The intense carbonation in some brands is described as something that should 'hurt', a ______ experience for some.",
           "options": {
-            "A": "notification",
-            "B": "modification",
-            "C": "clarification",
-            "D": "verification"
+            "A": "mental",
+            "B": "sensory",
+            "C": "hidden",
+            "D": "fleeting"
           },
-          "answer": "D",
-          "explanation": "存档数据是为了验证结果，verification符合。"
+          "answer": "B",
+          "explanation": "The physical impact of carbonation relates to sensory perception."
         },
         {
           "q_number": 18,
-          "stem": "New methods arise, new hypotheses emerge and fields shift in ways that can make old data ____ again.",
+          "stem": "Choosing a drink with only a 'whisper of bubbles' is viewed by the author as an experiential ______.",
           "options": {
-            "A": "cold",
-            "B": "old",
-            "C": "bold",
-            "D": "new"
+            "A": "waste",
+            "B": "gain",
+            "C": "victory",
+            "D": "bliss"
           },
-          "answer": "D",
-          "explanation": "新方法的出现使旧数据焕发新生，new符合逻辑。"
+          "answer": "A",
+          "explanation": "The author considers subtle bubbles a waste of the sparkling water experience."
         },
         {
           "q_number": 19,
-          "stem": "If you can’t understand the system, treatment, time point, replicates and platform without too much ____ work, reanalysing these data is probably not worth the effort.",
+          "stem": "Topo Chico’s strong carbonation helps to ______ through the richness of heavy or spicy meals.",
           "options": {
-            "A": "objective",
-            "B": "protective",
-            "C": "effective",
-            "D": "detective"
+            "A": "break",
+            "B": "glide",
+            "C": "cut",
+            "D": "drift"
           },
-          "answer": "A",
-          "explanation": "指理解过程极其费力，detective work形象地表达了这种调查过程。"
+          "answer": "C",
+          "explanation": "'Cut through richness' is a common culinary expression for acidic or bubbly drinks balancing heavy food."
         },
         {
           "q_number": 20,
-          "stem": "A well-executed secondary analysis can be published, cited and used as preliminary data, on a ____ with any other scientific output.",
+          "stem": "The author concludes that after enjoying a good sparkling water, consumers should simply feel free to ______.",
           "options": {
-            "A": "par",
-            "B": "part",
-            "C": "path",
-            "D": "pass"
+            "A": "complain",
+            "B": "burp",
+            "C": "rejoice",
+            "D": "hesitate"
           },
-          "answer": "A",
-          "explanation": "on a par with是固定习语，表示“同等水平”。"
+          "answer": "B",
+          "explanation": "The article explicitly ends with the suggestion to cheer and then burp."
         }
       ]
     },
     {
-      "title": "Rapid-charging EV batteries are on the way",
+      "title": "Nanjing massacre remembered on 80th anniversary",
       "article_update_date": "03.24.2026",
-      "source_journal": "Economist",
-      "body_text": "Rapid-charging EV batteries are on the way Science & technology | Leading the charge Rapid-charging EV batteries are on the way They can be topped up in as little time as a tank of fuel March 19th 2026 A LINE OF electric vehicles (EVs) plugged into rechargers as their drivers wait patiently for their batteries to be topped up has become a familiar sight at many service stations. Though some of the latest EVs can recharge in 20 minutes, many take much longer. Yet some EV drivers could soon be back on the road much more quickly. Companies are developing ultra-fast charging systems which can refill a battery almost as fast as a fossil-fuel car can be filled up. Rapid recharging could dispel one of the last remaining obstacles to widespread EV adoption. One such system will be unveiled in Paris on April 8th by BYD, a Chinese firm that is the world’s biggest EV maker. It consists of a powerful 1,500kW drive-through charger, which looks like a large overhead gantry from which recharging cables descend. When plugged into a Denza Z9GT, BYD’s new premium model, the car’s 122kWh “Blade Battery” can be boosted from 10% capacity to 70% in five minutes. A full charge takes nine minutes. Topping up an EV battery requires a charger to convert alternating current, as delivered from the mains, into a direct current. A charger contained in the cars themselves can handle slow overnight charging when plugged into a household supply. For faster top-ups, beefier kit is required. This is contained in public fast-chargers, which convert power directly from the grid. There is, though, a limit to how fast a lithium-ion battery, the type commonly used in EVs, can be recharged. When the battery is plugged in, charged particles called lithium ions migrate from the cathode to the anode, where they are squirrelled away and stored. When the battery is discharged, the ions migrate back. The difficulty is that as the charge rate increases, bottlenecks can build up in the flow of ions, particularly into the anode. This creates resistance and damaging heat. BYD says its Blade Battery uses cathodes and anodes that have been engineered at the molecular level to increase ion flow. In part this is done using thin components, which reduce internal resistance. For these batteries to live up to their potential, BYD will need to install its mighty 1,500kW chargers at service stations, where most existing fast-chargers operate at 100-350kW. BYD aims to install its big chargers globally and expects to have 20,000 operational in China by the end of the year. Nyobolt, an energy-storage company spun out of the University of Cambridge, in Britain, has taken a less daunting approach to the same problem. The 35kWh battery it has installed in a lightweight sports car can, when plugged into an existing 350kW fast-charger, be boosted from 10% capacity to 80% in under five minutes. Although the battery has a small capacity by today’s standards, the light weight of the car means it can still provide a range of around 250km (155 miles). The company can also produce bigger versions. Like BYD, Nyobolt overcomes the internal resistance problem by redesigning the electrodes. Its anodes are built out of a proprietary form of niobium-tungsten oxide, which allows ions to enter and leave much faster, increasing the charge rate. Nyobolt already supplies batteries equipped with these anodes for use in data centres, which require fast-charging batteries to smooth out huge swings in power demand. The company also recently signed a deal with Symbotic, an American firm, to equip its warehouse robots with fast-charging batteries, allowing the bots to work for longer. Nyobolt is talking to a number of vehicle manufacturers, too. These increases in speed come with a cost. One consequence of fast charging is that the added strain on batteries can lead them to lose their capacity more quickly than with regular charging. Engineers are also getting on top of that problem. Sai Shivareddy, Nyobolt’s boss and co-founder, says its batteries have been tested over more than 4,000 fast-charging cycles, equivalent to a car travelling around one million kilometres, while retaining more than 80% of their capacity. BYD says its battery will also have enhanced durability. The opportunity to relax with a coffee or take a nap while your EV recharges may soon be a thing of the past. ■ Curious about the world? To enjoy our mind-expanding science coverage, sign up to Simply Science , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/03/16/rapid-charging-ev-batteries-are-on-the-way",
+      "source_journal": "China Daily",
+      "body_text": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed by the Japanese military during World War II brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition, the Committee to Promote Reunification of China, the Alliance for Preserving the Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held annually for the past 20 years with the aim of exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history. \"The Japanese Army blatantly violated international conventions and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians were murdered and one third of the buildings were destroyed,\" said Zha Liyou, acting Chinese consul general in San Francisco, at the service. Japanese troops captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing a slaughter that lasted more than 40 days. Tens of thousands of women were raped. \"Our stories are linked. The fate of over 400,000 women sexually enslaved by the Japanese Imperial Army during World War II is part and parcel of what happened during the Nanjing Massacre,\" said Judith Mirkinson, president of the Comfort Women Justice Coalition. She said the 20th century has been called the most violent century in the history of the world, and that one way to ensure peace in the 21st century is through truth and reconciliation. \"Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes,\" she said. \"They must give justice to those few people who still survive from the Nanjing Massacre and to the memory of what happened there.\" From the time that Japan invaded northeast China in September 1931, followed by a full-scale invasion that started on July 7, 1937, around 35 million Chinese soldiers and civilians were killed or injured during the Japanese occupation, which continued until 1945. To honor the victims and the survivors, and to pursue justice and an enduring peace, the Chinese community worldwide joined hands this year to commemorate this historic event which was designated by the Chinese government as National Memorial Day for Nanjing Massacre Victims. \"To remember the atrocities committed by the Japanese Army during World War II does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace,\" said Zha. \"It might be a comfort to the victims and those who sacrificed their lives that the Nanjing Massacre has been etched into the memory of the Chinese people and the world civilization.\" The Nanjing Massacre was entered onto the UNESCO Memory of the World Register, a compendium aimed at preserving documented heritage of universal value, in 2015. liazhu@chinadailyusa.com",
       "difficulty_constant": 8.5,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "According to the passage, what is the primary benefit of the ultra-fast charging systems being developed?",
+          "stem": "What is the primary purpose of the annual memorial service held by various coalitions in San Francisco?",
           "options": {
-            "A": "They allow EV batteries to hold more energy than fossil-fuel tanks.",
-            "B": "They enable EV drivers to reach their destination without stopping.",
-            "C": "They eliminate a significant barrier to the widespread adoption of electric vehicles.",
-            "D": "They reduce the need for lithium-ion batteries in modern EVs."
+            "A": "To celebrate the 80th anniversary of the founding of the Chinese capital.",
+            "B": "To demand financial compensation from the current Japanese government.",
+            "C": "To disclose war crimes and encourage public remembrance of historical truth.",
+            "D": "To protest against the international diplomatic policies of the Japanese military."
           },
           "answer": "C",
-          "explanation": "文章第二段明确提到：Rapid recharging could dispel one of the last remaining obstacles to widespread EV adoption. 选项C准确对应了文中的这一核心观点。"
+          "explanation": "文章第二段明确指出，纪念活动的目的是“exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history”，即揭露罪行并呼吁人们不忘历史。"
         },
         {
           "q_number": 2,
-          "stem": "What is the primary technical challenge associated with increasing the charging speed of lithium-ion batteries?",
+          "stem": "What does the phrase 'part and parcel' in the fourth paragraph most likely mean?",
           "options": {
-            "A": "The lack of available alternating current at public service stations.",
-            "B": "The accumulation of charged particles causing heat and resistance.",
-            "C": "The inability of existing gantry systems to deliver high power.",
-            "D": "The degradation of the grid's ability to supply high-voltage electricity."
+            "A": "An optional addition.",
+            "B": "An essential element.",
+            "C": "A minor component.",
+            "D": "A separate incident."
           },
           "answer": "B",
-          "explanation": "文章第四段指出，当充电速度增加时，离子流会出现瓶颈，导致阻力和产生破坏性的热量（bottlenecks can build up in the flow of ions... This creates resistance and damaging heat）。"
+          "explanation": "根据上下文，慰安妇问题与南京大屠杀有着紧密的内在联系，它是那段历史不可分割的一部分，故“part and parcel”意为不可或缺的部分（essential element）。"
         },
         {
           "q_number": 3,
-          "stem": "How does BYD achieve faster charging in its new 'Blade Battery'?",
+          "stem": "According to Judith Mirkinson, what is the prerequisite for achieving reconciliation in the 21st century?",
           "options": {
-            "A": "By increasing the total capacity of the battery significantly.",
-            "B": "By using a proprietary form of niobium-tungsten oxide in the anodes.",
-            "C": "By using thinner internal components engineered at the molecular level.",
-            "D": "By replacing lithium ions with more efficient charged particles."
+            "A": "The complete eradication of international war conventions.",
+            "B": "The immediate military intervention by global coalitions.",
+            "C": "The acknowledgement of past crimes by the Japanese government.",
+            "D": "The focus on economic development rather than historical memory."
           },
           "answer": "C",
-          "explanation": "文章第五段提到，BYD的电池通过分子层面的工程化设计，特别是使用更薄的组件（thin components）来减少内阻，从而提高离子流速度。选项D中的铌钨氧化物是Nyobolt采用的技术，而非BYD。"
+          "explanation": "文中Mirkinson明确指出，“Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes”，说明和解的前提是正视历史并承认罪行。"
         },
         {
           "q_number": 4,
-          "stem": "What distinguishes Nyobolt’s approach from that of BYD?",
+          "stem": "What is the speaker's main intent when mentioning the 'enmity' regarding the memorial?",
           "options": {
-            "A": "Nyobolt focuses on infrastructure while BYD focuses on vehicle hardware.",
-            "B": "Nyobolt targets existing 350kW chargers rather than requiring 1,500kW systems.",
-            "C": "Nyobolt prioritizes long-range driving over battery durability.",
-            "D": "Nyobolt is the only company currently testing batteries in industrial robots."
+            "A": "To propagate long-lasting hatred toward the Japanese people.",
+            "B": "To justify future retaliatory actions against Japan.",
+            "C": "To distinguish between fostering hatred and remembering history for peace.",
+            "D": "To show that historical atrocities are inevitable in human civilization."
           },
-          "answer": "B",
-          "explanation": "文章提到BYD需要安装功率巨大的1,500kW充电器，而Nyobolt采取了较不费力的方法（less daunting approach），其电池在现有的350kW快充桩上即可工作。"
+          "answer": "C",
+          "explanation": "文中Zha Liyou强调，纪念大屠杀并非是为了延续仇恨（pass on the enmity），而是为了提醒人们勿忘历史并追求和平，体现了纪念活动的本质含义。"
         },
         {
           "q_number": 5,
-          "stem": "What does the author suggest regarding the trade-off between speed and battery life?",
+          "stem": "Which of the following best describes the significance of the UNESCO Memory of the World Register inclusion?",
           "options": {
-            "A": "The trade-off is currently unavoidable and limits the commercialization of the technology.",
-            "B": "The negative impact of fast charging is increasingly being mitigated by engineering.",
-            "C": "Battery capacity is permanently sacrificed to accommodate higher ion flow.",
-            "D": "Fast charging is inherently harmful and will likely be replaced by other technologies."
+            "A": "It provided legal grounds to prosecute the Japanese army in international courts.",
+            "B": "It validated the Nanjing Massacre as a documented heritage of universal value.",
+            "C": "It replaced the need for the National Memorial Day designated by China.",
+            "D": "It acted as the primary evidence for the 40-day duration of the slaughter."
           },
           "answer": "B",
-          "explanation": "文章末段提到：Engineers are also getting on top of that problem，并引用了Nyobolt和BYD的例子说明他们已经实现了在快充的同时保持电池寿命，说明工程师正在克服这一副作用。"
+          "explanation": "文章最后提到UNESCO Memory of the World Register是一个旨在保存具有普遍价值的文档遗产的汇编（compendium），南京大屠杀被列入其中，意味着其作为人类文明共同记忆的价值得到了国际承认。"
         }
       ]
     },
     {
-      "title": "Woman has sentence quashed by Tanzania court after over a decade on death row",
+      "title": "Chinese, Russian and Indian ministers meet",
       "article_update_date": "03.24.2026",
-      "source_journal": "The Guardian",
-      "body_text": "A woman with severe intellectual disabilities in Tanzania has had her conviction and death sentence quashed after spending more than a decade in prison awaiting execution. Lemi Limbu, now in her early 30s, was convicted of the murder of her daughter in 2015. On 4 March, a court in Shinyanga, northern Tanzania, declared she can appeal. She will face a retrial, but a date has yet to be set. Lawyers and activists have condemned her sentence, saying she should not be in prison at all. Limbu, who remains incarcerated, is a survivor of brutal and repeated sexual and domestic violence and has the developmental age of a child. Under Tanzanian and international law, Limbu should not be held criminally liable, given her intellectual disability. “She was not supposed to be in prison in the first place,” said Anna Henga, executive director of Legal and Human Rights Centre, a Tanzanian human rights advocacy organisation. “I’m happy that [her conviction] has been quashed and the appeal has been allowed, but I’m sad because the court ordered a retrial, which is like starting again [after] the case has already taken more than 10 years. My worry is that it could take up to another 10 years if there are more delays.” At her first trial, Limbu pleaded not guilty. Unable to read or write, she said she did not know the contents of a statement that police claimed she had made admitting to the murder. Her original conviction in 2015 was nullified in 2019 due to procedural errors. In 2022, she was retried and sentenced to death a second time. The court did not allow evidence to be heard from medical professionals about her intellectual disabilities or history of abuse. A clinical psychologist who evaluated her had concluded she had a severe intellectual disability and the developmental age of a 10-year-old child or younger. A second appeal was filed in 2022 and heard in February. Growing up, Limbu lived in a household where her father beat her mother. She was repeatedly raped by men in her village and gave birth for the first time aged 15. At about 18, she married an older man and had two more children. She suffered domestic violence until she fled to another village with her youngest child, Tabu, who was about a year old. She later met Kijiji Nyamabu, an alcoholic, who told Limbu he would marry her – but he said he would never accept her baby daughter, Tabu, because he was not the biological father. Shortly afterwards, Tabu was found strangled. There were no witnesses and Nyamabu had already fled by the time Limbu brought the authorities to her daughter’s body. She was arrested in August 2011. Nyamabu was never detained. A coalition of 24 African and international human rights groups last year condemned Limbu’s sentence as part of an appeal to the African court on human and peoples’ rights to look at the plight of women on death row throughout Africa. In July, four UN human rights experts wrote a letter to the government of Tanzania expressing concern about Limbu’s case. In Tanzania, the death penalty is the mandatory sentence for murder, although no executions have been carried out since 1995. There are more than 500 people on death row in the country, according to Henga. Rose Malle, who was wrongfully imprisoned on death row in Tanzania and now campaigns against capital punishment, said there are a number of innocent people facing the death penalty. “This situation is often caused by weaknesses within the justice system, starting from the stage of arrest, the investigation process, and even during the hearing of cases in court.” Prof Sandra Babcock, a clinical professor of law and the faculty director of the Cornell Center on the Death Penalty Worldwide, who is acting as a legal consultant in Limbu’s case, said: “Limbu has endured unimaginable suffering as a survivor of sexual violence living with intellectual disability. After spending more than a decade on death row, she should be released so that she can receive the care and support she needs.”",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
       "difficulty_constant": 8.5,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "According to the text, why did advocates and lawyers condemn Lemi Limbu’s sentence?",
+          "stem": "What is the primary objective of the trilateral cooperation between China, Russia, and India as stated in the text?",
           "options": {
-            "A": "She was wrongly accused of being an accomplice to murder.",
-            "B": "The court failed to consider her intellectual disability and history of abuse.",
-            "C": "She had already served a ten-year sentence which exceeded the legal limit.",
-            "D": "The evidence used against her was based on a forged confession by police."
+            "A": "To form an exclusive military alliance against Western nations.",
+            "B": "To uphold regional security and economic structures based on multilateralism.",
+            "C": "To dissolve existing regional organizations like the East Asia Summit.",
+            "D": "To prioritize individual national economic growth over regional stability."
           },
           "answer": "B",
-          "explanation": "文章明确提到法院在审判时未采纳有关她智力障碍及受虐历史的医疗专家证词，且律师认为基于其智力水平，她本不该被追究刑事责任。"
+          "explanation": "文章明确提到三方同意维护“开放、包容、基于多边主义和公认国际法原则”的区域安全与经济架构，这是为了实现地区的持久和平与稳定。"
         },
         {
           "q_number": 2,
-          "stem": "What is Anna Henga's main concern regarding the court's latest ruling?",
+          "stem": "According to the joint statement, how do the three countries view their cooperation?",
           "options": {
-            "A": "The possibility of further prolonged judicial delays.",
-            "B": "The risk of the defendant being released without adequate care.",
-            "C": "The lack of new evidence to support a successful retrial.",
-            "D": "The inconsistency of international law regarding capital punishment."
+            "A": "It is intended to serve as a counterbalance to specific hostile countries.",
+            "B": "It is a temporary measure to address short-term regional disputes.",
+            "C": "It is not directed against any third party and aims at mutual trust.",
+            "D": "It is a mandatory requirement for maintaining global economic hegemony."
           },
-          "answer": "A",
-          "explanation": "Anna Henga虽然对判决撤销感到欣慰，但她明确表达了对“重审”可能导致再次漫长拖延的担忧。"
+          "answer": "C",
+          "explanation": "联合声明明确指出，这种三方合作形式“不针对任何其他国家”（not directed against any other country），旨在增进互信。"
         },
         {
           "q_number": 3,
-          "stem": "Which of the following best describes the circumstances surrounding Limbu’s initial conviction?",
+          "stem": "What does the phrase 'the second golden decade of BRICS cooperation' suggest?",
           "options": {
-            "A": "She confessed to the crime after being intimidated by her husband.",
-            "B": "She was convicted despite the lack of direct witnesses and her own illiteracy.",
-            "C": "She was held responsible for her daughter’s death due to her history of alcoholism.",
-            "D": "She voluntarily admitted to the murder in a written statement to the police."
+            "A": "A decline in the influence of BRICS nations in global markets.",
+            "B": "The end of cooperation between China, Russia, and India.",
+            "C": "A commitment to deepening and expanding multi-faceted cooperation.",
+            "D": "The successful conclusion of all past economic and security projects."
           },
-          "answer": "B",
-          "explanation": "文章提到Limbu无法读写，且不知道警方声称她做出的招供陈述的内容，此外案发时并没有证人，体现了定罪过程中的疑点。"
+          "answer": "C",
+          "explanation": "这一表述是在提到加强在经济、政治、安全和人文领域的合作背景下提出的，意味着通过落实峰会成果来开启新的深度合作阶段。"
         },
         {
           "q_number": 4,
-          "stem": "What does the text imply about the death penalty in Tanzania?",
+          "stem": "The author mentions the SCO (Shanghai Cooperation Organization) primarily to show that:",
           "options": {
-            "A": "It is frequently carried out to maintain public order.",
-            "B": "It is rarely applied to women due to judicial leniency.",
-            "C": "It is legally mandatory for murder, though practically dormant for decades.",
-            "D": "It is being challenged by the government to align with international standards."
+            "A": "It is the only platform where the three countries engage in dialogue.",
+            "B": "It functions as a vital tool for fostering regional multilateral interaction.",
+            "C": "It has replaced the need for the China-Russia-India trilateral meetings.",
+            "D": "It focuses exclusively on security issues rather than economic growth."
           },
-          "answer": "C",
-          "explanation": "文章指出坦桑尼亚谋杀罪的法定刑罚是死刑，但自1995年以来并没有实际执行过，说明该法律在实践中处于“沉睡”状态。"
+          "answer": "B",
+          "explanation": "文章提到三方非常重视上合组织的工作，认为它是促进该地区多边政治、安全、经济和人文交流的重要工具。"
         },
         {
           "q_number": 5,
-          "stem": "What can be inferred about the justice system in Tanzania based on Rose Malle’s comments?",
+          "stem": "What is the implied tone of the passage regarding the trilateral cooperation?",
           "options": {
-            "A": "It is overly reliant on confessions rather than scientific evidence.",
-            "B": "It has successfully reformed its investigation process in recent years.",
-            "C": "It suffers from systemic flaws throughout various legal stages.",
-            "D": "It prioritizes the rights of the accused over victim advocacy."
+            "A": "Critical and skeptical.",
+            "B": "Neutral and objective.",
+            "C": "Optimistic and constructive.",
+            "D": "Urgent and apprehensive."
           },
           "answer": "C",
-          "explanation": "Rose Malle指出坦桑尼亚死刑判决的问题往往源于司法系统在逮捕、调查以及法庭审理等各个环节存在的弱点。"
+          "explanation": "全文通过引用联合声明中积极、前瞻性的词汇（如strengthen, promote, prosperity, trust），展现出对三方合作持建设性与乐观的态度。"
         }
       ]
     },
     {
-      "title": "Chapter 17",
+      "title": "Pause",
       "article_update_date": "03.24.2026",
       "source_journal": "Wired",
-      "body_text": "| Next | Section menu | Main menu | Previous | Noah Shachtman The Big Story Jan 13, 2026 6:00 AM Trump Declared a Space Race With China. The US Is Losing If you want to put people back on the moon, don’t gut the agency in charge of getting them there. ILLUSTRATION: Jiawen Chen The senator wanted a promise. A solemn vow. For the last six years—or maybe the last decade or quarter century, depending on how you count it—the United States and China had been locked in a space race, a contest to see which nation could put its people on the moon . Senator Ted Cruz wanted President Donald Trump’s nominee to run NASA, Jared Isaacman, to pledge that the US would not lose. Cruz brought a little surprise to Isaacman’s confirmation hearing last April. It was a poster of the moon. On one side stood three astronauts and a giant Chinese flag. On the other were two more figures in space suits, with the tiniest Stars and Stripes planted in the lunar soil . Cruz apologized for the imbalance. “My team used ChatGPT,” explained the senator, who chairs the committee that oversees NASA. Then Cruz, with a bit more seriousness, asked Isaacman, “Do we have your commitment that you will not allow the scenario on the right of this poster to happen? That China will not beat us to the moon?” Isaacman, a billionaire entrepreneur who had paid for his own missions to space, replied, “Senator, I only see the left-hand portion of that poster.” It was a red-meat, fuck-yeah, pitch-perfect response. And Isaacman may have meant it. But by the time of his testimony, the Trump administration had started a process that would lay waste to NASA , pushing nearly 4,000 agency employees to quit. Then the White House proposed a massive, 24 percent cut to NASA’s budget. Then Trump yanked Isaacman’s nomination and named a new part-time acting chief, a fellow who boasted in his official NASA biography that he is one-half of “America’s first and longest-married reality TV couple.” Then that guy picked a fight with Elon Musk , who’s building NASA’s moon lander. And Isaacman was back in the running. In December, Trump capped off the year with an executive order pushing Americans to get back to the moon by 2028. If all of this sounds suboptimal to you, welcome to the club, space ranger. That dysfunction is one of many reasons why the vast majority of the two dozen sources I interviewed for this story believe that China will put people on the moon first. I spoke with nine former NASA officials who served at the highest rungs of the space agency under presidents Trump and Biden; none of them were optimistic about America’s chances. “We did the worst of all worlds,” one of the nine tells me. “We positioned it as a race without planning to win.” The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . The original space program was the ultimate symbol of America at its screaming-eagle apex. Rocket scientist was shorthand for brilliant, and many of them were working in Huntsville, Alabama, aka Rocket City. The word astronaut was synonymous with grit, and you could find the gutsiest of them in Houston. Moonshot was (and is) code for something borderline impossible. Space races have helped spur the development of everything from the integrated circuit to the solar panel to 5G. But that was before America decided to stab itself in the brain. Today, much of the world drives Chinese electric cars , powers their homes with Chinese solar panels , and stays in touch with made-in-China phones. Chinese scientists have eclipsed their American counterparts in the production of high-quality research, and the White House has responded by gutting American science funding and charging $100,000 to let in highly skilled immigrants. So if Chinese astronauts step down from their lander and livestream the results in 4K—and to be clear, it’s still an “if” at this point—it’ll be more than a point of national pride for Beijing. It’ll be a declaration that the American Century is officially over. ILLUSTRATION: Jiawen Chen About 18 months ago and some 3,000 miles above the Earth, the Chinese robotic spacecraft Chang’e-6 released its reentry capsule, which skipped in and out of the atmosphere before parachuting into the grasslands of China’s Inner Mongolia. Inside were about 4 pounds of moon rocks and soil. It was the first sample return from the far side in human history. Putting people on the moon might seem like a so-what sequel, coming 50-plus years after Apollo. But there’s a reason no one’s been back to the moon in half a century. It is maddeningly difficult to put anything down there, even little unmanned landers. A handful of soft-landing missions have succeeded, most of them Chinese. More numerous are the flops of the Japanese, Russian, Israeli, American, and Indian space programs. The reasons for failure are many—light gravity and uneven terrain make it easy for a lander to tip over; no atmosphere means firing rockets to brake; that firing kicks up clouds of dust that can limit visibility. “Once you start slowing down, within a matter of single-digit seconds, you are on an intercept course with the moon, and you don’t have enough propellant to go back to lunar orbit and try again,” says Will Coogan, a chief engineer at Firefly Aerospace, the only company to pull off a fully successful robotic moon landing , ever. Operations around the lunar poles are an “order of magnitude” tougher, a person who oversaw NASA’s lunar program tells me. Getting into the proper orbital plane requires more maneuvering. For consistent communication with ground control, you need to position a relay satellite around the moon. (As China did, about six weeks before landing Chang’e-6.) Once you’re there, be careful. Miles-deep craters are shadowed in near-eternal night, which means no solar power and temperatures that can drop below –200 degrees Celsius. Yet that’s exactly where China’s heading. Scientists believe the poles have enormous pockets of ice—and potentially helium-3, an isotope that’s extremely scarce on Earth. Helium-3 could unlock quantum computing and possibly nuclear fusion, many experts believe. “Let’s say on the lunar surface, helium-3 becomes a new source of fusion power,” as Isaacman told Cruz at that April confirmation hearing. “It could shift the balance of power here on Earth. I don’t think we can afford to find that out the hard way.” Both the US and China have dreamed of building a base at the south pole, and both would like to claim the prime landing sites. The upcoming Chang’e-7 mission aims to be the first to extract water from the moon. One desirable landing site is a spot high on the ridge of the Shackleton Crater, near the lunar south pole, at a location that’s almost always light. Chang’e-7 will carry instruments from Russia and several American allies—Italy, Switzerland, Thailand, Egypt, and Bahrain. The Chinese National Space Administration says the launch should happen in August. “When they say they’re going to do something by x, they tend to do it,” says Dean Cheng, a senior fellow at the Potomac Institute for Policy Studies who’s been tracking the progress. China’s space efforts aren’t as sophisticated as America’s; Beijing is only now testing reusable rockets. And every space program faces mishaps. In November, three Chinese astronauts were stranded aboard their space station for nine days after a piece of orbiting junk damaged their return capsule. But China’s crewed lunar effort, for now, seems to be more or less on target. The idea is that a pair of rockets—one carrying the crew and service capsules, the other a lander—will head to the moon. They’ll rendezvous in lunar orbit, and a pair of astronauts will set foot on the surface. Exactly where they’ll land hasn’t been confirmed. But testing for all of the components is well under way. A spokesperson for the China Manned Space Agency has said the mission will launch “before 2030.” When will American astronauts get there? That’s a bit more complicated. Warning: the recent history of the US program to return astronauts to the moon is so contradictory, so politicized, so frustrating, it’s going to make your head hurt. As Jim Bridenstine, who served as Trump’s first NASA administrator, recently told Congress, “This is an architecture that no NASA administrator that I’m aware of would have selected.” “No way to run a program, in my opinion,” says the NASA official who helped oversee the lunar initiative. “You can’t make this shit up. Really can’t. It’s really crazy.” The original Apollo program was insanely ambitious, but there was a clarity to the mission. One giant rocket, carrying one tiny crew capsule and one even tinier landing module. The capsule would orbit the moon, and the lander would ferry astronauts to and from the surface. That was all. The new US moon program— Artemis , named after Apollo’s twin sister—isn’t nearly so neat. For starters: The main rocket and capsule are made up of leftovers. Back in 2010, the Senate ordered NASA to build a rocket with old engines from the space shuttle program and repurpose a capsule from a Bush-era deep-space project. The rocket, known as the Space Launch System, would lift off carrying astronauts in a capsule named Orion. The combination of SLS and Orion has cost taxpayers tens of billions of dollars. It has flown exactly once. A second flight is slotted for February. The Orion capsule was built on the heavy side, to give astronauts extra protection against radiation and other risks. But the capsule’s propulsion was under-powered to reach a tight lunar orbit. (The European Space Agency, which provided the thing, said it couldn’t afford to supply more.) NASA engineers figured out, however, that the capsule could reach a farther-out, super-elliptical orbit, and that orbit would still allow for landings on the lunar poles. The drawback: At that orbit, completing a circuit of the moon takes nearly a week. Once you drop astronauts off, they’re stuck on the surface for days and days. A tear in a spacesuit or a malfunction in the lander’s life support system might turn into a nightmare. NASA also concluded that it needed to put a miniature space station in orbit around the moon. I must’ve heard a half-dozen rationales for this space station. It wouldn’t necessarily help with rescue efforts, but it could communicate with astronauts on the ground. And during later, longer-duration missions, it would give astronauts a more hospitable place to work and rest. Maybe. Some at NASA view the so-called lunar “Gateway” as a kind of insurance policy. As one former official told me, “There’s the belief that if you have these pieces pre-positioned in space, we’ll have a long-term program that Congress is less willing to walk away from.” All of this was meant to take a decade or so to come together—like, 2028 or 2029. Until Mike Pence stepped up to the mic. ILLUSTRATION: Jiawen Chen The American flag behind the vice president was large, almost comically so. Also behind him was an original space capsule from the Apollo days. Pence was exuding confidence that day in the spring of 2019. He proclaimed to the crowd at the Marshall Space Flight Center in Huntsville that “the first woman and the next man on the moon will both be American astronauts, launched by American rockets, from American soil.” He also announced out of nowhere that the schedule was cut in half. It would all be done in five years, by 2024. The end of what the administration hoped would be a second Trump term. People in the room—and around the space agency—were stunned. As a former top NASA official recalls, “Everyone knew from the moment Pence said that, that it was pretty much bullshit.” Reporters quizzed NASA’s leaders on the new deadline. “I do not like being—I will not lie,” a second",
+      "body_text": "| Next | Section menu | Main menu | Previous | Bradley Hope The Big Story Sep 10, 2025 6:00 AM The Superyacht, the Billionaire, and a Wildly Improbable Disaster at Sea The last night of tech mogul Mike Lynch’s life has become fodder for conspiracy theories. For the first time, the whole story can be told. Play/Pause Button Pause Illustration: Anthony Gerace, Photograph: Michael Kurtz I. The Storm In the predawn hours of August 19, 2024, bolts of lightning began to fork through the purple-black clouds above the Mediterranean. From the rail of a 184-foot vessel, a 22-year-old named Matthew Griffiths took out his phone to record a video. The British deckhand was just a week and a half into his first official yacht job, and he wasn’t on just any boat. The yacht, the $40 million Bayesian , was a star of the superyacht world, considered to be a feat of minimal design and precision engineering. As thunder rolled toward the anchored vessel, Griffiths set the video to AC/DC’s “Thunderstruck” and posted it to Instagram. It was 3:55 am. In the video, the Bayesian ’s aluminum mast, one of the tallest in the world, is briefly visible against the roiling sky. Below deck, the yacht’s owner, Michael Lynch, had every reason to be sleeping soundly. The boat trip had been organized as a celebration. Months earlier, Lynch had walked out of a San Francisco federal courthouse a free man, acquitted of all charges in one of the largest fraud cases in Silicon Valley history. Lynch had built his fortune on understanding probability, on turning the unlikely into the possible. He had named his yacht Bayesian in honor of the statistical theorem that made him a billionaire, after the sale, in 2011, of his company Autonomy. The British tech giant sold software that could find meaningful signals amid the flood of unstructured data in emails, videos, and phone calls, but it would be better known as the company that allegedly defrauded, and nearly destroyed, Hewlett-Packard. The cabins aboard the Bayesian contained the people who had stood by Lynch through his 13-year-long legal ordeal. Beside him in the master suite was his wife of 22 years, Angela Bacares, a former vice president in the investment division of Deutsche Bank who had caught his eye while working an Autonomy deal. Other cabins housed the Clifford Chance attorneys who had orchestrated Lynch’s legal victory, as well as longtime colleagues, their partners, and a 1-year-old baby, all supported by 10 crew members. Also onboard was Lynch’s younger daughter, Hannah, 18, who was about to begin her studies at Oxford. Her older sister, Esme, 22, had remained in London. The day before, their last of the trip, the group had been subdued. They had spent the afternoon in the laid-back coastal town of Cefalù, wandering the plaza and visiting the church. That night, they had gathered for dinner in the saloon of the Bayesian , followed by dessert and drinks on the upper deck. Everyone was in bed by 12:30 am. Water taxis were due early the next morning to take them to Palermo for their flights home. Many of them would not make it. Griffiths’ video was to be the final earthly record of the Bayesian. Two minutes after he posted it, wind and rain started to buffet the vessel, and the young deckhand hurried to close forward hatches and cockpit windows. At 4 am, he ran down the stairs to wake the captain. This is the first time that details of Griffiths’ account, as well as those of many associates of Lynch, are being shared—WIRED interviewed dozens of friends and colleagues of Lynch, reviewed thousands of pages of court documents, and reconstructed events on the Bayesian based on accounts, yacht GPS data, and official investigative reports. The Bayesian and its human cargo were about to face forces that would test every calculation of the yacht’s design, the terrifying and tragic culmination of a series of highly improbable events. To this day, mystery surrounds the final night of Lynch’s life, making room for conspiracy theories about spies and secret hard drives that can’t seem to be quashed. II. The Revelation Today, Bayesian analysis is everywhere—powering spam filters, search engines, medical diagnoses, and artificial intelligence. Silicon Valley engineers casually talk about “updating their priors” as they refine machine-learning models. But in the 1980s, when Mike Lynch was a PhD student at Cambridge, Bayesian inference was still fighting for respectability, dismissed by many statisticians as unscientific because it dared to incorporate earlier beliefs into its calculations. Lynch had arrived at Cambridge in 1983 to study natural sciences, carrying with him the determination of someone who had started life in the red—minus £4, to be exact, the amount his Irish immigrant parents owed the bank after they got married. His father was a fireman from Cork, his mother a nurse from Tipperary. Growing up in 1970s London as an Irish boy meant learning to navigate prejudice during the height of the IRA bombings. “You had to learn to run fast,” he would later say, “but reading the room is a good thing to have as a skill.” He had won a scholarship to Bancroft’s School—money bequeathed in the 1700s for the education of “poor boys”—and spent three hours a day commuting to Woodford Green, often hitchhiking and listening to drivers talk about their lives. On weekends, he practiced clarinet and saxophone and worked at his mother’s hospital, progressing from mopping floors to serving tea to patients. It was there, talking to the dying, that he learned a fundamental lesson: “Get on with it. Do stuff. Whatever it is you want to do, just do it.” Lynch’s path to corporate software began at a distant remove—he wanted to build a digital music synthesizer. (It was the ’80s, after all.) Samplers like the Fairlight CMI cost around £18,000 to £30,000. So Lynch, who had been tinkering with electronics since childhood and tried starting bands, created a groundbreaking program for the Atari ST computer that could manipulate sound with “an accuracy of one sample—that’s one 50,000th of a second,” according to a 1988 interview with Sound on Sound magazine. The software gave musicians capabilities that were normally out of reach at the time. These technical obsessions led Lynch to Peter Rayner’s signal processing group at Cambridge, in the engineering department. Lynch had switched from natural sciences to electrical sciences in his third year. “I initially thought he was a bit lazy,” Rayner told me, recalling how Lynch often hadn’t done the assigned work. “But when we worked through problems in supervision, he showed great insight and came up with sometimes incorrect approaches, but often very interesting ones.” Rayner’s lab had a distinctly commercial bent, focused on solving real-world problems. Many of his roughly 100 PhD students went on to found companies, becoming, he said, full professors, multimillionaires, and even one billionaire—Lynch. At Cambridge, Lynch discovered that the same mathematics he was using to clean up audio samples could be applied to any kind of noisy data. At the heart of this approach was Bayesian inference, a way of thinking about probability that had been developed by Thomas Bayes, a Presbyterian minister in the 1700s who died before publishing his findings. They were discovered by a friend who happened upon them when cleaning out Bayes’ things. To the outside world, Mike Lynch appeared to be exactly what Europe needed: a homegrown technology champion who could compete with Silicon Valley. The power of Bayesian thinking lies in how it handles uncertainty. As Rayner explained to me, using a simple example: “If I gave you a coin and you tossed it and it came down heads, then all you could say based on that one experiment is the probability of tossing a head is 1—certain. But Bayes would say, ‘Come on, we know it’s going to be around a half.’ It allows you to take account of previous knowledge.” This idea, of starting with prior assumptions and updating them with new evidence, seems simple, but Bayesian methods proved extremely effective at pattern recognition in the age of computers. Lynch’s doctoral thesis, completed in 1990, applied these techniques to neural networks for pattern classification—“a small step along the road” to modern AI, as Rayner put it. But Lynch saw commercial potential where others saw only academic interest. While supposedly working as a postdoc, he was often absent from the lab, secretly raising money for his first company. “Later on, I said to him, ‘Why on earth didn’t you come to me, Mike?’” Rayner recalled. “He said, ‘I didn’t want you to know!’” That company was Cambridge Neurodynamics, founded after he completed his PhD, and its flagship product was a fingerprint recognition system that could handle smudged or partial prints. After Cambridge Neurodynamics, Lynch founded Autonomy. The new company would take the same ideas even further, applying them to the explosion of unstructured data that businesses were generating but couldn’t effectively search or analyze. The company’s breakthrough was IDOL—Intelligent Data Operating Layer—a pattern-recognition engine that could understand the actual meaning within human-generated information. Unlike keyword searches that might confuse different terminology, IDOL could recognize that a document about “automobiles” was relevant to a search for “cars.” It could identify concepts, find patterns, and extract meaning from chaos. The name Autonomy itself reflected Lynch’s vision: software intelligent enough to operate independently, to make its own guesses about meaning and relevance without human intervention. As Lynch would later explain in a 2000 interview with WIRED, “Bayes gave us a key to a secret garden. A lot of people have opened up the gate, looked at the first row of roses, said, ‘That’s very nice,’ and shut the gate. They don’t realize there’s a whole new country stretching out behind those roses.” III. The Empire Lynch had always been more interested in how people thought than what they knew. I talked to one of his employees, Emily Orton, who still remembers her first interview with Lynch back in 2009. While other executives had asked about her qualifications and experience, Lynch wanted to see how she dealt with the unexpected. He asked her a single question: “Tell me what makes you angry?” By that point, Autonomy was Britain’s largest software company. Its software was being used by intelligence agencies, law enforcement, and major corporations worldwide, and its acquisition, in 2005, of Verity—a search company double Autonomy’s size in terms of sales—eventually led to a market value north of $6 billion. Lynch earned the nickname “Britain’s Bill Gates.” Andy Kanter, an American lawyer at Autonomy since the late ’90s, had watched Lynch evolve from entrepreneur to CEO of a major corporation. He was a perfectionist, says Kanter. When Kanter and a colleague spent weeks crafting the IPO prospectus, Lynch read it, declared it “entirely wrong,” then approved it after they changed perhaps 10 words. “If something wasn’t right, he would dismiss it as useless,” Kanter said. “Ninety-five percent good isn’t good enough.” But this harshness—one of his own lawyers told me that “he could be a prick”—came with fierce loyalty. For Christmas parties, Lynch flew the entire UK staff to four-star hotels in European cities—Venice, Prague. And quarter after quarter, the company continued to beat analyst expectations. To the outside world, Autonomy appeared to be exactly what Europe needed: a homegrown technology champion that could compete with Silicon Valley. But maintaining Autonomy’s image of consistent growth required increasingly creative measures. At the center of this effort was Sushovan Hussain, the CFO who had joined in 2001. Lynch and Hussain’s relationship went back to their school days—though Lynch would later downplay this, testifying that Hussain was merely a “third-level acquaintance” who had arrived at Bancroft’s in his final year. Yet they had both gone on to Cambridge and kept in touch over the years, and Lynch had attended Hussain’s wedding. When Hussain returned to England after working in the oil industry abroad, Lynch hired him. Software companies are judged differently",
       "difficulty_constant": 8.5,
       "question_type": "Reading Comprehension",
       "questions": [
         {
           "q_number": 1,
-          "stem": "What does the author suggest about Senator Ted Cruz's poster during the confirmation hearing?",
+          "stem": "What is the primary significance of the yacht's name 'Bayesian' in the context of Mike Lynch's life?",
           "options": {
-            "A": "It was a strategic tool to secure more funding for NASA.",
-            "B": "It served as a visual representation of his concern regarding the US-China space race.",
-            "C": "It was intended to humiliate Jared Isaacman for his lack of experience.",
-            "D": "It accurately reflected the technological superiority of the US over China."
+            "A": "It was a tribute to his family's long history of maritime exploration in Ireland.",
+            "B": "It honored the statistical theorem that laid the foundation for his professional success.",
+            "C": "It represented his childhood dream of becoming a theoretical physicist at Cambridge.",
+            "D": "It served as a public apology for the legal controversies surrounding his company Autonomy."
           },
           "answer": "B",
-          "explanation": "文章中提到Cruz展示海报是为了对比中美登月实力，以此表达他对美国可能在太空竞赛中落后的担忧，因此B项正确。"
+          "explanation": "文章提到Lynch以贝叶斯定理（statistical theorem）命名他的游艇，因为正是该定理使他成为亿万富翁，并与他创立的公司Autonomy有关。"
         },
         {
           "q_number": 2,
-          "stem": "According to the passage, why do many experts believe China might reach the moon before the US?",
+          "stem": "According to the passage, why did some statisticians initially dismiss Bayesian inference?",
           "options": {
-            "A": "The US has shifted its focus to deep-space exploration beyond the moon.",
-            "B": "China's space program has significantly more funding than NASA.",
-            "C": "The US space program is hindered by political instability and organizational dysfunction.",
-            "D": "China has successfully developed superior re-usable rocket technology."
+            "A": "It required computational power that was unavailable in the 1980s.",
+            "B": "It was viewed as too focused on commercial applications rather than academic rigor.",
+            "C": "It was considered unscientific because it incorporated subjective prior beliefs into calculations.",
+            "D": "It failed to produce accurate results when applied to unstructured data."
           },
           "answer": "C",
-          "explanation": "文中多处提到美国空间项目因行政干预、预算削减和管理混乱而效率低下，受访的NASA前官员也对此表示悲观，因此C项为主要原因。"
+          "explanation": "文章指出在80年代，贝叶斯推断被许多统计学家轻视，原因在于它敢于将之前的信仰（earlier beliefs/prior beliefs）纳入计算中，这被认为是不科学的。"
         },
         {
           "q_number": 3,
-          "stem": "What is implied by the author's reference to the 'American Century' in the context of China's potential lunar landing?",
+          "stem": "What does the author imply about Mike Lynch's personality based on his management style?",
           "options": {
-            "A": "It highlights the US historical commitment to scientific advancement.",
-            "B": "It suggests that scientific achievement is the only metric for global dominance.",
-            "C": "It marks the symbolic end of US global influence if China achieves this milestone.",
-            "D": "It acknowledges that the US has already surrendered its lead in technological innovation."
+            "A": "He valued consensus and encouraged collaborative decision-making among his staff.",
+            "B": "He was prone to indecisiveness when faced with complex financial documents.",
+            "C": "He maintained a balance between extreme perfectionism and personal loyalty to his employees.",
+            "D": "He prioritized formal academic qualifications over the ability to handle the unexpected."
           },
           "answer": "C",
-          "explanation": "作者指出如果中国宇航员能在月球直播，这不仅是北京的骄傲，更意味着“美国世纪”的正式终结，因此C项正确。"
+          "explanation": "文中提到Lynch是个完美主义者（perfectionist），如果事情不完美会被视为无用，但同时他对员工有着极强的忠诚度，如每年组织豪华员工聚会。"
         },
         {
           "q_number": 4,
-          "stem": "Why are the lunar poles considered the primary target for both US and Chinese missions?",
+          "stem": "What was the core innovation of Autonomy’s IDOL software?",
           "options": {
-            "A": "They offer the easiest terrain for landing unmanned modules.",
-            "B": "They are rich in resources like ice and potentially helium-3.",
-            "C": "They are the only locations with continuous communication with Earth.",
-            "D": "They allow for shorter and safer travel distances from Earth."
+            "A": "It improved keyword searching by increasing the speed of hardware processing.",
+            "B": "It automated the process of financial auditing for European tech companies.",
+            "C": "It allowed for the independent conceptual understanding and extraction of meaning from data.",
+            "D": "It replaced human interpretation of unstructured data with rigid mathematical logic."
           },
-          "answer": "B",
-          "explanation": "文中明确提到科学家认为极地拥有大量的冰和氦-3同位素，这对未来的聚变能源和量子计算至关重要，因此B项正确。"
+          "answer": "C",
+          "explanation": "IDOL的核心能力在于它能够识别概念、发现模式并从混乱中提取意义，理解人类生成信息背后的含义，而不仅仅是简单的关键词搜索。"
         },
         {
           "q_number": 5,
-          "stem": "What can be inferred about the 'Artemis' program from the author's description?",
+          "stem": "Which of the following best describes the atmosphere on the Bayesian shortly before the disaster?",
           "options": {
-            "A": "It is a highly efficient and modern architectural model for space exploration.",
-            "B": "It has benefited from consistent long-term planning and bipartisan support.",
-            "C": "It is a complex and disjointed initiative plagued by historical limitations.",
-            "D": "It is a cost-effective mission that relies primarily on innovative new technology."
+            "A": "The atmosphere was characterized by high anxiety due to pending legal threats.",
+            "B": "It was a celebration marked by a subdued and reflective mood among the group.",
+            "C": "The group was preoccupied with intense discussions about future tech ventures.",
+            "D": "Tension had risen between the crew members and the guests due to the approaching storm."
           },
-          "answer": "C",
-          "explanation": "文章通过“leftovers”、“contradictory”、“politicized”等词汇描述Artemis项目，指出它由旧组件拼凑而成，且受到政治干扰，呈现出混乱的特征。"
+          "answer": "B",
+          "explanation": "文章提到这一群人是为庆祝Lynch获释而来，在事发前一天，他们的状态比较安静（subdued），在当地小镇漫步并共进晚餐。"
         }
       ]
     }
