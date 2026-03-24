@@ -152,7 +152,33 @@ class MockPaperGenerator:
                 
         return None
 
-    def _validate_result(self, result, q_type):
+    def _force_balance(self, questions):
+        """Forces the 5/5/5/5 distribution by shuffling options/answers."""
+        if len(questions) != 20:
+            return questions
+            
+        current_answers = [q['answer'] for q in questions]
+        target = ['A'] * 5 + ['B'] * 5 + ['C'] * 5 + ['D'] * 5
+        import random
+        random.shuffle(target)
+        
+        for i, q in enumerate(questions):
+            curr_ans = q['answer']
+            target_ans = target[i]
+            
+            if curr_ans != target_ans:
+                # Swap the options to make target_ans the correct one
+                # e.g. if curr is 'A' and target is 'B', move content of A to B and vice versa
+                old_ans_content = q['options'][curr_ans]
+                target_ans_content = q['options'][target_ans]
+                
+                q['options'][curr_ans] = target_ans_content
+                q['options'][target_ans] = old_ans_content
+                q['answer'] = target_ans
+                
+        return questions
+
+    def _validate_result(self, result, q_type, auto_fix=True):
         questions = result.get('questions', [])
         if q_type == "Use of English":
             if len(questions) != 20:
@@ -163,10 +189,15 @@ class MockPaperGenerator:
             answers = [q.get('answer') for q in questions]
             from collections import Counter
             counts = Counter(answers)
-            # Ideally 5 of each. We allow some minor variance but strictly 5 is preferred.
+            
             if any(counts[opt] != 5 for opt in ['A', 'B', 'C', 'D']):
-                logging.warning(f"Validation FAILED: Cloze answer distribution is not balanced: {counts}")
-                return False
+                if auto_fix:
+                    logging.info("Cloze distribution unbalanced. Applying _force_balance...")
+                    result['questions'] = self._force_balance(questions)
+                    return True # Now it's valid
+                else:
+                    logging.warning(f"Validation FAILED: Cloze answer distribution is not balanced: {counts}")
+                    return False
         else:
             if len(questions) < 5:
                 return False
@@ -188,7 +219,7 @@ class MockPaperGenerator:
             }
 
         q_count = 20 if q_type == "Use of English" else 5
-        distribution_hint = "其中正确选项 A, B, C, D 必须各出现 5 次，实现完全均分。" if q_type == "Use of English" else ""
+        distribution_hint = "### IMPORTANT RULE ###:\n其中正确选项 A, B, C, D 必须各出现 EXACTLY 5 次，严禁出现某选项偏多的情况（如16个A）。" if q_type == "Use of English" else ""
         
         prompt = f"""
 你是一位高级考研英语一命题组专家。请根据以下文章，先计算其 difficulty_constant (难度定数，基于长难句和超纲词汇密度，1.0到15.0的浮点数，对标 maimai Rating 系统)。
@@ -199,6 +230,10 @@ class MockPaperGenerator:
 
 文章内容：
 {text}
+
+### 强制要求 ###:
+1. 返回格式必须严格遵守 JSON Schema。
+2. {"完型填空必须保证 20 道题，且 A, B, C, D 作为正确答案的频次均为 5 次。" if q_type == "Use of English" else "阅读理解生成 5 道题。"}
 """
         import time
         for model_variant in self.model_names:
@@ -215,7 +250,7 @@ class MockPaperGenerator:
                     result = json.loads(response.text)
                     
                     if self._validate_result(result, q_type):
-                        logging.info(f"Successfully generated and VALIDATED with model {model_variant}")
+                        logging.info(f"Successfully generated and VALIDATED (with optional auto-fix) with model {model_variant}")
                         return result
                     else:
                         logging.warning(f"Result validation failed for {q_type}. Retrying...")
