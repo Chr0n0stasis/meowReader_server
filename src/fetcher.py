@@ -231,6 +231,10 @@ class DataFetcher:
         os.makedirs(freq_dir, exist_ok=True)
         return os.path.join(freq_dir, f"{date_str}.{ext}")
 
+    def is_raw_source_fetched(self, source, date_str, ext):
+        file_path = self.get_raw_source_path(source, date_str, ext)
+        return os.path.exists(file_path)
+
     def save_raw_source(self, source, date_str, ext, content, mode='w'):
         file_path = self.get_raw_source_path(source, date_str, ext)
         # If binary
