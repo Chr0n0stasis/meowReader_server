@@ -105,6 +105,27 @@ class MockPaperGenerator:
 
         self._save_artifacts(date_str, strategy, output_data)
 
+    def _clean_text(self, text):
+        if not text:
+            return ""
+        # Remove bibliography and footers
+        markers = [
+            "References", "Reference", "Download references", "Competing Interests",
+            "Related Articles", "Subjects", "Acknowledgements", "Author information",
+            "Ethics declaration", "Additional information", "Rights and permissions"
+        ]
+        import re
+        for marker in markers:
+            # Match marker as a whole word or at start of line
+            pattern = re.compile(rf"(\n|^)\s*{marker}\b.*", re.IGNORECASE | re.DOTALL)
+            text = pattern.sub("", text)
+            
+        # Remove DOI and Nature citations
+        text = re.sub(r"Nature\s*\d+.*?\(\d{4}\)", "", text)
+        text = re.sub(r"doi:\s*https?://\S+", "", text)
+        
+        return text.strip()
+
     def _extract_text(self, item):
         journal = item['journal_name'].replace(' ', '_')
         pub_date = item['publish_date']
@@ -124,11 +145,32 @@ class MockPaperGenerator:
             with open(source_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 if art_id in data:
-                    return data[art_id].get('text', '')
+                    raw_text = data[art_id].get('text', '')
+                    return self._clean_text(raw_text)
         except Exception as e:
             logging.error(f"Error reading JSON {source_file}: {e}")
                 
         return None
+
+    def _validate_result(self, result, q_type):
+        questions = result.get('questions', [])
+        if q_type == "Use of English":
+            if len(questions) != 20:
+                logging.warning(f"Validation FAILED: Expected 20 questions for Cloze, got {len(questions)}")
+                return False
+            
+            # Check ABCD distribution
+            answers = [q.get('answer') for q in questions]
+            from collections import Counter
+            counts = Counter(answers)
+            # Ideally 5 of each. We allow some minor variance but strictly 5 is preferred.
+            if any(counts[opt] != 5 for opt in ['A', 'B', 'C', 'D']):
+                logging.warning(f"Validation FAILED: Cloze answer distribution is not balanced: {counts}")
+                return False
+        else:
+            if len(questions) < 5:
+                return False
+        return True
 
     def _call_gemini(self, text, q_type, retries=3):
         if not self.client:
@@ -145,10 +187,17 @@ class MockPaperGenerator:
                 ]
             }
 
+        q_count = 20 if q_type == "Use of English" else 5
+        distribution_hint = "其中正确选项 A, B, C, D 必须各出现 5 次，实现完全均分。" if q_type == "Use of English" else ""
+        
         prompt = f"""
 你是一位高级考研英语一命题组专家。请根据以下文章，先计算其 difficulty_constant (难度定数，基于长难句和超纲词汇密度，1.0到15.0的浮点数，对标 maimai Rating 系统)。
-然后为其生成 5 道符合考研大纲要求的高质量单选题及中文解析。
-题型：{q_type}。文章内容：
+然后为其生成 {q_count} 道符合考研大纲要求的高质量单选题及详细中文解析。
+
+题型：{q_type}。
+{distribution_hint}
+
+文章内容：
 {text}
 """
         import time
@@ -163,11 +212,17 @@ class MockPaperGenerator:
                             response_schema=MockPaperOutput
                         )
                     )
-                    logging.info(f"Successfully generated with model {model_variant}")
-                    return json.loads(response.text)
+                    result = json.loads(response.text)
+                    
+                    if self._validate_result(result, q_type):
+                        logging.info(f"Successfully generated and VALIDATED with model {model_variant}")
+                        return result
+                    else:
+                        logging.warning(f"Result validation failed for {q_type}. Retrying...")
+                        continue
+
                 except Exception as e:
                     logging.error(f"Gemini API error with {model_variant} (attempt {attempt+1}/{retries}): {e}")
-                    # Only sleep if it's a transient error, but if not found we break straight to next model
                     if "is not found" in str(e) or "404" in str(e):
                         break
                     time.sleep(2)
