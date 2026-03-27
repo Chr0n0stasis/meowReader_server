@@ -1,0 +1,465 @@
+{
+  "group_update_date": "03.27.2026",
+  "papers": [
+    {
+      "title": "Should you take GLP-1 drugs for longevity?",
+      "article_update_date": "03.26.2026",
+      "source_journal": "Economist",
+      "body_text": "Should you take GLP-1 drugs for longevity? Science & technology | Well Informed Should you take GLP-1 drugs for longevity? The evidence is tantalising. But that is not the same as proof March 19th 2026 “RESIST SAYING, ‘this will be no panacea’. When you find something that is a panacea, that will indeed be news.” This wise advice once appeared in The Economist’s Style Guide, and the first part is routinely enforced. Some people are, however, asking whether the second part’s time may perhaps have come, as a group of drugs now routinely prescribed for type 2 diabetes and obesity are being sought out by healthy people in the hope that they will help preserve that health for longer, and even extend life. The drugs in question are glucagon-like peptide-1 receptor agonists (GLP-1 RAs), the best known of which is semaglutide (sold commercially as Ozempic and Wegovy). They are already being investigated, with variable success, for everything from Alzheimer’s disease (for which a pair of recent studies showed no positive effect) and Parkinson’s disease to heart failure, drug and alcohol addiction and even arthritis (because weight loss reduces joint strain). But what excites enthusiasts is the idea that they might attack the roots of ageing itself. Studies of how people age have identified a dozen or so distinct (though interlinked) “hallmarks” of the process—harmful phenomena that affect a wide range of tissues and get worse as the years roll by. Preliminary work, mostly on animals and cell cultures, but also including studies of people taking GLP-1 RAs on prescription, suggests the drugs ameliorate several of these hallmarks. Top of the list is “inflammaging”, the chronic rise in low-level inflammation which people experience as they get older. GLP-1 RAs seem to inhibit this in several ways, including stopping the formation of protein complexes that trigger inflammatory responses. They also promote the recycling of failing cellular machinery: worn-out mitochondria (a cell’s power packs) and misfolded proteins. This keeps cells ticking over for longer. They help, too, to modulate biochemical pathways that sense the presence of nutrients and orchestrate appropriate responses—the breakdown of which is yet another hallmark of ageing. And they promote proliferation of the type of stem cells that repopulate tissues with new, functional cells. On top of these promising individual effects, an experiment on mice suggests that GLP-1 RAs may, indeed, extend “healthspan”—the fraction of an animal’s life during which it remains in good nick. It did not, however, demonstrate any extension of lifespan. Nor is preliminary work of this sort the same as proper clinical trials. But that has not stopped many people from jumping the gun by seeking out friendly doctors to prescribe the drugs “off-label”. On the face of it, this sounds risky. Treating diabetes and obesity, and thus balancing efficacy against side-effects such as pancreatitis, is one thing. Healthy individuals taking GLP-1 RAs for a lifetime, even in small doses, is another. Many users are aware of this, however, and in the absence of the sort of top-down monitoring that would happen in an organised trial have banded together in internet forums to monitor each other and pass around tips. This is, indeed, part of a wider trend of mutual support at the fringes of pharmacology, with similar user groups forming to monitor off-label use of other peptide drugs and thus, in effect, running informal, uncontrolled trials. Whether those now taking GLP-1 RAs prophylactically will live to regret doing that or, conversely, will live long enough not to, remains to be seen. ■ After a free, evidence-based guide to health and wellness? Sign up to our weekly Well Informed newsletter . This article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/03/13/should-you-take-glp-1-drugs-for-longevity",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The author quotes The Economist’s Style Guide to _______ that while people often search for a 'panacea', they must remain cautious.",
+          "options": {
+            "A": "criticize",
+            "B": "contradict",
+            "C": "remind",
+            "D": "justify"
+          },
+          "answer": "C",
+          "explanation": "根据上下文，作者引用《经济学人》风格指南是为了提醒人们，虽然寻找万灵药是人们的愿望，但必须保持审慎，remind符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "People are increasingly _______ GLP-1 drugs for reasons beyond treating diabetes and obesity, such as extending life.",
+          "options": {
+            "A": "seeking",
+            "B": "neglecting",
+            "C": "rejecting",
+            "D": "evaluating"
+          },
+          "answer": "A",
+          "explanation": "文章提到人们为了保持健康更久甚至延年益寿而去寻找这些药物，seeking 符合文中描述的 healthy people 的行为。"
+        },
+        {
+          "q_number": 3,
+          "stem": "GLP-1 RAs have been _______ for various conditions, ranging from Alzheimer’s to drug addiction.",
+          "options": {
+            "A": "investigated",
+            "B": "dismissed",
+            "C": "banned",
+            "D": "prescribed"
+          },
+          "answer": "A",
+          "explanation": "文中指出这些药物正在被研究用于多种疾病，investigated 是最符合 ongoing scientific inquiry 的词汇。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Enthusiasts are excited because these drugs might address the _______ causes of the ageing process.",
+          "options": {
+            "A": "superficial",
+            "B": "root",
+            "C": "tangential",
+            "D": "artificial"
+          },
+          "answer": "B",
+          "explanation": "文中提到它们可能攻击衰老的根源，root causes 对应文章中的 attack the roots of ageing。"
+        },
+        {
+          "q_number": 5,
+          "stem": "These 'hallmarks' of ageing are harmful phenomena that _______ a wide range of tissues over time.",
+          "options": {
+            "A": "ignore",
+            "B": "protect",
+            "C": "affect",
+            "D": "surpass"
+          },
+          "answer": "C",
+          "explanation": "文中描述衰老的标志是影响多种组织的有害现象，affect 准确表达了这种生物学作用。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Preliminary work suggests that GLP-1 RAs can _______ several of these ageing hallmarks.",
+          "options": {
+            "A": "aggravate",
+            "B": "ameliorate",
+            "C": "terminate",
+            "D": "disregard"
+          },
+          "answer": "B",
+          "explanation": "ameliorate 意为改善，与上下文说药物有助于减缓衰老标志一致。"
+        },
+        {
+          "q_number": 7,
+          "stem": "‘Inflammaging’ refers to a chronic _______ in inflammation that people experience as they age.",
+          "options": {
+            "A": "rise",
+            "B": "decline",
+            "C": "stabilization",
+            "D": "fluctuation"
+          },
+          "answer": "A",
+          "explanation": "文中定义 inflammaging 为 the chronic rise in low-level inflammation，故选择 rise。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The drugs help _______ biochemical pathways that sense nutrients and regulate the body’s responses.",
+          "options": {
+            "A": "abandon",
+            "B": "confuse",
+            "C": "modulate",
+            "D": "obstruct"
+          },
+          "answer": "C",
+          "explanation": "modulate 意为调节，符合文中关于调控生化途径的描述。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Furthermore, they promote the _______ of stem cells that replace old cells with new ones.",
+          "options": {
+            "A": "proliferation",
+            "B": "extinction",
+            "C": "stagnation",
+            "D": "isolation"
+          },
+          "answer": "A",
+          "explanation": "proliferation 意为增殖，是生物学术语，与干细胞更新组织匹配。"
+        },
+        {
+          "q_number": 10,
+          "stem": "However, experiment results on mice showed no _______ extension of lifespan.",
+          "options": {
+            "A": "significant",
+            "B": "actual",
+            "C": "noticeable",
+            "D": "clear"
+          },
+          "answer": "B",
+          "explanation": "文章转折处指出没有观察到任何真实的寿命延长，actual 契合语境。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Many people are ‘jumping the gun’ by seeking doctors to prescribe drugs ‘_______’.",
+          "options": {
+            "A": "off-label",
+            "B": "legally",
+            "C": "cautiously",
+            "D": "formally"
+          },
+          "answer": "A",
+          "explanation": "off-label 指药品超说明书使用，文中明确提到这种行为。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Using such drugs for a lifetime is quite different from _______ for diabetes or obesity.",
+          "options": {
+            "A": "neglect",
+            "B": "treatment",
+            "C": "discovery",
+            "D": "analysis"
+          },
+          "answer": "B",
+          "explanation": "treating 对应名词 treatment，语境是比较长期服药与治疗特定疾病的差异。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The author _______ that balancing efficacy against side-effects is a complicated task.",
+          "options": {
+            "A": "denies",
+            "B": "assumes",
+            "C": "ignores",
+            "D": "implies"
+          },
+          "answer": "D",
+          "explanation": "作者通过对比说明了权衡利弊的复杂性，implies（暗示）最为准确。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Many users have _______ together in online forums to share tips and monitor each other.",
+          "options": {
+            "A": "drifted",
+            "B": "fallen",
+            "C": "banded",
+            "D": "clashed"
+          },
+          "answer": "C",
+          "explanation": "banded together 是固定搭配，意为联合起来。"
+        },
+        {
+          "q_number": 15,
+          "stem": "This trend represents a form of mutual support at the _______ of professional pharmacology.",
+          "options": {
+            "A": "pinnacle",
+            "B": "core",
+            "C": "center",
+            "D": "fringes"
+          },
+          "answer": "D",
+          "explanation": "fringes 指边缘，即非正规的、在主流医学之外的活动。"
+        },
+        {
+          "q_number": 16,
+          "stem": "These users are essentially conducting informal and _______ trials on themselves.",
+          "options": {
+            "A": "organized",
+            "B": "supervised",
+            "C": "uncontrolled",
+            "D": "controlled"
+          },
+          "answer": "C",
+          "explanation": "这些用户群体的行为缺乏专业控制，故为 uncontrolled trials。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Taking drugs prophylactically carries _______ that remains to be fully understood.",
+          "options": {
+            "A": "rewards",
+            "B": "benefits",
+            "C": "certainties",
+            "D": "risks"
+          },
+          "answer": "D",
+          "explanation": "预防性用药（prophylactically）带有未知风险，故选 risks。"
+        },
+        {
+          "q_number": 18,
+          "stem": "It remains to be seen whether users will _______ live to regret their choices.",
+          "options": {
+            "A": "rarely",
+            "B": "hardly",
+            "C": "seldom",
+            "D": "eventually"
+          },
+          "answer": "D",
+          "explanation": "eventually 表示最终，符合对未来结果的预测。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The evidence for these drugs is _______, yet it does not equate to scientific proof.",
+          "options": {
+            "A": "inconclusive",
+            "B": "tantalising",
+            "C": "abundant",
+            "D": "negligible"
+          },
+          "answer": "B",
+          "explanation": "tantalising 意为诱人的、吊胃口的，文中正是用这个词来描述初步证据。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Ultimately, the debate _______ the tension between scientific evidence and human desire for longevity.",
+          "options": {
+            "A": "erases",
+            "B": "resolves",
+            "C": "conceals",
+            "D": "highlights"
+          },
+          "answer": "D",
+          "explanation": "这篇文章突显了科学证据与人类渴望长寿之间的张力，highlights 符合。"
+        }
+      ]
+    },
+    {
+      "title": "Then",
+      "article_update_date": "03.27.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Then Poems Then By Jorie Graham March 16, 2026 Then the full moon rose & filled the windows and I put my arm around you as you slept & I slept alongside you for a while. All around us the world. And in it us neither large nor small. This is the poem where the moonlight will whiten everything & I will let go of the world as it was once. It was probably never that way I will think, but its cage wasn’t visible then & we thought we were free, we thought there was history in the world— but it was an illusion, wasn’t it, it must have been, because otherwise how could it have disappeared so suddenly. But the whiteness is whitening the panes beyond us ever brighter as you sleep, & your sleep, yr kind sleep says no, no, it is all true here in the poem, says I won’t tell you there’s freedom anywhere but look at what you hold in your arms for free as the moon rises over the fields without us, as it rises in the eyes of all the watchers in their dens on their branches in the hollows of what were once the sun-warmed furrows farmers cut into the earth when there were farmers. This is drawn from “ Killing Spree .”",
+      "difficulty_constant": 11.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, how does the author describe the relationship between the speaker and the sleeping companion in the context of the world?",
+          "options": {
+            "A": "They are insignificant beings trapped in a cycle of history.",
+            "B": "They are indifferent to the changing landscape around them.",
+            "C": "They are neither large nor small, existing within the world.",
+            "D": "They are freedom-seeking individuals attempting to escape the moonlight."
+          },
+          "answer": "C",
+          "explanation": "文章中明确提到“And in it us neither large nor small”，即在世界中，我们既不大也不小，直接对应选项C。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author uses the phrase 'its cage wasn’t visible then' to imply that in the past, individuals:",
+          "options": {
+            "A": "Were unaware of the constraints imposed by historical reality.",
+            "B": "Had successfully escaped the limitations of their environment.",
+            "C": "Mistakenly believed that they had complete control over the future.",
+            "D": "Felt protected by the structures that now cause them suffering."
+          },
+          "answer": "A",
+          "explanation": "“cage”象征约束，不可见意味着当时的人们没有意识到现实的制约，认为自己是自由的，故选A。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the 'whiteness' described in the poem represent according to the text?",
+          "options": {
+            "A": "A sense of absolute purity and spiritual enlightenment.",
+            "B": "The fading of historical truth and the transformation of reality.",
+            "C": "The harsh judgment of the 'watchers' in the fields.",
+            "D": "The preservation of memories that the speaker fears losing."
+          },
+          "answer": "B",
+          "explanation": "文中提到月光（whiteness）让一切变白，随之而来的是历史的消失和现实的改变，暗示了记忆与真理的虚幻化。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The author mentions 'farmers' and 'sun-warmed furrows' to suggest that:",
+          "options": {
+            "A": "Modern technology has surpassed traditional agricultural methods.",
+            "B": "The natural environment has become hostile to human existence.",
+            "C": "Human labor and historical patterns have effectively vanished.",
+            "D": "The poem is primarily a reflection on the loss of rural lifestyles."
+          },
+          "answer": "C",
+          "explanation": "作者使用“when there were farmers”暗示农耕文明和人类的历史性劳作已经成为过去，强调了一种不可逆转的消逝。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary emotional tone conveyed by the speaker regarding the 'truth' of the poem?",
+          "options": {
+            "A": "Resentment toward the inevitable decay of all things.",
+            "B": "Optimistic hope for a future beyond the constraints of history.",
+            "C": "Contradictory acceptance of a reality that is both illusory and deeply held.",
+            "D": "Regret for having lived a life built upon false perceptions."
+          },
+          "answer": "C",
+          "explanation": "作者一方面怀疑历史是幻象，另一方面通过“it is all true here in the poem”和拥抱对方的动作，展现了一种对现状既怀疑又深情接受的复杂情感。"
+        }
+      ]
+    },
+    {
+      "title": "‘A miracle’: Canadian flight attendant ejected from plane survives New York crash",
+      "article_update_date": "03.25.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A flight attendant on the Air Canada Jazz flight that collided with a fire truck at New York’s LaGuardia airport on Sunday survived in what her daughter called a “complete miracle”, when she was ejected more than 100 metres from the plane while still strapped to her seat. The CRJ-900 jet, operated by Jazz Aviation, collided with a fire truck as it landed, killing both the pilot and co-pilot. Nine people were sent to the hospital with injuries, including Solange Tremblay, a flight attendant. “It’s a complete miracle. At the moment of impact, her seat was ejected more than 100 metres from the plane. They found her and she was still strapped into her seat,” her daughter Sarah Lépine told Quebec’s TVA News. “She had a guardian angel watching over her. It could have been much worse.” Lépine said her mother suffered multiple bone fractures and was taken to the hospital for surgery on a broken leg. According to her social media profile, Tremblay began working for Jazz 26 years ago as a flight attendant. 0:26 Video shows moments before Air Canada jet collides with a fire truck at LaGuardia Airport – video Jazz Aviation, owned by Chorus Aviation, is an independent regional airline that operates short-haul flights on behalf of Air Canada under the Air Canada Express brand. Montreal-based Air Canada did not provide a statement on Tremblay, but several staff members confirmed details of the incident to the Guardian. TVA identified one of the pilots as Antoine Forest, 30, of Coteau-du-Lac, a city south-west of Montreal. He joined Jazz Aviation in 2022. The other pilot was Mackenzie Gunther, Radio-Canada sources have confirmed. “The loss of our two fellow crew members onboard Flight 8646 is a profound tragedy,” said Jason Ambrosi, president of the Air Line Pilots Association, the largest airline pilot union in the world. “These pilots dedicated their careers to the safe transport of passengers, and we are all thinking of their families, loved ones, and colleagues at Jazz Aviation during this devastating time.” In air traffic control recordings moments before the crash, staff could be heard on a radio transmission giving clearance to a vehicle to cross part of the runway, then trying to stop it. View image in fullscreen NTSB personnel inspect the wreckage of an Air Canada jet that collided with a ground vehicle at LaGuardia airport. Photograph: Shannon Stapleton/Reuters “Stop, Truck 1. Stop,” the transmission says as the controller attempts to divert incoming aircraft from landing. After the collision, audio released by LiveATC appears to show air traffic controllers discussing the incident. One controller said the impact “wasn’t good to watch”. Another responded: “Yeah, I know I was here. I tried to reach out … we were dealing with an emergency earlier. I messed up.” “Nah, man, you did the best you could,” the other controller says in the recording. Mark Carney, Canada’s prime minister, said the collision was “deeply saddening”.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary reason Solange Tremblay's survival is described as a \"complete miracle\"?",
+          "options": {
+            "A": "She managed to exit the plane safely before the collision occurred.",
+            "B": "She was thrown a significant distance while remaining secured to her seat.",
+            "C": "She suffered no major injuries despite the impact of the crash.",
+            "D": "She received immediate medical attention from other passengers."
+          },
+          "answer": "B",
+          "explanation": "文章提到，Solange Tremblay在飞机撞击时连同座椅一起被抛出100多米远，且仍被安全带固定在座椅上，其女儿称这是“彻头彻尾的奇迹”。选项B准确概括了这一关键细节。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What can be inferred about the relationship between Jazz Aviation and Air Canada?",
+          "options": {
+            "A": "Jazz Aviation is a subsidiary directly managed by Air Canada's headquarters.",
+            "B": "Air Canada owns a significant portion of Jazz Aviation's regional infrastructure.",
+            "C": "Jazz Aviation operates independently but provides services under the Air Canada Express brand.",
+            "D": "Jazz Aviation is primarily responsible for international long-haul operations for Air Canada."
+          },
+          "answer": "C",
+          "explanation": "文章明确指出Jazz Aviation是一家独立的地区航空公司，它以Air Canada Express的品牌名代表加拿大航空运营短途航班，因此C项符合文意。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the air traffic control recordings, what occurred just before the crash?",
+          "options": {
+            "A": "The controller ordered the plane to abort its landing attempt.",
+            "B": "The pilots failed to respond to repeated emergency warnings.",
+            "C": "A ground vehicle was given permission to cross the runway but was later warned to stop.",
+            "D": "The controller lost communication with all vehicles on the runway."
+          },
+          "answer": "C",
+          "explanation": "录音内容显示，调度员最初给予车辆穿越跑道的许可，随后试图叫停该车辆，这与选项C描述一致。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the air traffic controller likely feel about the incident based on the released audio?",
+          "options": {
+            "A": "Indifferent and strictly procedural.",
+            "B": "Guilt-ridden and distraught about the outcome.",
+            "C": "Hostile towards the pilots for not following instructions.",
+            "D": "Confident that the accident was unavoidable."
+          },
+          "answer": "B",
+          "explanation": "录音中调度员提到“I messed up”（我搞砸了），表现出了明显的内疚和痛苦，说明其对事故感到非常自责。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main purpose of this news report?",
+          "options": {
+            "A": "To analyze the technical failures of the Jazz Aviation fleet.",
+            "B": "To highlight the life-saving potential of aircraft seating technology.",
+            "C": "To provide a factual account of the accident and its immediate aftermath.",
+            "D": "To criticize the air traffic control regulations at LaGuardia Airport."
+          },
+          "answer": "C",
+          "explanation": "文章是一篇新闻报道，主要陈述了LaGuardia机场发生的撞机事件、幸存者情况、受害者身份、各方反应以及录音记录，旨在报道事件本身及其后续影响。"
+        }
+      ]
+    },
+    {
+      "title": "Mark Carney rebukes Air Canada chief over English-only crash message",
+      "article_update_date": "03.26.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Canada’s prime minister, Mark Carney, has said a decision by Air Canada’s top executive to post an English-only message of condolence after a deadly crash in New York showed a “lack of judgment, a lack of compassion”. Amid growing calls for his resignation, the airline chief’s misstep has once again revived frustrations and fears over linguistic rights protections in the province of Quebec, where French is the only official language. Two pilots were killed in the crash late on Sunday, when a fire truck collided with an Air Canada Express flight landing at New York’s LaGuardia airport. The following day, the Air Canada CEO, Michael Rousseau, shared a four-minute condolence video online, saying he was deeply saddened by the loss of life and said the collision was a “very dark day” for Air Canada. It only included two French words – “bonjour” and “merci”. Rousseau does not speak French – a language spoken by both his mother and wife, and roughly 80% of the population of Quebec. When he assumed the job in 2021, he pledged to learn the language, but months later prompted angry protests when he addressed the Montreal chamber of commerce in English. On Wednesday, Air Canada, which is based in Montreal, said in a statement that Rousseau wanted to address “everyone affected by the tragedy, whether directly or indirectly”, himself. “He therefore recorded a message as a matter of priority before departing on a flight for the crash site. Despite his efforts, his ability to express himself in French does not allow him to convey such a sensitive message in that language as he would wish.” The video included French subtitles, and all available information was communicated in both official languages on the Air Canada website. But the explanation did not satisfy federal ministers, who have summoned him to the official languages committee to “explain himself” to lawmakers. “We proudly live in a bilingual country. There are two official languages here and Air Canada has a special responsibility whatever the situation to communicate whatever the situation in both official languages,” Carney said. “I am extremely disappointed by the message released by the CEO of Air Canada. It shows a lack of compassion, and we will be closely following his comments before the official languages committee as well as the comments coming from the board of Air Canada.” Canada’s languages commissioner usually receives 100 complaints about the airline each year. But as of Wednesday morning, the commissioner said it received nearly 800 complaints about the video. The two pilots killed in the collision were Antoine Forest from Coteau-du-Lac, Quebec, and Mackenzie Gunther, a 2023 alumnus of Toronto’s Seneca Polytechnic. Mélanie Joly, the industry minister, joined the criticism, saying many of the victims and their families were francophones. “It is a question of moral leadership,” Joly said. “If he still doesn’t speak French today, it’s disrespectful to his employees and to his francophone customers, so yes, I think that if he doesn’t speak French, he should resign,” François Legault, the Quebec premier, told reporters. The federal Bloc Québécois leader, Yves-François Blanchet, said the Air Canada board should force him out. “He should leave. He should acknowledge the fact that he doesn’t have the requisite respect for Quebec society,” he said. “There is a limit to the number of insults that one is supposed to stand.” In the 1950s, company bosses in the province would speak only English to their workers – and often refuse to allow French to be spoken. Those dynamics helped spark the Quiet Revolution – the bloodless overthrow of Catholicism and the anglophone ruling classes in the province – and a Quebecers separatist movement. In recent years, Quebec’s nationalist government has passed laws to dramatically strengthen protections for the French language amid fears English is overtaking it, especially in large cities.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why did Michael Rousseau's video message trigger widespread controversy?",
+          "options": {
+            "A": "It failed to address the technical details of the fatal collision.",
+            "B": "It was delivered exclusively in English in a region where bilingualism is expected.",
+            "C": "It contained inappropriate remarks that offended the families of the victims.",
+            "D": "It violated the privacy of the deceased pilots by discussing their backgrounds."
+          },
+          "answer": "B",
+          "explanation": "文章指出，Rousseau作为总部位于蒙特利尔的加拿大航空公司的首席执行官，发布了一段几乎完全是英语的视频，仅包含“bonjour”和“merci”两个法语单词。鉴于魁北克省法语占主导地位且加拿大是双语国家，这一举动引发了对其缺乏语言尊重和判断力的批评。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'lack of judgment, a lack of compassion' imply regarding the criticism of the CEO?",
+          "options": {
+            "A": "He was negligent in managing the airline's safety protocols.",
+            "B": "He prioritized speed over cultural sensitivity during a tragedy.",
+            "C": "He deliberately insulted the French-speaking population to gain political favor.",
+            "D": "He failed to consult his staff before drafting the condolence message."
+          },
+          "answer": "B",
+          "explanation": "文章提到CEO在出发前往事故现场前为了优先发布消息而录制了视频，尽管有法语字幕，但其法语能力的缺失导致未能以法语表达慰问，这被批评为缺乏判断力和同情心，即在紧迫情况下未能充分考虑受众的语言文化需求。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How did the Canadian federal government and Quebec officials respond to the video incident?",
+          "options": {
+            "A": "They demanded an immediate increase in the airline's language budget.",
+            "B": "They supported the CEO's right to prioritize efficient communication.",
+            "C": "They called for the CEO to justify his actions before a committee.",
+            "D": "They initiated a legal investigation into the crash itself."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到联邦部长们已传唤他到官方语言委员会面前“解释自己”，魁北克省省长更是直接提出他应该辞职，这些都表明政府对该事件的严肃态度和追责意图。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What historical context is provided to explain the current sensitivity toward language rights in Quebec?",
+          "options": {
+            "A": "The historical exclusion of French speakers by anglophone business leaders.",
+            "B": "The collapse of the Catholic Church's influence on provincial policies.",
+            "C": "The rapid growth of the separatist movement in the early 21st century.",
+            "D": "The struggle to keep English as the dominant language in large cities."
+          },
+          "answer": "A",
+          "explanation": "文章提到20世纪50年代公司老板通常只对员工讲英语，甚至拒绝允许讲法语，这种权力结构助推了“宁静革命”和魁北克的分离主义运动，解释了当前对语言权利保护高度敏感的历史根源。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the author's tone toward the CEO's situation?",
+          "options": {
+            "A": "Objective and reporting.",
+            "B": "Defensive and sympathetic.",
+            "C": "Satirical and mocking.",
+            "D": "Indifferent and detached."
+          },
+          "answer": "A",
+          "explanation": "整篇文章通过援引各方言论（如总理、部长、省长及反对党领袖）并客观呈现事实（如投诉数量、公司回应），保持了典型的考研新闻叙事风格，旨在客观展现事件的冲突点及社会背景，而非表达作者个人情感。"
+        }
+      ]
+    }
+  ]
+}
