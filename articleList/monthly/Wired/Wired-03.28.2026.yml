@@ -87,7 +87,7 @@ articles:
   is_used: false
   title: Chapter 31
 - id: epub_32
-  is_used: true
+  is_used: false
   title: Chapter 32
 - id: epub_33
   is_used: false
@@ -105,7 +105,7 @@ articles:
   is_used: false
   title: Chapter 37
 - id: epub_38
-  is_used: true
+  is_used: false
   title: Chapter 38
 - id: epub_39
   is_used: false
@@ -173,8 +173,8 @@ articles:
 - id: epub_62
   is_used: false
   title: Chapter 62
-capture_date: 03.25.2026
+capture_date: 03.28.2026
 journal_name: Wired
-publish_date: 03.25.2026
+publish_date: 03.28.2026
 source_type: github
 update_frequency: monthly

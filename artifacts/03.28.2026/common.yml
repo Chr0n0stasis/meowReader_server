@@ -1,0 +1,798 @@
+group_update_date: 03.28.2026
+papers:
+- article_update_date: 03.26.2026
+  body_text: 'Materials The individuals in the study were selected from five imaging
+    datasets: the BCP49, the development, young-adult and ageing cohorts of the Human
+    Connectome Project (HCP-D, HCP-YA and HCP-A, respectively)50 and the Healthy Brain
+    Network (HBN) dataset51. Individuals in the BCP ranged from 16 days to 6 years
+    old, with 557 individuals scanned at 1,095 unique time points before gradient-based
+    quality control. We initially used 652 individuals (age 5.6–21.9 years) from HCP-D,
+    1,206 individuals (age 22–37 years) from HCP-YA, 725 individuals (age 36–100 years)
+    from HCP-A and 772 individuals from the HBN (age 5.6–21.9 years). Across all five
+    cohorts, our dataset included 3,912 individuals. Ethics All data were obtained
+    from publicly available studies (BCP, HCP-D, HCP-YA, HCP-A and HBN). Each contributing
+    study received ethics approval from its local institutional review board and obtained
+    informed consent (and assent where appropriate). The present work analysed de-identified
+    data and complied with all relevant data use agreements. Quality control We excluded
+    infant data with excessive motion, cutting the BCP dataset from 557 individuals
+    with 1,095 time points to 343 individuals with 760 time points. For the entire
+    lifespan dataset, we used visual and clustering-based gradient quality control,
+    excluding problematic gradients from the main analysis. Using this procedure,
+    we excluded one additional data point from the BCP for a total of 759 time points
+    and 343 individuals (158 male individuals, 176 female individuals and 9 unreported).
+    We excluded 2 sets of gradients from the HCP-D for a total of 650 individuals
+    (301 male individuals and 349 female individuals). We excluded 2 individuals from
+    the HBN dataset for a total of 770 individuals (458 male individuals, 275 female
+    individuals and 37 unreported). Preprocessing-related failures (for example, unsuccessful
+    surface reconstruction or unusable resting-state fMRI data) led to the exclusion
+    of 88 HCP-YA participants. Visual inspection and k-means clustering of Procrustes-aligned
+    gradients identified an additional 50 corrupted gradient sets, yielding a final
+    HCP-YA sample of 1,068 participants (482 male and 586 female). We excluded no
+    data from the HCP-A (725 individuals; 319 male and 406 female). These decisions
+    were justified by examining individual gradients as well as their associated metrics
+    (dispersion, range and similarity to template) in combination with k-means clustering
+    applied to the set of all individual gradients. In total, our final analysis included
+    3,972 unique gradient sets from 3,556 individuals. Supplementary Fig. 3 shows
+    the distribution of participants’ ages by cohort after quality control. Cohort-wise
+    median mean Power’s frame-wise displacement (FD) after quality control is shown
+    in Supplementary Table 3. fMRI preprocessing We used an rs-fMRI preprocessing
+    pipeline that is consistent with the HCP52. The preprocessing pipeline includes
+    (1) head motion correction using FMRIB Software Library (FSL) mcflirt; (2) echo-planar
+    imaging (EPI) distortion correction using FSL topup to generate distortion correction
+    deformation fields using a pair of reverse phase-encoded field maps (that is,
+    anterior–posterior and posterior–anterior or left–right and right–left); (3) rigid
+    (six degrees of freedom) registration of a single-band reference (SBref) image
+    to field maps; (4) rigid boundary-based registration (BBR) of distortion correcting
+    the SBref image to the corresponding T1-weighted (T1w) images, with pre-alignment
+    using a mutual information cost function; and (5) one-step sampling using combined
+    deformation fields and translation matrices, producing motion- and distortion-corrected
+    fMRI data in each individual’s native space (T1w space). We denoised the fMRI
+    data before further analysis. First, we detrended the data by high-pass filtering
+    with a cut-off frequency of 0.001 Hz to remove slow signal drift. Next, we used
+    independent component analysis based automatic removal of motion artefacts (ICA-AROMA)
+    denoising53 to remove any residual motion artefacts. This involved performing
+    a 150-component ICA on the fMRI data and classifying each component as either
+    BOLD signal or artefact on the basis of high-frequency contents, correlation with
+    realignment parameters from head motion correction, edge effects and cerebrospinal
+    fluid fractions. Independent components classified as artefacts are (aggressively)
+    removed by regression. Structural and diffusion preprocessing Structural data
+    underwent automated quality assessment54,55, inhomogeneity correction and linear
+    transformation of T2w images to the respective T1w images. We then delineated
+    white matter, grey matter and the cerebrospinal fluid with automated segmentation
+    (Supplementary Figs. 14 and 15). Usable diffusion data selected using a deep-learning-based
+    semi-automated QC56 were corrected for signal drop-out, pile-up and eddy-current
+    and susceptibility-induced distortions57. Co-registration between diffusion MRI
+    (dMRI) and structural MRI (sMRI) using multi-channel nonlinear registration was
+    performed with the symmetric normalization method available in Advanced Normalization
+    Tools (ANTs)58. Finally, manual visual inspections were done to ensure quality.
+    To establish a consistent coordinate system across the entire lifespan, we used
+    in-house lifespan surface atlases extended from a previous study59. The reconstructed
+    cortical surfaces of each individual were first registered to age-matched cortical
+    surface atlases for vertex-wise correspondence among all the surfaces across the
+    lifespan (Supplementary Fig. 14). Cortical surfaces were mapped onto a unit sphere
+    and Spherical Demons60 was used to perform registration between the spherical
+    surfaces of the individuals and the age-matched surface atlases. The vertex-wise
+    correspondence established as a result of spherical registration was then propagated
+    to the white and pial surfaces using one-to-one correspondence between the spherical
+    and standard representations of the white and pial surfaces. Cortical surfaces
+    used in the analysis comprised 20,484 vertices including the medial wall and 18,644
+    vertices excluding the medial wall. Structural and diffusion indices were computed
+    in the same manner for all cohorts. Specifically, cortical thickness is defined
+    as the Euclidean distance between two correspondent vertices on the white and
+    pial surfaces and myelination is quantified using the ratio between T1w and T2w
+    images41. Spherical mean spectrum imaging (SMSI)61,62 was used to calculate intracellular
+    volume fraction, extracellular volume fraction, intrasoma volume fraction, microscopic
+    fractional anisotropy, microscopic mean diffusivity, microscopic anisotropy index
+    and orientation coherence index. The diffusion tensor model was used to calculate
+    fractional anisotropy and mean diffusivity. Functional gradients FC matrices were
+    computed from the vertex-wise fMRI time series for each acquisition from each
+    individual using the pairwise Pearson correlation coefficient. For individuals
+    with repeated scans (BCP participants), acquisitions were grouped by time point,
+    and we averaged FC matrices within each time point. We then subjected each mean
+    FC matrix to row-wise thresholding (top 10% of connections retained), and computed
+    the normalized angle matrix, in keeping with previous gradient literature1,14,63,64.
+    Mean FC degree was computed for each individual as the average across vertices
+    of the sum FC weights in the individual’s thresholded mean FC matrix. We computed
+    ten FC gradients for each individual using the diffusion embedding implementation
+    in BrainSpace64, with the normalized angle matrix as the input affinity matrix.
+    To align individual-specific gradient axes consistently across the lifespan, we
+    computed a set of ‘template gradients’ through weighted principal component analysis
+    (WPCA) of all individuals’ gradients. We began by applying a controlled nonlinear
+    transformation to each individual’s age, taking the square root of age to capture
+    rapid changes in early life. The transformed ages were partitioned into ten equally
+    spaced bins on the transformed scale and then mapped back to the original age
+    units, yielding narrower bins (and thus finer sampling) for younger individuals.
+    Each bin was assigned an equal total weight, and that weight was uniformly distributed
+    among the individuals within the bin. After normalizing these weights to sum to
+    1 across all individuals, we constructed a single matrix of dimension (N ind ×
+    N grad ) × N vert by stacking each individual’s set of gradient maps (that is,
+    N grad per individual). We then standardized each vertex column (z-scoring across
+    all individual–gradient observations) before performing WPCA. In WPCA, each row
+    (representing one individual–gradient combination) was assigned its individual-specific
+    weight, ensuring that less densely sampled or younger age bins had a comparable
+    overall influence relative to bins with many individuals. We extracted the top
+    principal axes of variation (the first ten), and used the first three for subsequent
+    analyses. This weighting strategy mitigates sampling imbalances and preserves
+    important developmental transitions, ensuring that the template gradients capture
+    large-scale connectivity variation equitably across the entire lifespan. For details
+    of the validation analysis of our WPCA strategy for reducing age-related sampling
+    bias in our gradient template, see ‘Bootstrap validation of WPCA gradient template’
+    in Supplementary Methods (Supplementary Fig. 12). We aligned the gradient sets
+    of all individuals to this template embedding space using one-shot Procrustes
+    alignment64 without scaling or mean centring, after which gradients of the same
+    order were correspondent across all individuals. Structural gradients and coupling
+    We also computed cortical gradients based on microstructural features to assess
+    structure–function coupling across the lifespan by applying diffusion embedding
+    to morphometric similarity networks (MSNs)65. Our structural features included
+    11 measures: cortical thickness, myelination, intracellular volume fraction, extracellular
+    volume fraction, intrasoma volume fraction, fractional anisotropy, mean diffusivity,
+    microscopic fractional anisotropy, microscopic mean diffusivity, microscopic anisotropy
+    index and orientation coherence index. For each individual, we constructed feature
+    vectors containing these features at each cortical surface vertex, and computed
+    a structural affinity matrix using pairwise Pearson correlation between vectors
+    of z-scored structural features. After setting negative correlations to zero,
+    we then used this affinity matrix as input to the diffusion map embedding algorithm
+    to obtain structural gradients. To compare structural and functional gradients
+    across the lifespan, we aligned each individual’s structural gradients to that
+    individual’s functional gradients, which were previously aligned to the functional
+    template gradients comprising the SA, VS and MR axes. All subsequent comparisons
+    between structural and functional gradients were based on these aligned structural
+    gradients. We further assessed structure–function coupling within canonical resting-state
+    networks defined by the Schaefer 7-network parcellation. For each network and
+    axis, we quantified coupling as the cosine similarity between the individual’s
+    aligned functional-gradient values and the corresponding aligned structural-gradient
+    values across vertices belonging to that network, and modelled age effects using
+    GAMMs (Supplementary Fig. 10a). To characterize network-level shifts in the structural
+    gradients themselves, we computed the within-network centroid (mean) of the aligned
+    structural-gradient values for each axis and fitted GAMMs to these trajectories
+    versus age (Supplementary Fig. 10b). To examine how cortical microstructure relates
+    to the principal functional hierarchy, we quantified individual-level coupling
+    between the SA axis and multiple microstructural indices. For each individual,
+    vertex-wise microstructural maps were correlated with that individual’s SA axis
+    values using Pearson correlation across cortical vertices, excluding the medial
+    wall. This yielded one SA–metric coupling score per individual and metric. Developmental
+    trajectories of SA–metric coupling were then modelled as a function of age using
+    GAMMs with a random intercept for cohort, as described below. Gradient measures
+    To fully characterize how gradient architecture evolves throughout the human lifespan,
+    we use and define a number of quantitative measures of their properties. The Euclidean
+    distance between vertices in a diffusion embedding approximates the geodesic distance
+    in the underlying graph from which it was computed. Thus, the Euclidean distance
+    between vertices in our gradient embedding space approximates connectivity differentiation
+    between those vertices. To measure the global degree of FC differentiation in
+    an individual’s FC diffusion embedding, we define gradient dispersion as the mean
+    Euclidean distance between the embedding coordinate of all vertices and the centroid
+    of the embedding. For a diffusion embedding with embedding coordinates ξ i = (x
+    i , y i , z i ) for each vertex i, where x, y and z refer to the SA, VS and MR
+    gradient values, respectively, we define dispersion among N vert vertices as \({\sum
+    }_{i=1}^{{N}_{\mathrm{vert}}})\parallel {\xi }_{i}-\bar{\xi }{)\parallel }_{2}/{N}_{\mathrm{vert}}\).
+    Within-network dispersion was computed analogously for constituent vertices of
+    each of the seven resting-state networks (RSNs)40. To characterize the degree
+    of FC differentiation along each gradient axis individually, we compute gradient
+    range. We compute gradient range for each individual and each gradient using the
+    inter-vigintile range (5th percentile to 95th percentile). By using robust statistical
+    measures, we reduce the influence of noise in FC gradients on these global estimates.
+    Gradient range quantifies the degree to which FC is differentiated along a particular
+    gradient axis. Notably, gradient range is highly correlated with gradient variance
+    (median absolute deviation of gradient value) across individuals (ρ = 0.91, 0.86,
+    0.89 for the SA, VS and MR axes, respectively), indicating consistent range in
+    the diffusion embedding axes before scaling by eigenvalue. The topographic alignment
+    between individual'
+  difficulty_constant: 12.5
+  question_type: Use of English
+  questions:
+  - answer: A
+    explanation: 文章第一句明确指出研究对象是从五个影像数据库中挑选出来的，故选selected。
+    options:
+      A: selected
+      B: eliminated
+      C: restricted
+      D: transformed
+    q_number: 1
+    stem: The individuals in the study were _____ from five imaging datasets to ensure
+      a comprehensive lifespan coverage.
+  - answer: D
+    explanation: 根据上下文，为了提高数据完整性，必须排除有问题的数据，故选exclude。
+    options:
+      A: maintain
+      B: replicate
+      C: incorporate
+      D: exclude
+    q_number: 2
+    stem: Quality control was performed to _____ problematic gradients from the main
+      analysis to improve data integrity.
+  - answer: C
+    explanation: 在学术研究的伦理部分，研究必须获得（obtained）知情同意。
+    options:
+      A: denied
+      B: ignored
+      C: obtained
+      D: violated
+    q_number: 3
+    stem: Each contributing study received ethics approval from its local institutional
+      review board and _____ informed consent.
+  - answer: C
+    explanation: 高通滤波的目的是去除（remove）缓慢的信号漂移。
+    options:
+      A: amplify
+      B: enhance
+      C: remove
+      D: duplicate
+    q_number: 4
+    stem: We denoised the fMRI data by high-pass filtering to _____ slow signal drift
+      before further analysis.
+  - answer: C
+    explanation: 因为预处理失败，所以这些参与者必须被剔除（exclusion）。
+    options:
+      A: inclusion
+      B: approval
+      C: exclusion
+      D: selection
+    q_number: 5
+    stem: Preprocessing-related failures led to the _____ of 88 HCP-YA participants
+      from the final sample.
+  - answer: A
+    explanation: 索引是计算（computed）出来的。
+    options:
+      A: computed
+      B: abandoned
+      C: disregarded
+      D: overlooked
+    q_number: 6
+    stem: The structural and diffusion indices were _____ in the same manner for all
+      cohorts to maintain consistency.
+  - answer: B
+    explanation: 为了建立坐标系，必须使用（used）图谱。
+    options:
+      A: avoided
+      B: used
+      C: neglected
+      D: rejected
+    q_number: 7
+    stem: To establish a consistent coordinate system, we _____ in-house lifespan
+      surface atlases.
+  - answer: A
+    explanation: 皮层表面被映射（mapped）到单位球面上。
+    options:
+      A: mapped
+      B: deleted
+      C: erased
+      D: hidden
+    q_number: 8
+    stem: Cortical surfaces were _____ onto a unit sphere for the purpose of registration.
+  - answer: D
+    explanation: 对应关系被传播（propagated）到其他表面。
+    options:
+      A: retracted
+      B: blocked
+      C: withdrawn
+      D: propagated
+    q_number: 9
+    stem: The vertex-wise correspondence was then _____ to the white and pial surfaces.
+  - answer: C
+    explanation: 为了分析，扫描数据按照时间点进行分组（grouped）。
+    options:
+      A: scattered
+      B: separated
+      C: grouped
+      D: isolated
+    q_number: 10
+    stem: For individuals with repeated scans, acquisitions were _____ by time point.
+  - answer: B
+    explanation: 我们将矩阵经受（subjected）阈值处理。
+    options:
+      A: protected
+      B: subjected
+      C: exempted
+      D: prevented
+    q_number: 11
+    stem: We _____ each mean FC matrix to row-wise thresholding.
+  - answer: B
+    explanation: 加权策略旨在减轻（mitigates）采样不平衡。
+    options:
+      A: exacerbates
+      B: mitigates
+      C: ignores
+      D: worsens
+    q_number: 12
+    stem: Our weighting strategy _____ sampling imbalances across different age bins.
+  - answer: B
+    explanation: 这是在模板嵌入（embedding）空间内进行对齐。
+    options:
+      A: disordered
+      B: embedding
+      C: chaotic
+      D: isolated
+    q_number: 13
+    stem: We aligned the gradient sets to this template _____ space using one-shot
+      Procrustes alignment.
+  - answer: A
+    explanation: 研究这些指标是为了评估（assess）结构与功能的耦合。
+    options:
+      A: assess
+      B: conceal
+      C: distort
+      D: obfuscate
+    q_number: 14
+    stem: Structural features included 11 measures to _____ structure-function coupling.
+  - answer: A
+    explanation: 根据上下文，我们构建（constructed）了一个矩阵。
+    options:
+      A: constructed
+      B: dismantled
+      C: destroyed
+      D: abandoned
+    q_number: 15
+    stem: We _____ a structural affinity matrix using pairwise Pearson correlation.
+  - answer: B
+    explanation: 我们将矩阵作为输入来使用（used）。
+    options:
+      A: forbid
+      B: used
+      C: misused
+      D: discarded
+    q_number: 16
+    stem: After setting negative correlations to zero, we _____ this affinity matrix
+      as input to the algorithm.
+  - answer: D
+    explanation: 我们量化了结构梯度中的网络级变化（shifts）。
+    options:
+      A: halts
+      B: stagnations
+      C: freezes
+      D: shifts
+    q_number: 17
+    stem: We characterized the network-level _____ in the structural gradients themselves.
+  - answer: C
+    explanation: 欧几里得距离近似（approximates）测地距离。
+    options:
+      A: diverges
+      B: contradicts
+      C: approximates
+      D: opposes
+    q_number: 18
+    stem: The Euclidean distance _____ the geodesic distance in the underlying graph.
+  - answer: D
+    explanation: 梯度范围量化（quantifies）了分化程度。
+    options:
+      A: obscures
+      B: misinterprets
+      C: hides
+      D: quantifies
+    q_number: 19
+    stem: Gradient range _____ the degree to which FC is differentiated along a particular
+      axis.
+  - answer: D
+    explanation: 使用稳健的（robust）统计测量方法可以减少噪声的影响。
+    options:
+      A: unreliable
+      B: flawed
+      C: biased
+      D: robust
+    q_number: 20
+    stem: By using _____ statistical measures, we reduce the influence of noise.
+  source_journal: Nature
+  title: Functional hierarchy of the human neocortex across the lifespan
+- article_update_date: 03.28.2026
+  body_text: 'China’s government both drives and constrains the rise of AI China |
+    Chaguan China’s government both drives and constrains the rise of AI Officials
+    want to lead the world in the new technology, but are still wary of disruption
+    March 26th 2026 It can seem as if artificial intelligence is suddenly everywhere
+    in China. From banking to shopping and maps to ride-hailing, almost all major
+    Chinese mobile apps now offer ai chatbots. Universities are creating courses in
+    ai. To shop for a toilet seat is to learn of ai-enhanced options that monitor
+    urine quality. To order yogurt from an upscale chain involves scanning your face
+    so that its ai model can tailor its fermented product to your needs. Of course,
+    ai is not actually everywhere. But this being China, a country that loves presenting
+    positive data, the government will tell you exactly how far it has got: by 2025,
+    42.8% of the country had “adopted” generative ai, double the share a year earlier.
+    At this rate China will hit its target of a 90% ai “penetration rate” by 2030.
+    Never mind the precise meanings of adoption or penetration. The questionable statistic
+    itself is a small emblem of China’s ai story: the state’s hands-on role in pushing
+    the technology. Ever since China’s “ DeepSeek moment ” last year, when an unknown
+    startup shocked the world by exhibiting advanced capabilities at a fraction of
+    the cost of Western competitors, attention has focused on the race to build the
+    best ai models. But the more important question may be which country is better
+    at applying ai, not just developing it. China has several things in its favour:
+    open-source models that are cheap and customisable; a manufacturing base with
+    a head start in weaving ai into physical products; and a deep pool of researchers
+    working on the technology. Ultimately, though, the factor that most differentiates
+    China from America is its strong state. Much as DeepSeek alerted the world to
+    China’s prowess, China had experienced its own awakening in 2017 when Google DeepMind’s
+    AlphaGo beat a leading Go master at the board game. A few months later China published
+    its first national ai-development plan. It is now moving from research to application.
+    Last year the government launched an “ai Plus” initiative to promote it in sectors
+    from health care to energy. Of China’s 700bn yuan ($100bn) of capital spending
+    on ai last year, estimates suggest the government accounted for about 60%. But
+    the state’s leading role is not an unambiguous advantage. As soon as the government
+    creates targets, there is a showy element. Officials seek to vaunt their achievements.
+    Chaguan recently visited Yizhuang, a tech hub in Beijing developing “embodied
+    ai”—integrating ai into robots. An industrial park features a restaurant with
+    automated waiters and robot performances. At one point a small robo-triceratops
+    glided along the floor, coyly sidling up to patrons. All very impressive, until
+    Chaguan spotted the man operating the creature with a video-game controller behind
+    his back. Another staff member sheepishly admitted there were no robots in the
+    kitchen. “They still can’t cook well,” he said. These rough edges are a reality
+    check about China’s deployment of embodied ai. The best-known examples are the
+    humanoid robots that performed kung fu during the lunar-new-year gala on television,
+    wowing hundreds of millions of viewers. But getting robots to perform a set routine,
+    however elaborate, is not the same as getting them to move around unpredictable
+    environments on their own. An executive with a big Chinese tech firm says that,
+    at their core, the robots are finicky devices which are liable to overheat and
+    wear down. China’s infamous “996” working culture—9am to 9pm, six days a week—might
+    overwhelm them. Though the government has embraced ai, it remains conservative
+    in some areas—reassuringly so for those who fret about the technology. In recent
+    weeks a mini-craze swept China as thousands installed OpenClaw, an ai assistant,
+    on their laptops. Unlike ai software that requires prompts, OpenClaw runs autonomously,
+    handling tasks such as replying to emails. But officials swiftly restricted its
+    use in state-owned firms and government work, fearful that it could expose sensitive
+    information—a conclusion that some large Western firms have also reached. Chinese
+    officials are worried, too, about jobs. When the government launched its ai Plus
+    initiative it specified that it wanted to steer resources to where labour is scarce
+    and working conditions hazardous. In a meeting with tech executives a senior leader
+    had reacted with alarm to suggestions that ai might lead to mass layoffs, according
+    to someone briefed on the interaction. His message was to avoid disruption in
+    the labour market. In another way China’s strong state may also impede ai’s spread.
+    A fifth of the country’s workforce is employed in the public sector and state-owned
+    enterprises, which are notoriously slow to adopt new digital technologies. Again,
+    hitting mandated targets can overwhelm the business aim of seeking profits. Following
+    the release of the DeepSeek model, state firms and government agencies were instructed
+    to harness its power. Jeffrey Ding of George Washington University says that many
+    opted for an easy solution: they installed stand-alone machines, separate from
+    their operations. “People used it for a quick pr win. It wasn’t sustainable integration,”
+    he says. Indeed, the bigger contribution of the state may be in less glamorous
+    policies, not in unleashing humanoids on the world. On March 13th the Communist
+    Party announced its latest five-year plan, making ai the centrepiece. The plan
+    calls for building high-quality datasets for sectors such as transport and health
+    care. That is a “big deal”, says Kendra Schaefer of Trivium China, a consultancy,
+    because the Chinese state sits on a huge reservoir of data. Granting access to
+    domestic ai firms could give them an edge over foreign competitors. Yet that is
+    a far cry from a country going full-bore on ai in all directions at once. Like
+    most of the world, China believes that its future is bound to ai. But the state’s
+    caution may matter as much as its enthusiasm. ■ Subscribers to The Economist can
+    sign up to our Opinion newsletter , which brings together the best of our leaders,
+    columns, guest essays and reader correspondence. This article was downloaded by
+    zlibrary from https://www.economist.com//china/2026/03/24/chinas-government-both-drives-and-constrains-the-rise-of-ai'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章在提到Yizhuang的机器人时，揭露了其背后由人工操控的真相，以此说明政府推动的AI目标往往带有“showy element”（表演性质），即为了完成指标而进行表面展示，故B项正确。
+    options:
+      A: China's embodied AI technology has achieved international excellence.
+      B: official targets can lead to superficial demonstrations of AI progress.
+      C: robot-assisted hospitality is becoming a standard feature in tech hubs.
+      D: humanoid robots are proving more reliable than expected in complex tasks.
+    q_number: 1
+    stem: The author cites the example of the robo-triceratops in Yizhuang to illustrate
+      that ________.
+  - answer: A
+    explanation: 文章明确提到政府限制OpenClaw在国有企业和政府机构中的使用，是因为担心它会泄露敏感信息（expose sensitive information），这与西方大公司的担忧一致。
+    options:
+      A: The potential threat of data leakage in sensitive sectors.
+      B: The high operational cost of maintaining such software.
+      C: The lack of compatibility with existing state-owned infrastructure.
+      D: The public's inability to understand complex prompt engineering.
+    q_number: 2
+    stem: According to the text, what is the core concern Chinese officials have regarding
+      autonomous AI tools like OpenClaw?
+  - answer: C
+    explanation: “a far cry from”意为“远非”、“大不相同”。文中用此词指出，虽然国家在大力布局AI，但这与“全面铺开、毫无节制地推进AI”还有很大距离，强调了国家在推进过程中的审慎态度。
+    options:
+      A: A significant leap forward that exceeds original expectations.
+      B: A strategic shift that aligns with global market trends.
+      C: A substantial difference from the notion of unrestrained, total deployment.
+      D: A regrettable failure to capitalize on technological advantages.
+    q_number: 3
+    stem: What does the phrase “a far cry from” in the context of the concluding paragraphs
+      imply?
+  - answer: C
+    explanation: 文章最后指出，国家真正的贡献可能在于“less glamorous policies”（不那么引人注目的政策），即通过五年计划构建高质量数据集，利用其掌握的巨大数据储备为本土AI企业提供优势。
+    options:
+      A: The creation of eye-catching humanoid robot spectacles.
+      B: The mandate to force private tech firms to meet penetration quotas.
+      C: The provision of massive datasets for specific industrial sectors.
+      D: The immediate implementation of universal labor-replacement AI.
+    q_number: 4
+    stem: The author suggests that the Chinese government's biggest potential contribution
+      to AI lies in ________.
+  - answer: B
+    explanation: 文章标题“drives and constrains”（驱动与制约）精准概括了全文主旨，即政府既通过资本和政策推动AI发展，又因担忧失业、安全及体制惯性而对新技术实施约束。
+    options:
+      A: China's AI progress is entirely hollow and reliant on Western open-source
+        models.
+      B: The government acts as both an engine for innovation and a regulator of disruption.
+      C: The focus on state-owned enterprises ensures a stable and sustainable AI
+        ecosystem.
+      D: China will inevitably surpass America because of its centralized control
+        system.
+    q_number: 5
+    stem: Which of the following best summarizes the author's view on China's AI development?
+  source_journal: Economist
+  title: China’s government both drives and constrains the rise of AI
+- article_update_date: 03.26.2026
+  body_text: 'A Grammy-winning South African composer who wrote and performed the
+    opening chant in Circle of Life for Disney’s The Lion King is suing a comedian
+    for allegedly damaging his reputation by intentionally misrepresenting the song’s
+    meaning on a podcast and in his standup routine. Lebohang Morake’s lawsuit accuses
+    the Zimbabwean comedian Learnmore Mwanyenyeka, known as Learnmore Jonasi, of intentionally
+    mistranslating the chant, which launches the 1994 movie and is central to staged
+    versions as well as Disney’s 2019 remake. The dispute, which has gone viral as
+    the two men challenge each other on social media, stems from statements Jonasi
+    made in his standup routines and in a podcast interview, when he translated the
+    song’s lyrics from Zulu and Xhosa, two of South Africa’s 12 national languages.
+    The lawsuit was filed this month in federal court in Los Angeles, where Morake,
+    who performs as Lebo M, lives and where Jonasi has performed. It accuses Jonasi
+    of intentionally mocking “the chant’s cultural significance with exaggerated imitations”.
+    Disney’s official translation of the opening phrase “Nants’ingonyama bagithi Baba”
+    is: “All hail the king, we all bow in the presence of the king.” “Hay! baba, sizongqoba,”
+    the chant continues. It translates to “through you we will emerge victoriously”,
+    according to Morake. The lawsuit cites an episode of the podcast One54, whose
+    Nigerian hosts sing the chant with incoherent and incorrect words. Jonasi corrects
+    them, saying: “That’s not how you sing it, don’t mess up our language like that.”
+    He then sings the correct lyrics in Zulu. When asked, he says they translate to:
+    “Look, there’s a lion. Oh my god.” The hosts burst out laughing, saying they thought
+    the chant was something more “beautiful and majestic”. Circle of Life, with music
+    by Elton John and English-language lyrics by Tim Rice, came up in the broader
+    context of Jonasi’s critique of The Lion King franchise as profiting off of simplistic
+    narratives about the African continent for non-African audiences. “The lions had
+    American accents in Africa, and then you had the monkey with an accent,” Jonasi
+    said. Morake’s lawyers acknowledged in the complaint that “ingonyama” can literally
+    translate to “lion” but say it’s used in the song as a royal metaphor, adding
+    that Jonasi had intentionally misrepresented “an African vocal proclamation grounded
+    in South African tradition”. The lawsuit says Jonasi “received a standing ovation”
+    for a similar joke he made about the song during a 12 March performance in Los
+    Angeles. Such viral statements, it says, are interfering with Morake’s business
+    relationships with Disney and his income from royalties, causing more than US$20m
+    in actual damages. The lawsuit also seeks US$7m in punitive damages. Disney didn’t
+    respond to an emailed request from Associated Press for comment on Monday night.
+    The Guardian also reached out for comment. The complaint argues that Jonasi presented
+    his translation “as authoritative fact, not comedy” so it shouldn’t get the first
+    amendment protections afforded to parody and satire that make fun of other artistic
+    works. Jonasi doesn’t have an attorney publicly listed for the case, and a representative
+    didn’t respond to an emailed request for comment on Monday night, but the comedian
+    offered some thoughts in a video posted last week as he continues his US tour.
+    He said he was a “big fan” of Morake’s work and loves the song. When he learned
+    that Morake was upset, he said, he wanted to create a video with the composer
+    explaining the chant’s deeper meaning. “Comedy always has a way of starting conversation,”
+    Jonasi said in a video he posted on Instagram, which got more than 100,000 likes.
+    “This is your chance to actually educate people, because now people are listening.”
+    But Jonasi said he had changed his mind about collaborating with Morake when he
+    said the composer called him “self-hating” as they exchanged messages. He said
+    Morake’s reaction ignored the rest of his work delving into a more nuanced critique
+    of US renderings of African identity.'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章明确提到，Morake（Lebo M）起诉是因为他认为Jonasi故意歪曲了歌曲含义，损害了他的名声，并嘲讽了唱段的文化意义（mocking
+      “the chant’s cultural significance”）。
+    options:
+      A: Jonasi allegedly infringed upon the copyright of the song 'Circle of Life'.
+      B: Jonasi claimed that the song's lyrics were translated inaccurately by Disney.
+      C: Jonasi reportedly damaged the composer's reputation by mocking the cultural
+        significance of the chant.
+      D: Jonasi failed to attribute the correct authorship of the chant to Lebo M
+        in his performances.
+    q_number: 1
+    stem: According to the passage, what is the primary reason Lebo M initiated legal
+      action against Learnmore Jonasi?
+  - answer: B
+    explanation: 根据文中描述，诉状认为Jonasi将其翻译呈现为“权威事实，而非喜剧（as authoritative fact, not comedy）”，因此辩称其不应享受戏仿和讽刺作品享有的宪法第一修正案保护。
+    options:
+      A: As a clever form of parody protected by the First Amendment.
+      B: As an authoritative, yet factually incorrect, representation of the lyrics.
+      C: As an honest attempt to correct the misinformation provided by other podcast
+        hosts.
+      D: As a nuanced linguistic analysis intended to educate the public.
+    q_number: 2
+    stem: How does the lawsuit characterize Jonasi's translation of the chant?
+  - answer: C
+    explanation: 文章提到，Jonasi对《狮子王》系列的批判在于该系列利用“关于非洲大陆的简单叙事（simplistic narratives about
+      the African continent）”为非非洲观众牟利。
+    options:
+      A: He argues that the music industry ignores the linguistic diversity of South
+        Africa.
+      B: He feels that African languages are unfairly excluded from major Disney productions.
+      C: He contends that The Lion King franchise profits from oversimplified portrayals
+        of Africa.
+      D: He believes that the collaboration between Elton John and Lebo M was culturally
+        insensitive.
+    q_number: 3
+    stem: Which of the following best describes the broader context of Jonasi's critique?
+  - answer: B
+    explanation: Jonasi在Instagram视频中明确表示，“喜剧总是能引发对话（Comedy always has a way of starting
+      conversation）”，并认为这是一个教育大众的机会。
+    options:
+      A: He intends to settle the dispute by offering a public apology to Morake.
+      B: He views comedy as a legitimate tool to provoke public discussion and education.
+      C: He is actively seeking legal counsel to challenge the claim of US$20m in
+        damages.
+      D: He regrets making jokes about the chant because it hindered his current US
+        tour.
+    q_number: 4
+    stem: What can be inferred from Jonasi's reaction to the lawsuit?
+  - answer: B
+    explanation: 律师承认“ingonyama”字面意思是“狮子”，但指出在歌中这是一种“皇室隐喻（royal metaphor）”，以此反驳Jonasi将其简化为“看，那里有一只狮子”这种粗俗解释的不当性。
+    options:
+      A: It highlights the difference between Zulu and Xhosa interpretations of the
+        word 'lion'.
+      B: It serves to justify why the literal translation provided by Jonasi is considered
+        inappropriate.
+      C: It explains why Disney decided to keep the original African chant in the
+        movie.
+      D: It proves that Lebo M did not intend for the chant to have a religious meaning.
+    q_number: 5
+    stem: What is the significance of the phrase 'royal metaphor' as mentioned in
+      the complaint?
+  source_journal: The Guardian
+  title: Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation
+- article_update_date: 03.25.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Gregory Barber Business
+    Oct 13, 2025 7:00 AM Programming in Assembly Is Brutal, Beautiful, and Maybe Even
+    a Path to Better AI Whether your chip is running a vintage computer game or the
+    latest DeepSeek model, it’ll reward you for speaking its native language. ILLUSTRATION:
+    SAMUEL TOMSON Rollercoaster Tycoon wasn’t the most fashionable computer game out
+    there in 1999. But if you took a look beneath the pixels—the rickety rides, the
+    crowds of hungry, thirsty, barfing people (and the janitors mopping in their wake)—deep
+    down at the level of the code , you saw craftsmanship so obsessive that it bordered
+    on insane. Chris Sawyer, the game’s sole developer, wrote the whole thing in assembly.
+    Machine Readable A regular column about programming. Because if/when the machines
+    take over, we should at least speak their language. Certain programming languages,
+    like Python or Go or C++, are called “high-level” because they work sort of like
+    human language, written in commands and idioms that might fit in at a poetry slam.
+    Generally speaking, a piece of software like a compiler transforms this into what
+    the machine really reads: blocks of 1s and 0s (or maybe hex) that tell actual
+    transistors how to behave. Assembly, the lowest of the “low-level” languages,
+    has a near one-to-one correspondence with the machine’s native tongue. It’s coding
+    straight to metal. To build a complex computer game from assembly is like weaving
+    a tapestry from shedded cat fur. Why would anyone do this? I recently asked Sawyer,
+    who lives in his native Scotland. He told me that efficiency was one reason. In
+    the 1990s, the tools for high-level programming weren’t all there. Compilers were
+    terribly slow. Debuggers sucked. Sawyer could avoid them by doing his own thing
+    in x86 assembly, the lingua franca of Intel chips. We both knew that wasn’t the
+    real reason, though. The real reason was love. Before turning to roller coasters,
+    Sawyer had written another game in assembly, Transport Tycoon . It puts players
+    in charge of a city’s roads, rail stations, runways, and ports. I imagined Sawyer
+    as a model-train hobbyist—laying each stretch of track, hand-sewing artificial
+    turf, each detail a choice and a chore. To move these carefully crafted pixels
+    from bitmaps to display, Sawyer had to coax out the chip’s full potential. “ RollerCoaster
+    Tycoon only came about because I was familiar with the limits of what was possible,”
+    he told me. Working within the limits? A foreign idea, perhaps, in this age of
+    digital abundance, when calling a single function in an AI training algorithm
+    can engage a million GPUs. With assembly, you get one thing and one thing only,
+    and it is the thing you ask for—even, as many a coder has learned the hard way,
+    if it is wrong. Assembly is brutal and beautiful that way. It requires you to
+    say exactly what you mean. I’ve done assembly’s creators a disservice. They wanted
+    things to be easier, not harder. I imagine they were tired of loading up punchcards
+    and flipping switches on their steampunk leviathans. Perhaps they dreamed of a
+    world like ours, where computers can do so much with such minimal guidance. The
+    first assembly language, created in the 1940s by Kathleen Booth (though she has
+    not always gotten her due, surprise surprise), hardly resembled language. Codes
+    stood in for codes. To tell the machine to perform an operation—say, “0,0111”
+    in machine code—you’d instead employ a series of letters and symbols, which a
+    new piece of software, called an assembler, would translate into binary. Soon,
+    the commands got human-friendlier mnemonics like “MOV.” To know assembly was to
+    know the CPU itself —what it could do and, even more, what it couldn’t. A chip’s
+    physical design, how the circuits connecting the logic gates of AND and XOR are
+    actually laid, defines how it works. Its functions are pretty basic, breaking
+    down instructions into elementary steps: Fetch something from memory and put it
+    in a temporary cubby, known as a register. Decode it there. Perform some operations,
+    like comparing two values, or adding them. Ship it back off the memory. As chips
+    advanced, new dialects of assembly evolved. The code that landed the first human
+    on the moon was assembly—designed for only one chip, the Apollo 11 Guidance Computer.
+    If you want to read the leaked source code of the Furby, you’ll need fluency in
+    6502. To hack your Ti-83 calculator, you’ll need z80. Learning the language of
+    one chip—say, Intel’s x86—and then moving to Arm is like studying Arabic in Beirut
+    and then trying to get by in Tunis or Khartoum. Good luck. I learned x86 assembly
+    in college as a refugee from math. Where my classmates seemed to enjoy the drab
+    incantations of Java, I loved the logic game that was assembly. It was easy to
+    fail, but to fail in ways that were explainable if you looked at the circuits
+    and registers. How masterful I felt coding in the simple commands of this not-quite-language;
+    how fragile I knew that mastery to be. To say, put these bytes there—no, there,
+    at that register, in those capacitors. Remember this. Forget that. To grind away,
+    painting each figurine, one by one. It’s true that there’s no longer much point
+    in using assembly in the day-to-day work of coding. High-level languages are so
+    efficient that their abstraction is almost always preferable. Even assembly’s
+    inventor moved on to other ventures; one of Booth’s final papers, in the 1990s,
+    used neural networks to match seals with their barks. Sawyer switched over too.
+    He’s been dabbling in home automation recently—lights, temperature sensors, sound
+    systems, and the like, coded on Raspberry Pis using Python, which he initially
+    found “quite off-putting,” he told me. But even on that tiny processor, it gets
+    the job done just fine. Then along comes something like DeepSeek to remind you
+    that humans can still communicate better with our hardware. Earlier this year,
+    the Chinese company that made these incredibly efficient AI models upended the
+    narrative that AI advancement can come only from more chips and more energy. Assembly
+    was one surprising reason. DeepSeek’s engineers reached into the subfloor of Nvidia’s
+    chips , commanding each individual machine to compress data from 32 bits to 8
+    bits—sacrificing precision for efficiency—at precisely the right moments. Observers
+    were stunned. You could do that? The DeepSeek engineers had tapped an art most
+    others had forgotten. I was similarly taken when, in 2023, researchers at DeepMind
+    taught a machine x86 assembly, then asked it to improve on the long-standing sort()
+    function in C. The AI made strange, unintuitive choices, performing odd jumps
+    between registers, and in the end cut precisely one step. A fraction of a millisecond
+    saved, perhaps. But happening countless times a day, now that the new algorithm
+    has been officially adopted. To me, it was a reminder that we humans created these
+    machines, and even as they appear to spiral into complexity beyond our comprehension,
+    they remain under our command. We can always make them work better. It was like
+    what Sawyer said when he recounted his recent Raspberry Pi–enabled home coding
+    experiment. It was probably just his imagination, but the display had been a little
+    laggy, he thought. He’d redo the code if he could, he said. But alas, Sawyer and
+    the machine did not speak the same assembly language. This article was downloaded
+    by calibre from https://www.wired.com/story/programming-assembly-artificial-intelligence/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: The text explicitly states that Sawyer chose assembly for its efficiency
+      and because he was deeply familiar with the limits of what was possible, allowing
+      him to coax out the chip's full potential. Option D is incorrect because high-level
+      languages existed, just with poor tools.
+    options:
+      A: He wanted to showcase his mastery of human-friendly programming languages.
+      B: It was the only way to ensure the game would be compatible with modern AI
+        models.
+      C: He aimed to maximize efficiency and exercise precise control over hardware
+        limits.
+      D: He was forced to use it because high-level languages were not invented yet
+        in the 1990s.
+    q_number: 1
+    stem: According to the passage, why did Chris Sawyer choose to write RollerCoaster
+      Tycoon in assembly?
+  - answer: B
+    explanation: The metaphor of 'weaving a tapestry from shedded cat fur' illustrates
+      the tedious, fine-grained, and difficult nature of writing assembly code, matching
+      the description of 'grinding away, painting each figurine, one by one'.
+    options:
+      A: inherently creative and highly rewarding.
+      B: labor-intensive and extremely meticulous.
+      C: outdated and environmentally unfriendly.
+      D: superficial and easily automated by AI.
+    q_number: 2
+    stem: The author compares programming in assembly to 'weaving a tapestry from
+      shedded cat fur' to emphasize that the process is ______.
+  - answer: B
+    explanation: The text notes that DeepSeek engineers reached into the subfloor
+      of chips to compress data, sacrificing precision for efficiency, which stunned
+      observers and upended the narrative that AI advancement only comes from more
+      chips and energy.
+    options:
+      A: They used it to bypass the need for any high-level neural network architecture.
+      B: They demonstrated that sacrificing precision for efficiency can lead to breakthrough
+        performance.
+      C: They proved that assembly is the only language capable of training modern
+        GPUs.
+      D: They utilized it to eliminate the need for Nvidia hardware in AI development.
+    q_number: 3
+    stem: What is the primary significance of the DeepSeek engineers' use of assembly
+      in their AI models?
+  - answer: D
+    explanation: The author concludes that despite complexity, machines remain under
+      human command, and that humans can always make them work better by understanding
+      the machine's 'native language,' as exemplified by the DeepMind sorting algorithm
+      improvement.
+    options:
+      A: Machines have become too complex for humans to command effectively.
+      B: Humans are losing the ability to understand how machine language works.
+      C: Deep learning models will eventually make assembly language obsolete.
+      D: Humans retain the ability to optimize machine performance through direct,
+        low-level instruction.
+    q_number: 4
+    stem: What does the author suggest about the relationship between humans and machines
+      in the context of assembly?
+  - answer: B
+    explanation: The author describes assembly as 'brutal and beautiful,' 'a logic
+      game,' and highlights how he felt a sense of mastery despite its fragility,
+      reflecting a tone of profound respect mixed with an acknowledgment of its challenging
+      nature.
+    options:
+      A: Disdainful of its complexity and lack of practicality in modern coding.
+      B: Nostalgic, acknowledging its difficulty while respecting its precision and
+        beauty.
+      C: Indifferent, viewing it merely as a primitive tool replaced by superior technology.
+      D: Skeptical, doubting its relevance to the future of AI development.
+    q_number: 5
+    stem: Which of the following best captures the author's attitude toward assembly
+      language?
+  source_journal: Wired
+  title: Chapter 32
