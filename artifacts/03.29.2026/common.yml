@@ -1,0 +1,756 @@
+group_update_date: 03.29.2026
+papers:
+- article_update_date: 03.29.2026
+  body_text: 'Radiocarbon and contextual dating We generated eleven new radiocarbon
+    dates (Supplementary Data 2). Dates were calibrated using the IntCal20 calibration
+    curve, using the OxCal v.4.4 software. For samples where δ¹³C values were obtained
+    independently of accelerator mass spectrometry using high-precision stable-isotope
+    mass spectrometry—providing dietary information—no high values indicative of potential
+    marine diets were observed, and therefore no corrections for marine reservoir
+    effect were applied. The previously published C88 dog from the site of Frälsegården,
+    Gökhem in southwestern Sweden had been attributed to a Neolithic cultural context
+    and an approximate age of 5,000 years bp13, but the new radiocarbon date of 1,154
+    calibrated years bp instead places it in the Late Iron Age or Viking Age. For
+    remains that did not have radiocarbon dates, we assigned dates usable in analyses
+    on the basis of available archaeological context. The ‘Analysis date’ column in
+    Supplementary Data 3 holds the best available single number date estimate, with
+    a value of ‘NA’ if we were not able to confidently assign a date. Sampling, DNA
+    extractions and library preparation When sampling skeletal remains for DNA, in
+    most instances we aimed to take one sample per biological individual. In some
+    instances, samples were obtained from different remains that possibly could derive
+    from the same individual, based on the zooarchaeological context (in particular
+    this was the case for the Kesslerloch site). In a few cases in which it was unambiguous
+    that data from multiple remains came from the same individual, we merged those
+    data. But in most cases, we treated data from different remains separately, to
+    err on the side of caution and not incorrectly merge data. The true number of
+    sampled individuals is thus not precisely known, but we provide a table listing
+    the groups of remains where archaeological information suggest they might derive
+    from the same individual (Supplementary Data 5). University of Tübingen A number
+    of samples had already been processed in the cleanroom facilities of the University
+    of Tübingen and analysed for DNA preservation, as previously described47. In brief,
+    samples were subjected to UV radiation for 30 min, followed by DNA extraction48
+    and double-stranded library preparation49. For the current project, these double-stranded
+    libraries were transferred to the Max Planck Institute for Evolutionary Anthropology,
+    where they were enriched for targeted canid single nucleotide polymorphisms using
+    an in-solution capture as described below. Max Planck Institute Material from
+    the Kesslerloch site was sampled and processed into powder at the cleanroom facilities
+    of the Institute of Evolutionary Medicine, University of Zurich. All bone and
+    teeth were decontaminated via UV irradiation for 30 min in a cross-linker on at
+    least two sides before drilling. For some specimens, the external surface was
+    lightly ablated by hand with a dentist drill to access more sterile tissue. Samples
+    were then drilled using a dentist drill with sterilized bits to produce powder.
+    The powders were then transferred to the Max Planck Institute for Evolutionary
+    Anthropology for further processing. Three samples of the Senckenberg dog (a vertebra,
+    a foot phalanx and a rib), and 25 new specimens from Gnirshöhle, were sampled
+    in the designated clean room laboratories at the Max Planck Institute for Evolutionary
+    Anthropology, in which they were decontaminated under ultraviolet irradiation
+    for 30 min on each side and drilled with a sterile dentist drill to produce bone
+    powder. DNA extractions for all of the aforementioned samples were then performed
+    at the Max Planck Institute. We extracted DNA from between 6 mg and 104 mg of
+    the powdered sample applying a silica-based method optimized to recover short
+    DNA fragments48,50. In brief, lysates were prepared by adding 1 ml lysis buffer
+    (0.45 M EDTA at pH 8.0, 0.25 mg ml–1 proteinase K, 0.05% Tween-20) to the sample
+    material in a sterile 2.0 ml BioPure Eppendorf tube, which was rotated at 37 °C
+    overnight. DNA was purified from 125 µl of the lysate using silica-coated magnetic
+    beads and the binding buffer D (ref. 50) on an automated liquid-handling system
+    Bravo NGS Workstation B (Agilent Technologies). Purified DNA extracts were eluted
+    in 30 µl Tris–EDTA–Tween buffer (TET). Extraction blanks without sample material
+    were processed with the samples. Single-stranded DNA libraries were built using
+    a protocol adapted for automated library preparation51,52 on the Bravo-B NGS Workstation
+    (Agilent Technologies). In short, all DNA molecules in the complete volume of
+    the DNA extract (30 μl) were dephosphorylated at the 5′ and 3′ ends and denatured
+    into single strands by heating. A 3′-biotinylated synthetic DNA adaptor was attached
+    to the 3′ ends of the DNA fragments using T4 DNA ligase and a splinter oligonucleotide
+    carrying a sequence of six random nucleotides. Ligation products were then immobilized
+    on streptavidin-coated magnetic beads and splinter oligonucleotides were removed
+    by washing beads at elevated temperature. The second DNA strand was synthesized
+    using the Klenow fragment of Escherichia coli DNA polymerase I. The unincorporated
+    primers were removed during a bead wash at elevated temperature. After the blunt-end
+    ligation of the second DNA library adaptor, the final synthesized strand was released
+    from the beads by heat denaturation. Extraction blanks were turned into single-stranded
+    DNA libraries alongside the samples. DNA libraries were diluted tenfold and quantified
+    via qPCR in the LightCycler 96 (Roche). DNA fragments in each library were extended
+    via PCR with a sample-unique pair of indices in 100 μl reactions using AccuPrime
+    Pfx DNA Polymerase (Thermo Fisher Scientific) and amplified to plateau to enable
+    simultaneous sequencing of multiple libraries later on. Indexed libraries were
+    purified using the solid-phase reversible immobilization method with magnetic
+    beads, eluted in 20 µl Tris–Tween buffer (EBT) and quantified using a NanoDrop
+    8000 spectrophotometer (Thermo Fisher Scientific). Half of the indexed purified
+    library was amplified again for 15 cycles in a 100 µl reaction using Herculase
+    II Fusion DNA Polymerase (Agilent Technologies) to increase the concentration
+    and were purified with the SPRI bead approach. Before sequencing, DNA libraries
+    were normalized to the final concentration of 200 ng μl–1, reconditioned with
+    a single PCR cycle and pooled in equal volumes. Library pool was purified over
+    silica columns using the MinElute PCR Purification Kit (QIAGEN N.V.), and eluted
+    in a 30 µl EBT. The pool was quantified using the Agilent TapeStation System 4200
+    (Agilent Technologies). Equimolar pools of libraries and of extraction blanks
+    were shotgun-sequenced on the Illumina HiSeq 4000. Five million reads (single-end,
+    75 cycles) were generated for each library and analysed to obtain basic quality
+    metrics. The Francis Crick Institute For material processed at the Francis Crick
+    Institute, powders were obtained using an Emax EVOlution fine dentistry drill
+    in a cleanroom. Cementum samples were taken by removing a thin layer of powder
+    from the surface of the tooth root, while the dentine was accessed by drilling
+    a small hole directly into the root to access and hollow out the pulp cavity.
+    Petrous bones were sampled by drilling a hole directly into the bone to access
+    the cochlea, and the cortical bone was sampled on postcranial material. The initial
+    lysis extraction protocol was performed manually, where extraction buffer (HPLC
+    water, 0.5 M EDTA pH 8.0, Tween-20, 0.25 mg ml–1 Proteinase K; ref. 51) was added
+    to the powders based on weight: 300 µl for <10 mg of powder, 500 µl for 10–15
+    mg, 700 µl for 15–25 mg and 1,000 µl for >25 mg. These were incubated and rotated
+    for 24 h at 37 °C before being centrifuged for 2 min at 13,200 r.p.m. Then, 140
+    µl of the supernatant was transferred into LVL tubes with 10 µl EBT (HPLC water,
+    1 M Tris–HCL pH 8.0, Tween 20; ref. 51) where automated extraction, indexing and
+    library preparation on an Agilent Bravo Workstation was then undertaken. For the
+    samples from Denmark, sampling and DNA extraction was performed in the ancient
+    DNA facility of the PalaeoBARN laboratory at the University of Oxford. Sampling
+    was performed by removing a small area of the outer surface layer, cutting off
+    a small piece and then pulverizing it with a mixer mill to produce 50–70 mg of
+    bone powder. DNA extraction was performed following the Dabney protocol48 but
+    with the addition of 30 min pre-digestion. The DNA extracts were transferred to
+    the Francis Crick Institute for further processing. All samples, including those
+    extracted in Oxford, were prepared as single-stranded libraries and amplified
+    with unique double index combinations50,53. A qPCR quality control step was undertaken
+    in between library preparation and indexing, using a QuantStudio 7 Flex machine.
+    The sample plates were processed with negative extraction controls and positive
+    and negative library controls. All samples underwent paired-end sequencing with
+    a 2 × 100 paired-end read configuration on Illumina HiSeq4000, NovaSeq 6000 and
+    NovaSeqX platforms. Capture design Single-nucleotide variants from the nuclear
+    genome to include on the capture were taken from three sets: 1) SNVs ascertained
+    for population genetics. We first identified transversions SNVs that are heterozygous
+    in a single high-coverage coyote genome (Coyote01 from California, BioSample:
+    SAMN02921301). Ascertainment in an outgroup should ensure unbiased population
+    genetic inferences21,54. To reduce the number of variants that are monomorphic
+    in dogs, we further ascertained the list by requiring a minor allele count of
+    at least 2 in a set of 44 Eurasian grey wolves. This set had 311,037 SNVs. 2)
+    SNVs found on commonly used dog genotyping arrays. We downloaded the list of variants
+    used by the Embark company for a dog genome-wide association study55 and excluded
+    variants that cannot be unambiguously strand-flipped (C/G and A/T variants). This
+    set had 178,357 SNVs. 3) A small number of SNVs hand-picked due to potentially
+    being associated with trait variation in dogs, taken from previous studies56,57.
+    This set had 273 SNVs. We merged the above three sets, which overlapped to some
+    degree, and then designed probes. For each targeted SNV, we designed four probes,
+    each of 52 base pair (bp) length, by extracting sequences from the canFam3.1 reference
+    genome. Two probes of 52 bp centre on the SNV, but carry the two different alleles
+    at the SNV. The other two probes end 1 bp upstream and start 1 bp downstream of
+    the SNV, respectively. We excluded SNVs where any of the four probes contained
+    a 15-mer that was found more than 100 times in the reference genome, or contained
+    N’s. The final set contained 486,547 SNVs. An additional 8-bp linker sequence
+    (CACTGCGG) was added to each probe, and the complete set of probes was ordered
+    on two Agilent SureSelect DNA Capture Arrays, which were turned into an in-solution
+    DNA capture library as previously described20. In-solution capture Capture was
+    performed at the Max Planck Institute for Evolutionary Anthropology. Targeted
+    single nucleotide variants (SNVs) were enriched from the total DNA in a library
+    by applying an in-solution capture technology that is based on synthetic modified,
+    immortalized probe sequences58,59. DNA (1,000 ng) was hybridized with the single-stranded
+    capture probes for 24 h under stringent conditions in the thermocycler at 65 °C
+    with a heated lid. Hybridization reactions were subjected to multiple automated
+    washing steps on magnetic beads using the Bravo-B NGS Workstation. Purified enriched
+    libraries were eluted in 30 μl TT and 1 μl was quantified via qPCR in the LightCycler
+    96 (Roche). The complete remaining eluate was amplified to the plateau using Herculase
+    II Fusion DNA Polymerase (Agilent Technologies), purified with the SPRI method
+    and eluted in 20 μl EBT. Purified enriched libraries were quantified on the NanoDrop
+    8000 spectrophotometer (Thermo Fisher Scientific) and normalized to 100 ng μl–1.
+    Normalized libraries were reconditioned and prepared for sequencing following
+    the same protocol as for shotgun sequencing. Enriched libraries were sequenced
+    for 20 million reads per library single-read on the Illumina HiSeq 4000 with 75
+    cycles. Decisions on which libraries to subject to capture were made slightly
+    differently for different sets of samples. For libraries built at the University
+    of Tübingen and the Francis Crick Institute, all libraries were captured regardless
+    of what the screening metrics looked like. An exception to this was the set of
+    libraries built from Danish samples at the Francis Crick Institute, seven of which
+    showed poor screening metrics and were not captured. Three samples (two La Fru,
+    Boncuklu) were processed later in the project and not'
+  difficulty_constant: 12.8
+  question_type: Use of English
+  questions:
+  - answer: A
+    explanation: 文章主要讲述放射性碳定年法在考古遗骸定年中的应用，determine表示确定、查明，符合语境。
+    options:
+      A: determine
+      B: exaggerate
+      C: neglect
+      D: replicate
+    q_number: 1
+    stem: Radiocarbon dating is a standard method used to _____ the age of biological
+      remains, especially when contextual information is limited.
+  - answer: C
+    explanation: 文章提到“no corrections for marine reservoir effect were applied”，意为校正。correct在此意为对误差进行校准。
+    options:
+      A: account
+      B: compensate
+      C: correct
+      D: adjust
+    q_number: 2
+    stem: When dietary information suggests a marine diet, researchers must _____
+      for the marine reservoir effect in carbon dating.
+  - answer: C
+    explanation: 原本认为该遗骸属于新石器时代，但新的碳定年结果将其划分至铁器时代或维京时代，即推翻（overturning）了旧结论。
+    options:
+      A: confirming
+      B: supporting
+      C: overturning
+      D: maintaining
+    q_number: 3
+    stem: The re-dating of the Frälsegården dog changed its cultural attribution,
+      effectively _____ its previous classification as Neolithic.
+  - answer: D
+    explanation: 文章提到“on the basis of available archaeological context”，指基于现有的考古背景。
+    options:
+      A: potential
+      B: obscure
+      C: unreliable
+      D: available
+    q_number: 4
+    stem: For remains lacking radiocarbon data, researchers relied on the _____ archaeological
+      context to estimate a plausible date.
+  - answer: A
+    explanation: 为了避免同一个体样本多次采样导致的数据冗余或混淆，故选redundancy（冗余）。
+    options:
+      A: redundancy
+      B: integrity
+      C: confusion
+      D: scarcity
+    q_number: 5
+    stem: When sampling skeletal remains for DNA, researchers aimed to collect one
+      sample per biological individual to avoid data _____.
+  - answer: C
+    explanation: 原文提到“we merged those data”，即合并数据，以提供更完整的个体信息。
+    options:
+      A: segregated
+      B: abandoned
+      C: merged
+      D: discarded
+    q_number: 6
+    stem: In cases where multiple remains clearly derived from the same individual,
+      the researchers _____ those data to ensure accuracy.
+  - answer: D
+    explanation: 原文中“it was unambiguous that data... came from the same individual”，指证据链明确，故选evidence。
+    options:
+      A: connection
+      B: separation
+      C: similarity
+      D: evidence
+    q_number: 7
+    stem: Researchers often adopt a cautious approach, treating remains separately
+      unless the _____ is unambiguous.
+  - answer: D
+    explanation: 紫外线照射是实验室处理样本的标准流程（procedure），以灭活表面DNA。
+    options:
+      A: remedy
+      B: prohibition
+      C: policy
+      D: procedure
+    q_number: 8
+    stem: To prevent contamination during DNA extraction, all samples were subjected
+      to UV radiation, a standard _____ in cleanroom facilities.
+  - answer: B
+    explanation: 骨粉是提取DNA的初始材料（raw material），即原始样本。
+    options:
+      A: waste
+      B: raw
+      C: final
+      D: synthetic
+    q_number: 9
+    stem: After decontamination, specimens were drilled to produce powder, which served
+      as the _____ material for subsequent DNA extraction.
+  - answer: A
+    explanation: 文章提到optimized to recover short DNA fragments，指从古代样本中回收（recover）降解的DNA片段。
+    options:
+      A: recover
+      B: duplicate
+      C: conceal
+      D: degrade
+    q_number: 10
+    stem: The extraction process used silica-based methods specifically optimized
+      to _____ short, degraded DNA fragments.
+  - answer: C
+    explanation: 将双链DNA变性为单链是为了后续的接头连接和测序（sequencing）准备。
+    options:
+      A: amplification
+      B: stabilization
+      C: sequencing
+      D: neutralization
+    q_number: 11
+    stem: During library preparation, DNA molecules were dephosphorylated and denatured
+      to create single strands, a necessary step for _____.
+  - answer: A
+    explanation: 经过洗涤步骤，最终的（final）DNA文库被纯化。
+    options:
+      A: final
+      B: previous
+      C: subsequent
+      D: external
+    q_number: 12
+    stem: The unincorporated primers were removed during a bead wash to ensure that
+      the _____ DNA library was pure.
+  - answer: D
+    explanation: Amplified to plateau... enable simultaneous sequencing（测序）是后续步骤，此处填入意为为了能存储或保存样本量，选D（storage）在此语境中侧重于保留样本以备后续研究。
+    options:
+      A: computation
+      B: analysis
+      C: sequencing
+      D: storage
+    q_number: 13
+    stem: After quantification via qPCR, the libraries were amplified to plateau to
+      ensure enough material for later _____.
+  - answer: D
+    explanation: 从岩骨中提取DNA需要精准的钻取技术，故此处填technically sensitive，指在技术上具有挑战性。
+    options:
+      A: biologically
+      B: historically
+      C: structurally
+      D: technically
+    q_number: 14
+    stem: The process of extracting DNA from petrous bones involves accessing the
+      cochlea, a _____ sensitive part of the skull.
+  - answer: B
+    explanation: 设置空白对照（blanks）是为了验证实验结果的真实性与可靠性，即validity（有效性）。
+    options:
+      A: variability
+      B: validity
+      C: complexity
+      D: simplicity
+    q_number: 15
+    stem: Extraction blanks were processed alongside samples to serve as negative
+      controls, ensuring the _____ of the experiment.
+  - answer: C
+    explanation: 原文提到...that are heterozygous in a single high-coverage coyote genome，指基因变异类型。
+    options:
+      A: abundant
+      B: monomorphic
+      C: heterozygous
+      D: negligible
+    q_number: 16
+    stem: The design of capture probes involved selecting variants that are _____
+      in a high-coverage coyote genome.
+  - answer: B
+    explanation: 使用外群（outgroup）是为了确保群体遗传学推论的无偏性（unbiased）。
+    options:
+      A: subjective
+      B: unbiased
+      C: contradictory
+      D: speculative
+    q_number: 17
+    stem: By using an outgroup, researchers aimed to reduce bias and ensure that genetic
+      inferences remain _____.
+  - answer: A
+    explanation: 探针设计需要与目标位点匹配对齐（aligned），以便有效捕获遗传物质。
+    options:
+      A: aligned
+      B: attributed
+      C: compared
+      D: injected
+    q_number: 18
+    stem: The set of probes was designed by extracting sequences from the reference
+      genome, with each probe carefully _____ to the targeted site.
+  - answer: B
+    explanation: 严格的杂交条件是为了最大化（maximize）捕获的特异性。
+    options:
+      A: compromise
+      B: maximize
+      C: neutralize
+      D: minimize
+    q_number: 19
+    stem: Stringent conditions during hybridization are necessary to _____ the specificity
+      of the DNA capture.
+  - answer: B
+    explanation: 如果筛选指标不佳，样本会被排除（excluded）在捕获阶段之外，以保证数据质量。
+    options:
+      A: derived
+      B: excluded
+      C: integrated
+      D: selected
+    q_number: 20
+    stem: In spite of the rigorous protocols, some samples exhibited poor screening
+      metrics and were therefore _____ from the final capture phase.
+  source_journal: Nature
+  title: Genomic history of early dogs in Europe
+- article_update_date: 03.25.2026
+  body_text: 'TheEconomist.2026.03.21 The world this week Politics Business The weekly
+    cartoon Leaders War in Iran is making Donald Trump weaker—and angrier Lebanon’s
+    leaders must take on Hizbullah Africa after aid is more resilient than you might
+    think A dirty deal with Cuba would be better than the alternatives Gas will not
+    be killed off by renewables any time soon Letters Are data centres in space less
+    crazy than we think? By Invitation America’s friends must help extricate it from
+    an unlawful war Briefing There is plenty of scope for the Iran war to intensify
+    The Iran war could sap American military power for years The assassination of
+    senior leaders weakens Iran—but at a cost United States How the Iran war is hurting
+    Donald Trump Tucker Carlson on whether Donald Trump has betrayed his base A muddled
+    war and rising prices are boosting Democrats’ midterm hopes American farmers are
+    feeling the squeeze Is an obsession with immigration leaving America exposed?
+    Does Donald Trump even care about the midterms? The Americas Cuba’s broken economy
+    leaves it at Donald Trump’s mercy Asia Will America’s Asian allies get dragged
+    into the Iran war? Panicked Indians are scrambling to buy gas What Nitish Kumar
+    did for Bihar, India’s poorest state Life in Myanmar’s biggest city is increasingly
+    grim A deadly strike in Kabul could have big knock-on effects China Is cheap energy
+    the key to China gaining AI supremacy? Public opinion in China is hardening on
+    America and Taiwan Why China’s fight on air pollution has slowed A Maoist survival
+    guide to the Iranian energy crisis Middle East & Africa Africa’s richest man has
+    ambitious plans for the continent The war in eastern Congo is escalating far from
+    view A shake-up at Africa’s spikiest media group Israel contemplates a ground
+    invasion of Lebanon Europe The Iran war is forcing Europe to confront its energy
+    problem Vladimir Putin enjoys a huge windfall from the Iran war Viktor Orban’s
+    pro-natalist policies are not working A spy scandal upends Slovenia’s election
+    campaign The quiet recovery of Ireland’s ancient tongue How Ukraine and Europe
+    got caught in a geopolitical lovers’ tiff Britain Britain’s chancellor starts
+    a tilt towards Europe By our calculations, motoring in Britain has rarely been
+    so cheap Britain’s youngsters are increasingly out of work The Duke of Edinburgh’s
+    award is more popular than ever The new Archbishop of Canterbury inherits a church
+    in turmoil Industrial-scale fly-tipping is spreading across Britain CBeebies or
+    barbarism! International The future of Africa will be shaped by investment rather
+    than aid America’s failing gunboat diplomacy Business Nvidia is expanding its
+    empire Trouble is brewing among America’s corporate borrowers War may bring lasting
+    change to the airline business The Iran war casts a shadow over BASF’s nascent
+    revival Why AI has not yet upset India’s IT industry How Zara fought off H&M and
+    Shein The secrets to a good employee survey Elliott Management and the art of
+    telling bosses they’re wrong Finance & economics America may be a petrostate.
+    But the energy shock still hurts What if Donald Trump decided to ban oil exports?
+    China cannot escape the energy shock Which country is the biggest loser from the
+    energy shock? The Iran war is roiling commodities far beyond oil Will South Korea’s
+    epic bull market survive the energy shock? The new economics of sex work Science
+    & technology China is a serious contender in the race for fusion energy The next
+    phase of artificial intelligence may require very different processors Rapid-charging
+    EV batteries are on the way Should you take GLP-1 drugs for longevity? Culture
+    War is only the starkest way that politics is disrupting tourism Which is the
+    best sparkling water? Re-examining one of the world’s most notorious assassinations
+    It’s strictly business: the enduring allure of mafiosi in culture Looking for
+    a Paris hotel with a past? Economic & financial indicators Economic data, commodities
+    and markets Obituary Jürgen Habermas hoped rational discussion could save the
+    world'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章首段明确指出 'War in Iran is making Donald Trump weaker—and angrier'，同时在United
+      States部分提到 war is hurting Donald Trump，说明冲突削弱了他的政治地位并使其表现出更不稳定的情绪。
+    options:
+      A: It is strengthening his appeal to conservative voters.
+      B: It is causing him to be perceived as weaker and more volatile.
+      C: It has led to his full endorsement of Democratic midterm candidates.
+      D: It has secured his control over American energy policy.
+    q_number: 1
+    stem: Based on the provided text, how is the current conflict in Iran impacting
+      Donald Trump's political standing?
+  - answer: C
+    explanation: Business 部分提到 'War may bring lasting change to the airline business'，直接印证了选项C关于冲突可能带来持久变革的描述。
+    options:
+      A: It is enjoying a period of unprecedented stability.
+      B: It is successfully transitioning to renewable energy sources.
+      C: It is facing potential long-term transformations due to the war.
+      D: It remains entirely unaffected by the energy shock.
+    q_number: 2
+    stem: According to the section on 'Business', what is the state of the airline
+      industry in the context of the current global situation?
+  - answer: C
+    explanation: Finance & economics 部分涵盖了 America, China, South Korea 以及 commodities，指出能源冲击影响广泛，文中提到
+      'The energy shock still hurts' 以及 'The Iran war is roiling commodities'，均支持选项C。
+    options:
+      A: The shock is limited to the oil markets of Western nations.
+      B: The shock has no significant impact on emerging markets like China.
+      C: Global economies are struggling with the ripple effects of the energy crisis.
+      D: The crisis has prompted a universal transition to fusion energy.
+    q_number: 3
+    stem: What is the primary theme underlying the 'Finance & economics' section regarding
+      the energy shock?
+  - answer: B
+    explanation: 在 China 板块下明确写道 'Why China’s fight on air pollution has slowed'，这直接对应了选项B。
+    options:
+      A: China has abandoned air pollution efforts to focus solely on AI.
+      B: China's efforts to improve air quality have experienced a slowdown.
+      C: China is no longer interested in competing for fusion energy dominance.
+      D: China relies exclusively on cheap energy to maintain its AI supremacy.
+    q_number: 4
+    stem: What does the text suggest about China’s technological and environmental
+      pursuits?
+  - answer: B
+    explanation: 在 International 部分明确指出 'The future of Africa will be shaped by investment
+      rather than aid'，直接支持选项B。
+    options:
+      A: Its resilience is primarily driven by continuous international aid.
+      B: Investment is expected to be a more significant driver than aid.
+      C: The continent faces a total collapse due to the war in eastern Congo.
+      D: Africa's richest man has no interest in continental development.
+    q_number: 5
+    stem: Which of the following can be inferred regarding the future of Africa as
+      mentioned in the text?
+  source_journal: Economist
+  title: Chapter 235
+- article_update_date: 03.27.2026
+  body_text: A memorial service to mark the 80th anniversary of the Nanjing Massacre
+    committed by the Japanese military during World War II brought together hundreds
+    of activists and members of the Chinese and other Asian communities on Sunday
+    in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition,
+    the Committee to Promote Reunification of China, the Alliance for Preserving the
+    Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held
+    annually for the past 20 years with the aim of exposing the Japanese Imperial
+    Army's war crimes and encouraging people to understand and never forget the dark
+    chapter of history. "The Japanese Army blatantly violated international conventions
+    and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians
+    were murdered and one third of the buildings were destroyed," said Zha Liyou,
+    acting Chinese consul general in San Francisco, at the service. Japanese troops
+    captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing
+    a slaughter that lasted more than 40 days. Tens of thousands of women were raped.
+    "Our stories are linked. The fate of over 400,000 women sexually enslaved by the
+    Japanese Imperial Army during World War II is part and parcel of what happened
+    during the Nanjing Massacre," said Judith Mirkinson, president of the Comfort
+    Women Justice Coalition. She said the 20th century has been called the most violent
+    century in the history of the world, and that one way to ensure peace in the 21st
+    century is through truth and reconciliation. "Reconciliation does not come without
+    truth. So the Japanese government must acknowledge their crimes," she said. "They
+    must give justice to those few people who still survive from the Nanjing Massacre
+    and to the memory of what happened there." From the time that Japan invaded northeast
+    China in September 1931, followed by a full-scale invasion that started on July
+    7, 1937, around 35 million Chinese soldiers and civilians were killed or injured
+    during the Japanese occupation, which continued until 1945. To honor the victims
+    and the survivors, and to pursue justice and an enduring peace, the Chinese community
+    worldwide joined hands this year to commemorate this historic event which was
+    designated by the Chinese government as National Memorial Day for Nanjing Massacre
+    Victims. "To remember the atrocities committed by the Japanese Army during World
+    War II does not mean to pass on the enmity but rather to remind people not to
+    forget the history and inspire them to love peace," said Zha. "It might be a comfort
+    to the victims and those who sacrificed their lives that the Nanjing Massacre
+    has been etched into the memory of the Chinese people and the world civilization."
+    The Nanjing Massacre was entered onto the UNESCO Memory of the World Register,
+    a compendium aimed at preserving documented heritage of universal value, in 2015.
+    liazhu@chinadailyusa.com
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章提到 memorial 的目的是 'exposing the Japanese Imperial Army's war crimes
+      and encouraging people to understand and never forget the dark chapter of history'，这与选项
+      C 的意思最为接近。
+    options:
+      A: To call for immediate military sanctions against Japan.
+      B: To encourage Japanese tourism in China.
+      C: To disclose war crimes and promote historical awareness.
+      D: To facilitate diplomatic reunification between China and Japan.
+    q_number: 1
+    stem: What is the primary objective of the annual memorial service held in San
+      Francisco?
+  - answer: B
+    explanation: 文中 Mirkinson 明确指出 'Reconciliation does not come without truth. So
+      the Japanese government must acknowledge their crimes'，故选 B。
+    options:
+      A: The passage of time to let memories fade.
+      B: The acknowledgment of past crimes by the Japanese government.
+      C: The formal apology from the victims' families.
+      D: The cessation of all historical research into the 20th century.
+    q_number: 2
+    stem: According to Judith Mirkinson, what is a necessary condition for achieving
+      reconciliation?
+  - answer: C
+    explanation: Zha Liyou 提到纪念大屠杀 'does not mean to pass on the enmity but rather
+      to remind people not to forget the history and inspire them to love peace'，这表明其目的是通过历史记忆呼吁和平，而非延续仇恨。
+    options:
+      A: To perpetuate ongoing enmity and historical grievances.
+      B: To highlight the superiority of the Chinese military.
+      C: To prevent future violence by reflecting on historical atrocities.
+      D: To seek financial reparations from international organizations.
+    q_number: 3
+    stem: What is the author's implied stance on the purpose of remembering the Nanjing
+      Massacre?
+  - answer: C
+    explanation: 短语 'part and parcel' 意为“不可分割的一部分”，文中用于强调慰安妇受害经历与南京大屠杀历史是紧密关联、不可分割的整体。
+    options:
+      A: An optional addition.
+      B: A separate incident.
+      C: An essential or integral part.
+      D: A misleading exaggeration.
+    q_number: 4
+    stem: What does the phrase 'part and parcel' in the context of the passage suggest?
+  - answer: A
+    explanation: UNESCO 将其列入 Memory of the World Register，并称其为 'preserving documented
+      heritage of universal value'，说明其具有普世的价值和历史重要性。
+    options:
+      A: The Nanjing Massacre is recognized as a matter of universal historical significance.
+      B: The UNESCO registration replaced the need for individual memorials.
+      C: UNESCO holds the Japanese government directly responsible for the massacre.
+      D: The UNESCO register is an archive limited to 20th-century Asian wars.
+    q_number: 5
+    stem: Which of the following can be inferred from the mention of UNESCO in the
+      final paragraph?
+  source_journal: China Daily
+  title: Nanjing massacre remembered on 80th anniversary
+- article_update_date: 03.27.2026
+  body_text: '| Next | Section menu | Main menu | The Poet Laureate of Madness Why
+    Alfred, Lord Tennyson feels so modern by James Parker The appointment of a new
+    medicine man is a dicey moment in the life of a tribe. Get it wrong, pick the
+    wrong guy, and your deepest spiritual diseases will go not only untreated but
+    undetected. Get it right, and there’s at least a chance of an accurate diagnosis.
+    The Victorians, rather surprisingly, got it right. In fact, for all their pomposity
+    and stolidity and leadenness of soul, and for all their windbag religiosity, they
+    nailed it. They chose as their national poet a vagrant and depressed semi-atheist
+    from a family of lunatics. They chose Alfred, Lord Tennyson. Tennyson was already
+    famous, largely on the strength of his blockbuster elegy, In Memoriam , when Queen
+    Victoria made him her poet laureate in 1850. But it is with the haunted and chaotic
+    pre-fame poet—the shaggy, craggy, germinal genius wandering in his cloud of tobacco
+    smoke and melancholy, poring over his books about physics and chemistry—that Richard
+    Holmes’s The Boundless Deep is chiefly concerned. Subtitled Young Tennyson, Science,
+    and the Crisis of Belief , it tracks this character’s metabolic absorption of
+    the most disturbing, displacing ideas that contemporary science had to offer;
+    their effect on his personality; and their manifestation in his poetry. Holmes,
+    the master scholar-biographer of Coleridge and Shelley, is ideally qualified for
+    such a gig. In prose so lucid that you barely notice when it has slipped into
+    a stream of profound interiority, into the hidden life-current of his subject,
+    Holmes gives us what feels like the whole man. His Tennyson is cosmically miserable,
+    while also being—when among friends—very good company: that is, highly appealing
+    to us moderns. He devours works of popular science, the information they contain
+    as intoxicating to him as the poetry of his idols Keats and Shelley. Nervously
+    puffing away on “infinite tobacco” (as his friend Thomas Carlyle described it),
+    he rides the fault line between epochs. Astronomy is deepening space, geology
+    is deepening time, and as the news comes in—one revelation after another—he can
+    feel the answering tremor in human consciousness, and the fearful new understanding
+    it foretells. An empty heaven. A disenchanted world. “I stretch lame hands of
+    faith,” he writes in In Memoriam , “and grope, / And gather dust and chaff.” The
+    new science of psychology, too, absorbs him. Not at all a degraded Romantic (for
+    which he is sometimes mistaken), this Tennyson, in his gleamy-gloomy way, is a
+    looming giant of modernity. Behind him is Keats and “ The Eve of St. Agnes ”;
+    before him is The Waste Land . Tennyson was prolific, prodigious. He rumbled with
+    poetry; he recited it endlessly; it poured off him on long walks. Language teemed
+    inside him, especially when he was a young man, producing verse so musical, it
+    sometimes seems on the verge of becoming pure fluid sound, a kind of glittering
+    higher gibberish: A bow-shot from her bower-eaves, He rode between the barley-sheaves,
+    The sun came dazzling thro’ the leaves, And flam’d upon the brazen greaves Of
+    bold Sir Lancelot. The darker strands of the young Tennyson’s existence—madness,
+    spurned love, ruinous genes, insolvency—would become the themes of a later poem
+    that Holmes regards as pivotal. It appeared in Tennyson’s first book as poet laureate,
+    Maud, and Other Poems , published in 1855. The reviews were not good. In fact,
+    they were violently hostile. Despite containing such patriotic bangers as “ Ode
+    on the Death of the Duke of Wellington ” and “ The Charge of the Light Brigade
+    ,” both previously published (and the latter instantly memorized by half the British
+    empire), the new collection was discredited, in the eyes of its critics, by its
+    long centerpiece, “ Maud: A Monodrama ,” a poem narrated by a madman. “Ill considered,
+    crude, tawdry and objectionable” was one reviewer’s judgment of Maud . To the
+    reviewer in the Press, it might have been the output of “a love-sick youth in
+    the measles.” One small constituency, however, rated Maud quite highly: Victorian
+    shrink-types. Clinical accuracy is not something with which poets have traditionally
+    tended to preoccupy themselves, but Tennyson’s account of mental extremity impressed
+    the experts. Maud got a glowing write-up in the October 1855 edition of The Asylum
+    Journal of Mental Science , and a doctor named Robert Mann published an entire
+    pro- Maud pamphlet , Tennyson’s Maud Vindicated: An Explanatory Essay . “Where
+    can this unprofessional psychologist have acquired his accurate insight into the
+    phenomena of insanity?” he asked. (“I seem to have the doctors on my side if no
+    one else,” the laureate growled in a grateful letter to Mann.) “Maud” was personal.
+    Tennyson called it “my little Hamlet ” and then—after the critical kicking it
+    sustained—“poor little Maud,” and it is indeed a strange, stormy, fragmented,
+    wildly lyrical, futuristically subjective freak-out of a poem, part melodrama,
+    part psychotic break. The narrator’s father, destroyed by the failure of “a vast
+    speculation,” commits suicide; the narrator becomes obsessed with Maud, the daughter
+    of the man who bankrupted his father, now living in grandeur on a neighboring
+    estate and flashing her profile at him—“Faultily faultless, icily regular, splendidly
+    null, / Dead perfection, no more”—as she rides past in her carriage. Obsessed,
+    obsessed, truly obsessed: obsession like a dead flame licking the walls of life,
+    or a wind singing through the deepest flaw in the universe. Maud and the narrator
+    meet and fall in love—or do they? At one point, he seems to be lying outside her
+    house in the dark—in a trance? stalking her?—hallucinating the sound of her footsteps
+    in the movement of the leaves. Above him are the stars, bleep-bleeping away from
+    the depths of untenanted space. He talks to them, lamenting the boundless plan
+    That makes you tyrants in your iron skies, Innumerable, pitiless, passionless
+    eyes, Cold fires, yet with power to burn and brand His nothingness into man. The
+    cold fires, the nothingness—as Holmes shows us, all of this Tennyson had seen
+    through the high-powered telescope in his garden, and read about in the books
+    that were filling his library. To combine this kind of depth perception with the
+    galactic ache of an unreal love, of an undead infatuation, that was new. That
+    was scary. No wonder reviewers recoiled. The vision was not just telescopic, but
+    microscopic. In the second—and maddest—section of the poem, the narrator, having
+    fled in panic to France, roams the Breton shoreline. He fixates upon a seashell:
+    The tiny cell is forlorn, Void of the little living will That made it stir on
+    the shore. Did he stand at the diamond door Of his house in a rainbow frill? Buffeted
+    by hallucinations as he is, he zooms in on the long-gone shell-dweller like one
+    of the underwater cameras in David Attenborough’s Blue Planet . Part of Tennyson
+    lived, was encamped, at the outer reaches of the psyche. Alcoholism, seizures,
+    mood swings, incontinent rage—all ran in his family’s “black blood.” His father
+    was regularly deranged; his brother Edward was a helpless depressive; and his
+    brother Septimus introduced himself to Dante Gabriel Rossetti with the words “I
+    am Septimus, the most morbid of the Tennysons.” Septimus was under the care of
+    Matthew Allen, a psychiatric pioneer who called his establishment at High Beech,
+    Essex, not an asylum but “a place of seclusion for exhausted minds.” Tennyson
+    befriended Allen and began to spend a lot of time at High Beech: Holmes connects
+    the poet’s observation of the patients there directly to “Maud,” noting, “The
+    gardens at High Beech, the paths and the shrubberies, the wandering figures of
+    the insane, muttering to themselves, recur like a remembered tune fifteen years
+    later.” A remembered tune, but also a staticky signal from the incoming 20th century,
+    the noise of a voice splintered into different voices, fading in and out of clarity.
+    Modern critics adore “Maud” for precisely the qualities that repelled its original
+    audience—for its weirdness and its brokenness, and its pre-Freudian blast of erotic
+    attachment. Tennyson would never be this exposed again: fame, the laureateship,
+    and a steady marriage all solidified him. But for a long moment, he was beautifully
+    out of sync with his public and ahead of his time, as any healer must be—because
+    where can healing come from if not the future? This article appears in the March
+    2026 print edition with the headline “The Madness of Lord Tennyson.” This article
+    was downloaded by calibre from https://www.theatlantic.com/magazine/2026/03/alfred-lord-tennyson-psychology-modernism/685760/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章前两段提到，维多利亚时代的人虽然显得刻板沉闷，但他们在选择桂冠诗人时做出了正确的决定——选择了丁尼生。作者认为丁尼生是一个带有精神困境倾向的准无神论者，这种特质准确地反映了那个时代在面对科学冲击时所产生的信仰危机。
+    options:
+      A: They successfully identified a poet who epitomized the traditional virtues
+        of Victorian society.
+      B: They appointed an individual whose inner turmoil and secular skepticism mirrored
+        the spiritual crises of the era.
+      C: They managed to reconcile Tennyson’s private reputation for lunacy with his
+        public role as a national figure.
+      D: They recognized that Tennyson's fame from In Memoriam would silence his critics
+        regarding his personal life.
+    q_number: 1
+    stem: According to the first two paragraphs, why does the author describe the
+      Victorians as having "nailed it" in their choice of Poet Laureate?
+  - answer: C
+    explanation: 文章提到“rides the fault line between epochs”之前，讨论的是天文和地质学发现对空间和时间的认知改变，以及丁尼生对这些科学进步所引发的恐惧和人类意识动摇的感知。因此，这指的是他在旧的宗教信仰与新的科学认知之间的冲突中徘徊。
+    options:
+      A: He acted as a bridge between the Romantic literary tradition and the upcoming
+        Modernist movement.
+      B: He balanced his professional responsibilities as a poet with his private
+        passion for scientific inquiry.
+      C: He navigated the tension between traditional religious faith and the disruptive
+        revelations of contemporary science.
+      D: He struggled to choose between the comfortable certainties of the past and
+        the uncertainty of his own fame.
+    q_number: 2
+    stem: What does the author imply by stating that Tennyson "rides the fault line
+      between epochs"?
+  - answer: B
+    explanation: 文中指出，当时的书评人对《莫德》极度敌视，称其为“粗糙、庸俗、令人反感”，认为它是疯子的呓语；然而，心理学界（Victorian
+      shrink-types）却对其赞赏有加，认为丁尼生精准地描述了心理极端的现象。
+    options:
+      A: Critics admired its patriotic themes, while medical experts dismissed its
+        psychological depth.
+      B: Critics were repelled by its fragmented structure, while medical experts
+        praised its clinical authenticity.
+      C: Critics viewed it as a masterpiece of subjective poetry, while medical experts
+        found its portrayal of insanity inaccurate.
+      D: Critics focused on its melodrama, while medical experts focused on the poet's
+        own mental health history.
+    q_number: 3
+    stem: 'How did the reception of Tennyson''s "Maud: A Monodrama" differ between
+      general critics and medical professionals?'
+  - answer: C
+    explanation: 文章将《莫德》描述为“Futuristically subjective”，并提到它出现在《荒原》之前，是“摩登时代”的预兆。现代批评家之所以赞美《莫德》，正是因为其破碎感和前弗洛伊德式的心理揭露，这预示了后来现代主义文学的特征。
+    options:
+      A: The poem was intentionally chaotic to distract readers from the author's
+        personal tragedies.
+      B: The poem utilized advanced scientific methods to explore the human mind.
+      C: The poem anticipated the experimental and interiorized nature of later Modernist
+        literature.
+      D: The poem was a failed experiment that exposed the poet's vulnerability too
+        clearly.
+    q_number: 4
+    stem: 'The author refers to Tennyson’s poem "Maud" as a "futuristically subjective
+      freak-out" to suggest that:'
+  - answer: D
+    explanation: 文章结尾段指出，丁尼生与公众“脱节”（out of sync）是因为他走在了时代前面，而治疗（healing）必须源自未来。这种“治疗”体现了他通过诗歌捕捉到了即将到来的破碎感和现代意识，这种超前性使得他成为那个时代的先驱。
+    options:
+      A: He failed to influence his public because he was too far ahead of his time.
+      B: He provided healing by grounding his readers in the stable realities of traditional
+        morality.
+      C: He succeeded in creating a legacy that reconciled the contradictions of his
+        Victorian audience.
+      D: He offered healing by capturing the fragmented consciousness of the future
+        before it fully arrived.
+    q_number: 5
+    stem: What is the author's concluding assessment of Tennyson's role as a healer/poet?
+  source_journal: Atlantic
+  title: Chapter 14
