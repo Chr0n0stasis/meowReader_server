@@ -1,0 +1,465 @@
+{
+  "group_update_date": "03.31.2026",
+  "papers": [
+    {
+      "title": "Europe’s populist right should be outvoted rather than ostracised",
+      "article_update_date": "03.29.2026",
+      "source_journal": "Economist",
+      "body_text": "Europe’s populist right should be outvoted rather than ostracised Europe | Charlemagne Europe’s populist right should be outvoted rather than ostracised Imagining there’s no fascists is a bad strategy March 26th 2026 Imagine there’s no fascists. It’s easy if you try. Even those harbouring merely populist right-wing opinions can be magicked out of mind, at least in Belgium. Since the 1980s its Francophone half has enacted a policy of shutting out any politicians with views beyond the centrist consensus. Under this cordon sanitaire, or political firewall, voters are meant to be protected from the wrong ideas—perhaps a politico’s argument that immigration should be curbed, or an intemperate diatribe against the European Union. Broadcasters stifle such demagogic views by refusing to interview politicians who spout them. Anyone with unpalatable leanings who is nonetheless elected can expect to be excluded from fellow parliamentarians’ coalitions. Even foreigners can fall foul of this ideological purity test. In 2025 J.D. Vance delivered a rabble-rousing speech at the Munich Security Conference, among other things denouncing the existence of such firewalls. Because of the American vice-president’s supposed extremism, a Belgian media outlet was reprimanded merely for transcribing his words. To admirers this is basic political hygiene: why should democracies provide a platform to those whose ideology might, given the opportunity, do away with democracy altogether? Have people learnt nothing from the 1930s? To critics the cordon is a velvet gag circumscribing free speech. Either way, a policy that once prevailed in much of Europe is fraying by the day. The xenophobic Alternative for Germany (AfD), illiberal National Rally (RN) in France, reactionary Brothers of Italy and their fellow travellers on the populist right remain beyond the pale for many voters—justifiably so. But their formal exclusion from the polity is no longer an article of political faith. Good. Though there is little to cheer about the march of populism, it is far better to take on Europe’s nastiest ideologies than to pretend they can be wished away. Once a continent-wide phenomenon, the cordon is these days a variable affair. In France it is still considered de rigueur for voters to plump for any run-off candidate standing against the RN—one factor behind the party’s relatively poor showing in mayoral elections on March 22nd. Centrist Germans, mindful of history, still apply a firewall against the AfD, refusing to forge coalitions with it whether nationally or at state level. (Plum jobs such as parliamentary-committee chairmanships are often denied, too.) In some Nordic countries the populists have been brought into government coalitions and came out somewhat moderated. By contrast Austrian and Dutch populist parties have taken part in governments, but with no indication they have since mellowed. Hence one argument against the cordon sanitaire: it simply has not worked. Both in France and Germany, parliamentary votes in recent months have passed only with the support of populist parties—a form of co-operation that would once have been unthinkable. But the most conspicuous breach of the cordon has taken place in Brussels, the home of the very institutions decried by so many populists. A slew of votes in the European Parliament have been carried through an alliance of the centre-right with populist parties that were once deemed on the wrong side of the firewall. In theory, mainstream parties working together have a majority to pass any legislation put forward by the European Commission. In practice, corralling all MEPs from centrist parties can be fiddly, so the centre-right has at times courted the votes of populists instead. Legislation relating to migration or business regulation has been passed only thanks to additional votes from politicians affiliated with the RN and the AfD. This has upset Friedrich Merz, the German chancellor, who has angrily denied that his centre-right group has co-ordinated votes with allies of the AfD. Worse still, in both Germany and France populist parties have if anything benefited from their status as pariahs. How better to show off your chops as political truth-telling outsiders taking on a rotten political cartel than to have centrist incumbents treat you with disdain? The AfD is neck and neck with the centrist Christian Democrats at the top of German polls; there is every chance the RN’s candidate will lead the first round of the French presidential election next year. The firewall thus looks less like a firm bulwark against extremism than an effective incubator for it. Centrists determined to counter populists, for example by forging unwieldy coalitions to keep them out, have turned the nasties into the only plausible political alternative. Ach je! Part of the issue of firewalls is that nobody agrees where they should be erected. Giorgia Meloni, Italy’s prime minister, was once dismissed as a barely reconstructed fascist; these days she is treated as an honorary centrist. Ursula von der Leyen, boss of the European Commission, has taken a pragmatic view over dealing with those from the political fringes. As long as they adhere to the rule of law, support Ukraine and don’t endlessly bash the EU, they can be included in potential coalitions. That provides an incentive to the likes of Ms Meloni to sand down rough edges. Other politicians wonder why the populist left, often as extreme as their right-fringe rivals, should not be subject to its own firewall. The cordon sanitaire has a more fundamental problem. To treat populists as pariahs is to belittle their supporters. Discomfiting as it may be, institutions should reflect all voters, not just those whose views incumbents agree with. The import of a vote cannot be conditional on people having plumped for the “right” ideas. It is defensible for centrist parties to avoid coalitions with rivals whose views they deem wholly at odds with their own. To disagree is the essence of politics. But that requires acknowledging the other side exists, and may even have a point. Yes, that might “normalise” the AfD and RN, to the horror of bien-pensants. But look at the polls: they are the norm now. ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//europe/2026/03/25/europes-populist-right-should-be-outvoted-rather-than-ostracised",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Europe’s populist right should be outvoted rather than ________. Imagining there’s no fascists is a bad strategy.",
+          "options": {
+            "A": "incorporated",
+            "B": "ostracised",
+            "C": "tolerated",
+            "D": "reconciled"
+          },
+          "answer": "B",
+          "explanation": "文章标题及首段指出，对待民粹右翼应该通过投票击败他们，而不是排斥（ostracised）他们。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Under this cordon sanitaire, voters are meant to be protected from the ________ ideas—perhaps a politico’s argument that immigration should be curbed.",
+          "options": {
+            "A": "distinguished",
+            "B": "wrong",
+            "C": "innovative",
+            "D": "impartial"
+          },
+          "answer": "B",
+          "explanation": "cordon sanitaire意为政治防火墙，旨在保护选民免受那些被认定为“错误”（wrong）观点的影响。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Broadcasters ________ such demagogic views by refusing to interview politicians who spout them.",
+          "options": {
+            "A": "stifle",
+            "B": "validate",
+            "C": "promote",
+            "D": "scrutinize"
+          },
+          "answer": "A",
+          "explanation": "为了排斥民粹观点，媒体通过拒绝采访来“压制”（stifle）这些煽动性的言论。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Anyone with unpalatable leanings who is nonetheless elected can expect to be ________ from fellow parliamentarians’ coalitions.",
+          "options": {
+            "A": "promoted",
+            "B": "embraced",
+            "C": "excluded",
+            "D": "nominated"
+          },
+          "answer": "C",
+          "explanation": "对于被选举出来的具有不悦倾向的人，政治防火墙策略要求将他们从执政联盟中“排除”（excluded）出去。"
+        },
+        {
+          "q_number": 5,
+          "stem": "To admirers this is basic political ________: why should democracies provide a platform to those whose ideology might do away with democracy?",
+          "options": {
+            "A": "hygiene",
+            "B": "maneuver",
+            "C": "negligence",
+            "D": "compromise"
+          },
+          "answer": "A",
+          "explanation": "支持者认为这种防火墙是基础的“政治卫生”（political hygiene），即不给反民主言论提供平台。"
+        },
+        {
+          "q_number": 6,
+          "stem": "To critics the cordon is a velvet gag ________ free speech. Either way, a policy that once prevailed is fraying.",
+          "options": {
+            "A": "advocating",
+            "B": "interpreting",
+            "C": "circumscribing",
+            "D": "observing"
+          },
+          "answer": "C",
+          "explanation": "批评者认为防火墙是束缚（circumscribing）言论自由的枷锁。"
+        },
+        {
+          "q_number": 7,
+          "stem": "But their formal exclusion from the polity is no longer an article of political ________.",
+          "options": {
+            "A": "faith",
+            "B": "scheme",
+            "C": "practice",
+            "D": "calculation"
+          },
+          "answer": "A",
+          "explanation": "对这些政党的排斥已不再是政治上的“信条”（faith），即不再被视为绝对正确。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Though there is little to cheer about the march of populism, it is far better to ________ Europe’s nastiest ideologies than to pretend they can be wished away.",
+          "options": {
+            "A": "conceal",
+            "B": "take on",
+            "C": "ignore",
+            "D": "revere"
+          },
+          "answer": "B",
+          "explanation": "作者主张直面挑战，即“应对”（take on）这些丑陋的意识形态。"
+        },
+        {
+          "q_number": 9,
+          "stem": "In France it is still considered de rigueur for voters to ________ for any run-off candidate standing against the RN.",
+          "options": {
+            "A": "apologize",
+            "B": "abstain",
+            "C": "campaign",
+            "D": "plump"
+          },
+          "answer": "D",
+          "explanation": "plump for意为选择或支持。在此语境下，选民习惯选择支持非民粹候选人。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Centrist Germans, mindful of history, still apply a firewall against the AfD, refusing to ________ coalitions with it.",
+          "options": {
+            "A": "dismantle",
+            "B": "scrutinize",
+            "C": "desert",
+            "D": "forge"
+          },
+          "answer": "D",
+          "explanation": "拒绝与AfD“建立”（forge）执政联盟是德国中立派的做法。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Hence one argument against the cordon sanitaire: it simply has not ________.",
+          "options": {
+            "A": "functioned",
+            "B": "worked",
+            "C": "emerged",
+            "D": "persisted"
+          },
+          "answer": "B",
+          "explanation": "文章指出防火墙的一个论据是它根本没有“奏效”（worked）。"
+        },
+        {
+          "q_number": 12,
+          "stem": "But the most conspicuous ________ of the cordon has taken place in Brussels.",
+          "options": {
+            "A": "reinforcement",
+            "B": "observance",
+            "C": "extension",
+            "D": "breach"
+          },
+          "answer": "D",
+          "explanation": "布鲁塞尔发生了最明显的防火墙“破坏”（breach）事件，即主流政党与民粹派合作。"
+        },
+        {
+          "q_number": 13,
+          "stem": "In practice, ________ all MEPs from centrist parties can be fiddly, so the centre-right has at times courted the votes of populists.",
+          "options": {
+            "A": "alienating",
+            "B": "corralling",
+            "C": "dividing",
+            "D": "dissenting"
+          },
+          "answer": "B",
+          "explanation": "要“聚集/统一”（corralling）所有中间派议员很难，所以需要民粹派的票。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Worse still, in both Germany and France populist parties have if anything ________ from their status as pariahs.",
+          "options": {
+            "A": "suffered",
+            "B": "rebounded",
+            "C": "benefited",
+            "D": "departed"
+          },
+          "answer": "C",
+          "explanation": "被视为“贱民/弃儿”反而让这些政党“获益”（benefited），因其显得更具反建制色彩。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The firewall thus looks less like a firm bulwark against extremism than an effective ________ for it.",
+          "options": {
+            "A": "remedy",
+            "B": "obliteration",
+            "C": "incubator",
+            "D": "foundation"
+          },
+          "answer": "C",
+          "explanation": "防火墙反而成了极端主义的“孵化器”（incubator）。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Centrists determined to counter populists have turned the nasties into the only ________ political alternative.",
+          "options": {
+            "A": "plausible",
+            "B": "vague",
+            "C": "obsolete",
+            "D": "negligible"
+          },
+          "answer": "A",
+          "explanation": "这种排斥策略让民粹政党成了唯一“合乎情理的”（plausible）替代选择。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Giorgia Meloni, Italy’s prime minister, was once dismissed as a barely reconstructed fascist; these days she is treated as an ________ centrist.",
+          "options": {
+            "A": "ambiguous",
+            "B": "inveterate",
+            "C": "extreme",
+            "D": "honorary"
+          },
+          "answer": "D",
+          "explanation": "梅洛尼现在被当作“名誉上的”（honorary）中间派对待。"
+        },
+        {
+          "q_number": 18,
+          "stem": "That provides an incentive to the likes of Ms Meloni to sand down ________ edges.",
+          "options": {
+            "A": "sharp",
+            "B": "blunt",
+            "C": "smooth",
+            "D": "rough"
+          },
+          "answer": "D",
+          "explanation": "sand down rough edges意为磨平棱角，指变得温和。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The cordon sanitaire has a more fundamental problem. To treat populists as pariahs is to ________ their supporters.",
+          "options": {
+            "A": "mobilize",
+            "B": "respect",
+            "C": "belittle",
+            "D": "cherish"
+          },
+          "answer": "C",
+          "explanation": "将民粹主义者视为贱民，等同于“轻视”（belittle）支持他们的选民。"
+        },
+        {
+          "q_number": 20,
+          "stem": "It is defensible for centrist parties to avoid coalitions with rivals whose views they deem wholly at odds with their own. To ________ is the essence of politics.",
+          "options": {
+            "A": "disagree",
+            "B": "acquiesce",
+            "C": "concur",
+            "D": "negotiate"
+          },
+          "answer": "A",
+          "explanation": "文章结尾提到，政治的本质在于允许“不同意”（disagree），这比盲目排斥更符合民主精神。"
+        }
+      ]
+    },
+    {
+      "title": "Is Cuba Next?",
+      "article_update_date": "03.28.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Is Cuba Next? Letter from Havana Is Cuba Next? Trump’s campaign to topple foreign adversaries encounters a battered but defiant regime. By Jon Lee Anderson March 23, 2026 At the end of January, Havana was struck by a frente frío, a cold front that blew off the ocean and plunged the island into unaccustomed wintry weather. As high winds sent waves crashing over the seaside promenade, the city’s inhabitants wrapped themselves in whatever warm clothing they had, or else huddled inside against the chill. On the afternoon of the twenty-ninth, a group of senior Latin American diplomats were among those taking refuge from the weather. They had met at an ambassador’s residence, to discuss a new executive order from Donald Trump that declared Cuba a threat to “the national security and foreign policy of the United States.” The diplomats were shocked by its contents. “The perversion of the language is incredible,” one said. “Word by word, it’s harsher than the language that Kennedy used to talk about the Soviet missiles”—the crux of a standoff, in 1962, that brought the world close to a nuclear conflagration. Trump’s order had asserted, without any evidence, that Cuba “destabilizes the region through migration and violence,” promotes schemes “to harm the United States and support hostile countries,” and provides sanctuary to Hamas and Hezbollah. He vowed to cut the island off from oil imports and warned that any other nation that sought to supply fuel would be punished. Podcast: The New Yorker Radio Hour David Remnick talks with Jon Lee Anderson. For most Cubans, the order meant that their already difficult lives were about to get considerably worse. For months, the island had faced daily electricity blackouts owing to a lack of fuel, along with severe shortages of food, water, and medicine. Economic activity had all but stopped, and the government, which was essentially broke and unable to secure new loans, had been incapable of providing solutions. Even garbage collection was virtually nonexistent, with huge mounds of refuse piling up on street corners. In the past eighteen months, three powerful hurricanes have destroyed countless homes and vast expanses of cropland, displacing more than a million people. When the executive order came, Cuba was on life support; Trump’s action effectively shut the oxygen off. The diplomats had been meeting regularly to monitor Trump’s Cuba policy, which they viewed with increasing alarm. “They say they want to harm the government, not the people,” one told me. “Well, this is harming the people.” On January 3rd, U.S. Special Forces had abducted the Venezuelan President, Nicolás Maduro, from Caracas, in a raid that many Cubans regarded as both an act of imperialist aggression and a warning. For decades, Venezuela had been Cuba’s greatest sponsor; along with Mexico, it provided about seventy per cent of the island’s oil. After Maduro was seized, the U.S. military imposed what amounted to a blockade, intercepting tankers carrying Venezuelan oil to Cuba. Analysts predicted that the island’s petroleum reserves would run out in a matter of weeks. At Havana’s few functioning gas stations, vehicles lined up for as long as twenty-six hours. With supplies dwindling, the government instituted an emergency gas quota of five gallons a day, shortened school hours and government workweeks, and suspended some medical procedures in hospitals. Meanwhile, Trump issued a series of celebratory messages. “Cuba looks like it is ready to fall,” he told reporters. Asked whether he intended to intervene there, he demurred. “I don’t think we need any action,” he said. “It’s going down.” A few days later, he was back to posting threats on Truth Social: “ THERE WILL BE NO MORE OIL OR MONEY GOING TO CUBA – ZERO! I strongly suggest they make a deal, BEFORE IT IS TOO LATE .” He insisted that Cuba was desperate to negotiate. “They have no money,” he said at one point. “They have no anything right now.” The President of Cuba, Miguel Díaz-Canel, issued a defiant statement. “Those who turn everything into a business deal, even human lives, have no moral standing to call out Cuba,” he said. The Communist Party newspaper, Granma , ran a photograph of a crowd waving Cuban flags under the headline “Nobody Tells Us What to Do.” This turned out to be bluster, just as Trump’s statements were. Representatives of the Cuban government were already in negotiations with the U.S. about the countries’ relationship, and about the future of the island. In March, Díaz-Canel finally acknowledged the talks, describing them as a diplomatic exchange between two sovereign nations. He said that the goal was to “identify the bilateral problems that need a solution,” adding, “This is a very sensitive process that is being approached with responsibility and great sensitivity.” Trump cast the talks instead as a matter of personal domination. “I do believe I’ll be having the honor of taking Cuba,” he said. “I think I can do anything I want with it.” When I visited Cuba earlier this year, the formerly bustling old city of Havana was nearly deserted. Since 2021, an estimated one in five Cubans has left the island, seeking a better life. Tourism has collapsed, too, removing a main source of foreign revenue and leaving a listless, despondent air. The Plaza de Armas, a sixteenth-century square that once drew crowds of visitors, was virtually empty, occupied by an elderly woman sitting alone, a man blowing softly into a trumpet, and a legless man in a wheelchair, staring into a fenced-off garden in the middle of the square. The stillness was broken only by the arrival of a local character known as La Marquesa, who strode across the plaza, wearing a cream-colored skirt and blouse and a white sun hat, shouting that he was the “boss of everything.” Everyone I talked with was organizing their days around dealing with the crisis. Leonardo Padura, Cuba’s best-known novelist, told me about his frustrated efforts to buy a home power station for his elderly mother-in-law, to provide light when the electricity goes out. Many of the island’s young people have left, and the elderly struggle to care for themselves. One friend couldn’t secure enough fuel to drive to the market for food, and couldn’t find medicine for a heart condition, so I brought some with me. Another, a widow in her late seventies, was hobbled by chikungunya, a mosquito-borne disease that causes painful swelling of the joints and extremities. (An anti-inflammatory was available on the black market, but at an unthinkable price.) Malnutrition and a breakdown in public-health services have led to an increase in viral illnesses. Since last autumn, tens of thousands of Cubans have been afflicted by chikungunya, along with dengue fever and Oropouche. Amid the crisis, President Díaz-Canel could offer only more of the same. Díaz-Canel took office in 2018, as Raúl Castro’s handpicked successor. He is sixty-five, a burly man with the slicked-back silver hair of a college basketball coach. Before Raúl elevated him, he was a provincial Party boss in Villa Clara—an unassuming apparatchik, so humble that he sometimes rode a bicycle to work. As the first President in half a century who is not a member of the Castro family, he has been careful to present himself as a loyalist. He routinely refers to Raúl—who remains the island’s crucial political voice, despite being ninety-four and officially retired—as his jefe máximo . When he ran for election, his campaign put up billboards with an image of Díaz-Canel and the Castro brothers alongside the slogan “Continuity.” As President, Díaz-Canel has widely been seen as hapless and jinxed. The month after he took office, a plane crash in Havana killed a hundred and twelve people. A devastating tornado landed the next year, and in 2022 an explosion from a suspected gas leak destroyed Havana’s historic Hotel Saratoga, killing forty-seven people. There was the COVID -19 pandemic, which vitiated the health-care system and the tourism sector; there was also a string of explosive nationwide protests, in 2021, which the government harshly put down, helping to spur the exodus. The electrical grid was decrepit, and blackouts were commonplace. Díaz-Canel blamed Cuba’s economic struggles, as the Castros had, on crippling U.S. sanctions, which have been in place since 1962. By early this year, Cuba was clearly weakened, and Trump always likes to negotiate from a position of strength. (As his Defense Secretary, Pete Hegseth, recently said about the U.S. bombardment of Iran, “We are punching them while they’re down, which is exactly how it should be.”) But Republicans were divided over the approach. America’s policy toward Cuba has been influenced for decades by Cuban American leaders in Miami, who have insistently ruled out negotiating with the Castro government. Last year, I saw Representative Carlos Giménez, an influential figure in Florida politics, and he likened the regime to a cancer, which needed to be forcibly extracted from the body. Trump’s Secretary of State, Marco Rubio, grew up in Florida, the son of Cuban immigrants. For most of his career, he held a similarly uncompromising position on the regime. In 2015, he wrote, “We must never forget that the only true form of independence for the Cuban people is freedom and democracy, and we must recommit our state and nation to the goal of helping them achieve that vital objective.” But, now that Rubio works for a President whose foreign policy is almost entirely transactional, he has often been willing to amend his old views. Rather than force out the Cuban government, the U.S. would try to choke it into submission. “We would love to see the regime there change,” Rubio told the Senate Foreign Relations Committee this winter. “That doesn’t mean we’re going to make a change.” During my visit, everyone I talked to was worried about the country’s vulnerability, but few were worried about whether the government would survive. As I arrived to visit one friend, who had spent decades in the service of the Revolution, he peered around the door and cracked, “Where’s Delta Force?”—a reference to the military unit that had snatched Maduro a few weeks earlier. He laughed bitterly. “I don’t care anymore how it happens, but this situation has to end.” As the oil blockade dragged on, Trump sometimes talked about “being kind” to Cuba. If this meant anything, it seemed to mean that he wasn’t rushing to launch a military strike. There was little incentive for one, especially when the U.S. had a large share of its military forces tied up in the war in Iran. Cuba has no unifying leader to remove, and not much oil to seize; its most valuable resources are cobalt, tobacco, nickel, and waterfront real estate. (One friend there asked, half joking, whether an attack could be averted by offering Trump beachside property in Varadero, the island’s most famous resort destination. “El Trump Varadero,” he said. “It has a ring to it.”) Last spring, Trump’s special envoy for Latin America, Mauricio Claver-Carone, called for “surgical” and “creative” measures to reshape Cuba. (Claver-Carone has since left the Administration, but several sources told me that he remains a key White House intermediary in Latin America.) Along with the oil embargo, the “surgical” measures included restricting tourists’ access to the island and deterring other countries from hiring Cuban doctors, a major revenue source for the regime. These efforts were augmented with a series of “creative” interventions. After Hurricane Melissa devastated eastern Cuba, in October, Ambassador Mike Hammer arranged for humanitarian aid—but he delivered it through the Catholic Church, circumventing the Cuban government and undercutting its own relief efforts. This winter, the Trump Administration enabled several American firms to sell fuel oil to companies in Cuba. Rubio made clear that they were forbidden to offer the oil to the government; the goal was to empower private enterprise at the expense of the state. At a dinner in January, Hammer gleefully predicted that the regime would fall before the year’s end. Cuba has been through hard times before. The mythos of the Revolution is built around the people’s",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes the reaction of the diplomats to Trump’s new executive order regarding Cuba?",
+          "options": {
+            "A": "They were indifferent as they were accustomed to such policies.",
+            "B": "They were alarmed by its aggressive and unprecedented rhetoric.",
+            "C": "They were supportive of the focus on national security and foreign policy.",
+            "D": "They believed the order would effectively stabilize the region's migration issues."
+          },
+          "answer": "B",
+          "explanation": "文章中提到外交官们对行政令的内容感到震惊，形容其语言的“扭曲”令人难以置信，甚至比肯尼迪时期讨论苏联导弹时所用的语言还要严厉。这说明他们对该行政令的挑衅性和严厉程度感到担忧和惊讶。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the text, why did the U.S. military’s interception of oil tankers have a devastating impact on Cuba?",
+          "options": {
+            "A": "It prevented the Cuban government from selling its surplus oil to other nations.",
+            "B": "It destroyed the primary infrastructure required for domestic energy production.",
+            "C": "It severed the island's lifeline, as it was heavily reliant on oil imports from Venezuela.",
+            "D": "It caused a total collapse of the diplomatic negotiations between the U.S. and Cuba."
+          },
+          "answer": "C",
+          "explanation": "文章指出委内瑞拉曾是古巴最大的资助者，并提供了古巴约70%的石油。美国对载运委内瑞拉石油的油轮进行拦截，导致古巴燃料储备迅速枯竭，这对已经处于困境的古巴经济来说是致命的一击。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does the author characterize the political leadership of Miguel Díaz-Canel?",
+          "options": {
+            "A": "As a visionary reformer who successfully modernized the Cuban economy.",
+            "B": "As a charismatic leader who maintained high popularity despite national crises.",
+            "C": "As an unfortunate and ineffective successor struggling under the shadow of the Castro family.",
+            "D": "As an aggressive policymaker who intentionally provoked the U.S. through defiant rhetoric."
+          },
+          "answer": "C",
+          "explanation": "文章描述 Díaz-Canel 上任以来古巴灾难频发，包括坠机、飓风、酒店爆炸等，作者称其被广泛视为“倒霉且不幸的”（hapless and jinxed），并强调他作为劳尔·卡斯特罗的继任者，始终保持顺从，缺乏独立且高效的领导能力。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase 'transactional' in the context of Rubio’s foreign policy view imply?",
+          "options": {
+            "A": "A willingness to prioritize practical exchange and negotiation over rigid ideological stances.",
+            "B": "A dedication to maintaining long-standing democratic principles regardless of the cost.",
+            "C": "A preference for purely military interventions rather than economic sanctions.",
+            "D": "A focus on fostering international cooperation through humanitarian aid programs."
+          },
+          "answer": "A",
+          "explanation": "文章提到 Marco Rubio 过去对古巴持强硬立场，但现在他为一位奉行“交易性”（transactional）外交政策的总统工作，这暗示了他的策略从过去的意识形态坚持转变为更看重具体利益交换和实际结果的实用主义。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the underlying objective of the Trump Administration’s 'surgical' and 'creative' measures?",
+          "options": {
+            "A": "To support the Cuban government in reforming its public health system.",
+            "B": "To achieve regime change by weakening the state and empowering private enterprise.",
+            "C": "To provide humanitarian relief to the most vulnerable members of Cuban society.",
+            "D": "To facilitate a peaceful democratic transition through diplomatic engagement."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到美国政府的一些行为（如绕过政府通过教会提供援助，允许美企向古巴私企售油）意在削弱古巴现政权，同时扶植私营企业，目的在于通过各种手段促使体制发生改变（regime change）。"
+        }
+      ]
+    },
+    {
+      "title": "Eight arrested for ‘brutal’ attack on capybara in Brazil",
+      "article_update_date": "03.25.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Police in Rio de Janeiro have arrested eight people for brutally beating a capybara – the world’s largest rodent. Resembling a giant guinea pig, the light brown capybara (Hydrochoerus hydrochaeris) is often seen roaming the Brazilian city, particularly near streams and lagoons. In an incident filmed by security cameras before dawn on Saturday, a group of attackers beat the capybara with sticks and iron bars in the neighbourhood of Ilha do Governador. “This is a brutal crime that shocks society,” said Felipe Santoro, the police commissioner in charge of the investigation, was quoted as saying by the O Globo daily newspaper. “It is an act of extreme cruelty toward a creature that posed absolutely no threat … yet was deliberately attacked nonetheless,” he added. View image in fullscreen Wounds are seen on the muzzle of the capybara. Photograph: Mauro Pimentel/AFP/Getty The attackers – including two minors – were identified through CCTV footage and arrested on Saturday, police said in a statement. The capybara, a 65kg (143lb) male, was taken to the Wildlife Care Center (CRAS) at the private Estacio University in south-western Rio. Jeferson Pires, the veterinarian and head of CRAS, told AFP: “We have been treating Rio’s wildlife here for 22 years, and I have never before received a capybara subjected to such extreme aggression.” He said the creature was doing better, but was “suffering from head trauma, swelling with internal bleeding around his left eye, and multiple injuries to his back”. In recent years the semi-aquatic capybara – native to South America – has gained a devoted following online. One popular meme is “Comrade Capybara”, depicting the animal as a communist revolutionary, inspired by the 2021 “invasion” by capybaras of a luxury gated estate in Argentina that was built on a wetland that had been their natural habitat. In early January, the death of a stray dog after it was beaten to death by teenagers caused a wave of outrage in Brazil.",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why did the police arrest the eight individuals in Rio de Janeiro?",
+          "options": {
+            "A": "They were involved in an illegal animal trafficking network.",
+            "B": "They were seen invading a luxury gated estate in Argentina.",
+            "C": "They participated in a violent and unprovoked attack on a capybara.",
+            "D": "They destroyed protected habitat near the city's lagoons."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到警方逮捕八人是因为他们用棍棒和铁条残忍殴打了一只水豚（capybara），这符合C选项描述。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What can be inferred about the victim of the attack from the veterinarian's statement?",
+          "options": {
+            "A": "It is suffering from permanent blindness due to severe trauma.",
+            "B": "It is receiving professional care for multiple physical injuries.",
+            "C": "It is the first capybara ever to be treated at the CRAS facility.",
+            "D": "It has recovered fully after receiving emergency veterinary surgery."
+          },
+          "answer": "B",
+          "explanation": "兽医Jeferson Pires提到这只水豚正在接受治疗，患有头部创伤、内出血和背部多处受伤，B选项最准确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the author suggest about the capybara's status in modern digital culture?",
+          "options": {
+            "A": "It is increasingly viewed as a threat to urban security.",
+            "B": "It has become a subject of online interest and social memes.",
+            "C": "It is legally protected as a revolutionary symbol in Argentina.",
+            "D": "It is rarely found outside of protected wetland habitats."
+          },
+          "answer": "B",
+          "explanation": "文章提到水豚近年来在网上获得了很多拥护，特别是“同志水豚”（Comrade Capybara）这一迷因，说明了其在数字文化中的地位。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary tone of the police commissioner in his remarks regarding the incident?",
+          "options": {
+            "A": "Indifferent and dismissive.",
+            "B": "Cynical and skeptical.",
+            "C": "Indignant and condemnatory.",
+            "D": "Objective and detached."
+          },
+          "answer": "C",
+          "explanation": "警长称这是一种“冲击社会的残忍罪行”，并强调水豚毫无威胁却被蓄意攻击，这表达了强烈愤慨和谴责的语气。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The incident involving the capybara in Rio is mentioned alongside which other event to contextualize public sentiment?",
+          "options": {
+            "A": "The protest of environmentalists against luxury estate developers.",
+            "B": "The previous incidents of wildlife being treated at Estacio University.",
+            "C": "The widespread public anger following the killing of a stray dog.",
+            "D": "The historical expansion of human settlements into wetland habitats."
+          },
+          "answer": "C",
+          "explanation": "文章最后一句提到一月初青少年打死流浪狗事件在巴西引发了公众愤怒，以此类比近期社会对动物虐待事件的关注。"
+        }
+      ]
+    },
+    {
+      "title": "Jihadist violence in Nigeria and DRC rose sharply last year even as global deaths from terror fell",
+      "article_update_date": "03.24.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Jihadist violence rose sharply in Nigeria and Democratic Republic of Congo last year, even as global deaths from terrorism dropped to their lowest level in a decade, according to a new report. Nigeria recorded the largest increase in terrorism deaths globally in 2025, with fatalities rising by 46% from 513 in 2024 to 750, placing it fourth in the Global Terrorism Index, behind Pakistan, Burkina Faso and Niger. Africa’s most populous nation is grappling with a multifaceted security crisis as extremist groups such as Boko Haram and its offshoots attempt to carve out control of swathes of territory. Various ethnic militia and other criminal elements, including “bandit” groups, are also active, mostly in north and central Nigeria. Newer threats like terrorists from the Lakurawa group are also emerging. In February, 162 people were massacred in Kwara state near the border with the Benin Republic, one of the deadliest single attacks in the country’s recent history. View image in fullscreen People look on as the Nigerian military arrives at Woro community, after an overnight attack by gunmen that killed dozens of residents, in Kaiama, a town in Kwara State, Nigeria. Photograph: Oluseyi Dasilva/Reuters On Wednesday the army said troops backed by air support had repelled a coordinated assault by Islamist insurgents on a military base in the north-eastern state of Borno, killing at least 80 fighters including senior commanders. The assault comes after multiple suicide bombings on Monday in Maiduguri, the capital of Borno, that killed at least 23 and left more than 100 wounded. In the DRC, terrorism-related deaths rose by nearly 28% in 2025, increasing from 365 to 467 and pushing the central African state to eighth place on the index, its worst ranking. The rise was primarily driven by the IS-affiliated Allied Democratic Forces (ADF). The rise in Nigeria and the DRC contrasts with the rest of the world. The index, produced by the Australian thinktank Institute for Economics & Peace (IEP), recorded a global decline in deaths of 28% to 5,582, while total attacks fell by nearly 22%. There was a 280% increase in deaths from terrorism in the west, with 57 deaths recorded in 2025. Twenty-eight people died in the US from terrorist attacks, the highest figure in the country since 2019. The rise, the index reveals, is increasingly driven by youth radicalisation and lone-wolf actors. “Viewed in totality, these trends point to one sobering conclusion: a fracturing world order risks erasing the hard-fought gains made against terrorism over the past decade,” said Steve Killelea, IEP’s founder. View image in fullscreen Congolese soldiers pass an armoured vehicle on the road from Beni to the Ugandan border. The Allied Democratic Forces, who claim to be a branch of the Islamic State, have increased attacks in the region. Photograph: Alexis Huguet/AFP/Getty Images More than half of all deaths from terrorism worldwide in 2025 occurred in the Sahel, seen as the centre of global terrorism, despite a drop from the previous year. Burkina Faso, where the junta only controls about a third of the territory, recorded the largest decrease in terrorism deaths worldwide, with fatalities dropping by half in 2025. Civilian casualties fell by 84%. Experts said the change suggests the al-Qaida affiliate Jamaat Nusrat al-Islam wal Muslimeen (JNIM) is deliberately reducing attacks on civilians to win “hearts and minds” and consolidate its territorial gains with increasing sophistication. Killelea said: “For JNIM, the change in tactics can perhaps best be explained by the ‘value v vulnerability’ trade-off. Military forces and political figures are considered high-value targets. As JNIM now controls more territory, it is better able to carry out attacks on higher value targets.” The tactical shift fits into a pattern of jihadists launching coordinated and sophisticated assaults on military bases across the region, as counterinsurgency missions ramp up. JNIM, which launches drones frequently, has used them in more than 100 cases of drone violence in the last three years across the Sahel. According to the Armed Conflict Location & Event Data (ACLED), there have also been 16 drone incidents involving the Islamic State West Africa Province (ISWAP) since 2014. “Ten [of the ISWAP incidents] involved drone attacks and the remainder were intelligence‑gathering or surveillance missions used to prepare ground offensives against military targets,” said Ladd Serwat, ACLED’s senior analyst for Africa. The report also reveals a growing concentration of attacks in border regions, including the Central Sahel tri-border area, and the Lake Chad Basin.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the report, what is the primary reason for Nigeria's significant rise in the Global Terrorism Index ranking?",
+          "options": {
+            "A": "The influx of foreign fighters from the Benin Republic.",
+            "B": "A multifaceted security crisis involving various extremist and criminal groups.",
+            "C": "The government's failure to maintain control over the Lake Chad Basin.",
+            "D": "A sharp decrease in military funding for counterinsurgency operations."
+          },
+          "answer": "B",
+          "explanation": "文章提到尼日利亚面临着多元化的安全危机，包括Boko Haram及其分支、各族裔民兵、犯罪分子（如“匪徒”组织）以及新出现的Lakurawa组织，这些因素共同导致了安全形势恶化。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does the trend of terrorism in the DRC compare to the global trend mentioned in the report?",
+          "options": {
+            "A": "Both the DRC and the world experienced a significant decline in terrorism-related fatalities.",
+            "B": "The DRC saw a moderate increase while the world witnessed a similar upward trend.",
+            "C": "The DRC experienced a rise in terrorism-related deaths, contrary to the global downward trend.",
+            "D": "Terrorism in the DRC has stabilized, whereas global terrorism continues to fluctuate unpredictably."
+          },
+          "answer": "C",
+          "explanation": "文中明确指出，尼日利亚和刚果（金）的恐怖主义死亡人数上升，这与全球恐怖主义死亡人数下降28%的趋势形成鲜明对比。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the implied motivation behind JNIM’s shift in tactics in Burkina Faso?",
+          "options": {
+            "A": "They aim to appease international human rights organizations.",
+            "B": "They are suffering from a shortage of weapons and resources.",
+            "C": "They seek to gain local support and consolidate control over territory.",
+            "D": "They are forced to retreat due to successful government counterinsurgency."
+          },
+          "answer": "C",
+          "explanation": "文中指出JNIM减少针对平民的攻击是为了赢得“民心”（hearts and minds），并随着其复杂性的增加来巩固领土收益。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to Steve Killelea, what is the 'sobering conclusion' regarding the global terrorism situation?",
+          "options": {
+            "A": "Terrorism is increasingly driven by state-sponsored actors.",
+            "B": "The gains made against terrorism over the past decade are in danger of being lost.",
+            "C": "Global cooperation is the only remaining barrier against extremist threats.",
+            "D": "The Sahel region has successfully eradicated terrorism through military dominance."
+          },
+          "answer": "B",
+          "explanation": "Steve Killelea提到一个令人清醒的结论：一个分裂的世界秩序有风险抹去过去十年在反恐斗争中取得的来之不易的成果。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the 'value v vulnerability' trade-off refer to in the context of JNIM?",
+          "options": {
+            "A": "The choice between using drones for surveillance versus ground offensives.",
+            "B": "Prioritizing high-value targets as the group gains more territorial control.",
+            "C": "Exchanging civilian lives for military equipment and strategic intelligence.",
+            "D": "The struggle between staying hidden and being visible to local populations."
+          },
+          "answer": "B",
+          "explanation": "文中Killelea解释说，由于JNIM现在控制了更多领土，他们能够对更有价值的目标（如军事和政治人物）进行攻击，这被定义为一种权衡。"
+        }
+      ]
+    }
+  ]
+}

@@ -141,7 +141,7 @@ articles:
   is_used: false
   title: Ukraine’s top drone commander wants to bleed Russia’s army dry
 - id: epub_69
-  is_used: true
+  is_used: false
   title: Europe’s populist right should be outvoted rather than ostracised
 - id: epub_71
   is_used: false
@@ -251,8 +251,8 @@ articles:
 - id: epub_242
   is_used: false
   title: Chapter 242
-capture_date: 03.29.2026
+capture_date: 03.31.2026
 journal_name: Economist
-publish_date: 03.29.2026
+publish_date: 03.31.2026
 source_type: github
 update_frequency: weekly

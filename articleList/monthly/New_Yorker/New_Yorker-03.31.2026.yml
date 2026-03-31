@@ -27,7 +27,7 @@ articles:
   is_used: false
   title: Does A.I. Need a Constitution?
 - id: epub_20
-  is_used: true
+  is_used: false
   title: Is Cuba Next?
 - id: epub_21
   is_used: false
@@ -65,8 +65,8 @@ articles:
 - id: epub_112
   is_used: false
   title: Chapter 112
-capture_date: 03.28.2026
+capture_date: 03.31.2026
 journal_name: New Yorker
-publish_date: 03.28.2026
+publish_date: 03.31.2026
 source_type: github
 update_frequency: monthly
