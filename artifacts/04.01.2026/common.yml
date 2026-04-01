@@ -1,0 +1,696 @@
+group_update_date: 04.01.2026
+papers:
+- article_update_date: 03.28.2026
+  body_text: 'Chatbots that dole out flattery can make users more self-assured.Credit:
+    Jonathan Raa/NurPhoto/Getty The website Reddit has a popular forum called “Am
+    I the Asshole?” on which users can receive unvarnished feedback on their behaviour.
+    But people are increasingly turning to chatbots such as ChatGPT for life advice
+    rather than to each other. Research published today in Science1 suggests that
+    receiving excessive approval from artificial-intelligence systems could encourage
+    uncouth behaviour in people. Study participants who received highly flattering
+    feedback from chatbots tended to be more certain of their own correctness during
+    social conflicts than were participants who interacted with less-affirming bots.
+    Compared with AI tools that were less fawning, sycophantic ones were rated as
+    more trustworthy and more likely to be used again. Bot besties In the first of
+    several experiments, researchers fed interpersonal dilemmas that were obtained
+    from the Reddit forum and two other data sets to 11 large language models (LLMs,
+    the AI systems that power chatbots), including models from companies such as OpenAI,
+    Anthropic and Google. The researchers then compared AI responses with those of
+    human judges. The human judges endorsed the user’s actions in about 40% of cases,
+    whereas most LLMs did so for more than 80% of cases. They were sycophantic — overly
+    approving. Ingratiation rates might change with new models, but this baseline
+    is “alarming”, says Steve Rathje, who studies human–computer interaction at Carnegie
+    Mellon University in Pittsburgh, Pennsylvania (and has found2 that sycophantic
+    AI tools can increase attitude extremity and certainty). No apologies The study’s
+    authors next looked at the effects of social sycophancy. A subset of participants
+    imagined dealing with a given quandary adapted from the Reddit forum about questionable
+    social behaviour. The participants read either a sycophantic or non-sycophantic
+    AI response. They then rated how justified they felt and wrote a message to the
+    other party in the fraught situation. In another experiment, other participants
+    had a live chat about a real interpersonal dilemma with an AI tool that had been
+    instructed to be either sycophantic or not; these participants also rated how
+    justified they felt. Is social media addictive for teens? US courts wade into
+    scientific debate In these experiments, people who interacted with a sycophantic
+    chatbot were more likely to say that they were in the right and less likely to
+    apologize or make amends than were people who interacted with an AI tool that
+    took a tougher stance.'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: Unvarnished意为“直截了当的，未加修饰的”，符合Reddit论坛那种不留情面的评价风格。
+    options:
+      A: fawning
+      B: complicated
+      C: excessive
+      D: unvarnished
+    q_number: 1
+    stem: The website Reddit has a popular forum called “Am I the Asshole?” on which
+      users can receive ________ feedback on their behaviour.
+  - answer: D
+    explanation: 文章意在强调人们更倾向于用AI而非真人进行交流，rather than表示对比。
+    options:
+      A: in addition
+      B: thanks to
+      C: due to
+      D: rather than
+    q_number: 2
+    stem: People are increasingly turning to chatbots such as ChatGPT for life advice
+      ________ to each other.
+  - answer: A
+    explanation: 研究指出，来自AI的过度认同会鼓励人们出现无礼（uncouth）的行为。
+    options:
+      A: encourage
+      B: limit
+      C: define
+      D: prevent
+    q_number: 3
+    stem: Research published today in Science suggests that receiving excessive approval
+      from artificial-intelligence systems could ________ uncouth behaviour in people.
+  - answer: A
+    explanation: ' flattering feedback（奉承的反馈）会让使用者对自己更加确信（certain），即使在争执中也是如此。'
+    options:
+      A: certain
+      B: ignorant
+      C: doubtful
+      D: vague
+    q_number: 4
+    stem: Study participants who received highly flattering feedback from chatbots
+      tended to be more ________ of their own correctness during social conflicts.
+  - answer: D
+    explanation: 文章提到人们更倾向于使用这些“拍马屁”的AI，因为它们被评为更值得信任的。
+    options:
+      A: unreliable
+      B: unbiased
+      C: aggressive
+      D: trustworthy
+    q_number: 5
+    stem: Compared with AI tools that were less fawning, sycophantic ones were rated
+      as more ________ and more likely to be used again.
+  - answer: B
+    explanation: feed something to someone是将信息输入给模型，fed符合语境。
+    options:
+      A: rejected
+      B: fed
+      C: concluded
+      D: abandoned
+    q_number: 6
+    stem: In the first of several experiments, researchers ________ interpersonal
+      dilemmas to 11 large language models.
+  - answer: B
+    explanation: 文中提到的对比对象是human judges（人类评判者）。
+    options:
+      A: interpreters
+      B: judges
+      C: programmers
+      D: observers
+    q_number: 7
+    stem: The researchers then compared AI responses with those of human ________.
+  - answer: C
+    explanation: 前半句人类数据与后半句AI数据形成对比，whereas连接对比转折。
+    options:
+      A: although
+      B: therefore
+      C: whereas
+      D: likewise
+    q_number: 8
+    stem: The human judges endorsed the user’s actions in about 40% of cases, ________
+      most LLMs did so for more than 80% of cases.
+  - answer: C
+    explanation: sycophantic意为“谄媚的”，即overly approving（过度赞同的）。
+    options:
+      A: moderately
+      B: barely
+      C: overly
+      D: scarcely
+    q_number: 9
+    stem: They were sycophantic — ________ approving.
+  - answer: B
+    explanation: 依据原文，此处应为作者引用的客观描述，alarming表示这是一个令人担忧的基线。
+    options:
+      A: alarming
+      B: predictable
+      C: beneficial
+      D: trivial
+    q_number: 10
+    stem: Ingratiation rates might change with new models, but this baseline is “________”,
+      says Steve Rathje.
+  - answer: A
+    explanation: 研究后续关注的是这些社会谄媚行为所带来的“影响”（effects）。
+    options:
+      A: effects
+      B: origins
+      C: definitions
+      D: structures
+    q_number: 11
+    stem: The study’s authors next looked at the ________ of social sycophancy.
+  - answer: C
+    explanation: quandary指困境，与Reddit上的社交难题相对应。
+    options:
+      A: theory
+      B: solution
+      C: quandary
+      D: consensus
+    q_number: 12
+    stem: A subset of participants imagined dealing with a given ________ adapted
+      from the Reddit forum.
+  - answer: B
+    explanation: 此处逻辑为评价自己行为的合理性（justified）。
+    options:
+      A: justified
+      B: cautious
+      C: hesitant
+      D: reluctant
+    q_number: 13
+    stem: The participants read either a sycophantic or non-sycophantic AI response.
+      They then rated how ________ they felt.
+  - answer: D
+    explanation: AI是被指令（instructed）去展现特定倾向的。
+    options:
+      A: instructed
+      B: discouraged
+      C: banned
+      D: threatened
+    q_number: 14
+    stem: In another experiment, other participants had a live chat about a real interpersonal
+      dilemma with an AI tool that had been ________ to be either sycophantic or not.
+  - answer: D
+    explanation: in the right意为“占理，处于正确的一方”。
+    options:
+      A: dark
+      B: middle
+      C: way
+      D: right
+    q_number: 15
+    stem: In these experiments, people who interacted with a sycophantic chatbot were
+      more likely to say that they were in the ________.
+  - answer: C
+    explanation: make amends是固定搭配，意为“补偿，道歉”。
+    options:
+      A: promises
+      B: mistakes
+      C: amends
+      D: plans
+    q_number: 16
+    stem: And less likely to apologize or make ________ than were people who interacted
+      with an AI tool that took a tougher stance.
+  - answer: A
+    explanation: be likely to do something表示“倾向于做某事”。
+    options:
+      A: likely
+      B: prone
+      C: bound
+      D: eager
+    q_number: 17
+    stem: People were ________ to say they were right compared to the control group.
+  - answer: C
+    explanation: 文章提到对比组是采取 tougher（更严厉的）态度的工具。
+    options:
+      A: softer
+      B: tougher
+      C: vague
+      D: friendly
+    q_number: 18
+    stem: The AI tool that took a ________ stance helped users reflect more.
+  - answer: B
+    explanation: echoes意为“呼应，重申”，符合研究结论与先前研究一致。
+    options:
+      A: contradicts
+      B: echoes
+      C: ignores
+      D: conceals
+    q_number: 19
+    stem: The study ________ findings from human–computer interaction research.
+  - answer: A
+    explanation: undeserved在此语境下指不应得的、过度的赞同。
+    options:
+      A: cautious
+      B: undeserved
+      C: sincere
+      D: genuine
+    q_number: 20
+    stem: Users interacting with AI may need to be wary of ________ approval.
+  source_journal: Nature
+  title: Chats with sycophantic AI make you less kind to others
+- article_update_date: 03.25.2026
+  body_text: 'China cannot escape the energy shock Finance & economics | Green, brown
+    and red China cannot escape the energy shock Despite renewables and reserves,
+    it will suffer March 19th 2026 THE COASTAL Chinese city of Zhuhai is linked to
+    Hong Kong by a showy piece of infrastructure: a 55km (34-mile) bridge and tunnel,
+    the largest sea crossing of its kind. Some Hong Kongers use it to visit Chimelong
+    Ocean Kingdom, a theme park featuring a whale shark, rollercoasters and a hotel
+    shaped like a spaceship. Others are motorists with a more mundane purpose. They
+    travel to Zhuhai to fill up their tanks with petrol, available at a big-enough
+    discount to make the drive worthwhile. The mainland’s petrol-price formula smooths
+    out the international market’s ups and downs. As such, it is one of the ways China’s
+    government is shielding citizens from the effects of the war in Iran, which has
+    trapped oil tankers on either side of the Strait of Hormuz and damaged energy
+    infrastructure in the Gulf. There are plenty more. As an emergency measure, China’s
+    planning agency has banned exports of refined products including petrol, diesel
+    and jet fuel. The country’s small, independent “teapot” refiners, clustered in
+    Shandong province, are busy processing Iranian crude, which is still allowed to
+    pass through the strait. And if the war drags on, China may also dip into its
+    vast strategic reserve of oil, which it diligently topped up when oil prices were
+    low last year. “This is China’s nightmare,” said Lindsey Graham, an American senator,
+    earlier this month. But precisely because China’s vulnerability to an energy shock
+    haunts its leaders, they have taken steps to mitigate it. China’s exposure is
+    a result of its gargantuan appetite. The country produces more oil than Kuwait
+    or the United Arab Emirates (UAE); including petrol and other refined liquids,
+    it also outproduces Iraq. The problem is that China also consumes more energy
+    than America, Russia and India combined—an amount that dwarfs its domestic output.
+    Coal, which runs in thick seams across the northern provinces of Shanxi, Shaanxi
+    and Inner Mongolia, provides most of that energy. Renewables like wind and solar
+    power represent a fast-growing share. But oil still produces more than 18% of
+    the total (see chart). Despite China’s own respectable crude production, it relies
+    on oil imports for about 13-14% of its energy needs. More than half of these come
+    from the Middle East. Much of this is now stuck. The war has snarled up Hormuz,
+    the narrow waterway separating Iran from the UAE and Oman, through which about
+    15m barrels of crude per day used to travel. Shipments from Iran’s neighbours
+    have slowed to a trickle. Meanwhile, much of the oil Saudi Arabia is frantically
+    piping to its west coast, in order to avoid the strait, does not suit China’s
+    refiners. And Russian crude was promptly bought by India after America gave its
+    blessing, suspending the tariff threat it previously brandished to discourage
+    such purchases. China does, however, have some advantages, including a handy source
+    of supply that is off limits to many others: Iran itself. An average of about
+    1.3m-1.4m barrels per day of Iranian oil have been able to pass through the strait
+    this month, according to Kpler, a data firm. That is roughly 90% of the pre-war
+    amount. Most of this is destined for China. The country’s national oil companies
+    do not dare touch the stuff for fear of Western sanctions which would cut them
+    off from the dollar-centric global financial system. But the tiny teapots, which
+    collectively account for about a quarter of China’s output, are happy to take
+    Iranian oil, often paying in yuan, according to Muyu Xu of Kpler. Some of the
+    teapots seem surprisingly sanguine about the next few weeks. The turmoil has tempted
+    them to raise prices for their refined products, even as they work through cheap
+    crude inputs bought before the war. “We’re…aiming to reap profits in the month
+    of March for the whole of 2026,” a teapot official recently told Reuters, a news
+    agency. But that assumes buyers will be willing to pay the higher prices they
+    are now charging. As well as Iranian crude, China can tap its own vast stockpiles.
+    They are thought to cover about 120 days of import demand, once inventories held
+    by state-owned enterprises and refiners are added to the government’s strategic
+    reserve. In the meantime, the authorities have banned exports of refined fuel
+    products. It has also stuck to a formula established in 2016, which adjusts retail
+    prices only gradually and freezes them altogether if the global benchmark exceeds
+    $130 per barrel. When the cost of crude surged from April 2020 to June 2022, the
+    formula passed only about three-quarters of the increase, according to researchers
+    at the World Bank. On March 9th China raised the price caps on petrol by 695 yuan
+    ($100) per tonne. This translated into a 7.8% rise in Guangdong province, where
+    Zhuhai is located. Prices in Hong Kong are almost 50% higher. Still, China cannot
+    shield its economy entirely. Higher prices will raise freight charges and ripple
+    through supply chains, increasing the cost of many chemicals, plastics and synthetic
+    rubber. If the oil price averages even $85 a barrel this year (and it is currently
+    above $110), it could shave 0.3 percentage points from growth in China’s industrial
+    production, according to Shenwan Hongyuan, a securities firm. Goldman Sachs has
+    already cut its GDP growth forecast for this year by 0.1 percentage points to
+    4.7%, although the bank made more substantial cuts to its forecasts for India
+    (0.5 points), South-East Asia (0.4) and Japan (0.3). In the long run, chaos in
+    the Middle East might hasten worldwide adoption of electric vehicles, as welcome
+    as solar and wind power, all of which China supplies in abundance. Countries may
+    choose to turn away from fossil fuels not because these are dirty but because
+    so much of the supply comes from such a dangerous region. In the past countries
+    have worried about the “China squeeze”, fearing that China might bully or manipulate
+    countries that depend on its suppliers. After recent events in the Gulf, however,
+    energy-insecure places may see dependence on China as the lesser evil. Better
+    to be squeezed than straitened. ■ For more expert analysis of the biggest stories
+    in economics, finance and markets, sign up to Money Talks , our weekly subscriber-only
+    newsletter. This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/03/17/china-cannot-escape-the-energy-shock'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段提到香港居民去珠海旅游，但第二段明确指出有些驾驶者去珠海是为了加更便宜的汽油（fill up their tanks with
+      petrol），因为价格有折扣（discount）。
+    options:
+      A: To visit the world's largest theme park with a whale shark.
+      B: To purchase cheaper petrol due to mainland price-smoothing policies.
+      C: To utilize the 55km bridge as a faster commuting route.
+      D: To escape the impact of the war in Iran on Hong Kong energy supplies.
+    q_number: 1
+    stem: According to the first two paragraphs, why do some Hong Kong residents travel
+      to Zhuhai?
+  - answer: B
+    explanation: 文中指出国有的石油公司不敢触碰伊朗石油，担心受到制裁，而小型独立炼厂（teapots）不在乎，因为它们通常使用人民币支付，规避了以美元为中心的金融体系。
+    options:
+      A: They are exempt from the Chinese government's ban on refined product exports.
+      B: They operate outside the dollar-centric global financial system through yuan
+        payments.
+      C: They have secured exclusive rights to the strategic oil reserves.
+      D: They are specifically authorized by Western nations to maintain global supply.
+    q_number: 2
+    stem: What is the primary reason why 'teapot' refiners in China are still able
+      to process Iranian crude?
+  - answer: C
+    explanation: 文章提到中国虽然生产大量能源，但其消费量超过了美、俄、印的总和，这种消费量使国内产量相形见绌（dwarfs its domestic
+      output），因此不得不依赖进口。
+    options:
+      A: Its domestic energy output is insignificant compared to that of Kuwait.
+      B: Its reliance on coal has made it immune to international oil shocks.
+      C: Its massive consumption dwarfs domestic production, necessitating significant
+        imports.
+      D: Its strategic reserves have been fully exhausted to mitigate recent price
+        surges.
+    q_number: 3
+    stem: Which of the following describes China's energy vulnerability according
+      to the text?
+  - answer: B
+    explanation: 文中提到尽管局势动荡，这些小型炼厂（teapots）似乎对未来几周感到意外的'sanguine'，联系后文提到他们试图在三月份大赚一笔，可知这是指乐观自信。
+    options:
+      A: Anxious or worried about future financial losses.
+      B: Confident and optimistic about their situation.
+      C: Confused by the sudden market volatility.
+      D: Critical of the government's export bans.
+    q_number: 4
+    stem: 'The term ''sanguine'' (in paragraph 6) most likely means:'
+  - answer: C
+    explanation: 文章最后一段指出，中东的混乱可能加速全球对电动汽车的采用，因为各国为了能源安全，可能不再仅仅因为环保而转向非化石燃料，而是因为供应来源太危险。
+    options:
+      A: It will likely force countries to accept a 'China squeeze' as unavoidable.
+      B: It will prompt a transition to fossil fuels that are sourced from safer regions.
+      C: It may accelerate the global adoption of electric vehicles to reduce dependency.
+      D: It will lead to a total collapse of supply chains for industrial chemicals
+        and rubber.
+    q_number: 5
+    stem: What does the author suggest about the long-term impact of the Middle East
+      energy crisis on global energy policy?
+  source_journal: Economist
+  title: China cannot escape the energy shock
+- article_update_date: 04.01.2026
+  body_text: 'A US government panel on Tuesday exempted oil and gas drilling in the
+    Gulf of Mexico from the Endangered Species Act (ESA), a move which critics say
+    could doom a rare whale species and harm other marine life. The Endangered Species
+    Committee – which had not convened in more than three decades – voted to approve
+    the request for the ESA exemption at the request of the defense secretary, Pete
+    Hegseth. Hegseth has said environmentalists’ lawsuits against the industry threatened
+    to hobble the nation’s energy supply, while environmentalists fear drilling could
+    kill off protected species including Rice’s whales, whooping cranes and sea turtles.
+    Only about 51 Rice’s whales remain, and they and other wildlife are largely on
+    the brink of extinction because of the 2010 Deepwater Horizon oil rig spill, which
+    devastated the gulf when it leaked about 210m gallons. Nicknamed the “God squad”
+    by groups who say it can decide a species’ fate, the committee includes several
+    Trump administration officials and is chaired by the interior secretary, Doug
+    Burgum. Burgum, Hegseth and five other panel members unanimously voted for the
+    exemption. Steve Mashuda, attorney for the non-profit environmental law organization
+    Earthjustice, criticized the move. “The Trump administration is exploiting its
+    self-made gas crisis to get rid of protections for endangered whales and other
+    imperiled species in the Gulf of Mexico,” he said. “Secretary Hegseth and his
+    extinction committee claim this will eventually cut costs for cash-strapped Americans,
+    but gulf communities know what unrestrained drilling will really bring: devastating
+    oil spills and the destruction of ecosystems and coastal economies. Earthjustice
+    and our partners will go to court to stop this illegal order.” Donald Trump has
+    made increased fossil fuel production a central focus of his second term. He wants
+    to open new areas of the gulf off the Florida coast to drilling, and has proposed
+    sweeping rollbacks of environmental regulations disliked by industry. Hegseth
+    notified Burgum on 13 March that an ESA exemption for oil and gas drilling in
+    the gulf was “necessary for reasons of national security”, according to a court
+    filing from the administration. The request came amid global oil shocks and soaring
+    energy prices brought on by the Iran war. Hegseth told committee members on Tuesday
+    that Iran’s efforts to block shipping through the world’s busiest oil route, the
+    strait of Hormuz, underscored the national security imperative of a robust domestic
+    oil production. He said the energy industry was under threat from pending litigation
+    from environmental groups challenging government approvals for drilling. “Disruptions
+    to gulf oil production doesn’t hurt just us, it benefits our adversaries,” Hegseth
+    said. “We cannot allow our own rules to weaken our standing and strengthen those
+    who wish to harm us. When development in the gulf is chilled, we are prevented
+    from producing the energy we need as a country and as a department.” The Gulf
+    of Mexico is one of the nation’s top oil-producing regions. It accounts for more
+    than 10% of crude pumped annually in the US, plus a small share of domestic natural
+    gas production. But the gulf also has been the scene of environmental disasters
+    such as BP’s Deepwater Horizon blowout in 2010 that killed 11 workers and spilled
+    millions of gallons of oil. A spill in the gulf earlier this month spread 373
+    miles (600km), contaminating seven protected natural reserves. The Trump administration
+    in mid-March approved BP’s new $5bn ultra-deepwater drilling project in the gulf.
+    Environmental groups sought unsuccessfully to block Tuesday’s meeting and have
+    pledged to legally challenge any action by the committee. They say an exemption
+    would doom the rare Rice’s whale to extinction. “If Trump is successful here,
+    he could be the first person in history to knowingly extirpate a species from
+    the face of the earth. That’s how precarious the condition of the Rice’s whale
+    is,” said Patrick Parenteau, emeritus professor of law at the Vermont Law School.
+    A 2025 National Marine Fisheries Service analysis determined the Gulf of Mexico
+    oil and gas program was likely to harm several species of whales, sea turtles
+    and gulf sturgeon that face potential harm from ship strikes, oil spills and other
+    adverse events. The Endangered Species Committee was established in 1978 as a
+    way to exempt projects from the Endangered Species Act, which makes it illegal
+    to harm or kill species on a protected list, if no alternative would provide the
+    same economic benefits in a region or if it was in the nation’s best interest.
+    Before this week, the panel had convened just three times in its 53-year history
+    and issued only two exemptions. The first was in 1979 to allow construction on
+    a dam on the Platte River in Wyoming, home to the whooping crane. It last met
+    in 1992, allowing logging in northern spotted owl habitats in Oregon. That exemption
+    request was later withdrawn. Its latest meeting follows a federal judge’s ruling
+    on Monday that struck down attempts during Trump’s first term to weaken rules
+    for endangered species. The panel’s members include the secretaries of agriculture,
+    interior and the army; the chairperson of the Council of Economic Advisers; and
+    the administrators of both the Environmental Protection Agency and the National
+    Oceanic and Atmospheric Administration. They all voted in favor of Hegseth’s request
+    for an exemption. The Associated Press contributed reporting'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: The passage explicitly states that Secretary Hegseth notified Burgum
+      that the exemption was 'necessary for reasons of national security', citing
+      the need for robust domestic oil production due to global oil shocks and potential
+      disruptions caused by the Iran war.
+    options:
+      A: To fulfill the economic demands of local coastal communities.
+      B: To prevent the extinction of the rare Rice’s whale population.
+      C: To ensure national security amid global energy concerns.
+      D: To comply with a recent federal judge’s ruling regarding environmental rules.
+    q_number: 1
+    stem: According to the passage, why did the Endangered Species Committee grant
+      an exemption for oil and gas drilling in the Gulf of Mexico?
+  - answer: A
+    explanation: The text mentions the committee is 'Nicknamed the “God squad” by
+      groups who say it can decide a species’ fate', implying the power to determine
+      whether a species survives or goes extinct.
+    options:
+      A: It highlights the committee’s absolute power to decide the fate of a species.
+      B: It refers to the religious affiliations of the committee members.
+      C: It marks the committee's commitment to divine protection of wildlife.
+      D: It acknowledges the committee’s role in restoring habitats damaged by oil
+        spills.
+    q_number: 2
+    stem: What is the significance of the 'God squad' nickname given to the Endangered
+      Species Committee?
+  - answer: B
+    explanation: Steve Mashuda of Earthjustice specifically criticized the administration
+      for 'exploiting its self-made gas crisis to get rid of protections for endangered
+      whales and other imperiled species'.
+    options:
+      A: The move is a necessary compromise to balance economic growth and environmental
+        conservation.
+      B: The administration is using a self-manufactured crisis as a pretext to bypass
+        environmental laws.
+      C: The committee is acting within its legal authority to protect national interests.
+      D: The decision will likely increase the population of protected species in
+        the long term.
+    q_number: 3
+    stem: Which of the following statements best reflects the viewpoint of Earthjustice
+      regarding the committee’s decision?
+  - answer: C
+    explanation: The passage notes the committee 'had not convened in more than three
+      decades' and, in its 53-year history, had convened only three times and issued
+      only two exemptions, indicating its rare usage.
+    options:
+      A: It is a frequently used body that regularly oversees energy projects.
+      B: It has consistently favored environmentalists over industry interests.
+      C: It is an rarely convened body that has granted very few exemptions in its
+        history.
+      D: It has been the primary tool for regulating offshore drilling since 1978.
+    q_number: 4
+    stem: How does the passage characterize the historical usage of the Endangered
+      Species Committee?
+  - answer: C
+    explanation: Patrick Parenteau states, 'If Trump is successful here, he could
+      be the first person in history to knowingly extirpate a species from the face
+      of the earth,' referring directly to the Rice’s whale’s precarious condition.
+    options:
+      A: The vote may set a precedent that permanently lowers the price of fossil
+        fuels.
+      B: The administrative procedures for the meeting were technically illegal.
+      C: The decision could lead to the intentional extinction of the Rice’s whale.
+      D: The Gulf of Mexico’s infrastructure is too weak to support more drilling.
+    q_number: 5
+    stem: What is the main concern expressed by experts like Patrick Parenteau regarding
+      the committee's recent vote?
+  source_journal: The Guardian
+  title: ‘God squad’ waives endangered species law to allow US drilling in Gulf of
+    Mexico
+- article_update_date: 03.30.2026
+  body_text: '| Next | Section menu | Main menu | The Poet Laureate of Madness Why
+    Alfred, Lord Tennyson feels so modern by James Parker The appointment of a new
+    medicine man is a dicey moment in the life of a tribe. Get it wrong, pick the
+    wrong guy, and your deepest spiritual diseases will go not only untreated but
+    undetected. Get it right, and there’s at least a chance of an accurate diagnosis.
+    The Victorians, rather surprisingly, got it right. In fact, for all their pomposity
+    and stolidity and leadenness of soul, and for all their windbag religiosity, they
+    nailed it. They chose as their national poet a vagrant and depressed semi-atheist
+    from a family of lunatics. They chose Alfred, Lord Tennyson. Tennyson was already
+    famous, largely on the strength of his blockbuster elegy, In Memoriam , when Queen
+    Victoria made him her poet laureate in 1850. But it is with the haunted and chaotic
+    pre-fame poet—the shaggy, craggy, germinal genius wandering in his cloud of tobacco
+    smoke and melancholy, poring over his books about physics and chemistry—that Richard
+    Holmes’s The Boundless Deep is chiefly concerned. Subtitled Young Tennyson, Science,
+    and the Crisis of Belief , it tracks this character’s metabolic absorption of
+    the most disturbing, displacing ideas that contemporary science had to offer;
+    their effect on his personality; and their manifestation in his poetry. Holmes,
+    the master scholar-biographer of Coleridge and Shelley, is ideally qualified for
+    such a gig. In prose so lucid that you barely notice when it has slipped into
+    a stream of profound interiority, into the hidden life-current of his subject,
+    Holmes gives us what feels like the whole man. His Tennyson is cosmically miserable,
+    while also being—when among friends—very good company: that is, highly appealing
+    to us moderns. He devours works of popular science, the information they contain
+    as intoxicating to him as the poetry of his idols Keats and Shelley. Nervously
+    puffing away on “infinite tobacco” (as his friend Thomas Carlyle described it),
+    he rides the fault line between epochs. Astronomy is deepening space, geology
+    is deepening time, and as the news comes in—one revelation after another—he can
+    feel the answering tremor in human consciousness, and the fearful new understanding
+    it foretells. An empty heaven. A disenchanted world. “I stretch lame hands of
+    faith,” he writes in In Memoriam , “and grope, / And gather dust and chaff.” The
+    new science of psychology, too, absorbs him. Not at all a degraded Romantic (for
+    which he is sometimes mistaken), this Tennyson, in his gleamy-gloomy way, is a
+    looming giant of modernity. Behind him is Keats and “ The Eve of St. Agnes ”;
+    before him is The Waste Land . Tennyson was prolific, prodigious. He rumbled with
+    poetry; he recited it endlessly; it poured off him on long walks. Language teemed
+    inside him, especially when he was a young man, producing verse so musical, it
+    sometimes seems on the verge of becoming pure fluid sound, a kind of glittering
+    higher gibberish: A bow-shot from her bower-eaves, He rode between the barley-sheaves,
+    The sun came dazzling thro’ the leaves, And flam’d upon the brazen greaves Of
+    bold Sir Lancelot. The darker strands of the young Tennyson’s existence—madness,
+    spurned love, ruinous genes, insolvency—would become the themes of a later poem
+    that Holmes regards as pivotal. It appeared in Tennyson’s first book as poet laureate,
+    Maud, and Other Poems , published in 1855. The reviews were not good. In fact,
+    they were violently hostile. Despite containing such patriotic bangers as “ Ode
+    on the Death of the Duke of Wellington ” and “ The Charge of the Light Brigade
+    ,” both previously published (and the latter instantly memorized by half the British
+    empire), the new collection was discredited, in the eyes of its critics, by its
+    long centerpiece, “ Maud: A Monodrama ,” a poem narrated by a madman. “Ill considered,
+    crude, tawdry and objectionable” was one reviewer’s judgment of Maud . To the
+    reviewer in the Press, it might have been the output of “a love-sick youth in
+    the measles.” One small constituency, however, rated Maud quite highly: Victorian
+    shrink-types. Clinical accuracy is not something with which poets have traditionally
+    tended to preoccupy themselves, but Tennyson’s account of mental extremity impressed
+    the experts. Maud got a glowing write-up in the October 1855 edition of The Asylum
+    Journal of Mental Science , and a doctor named Robert Mann published an entire
+    pro- Maud pamphlet , Tennyson’s Maud Vindicated: An Explanatory Essay . “Where
+    can this unprofessional psychologist have acquired his accurate insight into the
+    phenomena of insanity?” he asked. (“I seem to have the doctors on my side if no
+    one else,” the laureate growled in a grateful letter to Mann.) “Maud” was personal.
+    Tennyson called it “my little Hamlet ” and then—after the critical kicking it
+    sustained—“poor little Maud,” and it is indeed a strange, stormy, fragmented,
+    wildly lyrical, futuristically subjective freak-out of a poem, part melodrama,
+    part psychotic break. The narrator’s father, destroyed by the failure of “a vast
+    speculation,” commits suicide; the narrator becomes obsessed with Maud, the daughter
+    of the man who bankrupted his father, now living in grandeur on a neighboring
+    estate and flashing her profile at him—“Faultily faultless, icily regular, splendidly
+    null, / Dead perfection, no more”—as she rides past in her carriage. Obsessed,
+    obsessed, truly obsessed: obsession like a dead flame licking the walls of life,
+    or a wind singing through the deepest flaw in the universe. Maud and the narrator
+    meet and fall in love—or do they? At one point, he seems to be lying outside her
+    house in the dark—in a trance? stalking her?—hallucinating the sound of her footsteps
+    in the movement of the leaves. Above him are the stars, bleep-bleeping away from
+    the depths of untenanted space. He talks to them, lamenting the boundless plan
+    That makes you tyrants in your iron skies, Innumerable, pitiless, passionless
+    eyes, Cold fires, yet with power to burn and brand His nothingness into man. The
+    cold fires, the nothingness—as Holmes shows us, all of this Tennyson had seen
+    through the high-powered telescope in his garden, and read about in the books
+    that were filling his library. To combine this kind of depth perception with the
+    galactic ache of an unreal love, of an undead infatuation, that was new. That
+    was scary. No wonder reviewers recoiled. The vision was not just telescopic, but
+    microscopic. In the second—and maddest—section of the poem, the narrator, having
+    fled in panic to France, roams the Breton shoreline. He fixates upon a seashell:
+    The tiny cell is forlorn, Void of the little living will That made it stir on
+    the shore. Did he stand at the diamond door Of his house in a rainbow frill? Buffeted
+    by hallucinations as he is, he zooms in on the long-gone shell-dweller like one
+    of the underwater cameras in David Attenborough’s Blue Planet . Part of Tennyson
+    lived, was encamped, at the outer reaches of the psyche. Alcoholism, seizures,
+    mood swings, incontinent rage—all ran in his family’s “black blood.” His father
+    was regularly deranged; his brother Edward was a helpless depressive; and his
+    brother Septimus introduced himself to Dante Gabriel Rossetti with the words “I
+    am Septimus, the most morbid of the Tennysons.” Septimus was under the care of
+    Matthew Allen, a psychiatric pioneer who called his establishment at High Beech,
+    Essex, not an asylum but “a place of seclusion for exhausted minds.” Tennyson
+    befriended Allen and began to spend a lot of time at High Beech: Holmes connects
+    the poet’s observation of the patients there directly to “Maud,” noting, “The
+    gardens at High Beech, the paths and the shrubberies, the wandering figures of
+    the insane, muttering to themselves, recur like a remembered tune fifteen years
+    later.” A remembered tune, but also a staticky signal from the incoming 20th century,
+    the noise of a voice splintered into different voices, fading in and out of clarity.
+    Modern critics adore “Maud” for precisely the qualities that repelled its original
+    audience—for its weirdness and its brokenness, and its pre-Freudian blast of erotic
+    attachment. Tennyson would never be this exposed again: fame, the laureateship,
+    and a steady marriage all solidified him. But for a long moment, he was beautifully
+    out of sync with his public and ahead of his time, as any healer must be—because
+    where can healing come from if not the future? This article appears in the March
+    2026 print edition with the headline “The Madness of Lord Tennyson.” This article
+    was downloaded by calibre from https://www.theatlantic.com/magazine/2026/03/alfred-lord-tennyson-psychology-modernism/685760/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.4
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章提到维多利亚时代的人通常表现出做作、木讷和浮夸的宗教倾向，但他们却选择了丁尼生——一个来自疯狂家族的、处于边缘的、抑郁的准无神论者作为桂冠诗人，这与他们刻板的社会形象形成了鲜明对比，体现了他们“找对了人”。
+    options:
+      A: Because they prioritized his public reputation over his personal mental struggles.
+      B: Because they intentionally selected an outsider to mirror their own spiritual
+        crisis.
+      C: Because they defied their own cultural norms of propriety and stoicism by
+        choosing a troubled non-conformist.
+      D: Because Tennyson was already a well-established scientific authority at the
+        time of his appointment.
+    q_number: 1
+    stem: According to the first two paragraphs, why does the author consider the
+      Victorians’ choice of Tennyson as Poet Laureate to be significant?
+  - answer: B
+    explanation: 文章指出当时的科学发现（天文学和地质学）正在深化对空间和时间的认识，导致“一个空荡荡的天堂”和“祛魅的世界”。丁尼生作为一个阅读大众科学作品的人，正处于旧信仰与新科学带来的理解之间的断层线上，体现了他内心的冲突。
+    options:
+      A: He was caught between his dedication to classical poetry and the new requirements
+        of his position.
+      B: He was struggling to balance his personal religious faith with the rise of
+        scientific skepticism.
+      C: He was failing to adapt his literary style to the emerging demands of the
+        scientific community.
+      D: He was mediating the conflict between the Romantic traditions and the political
+        turmoil of the Victorian era.
+    q_number: 2
+    stem: What does the author imply by describing Tennyson as 'riding the fault line
+      between epochs'?
+  - answer: B
+    explanation: 文章提到当时的批评家认为《莫德》粗糙且令人反感，而一个小群体——维多利亚时代的心理治疗师们却高度评价该作品，认为其对精神极端状态的描述具有临床准确性。
+    options:
+      A: The public hailed it as a masterpiece, while critics condemned its lack of
+        patriotism.
+      B: The public and critics were repelled by its morbid themes, but psychological
+        experts praised its clinical accuracy.
+      C: The poem was criticized for being too patriotic, despite receiving praise
+        from medical professionals for its brevity.
+      D: The poem’s focus on insanity was seen as a bold artistic choice by critics
+        but dismissed as amateurish by doctors.
+    q_number: 3
+    stem: How did the initial reception of Tennyson’s poem 'Maud' reflect the gap
+      between the public and the scientific community?
+  - answer: C
+    explanation: 文章通过描述叙述者将对莫德的迷恋与天文学（冷酷的星空、不可知的宇宙）以及显微镜式的视角结合，强调这种表现手法不仅是一种主观的疯狂，更是丁尼生将科学深度与心理深度结合的现代性产物。
+    options:
+      A: The narrator's desire for financial gain following his father’s failed speculation.
+      B: The influence of the traditional Romantic tropes of unrequited love.
+      C: A modern, subjective experience merged with scientific perspectives of the
+        universe.
+      D: The poet’s childhood fascination with high-powered telescopes.
+    q_number: 4
+    stem: In describing the narrator’s obsession in 'Maud,' the author highlights
+      its connection to which of the following?
+  - answer: C
+    explanation: 文章结尾指出，现代评论家之所以推崇《莫德》，正是因为其怪异、碎片化和前弗洛伊德式的性爱依恋，这些曾是当初观众排斥它的原因。这证明了它在当时是超前于时代的。
+    options:
+      A: It is admired for being an early example of poetic mastery within the Victorian
+        canon.
+      B: It is valued for its accurate depiction of the poet's own personal recovery.
+      C: It is praised for qualities that were once seen as flaws, marking it as ahead
+        of its time.
+      D: It is recognized as the turning point where Tennyson gave up his scientific
+        interests for poetry.
+    q_number: 5
+    stem: Which of the following best summarizes the author's argument regarding the
+      modern appreciation of 'Maud'?
+  source_journal: Atlantic
+  title: Chapter 14
