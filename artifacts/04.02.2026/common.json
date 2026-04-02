@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.02.2026",
+  "papers": [
+    {
+      "title": "How high could global inflation go?",
+      "article_update_date": "03.27.2026",
+      "source_journal": "Economist",
+      "body_text": "How high could global inflation go? Finance & economics | Here we go again How high could global inflation go? With luck, the Iran war won’t cause a recession. But the surge in energy prices will push up the cost of living March 26th 2026 AFTER PEAKING at more than 10% in late 2022, because of post-pandemic supply-chain snarl-ups, over-generous stimulus cheques and, for good measure, an energy shock from Russia’s full-scale invasion of Ukraine , average inflation across the rich world fell. By the beginning of this year it was near 2% (see chart 1, top). Central bankers thought they had slain the inflationary beast. Just as they turned away, however, its beady eye twitched open. America’s and Israel’s war against Iran has disrupted energy markets once again. Even as Donald Trump seeks to soothe markets by saying hostilities could end soon , flows of oil through the Strait of Hormuz remain perhaps 95% below normal levels. Outmatched by its enemies on the battlefield, the Islamic Republic has retaliated by bombing natural-gas plants across the region. Energy prices have soared. The price of Brent crude is around $100 a barrel (albeit jumping about), up from $60 at the start of the year. American petrol prices have risen (see chart 1, bottom). Fortunately, these ructions would need to get much worse to provoke a global recession. Less happily, they will almost certainly further stoke popular anger over the cost of living. At some point a rise in the cost of energy causes output to fall. Firms’ profit margins decline as they pay more for fuel and power. Consumers forced to fork out more for petrol cut discretionary spending. Oxford Economics, a consultancy, reckons that two months of crude-oil prices at $140 (alongside higher natural-gas prices) would push parts of the global economy into a mild slump. A survey of economists by the Wall Street Journal suggests that $138 is America’s tipping point. Many economies seemed primed for a downturn even before the war began. Consumer confidence is close to an all-time low in America and scarcely higher elsewhere. That scenario may be too gloomy. Research from Deutsche Bank shows that the change in oil prices matters, not just the level. America’s recession of 1973-75 was so deep because oil prices more than tripled in short order. So far in 2026 they have not even doubled. Steven Blitz of TS Lombard, a consultancy, points out that around the oil-induced GDP contraction of 1990, the price of West Texas Intermediate crude rose by 166%. To provoke a comparable shock today, it would need to hit $175 (from around $90 now). Today’s shock is closer to touching a cattle prod than to a toaster in the bathtub. Moreover, the world economy came into the energy crisis in decent nick. Real wages across advanced economies are growing by at least 1% a year. In the fourth quarter of 2025 global corporate earnings rose by 15% in nominal terms, compared with a year earlier. A range of real-time data suggests that in recent months growth in the rich world has picked up (see chart 2). Despite the gyrations in energy markets, few investors are panicking about a recession. Measures produced by Goldman Sachs, a bank, which combine analysis of equities, foreign exchange and other assets, imply that investors are pricing in a mild slowdown, not recession. That same data set, however, suggests that investors worry a great deal about inflation. Market-based measures of inflation expectations are shooting up. A rule of thumb says that a sustained $10 rise in oil prices eventually adds 0.3-0.4 percentage points to overall inflation. Assuming oil stays around $100 a barrel, the OECD’s average inflation rate might therefore rise above 4%; at $140, inflation of 5-6% is not out of the question. Most worrying, central banks might be less able to respond to an inflation shock than the last time they faced the problem in 2022. In America especially, monetary policymakers might feel constrained in raising interest rates. Mr Trump would go ballistic if Kevin Warsh, his doveish pick to lead the Federal Reserve, started his tenure in a few months’ time by tightening monetary policy. That would raise mortgage rates for Americans already furious about the rising cost of living. What is more, companies might be quicker to pass costs on to consumers this time than they were in 2022 and 2023, having eventually proved back then that they could get away with raising prices. Although real-time data are not always reliable, they hint that the inflation scourge is indeed stirring. Alternative Macro Signals, a consultancy, analyses millions of news articles. Its global inflation index, which has proved to be a useful predictor of official numbers, has recently risen sharply. If historical patterns hold, by July monthly global inflation could be above 0.6%. That is equivalent to more than 7% on an annualised basis. Alternative Macro Signals is not the only worrying data point. Truflation, a consultancy, analyses prices in real time from a wide variety of sources. Its figures suggest that this month American year-on-year goods inflation has jumped from less than 1% to nearly 3.5%. This was almost entirely the result of rising petrol prices. If central banks will not nip another cost-of-living crisis in the bud, governments may feel forced to bail out citizens. In 2022 and 2023 many of those in Europe allocated more than 2.5% of GDP to reduce soaring energy costs facing households and businesses after Russia drastically reduced its hydrocarbon exports in response to the West’s Ukraine-related sanctions. The measures helped Europe’s poorest avoid severe deprivation. But they came at enormous fiscal cost. Perhaps half the spending was untargeted, so rich people—the biggest energy users who needed least help—benefited most. Would governments pick more focused measures this time round? At a time of populist anger and spendthrift politicians, don’t bank on it. The longest-lasting economic consequence of war in the Middle East could be to compound the rich world’s fiscal woes. ■ For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/03/23/how-high-could-global-inflation-go",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "After peaking in 2022, inflation in the rich world had fallen, and central bankers believed they had ________ the inflationary beast.",
+          "options": {
+            "A": "raised",
+            "B": "fed",
+            "C": "slain",
+            "D": "avoided"
+          },
+          "answer": "C",
+          "explanation": "Context suggests the battle against inflation was considered won, making 'slain' the appropriate metaphor."
+        },
+        {
+          "q_number": 2,
+          "stem": "Just as they turned away, however, the beast's ________ eye twitched open.",
+          "options": {
+            "A": "blind",
+            "B": "weary",
+            "C": "beady",
+            "D": "closed"
+          },
+          "answer": "C",
+          "explanation": "The text explicitly describes the beast's 'beady eye' twitching open."
+        },
+        {
+          "q_number": 3,
+          "stem": "America’s war against Iran has ________ energy markets once again.",
+          "options": {
+            "A": "stabilized",
+            "B": "disrupted",
+            "C": "improved",
+            "D": "expanded"
+          },
+          "answer": "B",
+          "explanation": "War typically disrupts markets; the text mentions the conflict caused turmoil."
+        },
+        {
+          "q_number": 4,
+          "stem": "Even as Donald Trump seeks to ________ markets, flows of oil remain below normal.",
+          "options": {
+            "A": "agitate",
+            "B": "soothe",
+            "C": "ignore",
+            "D": "monitor"
+          },
+          "answer": "B",
+          "explanation": "Leaders often try to 'soothe' markets to prevent panic during crises."
+        },
+        {
+          "q_number": 5,
+          "stem": "The Islamic Republic has ________ by bombing natural-gas plants.",
+          "options": {
+            "A": "yielded",
+            "B": "withdrawn",
+            "C": "surrendered",
+            "D": "retaliated"
+          },
+          "answer": "D",
+          "explanation": "The context describes military action taken in response to being outmatched, which is a retaliation."
+        },
+        {
+          "q_number": 6,
+          "stem": "Fortunately, these ructions would need to get much worse to ________ a global recession.",
+          "options": {
+            "A": "avert",
+            "B": "postpone",
+            "C": "anticipate",
+            "D": "provoke"
+          },
+          "answer": "D",
+          "explanation": "The text argues that the current situation is not yet bad enough to 'provoke' or cause a recession."
+        },
+        {
+          "q_number": 7,
+          "stem": "Less happily, they will almost certainly further ________ popular anger over the cost of living.",
+          "options": {
+            "A": "ignore",
+            "B": "dampen",
+            "C": "alleviate",
+            "D": "stoke"
+          },
+          "answer": "D",
+          "explanation": "'Stoke' means to increase or intensify, which fits the context of rising anger."
+        },
+        {
+          "q_number": 8,
+          "stem": "Firms’ profit margins ________ as they pay more for fuel and power.",
+          "options": {
+            "A": "soar",
+            "B": "expand",
+            "C": "stabilize",
+            "D": "decline"
+          },
+          "answer": "D",
+          "explanation": "When input costs like fuel rise, profit margins naturally decline."
+        },
+        {
+          "q_number": 9,
+          "stem": "Consumers forced to fork out more for petrol cut ________ spending.",
+          "options": {
+            "A": "essential",
+            "B": "domestic",
+            "C": "discretionary",
+            "D": "industrial"
+          },
+          "answer": "C",
+          "explanation": "People cut back on non-essential, or 'discretionary', spending when living costs rise."
+        },
+        {
+          "q_number": 10,
+          "stem": "A survey of economists suggests that $138 is America’s ________ point.",
+          "options": {
+            "A": "starting",
+            "B": "tipping",
+            "C": "break",
+            "D": "boiling"
+          },
+          "answer": "B",
+          "explanation": "A 'tipping point' is a standard term for the moment a small change causes a big effect."
+        },
+        {
+          "q_number": 11,
+          "stem": "Many economies seemed ________ for a downturn even before the war began.",
+          "options": {
+            "A": "prepared",
+            "B": "delayed",
+            "C": "primed",
+            "D": "relieved"
+          },
+          "answer": "C",
+          "explanation": "'Primed for' implies ready or set to experience something."
+        },
+        {
+          "q_number": 12,
+          "stem": "Research shows that the change in oil prices matters, not just the ________.",
+          "options": {
+            "A": "history",
+            "B": "demand",
+            "C": "level",
+            "D": "growth"
+          },
+          "answer": "C",
+          "explanation": "The text contrasts the 'change' in prices with the 'level' of prices."
+        },
+        {
+          "q_number": 13,
+          "stem": "Moreover, the world economy came into the energy crisis in decent ________.",
+          "options": {
+            "A": "nick",
+            "B": "shape",
+            "C": "debt",
+            "D": "order"
+          },
+          "answer": "A",
+          "explanation": "The phrase 'in decent nick' is a colloquial expression meaning in good condition."
+        },
+        {
+          "q_number": 14,
+          "stem": "Despite the ________ in energy markets, few investors are panicking.",
+          "options": {
+            "A": "gyrations",
+            "B": "stagnation",
+            "C": "equilibrium",
+            "D": "harmony"
+          },
+          "answer": "A",
+          "explanation": "'Gyrations' describes the volatile ups and downs of energy prices."
+        },
+        {
+          "q_number": 15,
+          "stem": "Market-based measures of inflation expectations are shooting ________.",
+          "options": {
+            "A": "up",
+            "B": "aside",
+            "C": "down",
+            "D": "through"
+          },
+          "answer": "A",
+          "explanation": "Rising inflation expectations are described as 'shooting up'."
+        },
+        {
+          "q_number": 16,
+          "stem": "Monetary policymakers might feel ________ in raising interest rates.",
+          "options": {
+            "A": "empowered",
+            "B": "encouraged",
+            "C": "motivated",
+            "D": "constrained"
+          },
+          "answer": "D",
+          "explanation": "Political pressure makes it difficult for policymakers to act freely; they feel 'constrained'."
+        },
+        {
+          "q_number": 17,
+          "stem": "Mr Trump would go ________ if his doveish pick started tightening monetary policy.",
+          "options": {
+            "A": "ballistic",
+            "B": "calm",
+            "C": "moderate",
+            "D": "soft"
+          },
+          "answer": "A",
+          "explanation": "'Go ballistic' is an idiom for becoming extremely angry."
+        },
+        {
+          "q_number": 18,
+          "stem": "Alternative Macro Signals analyses millions of news articles to ________ official numbers.",
+          "options": {
+            "A": "predict",
+            "B": "distort",
+            "C": "ignore",
+            "D": "verify"
+          },
+          "answer": "A",
+          "explanation": "The index is described as a 'useful predictor' of official numbers."
+        },
+        {
+          "q_number": 19,
+          "stem": "If central banks will not nip the crisis in the ________, governments may feel forced to act.",
+          "options": {
+            "A": "leaf",
+            "B": "bud",
+            "C": "root",
+            "D": "seed"
+          },
+          "answer": "B",
+          "explanation": "'Nip in the bud' is the standard idiom for stopping something early."
+        },
+        {
+          "q_number": 20,
+          "stem": "At a time of populist anger and ________ politicians, don’t bank on it.",
+          "options": {
+            "A": "thrifty",
+            "B": "spendthrift",
+            "C": "diligent",
+            "D": "cautious"
+          },
+          "answer": "B",
+          "explanation": "The context implies governments are prone to high spending, fitting 'spendthrift'."
+        }
+      ]
+    },
+    {
+      "title": "Nigeria takes its place on world stage in quest to become regional superpower",
+      "article_update_date": "03.29.2026",
+      "source_journal": "The Guardian",
+      "body_text": "“There are chapters in our shared history that I know have left some painful marks,” King Charles said during a state banquet to welcome the Nigerian president, Bola Tinubu, to the UK, in a year in which the monarch is expected to come under renewed pressure to make a formal apology for transatlantic slavery and colonialism. But while demands grow from African and Caribbean nations for the UK to further reparative justice, Nigeria and the UK are looking to the future of global trade. Tinubu’s state visit last week is being celebrated as a return to the world stage for Africa’s largest economy. Tinubu is the first Nigerian president to receive a UK state visit in 37 years, and only the second African leader in history to be received at Windsor Castle, after Liberia’s William Tubman in 1962. This new chapter in the two countries’ relationship, which is rooted in colonial history, promises to help the UK’s ailing steel industry while furthering Nigeria’s ambition to become a regional superpower. At the state banquet, the king told Tinubu: “The many dynamic connections between our two nations have deep roots and yet I do not pretend that those roots are without a shadow … I do not seek to offer words that dissolve the past, for no words can. “But I do believe, as I know you believe, Mr President, that history is not merely a record of what was done to us: it is a lesson in how we go forward together to continue building a future rooted in hope and growth for all, and worthy of those who bore the pains of the past.” A deal in which the UK guarantees a £746m loan to refurbish two of Nigeria’s trading ports is one way cooperation between Nigeria and the UK can build a new future, independent of the debate about reparative justice. The issue of reparations is expected be discussed at the Commonwealth heads of government meeting this year. Nigeria also wants to diversify global partnerships and shift from its economic dependency on oil. It aims to be the dominant maritime hub for west and central Africa, which is rich in strategic mineral resources and has huge potential for consumer market growth. However, Lagos’s seaports are creaking – which is where UK financing comes in. As part of the ports deal, Nigeria will direct at least £236m in contracts to British suppliers, including £70m for the loss-making British Steel, which the UK government took control of last year. View image in fullscreen Bola Tinubu and Keir Starmer in Downing Street during Tinubu’s state visit to the UK. Nigeria is seeking to diversify its global partnerships and shift from its economic dependence on oil. Photograph: Kin Cheung/PA In one of its biggest-ever contracts, British Steel will supply 120,000 tonnes of steel billets to Nigeria. Meanwhile, cooperation, investment and partnerships in the fintech, creative and higher education sectors have been announced. Nigeria’s Zenith Bank is opening a Manchester branch, while the Fidelity Bank and fintech companies LemFi, Kuda and Moniepoint are expanding their UK operations. There will also be state cooperation on customs and irregular migration. Nigeria and the EU are also strengthening ties. At the banquet, King Charles said the UK was “blessed that so many people of Nigerian heritage … are now at the heart of British life through excelling at the highest levels” . About 270,000 people, or 0.5% of the population of England and Wales, recorded their ethnic group as Nigerian in the last census. Among the guests at the banquet were the England rugby captain Maro Itoje and his wife, Mimi, the Olympic 400m gold medallist Christine Ohuruogu, the former Lioness and football pundit Eni Aluko, and the UK’s first black female Michelin-starred chef, Adejoké Bakare. View image in fullscreen At the banquet, King Charles said the UK was ‘blessed that so many people of Nigerian heritage … are now at the heart of British life through excelling at the highest levels’. Photograph: Aaron Chown/PA For the first time in living memory, canapes were provided before the dinner to offer sustenance to Muslim guests who were unable to take part in iftar – the breaking of their fast – at sunset. Tinubu is the first Muslim leader to make a state visit to the UK during Ramadan since 1928. A prayer room was also set up in the castle for guests breaking their fast, and a mocktail offered that took inspiration from the classic Nigerian drink, the Chapman – usually a mix of Sprite, Fanta, cucumber, grenadine syrup andangostura aromatic bitters. The royal household’s version, called crimson bloom, used zobo, a popular west African beverage made of dried hibiscus flowers – known as sorrel in the Caribbean – mixed with English rose soda, a homemade hibiscus and ginger syrup, lemon and a hint of spice. At the banquet, the king quoted Hausa, Igbo and Yoruba proverbs, toasted in pidgin and described Nigeria as “an economic powerhouse, a cultural force and an influential diplomatic voice”. View image in fullscreen King Charles delivering his speech at the state banquet. Bola Tinubu’s state visit and the agreements that followed were welcomed in Nigeria as a vote of confidence for the country. Photograph: Yui Mok/PA But while the visit and the agreements that followed were welcomed in Nigeria as a vote of confidence for the country’s status and investability, the Nigerian government faces pressure to prove the country is getting a good deal. Analysts want to see the deals fully materialise and for the government to ensure foreign investment does not leave the country in a dependent, indebted position – or disadvantage domestic industry – and lead to growth across society. Nigerian officials say the conditions are attractive, but after a history of African nations being exploited through western debt, a £746m British loan will invite some domestic scepticism. Britain colonised Nigeria over 100 years, beginning with the annexation of Lagos in 1860. Nigerians trained in the UK in law, medicine, administration and technology after independence in 196o, growing what had been a small, prewar community of students, pioneering professionals, and seamen. Tens of thousands of Nigerian soldiers fought in first and second world war campaigns. The Royal Niger Company – later absorbed into the consumer goods company Unilever – was central to colonisation in the late 19th and 20th centuries. Palm oil harvested by Nigerian workers was essential for soap and lubricating Britain’s industrial machinery. Finished cotton wax-print material was exported from Manchester to Nigeria in the colonial era and still influences styles today. Cotton was at the heart of the most painful era in a relationship between nations defined all too often by extraction. An estimated 3.5 million enslaved people were shipped from Nigeria to the Americas to grow cash crops such as cotton, coffee, sugar and tobacco during the transatlantic trade alone. The British multinational company Shell finally divested from its onshore Nigerian oil operation last year, almost 90 years after it obtained a licence. The Benin bronzes, thousands of treasures looted by the British military in 1897, are at the centre of restitution campaigns. Nigeria-UK trade grew 11.4% to £8.1bn in the past year, with the UK £3.4bn in surplus. Nonetheless, the visit of Tinubu and the first lady, Oluremi Tinubu, highlighted the strategic importance of Nigeria after domestic overhauls intended to stabilise the Nigerian economy in an evolving global order.",
+      "difficulty_constant": 8.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary focus of the UK-Nigeria relationship as suggested by the recent state visit?",
+          "options": {
+            "A": "Addressing the unresolved debates regarding historical colonial reparations.",
+            "B": "Prioritizing future economic cooperation and trade over historical grievances.",
+            "C": "Completely dissolving the painful memories of the transatlantic slave trade.",
+            "D": "Formalizing an apology for the British colonization of Nigeria in the 19th century."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到尽管关于赔偿的讨论在增长，但两国正着眼于全球贸易的未来。文中提到新合作旨在建立一个独立于赔偿辩论之外的未来，表明经济贸易合作是当前的首要议程。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'creaking' in paragraph 6 imply about Lagos’s seaports?",
+          "options": {
+            "A": "They are undergoing extensive architectural renovations.",
+            "B": "They are extremely busy and profitable hubs.",
+            "C": "They are struggling and in need of modernization.",
+            "D": "They are being replaced by UK-financed infrastructure."
+          },
+          "answer": "C",
+          "explanation": "Creaking 在文中形容港口，结合上下文提到需要英国贷款进行修复，说明这些港口设施老化、运作不畅，处于需要升级和现代化支持的状态。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does the author characterize the reaction of Nigerian domestic analysts to the new trade deals?",
+          "options": {
+            "A": "Unreservedly optimistic about the economic growth potential.",
+            "B": "Supportive but wary of potential long-term debt and exploitation.",
+            "C": "Indifferent due to the focus on symbolic cultural gestures.",
+            "D": "Skeptical of the UK’s commitment to Nigerian maritime development."
+          },
+          "answer": "B",
+          "explanation": "文章提到分析人士希望看到协议切实落地，并确保不会让国家陷入依赖或负债的境地，这反映了他们虽然支持合作，但对历史上的债务剥削心存警惕。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The details about the banquet food and rituals served to:",
+          "options": {
+            "A": "Highlight the cultural insensitivity of the British royal household.",
+            "B": "Demonstrate the UK’s efforts to show respect for Nigerian heritage.",
+            "C": "Prove the economic dominance of the British culinary industry.",
+            "D": "Distract from the lack of progress on formal colonial apologies."
+          },
+          "answer": "B",
+          "explanation": "文中详细描述了专门为穆斯林宾客准备的开斋饮食、祈祷室设置以及融合尼日利亚元素的特制饮料，这些都是为了体现英国皇室对尼日利亚文化及穆斯林信仰的尊重。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main challenge Nigeria faces in its attempt to expand global partnerships?",
+          "options": {
+            "A": "The lack of interest from European Union countries.",
+            "B": "The historical legacy of dependency on oil and extractive trade.",
+            "C": "The refusal of British companies to invest in domestic industries.",
+            "D": "The absence of a clear strategy for regional maritime dominance."
+          },
+          "answer": "B",
+          "explanation": "文章指出尼日利亚正在寻求多样化全球伙伴关系，并摆脱对石油的经济依赖。文中多次提到历史上基于掠夺的贸易关系以及对西方债务剥削的担忧，这构成了其寻求转型的主要挑战。"
+        }
+      ]
+    },
+    {
+      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "article_update_date": "03.25.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Pilot safety concerns about New York’s LaGuardia airport were filed to aviation officials months before Sunday’s collision between an airplane and a fire truck left two pilots dead and 41 other people hospitalized. According to the aviation safety reporting system administered by the US space agency Nasa, a pilot using the airport in the summer wrote, “Please do something,” after air traffic controllers failed to provide appropriate guidance about multiple nearby aircraft. “The pace of operations is building in LGA,” they wrote, referring to the New York City airport, one of the busiest in the US. “The controllers are pushing the line.” In a reference to the January 2025 mid-air collision over the Potomac River in Washington DC that killed more than 60 people, they said: “On thunderstorm days, LGA is starting to feel like [Ronald Reagan National airport] did before the accident there.” The warning, first reported by CNN, showed that the pilot of the aircraft was concerned that LaGuardia’s control tower initiated a takeoff clearance for an aircraft when their plane was “only 300 feet high on final” approach on a different runway – and the departing plane had hesitated initiating its takeoff run. “I think he or she thought twice before starting their takeoff roll,” the pilot of the aircraft said. The pilot mentioned how thick, smoky haze from wildfires in Canada at the time as well as a possible helicopter in the area had convinced him it was “safer to continue the approach and land [about] 10 seconds after the departing aircraft crossed our path”. Otherwise, the pilot added, he would have been left “suddenly going around and trusting that the helicopter was not near the departure end of 22”, with the number referring to a runway. The pilot concluded: “the [air traffic control] guidance … does not seem to give guidance on exactly how close aircraft in this situation can get.” “Based on today’s and close calls I have seen over the years for [runways at the Philadelphia and Newark international airports], it seems to be a [judgment] call by the local controller.” They also said that a runway lighting system had been turned off. In another report since January 2025, a pilot said their aircraft had been cleared to cross a runway – but crossing “we noticed an aircraft we thought was landing at [runway] 31C seemingly headed for us.” Air traffic control “should have sent the aircraft around”, they said. Nasa’s Aviation Safety Reporting System has received dozens of anonymous pilot complaints about safety concerns at the smallest of New York’s three local airports. The reports come as investigators are looking into the collision of a landing Air Canada Express flight 646 from Montreal that collided with an airport firetruck that had been cleared to cross the runway, leading to the deaths of pilots MacKenzie Gunther and Antoine Forest as well as injuries to dozens more. After the air traffic controller cleared the fire truck, which was responding to a plane that had reported difficulties, the controller then tried to stop it from crossing. He could later be heard saying on a recording that he had been “dealing with an emergency earlier” and that he “messed up”. 0:42 Control tower audio captures moments before LaGuardia plane crash – audio The crash has raised fears that operations at US airports are under extreme stress. Airports have been dealing with a shortage of air traffic controllers, exacerbated by brutal federal government personnel cuts by Donald Trump’s administration at the start of his second presidency. Airports have also grappled with ageing equipment and a shortage of security screeners owing to a partial government shutdown since mid-February, which has caused long security lines and frustration among travelers. More than 450 TSA officers have quit during the partial government shutdown, Department of Homeland Security said on Tuesday. “We did not need another aviation tragedy to see this coming,” said to aviation expert Brian Fielkow in a comment to the Guardian. An investigation into the collision will take take time, he warned, but “let’s stop pretending we don’t understand the conditions in which this is happening. “We are watching a system under strain. TSA professionals are showing up to work without pay. This creates distraction, instability and unnecessary risk. We are asking people responsible for securing our transportation system to operate under financial and emotional strain and expecting flawless performance. We are managing aviation safety like a political pawn instead of a system that cannot fail.” Federal investigators said late on Monday it was too soon to answer many questions about Sunday’s deadly accident but promised more information would be released Tuesday. Jennifer Homendy, the National Transportation Safety Board (NTSB) chair whose agency is investigating Sunday’s crash, said investigators would analyze the involved airplane’s cockpit and flight data recorders, which were recovered from the wreck undamaged. She said the runway where the crash happened was likely to be closed for days as investigators sift through a “tremendous amount of debris”. Homendy also said that an NTSB investigator sent to LaGuardia on Monday was delayed for three hours by security lines in Houston. “Our air traffic control specialist, who was in line … for three hours, until we called … to beg, to see if we can get her through, so we can get her here. “So it’s been a really big challenge to get the entire team here, and they’re still arriving as we speak,” Homandy added. The Trump administration has sent Immigration and Customs Enforcement (ICE) agents to many US airports, claiming they are there to help with long pre-security lines. Adam Stahl, the acting TSA deputy administrator, told Fox News that ICE agents would be “conducting non-specialized security support – manning the exit lanes, crowd management, line control … to help alleviate the challenges that our officers are facing”. Hundreds of Transportation Security Administration (TSA) agents have called in sick or quit their jobs rather than be forced to work without pay amid the shutdown. The shutdown stems from the US Senate not funding the TSA’s parent agency over a disagreement over immigration enforcement reforms. Sean Duffy, the US transportation secretary, on Monday declined to say how many controllers were on duty at LaGuardia when Sunday’s crash happened, deferring instead to the ongoing NTSB investigation. But he denied rumors that the tower had only one controller on duty. He said LaGuardia was “very well staffed”, with 33 certified controllers and more in training. He said the goal was to have 37 on staff. Sunday’s incident was not the only collision at LaGuardia in recent months. In October, two Delta jets collided on a taxiway, sending one person to a hospital. In July 2024, a co-pilot reported a similar near-collision after controllers said a plane was cleared to cross the runway even though another aircraft was landing at the same time. “Ground control issued a stop command just in time,” the report entry said.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why had pilots expressed concern about LaGuardia airport prior to the accident?",
+          "options": {
+            "A": "The airport had experienced a total system failure due to outdated equipment.",
+            "B": "Air traffic controllers were reportedly pressured and provided inadequate guidance.",
+            "C": "The airport’s runway lighting system was consistently defective for years.",
+            "D": "Pilot training programs were insufficient to handle the airport's high volume."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确提到pilot反映“The controllers are pushing the line”，并且指出他们未能提供适当的引导（failed to provide appropriate guidance），这与B选项吻合。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'pushing the line' in the context of the passage most likely imply?",
+          "options": {
+            "A": "Controllers were aggressively prioritizing specific aircraft.",
+            "B": "Operations were being pushed to the limits of safety.",
+            "C": "Controllers were physically blocking the runway paths.",
+            "D": "Airport management was demanding faster departure times."
+          },
+          "answer": "B",
+          "explanation": "根据上下文，pilot在描述繁忙程度不断上升，并将其与之前的空难做对比，表达了对安全隐患的担忧，因此'pushing the line'意为挑战或接近安全极限。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does the author characterize the broader state of US aviation infrastructure?",
+          "options": {
+            "A": "A system suffering from chronic underfunding and personnel shortages.",
+            "B": "A resilient network capable of absorbing temporary political disruptions.",
+            "C": "An elite institution prioritizing security over operational efficiency.",
+            "D": "A rapidly modernizing sector despite occasional bureaucratic hurdles."
+          },
+          "answer": "A",
+          "explanation": "文章中提到人员削减、设备老化、政府停摆导致员工辞职及士气低落，这些都支持了美国航空基础设施正处于人力短缺和资金不足的困境中。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary implication of Brian Fielkow's comment regarding the current aviation crisis?",
+          "options": {
+            "A": "The crash was an inevitable result of ignoring systemic instability.",
+            "B": "Aviation accidents are unavoidable political pawns in the current climate.",
+            "C": "The government is successfully managing risks despite financial strain.",
+            "D": "Technical failure is the sole cause of the current increase in accidents."
+          },
+          "answer": "A",
+          "explanation": "Brian Fielkow指出不应假装不了解事故发生的背景，并强调了因资金和情感压力造成的风险，说明这是一种系统性隐患导致的必然结果。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following can be inferred about the government's response to the airport staffing situation?",
+          "options": {
+            "A": "The government has successfully recruited extra specialists for towers.",
+            "B": "The administration denies there is any problem with current staffing levels.",
+            "C": "The deployment of ICE agents is intended to replace specialized security officers.",
+            "D": "Officials are taking proactive steps to resolve the funding deadlock."
+          },
+          "answer": "B",
+          "explanation": "文章提到交通部长Sean Duffy声称LaGuardia机场“very well staffed”，这显示了官方对于目前人员配置问题的否认态度。"
+        }
+      ]
+    },
+    {
+      "title": "Pause",
+      "article_update_date": "03.27.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Bradley Hope The Big Story Sep 10, 2025 6:00 AM The Superyacht, the Billionaire, and a Wildly Improbable Disaster at Sea The last night of tech mogul Mike Lynch’s life has become fodder for conspiracy theories. For the first time, the whole story can be told. Play/Pause Button Pause Illustration: Anthony Gerace, Photograph: Michael Kurtz I. The Storm In the predawn hours of August 19, 2024, bolts of lightning began to fork through the purple-black clouds above the Mediterranean. From the rail of a 184-foot vessel, a 22-year-old named Matthew Griffiths took out his phone to record a video. The British deckhand was just a week and a half into his first official yacht job, and he wasn’t on just any boat. The yacht, the $40 million Bayesian , was a star of the superyacht world, considered to be a feat of minimal design and precision engineering. As thunder rolled toward the anchored vessel, Griffiths set the video to AC/DC’s “Thunderstruck” and posted it to Instagram. It was 3:55 am. In the video, the Bayesian ’s aluminum mast, one of the tallest in the world, is briefly visible against the roiling sky. Below deck, the yacht’s owner, Michael Lynch, had every reason to be sleeping soundly. The boat trip had been organized as a celebration. Months earlier, Lynch had walked out of a San Francisco federal courthouse a free man, acquitted of all charges in one of the largest fraud cases in Silicon Valley history. Lynch had built his fortune on understanding probability, on turning the unlikely into the possible. He had named his yacht Bayesian in honor of the statistical theorem that made him a billionaire, after the sale, in 2011, of his company Autonomy. The British tech giant sold software that could find meaningful signals amid the flood of unstructured data in emails, videos, and phone calls, but it would be better known as the company that allegedly defrauded, and nearly destroyed, Hewlett-Packard. The cabins aboard the Bayesian contained the people who had stood by Lynch through his 13-year-long legal ordeal. Beside him in the master suite was his wife of 22 years, Angela Bacares, a former vice president in the investment division of Deutsche Bank who had caught his eye while working an Autonomy deal. Other cabins housed the Clifford Chance attorneys who had orchestrated Lynch’s legal victory, as well as longtime colleagues, their partners, and a 1-year-old baby, all supported by 10 crew members. Also onboard was Lynch’s younger daughter, Hannah, 18, who was about to begin her studies at Oxford. Her older sister, Esme, 22, had remained in London. The day before, their last of the trip, the group had been subdued. They had spent the afternoon in the laid-back coastal town of Cefalù, wandering the plaza and visiting the church. That night, they had gathered for dinner in the saloon of the Bayesian , followed by dessert and drinks on the upper deck. Everyone was in bed by 12:30 am. Water taxis were due early the next morning to take them to Palermo for their flights home. Many of them would not make it. Griffiths’ video was to be the final earthly record of the Bayesian. Two minutes after he posted it, wind and rain started to buffet the vessel, and the young deckhand hurried to close forward hatches and cockpit windows. At 4 am, he ran down the stairs to wake the captain. This is the first time that details of Griffiths’ account, as well as those of many associates of Lynch, are being shared—WIRED interviewed dozens of friends and colleagues of Lynch, reviewed thousands of pages of court documents, and reconstructed events on the Bayesian based on accounts, yacht GPS data, and official investigative reports. The Bayesian and its human cargo were about to face forces that would test every calculation of the yacht’s design, the terrifying and tragic culmination of a series of highly improbable events. To this day, mystery surrounds the final night of Lynch’s life, making room for conspiracy theories about spies and secret hard drives that can’t seem to be quashed. II. The Revelation Today, Bayesian analysis is everywhere—powering spam filters, search engines, medical diagnoses, and artificial intelligence. Silicon Valley engineers casually talk about “updating their priors” as they refine machine-learning models. But in the 1980s, when Mike Lynch was a PhD student at Cambridge, Bayesian inference was still fighting for respectability, dismissed by many statisticians as unscientific because it dared to incorporate earlier beliefs into its calculations. Lynch had arrived at Cambridge in 1983 to study natural sciences, carrying with him the determination of someone who had started life in the red—minus £4, to be exact, the amount his Irish immigrant parents owed the bank after they got married. His father was a fireman from Cork, his mother a nurse from Tipperary. Growing up in 1970s London as an Irish boy meant learning to navigate prejudice during the height of the IRA bombings. “You had to learn to run fast,” he would later say, “but reading the room is a good thing to have as a skill.” He had won a scholarship to Bancroft’s School—money bequeathed in the 1700s for the education of “poor boys”—and spent three hours a day commuting to Woodford Green, often hitchhiking and listening to drivers talk about their lives. On weekends, he practiced clarinet and saxophone and worked at his mother’s hospital, progressing from mopping floors to serving tea to patients. It was there, talking to the dying, that he learned a fundamental lesson: “Get on with it. Do stuff. Whatever it is you want to do, just do it.” Lynch’s path to corporate software began at a distant remove—he wanted to build a digital music synthesizer. (It was the ’80s, after all.) Samplers like the Fairlight CMI cost around £18,000 to £30,000. So Lynch, who had been tinkering with electronics since childhood and tried starting bands, created a groundbreaking program for the Atari ST computer that could manipulate sound with “an accuracy of one sample—that’s one 50,000th of a second,” according to a 1988 interview with Sound on Sound magazine. The software gave musicians capabilities that were normally out of reach at the time. These technical obsessions led Lynch to Peter Rayner’s signal processing group at Cambridge, in the engineering department. Lynch had switched from natural sciences to electrical sciences in his third year. “I initially thought he was a bit lazy,” Rayner told me, recalling how Lynch often hadn’t done the assigned work. “But when we worked through problems in supervision, he showed great insight and came up with sometimes incorrect approaches, but often very interesting ones.” Rayner’s lab had a distinctly commercial bent, focused on solving real-world problems. Many of his roughly 100 PhD students went on to found companies, becoming, he said, full professors, multimillionaires, and even one billionaire—Lynch. At Cambridge, Lynch discovered that the same mathematics he was using to clean up audio samples could be applied to any kind of noisy data. At the heart of this approach was Bayesian inference, a way of thinking about probability that had been developed by Thomas Bayes, a Presbyterian minister in the 1700s who died before publishing his findings. They were discovered by a friend who happened upon them when cleaning out Bayes’ things. To the outside world, Mike Lynch appeared to be exactly what Europe needed: a homegrown technology champion who could compete with Silicon Valley. The power of Bayesian thinking lies in how it handles uncertainty. As Rayner explained to me, using a simple example: “If I gave you a coin and you tossed it and it came down heads, then all you could say based on that one experiment is the probability of tossing a head is 1—certain. But Bayes would say, ‘Come on, we know it’s going to be around a half.’ It allows you to take account of previous knowledge.” This idea, of starting with prior assumptions and updating them with new evidence, seems simple, but Bayesian methods proved extremely effective at pattern recognition in the age of computers. Lynch’s doctoral thesis, completed in 1990, applied these techniques to neural networks for pattern classification—“a small step along the road” to modern AI, as Rayner put it. But Lynch saw commercial potential where others saw only academic interest. While supposedly working as a postdoc, he was often absent from the lab, secretly raising money for his first company. “Later on, I said to him, ‘Why on earth didn’t you come to me, Mike?’” Rayner recalled. “He said, ‘I didn’t want you to know!’” That company was Cambridge Neurodynamics, founded after he completed his PhD, and its flagship product was a fingerprint recognition system that could handle smudged or partial prints. After Cambridge Neurodynamics, Lynch founded Autonomy. The new company would take the same ideas even further, applying them to the explosion of unstructured data that businesses were generating but couldn’t effectively search or analyze. The company’s breakthrough was IDOL—Intelligent Data Operating Layer—a pattern-recognition engine that could understand the actual meaning within human-generated information. Unlike keyword searches that might confuse different terminology, IDOL could recognize that a document about “automobiles” was relevant to a search for “cars.” It could identify concepts, find patterns, and extract meaning from chaos. The name Autonomy itself reflected Lynch’s vision: software intelligent enough to operate independently, to make its own guesses about meaning and relevance without human intervention. As Lynch would later explain in a 2000 interview with WIRED, “Bayes gave us a key to a secret garden. A lot of people have opened up the gate, looked at the first row of roses, said, ‘That’s very nice,’ and shut the gate. They don’t realize there’s a whole new country stretching out behind those roses.” III. The Empire Lynch had always been more interested in how people thought than what they knew. I talked to one of his employees, Emily Orton, who still remembers her first interview with Lynch back in 2009. While other executives had asked about her qualifications and experience, Lynch wanted to see how she dealt with the unexpected. He asked her a single question: “Tell me what makes you angry?” By that point, Autonomy was Britain’s largest software company. Its software was being used by intelligence agencies, law enforcement, and major corporations worldwide, and its acquisition, in 2005, of Verity—a search company double Autonomy’s size in terms of sales—eventually led to a market value north of $6 billion. Lynch earned the nickname “Britain’s Bill Gates.” Andy Kanter, an American lawyer at Autonomy since the late ’90s, had watched Lynch evolve from entrepreneur to CEO of a major corporation. He was a perfectionist, says Kanter. When Kanter and a colleague spent weeks crafting the IPO prospectus, Lynch read it, declared it “entirely wrong,” then approved it after they changed perhaps 10 words. “If something wasn’t right, he would dismiss it as useless,” Kanter said. “Ninety-five percent good isn’t good enough.” But this harshness—one of his own lawyers told me that “he could be a prick”—came with fierce loyalty. For Christmas parties, Lynch flew the entire UK staff to four-star hotels in European cities—Venice, Prague. And quarter after quarter, the company continued to beat analyst expectations. To the outside world, Autonomy appeared to be exactly what Europe needed: a homegrown technology champion that could compete with Silicon Valley. But maintaining Autonomy’s image of consistent growth required increasingly creative measures. At the center of this effort was Sushovan Hussain, the CFO who had joined in 2001. Lynch and Hussain’s relationship went back to their school days—though Lynch would later downplay this, testifying that Hussain was merely a “third-level acquaintance” who had arrived at Bancroft’s in his final year. Yet they had both gone on to Cambridge and kept in touch over the years, and Lynch had attended Hussain’s wedding. When Hussain returned to England after working in the oil industry abroad, Lynch hired him. Software companies are judged differently",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the naming of Lynch's yacht 'Bayesian' serves as a reference to his:",
+          "options": {
+            "A": "alleged involvement in corporate fraud cases.",
+            "B": "lifelong commitment to maritime and weather exploration.",
+            "C": "early academic research that laid the foundation for his wealth.",
+            "D": "personal belief in conspiracy theories surrounding his career."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到，Lynch将他的游艇命名为Bayesian，是为了纪念那个使他成为亿万富翁的统计定理（Bayesian theorem），而该定理是他职业生涯的基础。选项C准确概括了这一点。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest about Lynch’s early life and education?",
+          "options": {
+            "A": "His privileged background allowed him to focus entirely on software development.",
+            "B": "His experiences with financial hardship and social prejudice shaped his pragmatic work ethic.",
+            "C": "He was primarily motivated by a desire to gain academic recognition at Cambridge.",
+            "D": "His early interests were limited to music and had little to do with his future business success."
+          },
+          "answer": "B",
+          "explanation": "文章提到Lynch早年生活贫困（出生时家庭负债），且作为爱尔兰男孩在伦敦成长期间经历过偏见。这些经历使他学会了“阅读环境”并形成了“直接去做”的工作哲学，即选项B所述的实用主义工作态度。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the core function of Autonomy's 'IDOL' software?",
+          "options": {
+            "A": "Replacing traditional keyword searches with advanced phonetic recognition.",
+            "B": "Optimizing hardware performance for large-scale data storage.",
+            "C": "Extracting conceptual meaning from unstructured information.",
+            "D": "Providing automated security layers for intelligence agency communications."
+          },
+          "answer": "C",
+          "explanation": "文中定义IDOL（Intelligent Data Operating Layer）为一种模式识别引擎，能够识别概念、发现模式，并从混乱数据中提取意义，而不仅仅是匹配关键词。这对应选项C。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to Peter Rayner, what was noteworthy about Lynch’s approach to academic problems?",
+          "options": {
+            "A": "He consistently prioritized theoretical perfection over practical application.",
+            "B": "He demonstrated unconventional and occasionally insightful methods despite being seen as lazy.",
+            "C": "He relied heavily on established Bayesian models rather than innovating new approaches.",
+            "D": "He was uninterested in the commercial potential of his academic research."
+          },
+          "answer": "B",
+          "explanation": "导师Rayner提到Lynch起初表现得有点懒散，但在处理问题时展现出深刻的洞察力，且经常提出一些虽不正确但非常有意思的方法。这与选项B一致。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The author uses the phrase 'a key to a secret garden' to metaphorically describe:",
+          "options": {
+            "A": "the difficulty of protecting proprietary corporate algorithms.",
+            "B": "the initial obscurity of Lynch’s software products.",
+            "C": "the untapped potential hidden within Bayesian inference.",
+            "D": "the exclusionary nature of Silicon Valley's business practices."
+          },
+          "answer": "C",
+          "explanation": "原文中Lynch解释贝叶斯定理为“通往秘密花园的钥匙”，并提到许多人只看了花园门口，没意识到后面还有广阔的新天地，意指贝叶斯推理蕴含着巨大的、尚未被充分挖掘的潜力。"
+        }
+      ]
+    }
+  ]
+}
