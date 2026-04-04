@@ -1,16 +1,16 @@
 sources:
 - journal_name: Nature
-  last_fetched_date: 04.03.2026
+  last_fetched_date: 04.04.2026
   source_type: rss
   update_frequency: daily
   url: https://www.nature.com/nature.rss
 - journal_name: China Daily
-  last_fetched_date: 04.03.2026
+  last_fetched_date: 04.04.2026
   source_type: rss
   update_frequency: daily
   url: https://www.chinadaily.com.cn/rss/world_rss.xml
 - journal_name: The Guardian
-  last_fetched_date: 04.03.2026
+  last_fetched_date: 04.04.2026
   source_type: rss
   update_frequency: daily
   url: https://www.theguardian.com/world/rss
@@ -20,22 +20,22 @@ sources:
   update_frequency: daily
   url: https://rss.sciam.com/ScientificAmerican-Global
 - journal_name: Economist
-  last_fetched_date: 04.03.2026
+  last_fetched_date: 04.04.2026
   source_type: github
   update_frequency: weekly
   url: hehonghui/awesome-english-ebooks
 - journal_name: New Yorker
-  last_fetched_date: 04.03.2026
+  last_fetched_date: 04.04.2026
   source_type: github
   update_frequency: monthly
   url: hehonghui/awesome-english-ebooks
 - journal_name: Atlantic
-  last_fetched_date: 04.03.2026
+  last_fetched_date: 04.04.2026
   source_type: github
   update_frequency: monthly
   url: hehonghui/awesome-english-ebooks
 - journal_name: Wired
-  last_fetched_date: 04.03.2026
+  last_fetched_date: 04.04.2026
   source_type: github
   update_frequency: monthly
   url: hehonghui/awesome-english-ebooks
