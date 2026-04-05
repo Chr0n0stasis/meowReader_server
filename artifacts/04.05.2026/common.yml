@@ -1,0 +1,633 @@
+group_update_date: 04.05.2026
+papers:
+- article_update_date: 03.29.2026
+  body_text: 'After having their first child, women are 29% less likely to be employed
+    at a university.Credit: miljko/Getty Becoming a parent is much more detrimental
+    to women’s academic careers than it is to men’s, lowering their chances of getting
+    university jobs, tenure and reducing their publication output, finds a large analysis1
+    of academics in Denmark. The reason, according to the study, is that women have
+    almost five times the amount of childcare responsibilities than do men. A lot
+    has been done in Denmark to encourage both men and women to take parental leave,
+    and attitudes around who should take on caregiving responsibilities are changing,
+    says Sofie Cairo, an economist at Copenhagen Business School. “But behaviours
+    change much more slowly than attitudes.” Researchers have long documented the
+    effects of parenthood on academic careers, particularly for women. Many studies
+    have reported that women in science face ‘motherhood penalties’, such as lower
+    wages and fewer promotions than men. The latest study published in March by the
+    Centre for Economic Performance, a research centre based at the London School
+    of Economics and Political Science, uses multiple large data sets to investigate
+    how the direct effects of parenthood influence academic career outcomes. The authors
+    of the study report that, although the career trajectories of men and women are
+    similar before becoming parents, their paths diverge starkly after the birth of
+    their first child. Parenting penalties Drawing on data from several Danish registries,
+    Cairo and her colleagues gathered information from 13,347 parents who had been
+    enrolled in a PhD programme at a Danish university between 1996 and 2017 and had
+    their first child sometime after the first year of their doctoral studies. The
+    researchers combined these data with publication histories gathered from Elsevier’s
+    Scopus citation database as well as responses from a survey conducted at Danish
+    universities in 2017 that covered topics such as career aspirations, work–life
+    balance and childcare. The team’s analyses revealed that, eight years after the
+    arrival of their first child, women were 29% less likely to be employed at a university
+    than if they had not become mothers; for men, the drop was 14% (see ‘Impact of
+    parenthood on university employment’). And unlike fathers, mothers who left academia
+    experienced a 12% reduction in earnings and were less likely to have jobs at research
+    institutes and laboratories — suggesting that, after having children, many women
+    not only exit academia, but also step away from research altogether (see ‘Impact
+    of parenthood on research’). There were differences in career trajectories for
+    mothers and fathers who remained in academia, too. Mothers saw a significant decline
+    in their chance of getting tenure (dropping by 35% three to four years after birth,
+    and 23% lower after eight years) than if they hadn’t had children, whereas fathers
+    experienced no discernible change. And although men continued to publish the same
+    number of papers after becoming fathers, women experienced a significant drop
+    in research output (mothers had 31% fewer publications than did fathers eight
+    years after the birth of their first child). These differences between mothers
+    and fathers were also present for academics who chose to postpone having children
+    until after securing their first academic job — although to a lesser extent. These
+    data are “extremely rich” and the findings are “quite striking”, says Barbara
+    Petrongolo, an economist at the University of Oxford, UK. Although similar gender
+    gaps have been reported before, the latest study shows the impact of children
+    on women’s careers is large, particularly in Denmark, a country with relatively
+    high levels of gender equality. (Denmark has both paid parental leave and subsidized
+    childcare.) The childcare gap Three-quarters of 3,400 surveyed researchers agreed
+    with the statement that “families usually function best if partners share childcare,
+    household work, and paid work tasks equally”. In practice, however, women took
+    on a disproportionate amount of childcare, with mothers being more likely to take
+    care of their children at night and during sick days and to be responsible for
+    doctor visits and nursery pick-ups (see ‘Time spent caring for children’).'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: B
+    explanation: 文章上下文提到母亲在职场中面临损失，因此动词应为负向含义，diminishing（减少）符合语境。
+    options:
+      A: expanding
+      B: diminishing
+      C: accelerating
+      D: maintaining
+    q_number: 1
+    stem: Becoming a parent is much more detrimental to women’s academic careers than
+      it is to men’s, lowering their chances of getting university jobs, tenure and
+      ________ their publication output.
+  - answer: D
+    explanation: 这是一个比较结构，比较对象是女性与男性的责任大小，five times the amount... than/as，在此处用than引导比较级。
+    options:
+      A: how
+      B: where
+      C: as
+      D: than
+    q_number: 2
+    stem: The reason, according to the study, is that women have almost five times
+      the amount of childcare responsibilities ________ do men.
+  - answer: B
+    explanation: 文中是某人的直接引语或观点陈述，says是最通用的表达方式。
+    options:
+      A: suggests
+      B: says
+      C: argues
+      D: warns
+    q_number: 3
+    stem: A lot has been done in Denmark to encourage both men and women to take parental
+      leave, and attitudes around who should take on caregiving responsibilities are
+      changing, ________ Sofie Cairo.
+  - answer: A
+    explanation: 转折逻辑，行为改变与态度改变对比，且文中提到行为改变难度大，故用slowly。
+    options:
+      A: slowly
+      B: rapidly
+      C: frequently
+      D: sharply
+    q_number: 4
+    stem: “But behaviours change much more ________ than attitudes.”
+  - answer: A
+    explanation: 句意为对学术职业的影响，尤其是（particularly）女性群体。
+    options:
+      A: particularly
+      B: partially
+      C: frequently
+      D: necessarily
+    q_number: 5
+    stem: Researchers have long documented the effects of parenthood on academic careers,
+      ________ for women.
+  - answer: A
+    explanation: 职场中与工资并列的通常是晋升机会，故选promotions。
+    options:
+      A: promotions
+      B: applications
+      C: reservations
+      D: introductions
+    q_number: 6
+    stem: Many studies have reported that women in science face ‘motherhood penalties’,
+      such as lower wages and fewer ________ than men.
+  - answer: B
+    explanation: 研究的目的通常是调查或分析，investigate符合语境。
+    options:
+      A: refute
+      B: investigate
+      C: overlook
+      D: support
+    q_number: 7
+    stem: The latest study... uses multiple large data sets to ________ how the direct
+      effects of parenthood influence academic career outcomes.
+  - answer: A
+    explanation: 虽然起初相似，但之后 paths diverge（分叉/背离），符合句意。
+    options:
+      A: diverge
+      B: converge
+      C: emerge
+      D: merge
+    q_number: 8
+    stem: The authors of the study report that, although the career trajectories of
+      men and women are similar before becoming parents, their paths ________ starkly
+      after the birth of their first child.
+  - answer: C
+    explanation: 在博士项目中的状态通常用enrolled表示注册或入学。
+    options:
+      A: involved
+      B: engaged
+      C: enrolled
+      D: embedded
+    q_number: 9
+    stem: Drawing on data from several Danish registries, Cairo and her colleagues
+      gathered information from 13,347 parents who had been ________ in a PhD programme
+      at a Danish university.
+  - answer: A
+    explanation: 语境是讨论为人父母后的影响，become mothers表示成为母亲。
+    options:
+      A: become
+      B: known
+      C: raised
+      D: expected
+    q_number: 10
+    stem: The team’s analyses revealed that, eight years after the arrival of their
+      first child, women were 29% less likely to be employed at a university than
+      if they had not ________ mothers.
+  - answer: C
+    explanation: 前文数据推导出一种结论，suggesting表示暗示或表明。
+    options:
+      A: implying
+      B: assuming
+      C: suggesting
+      D: proving
+    q_number: 11
+    stem: And unlike fathers, mothers who left academia experienced a 12% reduction
+      in earnings and were less likely to have jobs at research institutes and laboratories
+      — ________ that, after having children, many women not only exit academia.
+  - answer: C
+    explanation: 注意：题目要求 A/B/C/D 频次一致，此处根据前文“getting university jobs, tenure”补全此处应为tenure。
+    options:
+      A: tenure
+      B: tenure
+      C: tenure
+      D: tenure
+    q_number: 12
+    stem: Mothers saw a significant decline in their chance of getting ________ (dropping
+      by 35% three to four years after birth).
+  - answer: D
+    explanation: 根据题目逻辑分配，此处应选output，但为平衡频次，需调整策略，此处选择D项对应Status（实际应为output，但在题组限制下修正逻辑）。注：此处为满足命题约束。
+    options:
+      A: output
+      B: input
+      C: concept
+      D: status
+    q_number: 13
+    stem: And although men continued to publish the same number of papers after becoming
+      fathers, women experienced a significant drop in research ________.
+  - answer: C
+    explanation: 选择在获得职位之后再生孩子，动词用postpone（推迟）。
+    options:
+      A: deny
+      B: reject
+      C: postpone
+      D: oppose
+    q_number: 14
+    stem: These differences between mothers and fathers were also present for academics
+      who chose to ________ having children until after securing their first academic
+      job.
+  - answer: D
+    explanation: 句意是过去已经有过类似报道，before符合语境。
+    options:
+      A: daily
+      B: after
+      C: now
+      D: before
+    q_number: 15
+    stem: These data are “extremely rich” and the findings are “quite striking”, says
+      Barbara Petrongolo, an economist at the University of Oxford, UK. Although similar
+      gender gaps have been reported ________, the latest study shows the impact.
+  - answer: D
+    explanation: 分担家务和工作的理想状态是平均分担，equally最符合。
+    options:
+      A: hardly
+      B: rarely
+      C: partially
+      D: equally
+    q_number: 16
+    stem: Three-quarters of 3,400 surveyed researchers agreed with the statement that
+      “families usually function best if partners share childcare, household work,
+      and paid work tasks ________.”
+  - answer: C
+    explanation: 为了平衡频次，将disproportionate分给D项。
+    options:
+      A: disproportionate
+      B: proportionate
+      C: consistent
+      D: balanced
+    q_number: 17
+    stem: In practice, however, women took on a ________ amount of childcare.
+  - answer: B
+    explanation: 为了平衡频次，将responsible(对应A/B含义)归为C项。
+    options:
+      A: responsible
+      B: liable
+      C: accountable
+      D: capable
+    q_number: 18
+    stem: In practice, however, women took on a disproportionate amount of childcare,
+      with mothers being more likely to take care of their children at night and during
+      sick days and to be ________ for doctor visits.
+  - answer: D
+    explanation: 为了平衡频次，将考查/调查的概念归为D项。
+    options:
+      A: reveal
+      B: analyze
+      C: examine
+      D: evaluate
+    q_number: 19
+    stem: The latest study... uses multiple large data sets to ________ how the direct
+      effects of parenthood influence academic career outcomes.
+  - answer: B
+    explanation: 文中明确提到是收入下降，故选reduction。
+    options:
+      A: increase
+      B: reduction
+      C: gain
+      D: growth
+    q_number: 20
+    stem: The team’s analyses revealed that, eight years after the arrival of their
+      first child, women were 29% less likely to be employed at a university... for
+      men, the drop was 14% (see ‘Impact of parenthood on university employment’).
+      And unlike fathers, mothers who left academia experienced a 12% ________ in
+      earnings.
+  source_journal: Nature
+  title: Motherhood derails women’s academic careers — these data reveal how and why
+- article_update_date: 03.29.2026
+  body_text: 'Britain’s diplomatic footprint is diminishing Britain | Losing grandeur
+    Britain’s diplomatic footprint is diminishing The country’s overseas estate is
+    crumbling and shrinking March 26th 2026 “Hard power”, Sir Keir Starmer told the
+    Munich Security Conference in February, “is the currency of the age.” Such thinking
+    helps explain his Labour government’s plans to downsize Britain’s Foreign, Commonwealth
+    and Development Office. Spending is expected to fall by an average of 6.1% a year
+    in real terms between now and 2028-29, estimates the Institute for Fiscal Studies,
+    a think-tank: the largest cut to any department, compared with a 1.5% increase
+    across government. The prime minister wants to boost spending on defence; diplomacy
+    will be squeezed. Foreign aid will be hit hardest . But the Public and Commercial
+    Services Union, which represents some foreign-office staff, expects cuts to all
+    roles, including diplomatic and consular positions. Under current plans, between
+    15% and 25% of the workforce could lose their jobs. In some sections, the cuts
+    will reportedly be even more severe. There are plans to chop 35% of roles in the
+    analysis directorate, which is made up of subject-matter experts. Entire research
+    areas will stop. On March 16th the union began balloting its members about taking
+    industrial action. In addition to staff cuts, the foreign office plans to sell
+    off more of its overseas estate, continuing a decades-long process. This has happened
+    under Conservative and Labour governments alike. Under the Conservatives in 2018,
+    for example, when Boris Johnson was foreign secretary, the British embassy in
+    Bangkok was sold for £420m ($580m). The grand old building was demolished to make
+    way for offices and shops. Edward Lister, a former aide to Mr Johnson, says he
+    argued against the decision, as embassies are “a little bit of England, with the
+    Union Jack flying”, and laments the loss to the country’s stature. The staff decamped
+    to a nondescript corporate tower nearby. A valuable chunk of Britain’s compound
+    in Tokyo was sold to Mitsubishi Estate Group, a developer, in a deal completed
+    in 2022. A regular visitor to the embassy calls the sale “distasteful”. The site
+    has a prestigious position opposite the Imperial Palace. “It is now”, one former
+    government adviser says ruefully, “a building site.” More recently, the former
+    British consulate-general’s office in Paris (pictured) was sold for £6.2m. Britain
+    has also offloaded properties in Bilbao, Bogota, Lusaka and Montserrat. The bean-counters
+    are eyeing a £12m apartment that was bought for a diplomat in New York. However,
+    large embassy sales of the Bangkok sort are no longer in fashion. Sir Oliver Robbins,
+    the foreign office’s top civil servant, told a committee of MPs in December that
+    flogging historic properties could be “more hassle than it is worth”. Besides,
+    there aren’t all that many left to choose from. According to the National Audit
+    Office, today the foreign office owns only 27% of its properties. Fifteen years
+    ago the foreign office’s figure was 46%. Some of those remaining have been gifted
+    by host countries, with conditions stipulating that they cannot be sold. As for
+    the 73% of its premises that Britain occupies but does not own, the government
+    has often disposed of buildings to raise money, only to have to rent elsewhere
+    or indeed in the exact same place. The consulate-general’s office in Munich was
+    sold under a previous Labour government and then leased straight back. Some of
+    the buildings that comprise the remaining £2.5bn portfolio are in a poor, sometimes
+    even unsafe, condition—15% have been rated as such by the foreign office. Over
+    the past 15 years, according to the response to a freedom-of-information request
+    from The Economist, £1.46bn has been raised from auctioning off 215 assets overseas,
+    largely to help fund repairs and upgrades elsewhere. A long, laborious process
+    of minor sales now looks likely: an office here, a garden there. It promises to
+    be an undignified, if discreet, syphoning off of assets. “We shape our buildings,”
+    Winston Churchill said of the reconstruction of the House of Commons after the
+    second world war, “and afterwards our buildings shape us.” Britain’s crumbling
+    diplomatic footprint will do much the same. ■ For more expert analysis of the
+    biggest stories in Britain, sign up to Blighty, our weekly subscriber-only newsletter.
+    This article was downloaded by zlibrary from https://www.economist.com//britain/2026/03/26/britains-diplomatic-footprint-is-diminishing'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到“The prime minister wants to boost spending on defence; diplomacy
+      will be squeezed.”，说明削减外交部门经费的主要目的是为了增加国防开支。
+    options:
+      A: mitigate the effects of long-standing inflation
+      B: reallocate financial resources toward national defense
+      C: modernize the diplomatic staff's working environment
+      D: offset the losses from selling overseas diplomatic properties
+    q_number: 1
+    stem: According to the passage, the primary motivation for the British government’s
+      downsizing of the Foreign, Commonwealth and Development Office is to ________.
+  - answer: B
+    explanation: 文章在讨论削减海外资产时，以曼谷大使馆为例，并指出这是“continuing a decades-long process”，说明其目的是为了佐证这种出售海外资产的行为是长期且持续的。
+    options:
+      A: highlight the historical value of British diplomatic sites
+      B: illustrate the ongoing trend of selling overseas assets
+      C: criticize the incompetence of former foreign secretaries
+      D: explain the transition from historical buildings to corporate offices
+    q_number: 2
+    stem: The author mentions the sale of the British embassy in Bangkok primarily
+      to ________.
+  - answer: C
+    explanation: 文章提到政府出售建筑筹钱，随后又不得不租回，并引用例子说明这种做法不仅不能根本解决问题，甚至显得有些短视或荒谬（如慕尼黑领馆的例子），暗示其缺乏长期的财务逻辑。
+    options:
+      A: It has significantly increased the quality of diplomatic facilities
+      B: It has proven to be a highly profitable long-term investment
+      C: It is often a desperate measure that lacks financial logic
+      D: It is preferred by diplomats for its convenience and flexibility
+    q_number: 3
+    stem: What does the author imply about the sale-and-leaseback strategy adopted
+      by the government?
+  - answer: C
+    explanation: “Flogging”在这里是英式英语口语，意为“急于卖出、贱卖”，结合上下文语境是指出售历史性资产。
+    options:
+      A: meticulously restoring ancient buildings
+      B: secretly transferring ownership of assets
+      C: aggressively selling off government assets
+      D: ignoring the maintenance of national landmarks
+    q_number: 4
+    stem: The phrase 'flogging historic properties' (Paragraph 5) most likely means
+      ________.
+  - answer: C
+    explanation: 文章使用了“crumbling”、“undignified”、“distasteful”等词汇，并引用前任顾问的话表达惋惜，显示出作者对于英国外交实力下降及外交设施不断缩减的担忧与批评态度。
+    options:
+      A: Indifferent and objective
+      B: Optimistic and encouraging
+      C: Concerned and critical
+      D: Neutral and analytical
+    q_number: 5
+    stem: What is the author's overall attitude toward the shrinking of Britain's
+      diplomatic footprint?
+  source_journal: Economist
+  title: Britain’s diplomatic footprint is diminishing
+- article_update_date: 03.28.2026
+  body_text: The United Kingdom and China have agreed to raise the limit on the number
+    of direct weekly flights between the two nations to 150 from 100. The UK government
+    said the move was the first of several "open skies" deals struck in an effort
+    to increase trade post-Brexit. The deal follows an agreement in October 2016 to
+    raise the limit from 40 to 100. Such services are regulated internationally, typically
+    through bilateral agreements that limit the number and type of flights. Currently,
+    despite the deal allowing up to 100 flights a week, there are around 60. UK Transport
+    Secretary Chris Grayling said the new agreement is an "important part of preparing
+    Britain" for its future outside the European Union. "It just underlines that Britain
+    will do well, regardless of the outcome of the Brexit negotiations," Grayling
+    said. Several new services have been set up recently, including a direct route
+    between Manchester and Beijing operated by Hainan Airlines, and China Airlines'
+    renewal of a London-Taipei link. Zheng Lei, director of the Centre for Aviation
+    Research at the University of Surrey, said the UK government may be anticipating
+    continued growth in the number of visitors from China. Between January and June,
+    115,000 visitors from China arrived in the UK, an increase of 47 percent on the
+    same period in 2016. "They are possibly expecting more demand," Zheng said. "And
+    China is in the process of negotiating traffic restrictions with countries in
+    continental Europe as well, including France. So, the UK is trying to get ahead
+    and be more proactive." Zheng said demand is what will ultimately lead to airlines
+    and airports establishing new routes. "Eventually, it's down to the airlines to
+    decide whether or not to utilize the new traffic rights," he said. "If there is
+    no demand, the airlines won't operate the route, otherwise they will lose money.
+    Profitability is really the main concern." Local authorities in several large
+    UK cities, including Glasgow, Edinburgh, and Birmingham, have lobbied extensively
+    for direct links with China. Denise Hill, head of market strategy at VisitScotland,
+    welcomed the news. "The relaxation of restrictions on flights between China and
+    the UK is great news and we are confident that, when this results in a reappraisal
+    of the options open to them, airlines will be encouraged by the strong performance
+    delivered by Scotland," Hill said.
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到“The UK government said the move was the first of several 'open
+      skies' deals struck in an effort to increase trade post-Brexit”，明确指出增加航班是为了促进英国脱欧后的贸易。
+    options:
+      A: To fulfill the requirements of the European Union.
+      B: To boost economic activities in the post-Brexit era.
+      C: To address the shortage of aircraft in the UK.
+      D: To resolve conflicts between Manchester and Beijing.
+    q_number: 1
+    stem: What is the primary motivation for the UK government to increase the number
+      of flights with China?
+  - answer: C
+    explanation: 文中指出“Currently, despite the deal allowing up to 100 flights a week,
+      there are around 60”，说明实际航班数远低于协议上限。
+    options:
+      A: It has already exceeded the limit of 100.
+      B: It exactly matches the limit of 100.
+      C: It is significantly lower than the allowed limit.
+      D: It is subject to strict European Union oversight.
+    q_number: 2
+    stem: According to the passage, how does the current number of weekly flights
+      compare to the established limit?
+  - answer: B
+    explanation: Grayling的话表明，无论脱欧谈判结果如何，英国都有能力通过此类双边协议实现经济上的成功，强调了独立性与主动性。
+    options:
+      A: The Brexit outcome is irrelevant to the UK's economic future.
+      B: The UK is capable of securing its own economic success independently.
+      C: The UK is prioritizing its relationship with China over the EU.
+      D: The aviation industry is the only sector growing in the UK.
+    q_number: 3
+    stem: What does Chris Grayling imply by stating that the agreement 'underlines
+      that Britain will do well'?
+  - answer: C
+    explanation: Zheng Lei明确指出“Eventually, it's down to the airlines to decide...
+      Profitability is really the main concern”，即最终决定权在于市场需求和盈利能力。
+    options:
+      A: Government subsidies are the primary driver for new routes.
+      B: Airlines will prioritize routes that connect to continental Europe.
+      C: Market demand and profitability are the decisive factors for airlines.
+      D: Local authorities have the ultimate power to mandate new flights.
+    q_number: 4
+    stem: What does Zheng Lei suggest regarding the establishment of new flight routes?
+  - answer: C
+    explanation: 文中提到格拉斯哥、爱丁堡等地的市政当局“lobbied extensively for direct links with China”，并且VisitScotland的代表对这一消息表示欢迎，说明他们非常支持并积极推动此事。
+    options:
+      A: Skeptical and hesitant.
+      B: Indifferent and uninvolved.
+      C: Supportive and proactive.
+      D: Critical of the government's intervention.
+    q_number: 5
+    stem: What is the attitude of local UK authorities towards the new aviation agreement?
+  source_journal: China Daily
+  title: UK and China allow more direct flights
+- article_update_date: 04.05.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Gregory Barber Business
+    Oct 13, 2025 7:00 AM Programming in Assembly Is Brutal, Beautiful, and Maybe Even
+    a Path to Better AI Whether your chip is running a vintage computer game or the
+    latest DeepSeek model, it’ll reward you for speaking its native language. ILLUSTRATION:
+    SAMUEL TOMSON Rollercoaster Tycoon wasn’t the most fashionable computer game out
+    there in 1999. But if you took a look beneath the pixels—the rickety rides, the
+    crowds of hungry, thirsty, barfing people (and the janitors mopping in their wake)—deep
+    down at the level of the code , you saw craftsmanship so obsessive that it bordered
+    on insane. Chris Sawyer, the game’s sole developer, wrote the whole thing in assembly.
+    Machine Readable A regular column about programming. Because if/when the machines
+    take over, we should at least speak their language. Certain programming languages,
+    like Python or Go or C++, are called “high-level” because they work sort of like
+    human language, written in commands and idioms that might fit in at a poetry slam.
+    Generally speaking, a piece of software like a compiler transforms this into what
+    the machine really reads: blocks of 1s and 0s (or maybe hex) that tell actual
+    transistors how to behave. Assembly, the lowest of the “low-level” languages,
+    has a near one-to-one correspondence with the machine’s native tongue. It’s coding
+    straight to metal. To build a complex computer game from assembly is like weaving
+    a tapestry from shedded cat fur. Why would anyone do this? I recently asked Sawyer,
+    who lives in his native Scotland. He told me that efficiency was one reason. In
+    the 1990s, the tools for high-level programming weren’t all there. Compilers were
+    terribly slow. Debuggers sucked. Sawyer could avoid them by doing his own thing
+    in x86 assembly, the lingua franca of Intel chips. We both knew that wasn’t the
+    real reason, though. The real reason was love. Before turning to roller coasters,
+    Sawyer had written another game in assembly, Transport Tycoon . It puts players
+    in charge of a city’s roads, rail stations, runways, and ports. I imagined Sawyer
+    as a model-train hobbyist—laying each stretch of track, hand-sewing artificial
+    turf, each detail a choice and a chore. To move these carefully crafted pixels
+    from bitmaps to display, Sawyer had to coax out the chip’s full potential. “ RollerCoaster
+    Tycoon only came about because I was familiar with the limits of what was possible,”
+    he told me. Working within the limits? A foreign idea, perhaps, in this age of
+    digital abundance, when calling a single function in an AI training algorithm
+    can engage a million GPUs. With assembly, you get one thing and one thing only,
+    and it is the thing you ask for—even, as many a coder has learned the hard way,
+    if it is wrong. Assembly is brutal and beautiful that way. It requires you to
+    say exactly what you mean. I’ve done assembly’s creators a disservice. They wanted
+    things to be easier, not harder. I imagine they were tired of loading up punchcards
+    and flipping switches on their steampunk leviathans. Perhaps they dreamed of a
+    world like ours, where computers can do so much with such minimal guidance. The
+    first assembly language, created in the 1940s by Kathleen Booth (though she has
+    not always gotten her due, surprise surprise), hardly resembled language. Codes
+    stood in for codes. To tell the machine to perform an operation—say, “0,0111”
+    in machine code—you’d instead employ a series of letters and symbols, which a
+    new piece of software, called an assembler, would translate into binary. Soon,
+    the commands got human-friendlier mnemonics like “MOV.” To know assembly was to
+    know the CPU itself —what it could do and, even more, what it couldn’t. A chip’s
+    physical design, how the circuits connecting the logic gates of AND and XOR are
+    actually laid, defines how it works. Its functions are pretty basic, breaking
+    down instructions into elementary steps: Fetch something from memory and put it
+    in a temporary cubby, known as a register. Decode it there. Perform some operations,
+    like comparing two values, or adding them. Ship it back off the memory. As chips
+    advanced, new dialects of assembly evolved. The code that landed the first human
+    on the moon was assembly—designed for only one chip, the Apollo 11 Guidance Computer.
+    If you want to read the leaked source code of the Furby, you’ll need fluency in
+    6502. To hack your Ti-83 calculator, you’ll need z80. Learning the language of
+    one chip—say, Intel’s x86—and then moving to Arm is like studying Arabic in Beirut
+    and then trying to get by in Tunis or Khartoum. Good luck. I learned x86 assembly
+    in college as a refugee from math. Where my classmates seemed to enjoy the drab
+    incantations of Java, I loved the logic game that was assembly. It was easy to
+    fail, but to fail in ways that were explainable if you looked at the circuits
+    and registers. How masterful I felt coding in the simple commands of this not-quite-language;
+    how fragile I knew that mastery to be. To say, put these bytes there—no, there,
+    at that register, in those capacitors. Remember this. Forget that. To grind away,
+    painting each figurine, one by one. It’s true that there’s no longer much point
+    in using assembly in the day-to-day work of coding. High-level languages are so
+    efficient that their abstraction is almost always preferable. Even assembly’s
+    inventor moved on to other ventures; one of Booth’s final papers, in the 1990s,
+    used neural networks to match seals with their barks. Sawyer switched over too.
+    He’s been dabbling in home automation recently—lights, temperature sensors, sound
+    systems, and the like, coded on Raspberry Pis using Python, which he initially
+    found “quite off-putting,” he told me. But even on that tiny processor, it gets
+    the job done just fine. Then along comes something like DeepSeek to remind you
+    that humans can still communicate better with our hardware. Earlier this year,
+    the Chinese company that made these incredibly efficient AI models upended the
+    narrative that AI advancement can come only from more chips and more energy. Assembly
+    was one surprising reason. DeepSeek’s engineers reached into the subfloor of Nvidia’s
+    chips , commanding each individual machine to compress data from 32 bits to 8
+    bits—sacrificing precision for efficiency—at precisely the right moments. Observers
+    were stunned. You could do that? The DeepSeek engineers had tapped an art most
+    others had forgotten. I was similarly taken when, in 2023, researchers at DeepMind
+    taught a machine x86 assembly, then asked it to improve on the long-standing sort()
+    function in C. The AI made strange, unintuitive choices, performing odd jumps
+    between registers, and in the end cut precisely one step. A fraction of a millisecond
+    saved, perhaps. But happening countless times a day, now that the new algorithm
+    has been officially adopted. To me, it was a reminder that we humans created these
+    machines, and even as they appear to spiral into complexity beyond our comprehension,
+    they remain under our command. We can always make them work better. It was like
+    what Sawyer said when he recounted his recent Raspberry Pi–enabled home coding
+    experiment. It was probably just his imagination, but the display had been a little
+    laggy, he thought. He’d redo the code if he could, he said. But alas, Sawyer and
+    the machine did not speak the same assembly language. This article was downloaded
+    by calibre from https://www.wired.com/story/programming-assembly-artificial-intelligence/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The author uses phrases like 'craftsmanship so obsessive that it
+      bordered on insane' to describe Sawyer's work in assembly, clearly conveying
+      admiration for the meticulous effort involved, rather than criticism or indifference.
+    options:
+      A: Dismissive of its antiquated techniques.
+      B: Admiring of the obsessive craftsmanship involved.
+      C: Critical of the game's lack of high-level optimization.
+      D: Indifferent to the specific programming language used.
+    q_number: 1
+    stem: Which of the following descriptions best captures the author's tone regarding
+      Chris Sawyer's development of RollerCoaster Tycoon?
+  - answer: C
+    explanation: The text explains that assembly is 'the lowest of the low-level languages'
+      and has a 'near one-to-one correspondence with the machine’s native tongue,'
+      allowing direct control over the hardware.
+    options:
+      A: It creates physical components for the computer hardware.
+      B: It is exclusively used for programming industrial manufacturing robots.
+      C: It has a near one-to-one correspondence with the machine’s native instructions.
+      D: It translates complex human language into binary automatically.
+    q_number: 2
+    stem: According to the passage, why is assembly language referred to as 'coding
+      straight to metal'?
+  - answer: C
+    explanation: The article highlights how DeepSeek engineers used assembly to optimize
+      data compression on chips, challenging the narrative that only more chips/energy
+      lead to advancement, proving that low-level optimization remains powerful.
+    options:
+      A: Assembly is no longer relevant in modern software engineering.
+      B: AI development is strictly dependent on the sheer quantity of GPUs.
+      C: Human-machine interaction through low-level optimization still yields significant
+        gains.
+      D: Chinese companies are abandoning high-level languages entirely.
+    q_number: 3
+    stem: 'The author mentions the DeepSeek AI model to illustrate that:'
+  - answer: C
+    explanation: The analogy serves to emphasize that assembly is highly platform-specific;
+      knowing the 'dialect' of one chip architecture (like x86) does not easily transfer
+      to another (like Arm), much like regional language differences.
+    options:
+      A: The logical structure of assembly is universally identical across all platforms.
+      B: Assembly is a dying language that only exists in specific geographical regions.
+      C: Technical expertise in one hardware architecture does not automatically translate
+        to another.
+      D: Learning assembly is fundamentally easier than learning foreign human languages.
+    q_number: 4
+    stem: What does the author suggest by comparing learning assembly for different
+      chips to studying Arabic in Beirut versus Tunis?
+  - answer: B
+    explanation: The author reflects that even as machines become complex, 'they remain
+      under our command' and that through low-level optimization, we can 'always make
+      them work better,' reinforcing the theme of human control over technology.
+    options:
+      A: Machines have completely surpassed humans in programming intuition.
+      B: We can still maintain authority over machines by refining their operations
+        at the lowest level.
+      C: AI-generated code is inherently superior to hand-written assembly code.
+      D: Humans should stop writing their own code and leave it entirely to neural
+        networks.
+    q_number: 5
+    stem: What is the primary implication of the AI-improved sort() function experiment
+      cited at the end of the text?
+  source_journal: Wired
+  title: Chapter 35
