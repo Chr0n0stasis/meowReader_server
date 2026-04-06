@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.06.2026",
+  "papers": [
+    {
+      "title": "‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools",
+      "article_update_date": "04.04.2026",
+      "source_journal": "Nature",
+      "body_text": "Escherichia coli produce a diverse array of proteins to help protect them against bacteriophages (green). Credit: M. Maeder/Dept of Microbiology, Biozentrum/SPL Bacteria have been fighting off viruses using a huge arsenal of molecular weaponry that scientists did not know about — until now. In studies published in Science today, two research teams describe the machine-learning algorithms they developed to screen bacterial genomes and identify proteins that are involved in protecting the microorganisms against viral invaders. Their analyses identified hundreds of thousands of potential antiviral proteins, which researchers could harness to develop innovative biotechnologies. “This is a treasure trove for any biochemist,” says José Antonio Escudero, a microbiologist at the CSIC National Center for Biotechnology in Madrid, who was not involved in either study. Previous discoveries of antiviral immune systems in bacteria include the gene-editing system CRISPR–Cas9 and DNA-snipping proteins called restriction enzymes. Researchers have repurposed both systems to create molecular tools for genetic engineering. “There’s a hope that maybe there’s a next generation of molecular tools that would come from some of these new systems,” says Michael Laub, a microbiologist at the Massachusetts Institute of Technology in Cambridge and a co-author on one of the studies1. Protein defences When looking at the genome of a bacterium, “most of it is still dark matter”, says Escudero. “There are many things that we don’t know how they work or what they are.” Previous studies had confirmed that bacteria use more than 250 proteins to protect themselves from viral infections. Researchers had suggested that the true bacterial immune system was much larger and more diverse than this, “But the big question was how much diversity and how can we actually predict it at scale?”, says Aude Bernheim, a microbiologist at the Pasteur Institute in Paris and a co-author on one of the papers2. Bacteria use a decoy defence molecule to set a trap for viruses In their study2, Bernheim and her colleagues trained deep-learning models on protein and genomic data to predict antiviral systems. Their goal was to identify the “full breadth of diversity of bacterial immunity”, says Bernheim. The analysis estimated that, on average, 1.5% of genes in a bacterial genome correspond to proteins that are involved in antiviral immunity — three times more than previous estimates. And more than 85% of the predicted protein families were not previously associated with immunity. Laboratory experiments on two bacterial species — Escherichia coli and Streptomyces albus — confirmed the presence of 12 ‘antiphage’ systems that ward off viruses called bacteriophages that infect bacteria. The systems had not previously been linked to antiviral defence. In their paper, Laub and his colleagues1 designed a separate machine-learning tool called DefensePredictor, which predicts bacterial immune proteins on the basis of gene and protein data from 17,000 bacterial genomes. When tested on 69 diverse strains of E. coli, DefensePredictor identified 624 proteins as defence-related immune systems, more than 100 of which were previously unknown. In lab experiments, Laub and his colleagues confirmed the defence activity in 42 cases. Both studies come to the same conclusion: that researchers have been “massively underestimating the number of defence systems”, says Laub. The research “brings to light how many systems are out there still to be characterized”, he adds. The discoveries include “hundreds of genes that we didn’t know were related”, says Escudero.",
+      "difficulty_constant": 3.8,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Bacteria have been fighting off viruses using a huge arsenal of molecular weaponry that scientists did not know about — until now. In studies published in Science today, two research teams describe the machine-learning algorithms they developed to screen bacterial genomes and identify proteins that are involved in protecting the microorganisms against viral invaders.",
+          "options": {
+            "A": "mechanisms",
+            "B": "technologies",
+            "C": "strategies",
+            "D": "approaches"
+          },
+          "answer": "A",
+          "explanation": "文章指出，细菌利用“分子武器库”对抗病毒。这里需要一个词来表示这些武器的内在运作方式或原理，'mechanisms'（机制）最符合语境，指细菌用于对抗病毒的分子运作方式。'Technologies'（技术）过于宽泛，'strategies'（策略）和'approaches'（方法）则更侧重于有意识的计划或行为，而此处描述的是生物体固有的防御手段。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Their analyses identified hundreds of thousands of potential antiviral proteins, which researchers could harness to develop innovative biotechnologies. “This is a treasure trove for any biochemist,” says José Antonio Escudero, a microbiologist at the CSIC National Center for Biotechnology in Madrid, who was not involved in either study.",
+          "options": {
+            "A": "discard",
+            "B": "ignore",
+            "C": "exploit",
+            "D": "neglect"
+          },
+          "answer": "C",
+          "explanation": "研究识别出了大量的潜在抗病毒蛋白，这些蛋白可以被研究人员“利用”来开发新技术。'Harness' 意为“利用”，与此最接近的选项是 'exploit'（利用）。'Ignore'（忽略）、'discard'（丢弃）和 'neglect'（忽视）都表示不使用或不关注，与文章中“开发创新生物技术”的目标相反。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Previous discoveries of antiviral immune systems in bacteria include the gene-editing system CRISPR–Cas9 and DNA-snipping proteins called restriction enzymes. Researchers have repurposed both systems to create molecular tools for genetic engineering.",
+          "options": {
+            "A": "recreated",
+            "B": "adapted",
+            "C": "invented",
+            "D": "modified"
+          },
+          "answer": "B",
+          "explanation": "研究人员“重新利用”了已有的CRISPR-Cas9和限制性内切酶系统来创造用于基因工程的分子工具。'Repurposed' 意为“再利用、改造用途”。'Adapted'（改造、改编）最能体现将现有系统用于新目的的含义。'Recreated'（重新创造）意味着从头开始，'invented'（发明）也表示全新创造，'modified'（修改）虽然有关联，但'adapted'更侧重于改变用途。"
+        },
+        {
+          "q_number": 4,
+          "stem": "“There’s a hope that maybe there’s a next generation of molecular tools that would come from some of these new systems,” says Michael Laub, a microbiologist at the Massachusetts Institute of Technology in Cambridge and a co-author on one of the studies1.",
+          "options": {
+            "A": "involved",
+            "B": "derived",
+            "C": "included",
+            "D": "attached"
+          },
+          "answer": "B",
+          "explanation": "这句话表达了一种期望，即下一代分子工具可能“来自”这些新系统。'Come from' 在这里表示来源或起源，'derived'（源自、得自）是最佳选择，表示这些工具是从这些新系统中发展或产生的。'Involved'（涉及）、'included'（包含）和'attached'（附属于）都不能准确表达“来源”的含义。"
+        },
+        {
+          "q_number": 5,
+          "stem": "When looking at the genome of a bacterium, “most of it is still dark matter”, says Escudero. “There are many things that we don’t know how they work or what they are.”",
+          "options": {
+            "A": "unclear",
+            "B": "unknown",
+            "C": "unexplored",
+            "D": "unidentified"
+          },
+          "answer": "B",
+          "explanation": "Escudero 将细菌基因组中“我们不知道它们如何工作或是什么”的部分比作“暗物质”。'Dark matter' 在这里是比喻，指代未知的事物。'Unknown'（未知的）最直接地对应了“我们不知道”的含义。'Unclear'（不清楚的）和'unidentified'（未识别的）程度较轻，'unexplored'（未探索的）虽然接近，但'unknown'更侧重于对事物本质和功能的认知缺失。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Previous studies had confirmed that bacteria use more than 250 proteins to protect themselves from viral infections. Researchers had suggested that the true bacterial immune system was much larger and more diverse than this, “But the big question was how much diversity and how can we actually predict it at scale?”, says Aude Bernheim, a microbiologist at the Pasteur Institute in Paris and a co-author on one of the papers2.",
+          "options": {
+            "A": "estimate",
+            "B": "measure",
+            "C": "assess",
+            "D": "quantify"
+          },
+          "answer": "D",
+          "explanation": "Aude Bernheim 提出的“大问题”是如何知道细菌免疫系统的“多样性有多大”以及如何“大规模预测”它。这里的“how much diversity”需要一个表示“数量”或“程度”的动词来搭配。'Quantify'（量化）最适合描述确定一个事物（多样性）的数量或规模。'Estimate'（估计）和'assess'（评估）更侧重于判断，'measure'（测量）通常用于物理量，'quantify'更符合对抽象概念（如多样性程度）进行数量化描述的语境。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Bacteria use a decoy defence molecule to set a trap for viruses",
+          "options": {
+            "A": "attract",
+            "B": "lure",
+            "C": "entice",
+            "D": "capture"
+          },
+          "answer": "B",
+          "explanation": "这句话描述了细菌如何利用“诱饵防御分子”来“为病毒设置陷阱”。'Set a trap' 意味着引诱或欺骗目标进入陷阱。'Lure'（诱骗，引诱）与此含义最吻合，表示用某种东西吸引或诱骗病毒。'Attract'（吸引）程度较弱，'entice'（引诱）虽然接近，但'lure'更常用于设置陷阱的语境，'capture'（捕获）是陷阱最终达到的目的，而不是设置陷阱的动作。"
+        },
+        {
+          "q_number": 8,
+          "stem": "In their study2, Bernheim and her colleagues trained deep-learning models on protein and genomic data to predict antiviral systems. Their goal was to identify the “full breadth of diversity of bacterial immunity”, says Bernheim.",
+          "options": {
+            "A": "scope",
+            "B": "extent",
+            "C": "range",
+            "D": "variety"
+          },
+          "answer": "A",
+          "explanation": "Bernheim 的目标是识别“细菌免疫多样性的全部广度”。'Breadth' 在这里指范围或广度。'Scope'（范围，范畴）最能表达“全面了解”或“涵盖”的含义。'Extent'（程度，范围）也可以，但'scope'更常用于形容认识或研究的范围。'Range'（范围，区域）和'variety'（多样性）不完全符合'breadth'在此处的用法。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The analysis estimated that, on average, 1.5% of genes in a bacterial genome correspond to proteins that are involved in antiviral immunity — three times more than previous estimates.",
+          "options": {
+            "A": "relate",
+            "B": "connect",
+            "C": "pertain",
+            "D": "belong"
+          },
+          "answer": "C",
+          "explanation": "分析估计，平均而言，细菌基因组中有1.5%的基因“对应”于参与抗病毒免疫的蛋白质。'Correspond to' 意为“与…一致，相当于，对应”。'Pertain to'（涉及，属于，关系到）最能表达基因与蛋白质功能之间的这种关联性。'Relate to'（与…有关）和'connect to'（连接到）也表示关联，但'pertain to'更强调基因的功能“属于”或“与…相关”免疫领域。'Belong to'（属于）则过于绝对。"
+        },
+        {
+          "q_number": 10,
+          "stem": "And more than 85% of the predicted protein families were not previously associated with immunity.",
+          "options": {
+            "A": "joined",
+            "B": "related",
+            "C": "connected",
+            "D": "linked"
+          },
+          "answer": "D",
+          "explanation": "超过85%的预测蛋白质家族以前“未与”免疫相关联。'Associated with' 意为“与…有关联”。'Linked to'（连接到，关联到）是'associated with'的近义词，在此处表示两者之间的联系。'Related to'（与…有关）和'connected to'（连接到）也可以，但'linked'更强调两者之间的明确关联，尤其是在科学研究中发现的联系。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Laboratory experiments on two bacterial species — Escherichia coli and Streptomyces albus — confirmed the presence of 12 ‘antiphage’ systems that ward off viruses called bacteriophages that infect bacteria.",
+          "options": {
+            "A": "repel",
+            "B": "defend",
+            "C": "resist",
+            "D": "block"
+          },
+          "answer": "A",
+          "explanation": "实验证实了12种“抗噬菌体”系统的存在，这些系统可以“抵御”称为噬菌体的病毒。'Ward off' 意为“击退，避开，抵御”。'Repel'（击退，排斥）最符合这个意思，表示将病毒推开或阻止其入侵。'Defend'（保卫）和'resist'（抵抗）也表示对抗，但'repel'更侧重于主动的驱赶动作。'Block'（阻挡）则稍显被动。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The systems had not previously been linked to antiviral defence.",
+          "options": {
+            "A": "connected",
+            "B": "related",
+            "C": "joined",
+            "D": "associated"
+          },
+          "answer": "D",
+          "explanation": "这些系统以前“未曾与”抗病毒防御相关联。'Linked to' 在这里表示两者之间存在联系。'Associated with'（与…相关联）是'linked to'的同义词，并且在科学语境中非常常用，表示两者之间存在某种关联性。'Related to'（与…有关）和'connected to'（连接到）也可以，但'associated with'更符合这里表述的“关联性”的含义。"
+        },
+        {
+          "q_number": 13,
+          "stem": "In their paper, Laub and his colleagues1 designed a separate machine-learning tool called DefensePredictor, which predicts bacterial immune proteins on the basis of gene and protein data from 17,000 bacterial genomes.",
+          "options": {
+            "A": "by",
+            "B": "from",
+            "C": "using",
+            "D": "with"
+          },
+          "answer": "C",
+          "explanation": "Laub的团队设计了一个工具，该工具“基于”基因和蛋白质数据来预测细菌免疫蛋白。'On the basis of' 意为“基于”。在四个选项中，'using'（使用）最能表达这个工具是“使用”这些数据来进行预测。'From'（来自）表示数据来源，'by'（通过）表示方式，'with'（与）表示伴随。'Using'最贴切地描述了工具的运作方式。"
+        },
+        {
+          "q_number": 14,
+          "stem": "When tested on 69 diverse strains of E. coli, DefensePredictor identified 624 proteins as defence-related immune systems, more than 100 of which were previously unknown.",
+          "options": {
+            "A": "unnoticed",
+            "B": "unfamiliar",
+            "C": "unrecognized",
+            "D": "unaccounted"
+          },
+          "answer": "C",
+          "explanation": "DefensePredictor 识别出624种蛋白质作为防御相关的免疫系统，其中超过100种是“以前未知的”。'Unknown' 意味着之前不知道它们的存在或功能。'Unrecognized'（未被识别的）最符合这个语境，表示这些蛋白质是新发现的，之前没有被科学界识别出来。'Unfamiliar'（不熟悉的）和'unnoticed'（未被注意的）程度较轻，'unaccounted'（未被解释的，未被计及的）意思不符。"
+        },
+        {
+          "q_number": 15,
+          "stem": "In lab experiments, Laub and his colleagues confirmed the defence activity in 42 cases.",
+          "options": {
+            "A": "verified",
+            "B": "asserted",
+            "C": "validated",
+            "D": "affirmed"
+          },
+          "answer": "C",
+          "explanation": "在实验中，Laub的团队“证实了”42种情况下的防御活动。'Confirmed' 意为“证实，确认”。'Validated'（验证，确认）是最贴切的选项，尤其是在科学实验中，验证实验结果的准确性。'Verified'（核实）和'affirmed'（断言，肯定）也接近，但'validated'更常用于科学研究中对发现或结果的确认。'Asserted'（断言）带有更强的语气，不完全符合实验验证的语境。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Both studies come to the same conclusion: that researchers have been “massively underestimating the number of defence systems”, says Laub.",
+          "options": {
+            "A": "vastly",
+            "B": "greatly",
+            "C": "highly",
+            "D": "extremely"
+          },
+          "answer": "A",
+          "explanation": "两项研究得出了相同的结论：研究人员“大大地低估”了防御系统的数量。'Massively' 意为“大规模地，极其地”。'Vastly'（极其地，大大地）是'massively'非常好的同义词，强调程度之深。'Greatly'（大大地）和'highly'（高度地）也可以，但'vastly'更能传达'massively'所指的巨大程度的低估。'Extremely'（极端地）语气过强。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The research “brings to light how many systems are out there still to be characterized”, he adds.",
+          "options": {
+            "A": "reveals",
+            "B": "exposes",
+            "C": "discloses",
+            "D": "uncovers"
+          },
+          "answer": "D",
+          "explanation": "该研究“揭示了”还有多少系统有待研究。'Brings to light' 意为“揭示，使显露出来”。'Uncovers'（揭开，发现）是最贴切的选项，表示将原本隐藏或未知的（系统）显露出来。'Reveals'（揭示）和'discloses'（披露）也可以，但'uncovers'更侧重于发现之前未被发现的事物。'Exposes'（暴露）带有负面含义，不适用于此。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The discoveries include “hundreds of genes that we didn’t know were related”, says Escudero.",
+          "options": {
+            "A": "affiliated",
+            "B": "associated",
+            "C": "connected",
+            "D": "linked"
+          },
+          "answer": "B",
+          "explanation": "Escudero提到，这些发现包括“我们不知道与之相关的数百个基因”。'Related' 在这里表示基因与某个功能或领域（此处暗示是免疫功能）之间的联系。'Associated'（相关的，关联的）是最合适的选项，表示这些基因与某种未知的、之前未被发现的联系有关。'Affiliated'（附属的）通常用于组织或团体，'connected'（连接的）和'linked'（链接的）也可以，但'associated'在描述基因与功能的关系时更为常用和准确。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Escherichia coli produce a diverse array of proteins to help protect them against bacteriophages (green). Credit: M. Maeder/Dept of Microbiology, Biozentrum/SPL Bacteria have been fighting off viruses using a huge arsenal of molecular weaponry that scientists did not know about — until now.",
+          "options": {
+            "A": "range",
+            "B": "collection",
+            "C": "variety",
+            "D": "assortment"
+          },
+          "answer": "A",
+          "explanation": "文章开头提到大肠杆菌产生“多样化的蛋白质阵列”来防御噬菌体。'Array' 在这里指一系列、一排，引申为“多样化的集合”。'Range'（范围，一系列）最符合这个语境，表示多种多样的蛋白质。'Collection'（集合）和'assortment'（什锦，各类）也可以，但'range'更能体现“多样化”的含义。'Variety'（多样性）本身就是形容词，不能直接替换'array'。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Their analyses identified hundreds of thousands of potential antiviral proteins, which researchers could harness to develop innovative biotechnologies.",
+          "options": {
+            "A": "obtain",
+            "B": "acquire",
+            "C": "gather",
+            "D": "utilize"
+          },
+          "answer": "D",
+          "explanation": "研究识别出大量潜在抗病毒蛋白，研究人员可以“利用”它们来开发新技术。'Harness' 的意思是“利用，驾驭”。'Utilize'（利用）是其最准确的同义词，表示有效使用某物。'Obtain'（获得）、'acquire'（获取）和'gather'（收集）都只表示得到，而没有“利用”其功能来达到目的的含义。"
+        }
+      ]
+    },
+    {
+      "title": "Christine Lagarde’s sober tone on the Gulf war energy shock",
+      "article_update_date": "03.28.2026",
+      "source_journal": "Economist",
+      "body_text": "Christine Lagarde’s sober tone on the Gulf war energy shock Finance & economics | Navigating a Trumpian world Christine Lagarde’s sober tone on the Gulf war energy shock Our interview with the ECB’s president March 26th 2026 THE RISKS from the Iran war, says Christine Lagarde, are being underestimated. Amid what the International Energy Agency calls the biggest energy shock ever, the president of the European Central Bank says expectations of a swift return to normal may be “overly optimistic”. “We are facing a real shock…probably beyond what we can imagine at the moment.” Speaking to The Economist at the ECB’s headquarters for “The Insider” , our video show, on March 25th, Ms Lagarde gave a sober view of the risks to the world economy. The bank’s technical experts believe “too much has already been damaged”, she said, and that there is “no way” the Gulf’s lost energy supply can be restored within months. The disruption may last “years”. The danger, she argued, is that the consequences will emerge only gradually, leading to a “delayed assessment” of how serious the crisis is. That struck a more pessimistic tone than a speech Ms Lagarde gave earlier the same day, when she said it was “too early to say” which scenario for the energy shock would unfold. Still, on monetary policy, she said the ECB was “well positioned to respond”. She is more concerned about government budgets. “There is not as much fiscal space” as in 2022-23, when countries spent 2.5% of GDP or more to cushion energy costs after Russia’s invasion of Ukraine. Any support this time should be “tailored, targeted and temporary”. Policymakers should be mindful of how “broad a blanket” they deploy, and focus on low-income households. On America’s role in the global system, Ms Lagarde was notably more critical. Asked whether countries could come together in a global crisis, she quipped: “I can assure you that the central-bank community will get together,” pointedly omitting finance ministers. She noted that during the financial crisis of 2007-09 the G20 co-ordinated a global response. “Can you imagine that happening now? The G20 is under US leadership. I’ll say no more.” She detects echoes of the 1920s, when America turned inward. Yet she is only partially a “Carneyist”—agreeing with Mark Carney, Canada’s prime minister, that the old order is breaking down, but resisting the idea that it must be rebuilt from scratch. Multilateral institutions such as the IMF, World Bank and World Trade Organisation, she said, can still be repaired—even if America’s “dominance” within them must diminish. As with a snake shedding its skin, it is possible to “extract from the old skin a new animal”. In that world, Ms Lagarde argued, Europe still has a central role to play. “Europe-bashing is vastly excessive,” she said, suggesting that disappointment reflects high expectations. The continent, once a “dream” and a “promise”, has been a “brutal success” in securing peace. Yet some of the successes she cited, such as the Erasmus student-exchange programme, seem underwhelming. She acknowledges that Europe must do more. Her priorities, she insists, are clear: a true single market; deeper, more efficient capital markets—“you need the money”—to lift weak productivity and innovation; a digital euro to support integration. However, the recently proposed “28th regime”, a unified rule book, “lacks ambition”. But achieving any of this will require political cohesion, which is complicated by the rise of populist nationalism. Ms Lagarde brushed aside suggestions from figures such as Jordan Bardella, of France’s National Rally, that the ECB could tailor policy to individual countries. There is “no chance in the world” of that. The deeper risk, she suggested, is political. Europeans “will have to decide again whether they’re together or not”. Europe’s shared commitments to the rule of law, democracy and common values are under strain. “Where we massively failed,” she said, is in neglecting distribution, leaving large parts of society feeling left behind. If that is not fixed, Europe’s economic agenda may matter less than its political survival. ■ For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/03/26/christine-lagardes-sober-tone-on-the-gulf-war-energy-shock",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what is Christine Lagarde's primary concern regarding the energy shock caused by the Iran war?",
+          "options": {
+            "A": "The immediate impact on global energy prices.",
+            "B": "The potential for underestimation of the risks and a delayed assessment of the crisis's severity.",
+            "C": "The European Central Bank's (ECB) ability to respond effectively with monetary policy.",
+            "D": "The restoration of the Gulf's energy supply within a few months."
+          },
+          "answer": "B",
+          "explanation": "文章指出，Lagarde's 'sober tone' 和 'senses echoes of the 1920s' 表明她对局势的严重性以及人们可能对其低估表示担忧。她提到“consequences will emerge only gradually, leading to a 'delayed assessment' of how serious the crisis is.” 这直接呼应了选项 B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does Lagarde contrast the current situation with the period of 2022-23 concerning government support?",
+          "options": {
+            "A": "She believes governments have more fiscal space now than before.",
+            "B": "She advocates for broad, untargeted support measures.",
+            "C": "She emphasizes that any support this time should be 'tailored, targeted and temporary' due to limited fiscal space.",
+            "D": "She suggests that fiscal policy is no longer a relevant tool for managing energy shocks."
+          },
+          "answer": "C",
+          "explanation": "文章中提到，“There is not as much fiscal space” as in 2022-23, when countries spent 2.5% of GDP or more... Any support this time should be “tailored, targeted and temporary”. 这表明她认为当前的财政空间有限，因此支持措施需要更加精准和有针对性，与选项 C 完全一致。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is Lagarde's view on the current state of international cooperation, particularly in a crisis like the one described?",
+          "options": {
+            "A": "She is confident that global institutions like the G20 can effectively coordinate a response, similar to the 2007-09 financial crisis.",
+            "B": "She believes that while central banks will cooperate, finance ministers and organizations like the G20 are unlikely to achieve the same level of coordination as in the past, citing US leadership.",
+            "C": "She argues that multilateral institutions are beyond repair and need to be completely rebuilt from scratch.",
+            "D": "She expresses optimism about the current US leadership fostering stronger global cooperation."
+          },
+          "answer": "B",
+          "explanation": "Lagarde's comment, “I can assure you that the central-bank community will get together,” pointedly omitting finance ministers, and her skeptical question, “Can you imagine that happening now? The G20 is under US leadership. I’ll say no more,” strongly suggest her pessimism about current global cooperation among finance ministers and political bodies, contrasting with central bank community's collaboration. This aligns with option B."
+        },
+        {
+          "q_number": 4,
+          "stem": "Regarding the future of global order and multilateral institutions, Lagarde's perspective can be best described as:",
+          "options": {
+            "A": "A complete rejection of the old order, advocating for a totally new system.",
+            "B": "An endorsement of the current US dominance in global institutions.",
+            "C": "A belief that existing institutions can be repaired and adapted, even if US dominance wanes, likening it to shedding an old skin.",
+            "D": "A pessimistic view that multilateral institutions are irreparable and obsolete."
+          },
+          "answer": "C",
+          "explanation": "Lagarde is described as 'only partially a “Carneyist”'—agreeing that the old order is breaking down, 'but resisting the idea that it must be rebuilt from scratch.' She believes 'Multilateral institutions such as the IMF, World Bank and World Trade Organisation, she said, can still be repaired—even if America’s “dominance” within them must diminish.' The metaphor 'extract from the old skin a new animal' further supports this idea of repair and adaptation, making option C the most accurate."
+        },
+        {
+          "q_number": 5,
+          "stem": "What does Lagarde identify as the deeper risk facing Europe, potentially overshadowing its economic agenda?",
+          "options": {
+            "A": "The rise of populist nationalism that complicates political cohesion.",
+            "B": "The lack of ambition in proposed regulatory frameworks like the '28th regime'.",
+            "C": "The failure to neglect distribution, leaving parts of society feeling left behind, which could threaten its political survival.",
+            "D": "Excessive 'Europe-bashing' that misrepresents the continent's successes."
+          },
+          "answer": "C",
+          "explanation": "The text explicitly states, 'The deeper risk, she suggested, is political. Europeans “will have to decide again whether they’re together or not.” ... “Where we massively failed,” she said, is in neglecting distribution, leaving large parts of society feeling left behind. If that is not fixed, Europe’s economic agenda may matter less than its political survival.' This directly supports option C as the deeper, potentially existential risk."
+        }
+      ]
+    },
+    {
+      "title": "Floating",
+      "article_update_date": "04.03.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Floating Fiction Floating By Souvankham Thammavongsa March 22, 2026 I had not noticed him. He came to stand in front of me, and asked if I was nervous, doing that, talking in front of people. He said he’d seen me looking at my notes, practicing. I do this all the time, I wanted to say, but I didn’t. I said, “I was nervous, but once I’m talking, I am fine.” He asked me if I taught, like my friend whom he knew from work. I spoke in a matter-of-fact way. I didn’t laugh or giggle when he wasn’t funny. I told him about my family. Mom and Dad divorced. My sister died. Pills. I was probably never going to see this man again, I thought. No reason not to just say stuff like this to him. What would he care? He told me his name. I couldn’t pronounce it, and had to try a few times. There was a comfort and ease to him that I liked. I liked that he talked. Asking questions like a grown man should. It wasn’t as if I had to work to get him to say something. He was present and alert. He listened. We didn’t talk to anyone else there. What happened around us, I didn’t notice, just that the room began to clear. Read an interview with the author for the story behind the story. We drifted away from each other, and he noticed. He rushed over to give me a hug. He ran, quick little steps and then a small leap. “Oh,” I said, making sure that nothing below our waists touched. I didn’t know his situation. He hadn’t mentioned anyone when we talked. They don’t mention them sometimes, so they can keep talking to you. Still, he probably wasn’t single, because he never tried to get my number. He then turned his head to ask if my friend would bring me along to dinner with him one evening, just the four of us. My friend and his husband, and me, and him. That’s four. So maybe there wasn’t a girlfriend. Otherwise, she would be counted in. Also, maybe he didn’t ask for my number because he wasn’t someone who jumped into things—he had to get to know a person first. After he left, I said to my friend, “I like him. Is he single?” My friend said he’d never mentioned a partner. • There’d been snow earlier, but it had stopped. I stood, alone, waiting for the bus. It was dark. I lived in this neighborhood about two years ago. Across the street there was a coffee shop, where I used to buy a breakfast sandwich before work. It had shut down now. And a few doors from that was the small grocery store that always had yellow guavas from Mexico. Also, just over there was the pizza place where my ex-husband and I had our last fight. I’d wanted to take a trip. Someplace warm, where there was a beach. I had a job, but it didn’t pay as well as his did. It had been just the two of us, and he made enough from his job to take care of both of us. Almost six figures. But I guess that doesn’t go a long way these days in a city like this. Podcast: The Writer’s Voice Listen to Souvankham Thammavongsa read “Floating.” Or maybe when you make that kind of money, it’s a burden to carry everything. What would happen if he got sick, and couldn’t work? he’d ask. Or, if he lost his job because of cutbacks? That’s happening everywhere. He was right, what I made wasn’t a lot of money compared with what he made. My mom and dad, together, made as much when I was growing up as I was making then. But we were what people call poor. I looked down at my winter boots with their felt lining and rubber soles. When I was a kid, I wore tennis shoes made of thin cotton fabric. I spent months asking for a new pair because my big toe was beginning to poke out on the left one. A new pair had cost five dollars. Maybe when you make that kind of money, you just don’t want to share. It wasn’t equal, he said. I quickly reminded myself that I was not married to him anymore. I’d got out of it. But I heard his voice in my head and I remembered the feeling of being yelled at. I held my breath even though it was just a memory. He had yelled, “We need money for stuff like that!” at the pizza place, as if we were people who couldn’t make the monthly payment and were about to lose our house to the bank. I thought we were doing fine. Maybe more than fine. We had leftovers in the fridge, a car with good tires, and a house on a street with trees. But he was always worried about having more. A few men at the pizza place turned around to see if I was all right, to check if this was a situation where they might be called on to step in. He looked over at them, and then whispered to me, “You make me feel like a jerk!” It was because I didn’t yell back to match his volume that he seemed so loud. I made as much as my mom and dad combined when I was kid, I wanted to say. I was proud of that. But I could tell it wasn’t something I should be proud of. I just sat there and lowered my head and let the tears drop down my face and wiped at them when they got to my chin. I didn’t want to wipe higher, near my eyes. People were looking at me, and I didn’t want them to know I was crying. • I hadn’t been with anyone since we divorced. Well, I had, but it was only for a few months. Doesn’t really count. He was in his early thirties and he didn’t have much experience, but he was so excited. I was like a man in a midlife crisis, liking them younger than me. He thought he could text at two in the morning and just come over, and, well, I let him, because I knew it wasn’t going to last. Just some fun. Still, when he started dating someone else, which I also knew was going to happen, I was sad about it. I thought that when I got divorced there would be plenty of opportunities to date and have fun experiences. A new season of bloom. But so many of the men want children now. Or they want to get married. Or they expect me to provide. When I was in my twenties, and had plenty of time to have children, I was careful not to bring it up. Pressure. Didn’t want to do that to anyone. It was a quick way to make a man become uninterested. It would make them run. I couldn’t call drinking coffee together a date. If I did, I would be reminded that we were just friends. I wanted things too soon, too fast. Never mind saying anything about marriage. People back then, at that age, just weren’t ready. What about a career? Now that I am fifty, they all tell me they want to get married. And they want babies, too. I’m not someone you introduce to your friends or bring home to your mother anymore. I will never give her grandchildren to dote on. It’s too late for stuff like that. • A few weeks passed, and it was still snowing. My friend tried to set up that dinner date. But, it turned out, the man was travelling for four months. He wasn’t going to be back until the summer. “I’ll be in touch,” he said. Maybe he isn’t interested, I thought. Four months from now is a long time. He’s in his fifties, too. A grown man. Why doesn’t he know where he will be or what he will be doing? He can’t pen something in a calendar and work around that? He’s a man with a steady job, a schedule. Shouldn’t he know enough about his life to choose one night for dinner with friends? “He might be going through some stuff, in his personal life,” my friend said. “You never know.” A month after this, my friend texted me and said that we should go for a walk now that the weather was better. There was so much sun. He’d found out some news. “So I told him that you like him. He said the night he met you and talked to you, he was just floating. He’d never felt that way before. He said, for him, it was love at first sight! This man loves you. And he said he could try to be friends with you, but he can’t be friends because he’s attracted to you. He can’t even be friends!” I wasn’t as excited. What did it mean that a man in his fifties had never felt this way before? It’s kind of late in life to have these feelings be new. Did he just never date a woman he liked before? Did he just go with the ones who texted first, arranged the dates, picked the restaurants? Who, two months later, still answered texts, even though he’d disappeared for a while, and never asked what happened? I had to ask, “But is he someone who wants to float?” Some people don’t want that. They have to stay grounded—can’t get carried away. Was he like that? “Oh, and he lives with a woman and he pays the mortgage,” my friend said. “I don’t know what he’s going to do about that. She’s not travelling with him, so maybe they’re not serious.” I don’t know. A mortgage is serious. They are hard to get, and even harder to get out of. It was true—four months was a long time to be away from someone you loved. He was having experiences without her. Did he invite her along and she didn’t want to go? Or did he tell her that this trip was something he needed, alone? Also, if he already had someone, shouldn’t he not say things like that out loud? Sure. We meet other people and we’re attracted to them, but we keep that to ourselves if we’re in something already. Now that it had been said aloud, did that mean that he’d do something about it? I asked my friend, “If your husband said, ‘I’m travelling for four months alone,’ what would you do?” My friend said, “Oh, we’re just broken up then.” Exactly, I thought. “Aren’t you happy? This man feels this way about you!” I didn’t think it was something to be happy about. It was just words. People can say all kinds of things to let you down easy. Not a lot of people get together for love. You get older, and you just hope that someone is there in the middle of the night. • A few months passed. It was summer. The herbs on the balcony grew tall and leafy. I learned more bits about him. The woman he was with. He complained about her. Enough that some close friends of his said, “It’s not going to last.” And no one from work had met her. “Does she even exist?” someone joked. She didn’t have a job. I wondered, Was it because she didn’t want to work? Was she wealthy and she didn’t have to? Or was it because he demanded that she be at his beck and call? That is like a full-time job. But didn’t she want her own money? To buy the things she wanted? Maybe he shared everything with her. What was his was hers, too. Maybe that was why he could go on a trip alone",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary reason the narrator initially felt comfortable sharing personal details with the man she met at the event?",
+          "options": {
+            "A": "She believed he was a potential romantic partner and wanted to impress him.",
+            "B": "She felt he was genuinely interested and that there was no long-term consequence to being candid.",
+            "C": "He shared equally personal information about himself, creating a sense of reciprocity.",
+            "D": "Her friend had vouched for his character and trustworthiness."
+          },
+          "answer": "B",
+          "explanation": "文章中提到“I was probably never going to see this man again, I thought. No reason not to just say stuff like this to him. What would he care?” 这表明叙述者认为这次偶遇不会有后续，因此可以随意分享个人信息。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The narrator's recollection of the argument at the pizza place with her ex-husband reveals what about their relationship?",
+          "options": {
+            "A": "They had a balanced financial situation, but he was overly anxious about security.",
+            "B": "He was controlling and prone to public outbursts, despite their seemingly comfortable life.",
+            "C": "She felt he was too focused on material possessions, causing them to argue about necessities.",
+            "D": "He was financially irresponsible, leading to constant arguments about money."
+          },
+          "answer": "B",
+          "explanation": "文章描述了她丈夫在披萨店大喊“We need money for stuff like that!”，而叙述者认为他们当时的经济状况（有剩余食物、好车、有房）是“fine”甚至“more than fine”。这表明问题不在于真正的经济匮乏，而在于丈夫的焦虑、控制欲和在公共场合的爆发，使她感到难堪和恐惧。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Regarding dating in her fifties, the narrator expresses frustration with men who:",
+          "options": {
+            "A": "are only interested in casual flings and not serious relationships.",
+            "B": "expect her to be the primary financial provider.",
+            "C": "desire marriage and children, which she feels is too late for her.",
+            "D": "are not ready for commitment and prefer to keep things casual."
+          },
+          "answer": "C",
+          "explanation": "叙述者提到“Now that I am fifty, they all tell me they want to marry. And they want babies, too. I’m not someone you introduce to your friends or bring home to your mother anymore. I will never give her grandchildren to dote on. It’s too late for stuff like that.” 这直接表达了她对这个年龄段男性想要结婚生子感到沮丧，因为她认为自己已经过了那个阶段。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The narrator's friend's description of the man's feelings as 'love at first sight' and being 'just floating' is met with skepticism by the narrator because:",
+          "options": {
+            "A": "she doubts the man's sincerity, believing he is trying to let her down gently.",
+            "B": "she questions the significance of such new feelings in a man of his age.",
+            "C": "she is aware he is living with another woman and paying a mortgage.",
+            "D": "she believes he is simply attracted to her and not truly in love."
+          },
+          "answer": "B",
+          "explanation": "叙述者在听到“love at first sight”后，立刻质疑“What did it mean that a man in his fifties had never felt this way before? It’s kind of late in life to have these feelings be new.” 她不理解为什么一个五十多岁的男人会第一次有这种感觉，这让她对这种感情的深度和来源产生了怀疑。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The detail about the man living with a woman and paying a mortgage, as revealed by the friend, primarily serves to:",
+          "options": {
+            "A": "create a dramatic irony, as the man professes strong feelings for the narrator.",
+            "B": "suggest that the man is financially stable and responsible.",
+            "C": "explain why the man is hesitant to commit to the narrator.",
+            "D": "indicate that the man is deceiving both women."
+          },
+          "answer": "A",
+          "explanation": "当朋友告知叙述者该男子“lives with a woman and he pays the mortgage”时，这与男子所表达的“love at first sight”和“attracted to you”形成了鲜明对比和潜在的冲突，制造了戏剧性张力。叙述者也因此质疑男子的真实意图和行为的可信度。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "04.03.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 5.0,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what is considered imperative for lasting peace and stability in the region?",
+          "options": {
+            "A": "Strengthening military alliances exclusively.",
+            "B": "Maintaining a regional security and economic architecture that is open, inclusive, and based on multilateralism and universally recognized principles of international law.",
+            "C": "Prioritizing bilateral trade agreements over multilateral cooperation.",
+            "D": "Reducing interaction in regional forums to avoid potential conflicts."
+          },
+          "answer": "B",
+          "explanation": "文章明确指出，‘Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region’。选项B直接对应了文章中的这句话，强调了开放、包容、多边主义和国际法原则在地区和平与稳定中的重要性。其他选项与文章内容不符或未被提及。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The trilateral meeting of foreign ministers emphasized the importance of coordination and cooperation in various regional forums, specifically mentioning which of the following as an example?",
+          "options": {
+            "A": "The World Trade Organization (WTO).",
+            "B": "The North Atlantic Treaty Organization (NATO).",
+            "C": "The East Asia Summit.",
+            "D": "The Association of Southeast Asian Nations (ASEAN)."
+          },
+          "answer": "C",
+          "explanation": "文章提到，‘The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity.’ 选项C，东亚峰会，被明确列为文章中提到的区域论坛之一。其他选项在文中未被提及。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the stated goal for BRICS cooperation in the coming decade, according to the joint statement?",
+          "options": {
+            "A": "To focus solely on economic development and trade expansion.",
+            "B": "To strengthen cooperation in economic, political, security, and people-to-people fields, ushering in the second golden decade of BRICS cooperation.",
+            "C": "To establish a new military alliance to counter external threats.",
+            "D": "To prioritize cultural exchange over all other forms of cooperation."
+          },
+          "answer": "B",
+          "explanation": "文章中引用联合声明称，‘We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,’。选项B准确地概括了声明中提到的合作领域和目标，即‘第二黄金十年’。其他选项过于片面或与文章内容相悖。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The joint statement describes the Russia-India-China trilateral format as a platform for:",
+          "options": {
+            "A": "Excluding other countries from regional discussions.",
+            "B": "Promoting exclusive economic partnerships.",
+            "C": "Fostering closer dialogue and practical cooperation among the three countries, and it is not directed against any other country.",
+            "D": "Establishing a dominant political bloc in the Asia-Pacific."
+          },
+          "answer": "C",
+          "explanation": "文章中提到，‘Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country.’ 选项C准确地反映了文章对该三边合作形式的描述，强调了其对话、合作的性质以及非针对性。其他选项与文章的原意不符。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary purpose of the cooperation between China, Russia, and India as stated in the text?",
+          "options": {
+            "A": "To exclusively promote the economic interests of the three nations.",
+            "B": "To consolidate military power within the Asia-Pacific region.",
+            "C": "To foster dialogue and coordination on regional and global issues of mutual interest, contributing to international and regional peace, stability, and prosperity.",
+            "D": "To create a new international organization independent of existing ones."
+          },
+          "answer": "C",
+          "explanation": "文章中‘We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,’ and ‘Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,’ 明确指出了合作的目的在于就共同关心的区域和全球问题进行协商协调，从而维护国际和区域和平稳定，促进全球经济增长和繁荣。选项C最全面地概括了这一目标。"
+        }
+      ]
+    }
+  ]
+}
