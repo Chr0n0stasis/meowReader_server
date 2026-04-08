@@ -126,7 +126,7 @@ articles:
   is_used: false
   title: Chapter 44
 - id: epub_45
-  is_used: true
+  is_used: false
   title: Pause
 - id: epub_46
   is_used: false
@@ -170,8 +170,8 @@ articles:
 - id: epub_61
   is_used: false
   title: Chapter 61
-capture_date: 04.04.2026
+capture_date: 04.08.2026
 journal_name: Wired
-publish_date: 04.04.2026
+publish_date: 04.08.2026
 source_type: github
 update_frequency: monthly
