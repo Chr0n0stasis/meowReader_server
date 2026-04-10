@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.10.2026",
+  "papers": [
+    {
+      "title": "Cambodia honours a life-saving rat",
+      "article_update_date": "04.10.2026",
+      "source_journal": "Economist",
+      "body_text": "Cambodia honours a life-saving rat Asia | Putting the rat in commemoration Cambodia honours a life-saving rat The rodent helped clear more than 100 unexploded mines April 9th 2026 ANGKOR WAT, a vast ancient temple complex in western Cambodia, is thought to be home to more than 1,000 statues. On April 3rd a new one was added—but this one is neither a Hindu deity nor a heavenly dancer; rather it is a tribute to a rat named Magawa. Born in Tanzania, he spent six years in Cambodia, long enough to become a hero there.Magawa was trained to detect unexploded mines. Following decades of conflict Cambodia’s countryside is blighted by landmines and unexploded ordnance. Sweeping the ground with a metal detector, it can take a person up to four days to clear an area the size of a tennis court. Any misstep can be fatal. It’s easier for rats. They weigh 1-1.5kg and scamper safely across mined ground. Their sense of smell allows APOPO, a Belgian NGO, to train them to sniff out explosives even after decades of burial. Since APOPO first deployed its “HeroRATS” in Cambodia in 2015, they have cleared 40 square kilometres of land and located over 8,000 landmines. Magawa, however, was the star. Over six years he detected more than 100 landmines, clearing the equivalent of 20 football pitches. He died peacefully in 2022 as the only rat ever awarded the PDSA Gold Medal, a prize for animal bravery. “He changed the ground beneath our feet,” said Ly Thuch, a senior minister, at the unveiling ceremony. The 2.2-metre statue of Magawa is believed to be the first public monument in the world dedicated to a life-saving rodent. But the tribute is also a call to action. For all the progress HeroRATS have made, some 4m-6m mines remain buried in Cambodia, concentrated in some of the country’s poorest regions, where their presence stifles farming, deters investment and exacts a human toll. Since 1979 landmines have killed or injured 65,000 people. APOPO warns that “funding for clearance operations is dwindling.” Time for humans to step up. ■ This article was downloaded by zlibrary from https://www.economist.com//asia/2026/04/09/cambodia-honours-a-life-saving-rat",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "ANGKOR WAT, a vast ancient temple complex in western Cambodia, is _________ to be home to more than 1,000 statues.",
+          "options": {
+            "A": "reported",
+            "B": "thought",
+            "C": "declared",
+            "D": "recognized"
+          },
+          "answer": "B",
+          "explanation": "本题考查固定搭配。'is thought to be' 表示“被认为有……”，符合语境。其他词虽然语法可行，但在描述历史古迹数量时不够地道。"
+        },
+        {
+          "q_number": 2,
+          "stem": "On April 3rd a new one was added—but this one is neither a Hindu deity nor a heavenly dancer; _________ it is a tribute to a rat named Magawa.",
+          "options": {
+            "A": "otherwise",
+            "B": "rather",
+            "C": "further",
+            "D": "moreover"
+          },
+          "answer": "B",
+          "explanation": "此处逻辑为对比转折，'neither...nor...' 后接 'rather' 引出对立面的事实。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Born in Tanzania, he spent six years in Cambodia, long enough to _________ a hero there.",
+          "options": {
+            "A": "produce",
+            "B": "transform",
+            "C": "appoint",
+            "D": "become"
+          },
+          "answer": "D",
+          "explanation": "考查词义搭配，'become a hero' 表示“成为英雄”，符合句意。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Following decades of conflict Cambodia’s countryside is _________ by landmines and unexploded ordnance.",
+          "options": {
+            "A": "supported",
+            "B": "protected",
+            "C": "blighted",
+            "D": "improved"
+          },
+          "answer": "C",
+          "explanation": "词汇辨析，'blighted' 意为“被破坏、受损”，对应地雷对乡村的负面影响。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Sweeping the ground with a metal detector, it can take a person up to four days to clear an area the size of a tennis court. Any misstep can be _________.",
+          "options": {
+            "A": "obvious",
+            "B": "fatal",
+            "C": "minor",
+            "D": "predictable"
+          },
+          "answer": "B",
+          "explanation": "根据地雷清理的危险性，在此语境下触雷导致的后果是致命的，故选 'fatal'。"
+        },
+        {
+          "q_number": 6,
+          "stem": "It’s easier for rats. They weigh 1-1.5kg and scamper _________ across mined ground.",
+          "options": {
+            "A": "safely",
+            "B": "heavily",
+            "C": "blindly",
+            "D": "randomly"
+          },
+          "answer": "A",
+          "explanation": "考查副词修饰，因为老鼠体重轻，它们可以在雷区安全穿梭，故选 'safely'。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Their sense of smell allows APOPO, a Belgian NGO, to train them to _________ out explosives even after decades of burial.",
+          "options": {
+            "A": "figure",
+            "B": "sort",
+            "C": "sniff",
+            "D": "carry"
+          },
+          "answer": "C",
+          "explanation": "考查动词短语，'sniff out' 意为“嗅出”，完全符合通过嗅觉探测爆炸物的语境。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Since APOPO first deployed its “HeroRATS” in Cambodia in 2015, they have cleared 40 square kilometres of land and _________ over 8,000 landmines.",
+          "options": {
+            "A": "located",
+            "B": "ignored",
+            "C": "hidden",
+            "D": "avoided"
+          },
+          "answer": "A",
+          "explanation": "地雷探测任务的结果是“定位、发现”，故选 'located'。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Magawa, _________, was the star.",
+          "options": {
+            "A": "therefore",
+            "B": "however",
+            "C": "consequently",
+            "D": "meanwhile"
+          },
+          "answer": "B",
+          "explanation": "上下文转折，前文讲群体成就，后文聚焦于Magawa这一个个体，使用 'however' 表示转折。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Over six years he detected more than 100 landmines, clearing the equivalent of 20 football _________.",
+          "options": {
+            "A": "fields",
+            "B": "grounds",
+            "C": "pitches",
+            "D": "stadiums"
+          },
+          "answer": "C",
+          "explanation": "考查固定表达，'football pitches' 是英国英语中足球场的地道用法。"
+        },
+        {
+          "q_number": 11,
+          "stem": "He died peacefully in 2022 as the only rat ever _________ the PDSA Gold Medal, a prize for animal bravery.",
+          "options": {
+            "A": "offered",
+            "B": "awarded",
+            "C": "presented",
+            "D": "submitted"
+          },
+          "answer": "B",
+          "explanation": "奖项通常用 'award'，'awarded the medal' 表示被授予奖章。"
+        },
+        {
+          "q_number": 12,
+          "stem": "“He changed the ground beneath our feet,” said Ly Thuch, a senior minister, at the _________ ceremony.",
+          "options": {
+            "A": "opening",
+            "B": "celebration",
+            "C": "memorial",
+            "D": "unveiling"
+          },
+          "answer": "D",
+          "explanation": "揭幕仪式通常称为 'unveiling ceremony'，指雕塑揭幕。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The 2.2-metre statue of Magawa is believed to be the first public monument in the world _________ to a life-saving rodent.",
+          "options": {
+            "A": "dedicated",
+            "B": "contributed",
+            "C": "attached",
+            "D": "devoted"
+          },
+          "answer": "A",
+          "explanation": "固定搭配 'dedicated to' 意为“献给……”，常用于纪念碑的描述。"
+        },
+        {
+          "q_number": 14,
+          "stem": "But the tribute is also a call to _________.",
+          "options": {
+            "A": "debate",
+            "B": "duty",
+            "C": "reflection",
+            "D": "action"
+          },
+          "answer": "D",
+          "explanation": "常用搭配 'a call to action'，意为“行动呼吁”。"
+        },
+        {
+          "q_number": 15,
+          "stem": "For all the progress HeroRATS have made, some 4m-6m mines remain buried in Cambodia, _________ in some of the country’s poorest regions.",
+          "options": {
+            "A": "concentrated",
+            "B": "scattered",
+            "C": "accumulated",
+            "D": "collected"
+          },
+          "answer": "A",
+          "explanation": "上下文逻辑，地雷分布在贫困地区，‘concentrated’ 表示“集中于”最符合逻辑。"
+        },
+        {
+          "q_number": 16,
+          "stem": "where their presence stifles farming, _________ investment and exacts a human toll.",
+          "options": {
+            "A": "attracts",
+            "B": "boosts",
+            "C": "deters",
+            "D": "supports"
+          },
+          "answer": "C",
+          "explanation": "根据负面后果判断，地雷的存在抑制农业并‘阻止’（deters）投资。"
+        },
+        {
+          "q_number": 17,
+          "stem": "where their presence stifles farming, deters investment and _________ a human toll.",
+          "options": {
+            "A": "exacts",
+            "B": "pays",
+            "C": "removes",
+            "D": "avoids"
+          },
+          "answer": "A",
+          "explanation": "搭配 'exact a toll' 意为“造成损失/代价”，是高级动词短语用法。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Since 1979 landmines have killed or injured 65,000 people. APOPO warns that “funding for clearance operations is _________.”",
+          "options": {
+            "A": "doubling",
+            "B": "increasing",
+            "C": "expanding",
+            "D": "dwindling"
+          },
+          "answer": "D",
+          "explanation": "结合下文“Time for humans to step up”，可知资金在减少，故选 'dwindling'。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Time for humans to _________ up.",
+          "options": {
+            "A": "move",
+            "B": "show",
+            "C": "give",
+            "D": "step"
+          },
+          "answer": "D",
+          "explanation": "习惯用语 'step up' 在此意为“挺身而出，采取行动”。"
+        },
+        {
+          "q_number": 20,
+          "stem": "This article was downloaded by zlibrary from https://www.economist.com//asia/2026/04/09/cambodia-honours-a-life-saving-rat. _________ is the final source.",
+          "options": {
+            "A": "That",
+            "B": "This",
+            "C": "Which",
+            "D": "It"
+          },
+          "answer": "C",
+          "explanation": "本题补充说明（虽不在正文但在脚注处，作为补充题），引导非限制性定语从句，选 'Which'。"
+        }
+      ]
+    },
+    {
+      "title": "‘We still deserve due process,’ says Cambodian man deported by US to Eswatini",
+      "article_update_date": "04.09.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A Cambodian man deported by the US said he would have accepted being sent to Cambodia, but instead ended up imprisoned in Eswatini, a country he knew so little about that when he first read the name he thought it was another immigration detention centre in Louisiana. Pheap Rom, who had been convicted of attempted murder, was one of 10 deportees sent to Eswatini by the US in October 2025. They joined a group of five men, from Cambodia, Cuba, Jamaica, Vietnam and Yemen, who were deported to the small southern African country in July. All were sent to a maximum-security prison. Rom was deported from Eswatini to Cambodia in March. The US government labelled the men dangerous criminals. Their lawyers said they had already served sentences for crimes committed in the US. Rom served a 15-year sentence in the US for four counts of attempted murder, after taking a plea deal. Shortly after his sentencing, he was told he would be deported to Cambodia, which he said he had accepted. “Even if you were a convicted felon, at the end of the day we still deserve due process. If our due process is taken away, anybody else’s due process can be taken away,” said Rom, who arrived in the US as a refugee in 1985, aged three. “I’m not disputing the fact that I got a final order and I’m to be removed and I’m content with that. As long as I’m being removed to the country that I’m supposed to be removed to. “I might be free, but I want people to know that there’s still people that are still in prison in a third country,” he said. Donald Trump’s administration has deported dozens of people to third countries from which they do not originate. African countries that have signed deportation deals include the Democratic Republic of the Congo, Equatorial Guinea, Ghana, Rwanda, South Sudan and Uganda. Following Rom’s release from prison, he said he had spent almost 11 months detained in US Immigration and Customs Enforcement (ICE) facilities. However, Rom said he expected to be sent to Cambodia, which he had never visited, having been born in a Thai refugee camp. Rom’s comments offer a rare insight into the process of expulsions from the US to third countries. He said he had no opportunity to speak to a lawyer after learning he would be sent to Eswatini and his repeated attempts to object to being sent there were fruitless. Instead, he was told: “Pack your shit and get the fuck out.” The 10 men were shackled and packed tightly into the back of a jet for 21 hours, he said. Staff on the flight said that, to their knowledge, the men would be free when they landed in Eswatini, a country of 1.3 million people landlocked by South Africa and Mozambique. Instead, according to Rom, they were greeted by lines of military personnel armed with machine guns and taken directly to the Matsapha correctional complex, a maximum-security prison. The US Department of Homeland Security did not immediately respond to a request for comment. In a prior statement about the first five men to be deported to Eswatini, a spokesperson said: “If you come to our country illegally and break our laws, you will be removed … These criminal illegal aliens sent to Eswatini are convicted murderers, paedophiles, and gang members. “Every single one of these criminal illegal aliens had a final deportation order. The fact of the matter is those who are in our country illegally have a choice – they can leave the country voluntarily or be arrested and deported.” Rom said the group were only given a roll of toilet paper and a bar of soap each per week. Initially, the men shared clothes, because some only had the clothes they arrived wearing. At first, he said, they were only allowed 15 minutes outside each day and one phone call a week, while a local lawyer was barred from seeing them. The mental health of individuals who feared returning to their countries due to human rights concerns, or whose return was complicated by political factors between the US and their government, deteriorated, Rom said. One went on hunger strike for 30 days. “It was making them go crazy,” he said. Eventually, the detainees were allowed to use mobile phones, to spend more time outside their cells and to go to a shop once a week. Rom was deported to Cambodia on 26 March, six months after fellow deportee Orville Etoria was returned to Jamaica. The Jamaican and Cambodian governments both said they would have accepted their nationals directly from the US. In March, Eswatini said four more people had been deported there from the US, one from Tanzania, one from Sudan and two from Somalia. Thabile Mdluli, a spokesperson for Eswatini’s government, which received $5.1m (£3.8m) from the US to accept up to 160 deportees, said: “The government of the Kingdom of Eswatini has made every reasonable effort, in accordance with national laws and international obligations, to ensure that the third-country nationals received from the United States government are accommodated in conditions that respect their fundamental rights and human dignity. “Eswatini remains committed to upholding the dignity, safety, and wellbeing of all individuals within its borders.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why was Pheap Rom initially confused when he heard he was being sent to Eswatini?",
+          "options": {
+            "A": "He mistakenly believed it was a familiar immigration detention center in Louisiana.",
+            "B": "He thought the US government was trying to hide his location from his legal counsel.",
+            "C": "He assumed Eswatini was a province within his home country, Cambodia.",
+            "D": "He lacked knowledge about the country and misunderstood its nature."
+          },
+          "answer": "D",
+          "explanation": "文章提到Rom对Eswatini知之甚少，以至于当他第一次读到这个名字时，他误以为这是路易斯安那州的另一个移民拘留中心。选项D准确概括了他当时的情况。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes Pheap Rom's stance regarding his deportation?",
+          "options": {
+            "A": "He completely denies the legitimacy of the US legal process.",
+            "B": "He is willing to accept deportation to his country of origin, but objects to being sent to a third country.",
+            "C": "He believes he should not have been deported at all because he arrived in the US as a refugee.",
+            "D": "He is primarily concerned about the lack of financial compensation for his imprisonment."
+          },
+          "answer": "B",
+          "explanation": "Rom在文中明确表示，只要是遣返回他应该去的国家（柬埔寨），他是可以接受的，但他对被送往与遣返无关的“第三国”表示强烈不满和质疑。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the passage imply about the US government's perspective on the deportation program?",
+          "options": {
+            "A": "It prioritizes the human rights and rehabilitation of the detainees.",
+            "B": "It views the deportees as individuals who have forfeited their due process by breaking laws.",
+            "C": "It is transparent about the specific conditions detainees face in third countries.",
+            "D": "It acknowledges that the detainees were treated harshly during their transit."
+          },
+          "answer": "B",
+          "explanation": "国土安全部发言人的陈述表明，美国政府认为这些非法移民触犯了法律，是罪犯，并明确指出他们要么选择自动离境，要么被捕并遣返，强调其犯罪性质以合理化遣返行动。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred about the reality of the detainees' life in Eswatini compared to initial assurances?",
+          "options": {
+            "A": "The detainees were provided with adequate resources to maintain their health.",
+            "B": "The detainees were given freedom of movement upon their arrival.",
+            "C": "The treatment contradicted the expectation that they would be free upon landing.",
+            "D": "The detainees had full access to legal representation throughout their stay."
+          },
+          "answer": "C",
+          "explanation": "文中提到，飞机上的工作人员认为他们抵达后会获得自由，但实际上他们一落地就受到了荷枪实弹的武装人员迎接，并被直接送往最高安全级别的监狱，这与最初的预期完全相反。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the significance of the payment mentioned by Eswatini's government spokesperson?",
+          "options": {
+            "A": "It highlights the financial burden the US placed on African nations.",
+            "B": "It suggests the deportation agreement involved a significant financial incentive for the host country.",
+            "C": "It reveals the amount paid by the US to cover the legal costs of the detainees.",
+            "D": "It proves that the deportees were treated in accordance with international luxury standards."
+          },
+          "answer": "B",
+          "explanation": "发言人提到Eswatini政府从美国获得了510万美元，用于接收多达160名遣返人员。这表明美国与第三国之间达成的遣返协议中，包含了实质性的经济激励措施。"
+        }
+      ]
+    },
+    {
+      "title": "Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation",
+      "article_update_date": "03.25.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A Grammy-winning South African composer who wrote and performed the opening chant in Circle of Life for Disney’s The Lion King is suing a comedian for allegedly damaging his reputation by intentionally misrepresenting the song’s meaning on a podcast and in his standup routine. Lebohang Morake’s lawsuit accuses the Zimbabwean comedian Learnmore Mwanyenyeka, known as Learnmore Jonasi, of intentionally mistranslating the chant, which launches the 1994 movie and is central to staged versions as well as Disney’s 2019 remake. The dispute, which has gone viral as the two men challenge each other on social media, stems from statements Jonasi made in his standup routines and in a podcast interview, when he translated the song’s lyrics from Zulu and Xhosa, two of South Africa’s 12 national languages. The lawsuit was filed this month in federal court in Los Angeles, where Morake, who performs as Lebo M, lives and where Jonasi has performed. It accuses Jonasi of intentionally mocking “the chant’s cultural significance with exaggerated imitations”. Disney’s official translation of the opening phrase “Nants’ingonyama bagithi Baba” is: “All hail the king, we all bow in the presence of the king.” “Hay! baba, sizongqoba,” the chant continues. It translates to “through you we will emerge victoriously”, according to Morake. The lawsuit cites an episode of the podcast One54, whose Nigerian hosts sing the chant with incoherent and incorrect words. Jonasi corrects them, saying: “That’s not how you sing it, don’t mess up our language like that.” He then sings the correct lyrics in Zulu. When asked, he says they translate to: “Look, there’s a lion. Oh my god.” The hosts burst out laughing, saying they thought the chant was something more “beautiful and majestic”. Circle of Life, with music by Elton John and English-language lyrics by Tim Rice, came up in the broader context of Jonasi’s critique of The Lion King franchise as profiting off of simplistic narratives about the African continent for non-African audiences. “The lions had American accents in Africa, and then you had the monkey with an accent,” Jonasi said. Morake’s lawyers acknowledged in the complaint that “ingonyama” can literally translate to “lion” but say it’s used in the song as a royal metaphor, adding that Jonasi had intentionally misrepresented “an African vocal proclamation grounded in South African tradition”. The lawsuit says Jonasi “received a standing ovation” for a similar joke he made about the song during a 12 March performance in Los Angeles. Such viral statements, it says, are interfering with Morake’s business relationships with Disney and his income from royalties, causing more than US$20m in actual damages. The lawsuit also seeks US$7m in punitive damages. Disney didn’t respond to an emailed request from Associated Press for comment on Monday night. The Guardian also reached out for comment. The complaint argues that Jonasi presented his translation “as authoritative fact, not comedy” so it shouldn’t get the first amendment protections afforded to parody and satire that make fun of other artistic works. Jonasi doesn’t have an attorney publicly listed for the case, and a representative didn’t respond to an emailed request for comment on Monday night, but the comedian offered some thoughts in a video posted last week as he continues his US tour. He said he was a “big fan” of Morake’s work and loves the song. When he learned that Morake was upset, he said, he wanted to create a video with the composer explaining the chant’s deeper meaning. “Comedy always has a way of starting conversation,” Jonasi said in a video he posted on Instagram, which got more than 100,000 likes. “This is your chance to actually educate people, because now people are listening.” But Jonasi said he had changed his mind about collaborating with Morake when he said the composer called him “self-hating” as they exchanged messages. He said Morake’s reaction ignored the rest of his work delving into a more nuanced critique of US renderings of African identity.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary reason for Lebo M's lawsuit against Learnmore Jonasi?",
+          "options": {
+            "A": "Jonasi allegedly infringed upon the copyright of the song 'Circle of Life'.",
+            "B": "Jonasi reportedly mocked the cultural significance of the chant through intentional mistranslation.",
+            "C": "Jonasi publicly insulted the professional reputation of Disney’s production team.",
+            "D": "Jonasi unauthorizedly used the chant in his own professional standup tour."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到，Lebo M 指控 Jonasi 故意曲解歌词含义，并以此嘲弄该圣歌的文化重要性（mocking the chant's cultural significance），因此 B 选项最符合题意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does the lawsuit categorize Jonasi's performance regarding the First Amendment protections?",
+          "options": {
+            "A": "It argues that the performance qualifies as legitimate parody protected by law.",
+            "B": "It claims that the performance lacks sufficient artistic merit for protection.",
+            "C": "It asserts that the statements were presented as factual claims rather than satire.",
+            "D": "It maintains that the performance was strictly for educational purposes, not satire."
+          },
+          "answer": "C",
+          "explanation": "文中提到诉讼方认为 Jonasi 将其翻译作为“权威事实而非喜剧”（as authoritative fact, not comedy）呈现，因此不应享有针对戏仿和讽刺的宪法第一修正案保护。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the broader context behind Jonasi’s critique of 'The Lion King'?",
+          "options": {
+            "A": "He believes the film relies on oversimplified representations of Africa for international viewers.",
+            "B": "He thinks the film’s music fails to accurately reflect the traditional Zulu and Xhosa languages.",
+            "C": "He argues that the film’s producers should have hired more South African actors for voice roles.",
+            "D": "He wants to challenge the financial success of Disney’s recent live-action remakes."
+          },
+          "answer": "A",
+          "explanation": "文章提到 Jonasi 对该系列电影的批评背景是，其认为电影通过简化非洲叙事（simplistic narratives about the African continent）来谋取利益。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase 'royal metaphor' imply in the context of the legal dispute?",
+          "options": {
+            "A": "The chant serves as an actual formal address to the Zulu king.",
+            "B": "The word 'lion' is intended to symbolize leadership or authority rather than the animal.",
+            "C": "The performance is a critique of the colonial history associated with royal lineages.",
+            "D": "The singer claims to be royalty to justify his creative input in the song."
+          },
+          "answer": "B",
+          "explanation": "诉讼律师承认 'ingonyama' 字面意义是狮子，但补充说在歌曲中它被用作一种“皇家隐喻”（royal metaphor），意味着它象征权力或高贵地位，而非仅仅是动物。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes Jonasi's response to the controversy?",
+          "options": {
+            "A": "He expressed remorse for the misunderstanding and offered to apologize publicly.",
+            "B": "He maintained that he remains a fan but felt offended by the composer's personal insults.",
+            "C": "He decided to cease his tour in the US to address the legal allegations in court.",
+            "D": "He claimed that his comedy was misinterpreted because the audience lacked linguistic knowledge."
+          },
+          "answer": "B",
+          "explanation": "文章最后一段指出，Jonasi 本想与作曲家合作解释含义，但当对方称他为“自恨者”（self-hating）时，他改变了主意，说明他是因对方的言辞而感到被冒犯。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 36",
+      "article_update_date": "03.30.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Zoë Schiffer Leah Feiger Vittoria Elliott Makena Kelly Kate Knibbs David Gilbert Molly Taft Aarian Marshall Paresh Dave Jake Lahut The Big Story Sep 25, 2025 6:00 AM The Story of DOGE, as Told by Federal Workers WIRED spoke with more than 200 federal workers in dozens of agencies to learn what happened as the Department of Government Efficiency tore through their offices. ILLUSTRATIONS: YONK In August, months after Elon Musk left the federal government, the director of the Office of Personnel Management offered the first hard estimate of the so-called Department of Government Efficiency’s impact on the civil service. The government would likely end 2025 with about 300,000 fewer employees than it had at the start of the year, he told reporters. Most resignations were attributable to the incentives DOGE had offered the federal workforce to resign their positions. The total figure amounted to one in eight workers. Well, almost. In recent weeks, hundreds of the employees DOGE pushed out have reportedly been offered reinstatement. The true scope of DOGE’s attack on the federal government remains unknown. While there is no reason to think it achieved meaningful cost savings or operational efficiencies, the ramifications of building a master database to track and surveil immigrants are just beginning to be felt, and its cadre of Musk protégés and tech entrepreneurs remain embedded in agencies throughout the executive branch. The possibilities this opens up—of private takeovers of government operations, of the government embracing Silicon Valley’s ethos of moving fast and breaking things—remain open. WIRED spoke with more than 200 federal workers across dozens of agencies to gather the most comprehensive picture yet of how the American government got to this point, and where it may go from here. Many sources requested anonymity because they fear retaliation. They told WIRED not just what has been going on inside the federal government at a time of unprecedented change—but what it’s been like to experience those changes firsthand. The following is the story, in their words, of what happened when the world’s most powerful man unleashed the world’s richest one on the world’s most complex institution. “I kept comparing it to a natural disaster,” one worker at the Centers for Disease Control and Prevention told WIRED. “But it wasn’t natural. Just a stampede of wide-eyed, confused government employees moving files around and looking over their shoulders because they think maybe Elon was creeping behind them with a chain saw.” Donald Trump established DOGE within hours of taking office on January 20, assigning it the task of “modernizing Federal technology and software to maximize governmental efficiency and productivity.” Within days, Musk’s allies and their coterie of young, inexperienced technologists were appearing in the offices of relatively unknown agencies like the General Services Administration and the Office of Personnel Management—obtaining unprecedented access to government systems and personnel files in the process. The DOGE operatives included young men like Edward “Big Balls” Coristine, Kyle Schutt, and Ethan Shaotran, all of whom would go on to work at a number of government agencies, from the Department of Education to the Social Security Administration. “I met Kyle and Ethan on January 23, and I very briefly bumped into Coristine before anyone was talking about him. I would describe them all as giddy, excited, curious, passionate, and super interested in learning about and jumping in on this new thing. I was super excited too at first. “Then the next week it felt like everything shifted and suddenly they were no longer curious or asking questions or on an adventure and instead they were just frantically running around trying to do impossible shit with no context and no flexibility and no ability to push back. “I thought maybe it would turn around. But it never did.” —General Services Administration (GSA) worker “The first meeting with DOGE—really the only meeting with DOGE, if I'm going to be honest—was … a virtual meeting that was 30 minutes long. In typical DOGE fashion, the government organization that we were promised unbelievable transparency on, they don't turn the cameras on, they don't tell you who they are, they don't tell you if anybody else is in the room, so you have no idea who you're talking to.” —Colin O’Brien, former head of security at the United States Institute of Peace “We saw them immediately. They acted like new hires but a bit furtive since they were actually instructed not to share their full names with us at first.” —Technology Transformation Services worker “My big aha moment came late, because for so long I was giving them the benefit of the doubt. These guys were young, and they had a job to do, and yes, they were doing it aggressively—but again, I assumed the best. But then Ethan Shaotran went on Fox News, on Jesse Watters. He just trash-talked us pretty bad, conflating things they’d found at other agencies, basically implying we were misappropriating grant money. It made my blood boil. Ethan had to know that wasn’t true. That was it for me—there is no good faith at all.” —Federal worker “The vibe they gave was ‘So, what is it that you do here?’ and ‘Why can’t AI do that?’” —Technology Transformation Services worker During the early weeks of the administration, emails from DOGE started showing up in federal workers’ inboxes—or at least in their spam folders. “I logged on to find several emails tagged ‘External,’ because DOGE just brought in their own servers and plugged them into the network. Then there were several subsequent emails from different leaders saying things like, ‘Thank you for all the phishing reports, but the emails are real and need to be followed. But also please keep reporting things that look like phishing. Except from DOGE … but probably even then. And this is totally fine and normal.’” —Contractor for the Veterans Administration Among the emails was the now infamous “Fork in the Road,” encouraging workers to be loyal or quit. It closely tracked the language of an email sent to Twitter employees not long after Musk’s takeover of that company. A subsequent follow-up was even more insulting. “It was truly so idiotic and looked like it was written by a disturbed child.” —CDC employee “We’re used to every little thing done by regulation, and now we’re just getting crazy emails … This is a 5-alarm fire. This is a constitutional crisis.” —Department of Labor employee “That response shocked me. We knew that this administration had little regard for professionals who choose to work for the federal government, but to state it so publicly, dripping with contempt, was truly unbelievable to me.” —GSA employee Federal employees who remained were forced back to the office. Many found their workplaces increasingly hostile. “A woman I did not know in the cubicle next to me broke down. She was literally wailing, inconsolable, because she could not get into a childcare facility she could afford on such short notice. She literally had to choose between her little child and working. Her explaining to her manager the way her child cried and begged Mommy to stay home broke me. Then, as if on cue, an email from a person whose account said they were the acting IRS commissioner arrived in our inboxes, reminding us that it was “Mental Health Awareness” month and that we can do such helpful things as “practicing gratitude” and breathing techniques to deal with stress. It also reminded us we can take time off to seek professional help … I never saw her again, and her cube is now empty.” —Internal Revenue Service employee “Because we are part of Homeland Security, there’s always an armed guard at FEMA facilities. That’s a very standard thing. But the guys we’re used to seeing are like the contracted-out, office patrol guys—they’re mall cops, to be polite about it. They sit at the desk and make sure you have ID, and that’s the extent of their policing. We have a pretty good relationship with our local guy at the front desk of our building. He’s a nice guy; he’ll walk around our office sometimes. We share our snacks with him. “One day he comes in to walk the office, like he does occasionally, and a few minutes after he passes by, another officer walks through. This time, it’s somebody we’ve never seen before, and he’s like, kitted out. He’s dressed in all black from head to toe; he’s got body armor on. He’s wearing a tactical helmet. He’s got a big gun on him, like a rifle, not like a handgun in a side pouch. He did not have a visible name tag, which is not standard at all—everybody in a federal facility is required to identify themselves at all times, and he had no individual identifying markings. The only writing on his uniform was the big yellow text on his back that said HOMELAND SECURITY. “He was walking through the office as slowly as he could. He would pause behind you and watch what you were doing for five to 20 seconds and then move on. His entire demeanor, it was very obvious he wanted us to see him, and he wanted to see us watching him. These are fucking office workers working on laptops. We’re doing spreadsheets and PowerPoints. Like, chill out, dude. “My coworker went over [to the guard] and was like ‘Hey, welcome, can I help you with something, are we in danger? What’s the problem? The officer announces—not just to my coworker but to as many people as can hear him—‘No, I don’t want your help. I’m just here to patrol you and to desensitize you to my presence.’ Then he just keeps on walking. That’s the only thing he’s said to us. He’s been through a couple times now and never gives anyone the time of day—never smiles, never says good morning, just walks through, dresses us all down for a few minutes, and leaves.” —FEMA employee The offices were also quite literally gross—because DOGE had put a $1 spending limit on most government credit cards and didn’t make exceptions for basic necessities. “The women’s restroom was out of toilet paper within a week or so of us coming back to the office. I brought this up to Facilities, like, ‘Hey, this is kind of a sanitation and dignity issue, can you hook us up with more toilet paper?’ They were like, ‘We’d love to, but we can’t purchase anything until they unfreeze the cards, and we don’t even know what the process is, because they have them sort of indefinitely frozen.’ “For five months we were instructed to bring in our own toilet paper. I literally kept two rolls at my desk. I wish I were joking.” —FEMA employee Musk and Trump were eagerly filling government agencies with their allies. At the Department of Housing and Urban Development (HUD), Trump installed Scott Turner, a former NFL cornerback. “[Turner] has two primary sources of anecdotes I keep hearing: his time in the NFL—specifically that he was drafted in the last round—and his father’s time working as a shelf stocker at Safeway and how he is doing the same thing at HUD by ‘taking inventory and restocking the shelves.’ For a motivational speaker and pastor he is neither motivational nor inspirational.” —HUD employee Immigration was a major pillar of the second Trump administration. While the government made crystal clear it did not want foreigners in the country, it carved out an exception for a minority group of white South Africans in an executive order in February—a topic near and dear to Musk’s heart, as a white immigrant from South Africa. “This administration has made a complete mockery of the humanitarian side of immigration. I have interviewed parents who saw their children beheaded in front of them. I have interviewed children who saw their parents killed in front of them. I have interviewed women who have been sexually assaulted. I",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary significance of the 'Department of Government Efficiency' (DOGE) as described in the article?",
+          "options": {
+            "A": "It has successfully optimized government spending and streamlined federal operations.",
+            "B": "It represents a disruptive force characterized by a lack of transparency and an aggressive, Silicon Valley-style management approach.",
+            "C": "It was established primarily to improve communication between the public and federal agencies.",
+            "D": "It has gained widespread support among federal employees due to its innovative technological reforms."
+          },
+          "answer": "B",
+          "explanation": "The article depicts DOGE as an entity that operates with a lack of transparency (no cameras on, secretive identities), employs aggressive tactics ('trash-talked' workers, forced resignations), and attempts to apply Silicon Valley's 'move fast and break things' ethos to complex government institutions, leading to chaos."
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes the atmosphere within federal offices following the involvement of DOGE?",
+          "options": {
+            "A": "Professional and highly motivated, driven by the new technological modernization initiatives.",
+            "B": "Bureaucratic and orderly, as employees strictly adhered to new, more efficient regulations.",
+            "C": "Hostile and demoralizing, marked by surveillance, job insecurity, and a lack of basic workplace necessities.",
+            "D": "Transparent and collaborative, as DOGE encouraged open dialogue between management and staff."
+          },
+          "answer": "C",
+          "explanation": "The article uses numerous accounts—such as workers 'looking over their shoulders', fear of retaliation, the presence of armed guards to 'desensitize' workers, and the inability to purchase basic supplies like toilet paper—to illustrate a hostile and demoralizing environment."
+        },
+        {
+          "q_number": 3,
+          "stem": "The author quotes a FEMA employee to illustrate that the new presence of armed officers was intended to:",
+          "options": {
+            "A": "Protect the staff from increasing external threats.",
+            "B": "Maintain order during the chaotic transition of agency leadership.",
+            "C": "Psychologically intimidate staff members and enforce a sense of surveillance.",
+            "D": "Assist in the transition process by managing facility access."
+          },
+          "answer": "C",
+          "explanation": "The FEMA employee states that the officer told them he was there to 'patrol' them and 'desensitize' them to his presence, and the officer’s behavior (watching people work, not identifying himself) confirms the intent was to instill a sense of being monitored."
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the implied attitude of the author toward the DOGE operatives’ interactions with federal employees?",
+          "options": {
+            "A": "The author views the operatives as naive but well-intentioned reformers.",
+            "B": "The author presents them as arrogant, ill-informed, and contemptuous of existing institutional knowledge.",
+            "C": "The author remains neutral, documenting both sides of the professional clash.",
+            "D": "The author admires their boldness in challenging stagnant government norms."
+          },
+          "answer": "B",
+          "explanation": "The article uses descriptors like 'furtive', 'trash-talked', and notes the operatives' lack of context and flexibility. Quotes from employees describe the operatives as 'frantically running around' and acting with 'contempt' toward career professionals."
+        },
+        {
+          "q_number": 5,
+          "stem": "According to the passage, how did DOGE handle the communication of organizational changes to federal workers?",
+          "options": {
+            "A": "Through formal, transparent town hall meetings and official policy documents.",
+            "B": "Via insulting, unprofessional emails and sudden, cryptic directives.",
+            "C": "Through individual performance reviews that rewarded loyalty and initiative.",
+            "D": "By bypassing internal channels to communicate directly with the public via media."
+          },
+          "answer": "B",
+          "explanation": "The text mentions that DOGE sent 'crazy emails,' including the 'Fork in the Road' email which was described by a CDC employee as 'truly idiotic and looked like it was written by a disturbed child,' and emails that were seen as 'dripping with contempt.'"
+        }
+      ]
+    }
+  ]
+}
