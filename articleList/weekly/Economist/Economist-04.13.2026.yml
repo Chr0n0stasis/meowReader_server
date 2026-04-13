@@ -21,7 +21,7 @@ articles:
   is_used: false
   title: Artemis II has offered Earth inspiration
 - id: epub_18
-  is_used: true
+  is_used: false
   title: Sir Keir Starmer is Britain’s best hope for legalising assisted dying
 - id: epub_20
   is_used: false
@@ -224,8 +224,8 @@ articles:
 - id: epub_211
   is_used: false
   title: Chapter 211
-capture_date: 04.12.2026
+capture_date: 04.13.2026
 journal_name: Economist
-publish_date: 04.12.2026
+publish_date: 04.13.2026
 source_type: github
 update_frequency: weekly
