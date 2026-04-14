@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.14.2026",
+  "papers": [
+    {
+      "title": "In the current Gulf war, water may prove as decisive as oil",
+      "article_update_date": "03.28.2026",
+      "source_journal": "Economist",
+      "body_text": "In the current Gulf war, water may prove as decisive as oil Middle East & Africa | The threat of thirst In the current Gulf war, water may prove as decisive as oil The Arab states are plainly vulnerable, but so is Iran March 26th 2026 Should the war over Iran grind on, water may become as crucial a commodity as oil. The arid Arab countries of the Gulf increasingly rely on desalination, which provides 90% or more of the drinking-water supply for Bahrain, Kuwait and Qatar, and almost as much for Oman. For Saudi Arabia it is 70%, and roughly 40% in the United Arab Emirates (UAE). This has created a “dangerous new bunch of vulnerabilities” for Gulf countries, says Peter Schwartzstein of the Stimson Centre, an American think-tank. Their rapidly expanding populations and thirsty industries now rely on the smooth running of “a handful of bits of water infrastructure”, he explains. These Arab countries depend on thousands of plants; the most productive of which line the coast (see map). That puts them within easy reach of Iranian missiles and drones. The risks during war are obvious. An American diplomatic cable written in 2008 and published by WikiLeaks noted that the Jubail Desalination Plant alone then supplied Riyadh, the kingdom’s capital, with over 90% of its drinking water. If its pipelines or the power infrastructure around it were hammered, the city would have to be evacuated within a week. If that were to happen, the memo concluded, “the current structure of the Saudi government could not exist”. Since 2006 the Gulf states have spent around $53bn to offset this risk. Saudi Arabia now gets roughly 40% of its desalinated water from smaller facilities that are more spread out. Abu Dhabi and Qatar are building up strategic reserves. Thanks to these investments, most Gulf countries have a modicum of protection. Even if Iran did hit the plants, in most countries some drinking water would continue to flow. But huge gaps remain. Most of the Gulf’s desalinated water comes from a small number of plants. Storage is patchy: the UAE aims to have reserves equivalent to just two days of normal consumption by 2036, which could be stretched to around a month by strict rationing. Smaller states like Bahrain are even more exposed. Attacking civilian water infrastructure is generally considered a war crime. It may already have been perpetrated by both sides in this conflict. American forces reportedly struck a plant on Iran’s Qeshm Island; Iran then hit one in Bahrain. Shortly before Donald Trump abruptly changed tack on his threat to clobber Iranian power plants, Iran’s Islamic Revolutionary Guard Corps said it would target Gulf countries’ water facilities in response. Though Iran relies much less on desalination, it is desperately short of water. Decades of building dams and recklessly extracting water have depleted supplies. Almost a third of Iranians face shortages. And the war will do little to help Iran’s already modest co-operation on water with nearby countries. As the conflict goes on, Iran may turn off the taps for its Gulf neighbours. But it is increasingly likely to run out of water itself. ■ Sign up to the Middle East Dispatch , a weekly newsletter that keeps you in the loop on a fascinating, complex and consequential part of the world. This article was downloaded by zlibrary from https://www.economist.com//middle-east-and-africa/2026/03/26/in-the-current-gulf-war-water-may-prove-as-decisive-as-oil",
+      "difficulty_constant": 6.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "In the current Gulf war, water may prove as decisive as oil. Middle East & Africa | The threat of thirst. In the current Gulf war, water may prove as decisive as oil. The Arab states are plainly vulnerable, but so is Iran. March 26th 2026. Should the war over Iran grind on, water may become as crucial a commodity as oil. The arid Arab countries of the Gulf increasingly rely on desalination, which provides 90% or more of the drinking-water supply for Bahrain, Kuwait and Qatar, and almost as much for Oman. For Saudi Arabia it is 70%, and roughly 40% in the United Arab Emirates (UAE). This has created a “dangerous new bunch of vulnerabilities” for Gulf countries, says Peter Schwartzstein of the Stimson Centre, an American think-tank. Their rapidly expanding populations and thirsty industries now rely on the smooth ______ of “a handful of bits of water infrastructure”, he explains.",
+          "options": {
+            "A": "operation",
+            "B": "departure",
+            "C": "stagnation",
+            "D": "cessation"
+          },
+          "answer": "A",
+          "explanation": "文章提到“rely on the smooth running of 'a handful of bits of water infrastructure'”，这里 'running' 指的是运行、运转。因此，选择与'运行'意思相近的'operation'最合适。"
+        },
+        {
+          "q_number": 2,
+          "stem": "These Arab countries depend on thousands of plants; the most productive of which line the coast (see map). That puts them within easy ______ of Iranian missiles and drones.",
+          "options": {
+            "A": "reach",
+            "B": "view",
+            "C": "access",
+            "D": "sight"
+          },
+          "answer": "A",
+          "explanation": "该句意为“这使得它们处于伊朗导弹和无人机的容易触及的范围内”。'within easy reach of' 是固定搭配，意为“容易够到的，容易达到（或影响）的”。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The risks during war are obvious. An American diplomatic cable written in 2008 and published by WikiLeaks noted that the Jubail Desalination Plant alone then supplied Riyadh, the kingdom’s capital, with over 90% of its drinking water. If its pipelines or the power infrastructure around it were ______, the city would have to be evacuated within a week.",
+          "options": {
+            "A": "repaired",
+            "B": "improved",
+            "C": "maintained",
+            "D": "damaged"
+          },
+          "answer": "D",
+          "explanation": "根据上下文，如果供水或电力设施遭到破坏，城市将不得不疏散。因此，'damaged'（损坏的）是最合适的词。"
+        },
+        {
+          "q_number": 4,
+          "stem": "If its pipelines or the power infrastructure around it were damaged, the city would have to be ______ within a week.",
+          "options": {
+            "A": "supplied",
+            "B": "developed",
+            "C": "evacuated",
+            "D": "protected"
+          },
+          "answer": "C",
+          "explanation": "上下文描述了基础设施被毁后的严重后果，即城市需要在一周内被疏散。'Evacuated' 意为“疏散”，符合语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "If that were to happen, the memo concluded, “the current structure of the Saudi government could not ______”.",
+          "options": {
+            "A": "fluctuate",
+            "B": "subsist",
+            "C": "dissipate",
+            "D": "amplify"
+          },
+          "answer": "B",
+          "explanation": "该句意为“如果发生这种情况，沙特政府的现有结构将无法维持”。'Subsist' 意为“生存，维持存在”，符合语境中描述政府结构因供水中断而无法维系的含义。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Since 2006 the Gulf states have spent around $53bn to offset this risk. Saudi Arabia now gets roughly 40% of its desalinated water from smaller facilities that are more ______ out.",
+          "options": {
+            "A": "clustered",
+            "B": "concentrated",
+            "C": "grouped",
+            "D": "spread"
+          },
+          "answer": "D",
+          "explanation": "文章提到为了分散风险，沙特从更分散的小型设施中获取水源。'Spread out' 意为“分散的，分布广的”，与'smaller facilities' 对应，构成对比，符合语境。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Abu Dhabi and Qatar are building up strategic reserves. Thanks to these investments, most Gulf countries have a ______ of protection.",
+          "options": {
+            "A": "void",
+            "B": "modicum",
+            "C": "shortage",
+            "D": "deficit"
+          },
+          "answer": "B",
+          "explanation": "虽然提到了风险，但由于投资，大多数海湾国家拥有“一定程度的”保护。'Modicum' 意为“少量，一丝”，表示拥有的保护是有限的但存在的，符合语境。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Even if Iran did hit the plants, in most countries some drinking water would continue to ______. But huge gaps remain.",
+          "options": {
+            "A": "flow",
+            "B": "stagnate",
+            "C": "evaporate",
+            "D": "congeal"
+          },
+          "answer": "A",
+          "explanation": "即使水厂被袭击，一些饮用水仍会继续“流动”或供应。'Flow' 意为“流动”，最符合描述水供应的语境。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Most of the Gulf’s desalinated water comes from a small number of plants. Storage is _____: the UAE aims to have reserves equivalent to just two days of normal consumption by 2036, which could be stretched to around a month by strict rationing.",
+          "options": {
+            "A": "adequate",
+            "B": "sufficient",
+            "C": "robust",
+            "D": "patchy"
+          },
+          "answer": "D",
+          "explanation": "根据后面的描述（只够两天的储备，严格配给才够一个月），说明储存是“零星的，不完善的”。'Patchy' 意为“零星的，不均匀的”，符合语境。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Smaller states like Bahrain are even more ______. Attacking civilian water infrastructure is generally considered a war crime.",
+          "options": {
+            "A": "vulnerable",
+            "B": "protected",
+            "C": "resilient",
+            "D": "secure"
+          },
+          "answer": "A",
+          "explanation": "与后面提到的“攻击民用水基础设施是战争罪”以及前面提到的储存不足相呼应，说明像巴林这样的小国更容易“受到伤害”或“易受攻击”。'Vulnerable' 意为“易受攻击的”，符合语境。"
+        },
+        {
+          "q_number": 11,
+          "stem": "It may already have been ______ by both sides in this conflict.",
+          "options": {
+            "A": "achieved",
+            "B": "prevented",
+            "C": "perpetrated",
+            "D": "advocated"
+          },
+          "answer": "C",
+          "explanation": "结合上一句“攻击民用水基础设施被认为是战争罪”，这句话的意思是“在这次冲突中，双方可能已经犯下了（战争罪）”。'Perpetrated' 意为“犯下（罪行）”，符合语境。"
+        },
+        {
+          "q_number": 12,
+          "stem": "American forces reportedly struck a plant on Iran’s Qeshm Island; Iran then hit one in Bahrain. Shortly before Donald Trump abruptly changed ______ on his threat to clobber Iranian power plants, Iran’s Islamic Revolutionary Guard Corps said it would target Gulf countries’ water facilities in response.",
+          "options": {
+            "A": "stance",
+            "B": "course",
+            "C": "direction",
+            "D": "pace"
+          },
+          "answer": "B",
+          "explanation": "Trump 改变了他在威胁摧毁伊朗发电厂的“立场”或“方针”。'Changed tack' 或 'changed course' 意为“改变策略/方向”。这里选择'course' 也很恰当。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Though Iran relies much less on desalination, it is desperately ______ of water.",
+          "options": {
+            "A": "rich",
+            "B": "abundant",
+            "C": "short",
+            "D": "supplied"
+          },
+          "answer": "C",
+          "explanation": "这句话与后面的“Decades of building dams and recklessly extracting water have depleted supplies. Almost a third of Iranians face shortages.”相呼应，说明伊朗“极度缺水”。'Short of' 意为“缺乏，短缺”。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Decades of building dams and recklessly extracting water have ______ supplies.",
+          "options": {
+            "A": "augmented",
+            "B": "enriched",
+            "C": "generated",
+            "D": "depleted"
+          },
+          "answer": "D",
+          "explanation": "前面提到伊朗“desperately short of water”，后面解释原因是“修建水坝和鲁莽地开采水资源”导致了供应的“枯竭”。'Depleted' 意为“枯竭，耗尽”，符合语境。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Almost a third of Iranians face ______. And the war will do little to help Iran’s already modest ______ on water with nearby countries.",
+          "options": {
+            "A": "surpluses; competition",
+            "B": "shortages; cooperation",
+            "C": "shortages; conflict",
+            "D": "surpluses; cooperation"
+          },
+          "answer": "B",
+          "explanation": "第一空，根据前面“desperately short of water”，伊朗人面临的是“短缺”。第二空，伊朗的“合作”本来就“有限的”（modest），战争只会让情况更糟，所以是“cooperation”。"
+        },
+        {
+          "q_number": 16,
+          "stem": "As the conflict goes on, Iran may turn off the taps for its Gulf neighbours. But it is increasingly ______ to run out of water itself.",
+          "options": {
+            "A": "certain",
+            "B": "unlikely",
+            "C": "likely",
+            "D": "impossible"
+          },
+          "answer": "C",
+          "explanation": "这句话的意思是“随着冲突的持续，伊朗可能会切断其海湾邻国的供水。但它自己也越来越可能面临缺水”。'Likely' 意为“很可能的”，符合语境。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Sign up to the Middle East Dispatch , a weekly newsletter that keeps you in the ______ on a fascinating, complex and consequential part of the world.",
+          "options": {
+            "A": "loop",
+            "B": "dark",
+            "C": "picture",
+            "D": "know"
+          },
+          "answer": "A",
+          "explanation": "'Keeps you in the loop' 是一个固定短语，意为“让你了解最新情况，使你跟上信息”。"
+        },
+        {
+          "q_number": 18,
+          "stem": "This article was downloaded by zlibrary from https://www.economist.com//middle-east-and-africa/2026/03/26/in-the-current-gulf-war-water-may-prove-as-decisive-as-oil.",
+          "options": {
+            "A": "The article explores the historical context of water disputes in the Middle East prior to the current conflict.",
+            "B": "The article argues that water scarcity is a major issue for Iran, despite its own oil resources.",
+            "C": "The primary focus of the article is the technological advancements in desalination plants in the UAE.",
+            "D": "This article discusses the potential of water as a strategic resource in the current Gulf war, comparing its significance to that of oil."
+          },
+          "answer": "D",
+          "explanation": "文章的标题和开头明确指出“water may prove as decisive as oil”，并围绕水资源在战争中的战略作用展开论述，将其与石油相提并论。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Which of the following best describes the main vulnerability of the Gulf Arab states in the context of the war?",
+          "options": {
+            "A": "Their over-reliance on oil exports.",
+            "B": "Their insufficient military power compared to Iran.",
+            "C": "Their dependence on a limited number of desalination plants vulnerable to attack.",
+            "D": "Their lack of strategic reserves of oil."
+          },
+          "answer": "C",
+          "explanation": "文章多次强调，海湾国家严重依赖海水淡化，而这些设施（特别是大型设施）数量有限且靠近海岸，容易受到伊朗导弹和无人机的攻击，构成了“dangerous new bunch of vulnerabilities”。"
+        },
+        {
+          "q_number": 20,
+          "stem": "What does the article suggest about Iran's water situation?",
+          "options": {
+            "A": "Iran is unaffected by water shortages due to its advanced desalination technology.",
+            "B": "Despite relying less on desalination, Iran faces significant water shortages due to internal factors and the ongoing war.",
+            "C": "Iran has ample water resources and does not face any shortages.",
+            "D": "Iran's primary concern in the war is securing oil supplies, not water."
+          },
+          "answer": "B",
+          "explanation": "文章指出，“Though Iran relies much less on desalination, it is desperately short of water. Decades of building dams and recklessly extracting water have depleted supplies. Almost a third of Iranians face shortages.” 这表明伊朗自身也面临严重的水资源短缺问题。"
+        }
+      ]
+    },
+    {
+      "title": "Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas",
+      "article_update_date": "04.01.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Authorities in Congo-Brazzaville have applied to Interpol for an international arrest warrant against Jean-Guy Blaise Mayolas, the president of the country’s football federation, Fecofoot, after he was convicted of embezzling $1.1m in Fifa funds. Mayolas is on the run with his wife and son after they were all sentenced to life imprisonment this month for embezzling funds provided by world football’s governing body as part of its Covid-19 relief plan in February 2021. As the Guardian revealed last year, that included almost $500,000 earmarked for the Congo women’s team. Mayolas and his family were tried in absentia and are believed to have fled the country weeks before the hearing. Investigators suspect he may be hiding in Cameroon or the Democratic Republic of the Congo. The authorities and partner police forces in the region have been alerted and officials are working with financial intelligence units, including Tracfin, the French financial intelligence unit, to freeze assets linked to the case. Mayolas and his family members were convicted of money laundering, forgery, use of forged documents and embezzlement on 10 March by the court in Brazzaville, along with Fecofoot’s general secretary, Badji Mombo Wantete, and treasurer, Raoul Kanda. Wantete and Kanda were each sentenced to five years in prison. Fifa opened disciplinary proceedings against Mayolas, Wantete and Kanda last week for alleged financial misconduct. The charges under consideration include conflict of interest, forgery and improper acceptance of gifts after Fifa’s ethics committee received information and documents during a review. It has been alleged Mayolas, since being elected as president of Fecofoot in 2018, used a series of shell companies to embezzle funding from Fifa. According to a declaration signed by the presidents of every women’s club in the country’s top flight that was sent to the Congolese authorities in March, $20,000 of the $500,000 Fifa sent to Fecofoot in 2021 as part of its Covid-19 relief plan was paid out. Mayolas denied all the allegations before his disappearance, describing them as a conspiracy. Wantete also rejected the accusations. In 2015, they received six-month bans from Fifa for ethics violations related to gifts and benefits. Mayolas was suspended by the country’s sports ministry last year after being investigated for fraud. Fifa stepped in and banned Congo from international football for “third-party interference”, meaning that in March they had to forfeit World Cup qualifiers against Tanzania and Zambia, who were awarded 3-0 victories. Congo were reinstated when Fecofoot was permitted to resume control of its headquarters in Brazzaville, although Mayolas and Wantete were prevented from travelling to Fifa’s congress in Paraguay and arrested a few days later.",
+      "difficulty_constant": 6.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what is the primary reason for the international arrest warrant requested against Jean-Guy Blaise Mayolas?",
+          "options": {
+            "A": "He was convicted of embezzling $1.1m in Fifa funds.",
+            "B": "He was accused of money laundering and forgery.",
+            "C": "He was involved in third-party interference in football.",
+            "D": "He used shell companies to embezzle funding."
+          },
+          "answer": "A",
+          "explanation": "文章第一句话明确指出，当局之所以向国际刑警组织申请逮捕令，是因为让-吉·布莱斯·马约拉被判挪用 110 万美元国际足联基金。虽然 B、C、D 选项也与文章内容相关，但 A 选项是申请逮捕令的直接且最主要的原因。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why were Jean-Guy Blaise Mayolas and his family sentenced to life imprisonment?",
+          "options": {
+            "A": "For embezzling funds provided by Fifa as part of its Covid-19 relief plan.",
+            "B": "For being tried in absentia and fleeing the country before the hearing.",
+            "C": "For conflict of interest, forgery, and improper acceptance of gifts.",
+            "D": "For orchestrating a conspiracy to embezzle funds and deny allegations."
+          },
+          "answer": "A",
+          "explanation": "文章提到“Mayolas is on the run with his wife and son after they were all sentenced to life imprisonment this month for embezzling funds provided by world football’s governing body as part of its Covid-19 relief plan in February 2021”。这直接说明了他们被判处终身监禁的原因是挪用了国际足联提供的作为 Covid-19 救济计划一部分的资金。其他选项虽然提及了相关情节，但不是终身监禁的直接原因。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What role did Tracfin play in the investigation?",
+          "options": {
+            "A": "Tracfin alerted regional police forces about Mayolas's possible whereabouts.",
+            "B": "Tracfin worked with authorities to freeze assets linked to the embezzlement case.",
+            "C": "Tracfin investigated Mayolas for fraud on behalf of the sports ministry.",
+            "D": "Tracfin initiated disciplinary proceedings against Mayolas and others for financial misconduct."
+          },
+          "answer": "B",
+          "explanation": "文章提到“officials are working with financial intelligence units, including Tracfin, the French financial intelligence unit, to freeze assets linked to the case”。这表明 Tracfin 参与了与该案件相关的资产冻结工作。选项 A 错误，是当局和合作伙伴警察部队被警示。选项 C 错误，是该国体育部在调查。选项 D 错误，是国际足联开启了纪律处分程序。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What action did Fifa take against Congo after discovering financial misconduct?",
+          "options": {
+            "A": "Fifa opened disciplinary proceedings against Mayolas, Wantete, and Kanda.",
+            "B": "Fifa banned Congo from international football due to 'third-party interference'.",
+            "C": "Fifa awarded 3-0 victories to Tanzania and Zambia in World Cup qualifiers.",
+            "D": "Fifa prevented Mayolas and Wantete from travelling to its congress in Paraguay."
+          },
+          "answer": "B",
+          "explanation": "文章提到“Fifa stepped in and banned Congo from international football for “third-party interference”, meaning that in March they had to forfeit World Cup qualifiers against Tanzania and Zambia, who were awarded 3-0 victories。” 这说明了 Fifa 因“第三方干预”而禁止刚果参加国际足球赛事。选项 A 是 Fifa 对个人的处分，选项 C 是禁赛的后果，选项 D 是后续事件，B 选项是 Fifa 对国家队的直接处罚。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following statements is NOT supported by the text?",
+          "options": {
+            "A": "Mayolas allegedly used shell companies to embezzle Fifa funds since his election in 2018.",
+            "B": "Mayolas denied all allegations before his disappearance, claiming it was a conspiracy.",
+            "C": "Tracfin is a financial intelligence unit based in Congo-Brazzaville.",
+            "D": "Mayolas, Wantete, and Kanda were convicted of embezzlement and other financial crimes."
+          },
+          "answer": "C",
+          "explanation": "文章明确指出 Tracfin 是“the French financial intelligence unit”，即法国的金融情报机构，并非刚果-布拉柴维尔的机构。选项 A、B、D 都在文章中有明确提及或暗示，符合原文内容。"
+        }
+      ]
+    },
+    {
+      "title": "Stork warning: woman gives birth midair on Jamaica-to-New York flight",
+      "article_update_date": "04.07.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A routine passenger flight from Jamaica landed at New York’s John F Kennedy international airport with one more person than it took off with after a woman gave birth in midair, potentially setting up a tricky situation over the newborn’s citizenship. The “medical event” occurred on a Caribbean Airlines flight from Kingston on Saturday, according to a news release from the carrier. “Upon arrival, the mother and newborn were attended to by medical personnel and are receiving the necessary care,” the statement said. It did not say whether the baby was a boy or girl – or at what stage of the four-hour flight the infant was born. In a conversation between the pilot of flight BW005 – designated Caribbean 5 – and the Queens airport’s tower, an air traffic controller suggested a name for the baby. “All right, tell her she’s got to name it Kennedy,” the controller said after the pilot responded to the question “Is it out yet?” in the affirmative. “Ah, Kennedy, will do,” the pilot responded while laughing, according to a transcript obtained by CBS News. The birth quickly prompted a debate about citizenship for the infant, which remains uncertain because of a lack of information about the status of the parents – and where the plane was at the exact moment the baby was born. If either parent is already a US citizen, the baby will also be one. If not, US citizenship laws published by the federal state department come into play. By law, US airspace is defined as the same as its territorial waters, namely within 12 miles of the coastline. “The rules applicable to vessels obviously apply equally to airplanes,” the document states. “Thus a child born on a plane in the US or flying over its territory would acquire US citizenship at birth. “Generally speaking, US Customs and Border Protection (CBP) would require some documentation of the birth, generally an excerpt of the ship’s/aircraft’s medical log or master/captain’s log, reflecting the time, latitude, and longitude when the birth occurred.” Under the 14th amendment to the US constitution, “all persons born or naturalized in the US and subject to the jurisdiction thereof, are citizens of the US”. The executive order Donald Trump issued at the beginning of his second presidency restricting US citizenship to children born only to citizens and lawful permanent residents was blocked by a federal court and is awaiting a final ruling by the supreme court after oral arguments on 1 April. The US government does not publish figures of babies born on international flights within its airspace. The most recent research is a study published in 2019 by a professor at Ohio’s Bowling Green State University, recording 74 births on 73 commercial flights between 1929 and 2018 – with two of the babies not surviving. Airlines generally restrict pregnant women from flying beyond 36 weeks’ gestation and allow those beyond 28 weeks to travel only with medical clearance. Caribbean Airlines’ policy is to allow pregnant passengers to travel without medical clearance through the end of their 32nd week of pregnancy. In its statement, Caribbean Airlines said no emergency was declared during the flight – and that the mother and her family had requested privacy. “The airline commends the professionalism and measured response of its crew, who managed the situation in accordance with established procedures, ensuring the safety and comfort of all onboard,” the statement said.",
+      "difficulty_constant": 4.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary reason for the uncertainty surrounding the newborn's citizenship?",
+          "options": {
+            "A": "The mother is not a US citizen.",
+            "B": "The exact location and time of birth are not precisely recorded.",
+            "C": "The airline has not released the baby's gender.",
+            "D": "The pilot did not officially name the baby 'Kennedy'."
+          },
+          "answer": "B",
+          "explanation": "文章提到，新生儿的公民身份之所以不确定，是因为缺乏关于父母身份以及飞机在婴儿出生那一刻具体位置的信息。虽然提到父母身份和飞机在美属空域内的法律规定，但关键在于“缺乏信息”导致无法确定是否满足这些条件。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the text, how is US airspace defined in relation to territorial waters for the purpose of citizenship law?",
+          "options": {
+            "A": "It extends 100 miles from the coastline.",
+            "B": "It is the same as territorial waters, within 12 miles of the coastline.",
+            "C": "It is determined by the flight path over land.",
+            "D": "It is undefined and varies by airline policy."
+          },
+          "answer": "B",
+          "explanation": "文章明确指出：“By law, US airspace is defined as the same as its territorial waters, namely within 12 miles of the coastline.” 这直接说明了美属空域的定义与领海相同，即距海岸线12英里内。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What documentation might be required to establish a child's US citizenship if born on an international flight over US territory?",
+          "options": {
+            "A": "A birth certificate issued by the country of origin.",
+            "B": "A passport from the mother's home country.",
+            "C": "An excerpt from the aircraft's medical or captain's log detailing the birth.",
+            "D": "A letter of attestation from the flight crew."
+          },
+          "answer": "C",
+          "explanation": "文章提到：“Generally speaking, US Customs and Border Protection (CBP) would require some documentation of the birth, generally an excerpt of the ship’s/aircraft’s medical log or master/captain’s log, reflecting the time, latitude, and longitude when the birth occurred.” 这表明了记录了出生时间和地理坐标的航空器航海日志或医疗记录是重要的证明文件。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which statement best describes the airline's response to the midair birth?",
+          "options": {
+            "A": "An emergency was declared, and the flight was diverted.",
+            "B": "The crew handled the situation professionally and according to procedures without declaring an emergency.",
+            "C": "The airline immediately provided detailed information about the mother and baby.",
+            "D": "The pilot refused to communicate with air traffic control about the birth."
+          },
+          "answer": "B",
+          "explanation": "文章在结尾处提到：“In its statement, Caribbean Airlines said no emergency was declared during the flight – and that the mother and her family had requested privacy. ‘The airline commends the professionalism and measured response of its crew, who managed the situation in accordance with established procedures, ensuring the safety and comfort of all onboard,’ the statement said.” 这表明航空公司认为机组人员专业地按程序处理了此事，且未宣布紧急情况。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the provided research on births during commercial flights indicate?",
+          "options": {
+            "A": "Births on flights are a common occurrence with high survival rates.",
+            "B": "There were 74 births recorded between 1929 and 2018, with some fatalities.",
+            "C": "Airlines now require mandatory medical check-ups for all pregnant passengers.",
+            "D": "The study was conducted by Caribbean Airlines to assess their policies."
+          },
+          "answer": "B",
+          "explanation": "文章引用了研究：“The most recent research is a study published in 2019 by a professor at Ohio’s Bowling Green State University, recording 74 births on 73 commercial flights between 1929 and 2018 – with two of the babies not surviving.” 这准确地描述了研究的发现，包括事件数量和部分婴儿未能存活的情况。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 59",
+      "article_update_date": "03.31.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | The horses are slick with sweat, veins bulging, feet dancing through a maelstrom of legs and mallets and flying clods of earth, 6,000 pounds of flesh tumbling after a tiny white ball. The riders are all furious angles, jabbing their mallets blindly beneath their saddles. But Adolfo Cambiaso appears calm. He lifts a gloved hand and swings the head of his mallet in a perfect arc through the tangle of horse and human to thwack the ball and send it clear toward the goal. It’s the final game of the 2016 Argentine Open—the most important polo match of the year in the most polo-obsessed country in the world—and there are some 30,000 spectators in the stands, all watching Cambiaso’s every move. Depending on who you ask, Cambiaso might be described as a horse whisperer, a sex symbol, or a marvel of longevity. And it’s all true: At 41 he’s easily the oldest player on this field, his handsome face and cleft chin sun-beaten and stubbled, his dark hair matted with sweat. But the more universally accepted fact is that Cambiaso is the greatest polo player alive—top ranked for some two decades—if not the greatest who has ever lived. As if that weren’t enough, he’s also a horse breeding tycoon who is, on this very field, in this very game, transforming polo from the sport of kings into a frontier laboratory of applied biotechnology. It has been a mean, close match, a battle between Cambiaso and Facundo Pieres, the only player alive who might challenge his standing atop the sport’s rankings. As the game hits its final stages, Cambiaso has a crucial decision to make. Polo fields are 300 yards long. Even the finest polo ponies tire out after a few minutes of charging at 30 miles per hour, so elite players bring 10 or more horses to each match, switching steeds as many as a dozen times. Cambiaso must choose which horse to ride in the game’s final stretch. Among his ponies are six lean bay mares with splashes of white staining their dark foreheads. Cambiaso has ridden thousands of horses in his decades-long career, but these mares are special. They are perfect genetic copies— clones made by a company called Crestview Genetics—of the most celebrated pony ever to set hoof on a polo field: a prize-winning, recently retired mare called Cuartetera. As a pair, Cambiaso and Cuartetera were almost unbeatable. “Best horse ever to play polo,” says equine veterinarian Scott Swerdlin, who helped take care of Cambiaso’s ponies earlier in his career. She had everything: acceleration, speed, agility, a calm, razor-sharp mind. The horse was, as Argentinians like to say, una maquina . For those last moments of the final, Cambiaso selects Cuartetera B06—the sixth clone he helped create. Two minutes later this sixth Cuartetera is away, tearing up the field as Cambiaso and his teammates race toward the north end. The ball sprays forward and finds Cambiaso’s teammate, who guides it through the posts as the crowd cheer and wave Argentine flags. In moments it’s all over. Cambiaso—and Cuartetera B06—have won. Player and horse are quickly enveloped in a crush of well-wishers. Among those cheering is Cambiaso’s son, Adolfo Jr., who goes by the nickname Poroto; at 11 he’s already a polo-playing prodigy. Also in the throng is Cambiaso’s business partner, Crestview’s founder, Alan Meeker. A lean man with thinning gray hair and dark, serious eyes, Meeker wraps the champion in a hug. In Polo, anyone who can indefinitely clone the best steed in the world has the ultimate edge. Well beyond the rarefied world of polo, the match is hailed as historic. This is the first time anyone has played a polo final on six identical horses, let alone won with them. The victory not only reinforces Cambiaso’s reputation as polo’s most dominant player, but cements cloning’s place in the sport. Polo aficionados have long treated cloning with skepticism, fearing that cloned offspring would be little more than sickly knockoffs of once great horses. But now a team of clones has resolutely thrashed one of the best horse-breeding outfits in existence. Speaking to Science magazine after the match, Meeker—a Texan who made his fortune in oil, gas, and real estate before convincing Cambiaso to join his cloning venture—calls the victory a “proof of concept.” Which concept, exactly? For Cambiaso, it seems to be this: In a sport where horses are more important than their riders, anyone who can indefinitely clone the best steed in the world has the ultimate edge. If Cambiaso can strategically manage his herd of cloned Cuarteteras, and if young Poroto keeps showing promise as a player, this could be the start of a multispecies polo dynasty. His formula is to capitalize on years of horse-breeding superiority through cloning, lock down the bloodlines, and dominate the sport. The only flaw is that Cambiaso isn’t the only one with control of those bloodlines. And one day nearly four years after that 2016 match, a secret deal made on a superyacht will throw the entire formula into disarray. This story—drawing on hundreds of court documents, trial testimonies, and depositions—is the chronicle of that betrayal. Scenes from the 2025 US Open Polo Championship in Wellington, Florida. Video: Gabriella Angotti-Jones it was imelda Marcos, of all people, who appears to have first planted the idea of cloning in Alan Meeker’s mind. This was around the time of the early-2000s fracking boom, when Meeker—a third-generation oil-and-gas man—was in the business of buying and developing natural gas sites across the Barnett Shale, a huge gas reserve that covers more than a dozen counties in north Texas. One natural gas field that Meeker hoped to purchase seemed to be connected to Marcos and her deceased husband, the notoriously corrupt former president of the Philippines. To probe the sale, Meeker held a series of phone calls with the very chatty Marcos. During one conversation, Meeker told the former dictator’s wife that he’d recently been diagnosed with type 1 diabetes —a condition in which the body’s immune system attacks insulin-producing cells in the pancreas. In Meeker’s telling, Marcos then mentioned that when her lawyer had come down with pancreatic cancer, her doctors had tried to clone him a new pancreas. Perhaps Meeker should try the same approach? Meeker never did clone his pancreas. But the conversation gave him an idea. Meeker had played amateur polo in his thirties, and he knew how important—and how expensive and inefficient—traditional horse breeding was to the sport. In late 2008 he started talking to a couple of scientists, asking whether it was possible to clone horses. Yes, they told him, though there was no guarantee that the clones would perform as well as the originals on the polo field. Intrigued, Meeker began his search for the perfect horse—and polo player—to start his cloning experiment. In the summer of 2009, Cambiaso and the oilman met for the first time. On a farm west of London, Cambiaso listened as Meeker shared his plans for horse cloning. As it happened, Cambiaso was especially primed for the pitch: Years ago, when one of his favorite horses, a stallion named Aiken Cura, had to be put down suddenly, Cambiaso had asked his veterinarians to save a genetic sample from the horse’s skin in cryogenic storage. He’d been waiting for an opportunity to clone the stallion. In England, the two men hashed out a verbal agreement. Cambiaso would give Meeker’s company tissue from five of his best horses: Colibri, Small Person, Dolfina Lapa, Aiken Cura, and Cuartetera. The initial plan was for Meeker’s company to license the technology to clone the horses, and for the men to sell the clones for a minimum of $250,000 each. To sweeten the deal, Meeker’s company paid Cambiaso a million dollars, which the polo player placed in a Swiss bank account named after Aiken Cura. With that, Meeker contracted the world’s leading pet cloning clinic, ViaGen, to transfer the DNA from Cuartetera into egg cells and then implant the embryos into donor mares. Those surrogates duly gave birth to 10 clones of the legendary horse, and at least 17 copies of other horses owned by Cambiaso. The polo player couldn’t believe it—his most prized bloodlines had been made young again. Meeker and Cambiaso likely suspected that polo’s elites would clamor to get their hands on the DNA of their sport’s most legendary horse, but the two business partners had no real idea whether their clones would command the $250,000 price they’d targeted. After all, even the best ponies rarely reached above $200,000, and cloning was virtually unknown in polo at the time. So in November 2010, Cambiaso held his first-ever solo auction in San Isidro, an affluent city just north of Buenos Aires, to test the market’s appetite. The auction was a major social event in the Argentine polo scene—players and patrons mingled, drinks in hand, as they weighed up which ponies they might like to add to their stables. It blew past Cambiaso’s expectations almost immediately. At the top of the auction, even before any clones went up for bidding, a 50 percent share in a son of the original Cuartetera went for $380,000. Soon up for bidding was a six-month-old clone of Cuartetera. A palpable buzz of anticipation went through the crowd as the players and patrons sat facing the dramatically lit ring where the foal would be displayed. With only a few minutes to go before bidding started, a longtime friend of Cambiaso’s, Argentine airport tycoon Ernesto Gutierrez, says he sidled up to the polo player and told him he was about to make a terrible mistake. “You can’t sell Cuartetera,” he pleaded. “You can’t sell it, because you will be losing your most important bloodline you have in your breed.” Cambiaso could see Gutierrez’s point. If the son of Cuartetera was fully worth $760,000 at auction, it seemed foolish to sell the bloodline altogether. The horse’s DNA was like a trade secret—sell it away and anyone could breed and market their own Cuartetera offspring. As the seconds ticked down, Cambiaso suggested an alternative. Gutierrez could split the cost with a mutual friend, and they could buy the clone themselves. The decision allowed them to control what turned out to be a dizzyingly valuable asset. After intense bidding, the clone reportedly went for $800,000, said to be a record for a polo pony. The San Isidro auction changed how Cambiaso, Meeker, and Gutierrez—who, following another agreement, would soon become their business partner—thought about their cloning scheme. The new arrangement, as Cambiaso essentially understood it, had one golden rule: Sell all the babies of clones that you like, but the clones themselves must never be sold. “You sell everything if you sell a clone,” Cambiaso would tell 60 Minutes in a 2018 segment. The media was growing increasingly fascinated with polo’s turn toward science fiction. In a 2018 episode of National Geographic Explorer , Meeker sat inside a huge and immaculately designed horse barn, talking about cloning and the inherent riskiness and camaraderie of polo. “A lot of what makes life worth living is dangerous,” he said. “We all are very good friends from around the world.” “And then also,” he added with a wry smirk, “we like to win.” To play polo at the highest level, you have to love horses or be filthy rich. Ideally both. A team might field around 40 ponies for each game and draw on a roster of hundreds of potentially playable horses for each tournament. In the gaps between tournaments, top players scour the globe for new equine talent—trying to snaffle foals from elite bloodlines or looking to ex-racehorses to uncover a polo star in the rough. Andrey Borodin, the billionaire patron of Park Place Polo, wears the No. 1 jersey for his team during a match at the 2025 US Open. Video: Gabriella Angotti-Jones Traditional horse breeding is a lottery: Throw together even your best mare",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary reason elite polo players bring numerous horses to each match?",
+          "options": {
+            "A": "To allow for different playing styles based on opponent's strategy.",
+            "B": "To ensure variety in their genetic lineup for breeding purposes.",
+            "C": "To accommodate the rapid exhaustion of horses due to high speeds.",
+            "D": "To impress spectators with the number and quality of their mounts."
+          },
+          "answer": "C",
+          "explanation": "文章提到：“Even the finest polo ponies tire out after a few minutes of charging at 30 miles per hour, so elite players bring 10 or more horses to each match, switching steeds as many as a dozen times.” 这表明主要原因是马匹在高强度比赛中很快会疲劳，需要频繁更换。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What was the initial purpose of Alan Meeker's company, Crestview Genetics, in relation to polo?",
+          "options": {
+            "A": "To develop new breeds of polo horses through traditional breeding methods.",
+            "B": "To clone champion polo horses and sell the clones for a substantial profit.",
+            "C": "To provide veterinary services for elite polo ponies.",
+            "D": "To organize high-stakes polo tournaments for wealthy patrons."
+          },
+          "answer": "B",
+          "explanation": "文章中提到：“The initial plan was for Meeker’s company to license the technology to clone the horses, and for the men to sell the clones for a minimum of $250,000 each.” 这清晰地表明了初衷是利用克隆技术，并将克隆马匹进行高价销售。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The record-breaking auction of the Cuartetera clone for $800,000 led to a change in the business strategy. What was the new, crucial rule established?",
+          "options": {
+            "A": "To sell only the original horses and keep all clones.",
+            "B": "To sell all offspring of clones but never sell the clones themselves.",
+            "C": "To offer clones at a lower price to increase market volume.",
+            "D": "To exclusively sell clones to a select group of business partners."
+          },
+          "answer": "B",
+          "explanation": "文章明确指出：“The new arrangement, as Cambiaso essentially understood it, had one golden rule: Sell all the babies of clones that you like, but the clones themselves must never be sold.” 这句话直接回答了新的关键规则。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What motivated Alan Meeker to explore the idea of cloning, according to the passage?",
+          "options": {
+            "A": "A conversation with Adolfo Cambiaso about the limitations of traditional horse breeding.",
+            "B": "Observing the success of cloned animals in other sports.",
+            "C": "A chance encounter with Imelda Marcos, who mentioned cloning for medical purposes.",
+            "D": "His own experience with type 1 diabetes and interest in regenerative medicine."
+          },
+          "answer": "C",
+          "explanation": "文章提到：“it was imelda Marcos, of all people, who appears to have first planted the idea of cloning in Alan Meeker’s mind... During one conversation, Meeker told the former dictator’s wife that he’d recently been diagnosed with type 1 diabetes... Marcos then mentioned that when her lawyer had come down with pancreatic cancer, her doctors had tried to clone him a new pancreas.” 这段对话是Meeker产生克隆想法的直接起因。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The passage suggests that Adolfo Cambiaso's dominance in polo is attributed to his ability to:",
+          "options": {
+            "A": "Mastering complex riding techniques beyond other players.",
+            "B": "Leveraging biotechnology to secure the best equine genetic resources.",
+            "C": "Developing a unique training regimen for both himself and his horses.",
+            "D": "Building strong personal relationships with horse breeders worldwide."
+          },
+          "answer": "B",
+          "explanation": "文章反复强调克隆技术在比赛中的重要性，例如：“In Polo, anyone who can indefinitely clone the best steed in the world has the ultimate edge.” 以及 Cambiaso 的策略“His formula is to capitalize on years of horse-breeding superiority through cloning, lock down the bloodlines, and dominate the sport.” 表明他的优势在于利用克隆技术获取和控制顶尖马匹资源。"
+        }
+      ]
+    }
+  ]
+}
