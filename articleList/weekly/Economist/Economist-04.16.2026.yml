@@ -51,7 +51,7 @@ articles:
   is_used: false
   title: As more states legalise gambling, what next for Las Vegas?
 - id: epub_32
-  is_used: true
+  is_used: false
   title: That ugly ballroom epitomises the story of Donald Trump’s presidency
 - id: epub_34
   is_used: false
@@ -224,8 +224,8 @@ articles:
 - id: epub_211
   is_used: false
   title: Chapter 211
-capture_date: 04.13.2026
+capture_date: 04.16.2026
 journal_name: Economist
-publish_date: 04.13.2026
+publish_date: 04.16.2026
 source_type: github
 update_frequency: weekly
