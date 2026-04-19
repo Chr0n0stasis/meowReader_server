@@ -1,0 +1,779 @@
+group_update_date: 04.19.2026
+papers:
+- article_update_date: 04.07.2026
+  body_text: 'Got sore, itchy eyes? You’re probably one of the millions of people
+    who spend too much time staring at screens, being bombarded with blue light. Rub
+    your eyes too much and your eyelids might turn a slight, pinkish hue. So far,
+    so normal. But if, in the past 18 months, you typed those symptoms into a range
+    of popular chatbots and asked what was wrong with you, you might have got an odd
+    answer: bixonimania. AI models that lie, cheat and plot murder: how dangerous
+    are LLMs really? The condition doesn’t appear in the standard medical literature
+    — because it doesn’t exist. It’s the invention of a team led by Almira Osmanovic
+    Thunström, a medical researcher at the University of Gothenburg, Sweden, who dreamt
+    up the skin condition and then uploaded two fake studies about it to a preprint
+    server in early 2024. Osmanovic Thunström carried out this unusual experiment
+    to test whether large language models (LLMs) would swallow the misinformation
+    and then spit it out as reputable health advice. “I wanted to see if I can create
+    a medical condition that did not exist in the database,” she says. The problem
+    was that the experiment worked too well. Within weeks of her uploading information
+    about the condition, attributed to a fictional author, major artificial-intelligence
+    systems began repeating the invented condition as if it were real. Even more troublingly,
+    other researchers say, the fake papers were then cited in peer-reviewed literature.
+    Osmanovic Thunström says this suggests that some researchers are relying on AI-generated
+    references without reading the underlying papers. Fabricating an illness Bixonimania
+    didn’t exist before 15 March 2024, when two blog posts about it appeared on the
+    website Medium. Then, on 26 April and 6 May that year, two preprints about the
+    condition popped up on the academic social network SciProfiles (see https://doi.org/qzm5
+    and https://doi.org/qzm4). The lead author was a phoney researcher named Lazljiv
+    Izgubljenovic, whose photograph was created with AI. Osmanovic Thunström says
+    the idea to invent Izgubljenovic and bixonimania came out of studies on how large
+    language models work. When she teaches her students how AI systems formulate their
+    ‘knowledge’, she shows them how the Common Crawl database, a giant trawl of the
+    Internet’s contents, informs their outputs. She also shows students how prompt
+    injection — giving an AI chatbot a prompt that shunts it outside of its safety
+    guard rails — can manipulate the output. Because she works in the medical field,
+    she decided to create a condition related to health and hit on the name bixonimania
+    because it “sounded ridiculous”, she says. “I wanted to be really clear to any
+    physician or any medical staff that this is a made-up condition, because no eye
+    condition would be called mania — that’s a psychiatric term.” If that wasn’t sufficient
+    to raise suspicions, Osmanovic Thunström planted many clues in the preprints to
+    alert readers that the work was fake. Izgubljenovic works at a non-existent university
+    called Asteria Horizon University in the equally fake Nova City, California. One
+    paper’s acknowledgements thank “Professor Maria Bohm at The Starfleet Academy
+    for her kindness and generosity in contributing with her knowledge and her lab
+    onboard the USS Enterprise”. Both papers say they were funded by “the Professor
+    Sideshow Bob Foundation for its work in advanced trickery. This works is a part
+    of a larger funding initiative from the University of Fellowship of the Ring and
+    the Galactic Triad”. Even if readers didn’t make it all the way to the ends of
+    the papers, they would have encountered red flags early on, such as statements
+    that “this entire paper is made up” and “Fifty made-up individuals aged between
+    20 and 50 years were recruited for the exposure group”. AI-generated images of
+    bixonimania, a fictitious illness.Source: Preprints.org https://doi.org/qzm4 (2024).
+    Soon after Osmanovic Thunström first posted information about the phoney condition,
+    it started showing up in the output of the most commonly used LLM chatbots. On
+    13 April 2024, Microsoft Bing’s Copilot was declaring that “Bixonimania is indeed
+    an intriguing and relatively rare condition”, and on the same day, Google’s Gemini
+    was informing users that “Bixonimania is a condition caused by excessive exposure
+    to blue light” and advising people to visit an ophthalmologist. On 27 April 2024,
+    the Perplexity AI answer engine outlined its prevalence — one in 90,000 individuals
+    were affected — and that same month, OpenAI’s ChatGPT was telling users whether
+    their symptoms amounted to bixonimania. Some of those responses were prompted
+    by asking about bixonimania, and others were in response to questions about hyperpigmentation
+    on the eyelids from blue-light exposure. Such answers by LLMs have alarmed some
+    experts. “If the scientific process itself and the systems that support that process
+    are skilled, and they aren’t capturing and filtering out chunks like these, we’re
+    doomed,” says Alex Ruani, a doctoral researcher in health misinformation at University
+    College London. “This is a masterclass on how mis- and disinformation operates.”
+    Ruani says that the details of the fake-disease experiment might seem silly, but
+    there’s a bigger, more fundamental issue. “It looks funny, but hold on, we have
+    a problem here,” she says. Online misinformation isn’t new; Google has long battled
+    attempts to game its search rankings with fake or misleading content. The company
+    and others have spent years refining algorithms to rank and filter the information
+    that search engines present to users, but LLMs struggle with this. Since the fake
+    papers came out, some versions of major LLMs have become sophisticated enough
+    to express suspicion about bixonimania. When asked about the condition on 11 March,
+    2026, for example, ChatGPT declared that the condition “is probably a made-up,
+    fringe, or pseudoscientific label”. But a few days later, ChatGPT was less sceptical,
+    saying: “Bixonimania is a proposed new subtype of periorbital melanosis (dark
+    circles around the eyes) thought to be associated with exposure to blue light
+    from digital screens.” In mid-March, Microsoft Copilot said that bixonimania “is
+    not a widely recognized medical diagnosis yet, but several emerging papers and
+    case reports discuss it as a benign, misdiagnosed condition linked to prolonged
+    exposure to bluelight sources such as screens”. And in January this year, Perplexity
+    was describing bixonimania as “an emerging term”. When shown that response, a
+    Perplexity spokesperson said: “Perplexity’s central advantage is accuracy. We
+    don’t claim to be 100% accurate, but we do claim to be the AI company most focused
+    on accuracy.” An OpenAI spokesperson said: “The models that power today’s version
+    of ChatGPT are significantly better at providing safe, accurate medical information,
+    and studies conducted before GPT-5 reflect capabilities that users would not encounter
+    today.” When asked about past responses from Gemini that treated bixonimania as
+    a real condition, a Google spokesperson said such results reflected the performance
+    of an earlier model. They added, “We have always been transparent about the limitations
+    of generative AI and provide in-app prompts to encourage users to double-check
+    information. For sensitive matters such as medical advice, Gemini recommends users
+    consult with qualified professionals.” Microsoft did not respond to a request
+    for comment. AI ‘scientists’ joined these research teams: here’s what happened
+    Part of the problem is that AI models can offer wildly different results depending
+    on exactly what is asked and what kind of information they are drawing on. Search
+    for “bixonimania”, and Google’s AI overview might treat it as a legitimate condition.
+    Ask it “Is bixonimania real?” and the same AI overview might confirm that it isn’t
+    legitimate. Mahmud Omar, a physician and researcher specializing in the applications
+    of AI in health care at Harvard Medical School in Boston, Massachusetts, says
+    the speed at which AI firms are rolling out new models makes it difficult to reach
+    “a pipeline, a consensus or a methodology to automatically test each model”. The
+    format of the fake-disease experiment — and the way the results pretended to be
+    from an official source, namely an academic paper, might have been a key factor
+    in its success. In a separate study of 20 LLMs, Omar found that LLMs are more
+    prone to hallucinate and elaborate on misinformation when the text they’re processing
+    looks professionally medical — formatted like a hospital discharge note or clinical
+    paper — than when it comes from social-media posts (M. Omar et al. Lancet Digit.
+    Health 8, 100949; 2026). “When the text looks professional and written as a doctor
+    writes, there’s an increase in the hallucination rates,” says Omar. The experiment’s
+    reach has now spread into the published medical literature. The bixonimania research
+    has been cited by a handful of researchers, including a study that appeared in
+    Cureus, a journal published by Springer Nature, the publisher of Nature, by researchers
+    at the Maharishi Markandeshwar Institute of Medical Sciences and Research in Mullana,
+    India (S. Banchhor et al. Cureus 16, e74625 (2024); retraction 18, r223 (2026)).
+    (Nature’s news team is editorially independent of its publisher.) That study cites
+    one of the fake preprints and says: “Bixonimania is an emerging form of POM [periorbital
+    melanosis] linked to blue light exposure; further research on the mechanism is
+    underway.” The corresponding author did not respond to a request for comment on
+    this story. After Nature contacted Cureus to ask for comment, the journal retracted
+    the paper on 30 March. The retraction notice says: “This article has been retracted
+    by the Editor-in-Chief due to the presence of three irrelevant references, including
+    one reference to a fictitious disease. As a result, the journal’s editorial staff
+    no longer has confidence in the accuracy or provenance of the work, thus requiring
+    retraction. The authors disagree with the decision to retract.” Ruani says the
+    problem goes beyond LLMs because the bixonimania experiment also hoodwinked humans
+    who cited the fake research. “We need to protect our trust like gold,” she says.
+    “It’s a mess right now.” Experimental concerns Osmanovic Thunström had reservations
+    while developing her experiment; she worried about the risks of seeding a fake
+    illness into the scientific literature. So she contacted an ethics adviser to
+    assess concerns about the work, and picked a comparatively low-stakes condition
+    to limit the impact. “I wanted to make sure that we’re not creating more harm
+    than good through demonstrating it in this way,” she says.'
+  difficulty_constant: 7.8
+  question_type: Use of English
+  questions:
+  - answer: B
+    explanation: bombard with意为“轰炸，大量涌现”，符合文章描述屏幕蓝光持续影响的状态。
+    options:
+      A: associated
+      B: bombarded
+      C: protected
+      D: satisfied
+    q_number: 1
+    stem: Got sore, itchy eyes? You’re probably one of the millions of people who
+      spend too much time staring at screens, being ________ with blue light.
+  - answer: D
+    explanation: 根据上下文，该词条并未被医学文献收录，因为它根本不存在。
+    options:
+      A: persists
+      B: exists
+      C: survives
+      D: doesn't
+    q_number: 2
+    stem: 'If you typed those symptoms into chatbots, you might have got an odd answer:
+      bixonimania. The condition doesn’t appear in the standard medical literature
+      — because it ________.'
+  - answer: C
+    explanation: swallow在此处意为“轻信，照单全收”，符合AI处理错误信息的情境。
+    options:
+      A: disprove
+      B: identify
+      C: swallow
+      D: ignore
+    q_number: 3
+    stem: Osmanovic Thunström carried out this unusual experiment to test whether
+      LLMs would ________ the misinformation and spit it out as reputable health advice.
+  - answer: B
+    explanation: AI系统开始重复这一虚构病症，将其当作真实情况呈现。
+    options:
+      A: denying
+      B: repeating
+      C: analyzing
+      D: revising
+    q_number: 4
+    stem: The problem was that the experiment worked too well. Within weeks, major
+      artificial-intelligence systems began ________ the invented condition as if
+      it were real.
+  - answer: C
+    explanation: 假论文被引用在同行评审的文献中，反映了严谨性的缺失。
+    options:
+      A: published
+      B: discarded
+      C: cited
+      D: rejected
+    q_number: 5
+    stem: Even more troublingly, other researchers say, the fake papers were then
+      ________ in peer-reviewed literature.
+  - answer: A
+    explanation: 上下文指出研究者未阅读原文就直接引用了AI生成的参考资料。
+    options:
+      A: reading
+      B: writing
+      C: evaluating
+      D: publishing
+    q_number: 6
+    stem: Osmanovic Thunström says this suggests that some researchers are relying
+      on AI-generated references without ________ the underlying papers.
+  - answer: D
+    explanation: shunt意为“使转向，偏离”，指通过提示词注入诱导AI绕过安全护栏。
+    options:
+      A: anchors
+      B: keeps
+      C: protects
+      D: shunts
+    q_number: 7
+    stem: She also shows students how prompt injection — giving an AI chatbot a prompt
+      that ________ it outside of its safety guard rails — can manipulate the output.
+  - answer: C
+    explanation: hit on意为“偶然发现，想出”，指她想出了这个名字。
+    options:
+      A: reflect
+      B: depend
+      C: hit
+      D: improve
+    q_number: 8
+    stem: Because she works in the medical field, she decided to create a condition
+      related to health and ________ on the name bixonimania.
+  - answer: D
+    explanation: 作者植入线索是为了提醒(alert)读者这是假研究。
+    options:
+      A: entertain
+      B: deceive
+      C: baffle
+      D: alert
+    q_number: 9
+    stem: If that wasn’t sufficient to raise suspicions, Osmanovic Thunström planted
+      many clues in the preprints to ________ readers that the work was fake.
+  - answer: A
+    explanation: 文中明确提到作者在文中植入声明说这是编造的(made-up)。
+    options:
+      A: made-up
+      B: authentic
+      C: verified
+      D: essential
+    q_number: 10
+    stem: Even if readers didn’t make it all the way to the ends of the papers, they
+      would have encountered red flags early on, such as statements that “this entire
+      paper is ________”.
+  - answer: A
+    explanation: 从语法结构看，主句需要谓语动词，此处使用has alarmed表示动作已经发生。
+    options:
+      A: has
+      B: hardly
+      C: greatly
+      D: is
+    q_number: 11
+    stem: Soon after, it started showing up in the output of the most commonly used
+      LLM chatbots, which ________ alarmed some experts.
+  - answer: C
+    explanation: 如果科学系统无法过滤此类虚假信息，那么前景堪忧，即doomed。
+    options:
+      A: thriving
+      B: saved
+      C: doomed
+      D: promoted
+    q_number: 12
+    stem: “If the scientific process itself and the systems that support that process
+      are skilled, and they aren’t capturing and filtering out chunks like these,
+      we’re ________,” says Alex Ruani.
+  - answer: D
+    explanation: 与fake并列，形容词应为负面含义，misleading符合题意。
+    options:
+      A: objective
+      B: accurate
+      C: validated
+      D: misleading
+    q_number: 13
+    stem: Online misinformation isn’t new; Google has long battled attempts to game
+      its search rankings with fake or ________ content.
+  - answer: A
+    explanation: 搜索引擎向用户提供(present)信息。
+    options:
+      A: present
+      B: conceal
+      C: withhold
+      D: ignore
+    q_number: 14
+    stem: The company and others have spent years refining algorithms to rank and
+      filter the information that search engines ________ to users.
+  - answer: B
+    explanation: 上下文对比表明，GPT从否定变为接受，即变得不那么怀疑了(less sceptical)。
+    options:
+      A: enthusiastic
+      B: sceptical
+      C: confident
+      D: optimistic
+    q_number: 15
+    stem: 'But a few days later, ChatGPT was less ________, saying: “Bixonimania is
+      a proposed new subtype of periorbital melanosis.”'
+  - answer: D
+    explanation: 这是发言人的观点陈述，用said最贴切。
+    options:
+      A: disputed
+      B: withdrew
+      C: denied
+      D: said
+    q_number: 16
+    stem: “The models that power today’s version of ChatGPT are significantly better
+      at providing safe, accurate medical information,” an OpenAI spokesperson ________.
+  - answer: B
+    explanation: reach a methodology指达成一致的方法论/共识。
+    options:
+      A: abandon
+      B: reach
+      C: postpone
+      D: evaluate
+    q_number: 17
+    stem: Mahmud Omar says the speed at which AI firms are rolling out new models
+      makes it difficult to ________ a methodology to automatically test each model.
+  - answer: B
+    explanation: 当文本看起来像专业医学书写时，AI更容易产生幻觉。
+    options:
+      A: superficially
+      B: professionally
+      C: casually
+      D: randomly
+    q_number: 18
+    stem: In a separate study, Omar found that LLMs are more prone to hallucinate
+      when the text they’re processing looks ________ medical.
+  - answer: A
+    explanation: provenance意为“来源，出处”，编辑部对论文来源和准确性失去信心。
+    options:
+      A: provenance
+      B: oblivion
+      C: negligence
+      D: irrelevance
+    q_number: 19
+    stem: The journal retracted the paper on 30 March, stating that the editorial
+      staff no longer has confidence in the accuracy or ________ of the work.
+  - answer: C
+    explanation: 作者希望通过选择低风险病症来限制(limit)对公众的影响。
+    options:
+      A: magnify
+      B: expand
+      C: limit
+      D: increase
+    q_number: 20
+    stem: So she contacted an ethics adviser to assess concerns about the work, and
+      picked a comparatively low-stakes condition to ________ the impact.
+  source_journal: Nature
+  title: Scientists invented a fake disease. AI told people it was real
+- article_update_date: 04.19.2026
+  body_text: 'Collapsing remittances will compound Asia’s energy shock Asia | Double
+    whammy Collapsing remittances will compound Asia’s energy shock Could workers
+    kicked out of the Gulf find fortune in East Asia? April 16th 2026 Like many young
+    Nepalis, Pushpa Kumar Chaudhary thought the path to prosperity ran through the
+    Gulf. Three months ago, the 27-year-old was hired as a restaurant chef in the
+    United Arab Emirates. That made him one of nearly 1.7m Nepalis working in the
+    region. Then the American and Israeli war with Iran began. More than half of the
+    two dozen or so people known to have been killed by counter-strikes that Iran
+    has launched on Gulf countries have been migrants, including Indians, Nepalis
+    and Pakistanis. Mr Chaudhary avoided injury, but his restaurant has shut. Like
+    tens of thousands of other migrants, he has since had to leave. In 2024 more than
+    20m people from South and South-East Asia (see chart 1) were employed across the
+    six countries that form the Gulf Co-operation Council (GCC). That was 65% more
+    than in 2010. This labour force includes computer programmers and businesspeople.
+    But the overwhelming majority are cooks, construction workers, nannies or perform
+    other blue-collar work. The fact that many have headed home because of the conflict
+    risks being a problem for the Asian countries that send them. Unlike wealthy expatriates
+    who make a choice to leave, migrant workers are mostly being compelled to go.
+    Many firms in the Gulf have stopped hiring: the number of Bangladeshis granted
+    emigration clearance to Gulf countries collapsed to 31,279 in March, from 92,460
+    in the same month last year. The flow from Nepal has also slowed after its government
+    stopped issuing new labour permits because of concerns about workers’ safety.
+    Having fewer people abroad will bring hardship at home. In 2025 Bangladesh received
+    $32bn in remittances, a sum roughly equivalent to 6.5% of GDP. That far exceeded
+    the value of other inflows, such as aid and FDI. Remittances to Nepal account
+    for a quarter of that country’s GDP. Even in giant India, money sent back by migrants
+    contributes 3.5% of GDP (see chart 2). According to Capital Economics, a consultancy,
+    a 1-2% drop in GDP in Gulf countries is typically associated with a 5% decrease
+    in money remitted by migrant workers in the region. Earlier this month the World
+    Bank warned that countries in the GCC are at risk of experiencing just such a
+    contraction this year. This will heap more pain on countries, such as Bangladesh
+    and the Philippines, that are among the worst affected by a war-induced energy
+    shock. “I just got married and six people at home depend on my earnings, which
+    have now ended,” says Saimum Islam, a Bangladeshi who has left Saudi Arabia after
+    losing a job with a fishing firm. A period of lower remittances could have consequences
+    that last long after the crisis in the Middle East has abated. Remittances are
+    often used to finance schooling, which in turn draws workers from low-productivity
+    farm labour and into higher-paying jobs, according to a study of Filipino migrants
+    by Gaurav Khanna of the University of California, San Diego, and colleagues. The
+    best hope for the likes of Mr Islam and Mr Chaudhary is that things go back to
+    normal quickly, letting them get back to their jobs abroad. Optimists speculate
+    that the need to rebuild war-damaged infrastructure could perhaps end up increasing
+    the flow of migrant workers into the region—and potentially even to Iran. But
+    if the war continues, Bangladesh and other countries are going to need to “open
+    new doors” for their workers, says Ali Haider Chowdhury, the head of a Bangladeshi
+    recruiting agency. One set of opportunities lies to the east. Even before the
+    war in Iran, Japan and South Korea had become intriguing destinations for wannabe
+    migrants. Working conditions in Gulf countries are often dire, and basic human
+    rights are routinely ignored, says Mahesh Kumar Basnet, the boss of a recruiting
+    agency in Nepal. Scores of Nepalis are now learning Japanese and Korean. They
+    are lured by the prospect of better pay and more tolerable conditions. Countries
+    in South-East Asia are also possible destinations, especially Malaysia and Thailand.
+    But building new migration routes is not easy. A South Asian’s path to the Gulf
+    is well established; agents, recruiters and local networks already exist to help.
+    Moreover, Japan and South Korea remain reluctant to admit lots of foreigners,
+    despite ageing populations and worsening labour shortages. Migrants make up only
+    around 3% of Japan’s population and 5% of South Korea’s, well below the OECD average
+    of 15% and nowhere near the roughly 50% seen in the GCC. Sending countries could
+    do more. “Bangladesh needs to pursue labour diplomacy,” says Mr Chowdhury, the
+    recruiter. Something of that nature appeared to pay off on April 9th, when Malaysia
+    said it would reopen its labour market to Bangladeshi workers two years after
+    closing it. A bilateral agreement promises not just to increase the number of
+    jobs available to Bangladeshis, but also to cut the risk that they will be exploited
+    by unscrupulous employers and agents. The war in Iran has narrowed one well-trodden
+    path for Asian migrants. Might it force countries to forge new ones? ■ This article
+    was downloaded by zlibrary from https://www.economist.com//asia/2026/04/16/collapsing-remittances-will-compound-asias-energy-shock'
+  difficulty_constant: 8.4
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章指出，不同于富裕的侨民可以选择离开，大部分外籍劳工是由于战争和冲突的影响被迫离开，且许多企业停止招聘，如孟加拉国去往海湾国家的移民许可数量大幅下降。
+    options:
+      A: They are choosing to return home to pursue better local opportunities.
+      B: Many are being forced to leave their jobs due to war-related instability.
+      C: They are finding new, safer employment within the Gulf countries themselves.
+      D: Their migration to the Gulf has increased despite the rising regional dangers.
+    q_number: 1
+    stem: Which of the following describes the impact of the conflict in the Gulf
+      on South and South-East Asian migrants?
+  - answer: C
+    explanation: 文章提到，汇款对尼泊尔的GDP贡献达四分之一，对孟加拉国贡献达6.5%。对于像Saimum Islam这样的务工者而言，这些汇款是维持家庭生活的支柱。
+    options:
+      A: They are the main source of foreign direct investment for state-run firms.
+      B: They serve as a secondary supplement to domestic agricultural productivity.
+      C: They constitute a substantial portion of national GDP and support basic livelihoods.
+      D: They are primarily used to repay debts incurred during the migration process.
+    q_number: 2
+    stem: According to the text, what is the primary significance of remittances for
+      countries like Nepal and Bangladesh?
+  - answer: B
+    explanation: 研究指出，汇款常用于资助教育，从而帮助劳动力从低生产率的农业转向高薪工作。因此，汇款减少会导致长期的教育融资缺口，损害人力资本积累。
+    options:
+      A: To explain the economic rationale behind migrant workers' preference for
+        the Gulf.
+      B: To highlight the long-term negative effects of reduced remittances on human
+        capital.
+      C: To prove that farm labor is more productive than working abroad in the long
+        run.
+      D: To show that remittances are mainly used for luxury consumption by migrant
+        families.
+    q_number: 3
+    stem: Why does the author cite the study by Gaurav Khanna and his colleagues?
+  - answer: C
+    explanation: 文章提到，通往海湾国家的迁移路径成熟且配套完善（中介、招聘人员等），而日本和韩国在接纳外籍劳工方面态度谨慎，且缺乏像海湾地区那样成熟的移民网络。
+    options:
+      A: The lack of interest among South Asians in working in Japanese or Korean
+        markets.
+      B: The superior human rights conditions already present in the Gulf compared
+        to East Asia.
+      C: The absence of established, efficient recruitment infrastructure in East
+        Asian nations.
+      D: The rapidly growing and youthful populations in Japan and South Korea.
+    q_number: 4
+    stem: What is the main obstacle to shifting migration flows from the Gulf to East
+      Asia?
+  - answer: C
+    explanation: 文章结尾提到孟加拉国与马来西亚签署的双边协议，以及作者提出的“劳务外交”概念，暗示在海湾地区路径受阻的情况下，各国正被迫通过双边协议等方式开辟新的迁移途径。
+    options:
+      A: Diplomatic efforts are unlikely to yield significant results in opening new
+        markets.
+      B: Migrants will soon be able to return to the Gulf as the infrastructure is
+        rebuilt.
+      C: Countries may be compelled to develop alternative migration paths through
+        bilateral agreements.
+      D: The OECD average of migrant populations is expected to decrease globally.
+    q_number: 5
+    stem: What can be inferred about the future of Asian labor migration from the
+      text?
+  source_journal: Economist
+  title: Collapsing remittances will compound Asia’s energy shock
+- article_update_date: 04.15.2026
+  body_text: 'Will Biblical Womanhood Box You In or Set You Free? Books Will Biblical
+    Womanhood Box You In or Set You Free? Two writers of different evangelical generations
+    offer rival visions of marriage, motherhood, and ambition. By Emma Green April
+    06, 2026 Cleveland, Tennessee, is deep in evangelical country. It’s the home of
+    the Church of God, a major Pentecostal denomination, and not too far from the
+    town where prosecutors went after a schoolteacher on charges of teaching evolution
+    during the Scopes “monkey trial” a hundred years ago. Still, even there, in the
+    reddest part of red America, the girlboss has infiltrated. Emma Waters was a senior
+    at Lee University, a Christian school in Cleveland, when the girlboss struck.
+    Waters was close to achieving her dreams. She had piled up academic honors, and
+    she was planning a move to Washington, D.C. But there was an obstacle: her boyfriend,
+    Jack, had started talking about marriage. “The idea of beginning life as a wife
+    and mother felt like a major letdown after years of working hard in college to
+    prepare for a career in politics,” she writes in a new book, “ Lead Like Jael
+    ” (Regnery). “Somehow, I had gotten this idea that prioritizing marriage and children
+    earlier in life is what you do if you lack ambition.” There it was, creeping in:
+    the girlboss world view, in which the best kind of life is one you define for
+    yourself. She broke up with Jack. Not to spoil the story, but: she regretted it.
+    She turned to the Bible. She realized that her thinking on marriage and motherhood
+    had been “self-centered,” focussed only on what she wanted and would have to sacrifice.
+    He took her back, and they got married. Today, he’s in seminary, and, at twenty-eight,
+    she’s got two daughters and another baby on the way—along with a job as a policy
+    analyst at the Heritage Foundation, which she does in the early mornings and at
+    night while her kids are asleep. The premise of “Lead Like Jael” is that young
+    women have been offered a shallow vision of the good life, one in which academic
+    achievement and professional success are the only markers of worth. What’s perhaps
+    more unusual for someone coming out of Waters’s conservative milieu is that she
+    also warns women against adopting a competing life script: that of the trad wives,
+    a highly online ecosystem of women who revel in domesticity, wearing prairie dresses
+    while baking sourdough with babies on their hips. “It is a mistake to treat the
+    tradwife as the antidote to the girl boss ,” Waters writes. “The temptation to
+    curate a life rather than live it is strong.” Her proposal is something of a middle
+    path: women should recognize that there are seasons of life with different demands,
+    and see their roles as wives and mothers not as a retreat from work but as a chance
+    to build a foundation. She tells young women to stop scrolling, to date seriously,
+    to treat sex as sacred, and to resist elevating career over everything else. She
+    argues that mothers should stay home with children under three, suggesting that
+    these kids need to be around their moms full time to form secure attachments.
+    She envisions husbands and wives as “battle-mates,” and encourages women to commit
+    to hosting regular meals to build community. Her model for all this, incredibly,
+    is the Biblical heroine Jael, famous for luring the Canaanite commander Sisera
+    to her tent, plying him with milk curds, and driving a tent peg through his temple.
+    Jael was able to take such decisive action, Waters argues, precisely because she
+    owned the sphere of her home. Jael wasn’t a “social justice warrior” who was trying
+    to “break a tent-canvas ceiling”; instead, she was able to use her “distinctly
+    feminine means” to take her place in history. Waters’s book is aimed at Christian
+    women who are looking for guidance on how to navigate their seasons faithfully.
+    But she’s writing into a moment of wider exhaustion and uncertainty about the
+    models of a good life on offer. Theology aside, the concept in her book that might
+    be most foreign to someone outside of her world is that of authority: the notion
+    that getting married and having kids is a matter not just of personal preference
+    but of finding the conviction to live a life that is ordained by God. “Motherhood
+    is a path of surrender and trust rather than a project of control,” Waters writes.
+    Fighting the obligations of motherhood leads to misery. Waters describes the unpleasant
+    hustle of the working mom, who “juggled deadlines and daycare pickups,” who “ate
+    a rushed lunch at her desk while drafting presentations no one would remember,”
+    who Zoomed while folding laundry, who lay in bed at night scrolling “through pictures
+    of the kids she barely saw that week.” It’s no wonder that the kind of life Waters
+    is proposing—strong marriage, more time with children, tight-knit community—would
+    take on a subversive allure. Bible-based advice for women is an old and popular
+    genre, and many books follow a format similar to Waters’s: Old Testament heroines—Esther,
+    Sarah, Deborah—offering lessons in wisdom and discernment to modern women, particularly
+    in their roles as wives and mothers. The genre has produced huge celebrities in
+    evangelical circles—Beth Moore, Priscilla Shirer—along with a few who have broken
+    containment, like Jen Hatmaker. Twenty years ago, Hatmaker was much like Waters:
+    a young pastor’s wife raising three little kids while writing her first books
+    on Biblical wisdom for Christian women. She practiced the same schedule sorcery
+    as Waters, writing from 8:15 A.M. to 12:15 P.M., three days a week, plus occasionally
+    during nap time. In “ Make Over ,” from 2007, she seeks to help overwhelmed women
+    find their balance: “If the Lord created a woman to be a servant of God, a wife,
+    a mother, a professional, and a friend—not forgetting that she is still a daughter—then
+    there is a way to be that woman.” In “ Ms. Understood ,” published a year later,
+    she distances herself from feminism—“this is no battle cry for independence, because
+    men are our beloved allies”—and carefully circumscribes her mission. “On behalf
+    of my generation, I believe we’re pursuing center,” she writes. “We recognize
+    the oppression of being subservient male accessories as well as the danger of
+    turning into contentious, genderless semi-females.” Same polemic, just with Bush-era
+    archetypes. Not long after these books appeared, however, Hatmaker’s career took
+    an unexpected turn. She had begun straining against the boundaries of the Southern
+    Baptist subculture she came up in, in which women teachers were relegated to small
+    groups and sidebars. She and her husband left their church to co-found “one centered
+    around the marginalized.” She started tossing around words like “patriarchy” and
+    “white supremacy.” In 2016, she gave an interview in which she said she would
+    gladly officiate a gay marriage. The backlash was swift: books pulled off shelves,
+    speaking engagements cancelled. For four years, she slowly built back her brand—still
+    the advice-giving Christian sister, just a little libbed out. But, in 2020, the
+    final, irredeemable break came: she filed for divorce. In a memoir from this fall,
+    “ Awake ” (Avid Reader), Hatmaker writes of how she discovered that her husband,
+    whom she had met and married while they were both students at the same Southern
+    Baptist college, had been drinking, lying, and cheating. “Out of a dead sleep,
+    I hear five whispered words not meant for me: ‘I just can’t quit you.’ My husband
+    of twenty-six years is voice-texting his girlfriend next to me in our bed.” Hatmaker,
+    who is now fifty-one, had spent years coaching women on marriage: “Sweet Friend,
+    if your marriage has suffered a catastrophic blow, I beg you, seek Christian counseling,”
+    she wrote in her early thirties. “I know it would cost your pride, your controlled
+    image, to seek help, but is that worse than a destroyed marriage? A family in
+    crisis? A lifetime of loneliness?” And yet, when the catastrophic blow finally
+    came for her, she knew to call it. Within thirty-six hours of her middle-of-the-night
+    discovery, she was talking to a lawyer. Whatever evolution Hatmaker went through
+    in the heady years around Donald Trump’s first Presidency, it was nothing compared
+    with the wreckage at home. She sees her failed marriage not just as a specific
+    relationship gone bad but as a casualty of rigid Christian purity culture that
+    taught her to keep herself small and to idolize early marriage as the ultimate
+    achievement. “The community that raised me placed little premium on healthy young
+    evolution,” she writes in “Awake.” Her husband entered ministry soon after graduation,
+    a choice she seems to look back on with both regret and tenderness. “What if that
+    boy splinters inside hierarchical leadership, and that girl is actually powerful?”
+    she writes. “The patriarchy failed him too.” She is scathing about “biblical rules”
+    that “felt terrible”; for example, that women should “spiritually and socially
+    submit to men” and that queer people should be shamed. “Some combination of patriarchy
+    plus religion, gender roles plus groupthink, power plus the threat of exclusion
+    became the soil in which my marriage ultimately died,” she writes. She stopped
+    going to church, convinced that “the fruit of these trees was rotten. Not one
+    bad apple, not one questionable limb; rotten to the roots.” Her career has been
+    huge—five Times best-sellers, an HGTV show, more than half a million Instagram
+    followers—but she concluded it wasn’t possible to continue within the constraints
+    of traditional Christian womanhood. Many evangelicals of Hatmaker’s generation
+    have travelled the same path of pointed questioning—not just about specific verses
+    or churches but about their whole cultural milieu. The phenomenon is so common
+    that defectors have repurposed the term “deconstruction” for it, as in “I’m deconstructing
+    the deeply patriarchal views that evangelicalism taught me.” Of the five prominent
+    Christian female writers whom Hatmaker counts as among her closest online friends,
+    two got divorced around the same time that she did, each from a pastor she had
+    married young. The scripts Hatmaker seems most interested in these days don’t
+    come from the Bible. They come from within. In “Awake,” she lightly auditions
+    new paradigms for sisterly guidance: learn to self-mother; listen to your body;
+    trust your intuition as the greatest source of truth. Your authority is yourself.
+    Her early books are no longer on her website. It would be tidy to situate Waters
+    and Hatmaker as two points on an inevitable arc: when you’re young, you reach
+    for clear answers, but once you’re older and you’ve been through some shit, you’ll
+    realize it was all lies. However much the young Hatmaker had in common with Waters,
+    though, their lives seem likely to trace two very different arcs—ones instructive
+    about both American Christianity and the wider debate over what a good life looks
+    like for women. For one thing, Hatmaker came of age during what was arguably the
+    peak of evangelicalism in the United States. Some of the most iconic evangelical
+    cultural artifacts, like the apocalyptic “ Left Behind ” series, came out of the
+    nineties. Evangelicals got George W. Bush elected in 2000. The Southern Baptist
+    Convention, the largest single Protestant denomination, reached its highest membership
+    levels around the beginning of the twenty-first century. For Hatmaker, the act
+    of deconstructing religious life and its wholesome images of marriage and motherhood
+    was not primarily about doubting the Bible. It was about fighting back against
+    a powerful cultural force. By contrast, Waters is starting her career at a time
+    when Christianity is no longer as dominant in America. After years of marked decline,
+    the percentage of Americans who identify as Christian has levelled off. It would
+    seem that the faith went through something of a sloughing-off period; people who
+    once might have identified as nominal Christians are no longer bothering. Her
+    call to put home life first and to let career follow can feel genuinely countercultural,
+    because she is writing from within a counterculture. Waters’s work is also distinctly
+    political in a way that the'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到Waters认为在大学努力多年是为了职业，如果过早结婚生子会被视为缺乏野心（lacking ambition），这反映了“女孩老板（girlboss）”的世界观对她的影响。
+    options:
+      A: She felt that he was not supportive of her professional ambitions in politics.
+      B: She feared that prioritizing marriage would be perceived as a lack of ambition.
+      C: She was pressured by the 'tradwife' community to remain single and independent.
+      D: She wanted to focus on her studies at the Heritage Foundation exclusively.
+    q_number: 1
+    stem: According to the article, why did Emma Waters initially break up with her
+      boyfriend, Jack?
+  - answer: C
+    explanation: 文中Waters明确指出：“将‘tradwife’视为‘girlboss’的解药是一个错误”，并批评了这种试图“精心策划生活而不是生活本身”的倾向。
+    options:
+      A: She views it as a necessary antidote to the 'girlboss' culture.
+      B: She considers it an effective way to reclaim traditional femininity.
+      C: She criticizes it as another form of curated, performative lifestyle.
+      D: She advocates for it as a sustainable path for young Christian women.
+    q_number: 2
+    stem: What is Waters's attitude toward the 'tradwife' movement?
+  - answer: C
+    explanation: Waters用Jael的故事论证家庭领域（sphere of her home）能够成为女性发挥决定性作用、在历史上占有一席之地的基础，这与传统的顺从形象不同。
+    options:
+      A: Jael was a social justice warrior who fought against patriarchal constraints.
+      B: Jael achieved historical significance through violent, unconventional means.
+      C: Jael's story demonstrates that domestic power can be a source of decisive
+        action.
+      D: Jael represents the ultimate submissive wife who prioritized her husband's
+        success.
+    q_number: 3
+    stem: 'The author refers to Jael as an ''incredible'' model for Waters''s domestic-focused
+      advice mainly because:'
+  - answer: A
+    explanation: Hatmaker早期主张寻找平衡（pursuing center），后来经历了婚姻破碎和对教义的质疑，最终走向了对父权制和保守宗教体系的“解构（deconstruction）”。
+    options:
+      A: She moved from advocating for 'centering' to rejecting traditional patriarchal
+        religious structures.
+      B: She shifted from questioning the Bible to becoming a staunch defender of
+        evangelical dogma.
+      C: She abandoned her career as a writer after discovering her husband's infidelity.
+      D: She embraced the concept of 'deconstruction' primarily to gain more Instagram
+        followers.
+    q_number: 4
+    stem: How did Jen Hatmaker's view of her own life and faith change over time?
+  - answer: C
+    explanation: 文章最后对比指出，Hatmaker出道于福音派在美国影响力巅峰期，而Waters出道于基督教影响力下降、更显“反主流文化”的时期。
+    options:
+      A: Hatmaker fought against a dying religion, whereas Waters is writing within
+        a thriving one.
+      B: Waters is reacting against a dominant cultural force, while Hatmaker was
+        part of an emerging one.
+      C: Hatmaker wrote during the peak of evangelical influence, while Waters writes
+        in an era where Christianity is less dominant.
+      D: Both writers represent the same evangelical arc, despite their different
+        levels of personal experience.
+    q_number: 5
+    stem: What does the author suggest about the difference between Waters and Hatmaker's
+      cultural contexts?
+  source_journal: New Yorker
+  title: Will Biblical Womanhood Box You In or Set You Free?
+- article_update_date: 04.13.2026
+  body_text: Before the start of the 15th China-Russia-India trilateral meeting, Foreign
+    Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of
+    External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed
+    a range of issues and pledged to implement and strengthen outcomes of BRICS and
+    the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and
+    India agreed to maintain regional security and economic architecture in the Asia-Pacific,
+    according to a joint statement issued on Monday after the 15th trilateral meeting
+    of the foreign ministers of the three countries. Maintaining regional security
+    and economic architecture that is "open, inclusive and based on multilateralism
+    and universally recognized principles of international law" is imperative for
+    lasting peace and stability in the region, the statement said. The three countries
+    emphasized the need for coordination and cooperation in various regional forums
+    and organizations such as the East Asia Summit to maintain regional peace and
+    stability and to promote regional development and prosperity. During the one-day
+    meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian
+    counterpart Sushma Swaraj discussed a wide range of global and regional issues
+    of common concern, according to the statement. The three countries reiterated
+    the importance they attached to cooperation and strategic partnership within BRICS.
+    "We will work together to implement all outcomes of BRICS summits to strengthen
+    cooperation in economic, political, security and people-to-people fields, so as
+    to usher in the second golden decade of BRICS cooperation," said the statement,
+    while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen
+    in September. The three countries also attached special importance to the joint
+    work within the Shanghai Cooperation Organization, saying the SCO is an important
+    instrument in promoting multilateral political, security, economic and people-to-people
+    interaction in the region. Describing the Russia-India-China trilateral format
+    as a platform to foster closer dialogue and practical cooperation in identified
+    areas among the three countries, the joint statement said such cooperation is
+    not directed against any other country. "We wish to strengthen the trilateral
+    dialogue for consultation and coordination on regional and global issues of mutual
+    interest in the spirit of mutual understanding and trust," it said. "Our cooperation
+    is conducive to maintaining international and regional peace and stability, and
+    promoting global economic growth and prosperity," it added. XINHUA
+  difficulty_constant: 8.4
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第二段明确指出：Maintaining regional security and economic architecture...
+      is imperative for lasting peace and stability in the region. 选项B与原文完全吻合。
+    options:
+      A: To challenge the existing global political order.
+      B: To ensure lasting peace and stability in the region.
+      C: To isolate non-member countries from regional trade.
+      D: To finalize a military alliance between China, Russia, and India.
+    q_number: 1
+    stem: According to the joint statement, what is the primary purpose of maintaining
+      regional security and economic architecture in the Asia-Pacific?
+  - answer: D
+    explanation: 文章提到 BRICS 合作领域为 economic, political, security and people-to-people
+      fields，并未提及 military technology。
+    options:
+      A: Economic
+      B: Political
+      C: Security
+      D: Military technology
+    q_number: 2
+    stem: Which of the following is NOT mentioned as a field for BRICS cooperation
+      in the statement?
+  - answer: B
+    explanation: 文章倒数第二段明确提到：Describing the Russia-India-China trilateral format as
+      a platform to foster closer dialogue and practical cooperation in identified
+      areas among the three countries。
+    options:
+      A: As an exclusive military bloc against others.
+      B: As a platform for fostering dialogue and practical cooperation.
+      C: As a substitute for the Shanghai Cooperation Organization.
+      D: As an organization aimed at replacing global economic institutions.
+    q_number: 3
+    stem: How is the Russia-India-China trilateral format characterized in the joint
+      statement?
+  - answer: C
+    explanation: 文章倒数第二段明确说明：such cooperation is not directed against any other country，因此选项C正确。
+    options:
+      A: It is intended to counteract the influence of other specific nations.
+      B: It is limited strictly to internal regional security issues.
+      C: It is not directed against any other country.
+      D: It is a temporary alliance due to current global instability.
+    q_number: 4
+    stem: What is the stance of the three countries regarding the scope of their trilateral
+      cooperation?
+  - answer: B
+    explanation: 文中提到为了“usher in the second golden decade”，同时称赞了厦门峰会的成功，这暗示了对现有成就的延续和深化，B项最符合逻辑。
+    options:
+      A: The BRICS summit has achieved all its goals in the first decade.
+      B: Future cooperation expects to build upon the momentum of previous successes.
+      C: BRICS will prioritize economic growth over political security.
+      D: The organization is shifting its focus away from people-to-people interactions.
+    q_number: 5
+    stem: What is the implication of the phrase 'the second golden decade of BRICS
+      cooperation'?
+  source_journal: China Daily
+  title: Chinese, Russian and Indian ministers meet
