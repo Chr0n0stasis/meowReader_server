@@ -1,0 +1,824 @@
+group_update_date: 04.21.2026
+papers:
+- article_update_date: 04.02.2026
+  body_text: 'Human tissue sample collection and compliance Single-nucleus capture
+    and RNA-seq analysis of age- and sex-matched human control (9) and MS (12) cortices
+    was performed previously2. For this study, human post-mortem brain samples with
+    MS grey matter pathology were sourced from the UK Multiple Sclerosis Tissue Bank
+    at Imperial College London. Ethical approval for the use of these samples was
+    granted by the National Research Ethics Committee in the UK (08/MRE09/31). In
+    total, nine snap-frozen brain blocks (four from patients with MS and five from
+    individuals without diagnosed neurological disease) were analysed using immunohistochemistry.
+    For CUX2 and ATF4 expression analyses, the 25-year-old sample was obtained from
+    University of California, San Francisco’s Pediatric Neuropathology Research Laboratory
+    and collected in accordance with guidelines established by the Committee on Human
+    Research (UCSF) and approved by the Institutional Review Board. Participant details
+    are provided in Supplementary Table 1. Primary rat glial cultures Fresh Wistar/Han
+    postnatal day 5 rat heads were obtained from Charles River Laboratory (UK) in
+    ice-cold Hibernate-A medium (Thermo Fisher Scientific, A1247501). Whole brains
+    were extracted, homogenized and subjected to centrifugation (3 min, 100g at room
+    temperature). The supernatant was removed and the tissue was resuspended in a
+    dissociation solution (34 U ml−1 papain (Lorne, LS003126) and 20 μg ml−1 DNase
+    type I (Millipore, 10104159001) in Hibernate-A medium) that had been heat-activated
+    at 37 °C and shaken for 20–30 min at 55 rpm and 37 °C. The tissue was centrifuged
+    for 5 min at 200g, the supernatant was aspirated and then the tissue was resuspended
+    in a cold neutralizing solution (Hibernate A medium supplemented with 1× B27 (Thermo
+    Fisher Scientific, 17504044) and 2 mM sodium pyruvate (Sigma-Aldrich, S8636)).
+    Tissue was triturated using a serological pipette ten times and, after 1 min rest,
+    the cell suspension (supernatant) was transferred through a 70-μm cell strainer
+    into isotonic Percoll (90%, Sigma-Aldrich, GE17-5445-01). The remaining tissue
+    aggregates were subjected to a further three rounds of trituration and 1 min resting,
+    and the supernatant was transferred into isotonic Percoll. The cell suspensions
+    were brought to a final Percoll concentration of 22.5% by adding DMEM/F12 with
+    HEPES (Thermo Fisher Scientific, 11-039-021) and centrifuged for 20 min at 800g.
+    The supernatant was removed, and the brain cell pellet (bottom 3 ml) was resuspended
+    in HBSS without calcium and magnesium (Thermo Fisher Scientific, 14170112), then
+    centrifuged for a further 5 min at 300g; the supernatant was next removed and
+    the cells were resuspended in 1 ml of red blood cell lysing buffer (Sigma-Aldrich,
+    R7757). The suspension was incubated for 90–120 s before washing with HBSS without
+    calcium and magnesium. The cells were centrifuged for 5 min at 300g before resuspending
+    in 500 μl sorting solution (1× PBS supplemented with 2 mM EDTA (Thermo Fisher
+    Scientific, 15575020), 2 mM sodium pyruvate, 0.5% BSA and 25 μg ml−1 insulin (Sigma
+    Aldrich, I9278)). The cells were counted and 2 μl of CD11b/c rat microbeads (Miltenyi
+    Biotec, 130-105-634) was added per 1 million cells and incubated for 15 min at
+    4 °C with gentle agitation on a tube roller. A further 8 ml of sorting solution
+    was added before the cell/bead mix was centrifuged for 5 min at 300g. The supernatant
+    was removed, and cells were resuspended in 2 ml sorting solution. Cells were added
+    to an LS column (Miltenyi Biotec, 130-042-401) fitted to a QuadroMACS Separator
+    (Miltenyi Biotec, 130-091-051) stand that had been pre-wet with sorting solution.
+    The column was washed three times with 2.5 ml cold sorting solution. Microglia
+    were collected from the column by disassociating the column from the stand, adding
+    2 ml microglial medium (DMEM/F12 supplemented with 60 μg ml−1 N-acetyl cysteine
+    (Sigma-Aldrich, A9165), 10 μg ml−1 insulin, 1 mM sodium pyruvate, 1× SATO (100×
+    SATO: 1.61 mg ml−1 putrescine dihydrochloride (Sigma-Aldrich, P5780), 4 µg ml−1
+    sodium selenite (Sigma-Aldrich, S526110), 60 µg ml−1 progesterone (Sigma-Aldrich,
+    P8783), 41.25 mg ml−1 BSA (Sigma-Aldrich, A4919), 5 mg ml−1 apo-transferrin (Sigma-Aldrich,
+    T1147) in DMEM/F12 (Gibco, 11039021)) before using a plunger to gently release
+    the cells. Microglia were counted and seeded at 400,000 cells per well on 12-well
+    plates precoated with 5 μg ml−1 poly-d-lysine (Sigma-Aldrich, P6407). To obtain
+    astrocytes, the cell flow-through was further sorted to remove oligodendroglia.
+    Flow-through suspensions were centrifuged for 5 min at 300g and the supernatant
+    was aspirated. Cells were resuspended in 500 μl of sorting solution before adding
+    1.7 μl of mouse IgM anti-A2B5 antibody (about 1:250, Sigma-Aldrich, MAB312, AB-94709)
+    and incubated for 25 min at 4 °C with gentle agitation. The cell suspension was
+    diluted with sorting solution and centrifuged for 5 min at 300g. The supernatant
+    was aspirated, and the pellet was resuspended in 160 μl of sorting solution with
+    40 μl of rat anti-mouse IgM microbeads (Miltenyi Biotec, 130-047-302) and further
+    incubated for 15 min at 4 °C, with gentle agitation at the 5- and 10-min mark.
+    The cells were sorted through the LS column as described above for microglia but
+    the flow-through was collected for further astroglial isolation. The solution
+    was centrifuged for 5 min at 300g and then resuspended in astrocyte medium (DMEM/F12
+    without L-glutamine (Thermo Fisher Scientific, 21331020) supplemented with 1 mM
+    sodium pyruvate, 60 μg ml−1 N-acetyl cysteine, 1× N2 (Thermo Fisher Scientific,
+    17502-001), 1× B27 (Gibco, 12587-010), 1% penicillin–streptomycin, 10 μg ml−1
+    insulin and 10 ng ml−1 human recombinant HB-EGF (Peprotech, 100-47-100UG)). The
+    cell solution was added to a flask coated with 5 μg ml−1 poly-d-lysine and glia
+    were allowed to attach for 1 h at 37 °C. After 1 h, the unattached cells (predominantly
+    containing neurons and endothelia) were washed away, and fresh astrocyte medium
+    was provided. After 24 h, astrocytes were passaged by first washing with PBS minus
+    calcium and magnesium chloride (Sigma-Aldrich, D8537) before replacing with trypsin-EDTA
+    (0.05%; Gibco, 25300054) at 37 °C for 5 min. Astrocyte medium was added and astroglia
+    were collected and centrifuged at 300g for 5 min. Astrocytes were resuspended
+    in astrocyte medium and plated at 300,000 cells per well of 12-well plates. Cells
+    were then subjected to rat IFNγ (Thermo Fisher Scientific, 400-20) before collection.
+    Demyelination and neuroinflammation models ROSA26-eGFP-DTA mice52 were bred to
+    the PLP/creERT transgenic mice53 to generate the PLP/creERT;ROSA26-eGFP-DTA (DTA)
+    mice, as previously described17,18. All mice were on the C57BL/6J background.
+    PLP/creERT;ROSA26-eGFP-DTA (DTA) mice and ROSA26-eGFP-DTA littermates (control;
+    aged 5–7 weeks) were injected intraperitoneally with 0.8 mg of 4-hydroxytamoxifen
+    (Hello Bio, HB6040) per day, either for 4 consecutive days (males) or 3 consecutive
+    days (females). Brain tissue was collected from the DTA and control animals at
+    the indicated timepoints after tamoxifen injection. Equal numbers of male and
+    female mice were used for experiments, which were conducted in compliance with
+    Northwestern University’s Animal Care and Use Committee (IACUC) guidelines. Myrffl/fl
+    were crossed to Sox10creERT mice to generate Myrf-cKO mice as previously described20.
+    All of the mice were on a mixed C57BL/6N and C57BL/6J background and creERT-negative
+    littermates served as non-demyelinated controls. Eight-week-old mice were injected
+    intraperitoneally with 100 mg per kg tamoxifen (T5648, Sigma-Aldrich) dissolved
+    in corn oil (C8267, Sigma-Aldrich) for 5 days. These experiments were conducted
+    in compliance with the Institutional Animal Care and Use Committee of OHSU. Ectopic
+    IFNγ expression model Gfap-tTA mice on the C57BL/6J background were crossed with
+    TRE-Ifng mice on the C57BL/6J background to generate Gfap-tTA;TRE-Ifng double-transgenic
+    mice, as described previously54,55. To suppress IFNγ transcription, doxycycline
+    (200 ppm) was administered in the diet (Envigo) from conception. Mice were maintained
+    on doxycycline throughout development, and doxycycline repression was lifted at
+    8 weeks of age. Brain tissue was collected from both double-transgenic and single-transgenic
+    control mice at 12 months after doxycycline withdrawal. These experiments were
+    conducted in compliance with Northwestern University’s Animal Care and Use Committee
+    (IACUC) guidelines. KO and cKO lines Cux2cre56,57, Cux2creER57, Atf4fl58 and WT
+    mice were handled according to guidelines set by the University of California,
+    San Francisco and housed within a barrier facility on a 12 h–12 h light–dark cycle.
+    Mice were housed with up to four other same-sex cage mates in standard rodent
+    cages and provided food and water ad libitum. Both male and female mice were used
+    for all experiments. All animal protocols and procedures were approved by UCSF’s
+    Institutional Animal Care and Use Committee (IACUC). Neonatal hypoxia and acute
+    neuroinflammation model Neonatal mice, along with their parents, were exposed
+    to chronic hypoxia by receiving 10% fractional inspired oxygen from P3 to P14.
+    At P7, LPS (Sigma-Aldrich, L2630, 93572-42-0) was administered through intraperitoneal
+    injection at a dose of 2 mg per kg. After P14, both pups and parents were returned
+    to normoxic conditions until brain tissue was collected at P28. Mice were monitored
+    daily. The oxygen concentration was continuously monitored and maintained using
+    an oxygen modulator (Biospherix, ProOx110). This procedure was approved by UCSF’s
+    Institutional Animal Care and Use Committee (IACUC). Acute demyelination with
+    cuprizone Tamoxifen (T-5648, Sigma-Aldrich, 10540-29-1) was dissolved in a solution
+    of 90% corn oil and 10% ethanol and administered intraperitoneally to Cux2creERAtf4fl
+    mice starting at 8 weeks of age. Each mouse received 2 mg of tamoxifen per day
+    for 5 consecutive days, followed by a 2 week rest period. Next, the same mice
+    were fed a diet containing 0.3% (w/w) cuprizone (Sigma-Aldrich, C9012, 370-81-0)
+    mixed into standard chow. Cuprizone was administered continuously for 6 weeks
+    to induce robust demyelination. Mice were monitored daily and provided with fresh
+    cuprizone-containing food until brain tissue was collected at the end of the 6-week
+    period. This procedure was approved by UCSF’s Institutional Animal Care and Use
+    Committee (IACUC). Collection of tissue for histology For histology, mice were
+    transcardial perfused with 4% paraformaldehyde (PFA), and brain tissue was collected.
+    The brains were post-fixed overnight in 4% PFA and washed with PBS before being
+    embedded in OCT. Then, 16-μm sections were obtained on Superfrost Plus slides
+    using a Leica Cryostat. The sections were stored at below −70 °C. Collection of
+    tissue for snRNA-seq For snRNA-seq, cortices were collected in ice-cold DEPC-PBS
+    under RNase-free conditions, frozen with dry ice and stored at −80 °C until sequencing
+    was performed. For snRNA-seq on DTA mice, 1 mm coronal sections were collected
+    using a stainless-steel brain matrix. From these sections, 0.75 mm punches were
+    collected from the corpus callosum and cortex, which were frozen and shipped to
+    UCLA, where the sequencing was performed. snRNA-seq For snRNA-seq, mRNAs from
+    isolated nuclei were barcoded using the 10x Genomics 3′ Gene Expression v3.1 kit.
+    Libraries were sequenced on the NovaSeq 6000 system using an S4 flow cell. Raw
+    data were processed with CellRanger (v.7.0.1) using the mm10-2020-A mouse genome
+    reference for embryonic samples or CellRanger (v.8.0.1) with GRCm39-2024-A mouse
+    reference for postnatal samples. Ambient RNA contamination was removed using CellBender
+    (embryonic, v.0.1.0; postnatal, v.0.3.0). Cell type annotation Cell type annotation
+    was performed using a combination of clustering and reference-based approaches.
+    We used the Deep Embedding for Single-cell Clustering (DESC, v.2.1.1)59 package
+    for dimension deduction, batch normalization and clustering, using the top 2,048
+    high DEGs (scanpy60, v.1.8.1) and a three-layer encoder network (1,024, 256, 32)
+    for feature extraction. Clusters were annotated using Pegasus (v.1.8.1) for automated
+    cell type suggestions, with further validation against the Allen Brain Atlas and
+    the Linnarsson Atlas for cortical regions61,62. For the integrated Popko dataset,
+    a hierarchical annotation strategy was applied, sequentially removing non-neuron
+    cells, non-cortex neurons and inhibitory neurons, with manual marker gene verification
+    at each step. DEG analyses DEGs for Cux2creAtf4fl mice were determined in Omics
+    playground63 (v.2.8.19) by performing t-tests (standard, Welch) and limma (no
+    trend, trend, voom), edgeR (QLF, LRT) and DESeq2 (Wald, LRT) tests and taking
+    the highest q value for tests with cutoffs of a false-discovery rate (FDR) of
+    0.05 and a log 2 -transformed FC of 0.1. DEGs for DTA mice were determined instead
+    in Python using Scanpy’s rank_genes_groups function and using Wilcoxon rank-sum
+    tests to determine statistical significance. Volcano plots were generated using
+    the Hiplot (ORG) (https://hiplot.org) Volcano plot APP (v.0.1.0) using a Creative
+    Commons Attribution 4.0 International Licence to visualize DEGs with highlighted
+    genes. Moreover, DEG distribution box plots were created by randomly sampling
+    1,000 cells from each cluster, repeated 100 times. The filtered number of DEGs
+    (P < 0.05'
+  difficulty_constant: 12.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: sourced的意思是“获取、来源于”，符合语境中从组织库中获得样本的描述。
+    options:
+      A: acquired
+      B: distributed
+      C: sourced
+      D: retained
+    q_number: 1
+    stem: For this study, human post-mortem brain samples with MS grey matter pathology
+      were ____ from the UK Multiple Sclerosis Tissue Bank.
+  - answer: B
+    explanation: granted意为“授予、批准”，是审批伦理许可的固定搭配。
+    options:
+      A: rejected
+      B: granted
+      C: restricted
+      D: neglected
+    q_number: 2
+    stem: Ethical approval for the use of these samples was ____ by the National Research
+      Ethics Committee in the UK.
+  - answer: D
+    explanation: resuspended意为“重新悬浮”，是生物实验中细胞处理的专业术语。
+    options:
+      A: decomposed
+      B: dissolved
+      C: preserved
+      D: resuspended
+    q_number: 3
+    stem: The supernatant was removed and the tissue was ____ in a dissociation solution.
+  - answer: D
+    explanation: aspirated意为“抽吸”，指去除上清液的动作。
+    options:
+      A: transferred
+      B: extracted
+      C: agitated
+      D: aspirated
+    q_number: 4
+    stem: The tissue was centrifuged for 5 min at 200g, the supernatant was ____ and
+      then the tissue was resuspended.
+  - answer: A
+    explanation: cell suspension意为“细胞悬液”，符合实验步骤描述。
+    options:
+      A: suspension
+      B: combination
+      C: fraction
+      D: reaction
+    q_number: 5
+    stem: Tissue was triturated using a serological pipette ten times and, after 1
+      min rest, the cell ____ was transferred.
+  - answer: A
+    explanation: aggregates在生物学中指细胞或组织的聚合物，符合上下文。
+    options:
+      A: ingredients
+      B: aggregates
+      C: fragments
+      D: elements
+    q_number: 6
+    stem: The remaining tissue ____ were subjected to a further three rounds of trituration.
+  - answer: B
+    explanation: adding意为“加入”，指通过添加液体来稀释浓度。
+    options:
+      A: adding
+      B: removing
+      C: isolating
+      D: modifying
+    q_number: 7
+    stem: The cell suspensions were brought to a final Percoll concentration of 22.5%
+      by ____ DMEM/F12.
+  - answer: D
+    explanation: centrifuged意为“离心”，根据前文实验逻辑需要再次离心。
+    options:
+      A: centrifuged
+      B: sterilized
+      C: triturated
+      D: incubated
+    q_number: 8
+    stem: The brain cell pellet was resuspended in HBSS, then ____ for a further 5
+      min.
+  - answer: B
+    explanation: incubated意为“孵育”，指在特定条件下保持一段时间。
+    options:
+      A: incubated
+      B: agitated
+      C: activated
+      D: diluted
+    q_number: 9
+    stem: The suspension was ____ for 90–120 s before washing with HBSS.
+  - answer: D
+    explanation: agitation意为“摇晃/搅拌”，是细胞悬浮混合的常用手段。
+    options:
+      A: agitation
+      B: aeration
+      C: adaptation
+      D: ablation
+    q_number: 10
+    stem: The cells were counted and 2 μl of microbeads was added per 1 million cells
+      and incubated with gentle ____ on a tube roller.
+  - answer: C
+    explanation: remove意为“去除”，符合清洗过程的功能。
+    options:
+      A: remove
+      B: release
+      C: accumulate
+      D: generate
+    q_number: 11
+    stem: The column was washed three times with 2.5 ml cold sorting solution to ____
+      impurities.
+  - answer: A
+    explanation: release意为“释放”，指将细胞从柱子中洗脱出来。
+    options:
+      A: distribute
+      B: capture
+      C: attach
+      D: release
+    q_number: 12
+    stem: Microglia were collected by using a plunger to gently ____ the cells from
+      the column.
+  - answer: C
+    explanation: remove意为“除去”，目的是为了分离出目标细胞。
+    options:
+      A: remove
+      B: preserve
+      C: activate
+      D: identify
+    q_number: 13
+    stem: To obtain astrocytes, the cell flow-through was further sorted to ____ oligodendroglia.
+  - answer: B
+    explanation: provided意为“提供”，指更换新的培养基。
+    options:
+      A: discarded
+      B: provided
+      C: consumed
+      D: calculated
+    q_number: 14
+    stem: After 1 h, the unattached cells were washed away, and fresh astrocyte medium
+      was ____.
+  - answer: B
+    explanation: passaged意为“传代”，是细胞培养的特定术语。
+    options:
+      A: passaged
+      B: isolated
+      C: analyzed
+      D: counted
+    q_number: 15
+    stem: Astrocytes were ____ by first washing with PBS before replacing with trypsin-EDTA.
+  - answer: A
+    explanation: injected意为“注射”，指药物给药方式。
+    options:
+      A: collected
+      B: injected
+      C: monitored
+      D: transferred
+    q_number: 16
+    stem: DTA mice and control littermates were ____ intraperitoneally with tamoxifen.
+  - answer: C
+    explanation: in compliance with是固定搭配，意为“符合”。
+    options:
+      A: compliance
+      B: conflict
+      C: contrast
+      D: charge
+    q_number: 17
+    stem: Experiments were conducted in ____ with Northwestern University’s guidelines.
+  - answer: A
+    explanation: conception意为“受孕/开始”，指实验的时间起点。
+    options:
+      A: withdrawal
+      B: maturity
+      C: development
+      D: conception
+    q_number: 18
+    stem: Doxycycline was administered in the diet from ____ to suppress IFNγ transcription.
+  - answer: C
+    explanation: ad libitum是拉丁语，意为“随意地、不限量的”，实验动物常用词。
+    options:
+      A: libitum
+      B: hoc
+      C: valorem
+      D: interim
+    q_number: 19
+    stem: Mice were housed in standard cages and provided food and water ad ____.
+  - answer: D
+    explanation: removed意为“去除”，指数据处理中的清理环节。
+    options:
+      A: maintained
+      B: detected
+      C: increased
+      D: removed
+    q_number: 20
+    stem: Ambient RNA contamination was ____ using CellBender.
+  source_journal: Nature
+  title: DNA damage burden causes selective CUX2 neuron loss in neuroinflammation
+- article_update_date: 04.03.2026
+  body_text: 'On the front lines, Russian soldiers pay officers to stay alive Europe
+    | Dead souls On the front lines, Russian soldiers pay officers to stay alive The
+    war against Ukraine has created a corrupt economy of blood money April 2nd 2026
+    The newly built one-bedroom flat is nicely decorated, with parquet floors, an
+    aquarium, a shower cabin and a full kitchen. The downside is the location: underground
+    in the trenches near Baihavka, a village in the occupied region of Luhansk. The
+    apartment is home to the commander of the local Russian army unit. Maxim, a deserter
+    who helped to build it, says the commander did not spend a kopek. Not only was
+    the labour free, but soldiers paid for the materials, appliances and paint. Russian
+    soldiers must also buy officers alcohol. “They have four korporativy [office parties]
+    a week,” says Sergei, who bribed his way into a rear position as a cook. He works
+    from 5am to 11pm, paying over half his salary to a commander for the privilege.
+    Interviews with a dozen contract soldiers in locations including the Belgorod
+    region, Luhansk and Donetsk reveal a system of extortion and punishment. Officers
+    see their soldiers not just as grunts but as a source of enrichment. Corruption
+    and slave labour have long been features of the Russian and Soviet armies: professional
+    officers control the means of destruction, while recruits serve as cannon fodder
+    in war or free labour in peacetime. Russia’s recruitment drive for its war in
+    Ukraine has poured blood and money into the system, resulting in a vast battlefield
+    economy. Soldiers describe the front lines as a marketplace where everything has
+    a price: drones, medals, home leave and life itself. To back up their claims,
+    they show screenshots of bank transfers, complaints to military prosecutors, demands
+    for money and orders to take part in assaults. Maxim, a 26-year-old from the city
+    of Krasnodar, signed his contract in August 2024 in Moscow, where bonuses were
+    higher. He supplies various reasons: government propaganda, the death of his stepfather
+    in the war. “Something just snapped in my head,” he says. “I didn’t even know
+    the contract was indefinite.” It probably helped that he had been arrested with
+    amphetamines in his pocket and given the option of enlisting to avoid prosecution.
+    He got a bonus of 2.5m roubles ($30,000) and was sent without training to the
+    Luhansk region, where he was paid 200,000 roubles a month until he deserted in
+    January 2026. Of the 8m roubles he got in total, he says 6m went in equipment
+    and bribes. Russia’s army provides gear to elite airborne and special-forces units,
+    but infantry must buy their own. Since 2023 Wildberries and Ozon, the main Russian
+    online retailers, have been available in the occupied regions of Donetsk, Luhansk,
+    Zaporizhia and Kherson. “If you don’t want to spend money on a good pair of boots
+    and a decent body-armour vest, you go into assault wearing trainers,” says Maxim.
+    The collections begin under the pretext of raising money for drones, equipment
+    or food, says Anton, an assault trooper. But if you pay once, “you’ll pay for
+    ever so they don’t send you to the meat grinder.” Ukraine’s wall of drones has
+    created a kill zone at least 20km deep, rendering mass assaults suicidal. It has
+    also created an economy of life and death. Maxim says his commander welcomed new
+    recruits by telling them he had buried 12 companies and they would be the 13th.
+    “He said we were cannon fodder and only 5% of soldiers survive assaults.” The
+    next day he explained that survival was not a matter of luck, but of ability to
+    pay. Maxim and Sergei, another soldier, each paid 1m roubles to be transferred
+    to the rear, plus another 100,000-150,000 roubles a month. Some commanders requisition
+    troops’ bank cards and PIN codes before sending them into an assault. Ilya, another
+    deserter, says a staff officer collects them for safekeeping. The dead are declared
+    missing, and commanders withdraw the money they earned from their bank accounts
+    at ATMs in Donetsk and Luhansk. There is a rich trade in medical documents declaring
+    soldiers unfit for combat. Getting wounded is not free either. “I paid 100,000
+    for leave after a wound,” says Anton. “To get discharged they ask for a million.”
+    Soldiers who refuse to pay may be thrown into dug-out pits for torture. Andrey
+    Bykov refused to hand over 2m roubles he received as compensation for being wounded
+    to his commanders, who used the call signs Kemer and Dudka. According to his mother,
+    he was first handcuffed and beaten for several days. Later he was tied to a tree
+    and shot. Soldiers ordered by their commanders to kill their own comrades call
+    it “zeroing out”. Soldiers say “refuseniks” can be zeroed out by shooting them,
+    tying them to trees to freeze, denying them medical care after beatings or having
+    drone operators kill them on the battlefield. Verstka, an independent Russian
+    news site, confirmed the identities of at least 100 commanders who either ordered
+    or carried out such killings. “Will these bastards ever be punished?” asks Elena,
+    a 39-year-old from the Altai region in Russia’s north-east. In February 2025 she
+    buried her son, who had served in Kemer’s regiment. He had paid 100,000 roubles
+    “for the needs of the regiment” and was reported as having died on a combat mission.
+    Last summer Elena’s husband, who was serving in the same unit, deserted and recorded
+    several videos about extortion schemes. He filed a complaint with military prosecutors
+    saying Kemer had taken 2m roubles from him. But shortly before the new year he
+    was found by military police and sent back to Kemer’s unit. On January 11th, Elena
+    says, he was tied to a tree and killed. ■ To stay on top of the biggest European
+    stories, sign up to Café Europa , our weekly subscriber-only newsletter. This
+    article was downloaded by zlibrary from https://www.economist.com//europe/2026/04/01/on-the-front-lines-russian-soldiers-pay-officers-to-stay-alive'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The text states the apartment was for the commander, and Maxim notes
+      that the commander 'did not spend a kopek,' using soldiers' money and labour
+      to construct it. This illustrates the officer's exploitation of subordinates
+      for personal enrichment.
+    options:
+      A: provide a safe space for soldiers to conduct training exercises.
+      B: demonstrate his status and maintain a high standard of living using coerced
+        funds.
+      C: offer a luxury retreat for deserters seeking temporary shelter.
+      D: establish a secure command center for planning infantry assaults.
+    q_number: 1
+    stem: 'According to the passage, the primary reason the commander in the Luhansk
+      region built an elaborate underground apartment is to:'
+  - answer: C
+    explanation: The context throughout the article demonstrates that everything—from
+      medical leave to avoiding the 'meat grinder'—is commodified. The 'marketplace'
+      metaphor highlights how corruption has turned survival into something one must
+      buy from corrupt officers.
+    options:
+      A: There is a diverse range of high-quality equipment available for purchase.
+      B: Soldiers are encouraged to engage in private trade to boost morale.
+      C: Extortion and corruption have reduced human survival and basic rights to
+        transactional exchanges.
+      D: The economy in the occupied territories has become more stable due to military
+        regulation.
+    q_number: 2
+    stem: What does the author imply by describing the Russian front lines as a 'marketplace'?
+  - answer: C
+    explanation: The text explicitly states that officers view soldiers 'not just
+      as grunts but as a source of enrichment' and describes them as 'cannon fodder'
+      or 'free labour,' which supports the conclusion of exploitation.
+    options:
+      A: A symbiotic alliance where both parties benefit from nationalistic fervor.
+      B: A structured hierarchy providing clear career progression for young soldiers.
+      C: A exploitative system where recruits are viewed as assets for financial gain.
+      D: An egalitarian environment where merit determines one's position and safety.
+    q_number: 3
+    stem: Which of the following describes the relationship between the military and
+      recruits as portrayed in the text?
+  - answer: B
+    explanation: The text defines 'zeroing out' as soldiers being ordered by commanders
+      to kill their own comrades, including shooting them or leaving them to die,
+      as punishment for being 'refuseniks' or non-compliant.
+    options:
+      A: the process of removing a soldier from the payroll for disciplinary reasons.
+      B: a systematic method of killing soldiers who defy their commanding officers.
+      C: the administrative action of declaring a wounded soldier as unfit for duty.
+      D: a military strategy to reduce the number of casualties during an assault.
+    q_number: 4
+    stem: 'The term ''zeroing out'' as used by soldiers refers to:'
+  - answer: C
+    explanation: The story of Elena’s husband shows that despite filing a complaint,
+      he was tracked down by military police, returned to the same unit, and ultimately
+      killed, suggesting that reporting corruption is ineffective and dangerous.
+    options:
+      A: They are typically protected and transferred to safer units immediately.
+      B: The prosecutors effectively dismantle the corrupt networks within the army.
+      C: Their complaints often lead to further retaliation and increased personal
+        danger.
+      D: They are usually rewarded for their integrity and courage in exposing wrongdoing.
+    q_number: 5
+    stem: What can be inferred about the fate of soldiers who report extortion to
+      military prosecutors?
+  source_journal: Economist
+  title: On the front lines, Russian soldiers pay officers to stay alive
+- article_update_date: 03.26.2026
+  body_text: Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA
+    A Chinese-made communications satellite became the first "export" of such a spacecraft
+    to an Arab country when it was launched by China on Monday for Algeria. A Long
+    March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in
+    the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes
+    before placing the Alcomsat-1, the Algeria's first communications satellite, into
+    geostationary transfer orbit, according to a news release from China Great Wall
+    Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart
+    Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the
+    successful mission. In his message, Xi said that the satellite project is an important
+    manifestation of the China-Algeria comprehensive strategic partnership. It has
+    become a good example of space cooperation between China and Arab countries and
+    will play a significant role in promoting Algeria's economic and social development,
+    he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges
+    and cooperation in various fields, deepening the bilateral partnership so as to
+    benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable
+    achievement in space cooperation between the two countries and reflects the deep
+    traditional friendship between the two sides. Algeria is willing to work with
+    China to strengthen cooperation, he said. The satellite contract was signed in
+    December 2013 between the Algerian Space Agency and China Great Wall Industry
+    Corp, the country's largest space contractor in the international market. Alcomsat-1
+    was designed and manufactured by the China Academy of Space Technology, part of
+    China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform.
+    With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the
+    satellite will be used for a wide variety of public services such as television
+    broadcasting, emergency communications, remote education and satellite-based signal
+    augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of
+    the company, said Alcomsat-1 is as good as Western communications satellites in
+    terms of technology and capacity. He said there are other contracts between his
+    firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn
+  difficulty_constant: 4.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 'The text explicitly states: ''A Chinese-made communications satellite
+      became the first "export" of such a spacecraft to an Arab country when it was
+      launched by China on Monday for Algeria.'''
+    options:
+      A: It marks the first time China has launched a satellite from the Xichang Satellite
+        Launch Center.
+      B: It represents the first export of a Chinese-made communications satellite
+        to an Arab country.
+      C: It is the first satellite designed to improve long-distance communication
+        within China.
+      D: It demonstrates a new technology that will replace all existing Western communications
+        satellites.
+    q_number: 1
+    stem: What is the primary significance of the Alcomsat-1 mission according to
+      the text?
+  - answer: C
+    explanation: 'The text quotes Xi Jinping saying: ''the satellite project is an
+      important manifestation of the China-Algeria comprehensive strategic partnership.'''
+    options:
+      A: As a commercial venture to maximize profit for the China Great Wall Industry
+        Corp.
+      B: As a purely technical experiment to test the longevity of the DFH-4 platform.
+      C: As an important manifestation of the China-Algeria comprehensive strategic
+        partnership.
+      D: As a temporary solution to Algeria's ongoing economic challenges.
+    q_number: 2
+    stem: How did President Xi Jinping describe the Alcomsat-1 project in his message?
+  - answer: C
+    explanation: The text states the satellite 'will be used for a wide variety of
+      public services such as television broadcasting, emergency communications, remote
+      education and satellite-based signal augmentation.'
+    options:
+      A: Primarily for military surveillance and border security.
+      B: To assist with scientific research into the atmosphere of North Africa.
+      C: To provide public services like broadcasting, remote education, and emergency
+        communications.
+      D: To replace all current telecommunications infrastructure in China.
+    q_number: 3
+    stem: Based on the passage, what is the intended purpose of the Alcomsat-1 satellite?
+  - answer: B
+    explanation: 'Fu Zhiheng, vice-president of the company, is quoted as saying:
+      ''Alcomsat-1 is as good as Western communications satellites in terms of technology
+      and capacity.'''
+    options:
+      A: It is considered inferior to Western technology but adequate for Algeria's
+        needs.
+      B: It is comparable to Western communications satellites in capacity and technology.
+      C: It is an experimental prototype that has yet to be proven effective.
+      D: It is significantly more advanced than any satellite currently used by Western
+        nations.
+    q_number: 4
+    stem: What does the text imply about the technical quality of the Alcomsat-1 satellite?
+  - answer: B
+    explanation: 'The text mentions: ''He said there are other contracts between his
+      firm and Arab countries, without elaborating.'' This implies a broader scope
+      of cooperation.'
+    options:
+      A: The partnership is limited exclusively to Algeria.
+      B: China has active space-related contracts with other Arab countries beyond
+        Algeria.
+      C: The partnership has significantly declined since the signing of the 2013
+        contract.
+      D: Arab countries are hesitant to collaborate with China due to technological
+        differences.
+    q_number: 5
+    stem: Which of the following can be inferred regarding the relationship between
+      China and Arab countries in the aerospace sector?
+  source_journal: China Daily
+  title: Satellite lofted for first Arab country
+- article_update_date: 04.16.2026
+  body_text: '| Next | Section menu | Main menu | Lauren Goode The Big Story Mar 25,
+    2026 6:00 AM Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone
+    Off Arm just confirmed the rumors: It’s producing its own chip for the first time.
+    CEO Rene Haas explains why this won’t alienate the many chipmakers who license
+    the company’s designs. Photograph: Jessica Chou Rene Haas is half-prone on a couch
+    in his office in San Jose, California. A basketball rests in his hand, partly
+    obscuring his face. Haas had grimaced when WIRED’s photographer first asked him
+    to assume this position. The headlines came to him immediately: “People are going
+    to say ‘Arm’s CEO sleeps on the job,’” he says. Still, Haas obliges. He gives
+    us 46 minutes of his time, then shoos us out so he can hop on a call with Masayoshi
+    Son , the Softbank CEO and chairman of Arm’s board. I’m meeting with Haas just
+    days before the chip firm’s momentous announcement that it’s launching its own
+    silicon. For a company that''s made its fortunes licensing its architectures to
+    other chip companies and never fabricating its own, the move is a huge bet. Apple,
+    Tesla, Nvidia , Microsoft, Amazon, Samsung, and Qualcomm all make or sell chips
+    based on Arm, either licensing the chip designs or paying royalties to the firm.
+    It’s been estimated that there are three Arm chips for every human on Earth. Seen
+    another way, though, making a chip marks a return to Arm’s roots. The company
+    goes back to the late 1970s, when two computer architects started a company, Acorn
+    Computers, that produced a microprocessor built on an architecture known as RISC.
+    By the early ’90s the company was flailing, and the then CEO pivoted to licensing
+    its designs to other companies. Fast-forward to the mid-2010s, and Arm’s power-efficient
+    mobile chip designs helped make it the most important chip IP company in the world.
+    The Big Interview Read more deep, weird, smart conversations with the most important
+    people in our world. Arm’s trajectory hasn’t all been smooth. After Softbank acquired
+    Arm in 2016 and took the publicly traded company private, the smartphone market’s
+    growth slowed. Arm had to make an aggressive push into new lines of business.
+    In 2020 Nvidia tried to scoop it up and regulators blocked the deal. As that deal
+    collapsed, in 2022, Haas stepped into the CEO role. He took Arm public again,
+    with Softbank still owning 90 percent of the company. Haas had joined Arm in 2013
+    from Nvidia, where he’d led the computing product business unit, and eventually
+    took over Arm’s cash cow, the IP products group. Similar to the way Nvidia CEO
+    Jensen Huang leans on his decades-long perspective of the industry—gather ’round
+    the campfire, kids, while I tell you about the early days of parallel computing—Haas
+    is quick to reference 1980s geopolitical chaos when asked whether current events
+    make him worry about his business. (No.) He’s met with President Donald Trump
+    half a dozen times, he tells me, but he’s not particularly concerned about the
+    US government interfering in his UK company’s affairs. He is tall, though not
+    particularly foreboding, and often wears Saint Laurent boots with little heels,
+    a blazer, and a Panerai watch. Chip industry insiders say Haas, 63, is a masterful
+    networker who pals around with the biggest names in tech. The Wall Street Journal
+    once labeled him a “natural-born diplomat.” But with this chip project, one of
+    the most loosely held secrets in the Valley, Arm—and Haas—risk rankling some of
+    the company’s most loyal partners. Can you stay besties with people if, after
+    years of polite dinner parties, you announce you’re buying their house? Haas seems
+    convinced he can. This interview has been condensed and lightly edited for clarity.
+    Lauren Goode: Since you became CEO, people say that there''s been a big culture
+    change. Do you agree with that assessment? Rene Haas: The thing that I''ve learned—I
+    knew this intrinsically when I worked for Jensen, but I certainly internalized
+    it when I took over here—is that the CEO sets the tone for the company. My training,
+    which ultimately develops who you are as a leader, was really accelerated by moving
+    to Silicon Valley 30 years ago, working with a few startups and then working for
+    Nvidia. And the common theme between all those companies is that I was working
+    for founders. At the time I couldn''t tell you, "Oh, working with founders, that''s
+    the kind of environment that I resonate with." But looking back, that’s where
+    I think my DNA was shaped and where I found the environment I thrive in. What
+    kind of environment is that exactly? Taking risks, bold growth, fast markets,
+    making mistakes, but at the same time, being willing to take big bets. So when
+    I took over here, I said, that’s the kind of culture I want. Was this Arm silicon
+    project already in the works when you became CEO? No. How much of this was your
+    idea, and how much of it was Masa’s? Was it his decision? No. I’m the CEO. Was
+    he very aware and involved in the trade-offs and various things we looked at?
+    Hundred percent. But this was more from a brainstorming perspective, as a partner
+    of ideas, as opposed to your boss telling you, “Yes to this, no to this.” He’s
+    not into that level of detail. One of the benefits from SoftBank’s 90 percent
+    ownership of ARM is that he''s our chairman, and he''s our biggest shareholder,
+    and as a result of that he’s someone I talk to all the time. We''re pretty close.
+    One analyst told me you talk to Masa 10 to 12 times per day. Some days. He does
+    like to talk on the phone. I am up all hours. He knows my personal schedule very
+    well. He knows when I get up, he knows my workout schedule. He knows when I go
+    to sleep. He''s pretty good about all that. What made you think this is the time
+    for Arm to do this chip? So somewhere along the way, we morphed from an IP company
+    into a compute platform company. And by that, I mean, when you think about the
+    role the CPU plays in any ecosystem, there''s such an interdependency between
+    the hardware of the CPU and the software ecosystem, whether it''s running Windows
+    or macOS or iOS or Android or Linux. I don''t think we acknowledged it or I don''t
+    think we understood its importance, but when I took over, I definitely knew that
+    this was who we were and it was something that we had to advance. So why would
+    we build a chip? When you’re a compute platform company, there are times when
+    the ecosystem benefits from you physically building something. We''ve seen this
+    in the past, whether it''s Microsoft building a Surface laptop that helps the
+    Windows ecosystem, while HP and Dell and Lenovo are still building laptops; or
+    whether it’s Google building a Pixel phone, but meanwhile, Samsung still builds
+    Android phones. Those products are still a sliver of their businesses. But it
+    benefits the ecosystem. If you think about Gemini on a Pixel platform, if Gemini
+    is optimized on Android, it helps Samsung. If you think about Microsoft developing
+    tools or applications for Surface that benefit Windows, it will benefit HP, Lenovo,
+    and Dell. That’s the thing that I think people haven''t always understood about
+    us. They say, "Oh, it''s an IP company." But the IP that we deliver is a compute
+    platform, and ultimately platform companies need to do things to move the ecosystem
+    forward. Photograph: David Paul Morris/Getty Images What’s the new chip called?
+    It’s the Arm AGI CPU. AGI as in, artificial general intelligence? That''s right.
+    You like it? I don’t dislike it. I wonder if AGI is a term that''s going to go
+    out of fashion at some point, as the industry collates around some other ideas
+    of super intelligence. I''m betting it won''t. Who''s your target customer for
+    this? The first customer is going to be Meta . But we also have SK Hynix, Cisco,
+    SAP, Cloudflare. We have multiple customers. And this is a chip designed for data
+    centers. Data centers. What makes this chip special? There''s a number of things,
+    but one is that it''s unbelievably power-efficient. This company was born from
+    building chips to run off of batteries or in mobile phones. So we have this mindset
+    around efficiency. And everything that you hear about the growth of AI is how
+    much energy is needed. So anything you can do to deliver the world''s most power-efficient
+    server CPU is all goodness. This is going to be the most power-efficient CPU.
+    The other thing that it’s going to be incredibly good at is running agentic AI.
+    One of the myths out there has been that with the rise of AI, the GPU or the accelerator
+    is everything. But when you look at how agents run inside the data center, that''s
+    work that only the CPU can do. The GPU doesn''t go away, but it needs far more
+    CPUs to run all the agents. Meta just struck two pretty big deals with Nvidia
+    and AMD, for both CPUs and GPUs. This includes Nvidia’s new Vera CPUs, which are
+    part of the bigger Vera Rubin superchip. That''s right. Which is Arm. Pardon my
+    French, but does launching your own CPU piss off a customer like Nvidia? Yeah,
+    so, back to the platform discussion … It raises all boats. That is a very convenient
+    answer. But it''s not inaccurate. The more software that''s written for Arm, the
+    more optimizations that are done for Arm—all of that helps anybody that builds
+    on Arm. The opportunity is massive. When you look at the amount of dollars associated
+    with the data center and AI growth, it''s just really large. To your question,
+    does it piss off Nvidia? I''d imagine it will piss off Intel and AMD more than
+    it pisses off Nvidia. Why is that? Because it takes market share from them. You’re
+    referring to the fact that it’s Intel’s x86 architecture versus Arm architecture.
+    So you don''t think you’ll piss off your pal, Jensen, but that AMD and Intel may
+    have some response to this. I use “piss off” as tongue-in-cheek. It''s beneficial
+    to the Arm ecosystem and it''s beneficial to Jensen that we build a chip. If you''ve
+    got [Nvidia’s] Vera chip, which is a great product, and you''ve got Arm AGI CPU,
+    which is a great product, it''s not great for Intel and AMD, that''s all I know.
+    Will Nvidia actually buy your CPU? Amazon execs appeared in a video at your event,
+    vouching for your chip—will Amazon, which already has its own chips, buy yours?
+    I’d love it if Jensen bought some, but the Vera CPU is already very closely coupled
+    to his own chip, and they have their own networking technology to connect all
+    their chips. And Amazon will probably continue to use their own Graviton chip.
+    But we didn’t build this for Amazon, we built it because we think the market for
+    Arm CPUs is really huge. It’s basically an underserved market. If you look at
+    some of the early customers we have, like Meta, which is going to be using our
+    chip in an air-cooled rack—they don’t need Nvidia’s NV Link. Or Cloudflare—they
+    can’t buy Amazon’s Graviton chip, and they don’t have the wherewithal to build
+    their own. Who is fabricating your chip? Co-packaging? Networking? TSMC. All TSMC.
+    We’re also building a reference design of a server. Not “we,” but, we''re working
+    with partners like Super Micro and Foxconn. In today''s day and age doing a chip
+    by itself isn''t enough. So we worked with partners in the ecosystem to deliver
+    a full solution in terms of a server rack. You are now going to have to answer
+    questions about volume and yield and gross margins. Yes. When I joined Arm from
+    Nvidia in 2013, I remember'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文中指出Arm此前从未生产自己的芯片，一直以授权架构为生。CEO Rene Haas表示，推出自己的Arm AGI CPU是为了“推动生态系统向前发展”，并非放弃授权业务，而是拓展业务版图，因此B项最准确。
+    options:
+      A: Transitioning from a pure IP licensing model to exclusively manufacturing
+        its own hardware.
+      B: Expanding its business model to include producing proprietary chips alongside
+        its established licensing business.
+      C: Abandoning its original RISC architecture to compete directly with Nvidia’s
+        GPU supremacy.
+      D: Scaling back its collaborative ventures to gain complete control over the
+        AI data center market.
+    q_number: 1
+    stem: Which of the following best describes the core strategic shift Arm is undertaking
+      according to the interview?
+  - answer: C
+    explanation: Haas将公司比作平台公司，认为推出芯片是为了“physically building something”以利于整个生态系统（ecosystem），这与微软Surface或谷歌Pixel的战略逻辑相似，旨在带动相关软件与硬件的协同。
+    options:
+      A: To demonstrate that Arm's architecture is superior to Intel's x86 in terms
+        of raw power.
+      B: To bypass the need for partnerships with major tech giants like Meta and
+        Cloudflare.
+      C: To act as a catalyst that benefits the entire ecosystem by optimizing hardware
+        for specific AI software needs.
+      D: To replace the GPU entirely in data centers by providing a more efficient
+        artificial intelligence accelerator.
+    q_number: 2
+    stem: What is the primary rationale Haas provides for Arm developing its own AGI
+      CPU?
+  - answer: B
+    explanation: Haas回应称“It raises all boats”，认为Arm的软硬件优化越多，对他现有的伙伴越有利。他承认这可能让Intel和AMD感到困扰（因为争夺市场份额），但认为这对Arm阵营整体是有益的。
+    options:
+      A: He denies the existence of any conflict and claims all competitors will benefit
+        equally.
+      B: He admits it creates tension but argues that the growth of the Arm ecosystem
+        raises all boats.
+      C: He expresses indifference, suggesting that Nvidia is no longer a significant
+        partner for Arm.
+      D: He asserts that Nvidia has already agreed to adopt the new AGI CPU for their
+        data centers.
+    q_number: 3
+    stem: How does Haas respond to the concern that his new product might alienate
+      loyal customers like Nvidia?
+  - answer: B
+    explanation: “Loosely held secret”通常指虽未正式公布但圈内人尽皆知的消息，表明该项目在行业内早有风声，具有极高的关注度和预期。
+    options:
+      A: The project was poorly managed and lacked proper security protocols.
+      B: The project was highly anticipated and widely whispered about within the
+        tech industry.
+      C: Arm purposefully leaked the information to attract potential investors.
+      D: The project was technically complex and difficult for outsiders to understand.
+    q_number: 4
+    stem: What does the author imply by describing the chip project as 'one of the
+      most loosely held secrets in the Valley'?
+  - answer: C
+    explanation: Haas提到他的DNA是在与创业者（founders）共事时形成的，他推崇“taking risks, bold growth,
+      fast markets”，这定义了他接手Arm后所倡导的文化。
+    options:
+      A: He prefers a cautious, risk-averse approach to maintain shareholder value.
+      B: He relies heavily on direct instruction and micromanagement from his chairman,
+        Masayoshi Son.
+      C: He values autonomy and adopts a risk-taking, growth-oriented culture derived
+        from his time with founders.
+      D: He remains focused exclusively on the financial metrics rather than the cultural
+        development of the company.
+    q_number: 5
+    stem: Based on the text, what characterizes Haas's leadership style compared to
+      his previous experiences?
+  source_journal: Wired
+  title: Chapter 4
