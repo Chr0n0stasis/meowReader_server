@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.22.2026",
+  "papers": [
+    {
+      "title": "Quantum computers take on health care: light-sensitive cancer drugs win US$2-million contest",
+      "article_update_date": "04.17.2026",
+      "source_journal": "Nature",
+      "body_text": "The winner of the Q4Bio US$2-million prize used the IBM Quantum System One computer, which is housed in the Cleveland Clinic, to do simulations.Credit: Ryan Lavine for IBM A team developing light-sensitive cancer drugs has won a US$2-million Quantum for Bio (Q4Bio) prize for demonstrating a potential use for quantum computers in health care. But no team was awarded the competition’s $5-million grand prize. Prize organizers announced the winning team, made up of researchers from quantum software firm Algorithmiq, based in Helsinki, technology giant IBM and the Cleveland Clinic hospital in Ohio, on 16 April. The winning group is working on improving a type of cancer drug that can be activated using light once it reaches a tumour, making it less toxic to the rest of the body than regular therapies are. The team members simulated the way in which one such drug molecule interacts with light. They eventually want to work out how tweaking the make-up of the active molecule in the drug affects its properties, with the hope of applying it to many cancer types. Such complex simulations are too difficult for today’s quantum computers to perform. Instead, the team used a hybrid technique, with computational chemistry methods for parts of the simulation and regular computers to process inputs and outputs, says Sabrina Maniscalco, a quantum physicist and the chief executive and co-founder of Algorithmiq. Hard problems The hardest parts of the simulation — replicating the way in which photons interact with electrons in a molecule — were performed on a nascent quantum computer at the Cleveland Clinic, she says. “It’s exactly the type of problem quantum computers are good at simulating,” she adds. These kinds of simulation can still be done using classical methods. However, the team won the US$2-million prize for demonstrating that the same algorithms, when run on more-capable quantum systems in the future, should be able to glean information about the molecules that would be impossible using classical simulations, Maniscalco says. The algorithms could also be applied to other molecular problems, such as the design of new antimicrobial drugs, she adds. Quantum computers are already tackling problems in physics and chemistry, with some researchers claiming to have performed calculations that would be impossible on classical machines, a capability called ‘quantum advantage’. But applications in biology have remained elusive. Although it was feasible for a team participating in the Q4Bio competition to achieve quantum advantage, that was not achieved — nor was it the explicit aim of the competition. Instead, research teams were challenged to develop algorithms and ways of working so that applications in biology would be ready once the hardware is in place, says Jonathan Hirst, a computational chemist at the University of Nottingham, UK. Hirst co-leads one of the finalist projects, which aims to improve a drug to treat the genetic disorder myotonic dystrophy. High bar The contest opened in 2023 with the backing of US-based Wellcome Leap, a non-profit organization based in San Diego, California, that was set up by UK charity the Wellcome Trust. When the competition started, “no one had taken the bold bet to connect” quantum computing and biology, says Shihan Sajeed, Q4Bio’s programme director. Dozens of entrants were whittled down to six in three stages, with finalists receiving up to $4.25 million in research funding across the duration of the 30-month challenge.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The winner of the Q4Bio prize ______ the IBM Quantum System One computer to perform complex simulations.",
+          "options": {
+            "A": "abandoned",
+            "B": "neglected",
+            "C": "discarded",
+            "D": "utilized"
+          },
+          "answer": "D",
+          "explanation": "Utilized意为利用，符合语义；其他选项均为负面词汇，与句意不符。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The team demonstrated a ______ use for quantum computers in health care.",
+          "options": {
+            "A": "pointless",
+            "B": "negligible",
+            "C": "potential",
+            "D": "impossible"
+          },
+          "answer": "C",
+          "explanation": "Potential表示潜在的，符合量子计算机在医疗领域的探索阶段性质。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The team was awarded a prize, but no team was ______ the $5-million grand prize.",
+          "options": {
+            "A": "refused",
+            "B": "denied",
+            "C": "awarded",
+            "D": "rejected"
+          },
+          "answer": "C",
+          "explanation": "根据上下文，没人获得大奖，故应填awarded的被动形式。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The team is working on improving a type of cancer drug that is ______ toxic to the rest of the body.",
+          "options": {
+            "A": "increasingly",
+            "B": "less",
+            "C": "permanently",
+            "D": "overly"
+          },
+          "answer": "B",
+          "explanation": "新型药物的设计目标是减少毒副作用，less toxic符合逻辑。"
+        },
+        {
+          "q_number": 5,
+          "stem": "They want to work out how tweaking the molecule affects its ______, with the hope of applying it to many cancer types.",
+          "options": {
+            "A": "defects",
+            "B": "properties",
+            "C": "failures",
+            "D": "shortcomings"
+          },
+          "answer": "B",
+          "explanation": "Tweaking the molecule affects its properties（性质），符合化学研究常识。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Such complex simulations are too difficult for today’s quantum computers to ______.",
+          "options": {
+            "A": "perform",
+            "B": "cancel",
+            "C": "ignore",
+            "D": "dismiss"
+          },
+          "answer": "A",
+          "explanation": "Perform在这里指进行模拟计算，与上文complex simulations搭配。"
+        },
+        {
+          "q_number": 7,
+          "stem": "The team used a hybrid technique to ______ inputs and outputs.",
+          "options": {
+            "A": "process",
+            "B": "reproduce",
+            "C": "obliterate",
+            "D": "duplicate"
+          },
+          "answer": "A",
+          "explanation": "Process inputs and outputs是计算机科学中的固定搭配。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The hardest parts of the simulation were ______ on a nascent quantum computer.",
+          "options": {
+            "A": "interrupted",
+            "B": "delayed",
+            "C": "postponed",
+            "D": "performed"
+          },
+          "answer": "D",
+          "explanation": "指任务在计算机上完成，performed最合适。"
+        },
+        {
+          "q_number": 9,
+          "stem": "“It’s exactly the type of problem quantum computers are good at ______,” she adds.",
+          "options": {
+            "A": "simulating",
+            "B": "avoiding",
+            "C": "neglecting",
+            "D": "skipping"
+          },
+          "answer": "A",
+          "explanation": "量子计算机擅长处理模拟任务，故选simulating。"
+        },
+        {
+          "q_number": 10,
+          "stem": "These kinds of simulation can still be done using ______ methods.",
+          "options": {
+            "A": "modern",
+            "B": "classical",
+            "C": "futuristic",
+            "D": "novel"
+          },
+          "answer": "B",
+          "explanation": "文中将传统计算方法称为classical methods。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The algorithms should be able to ______ information about the molecules.",
+          "options": {
+            "A": "miss",
+            "B": "overlook",
+            "C": "glean",
+            "D": "lose"
+          },
+          "answer": "C",
+          "explanation": "Glean意为收集、提取（信息），符合语境。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The algorithms could also be applied to other molecular problems, such as the ______ of new antimicrobial drugs.",
+          "options": {
+            "A": "design",
+            "B": "destruction",
+            "C": "abandonment",
+            "D": "elimination"
+          },
+          "answer": "A",
+          "explanation": "Design of drugs是常见的科学表达。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Quantum computers are already ______ problems in physics and chemistry.",
+          "options": {
+            "A": "triggering",
+            "B": "creating",
+            "C": "causing",
+            "D": "tackling"
+          },
+          "answer": "D",
+          "explanation": "Tackling意为解决（难题），与physics and chemistry中的问题搭配。"
+        },
+        {
+          "q_number": 14,
+          "stem": "But applications in biology have remained ______.",
+          "options": {
+            "A": "elusive",
+            "B": "obvious",
+            "C": "clear",
+            "D": "evident"
+          },
+          "answer": "A",
+          "explanation": "Elusive意为难以捕捉的，此处指量子在生物学应用上尚未成熟。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Although it was ______ for a team to achieve quantum advantage, that was not achieved.",
+          "options": {
+            "A": "impossible",
+            "B": "feasible",
+            "C": "unreachable",
+            "D": "unattainable"
+          },
+          "answer": "B",
+          "explanation": "Feasible意为可行的，与文中虽然可行但未达成相呼应。"
+        },
+        {
+          "q_number": 16,
+          "stem": "That was not the ______ aim of the competition.",
+          "options": {
+            "A": "implicit",
+            "B": "vague",
+            "C": "hidden",
+            "D": "explicit"
+          },
+          "answer": "D",
+          "explanation": "Explicit意为明确的，指那并不是比赛明确的目标。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Research teams were challenged to develop algorithms so that applications would be ready once the hardware is in ______.",
+          "options": {
+            "A": "chaos",
+            "B": "danger",
+            "C": "trouble",
+            "D": "place"
+          },
+          "answer": "D",
+          "explanation": "In place是固定短语，意为就位、准备好。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The project aims to improve a drug to treat the genetic ______ myotonic dystrophy.",
+          "options": {
+            "A": "advantage",
+            "B": "disorder",
+            "C": "benefit",
+            "D": "profit"
+          },
+          "answer": "B",
+          "explanation": "Genetic disorder意为遗传病，符合医学常识。"
+        },
+        {
+          "q_number": 19,
+          "stem": "When the competition started, no one had taken the bold ______ to connect quantum computing and biology.",
+          "options": {
+            "A": "risk",
+            "B": "threat",
+            "C": "bet",
+            "D": "challenge"
+          },
+          "answer": "C",
+          "explanation": "Bold bet意为大胆尝试，此处指敢于将两者结合。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Finalists received up to $4.25 million in research ______ across the duration of the 30-month challenge.",
+          "options": {
+            "A": "loss",
+            "B": "debt",
+            "C": "funding",
+            "D": "deficit"
+          },
+          "answer": "C",
+          "explanation": "Funding指科研经费，符合语境。"
+        }
+      ]
+    },
+    {
+      "title": "Britain’s diplomatic footprint is diminishing",
+      "article_update_date": "03.30.2026",
+      "source_journal": "Economist",
+      "body_text": "Britain’s diplomatic footprint is diminishing Britain | Losing grandeur Britain’s diplomatic footprint is diminishing The country’s overseas estate is crumbling and shrinking March 26th 2026 “Hard power”, Sir Keir Starmer told the Munich Security Conference in February, “is the currency of the age.” Such thinking helps explain his Labour government’s plans to downsize Britain’s Foreign, Commonwealth and Development Office. Spending is expected to fall by an average of 6.1% a year in real terms between now and 2028-29, estimates the Institute for Fiscal Studies, a think-tank: the largest cut to any department, compared with a 1.5% increase across government. The prime minister wants to boost spending on defence; diplomacy will be squeezed. Foreign aid will be hit hardest . But the Public and Commercial Services Union, which represents some foreign-office staff, expects cuts to all roles, including diplomatic and consular positions. Under current plans, between 15% and 25% of the workforce could lose their jobs. In some sections, the cuts will reportedly be even more severe. There are plans to chop 35% of roles in the analysis directorate, which is made up of subject-matter experts. Entire research areas will stop. On March 16th the union began balloting its members about taking industrial action. In addition to staff cuts, the foreign office plans to sell off more of its overseas estate, continuing a decades-long process. This has happened under Conservative and Labour governments alike. Under the Conservatives in 2018, for example, when Boris Johnson was foreign secretary, the British embassy in Bangkok was sold for £420m ($580m). The grand old building was demolished to make way for offices and shops. Edward Lister, a former aide to Mr Johnson, says he argued against the decision, as embassies are “a little bit of England, with the Union Jack flying”, and laments the loss to the country’s stature. The staff decamped to a nondescript corporate tower nearby. A valuable chunk of Britain’s compound in Tokyo was sold to Mitsubishi Estate Group, a developer, in a deal completed in 2022. A regular visitor to the embassy calls the sale “distasteful”. The site has a prestigious position opposite the Imperial Palace. “It is now”, one former government adviser says ruefully, “a building site.” More recently, the former British consulate-general’s office in Paris (pictured) was sold for £6.2m. Britain has also offloaded properties in Bilbao, Bogota, Lusaka and Montserrat. The bean-counters are eyeing a £12m apartment that was bought for a diplomat in New York. However, large embassy sales of the Bangkok sort are no longer in fashion. Sir Oliver Robbins, the foreign office’s top civil servant, told a committee of MPs in December that flogging historic properties could be “more hassle than it is worth”. Besides, there aren’t all that many left to choose from. According to the National Audit Office, today the foreign office owns only 27% of its properties. Fifteen years ago the foreign office’s figure was 46%. Some of those remaining have been gifted by host countries, with conditions stipulating that they cannot be sold. As for the 73% of its premises that Britain occupies but does not own, the government has often disposed of buildings to raise money, only to have to rent elsewhere or indeed in the exact same place. The consulate-general’s office in Munich was sold under a previous Labour government and then leased straight back. Some of the buildings that comprise the remaining £2.5bn portfolio are in a poor, sometimes even unsafe, condition—15% have been rated as such by the foreign office. Over the past 15 years, according to the response to a freedom-of-information request from The Economist, £1.46bn has been raised from auctioning off 215 assets overseas, largely to help fund repairs and upgrades elsewhere. A long, laborious process of minor sales now looks likely: an office here, a garden there. It promises to be an undignified, if discreet, syphoning off of assets. “We shape our buildings,” Winston Churchill said of the reconstruction of the House of Commons after the second world war, “and afterwards our buildings shape us.” Britain’s crumbling diplomatic footprint will do much the same. ■ For more expert analysis of the biggest stories in Britain, sign up to Blighty, our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//britain/2026/03/26/britains-diplomatic-footprint-is-diminishing",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the British government’s fiscal strategy for the Foreign, Commonwealth and Development Office is characterized by ________.",
+          "options": {
+            "A": "a shift of resources from defense to diplomatic operations",
+            "B": "the most significant budget reductions among all government departments",
+            "C": "an effort to increase foreign aid while consolidating staff roles",
+            "D": "a commitment to prioritize expertise within the analysis directorate"
+          },
+          "answer": "B",
+          "explanation": "文章明确提到 spending at the Foreign, Commonwealth and Development Office is expected to fall by 6.1% a year, which is described as 'the largest cut to any department' compared with other government sectors. 因此选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author cites the selling of the British embassy in Bangkok as an example of ________.",
+          "options": {
+            "A": "the pragmatic management of outdated colonial infrastructure",
+            "B": "a long-term trend of prioritizing fiscal revenue over national prestige",
+            "C": "the Labour government's specific agenda to reduce diplomatic costs",
+            "D": "a failed attempt to modernize diplomatic facilities"
+          },
+          "answer": "B",
+          "explanation": "文中指出这类资产出售并非个例，而是 'a decades-long process'，且在不同党派政府下均有发生，同时引用Edward Lister的观点暗示这种出售损害了国家地位（stature），故B项符合题意。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the phrase 'flogging historic properties' (Paragraph 4) most likely mean?",
+          "options": {
+            "A": "Restoring historical landmarks for public access",
+            "B": "Protecting heritage sites from urban development",
+            "C": "Selling old buildings for financial gain",
+            "D": "Demolishing structures that are unsafe"
+          },
+          "answer": "C",
+          "explanation": "根据上下文语境，flogging在此处与selling同义，指代出售历史性房产以筹集资金的行为。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the main problem the Foreign Office faces regarding its current property portfolio?",
+          "options": {
+            "A": "It lacks the autonomy to lease buildings back from private owners",
+            "B": "A majority of its premises are governed by restrictive ownership agreements",
+            "C": "It is forced to rent expensive spaces after selling off its own assets",
+            "D": "It receives little support from host countries for building repairs"
+          },
+          "answer": "C",
+          "explanation": "文中提到 the government has often disposed of buildings to raise money, only to have to rent elsewhere, 这表明出售资产后反而面临租赁成本，符合C项。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's tone toward the current state of Britain's diplomatic estate?",
+          "options": {
+            "A": "Appreciative of the government’s fiscal discipline",
+            "B": "Critical of the gradual erosion of national influence",
+            "C": "Neutral regarding the administrative necessity of budget cuts",
+            "D": "Hopeful about the future reconstruction of diplomatic assets"
+          },
+          "answer": "B",
+          "explanation": "文章使用了crumbling, shrinking, undignified, syphoning off等负面词汇，暗示作者对外交资产缩减导致国家影响力衰弱持批评态度。"
+        }
+      ]
+    },
+    {
+      "title": "Peru extends voting for president into Monday after chaos at polling stations",
+      "article_update_date": "04.13.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Peruvians will have to wait at least until the end of Monday to know the result of the presidential election held on Sunday, after the voting process descended into chaos in some polling stations due to a lack of ballot papers or defective computers. In an unprecedented move, Peru’s electoral agency ONPE announced on Sunday night that it would extend voting for an extra day to allow tens of thousands of Peruvians in the country and abroad, who had been unable to vote, to cast their ballots. Authorities said that 52,000 people would be allowed to vote on Monday after 15 polling stations in southern Lima had cancelled voting due to technical issues. Peru’s foreign ministry announced that several thousand voters living in the US cities of Paterson, New Jersey, and Orlando, Florida, would also be able to vote on Monday. The technical problems came amid unsubstantiated accusations of fraud and calls from candidates to extend voting into the night. Two former Lima mayors, an autocrat’s daughter and a comedian are contending to become Peru’s ninth president in a decade marked by intense political instability and corruption scandals. Exit polls, partial results, and independent tallies so far show that the four-time presidential candidate Keiko Fujimori is in the lead, though she is well short of the 50% needed to win outright, and it is still unclear who she will face in the second round. Voting is mandatory for Peruvians aged 18 to 70. Failure to vote carries a fine of up to $32. While 15 polling stations were shuttered on Sunday several others faced delays and voting began late. At a polling station in Lima’s Miraflores district on Sunday, frustrated voters chanted: “We want to vote!” One of them, Rosa María Yaksetig, said that voting had not begun until about 11.30am, adding: “The printers had run out of ink, and there was a fair amount of disorganisation, so people began to protest.” ONPE said that no official first‑round result would be available until after the additional voting had concluded on Monday.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Why did the Peruvian electoral agency decide to extend the voting period?",
+          "options": {
+            "A": "To accommodate international observers who arrived late.",
+            "B": "To address the high volume of voters during the weekend.",
+            "C": "To allow citizens who were unable to vote due to technical issues to participate.",
+            "D": "To respond to public protests demanding more time for candidate campaigning."
+          },
+          "answer": "C",
+          "explanation": "文章第二段明确提到，由于投票站缺乏选票或电脑故障导致混乱，ONPE决定延长投票时间，以便那些未能投票的境内外公民能够投票。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is mentioned as a factor contributing to the 'unprecedented' election day atmosphere?",
+          "options": {
+            "A": "The absence of mandatory voting requirements.",
+            "B": "Unsubstantiated fraud allegations and technical breakdowns.",
+            "C": "A complete lack of participation from foreign-based voters.",
+            "D": "The immediate disqualification of the leading candidate."
+          },
+          "answer": "B",
+          "explanation": "文章提到，技术问题发生的同时伴随着对舞弊的毫无根据的指控，这些因素使得此次投票过程显得不同寻常。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the current status of the presidential race according to the text?",
+          "options": {
+            "A": "Keiko Fujimori has won the election outright.",
+            "B": "The election results are confirmed and ready to be announced.",
+            "C": "It is certain that the comedian will face the autocrat's daughter in the second round.",
+            "D": "Keiko Fujimori leads but has not secured enough votes to avoid a second round."
+          },
+          "answer": "D",
+          "explanation": "文章指出，尽管Keiko Fujimori目前领先，但她未达到获胜所需的50%选票，因此尚不清楚谁将进入第二轮。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred about the voting system in Peru?",
+          "options": {
+            "A": "Voting is voluntary for all adult citizens.",
+            "B": "Failure to vote results in a significant financial penalty.",
+            "C": "The system is considered the most stable in the last decade.",
+            "D": "Technical malfunctions are non-existent in modern urban districts."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到投票是强制性的，不投票者将被处以最高32美元的罚款。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the phrase 'well short of' imply in the context of the passage?",
+          "options": {
+            "A": "A narrow lead.",
+            "B": "A significant distance from a goal.",
+            "C": "The complete failure of a campaign.",
+            "D": "The successful achievement of a threshold."
+          },
+          "answer": "B",
+          "explanation": "well short of 表示“远未达到”，在文中指代候选人所得票数与胜选所需的50%门槛之间有很大差距。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 53",
+      "article_update_date": "03.27.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Lexi Pandell The Big Story Jul 21, 2025 6:00 AM The Next Thing You Smell Could Ruin Your Life Millions of people suffer debilitating reactions in the presence of certain scents and chemicals. One scientist has been struggling for decades to understand why—as she battles the condition herself. Photograph: Amber Gomez After my birth, my mother became allergic to the world. That’s the only way I knew how to put it. So many things could set her off: new carpeting, air fresheners, plastic off-gassing, diesel. Perfumes were among the worst offenders. On top of that, she developed terrible food allergies. The sound of her sniffling became the chorus of my childhood. Some days she couldn’t get out of bed. I’d peek into her darkened room and see her face pinched in discomfort. Her joints ached, her head swam. Doctors suggested that maybe she was depressed or anxious. “Well, you’d be anxious too if you couldn’t lick an envelope, couldn’t pick up your daughter in a car,” she’d reply. She tried allergists, got nowhere. Finally, she found her way to holistic health, whose practitioners told her she had something called multiple chemical sensitivity. As long as people have complained that man-made stuff in their environment causes health problems—migraines and asthma, exhaustion and mood swings—the medical establishment has largely dismissed them. The American Medical Association, World Health Organization, and the American Academy of Asthma, Allergy & Immunology don’t recognize chemical sensitivity as a diagnosis. If they talk about it at all, they tend to dismiss it as psychosomatic, a malady of the neurotic and health-obsessed. Why, these authorities wondered, would people react to minute traces of a huge array of chemicals? And why couldn’t they ever seem to get better? This isn’t some trivial affliction. Roughly a quarter of American adults report some form of chemical sensitivity; it lives alongside chronic pain and fibromyalgia as both evidently real and resistant to mainstream diagnosis or treatment. My mom tried a thousand things—elimination diets, antihistamines, lymphatic massage, antidepressants, acupuncture, red light therapy, saunas, heavy-metal detoxes. Sometimes her symptoms eased, but she never got better. Her illness ruled our lives, dictating what products we bought, what food we ate, where we traveled. I felt there had to be an answer for why this was happening. It didn’t take me long to learn that, if there was one, it’d come from a figure as unassuming as she is provocative: the scientist Claudia Miller. On a warm Texas afternoon, Miller and her affable husband, Bob, lead me through the San Antonio Botanical Garden. A monarch flits by. “I’ve noticed so many fewer butterflies, so many fewer birds, even the last couple of years,” Miller observes. Her raspy voice comes out so quietly that, at times, my recording device fails to pick it up. People are perpetually leaning in close or asking her to repeat herself. At 78, Miller typically uses a cane, but Bob gets the walker out of the car so she can cover more distance. She wears her silver hair in a low side ponytail, fixed in place with a scrunchie. The line between science and wellness has been blurred beyond recognition. WIRED is here to help . With her wide, thin-rimmed glasses, Miller disappears into the scenery, but she’s a particularly visible presence in her field. Now a professor emeritus at the University of Texas Health Science Center at San Antonio, Miller has held several federal appointments, chaired National Institutes of Health meetings, testified before Congress, consulted for the Environmental Protection Agency, authored dozens of papers, and worked with the Canadian, German, Japanese, and Swedish governments. In all this, she has tried to make sense of and raise awareness for chemical intolerance. One patient advocate I interviewed called her “Saint Claudia” for her commitment to overlooked and misunderstood patients. Kristina Baehr, an attorney who defends victims of toxic exposures, told me, “To have experts like Dr. Miller tell them you’re not crazy, this is very real, is very life-giving to people. She’s able to validate their experience with facts, with science.” One such fact, Miller explains, is this: Over the past century, the United States has undergone a chemical revolution. “Fossil fuels, coal, oil, natural gas, their combustion products, and then their synthetic chemical derivatives are mostly new since World War II,” she says. “Plasticizers, forever chemicals, you name it: These are all foreign chemicals.” They’re everywhere you look, in homes and offices, parks and schools. They’re also, Miller believes, making people very sick. In 1997, Miller proposed a career-defining theory of how people succumb to this condition. It came with a technical-sounding name, toxicant-induced loss of tolerance, and a convenient acronym, TILT. You can lose tolerance after one severe exposure, Miller says, or after a series of smaller exposures over time. In either case, a switch is flipped: Suddenly, people are triggered by even tiny amounts of everyday substances—cigarette smoke, antibiotics, gas from their stoves—that never bothered them before. These people become, in a word, TILT-ed. It’s not unlike developing an allergy, when the body labels a substance as dangerous and then reacts accordingly. In 1999, Miller and her colleagues designed the Quick Environmental Exposure and Sensitivity Inventory, or QEESI (pronounced “queasy”), a survey to help doctors and researchers identify chemically intolerant patients. I’ve seen the QEESI cited in papers from 18 countries, but to date, most physicians still don’t know much about it. “It’s very frustrating to try to get these ideas across,” Miller says. The major problem is that, assuming TILT accurately describes the process of becoming chemically intolerant, we don’t know what biological changes occur inside the sensitized body, why so many symptoms crop up, or why one exposed person gets sick while others seem to walk away unscathed. But Miller thinks she’s closer than ever to an answer. At the botanical garden, we approach an orchid exhibit. Sticky heat engulfs us as we enter. Orchids of varying shapes and colors fill the greenhouse, including one with spindly chartreuse petals. “What do you call this?” Miller asks. My plant-ID app comes up empty. So it goes, too, for chemically intolerant patients: The condition defies easy observation. “The world becomes like a torture chamber, and then nobody believes you,” Miller says. “That’s the worst part.” After falling ill, some people become hermits out of fear of exposure, abandoning their friends and family to live in remote areas. For others, nothing can keep them from spinning out of control. My mother knew someone who tried to escape her triggers by moving to the country in a trailer. Eventually, even that became unmanageable, and the woman shot herself in the head. Imagine feeling incredibly sick every time you encounter a cloud of cologne or fresh paint, then being told you’re making it up. I thought about my mom. Sometimes, catering to her needs could feel exhausting. But what must that have been like for her? The thing was, I never doubted her condition—especially after what happened on one bad day. It’s time to tell you the worst thing I have ever done to another person. When I was 10, my parents and I attended a family reunion. The trip was difficult. We fought nonstop. Everyone cried. The photographer hired to capture a family portrait accidentally exposed the film to light, and it was just as well. If we could have wiped the whole week from our minds, we would have. During that ill-fated trip, my aunt gifted me a set of scented lip balms. My mom offered her a tight smile but, once we were alone, told me to toss them out. Instead, I hid them and, soon, weaponized them. After yet another argument, I sneaked into my mom’s room, peeled back her pillow case, and smeared the lip balms directly onto her pillow. Later that night, as she tried to sleep, she kept waking up, sicker and sicker, her head pounding. Finally, her nose helped her uncover what I’d done. She found the telltale smudges. The next day, my dad told me how she’d sobbed and howled, “Why would she do this to me?” It remains, for me, a source of immense guilt. Later, I realized it was also the crumb of proof I needed. This was not all in my mother’s head. I’m at Miller’s condo across the street from the UT Health Science Center, with Miller and two of her collaborators. Her dining room table is lined with household products—a votive candle, a box of matches, body lotion, scented dish detergent. Beside them are chunky gadgets that look like something out of Ghostbusters . These are particulate monitors, which measure down to parts per billion. They need to be hypersensitive, because products like the ones on the table expel tiny molecules, and people with chemical intolerance seem to react to even minuscule doses. It’s akin to someone having an allergic reaction to a bag of peanuts opened on the other end of the airplane. One of her collaborators strikes a single match in front of a sensor. The number on the screen rockets from 0 to almost 500,000 parts per billion. It’s not always about what the nose can detect—though, in this case, sulfur dioxide fills the room. Last year, Miller’s team published research on house calls for nearly 40 people with chemical intolerance. They measured indoor pollution from products like these, as well as other irritants like dust and mold, and performed blood tests for allergies. Then they recommended tossing out scented candles or moving cans of gasoline from an attached garage to a separate storage unit, and gifted the subjects natural cleaning products. They retested the homes several more times over the course of the year. As the indoor pollution decreased, the subjects’ symptoms improved. For years, research like this convinced Miller that there was, indeed, something very wrong with her patients. But, again, that pesky mechanism for disease eluded her. Then she learned more about mast cells. Mast cells are a type of white blood cell that exists in nearly every tissue, including the skin, airways, and gastro-intestinal tract. When they detect something harmful, they can release hundreds of mediators, including histamine, substances that create symptoms like hives or swelling during anaphylactic shock. If the cells become overreactive, releasing too many mediators at the wrong time, a person can end up flushed, dizzy, wheezy, or exhausted. This is called mast cell activation syndrome, or MCAS. When Miller came across a book on the subject by Lawrence Afrin, a hematologist and mast cell disease researcher based in New York, she thought it sounded a lot like chemical intolerance. She called him. Many of his MCAS patients, it turned out, were sensitive to fragrances and medications. In 2021, Miller published what she considers her second eureka moment: a paper, coauthored with Afrin and others, that explains a potential link between TILT and MCAS. The team surveyed MCAS patients and found that those who scored high on MCAS questionnaires scored high on the QEESI. These patient groups also had nearly identical symptom patterns. Had Miller’s patients had mast cell activation syndrome this whole time? MCAS is a tricky disease to diagnose and treat, but it was something. An answer for the scientific community. An answer for her patients. And an answer for herself. Because that’s the other part of this story, the part Miller hasn’t been comfortable talking about until now: She, the condition’s leading researcher, suffers from chemical intolerance too. Miller has difficulty searching her memory about her past. Exact years don’t come back to her, her retellings wander. Attribute it to age or brain fog or both. Still, over hours of conversations and dozens of emails, her story came together. Born in Milwaukee as the only child of a patent attorney and a teacher, Miller was drawn to science from a young age. After earning her BA in molecular biology from the University of Wisconsin–Madison and her",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes the attitude of the 'medical establishment' toward chemical sensitivity, as discussed in the text?",
+          "options": {
+            "A": "They consider it a legitimate physiological disorder.",
+            "B": "They generally view it as a psychosomatic condition.",
+            "C": "They are actively funding research to find a cure.",
+            "D": "They acknowledge it as a chronic pain syndrome."
+          },
+          "answer": "B",
+          "explanation": "The text explicitly states that the medical establishment, including organizations like the AMA, 'tend to dismiss it as psychosomatic, a malady of the neurotic and health-obsessed,' reflecting a dismissive rather than supportive stance."
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary function of the TILT (toxicant-induced loss of tolerance) theory proposed by Claudia Miller?",
+          "options": {
+            "A": "To categorize the types of chemicals found in modern homes.",
+            "B": "To explain the biological mechanism behind mast cell activation.",
+            "C": "To describe how people develop extreme sensitivity to common substances.",
+            "D": "To serve as a diagnostic test for patients with chronic allergies."
+          },
+          "answer": "C",
+          "explanation": "TILT describes the process where, after an initial severe exposure or cumulative smaller exposures, a 'switch is flipped,' making individuals hypersensitive to substances that previously did not bother them."
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does the author recount the story of weaponizing scented lip balms against her mother?",
+          "options": {
+            "A": "To illustrate the severity of her mother’s illness through personal guilt.",
+            "B": "To explain why her mother decided to move to a remote area.",
+            "C": "To demonstrate the effectiveness of various detoxification methods.",
+            "D": "To prove that the mother's reaction was entirely psychological."
+          },
+          "answer": "A",
+          "explanation": "The author uses this painful memory as 'the crumb of proof' she needed, showing that her mother’s suffering was real and triggered by specific chemical exposure, countering the notion that it was all in her head."
+        },
+        {
+          "q_number": 4,
+          "stem": "What was the significance of Miller’s collaboration with hematologist Lawrence Afrin?",
+          "options": {
+            "A": "It proved that TILT and MCAS are identical medical conditions.",
+            "B": "It led to the development of a new survey tool called QEESI.",
+            "C": "It provided a potential biological explanation linking TILT to mast cell activation.",
+            "D": "It helped identify environmental toxins in the San Antonio Botanical Garden."
+          },
+          "answer": "C",
+          "explanation": "Miller’s research with Afrin suggested that many patients previously diagnosed with or suffering from TILT might actually have mast cell activation syndrome (MCAS), offering a biological link to the symptoms."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main implication of the house call research conducted by Miller’s team?",
+          "options": {
+            "A": "Chemical intolerance is primarily caused by mold in garages.",
+            "B": "Reducing indoor pollution can lead to the improvement of patients' symptoms.",
+            "C": "Particulate monitors are inaccurate for detecting household chemicals.",
+            "D": "Most patients can be cured if they stop using scented candles."
+          },
+          "answer": "B",
+          "explanation": "The research showed that when indoor pollution (from products like gasoline, candles, etc.) was decreased in the homes of chemically intolerant patients, their symptoms notably improved."
+        }
+      ]
+    }
+  ]
+}
