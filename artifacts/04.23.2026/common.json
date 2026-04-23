@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.23.2026",
+  "papers": [
+    {
+      "title": "Ambiphilic cross-coupling with aryl-bismuth reagents",
+      "article_update_date": "04.10.2026",
+      "source_journal": "Nature",
+      "body_text": "Cross-coupling reactions traditionally permit the formation of Ar-Ar bonds between an aryl nucleophile and an aryl electrophile under transition metal catalysis1,2. The high selectivity of the myriad of couplings known to date relies on a tailored combination of nucleophilic and electrophilic coupling partners, enabled by the mechanistic distinction between nucleophiles and electrophiles, which undergo fundamentally different catalytic steps.3 Here, we report ambiphilic aryl-bismuth reagents that can behave as either nucleophiles or electrophiles in transition metal-catalysed cross-couplings, fundamentally breaking from this dichotomy in reactivity. Their ambiphilic reactivity arises from their ability to engage in both oxidative addition and transmetalation processes with transition metal complexes, as demonstrated by stoichiometric and mechanistic studies. By demonstrating that a single aryl reagent can engage in both canonical elementary steps, this work challenges the long-standing assumption that intrinsic bond polarity rigidly dictates mechanistic role in cross-coupling chemistry.",
+      "difficulty_constant": 12.8,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Cross-coupling reactions traditionally ____ the formation of Ar-Ar bonds.",
+          "options": {
+            "A": "resemble",
+            "B": "impede",
+            "C": "ignore",
+            "D": "facilitate"
+          },
+          "answer": "D",
+          "explanation": "Permit表示允许或使成为可能，facilitate与语境中的传统反应功能一致。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The high selectivity of the myriad of couplings ____ on a tailored combination.",
+          "options": {
+            "A": "relies",
+            "B": "insists",
+            "C": "collides",
+            "D": "presumes"
+          },
+          "answer": "A",
+          "explanation": "Relies on是固定搭配，意为依赖于。"
+        },
+        {
+          "q_number": 3,
+          "stem": "____ enabled by the mechanistic distinction between nucleophiles and electrophiles.",
+          "options": {
+            "A": "specifically",
+            "B": "seldom",
+            "C": "hardly",
+            "D": "largely"
+          },
+          "answer": "D",
+          "explanation": "Largely表示很大程度上，符合科学论文客观描述的语气。"
+        },
+        {
+          "q_number": 4,
+          "stem": "which undergo fundamentally ____ catalytic steps.",
+          "options": {
+            "A": "different",
+            "B": "similar",
+            "C": "constant",
+            "D": "identical"
+          },
+          "answer": "A",
+          "explanation": "因为核亲核试剂和亲电试剂区分明确，所以经历的催化步骤是不同的。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Here, we report ambiphilic aryl-bismuth reagents that can ____ as either nucleophiles or electrophiles.",
+          "options": {
+            "A": "act",
+            "B": "perform",
+            "C": "function",
+            "D": "behave"
+          },
+          "answer": "D",
+          "explanation": "Behave as在此表示表现为……的角色，符合 reagents 的语义环境。"
+        },
+        {
+          "q_number": 6,
+          "stem": "fundamentally breaking from this ____ in reactivity.",
+          "options": {
+            "A": "dichotomy",
+            "B": "consensus",
+            "C": "harmony",
+            "D": "category"
+          },
+          "answer": "A",
+          "explanation": "Dichotomy指二分法或对立，这里指亲核和亲电的截然区分。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Their ambiphilic reactivity ____ from their ability to engage in both.",
+          "options": {
+            "A": "results",
+            "B": "departs",
+            "C": "deviates",
+            "D": "arises"
+          },
+          "answer": "D",
+          "explanation": "Arise from表示由……产生，是因果逻辑表达。"
+        },
+        {
+          "q_number": 8,
+          "stem": "____ in both oxidative addition and transmetalation processes.",
+          "options": {
+            "A": "interfere",
+            "B": "participate",
+            "C": "engage",
+            "D": "collide"
+          },
+          "answer": "C",
+          "explanation": "Engage in是文中出现的短语，表示参与。"
+        },
+        {
+          "q_number": 9,
+          "stem": "with transition metal ____, as demonstrated by studies.",
+          "options": {
+            "A": "elements",
+            "B": "mixtures",
+            "C": "complexes",
+            "D": "solvents"
+          },
+          "answer": "C",
+          "explanation": "在配位化学中，transition metal complexes（过渡金属配合物）是标准术语。"
+        },
+        {
+          "q_number": 10,
+          "stem": "as ____ by stoichiometric and mechanistic studies.",
+          "options": {
+            "A": "assumed",
+            "B": "demonstrated",
+            "C": "rejected",
+            "D": "abandoned"
+          },
+          "answer": "B",
+          "explanation": "Demonstrated表示被证实，体现科学研究的客观性。"
+        },
+        {
+          "q_number": 11,
+          "stem": "By ____ that a single aryl reagent can engage in both.",
+          "options": {
+            "A": "negating",
+            "B": "demonstrating",
+            "C": "conceding",
+            "D": "ignoring"
+          },
+          "answer": "A",
+          "explanation": "此处逻辑应为反转，故选B（否定原有认知）。"
+        },
+        {
+          "q_number": 12,
+          "stem": "this work ____ the long-standing assumption.",
+          "options": {
+            "A": "challenges",
+            "B": "verifies",
+            "C": "supports",
+            "D": "endorses"
+          },
+          "answer": "C",
+          "explanation": "Challenges与全文打破传统认知的核心论点呼应。"
+        },
+        {
+          "q_number": 13,
+          "stem": "the ____ assumption that intrinsic bond polarity.",
+          "options": {
+            "A": "long-standing",
+            "B": "novel",
+            "C": "temporary",
+            "D": "transient"
+          },
+          "answer": "D",
+          "explanation": "Long-standing表示长期存在的，与上下文反转传统相呼应。"
+        },
+        {
+          "q_number": 14,
+          "stem": "that intrinsic bond polarity ____ dictates mechanistic role.",
+          "options": {
+            "A": "rigidly",
+            "B": "vaguely",
+            "C": "loosely",
+            "D": "barely"
+          },
+          "answer": "B",
+          "explanation": "Rigidly表示严格地，强调了该理论的僵化性。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The study offers a new ____ on chemical reactivity.",
+          "options": {
+            "A": "perspective",
+            "B": "dispute",
+            "C": "objection",
+            "D": "hesitation"
+          },
+          "answer": "B",
+          "explanation": "Perspective表示视角，是学术论文常用的概括性词汇。"
+        },
+        {
+          "q_number": 16,
+          "stem": "These results ____ that traditional models were incomplete.",
+          "options": {
+            "A": "suggest",
+            "B": "disprove",
+            "C": "question",
+            "D": "fabricate"
+          },
+          "answer": "C",
+          "explanation": "Suggest与科学论证的谨慎语气相吻合。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The ____ of bismuth reagents opens new paths.",
+          "options": {
+            "A": "versatility",
+            "B": "instability",
+            "C": "rigidity",
+            "D": "limitation"
+          },
+          "answer": "B",
+          "explanation": "Versatility（多功能性）与文中提到的双亲性功能契合。"
+        },
+        {
+          "q_number": 18,
+          "stem": "which ____ previously established boundaries.",
+          "options": {
+            "A": "maintain",
+            "B": "adhere",
+            "C": "follow",
+            "D": "transcend"
+          },
+          "answer": "A",
+          "explanation": "Transcend表示超越，符合对传统边界的突破。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Future research will ____ further explore these mechanisms.",
+          "options": {
+            "A": "scarcely",
+            "B": "likely",
+            "C": "seldom",
+            "D": "never"
+          },
+          "answer": "B",
+          "explanation": "Likely表示很可能，常用于展望未来研究。"
+        },
+        {
+          "q_number": 20,
+          "stem": "providing a broader ____ for catalysis.",
+          "options": {
+            "A": "dilemma",
+            "B": "obstacle",
+            "C": "framework",
+            "D": "deficit"
+          },
+          "answer": "C",
+          "explanation": "Framework表示框架，是描述理论体系的常用词。"
+        }
+      ]
+    },
+    {
+      "title": "How big is Big <i>G</i>? Mystery deepens after ten-year effort to measure gravity’s strength",
+      "article_update_date": "04.21.2026",
+      "source_journal": "Nature",
+      "body_text": "Stephan Schlamminger (left) and colleague Vincent Lee with the equipment used to measure big G.Credit: R. Eskalis/NIST The value of the constant that describes the gravitational pull between objects, Big G, continues to baffle scientists. A decade-long replication experiment1 that involved moving equipment across the Atlantic has resulted in a number that disagrees with previous results, and also differs from the current best estimate of G. The new measurement gives important clues as to where the original experiment, conducted by researchers at the International Bureau of Weights and Measures (BIPM) in Paris and published in 2013, went wrong. But its failure to match the internationally agreed CODATA value has left physicists no closer to pinning down G’s true value. Is gravity quantum? Experiments could finally probe one of physics’ biggest questions The work is “soul draining”, says Stephan Schlamminger, a physicist at the US National Institute of Standards and Technology (NIST) in Gaithersburg, Maryland, who led the latest work. But he says he is driven by the challenge. “It must be possible for humans to measure this number.” Studies of G have also often had to be a side hustle for scientists because, although it describes the strength of gravity, its value is rarely needed in practice. Most applications, such as calculating the motions of planets, only require the value of G multiplied by a mass, such as that of the Sun, and measurements can determine the combined value to high precision. Although hunting for G helps to “sharpen your axe” for other precision experiments, right now “it’s a pretty useless number”, says Schlamminger. The “meticulous” work of the NIST team should help future experimenters, says Richard Brown, a metrologist at the UK National Physical Laboratory in Teddington. The work “is a great leap forward in this respect”, he says. Fiendish force Efforts to measure the gravitational constant date back to 1798, and since then have expanded to encompass a variety of methods, involving swinging pendulums, balancing masses and charting the paths taken by atoms. “In my opinion, it is the most challenging laboratory experiment of all,” says Christian Rothleitner, a physicist at the German National Metrology Institute (PTB) in Braunschweig. Part of the problem is that, compared with the other forces of nature — electromagnetism and the strong and weak nuclear forces — gravity is trillions of trillions of times weaker; pick up any object and you defy the pull of an entire planet. It is also impossible to shield experiments against unwanted gravitational forces, which makes G hard to isolate. With an uncertainty of about 1 part in 5,000, Big G remains the fundamental constant that is known least precisely today, and known experimental errors cannot account for the spread of values. Crisis measures The NIST replication effort came out of a crisis meeting held at NIST in 2014, which brought rival experimenters together to try to hash out a way forwards. Schlamminger was “roped in” to try to work out why the 2013 BIPM result was such an outlier, says Jens Gundlach, an experimental physicist at the University of Washington in Seattle. “The Big G community begged him to do this and he begrudgingly took on this job.” The BIPM’s apparatus was shipped to NIST in 2016. The oldest way to determine Big G, and the one applied by Schlamminger’s team and the BIPM, involves measuring the gravitational attraction between two masses — which sit at either end of a suspended rod — and two larger nearby masses, by gauging how much the pull causes the rod to twist. The most recent version involved two concentric rings of masses and used multiple ways of gauging the pull. To avoid unconsciously skewing the results, the team blinded the experiment by having an independent outsider add an unknown offset, which was only removed by the team at the end.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why does the value of Big G remain a challenge for scientists?",
+          "options": {
+            "A": "Its measurement is frequently required in daily astrophysical calculations.",
+            "B": "The experimental methods developed since 1798 have proven to be largely ineffective.",
+            "C": "Gravity is exceptionally weak and cannot be shielded from external interference.",
+            "D": "Researchers have failed to reach a consensus on the need to pursue this constant."
+          },
+          "answer": "C",
+          "explanation": "文章第三段明确指出，引力比其他自然力弱万亿亿倍，且无法屏蔽环境中的引力干扰，这导致G值极难被分离测量。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What can be inferred about the NIST team's replication experiment from the text?",
+          "options": {
+            "A": "It confirmed the 2013 BIPM results as the most accurate measurement to date.",
+            "B": "It was designed to help physicists identify why previous measurements were inconsistent.",
+            "C": "It successfully provided the exact, universally accepted value for the gravitational constant.",
+            "D": "It was primarily funded by the international scientific community to challenge existing theories."
+          },
+          "answer": "B",
+          "explanation": "文章第一段和第四段提到，NIST的实验旨在找出BIPM 2013年实验结果出现偏差的原因，并希望通过重复实验解决G值不一致的问题。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The phrase 'side hustle' in the second paragraph implies that studying G is often considered by scientists as:",
+          "options": {
+            "A": "A secondary research interest that lacks practical urgency.",
+            "B": "A highly lucrative endeavor despite its technical difficulties.",
+            "C": "A mandatory task required by their primary institutional employers.",
+            "D": "An essential preliminary step for all precision-based physics experiments."
+          },
+          "answer": "A",
+          "explanation": "文章第二段指出，因为G值在实践中很少用到，科学家们往往将其作为一种副业（side hustle），这暗示了该研究缺乏即时的应用紧迫性。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the NIST team attempt to ensure the objectivity of their experiment?",
+          "options": {
+            "A": "By utilizing multiple types of pendulums to balance the experimental masses.",
+            "B": "By conducting the experiment in a shielded environment to negate magnetic fields.",
+            "C": "By employing an independent third party to add an unknown offset to the data.",
+            "D": "By collaborating with rival researchers to refine the calculation process."
+          },
+          "answer": "C",
+          "explanation": "文章最后一段提到，为了避免主观偏差，研究团队采取了盲测方法，由外部人员加入一个未知偏移量，直到实验结束才移除。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's primary attitude toward the ongoing quest to pin down Big G?",
+          "options": {
+            "A": "Skeptical of the necessity of such time-consuming efforts.",
+            "B": "Concerned about the lack of international funding for metrology.",
+            "C": "Objective and descriptive regarding the difficulty and importance of the work.",
+            "D": "Critical of the competitive nature of the scientists involved."
+          },
+          "answer": "C",
+          "explanation": "文章通篇客观陈述了G值测量的历史、难度、科学家的动机以及目前的科学挑战，未表现出明显的个人主观偏见，体现了高级科普文章的客观性。"
+        }
+      ]
+    },
+    {
+      "title": "Michel Rolland was the world’s first flying winemaker",
+      "article_update_date": "04.07.2026",
+      "source_journal": "Economist",
+      "body_text": "Michel Rolland was the world’s first flying winemaker Obituary | The vine whisperer Michel Rolland was the world’s first flying winemaker The controversial oenologist died on March 20th, aged 78 April 1st 2026 WINE is a simple product: yeast converts the sugar in grape juice into alcohol and carbon dioxide through fermentation. People have been making it—or, for much of human history, allowing it to be made by stepping back and letting nature and wild yeasts take their course—for more than 8,000 years. After the flood, Noah planted a vineyard (and then “drank of the wine and became drunk and lay uncovered”). Jesus’s first miracle was turning water into wine. Nearly a millennium ago Omar Khayyam, a Persian mathematician, astronomer and poet, asserted that “Wilderness would be paradise” with just “a jug of wine, a loaf of bread and Thou / Beside me singing”. And yet most of it—probably most of the wine ever drunk for most of human history—was probably not very good. Nature takes a long time to turn juice into wine; sometimes what it made was delicious, but sometimes it was undrinkable, or at best generously called “complex”. Even after Louis Pasteur proved that yeasts turned glucose into ethanol, and winemakers identified an optimal strain (Saccharomyces cerevisiae), climatic conditions, storage, soil quality and a thousand other variables all made the final product equally variable. Some consider this part of wine’s romance. It is, after all, a living thing, as people are. And like people, it starts out immature and uninteresting, but gradually grows into itself. It encompasses countless variations in upbringing, care and temperament that produce wildly different results, not all of which are to everyone’s taste. People develop their own preferences, in wines just as in friends or mates. Michel Rolland had little patience for such starry-eyed babble. Wine is an agricultural product made by human hands, and like anything else people make, it could be improved. Which is not to say that he scorned the romance and lineage of wine—especially French wine. He was, after all, born into a family of vintners in Pomerol, on Bordeaux’s right bank. His grandparents founded Château Le Bon Pasteur, which still produces velvety, elegant reds, and he spent his school holidays riding the tractor and helping with the harvest: “There was no question of doing anything else,” he once said. But he left the vineyards first for university, where he studied oenology, and then for a laboratory that he joined with his wife in Libourne, on the banks of the Dordogne, to chemically analyse wines. This was in the mid-1970s, in the midst of a bad stretch for Bordeaux. Poor weather led to a series of bad vintages; rumours of adulterated wine had crippled sales; and financial pressures left many chateaux strapped for cash. Vintners, by and large, made wines the way their parents and grandparents did, relying on intuition and tradition. Mr Rolland started consulting for local wineries, advising them on how to produce better products based on his observations in the lab. He stressed the importance of waiting to pick grapes until they were fully ripe, avoiding the lean, thin flavours that once defined Bordeaux, and reminding vintners that winemaking starts in the field, not the cellar. Burly and bearded, with a ready laugh and a renowned gift for blending grapes, he also started visiting California just as Napa and Sonoma valleys were coming into their own, and the newly flush baby-boom generation began taking a serious interest in wines. Robert Parker, a critic who ranked wines on a 100-point scale and who, like Mr Rolland, became equally renowned and reviled, began his career at around the same time (the two were born just months apart), and the confluence of their tastes changed the wine industry. They both liked ripe, plush and fruit-forward red, high in alcohol and low in acidity, with heavy notes of sweetness and roundness from new oak barrels used for ageing. Mr Parker rated such wines favourably, which boosted sales, and Mr Rolland helped vintners produce them. Mr Rolland, who consulted for vintners as far afield as India, South Africa and Israel, insisted that he did not impose a style; he simply helped ambitious vintners understand what their terroir could produce. His critics did not let him off so easily. “Mondovino”, a muckraking documentary about wine and globalisation released in 2004, showed him being chauffeured, barking into a mobile phone (before they were ubiquitous) and calling himself winkingly, in English, a “flying winemaker”. Small-scale winemakers talked reverently about (and sometimes to) their vines, and discussed the wines they produce as a religious experience and a communion with their earth and climate, and deriding contemporary Bordeaux because it “worships only money”. Mr Rolland, meanwhile, derided the “peasants, bumpkins [and] hicks” standing in the way of progress. He told a chateau owner to “micro-oxygenate” her wines. Asked if she understands what micro-oxygenation means, Mr Rolland answered: “No, but she doesn’t give a damn. If she understood everything she wouldn’t need me. If I say micro-oxygenate, she micro-oxygenates. If it doesn’t work, she fires me.” Mr Rolland said the film was good for business. After all, it showed him as he was: decisive and thoughtful, with a ready laugh, and above all, successful. Vintners took his advice because it worked. People liked, and bought, the wines he helped create. Nostalgia was a mug’s game: in a late-career interview with the New York Times, he recalled that when he first started going to Napa, you could taste all the good wine produced in the county “in an hour”. Now, he “couldn’t taste all the good wines in a week”. Some may complain that too many wines taste too similar, but if that’s what the market wants, that is what vintners will make. “Wine is done for what? The public! Wine is a business. They want to make wine to sell wine.” ■ This article was downloaded by zlibrary from https://www.economist.com//obituary/2026/04/01/michel-rolland-was-the-worlds-first-flying-winemaker",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first two paragraphs, how did people historically view the winemaking process?",
+          "options": {
+            "A": "It was considered a strictly scientific endeavor requiring laboratory precision.",
+            "B": "It was often regarded as a mysterious, nature-driven process with unpredictable results.",
+            "C": "It was viewed as a highly standardized trade passed down through ancient religious rites.",
+            "D": "It was strictly controlled by mathematicians and poets to ensure quality consistency."
+          },
+          "answer": "B",
+          "explanation": "The text states that for most of human history, people allowed wine to be made by 'letting nature and wild yeasts take their course' and notes that sometimes the wine was delicious, while other times it was undrinkable, highlighting the lack of predictability."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by describing Michel Rolland's attitude toward wine as an 'agricultural product'?",
+          "options": {
+            "A": "He believed winemaking should be left entirely to the intuition of traditional peasants.",
+            "B": "He prioritized the romantic, ancestral heritage of wine over market success.",
+            "C": "He viewed winemaking as a technical process that could be improved through human intervention.",
+            "D": "He advocated for abandoning modern technology in favor of historical farming methods."
+          },
+          "answer": "C",
+          "explanation": "The text contrasts Rolland’s view with 'starry-eyed babble' and states he believed that, like anything else people make, wine 'could be improved,' suggesting a proactive, analytical approach rather than a passive, traditional one."
+        },
+        {
+          "q_number": 3,
+          "stem": "Which factor significantly contributed to the shift in the wine industry involving Rolland and Robert Parker?",
+          "options": {
+            "A": "The global decline in the popularity of French wines.",
+            "B": "The widespread rejection of new oak barrels in favor of traditional containers.",
+            "C": "A shared aesthetic preference for wines that were ripe, plush, and fruit-forward.",
+            "D": "The sudden discovery of new grape varieties in the California wine region."
+          },
+          "answer": "C",
+          "explanation": "The text explicitly states that the 'confluence of their tastes changed the wine industry' and that both men liked wines that were 'ripe, plush and fruit-forward,' with high alcohol and low acidity."
+        },
+        {
+          "q_number": 4,
+          "stem": "How did Rolland respond to the criticism presented in the documentary 'Mondovino'?",
+          "options": {
+            "A": "He felt deeply regretful and apologized to his critics for his arrogance.",
+            "B": "He dismissed the criticisms as irrelevant because he was primarily a consultant for small-scale farmers.",
+            "C": "He viewed the exposure as a positive business development that highlighted his decisiveness.",
+            "D": "He attempted to hide his methods to avoid further scrutiny from the global media."
+          },
+          "answer": "C",
+          "explanation": "The article mentions that Mr. Rolland said the film was 'good for business' because it showed him as 'decisive and thoughtful, with a ready laugh, and above all, successful.'"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary message conveyed by Rolland in his final remarks regarding the wine industry?",
+          "options": {
+            "A": "Winemaking should aim to preserve historical diversity at all costs.",
+            "B": "Market demand is the ultimate driver of modern winemaking practices.",
+            "C": "Personal taste is far more important than commercial viability.",
+            "D": "Nostalgia is the most reliable guide for successful wine production."
+          },
+          "answer": "B",
+          "explanation": "Rolland explicitly states, 'Wine is a business. They want to make wine to sell wine,' and argues that if the market wants similar-tasting wines, that is what vintners will provide, emphasizing commerce over nostalgia."
+        }
+      ]
+    },
+    {
+      "title": "The Camps Promising to Turn You—or Your Son—Into an Alpha Male",
+      "article_update_date": "04.04.2026",
+      "source_journal": "New Yorker",
+      "body_text": "The Camps Promising to Turn You—or Your Son—Into an Alpha Male American Chronicles The Camps Promising to Turn You—or Your Son—Into an Alpha Male At the Men of War Crucible, you bear-crawl through rivers. At Warrior Week, you dig your own grave. At the Squire Program, your teen-ager can take part, too. By Charles Bethea March 30, 2026 Among the written works credited to Donald Trump is the foreword to a book from 2024 called “Alpha Kings.” The book’s author, Nick Adams, is a bearded and broad-faced former deputy mayor of a suburb of Sydney, where he tried and failed to get rid of the local pigeon population. In the foreword, Trump calls Adams, who is now an American citizen and an internet personality, “one of my favorite authors,” and praises his commitment to “fighting for the qualities that make alpha males so special.” Adams loves the restaurant chain Hooters, “ice cold domestic beers,” and belittling women. “Let me explain something to you, sweetheart,” one dialogue between Adams and a probably apocryphal woman, which he posted on X, begins. “I am an alpha male . . . I lead, you follow. You are the supporting cast, I am the main character.” In the book, Adams calls Trump a “study in peak alpha masculinity for the ages,” but “Alpha Kings” also has a larger agenda: “organizing thousands of alpha males in a way that hasn’t been done since Dwight Eisenhower assembled the troops to storm the beaches of Normandy in 1944.” His target readers are men between the ages of fifteen and thirty-five who, Adams writes, “love America, love sports, have traditionally male interests and activities, and are sick of being told that their masculinity is toxic and that their generation will and should be led by women.” He offers them “Nick Adams’ Commandments for Alpha Males,” a list of forty-five (Trump, numerically) short dicta, including “Success is a low-maintenance woman, not just a hot one” and “Never apologize.” Adams does most of his lecturing on X, where he has more than six hundred thousand followers, but he also likes lecterns. In Washington, D.C., he warned one audience of Young Republicans, “It starts with the Fortnite controller and boneless chicken wings, and ends in gender pronouns and Communism.” Last year, Trump nominated Adams to become the U.S. Ambassador to Malaysia. Trump was no doubt trolling the libs with this nomination. But the elevation of so-called alpha masculinity has not been incidental during his second term, which was midwifed in part by Joe Rogan, Jordan Peterson, and lesser gods of the manosphere. Alpha-ness has become the official demeanor of American power. A few months before Charlie Kirk was killed, he visited Greenland with Trump, and subsequently said, of the President’s imperialist vision for the island, “It makes America dream again—that we’re not just this sad, low-testosterone beta male slouching in our chair.” Mark Zuckerberg recently reinvented himself as a leather-clad cage fighter, insisting that there isn’t enough “masculine energy” in corporate America. Zuck evidently can’t grow a beard, but Ezra Klein and Senator Chris Murphy have. There’s also the rise in facial plastic surgery for men—Elon Musk and John Mulaney are rumored to be among the recipients—seeking stronger chins. Penis implants have, well, risen. Trump’s Cabinet displays its alpha plumage, too: Pete Hegseth’s Crusade tattoos and “warrior ethos”; Robert F. Kennedy, Jr.,’s bench-pressing videos; Sean Duffy’s lumberjacking résumé; the mixed-martial-arts background of Markwayne Mullin, Trump’s new Secretary of Homeland Security. Even some of Trump’s female Cabinet members are cast this way. Tulsi Gabbard enjoys “Green Beret Tactical Challenges.” Linda McMahon, a former C.E.O. of World Wrestling Entertainment, is “very comfortable in a guy environment.” Recently, Kash Patel, the F.B.I. director, put agents through U.F.C. training, and Trump gave an endorsement of sorts to the influencer and boxer Jake Paul for political office, despite the fact that he’s not—yet—running for anything. In the past several years, the phrase “alpha male” has seeped into the language around us, like the contamination of an underground aquifer. By the time former Representative Marjorie Taylor Greene called Will Smith’s attack on Chris Rock during the 2022 Oscars an “alpha male response,” I was using the term ironically. But there are plenty of American men these days who regard alpha masculinity—or “warrior mode,” or “modern knighthood,” or other such appellations—not ironically but aspirationally. There are now programs offering to help such men achieve these aspirations, or something close. On a hot morning last August, I tailed a van speeding through the countryside of central Virginia. The vehicle contained nine blindfolded men wearing black, as they had been instructed to do. Each had paid three thousand dollars to take part in a three-day program called RISE , which stands for Ruthless Integrity and Simple Execution. It offers men an opportunity to crawl through mud, carry heavy objects, and, as its website puts it, “ CHANGE YOUR STORY & UNF**K YOUR LIFE .” The van’s speakers played a high-volume mashup of construction sounds, Jordan Peterson lectures, Marine Corps drills, and mumbling voices. “All designed to keep them in the present moment and separate them from the life they were coming from,” Brendan King, RISE ’s founder, told me. The van’s first stop was a gravel lot off the Blue Ridge Parkway. After allowing a porta-potty “leak-out,” King ordered the blindfolded men to march down a trail, holding one another’s shoulders, for nearly a mile. Occasionally, King’s assistants, a pair of bulky guys with law-enforcement backgrounds, offered the stumbling line a corrective shove. Weekend hikers gave the group a wide berth. Among the sightless were Justin, a martial-arts instructor from the Seattle area; Adam, who owns a lawn-mowing business in Indiana and had lost a baby; Kevin, a people-pleasing I.T. salesman from Dallas; and James, an unemployed Army veteran living in Phoenix with his second wife. James broke down crying when King asked him why he was there. “A lot of reasons,” James stammered. “Blocks and barriers.” The men, ranging in age from twenty-nine to sixty-four, carried rucksacks containing the few items that they were allowed to bring. Sleeping bags were permitted, but not pillows or pads. Eventually, King ordered them to stop and remove their blindfolds. The air was now cool and moist. They saw that they were standing at the midpoint of a tunnel carved into a mountain. “You see that light at the end of the tunnel?” King shouted, his voice echoing. The men squinted. “That’s where you’re headed. But you’ve got to go backwards first.” They put their blindfolds back on, turned around, and wobbled out of the tunnel. In 1982, Frans de Waal’s book “Chimpanzee Politics” helped popularize the term “alpha male.” The book is an account of power struggles within a colony of male chimps at a zoo in the Netherlands. De Waal, a Dutch primatologist who taught at Emory University and was a director at the Yerkes National Primate Research Center, challenged a number of assumptions about nonhuman primates. He noticed that the leaders of the chimps he studied were not necessarily the strongest or most intimidating but, rather, the ones who excelled at coalition-building. They kept the peace impartially, often by protecting underdogs when conflicts arose. De Waal called his alphas the “consolers-in-chief.” It’s not clear how closely people read the book. In the nineties, Newt Gingrich handed out copies to freshman congressmen. “After that, the term ‘alpha male’ became very popular,” de Waal explained in a TED talk, a few years before his death. He continued, “On the internet, you will find all these business books that tell you how to be an alpha male. And what they mean is how to beat up others and beat them over the head and let them know that you are boss and ‘Don’t mess with me’ and so on. And, basically, an alpha male for them is a bully. And I really don’t like that.” This was hardly America’s first brush with hypermasculinity. “The alpha male keeps returning as a heroic trope,” Michael Kimmel, a former professor of sociology at Stony Brook University and the author of “Manhood in America: A Cultural History,” told me. At the beginning of the twentieth century, men were increasingly working in offices, rather than in factories or on farms. Women joined them. “This was an ‘assault’ on masculinity,” Kimmel said. “People were freaked out that men were being feminized.” Scientists suggested gendered cures. In the eighteen-seventies, the physician Silas Weir Mitchell had begun advocating a “rest cure” for nervous women, sending them to bed and encouraging them to “live as domestic a life as possible.” Men, meanwhile, were told to act like cowboys, in what came to be known as the “West cure.” Theodore Roosevelt was prescribed this treatment, and later co-founded the Boone and Crockett Club and championed “rough-and-tumble” sports. The Boy Scouts and 4-H Clubs arrived in the early twentieth century, during what was later dubbed the golden age of fraternalism. More than a quarter of American men joined orders like the Knights of Pythias, and gyms grew in popularity. All of this, Kimmel explained, “was meant to help boys get away from female teachers, and, of course, Mom.” After a great depression and two world wars, this culture began to shift. By the nineteen-fifties, efforts were under way to nurture traumatized young men who had served overseas. More public schools were built, and veterans took advantage of the G.I. Bill. “We encouraged these men to move with their families to the suburbs, where they could have a little lawn and a barbecue,” Kimmel said. Another reorientation arrived in the seventies and eighties, in response to gay liberation, feminism, and greater workplace equality. In 1990, the poet Robert Bly published “Iron John: A Book About Men,” which spent more than a year on the Times best-seller list. “The grief in men has been increasing steadily since the start of the Industrial Revolution and the grief has reached a depth now that cannot be ignored,” Bly wrote. The book spawned the “mythopoetic men’s movement,” which sought a return to a “deep masculinity” through all-male wilderness retreats and the use of Native American rituals. “Mythopoetic man,” though, wasn’t quite as catchy as “alpha male.” Kimmel thinks that George W. Bush’s victory over Al Gore, in 2000, stemmed partly from this new dichotomy. “I remember Gore was called a beta,” Kimmel told me. “And Bush was alpha-male-ish.” The latter term, Kimmel came to believe, “means completely embodying the traditional notions of masculinity—the most important of which is being without apology.” In 2022, the social scientist Richard Reeves published “Of Boys and Men,” which describes how men are falling behind in contemporary society. In the past forty years, men’s wages have decreased as a percentage of over-all family income, while broader wealth inequalities and job insecurity have grown. Girls now perform better than boys in high school and are more likely to enroll in college, setting them up for better careers. Men today are five times likelier than they were in the nineties to say that they don’t have any close friends. They are also much less likely to receive mental-health treatment than women, and four times more likely to die by suicide. “There are very good reasons for large numbers of young men to feel anxious, to worry about their future, including their relationships with women,” Raewyn Connell, a retired sociologist at the University of Sydney who is credited with co-founding the field of masculinity studies, told me. “That is perhaps what drives the circulation of the ‘alpha male’ idea.” The alpha-beta framing now feels ubiquitous. A man in Maine recently filed a lawsuit alleging that his First Amendment rights were violated when he was told to stop calling attendees at school-board meetings “soft beta males.” Kimmel told me, “The tech bros and J. D. Vance fanboys and others seem to feel so put upon by wokeness, by political correctness, that they’re constantly being policed. The idea of being",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following descriptions best captures the author's portrayal of 'alpha male' culture in contemporary America?",
+          "options": {
+            "A": "A grassroots movement focused on improving vocational skills for young men.",
+            "B": "A political and social phenomenon that equates masculinity with dominance and defiance.",
+            "C": "A purely aesthetic trend manifesting in physical changes like facial plastic surgery.",
+            "D": "A scientific evolution of 20th-century gender theories supported by primatologists."
+          },
+          "answer": "B",
+          "explanation": "The article describes the 'alpha male' trend as a cultural and political phenomenon, frequently citing Trump, internet personalities, and political figures who equate this identity with power, traditional dominance, and a rejection of perceived 'feminization' or 'wokeness'."
+        },
+        {
+          "q_number": 2,
+          "stem": "How did Frans de Waal's research on chimpanzees contrast with the contemporary popular understanding of 'alpha males'?",
+          "options": {
+            "A": "De Waal found that alpha chimps are bullies, whereas humans view them as leaders.",
+            "B": "De Waal discovered that strength determines hierarchy, while humans believe it is about intelligence.",
+            "C": "De Waal defined alpha status through coalition-building and empathy, while modern culture often equates it with aggression.",
+            "D": "De Waal argued that the term is inapplicable to humans, while modern business books apply it to leadership."
+          },
+          "answer": "C",
+          "explanation": "De Waal's research indicated that true alpha chimps are 'consolers-in-chief' who protect the weak and build coalitions. In contrast, he lamented that modern internet culture has corrupted the term to mean a 'bully' who beats others up."
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the article, why did Michael Kimmel suggest that the early 20th-century 'West cure' and fraternal clubs emerged?",
+          "options": {
+            "A": "To prepare men for the harsh physical demands of the Industrial Revolution.",
+            "B": "To assist veterans in transitioning to suburban life after the Great Depression.",
+            "C": "To combat the anxiety that men were being 'feminized' by workplace changes.",
+            "D": "To promote international diplomacy through the 'rough-and-tumble' sports culture."
+          },
+          "answer": "C",
+          "explanation": "Kimmel explains that as men moved into office jobs and women entered the workforce, there was a widespread fear of 'feminization,' leading to the promotion of hyper-masculine activities like the 'West cure' and the Boy Scouts to reinforce traditional masculinity."
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the author suggest is the primary motivation for men to join programs like 'RISE'?",
+          "options": {
+            "A": "A desire to enhance their professional competitiveness in the corporate world.",
+            "B": "A need to address personal insecurities and feelings of being 'stuck' in their lives.",
+            "C": "A religious obligation to follow the mandates laid out by 'Alpha Kings'.",
+            "D": "A requirement to demonstrate their loyalty to current political leadership."
+          },
+          "answer": "B",
+          "explanation": "The participants in the 'RISE' program, such as the veteran struggling with 'blocks and barriers' and the salesman wanting to stop people-pleasing, are driven by personal crises, emotional voids, and a desire to 'change their story' rather than explicit career ambitions."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the underlying societal condition identified by researchers like Richard Reeves and Raewyn Connell as a factor in the rise of 'alpha' ideologies?",
+          "options": {
+            "A": "The complete failure of the modern education system to teach basic skills to boys.",
+            "B": "The increasing economic stability of the middle class which allows for more focus on gender roles.",
+            "C": "The systemic anxiety of young men facing declining economic prospects and social isolation.",
+            "D": "The rapid advancement of artificial intelligence replacing traditionally male-dominated professions."
+          },
+          "answer": "C",
+          "explanation": "The text references Richard Reeves and Raewyn Connell to explain that men are struggling with economic insecurity, falling behind in educational achievement, and experiencing profound social isolation, creating a vacuum that the 'alpha' ideal attempts to fill."
+        }
+      ]
+    }
+  ]
+}
