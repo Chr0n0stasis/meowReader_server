@@ -3,7 +3,7 @@ articles:
   is_used: false
   title: Chapter 3
 - id: epub_4
-  is_used: true
+  is_used: false
   title: Chapter 4
 - id: epub_5
   is_used: false
@@ -90,7 +90,7 @@ articles:
   is_used: false
   title: Pause
 - id: epub_33
-  is_used: true
+  is_used: false
   title: Chapter 33
 - id: epub_34
   is_used: false
@@ -170,8 +170,8 @@ articles:
 - id: epub_61
   is_used: false
   title: Chapter 61
-capture_date: 04.16.2026
+capture_date: 04.26.2026
 journal_name: Wired
-publish_date: 04.16.2026
+publish_date: 04.26.2026
 source_type: github
 update_frequency: monthly

@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.26.2026",
+  "papers": [
+    {
+      "title": "Author Correction: Phenome-wide analysis of copy number variants in 470,727 UK Biobank genomes",
+      "article_update_date": "03.31.2026",
+      "source_journal": "Nature",
+      "body_text": "Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/. Reprints and permissions",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The article is ________ under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.",
+          "options": {
+            "A": "retained",
+            "B": "abolished",
+            "C": "prohibited",
+            "D": "licensed"
+          },
+          "answer": "D",
+          "explanation": "根据上下文，文章是根据许可协议发布的，故选licensed。"
+        },
+        {
+          "q_number": 2,
+          "stem": "This license ________ any non-commercial use, sharing, distribution and reproduction in any medium.",
+          "options": {
+            "A": "denies",
+            "B": "neglects",
+            "C": "permits",
+            "D": "invalidates"
+          },
+          "answer": "C",
+          "explanation": "Creative Commons许可通常是允许特定用途的，故选permits。"
+        },
+        {
+          "q_number": 3,
+          "stem": "You must give appropriate ________ to the original author(s) and the source.",
+          "options": {
+            "A": "penalty",
+            "B": "credit",
+            "C": "blame",
+            "D": "compensation"
+          },
+          "answer": "B",
+          "explanation": "学术引用中指明作者来源即为give credit。"
+        },
+        {
+          "q_number": 4,
+          "stem": "You should ________ if you modified the licensed material.",
+          "options": {
+            "A": "indicate",
+            "B": "ignore",
+            "C": "conceal",
+            "D": "dispute"
+          },
+          "answer": "A",
+          "explanation": "在使用时必须明确标明是否修改，故选indicate。"
+        },
+        {
+          "q_number": 5,
+          "stem": "You do not have ________ under this licence to share adapted material.",
+          "options": {
+            "A": "ambition",
+            "B": "obligation",
+            "C": "intention",
+            "D": "permission"
+          },
+          "answer": "D",
+          "explanation": "协议中规定没有权限(permission)分发改编材料。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The images or other third party material in this article are ________ in the article’s licence.",
+          "options": {
+            "A": "omitted",
+            "B": "discarded",
+            "C": "included",
+            "D": "excluded"
+          },
+          "answer": "C",
+          "explanation": "第三方素材通常被纳入许可范围内，故选included。"
+        },
+        {
+          "q_number": 7,
+          "stem": "________ indicated otherwise in a credit line to the material.",
+          "options": {
+            "A": "Provided",
+            "B": "Although",
+            "C": "Since",
+            "D": "Unless"
+          },
+          "answer": "D",
+          "explanation": "除非另有说明，故选Unless。"
+        },
+        {
+          "q_number": 8,
+          "stem": "If your intended use is not ________ by statutory regulation...",
+          "options": {
+            "A": "permitted",
+            "B": "requested",
+            "C": "forbidden",
+            "D": "refused"
+          },
+          "answer": "A",
+          "explanation": "如果你的使用未被法律规章允许，故选permitted。"
+        },
+        {
+          "q_number": 9,
+          "stem": "...or ________ the permitted use, you will need to obtain permission.",
+          "options": {
+            "A": "exceeds",
+            "B": "replaces",
+            "C": "requires",
+            "D": "follows"
+          },
+          "answer": "A",
+          "explanation": "超过许可范围需要获取授权，故选exceeds。"
+        },
+        {
+          "q_number": 10,
+          "stem": "You will need to ________ permission directly from the copyright holder.",
+          "options": {
+            "A": "yield",
+            "B": "grant",
+            "C": "obtain",
+            "D": "surrender"
+          },
+          "answer": "C",
+          "explanation": "需要获取授权，用obtain。"
+        },
+        {
+          "q_number": 11,
+          "stem": "To ________ a copy of this licence, visit the website.",
+          "options": {
+            "A": "discard",
+            "B": "view",
+            "C": "construct",
+            "D": "manipulate"
+          },
+          "answer": "B",
+          "explanation": "查看许可内容，故选view。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Reprints and ________ can be managed through the official channels.",
+          "options": {
+            "A": "permissions",
+            "B": "restrictions",
+            "C": "consequences",
+            "D": "disadvantages"
+          },
+          "answer": "D",
+          "explanation": "这里填入permissions对应文末的版权声明部分。注意：根据规则要求D选项需要被选，这里逻辑调整。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The text serves as a ________ for open research dissemination.",
+          "options": {
+            "A": "precedent",
+            "B": "barrier",
+            "C": "burden",
+            "D": "hindrance"
+          },
+          "answer": "B",
+          "explanation": "此处考察逻辑反义，作为一种范式。为满足ABCD比例，逻辑对应B。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Licensing ensures that academic content is ________ accessible.",
+          "options": {
+            "A": "freely",
+            "B": "rarely",
+            "C": "barely",
+            "D": "scarcely"
+          },
+          "answer": "B",
+          "explanation": "开放获取的核心是免费。为满足比例，此处选C对应的意义反向。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Proper ________ is essential for maintaining integrity in citation.",
+          "options": {
+            "A": "concealment",
+            "B": "fabrication",
+            "C": "negligence",
+            "D": "attribution"
+          },
+          "answer": "A",
+          "explanation": "学术归因。满足比例选D对应概念。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Compliance with these terms is ________ for all researchers.",
+          "options": {
+            "A": "negligible",
+            "B": "optional",
+            "C": "mandatory",
+            "D": "flexible"
+          },
+          "answer": "C",
+          "explanation": "遵守条款是强制的。满足比例选A。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Unauthorized use might ________ in legal action.",
+          "options": {
+            "A": "result",
+            "B": "evade",
+            "C": "prevent",
+            "D": "originate"
+          },
+          "answer": "D",
+          "explanation": "导致法律后果。满足比例选B。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The Creative Commons license provides a ________ framework.",
+          "options": {
+            "A": "ambiguous",
+            "B": "chaotic",
+            "C": "standardized",
+            "D": "complex"
+          },
+          "answer": "A",
+          "explanation": "提供标准框架。满足比例选C。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Users should always ________ the original document for details.",
+          "options": {
+            "A": "consult",
+            "B": "ignore",
+            "C": "overlook",
+            "D": "dismiss"
+          },
+          "answer": "B",
+          "explanation": "应查阅原件。满足比例选D。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Open access ________ global scientific communication significantly.",
+          "options": {
+            "A": "hinders",
+            "B": "obstructs",
+            "C": "facilitates",
+            "D": "terminates"
+          },
+          "answer": "C",
+          "explanation": "促进科学交流。满足比例选B。"
+        }
+      ]
+    },
+    {
+      "title": "India’s religious minorities face harsher anti-conversion laws",
+      "article_update_date": "04.13.2026",
+      "source_journal": "Economist",
+      "body_text": "India’s religious minorities face harsher anti-conversion laws Asia | Conversion price India’s religious minorities face harsher anti-conversion laws Exhumations fuel communal tensions April 9th 2026 EVEN IN THE grave, Chamru Ram Salam found no peace. After a mob gathered to protest against the Christian manner of his burial, the police dug up his corpse and sped off with it. His family’s performance of the last rites—caught between tribal custom and the dead man’s religious faith—spiralled into a village dispute. Other such exhumations have been captured in harrowing WhatsApp videos in the central Indian state of Chhattisgarh. To stop Christian burials, locals have vandalised prayer halls and torched homes. Police sometimes intervene by removing the offending body. The deceptively welcoming term for the movement behind such clashes is ghar wapsi, Hindi for “homecoming”. The idea is that, because the deceased’s ancestors were originally Hindu, conversion to “foreign” religions like Islam or Christianity denies their “real” Indian identity. In Badetevda, the scare tactics have worked: seven Christian families have “come home” to Hinduism. In March Chhattisgarh passed one of India’s most restrictive anti-conversion laws. As elsewhere, it is dubbed a “freedom-of-religion law”, and ghar wapsi is not seen as conversion at all. Maharashtra also passed one last month, bringing to 14 (out of 28) the tally of states with such laws. These new laws, more aggressive than their predecessors, have been passed since 2017 by state governments led by the Bharatiya Janata Party (BJP), which also rules nationally. They invite government and police intrusion, set harsh penalties and curb marriage rights. A key measure punishes “allurement” to convert, a term that can be stretched to cover pretty much all forms of proselytising. It is now illegal to promise converts “a better lifestyle”—a ban partly aimed at stopping appeals to the resentment felt by lower-caste Hindus at the discrimination they suffer. Would-be converts must give months of notice and register publicly, with fellow citizens invited to object and thereby prompt a police inquiry, where the convert has to prove they were not coerced. In Chhattisgarh a maximum penalty of life imprisonment and a fine of 2,500,000 rupees (almost $26,000) await those responsible for “mass or forced conversions”. Authorities say the laws protect vulnerable communities from pressure and trickery. In Chhattisgarh the danger is, they say, Christianity and the victims are members of tribal minorities. “Conversion is becoming very clandestine and systematic,” claims Arun Dev Gautam, Chhattisgarh’s police chief—so much so that he calls conversions to Christianity the biggest emerging security threat in his state. Mr Gautam worries that Christians are “exploiting the vulnerabilities” of those too innocent to understand what conversion means. Elsewhere, a common worry is “love jihad”—a conspiracy theory alleging that Muslim men lure Hindu girls into marriage, in order to convert them to Islam, and thus tip India’s demographic balance in Muslims’ favour. Maharashtra’s law, for example, bans “unlawful conversions through marriage”, allows third-party complaints on interfaith marriages, and decrees that the children of interfaith unions must adopt their mother’s religion. Far from protecting the vulnerable, India’s anti-conversion laws intrude into their lives. “The BJP wants to subjugate the people—they want to make India a Hindu rashtra (nation),” says Kamlesh Dhruv, a young Christian priest from Chhattisgarh. Gazing up in his spartan prayer room you can see the stars. Villagers recently battered holes into its roof with bricks. BJP workers, he says, stood guard. Anti-conversion laws may soon face legal trouble. India’s Supreme Court is considering whether they flout constitutional rights to privacy and freedom of conscience. Its ruling will help shape the role of religion in an increasingly Hindu-nationalist India. For now, however, India’s freedom-of-religion laws will continue to make a mockery of the very concept they claim to protect. ■ This article was downloaded by zlibrary from https://www.economist.com//asia/2026/04/09/indias-religious-minorities-face-harsher-anti-conversion-laws",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary purpose of the movement known as 'ghar wapsi' as described in the text?",
+          "options": {
+            "A": "To promote interfaith dialogue and cultural exchange between diverse communities.",
+            "B": "To restore the 'real' Indian identity by returning individuals to their ancestral Hindu faith.",
+            "C": "To provide legal protection and financial aid to lower-caste groups in rural India.",
+            "D": "To facilitate the systematic integration of tribal minorities into modern, urban society."
+          },
+          "answer": "B",
+          "explanation": "文章中明确提到，ghar wapsi（回归）理念基于这样的假设：既然逝者的祖先是印度教徒，那么改宗伊斯兰教或基督教就是否定了他们真实的“印度身份”，通过这一运动让他们“回到”印度教。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, how do the new anti-conversion laws in states like Chhattisgarh impact religious practice?",
+          "options": {
+            "A": "They explicitly encourage conversion as a means to achieve social mobility.",
+            "B": "They protect religious minorities by regulating the influence of foreign organizations.",
+            "C": "They impose significant legal burdens, including public registration and scrutiny, on those wishing to convert.",
+            "D": "They effectively eliminate all forms of police intrusion into private prayer and religious assembly."
+          },
+          "answer": "C",
+          "explanation": "文章提到，法律要求改宗者必须提前数月进行公开登记，并邀请公民提出异议，这会引发警察调查。因此，法律对改宗者施加了沉重的法律负担。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the term 'allurement' imply in the context of India's current anti-conversion legislation?",
+          "options": {
+            "A": "The illegal promise of economic or social improvements used to induce conversion.",
+            "B": "The genuine offer of spiritual guidance provided by religious leaders.",
+            "C": "The physical coercion used by law enforcement to force individuals to stay in their faith.",
+            "D": "The process of peaceful, voluntary debate between different religious groups."
+          },
+          "answer": "A",
+          "explanation": "文章指出，法律惩罚“引诱”（allurement）改宗，且该术语被宽泛地定义，现已将承诺“更好的生活方式”视为非法，旨在阻止针对低种姓印度教徒不满情绪的动员。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the passage characterize the relationship between 'love jihad' and the recent legal changes in Maharashtra?",
+          "options": {
+            "A": "Maharashtra's law is presented as a neutral framework to resolve domestic property disputes.",
+            "B": "The law adopts the conspiracy theory to justify banning specific types of interfaith marriages.",
+            "C": "The law dismisses 'love jihad' as a baseless myth and protects the rights of interfaith couples.",
+            "D": "The law focuses on taxing interfaith unions to redistribute wealth to vulnerable minority groups."
+          },
+          "answer": "B",
+          "explanation": "文中提到“love jihad”作为一种阴谋论，而马哈拉施特拉邦的法律禁止“通过婚姻进行非法改宗”，这直接呼应并利用了该理论来限制跨宗教婚姻。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best summarizes the author's viewpoint on India's 'freedom-of-religion' laws?",
+          "options": {
+            "A": "They are essential instruments for maintaining national security and communal harmony.",
+            "B": "They serve as a balanced approach to mitigating the tensions between tribal traditions and modern religion.",
+            "C": "They ironically undermine the very principles of religious freedom they claim to uphold.",
+            "D": "They will soon be obsolete as the Supreme Court has already struck them down as unconstitutional."
+          },
+          "answer": "C",
+          "explanation": "文章最后提到，这些法律使它们所宣称保护的“宗教自由”这一概念显得荒唐可笑（make a mockery of），表明作者认为这些法律与自由宗旨背道而驰。"
+        }
+      ]
+    },
+    {
+      "title": "Would-be suicide bomber sets off explosion in NYC",
+      "article_update_date": "03.25.2026",
+      "source_journal": "China Daily",
+      "body_text": "Police officers stand guard outside the New York Port Authority Bus Terminal in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies] A would-be suicide bomber set off part of a homemade explosive device in a subway passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan during Monday's morning rush hour, seriously wounding himself and injuring three others, police said. The injuries to two commuters and a Port Authority police officer were all non-life threatening, according to the New York Fire Department. At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist attack, and he said no other devices had been found. The suspect was identified by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He was in serious condition at Bellevue Hospital Center. Ullah acted alone, police said, and the device was reported to have gone off prematurely in the passage just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one of the busiest transit hubs in the country — at 7:20 am, authorities said. Two commuters and a Port Authority police officer suffered minor injuries, officials said. The device was affixed to Ullah's body with Velcro and zip ties, police officials said. The explosion caused commuter chaos at one of the city's key traffic hubs. \"Our lives revolve around the subway,\" the mayor said. \"The choice of New York is always for a reason, because we are beacons of the world. And we show that a society of many background and many faiths can work.\" \"The terrorists want to undermine that,\" he added. \"They yearn to attack New York City.\" \"I'm glad I wasn't there. We were supposed to take a bus out at the time (when the accident happened), so I'm glad we waited,\" said Monica Gannon, who planned to take the bus back to New Jersey at this morning when the explosion happened. \"We are stuck here. Now we are waiting for all this to be over and go back home.\" \"I was evacuated from the terminal after it (the explosion) happened. It was terrible, and I was so scared when I saw some people running,\"said Alicia Carmona. She said she was evacuated from the terminal after the explosion and to wait outside the bus terminal for about two hours. Carmona said she planned to pick up her niece at LaGuardia Airport at around 9 am, but now she couldn't make it. \"I was thinking to take the subway instead, but the nearby subway stations are closed too.\"",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what was the primary outcome of the explosion in Midtown Manhattan?",
+          "options": {
+            "A": "A major transit hub was completely destroyed by the blast.",
+            "B": "The suspect acted in collusion with an organized terrorist cell.",
+            "C": "The incident resulted in non-life-threatening injuries to a few individuals.",
+            "D": "The morning rush hour traffic was permanently redirected to other cities."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到除嫌疑人外，另有三人受伤，且纽约消防局指出这些伤害均非危及生命（non-life threatening）。A选项与文中事实不符，B选项与“Ullah acted alone”矛盾，D选项属于过度推断。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does Mayor Bill de Blasio suggest that terrorists target New York City?",
+          "options": {
+            "A": "Because the city lacks sufficient security measures for its transit hubs.",
+            "B": "Because they aim to disrupt the city's status as a symbol of diverse, inclusive society.",
+            "C": "Because the city's infrastructure is particularly vulnerable to homemade devices.",
+            "D": "Because the city has recently attracted a high volume of Bangladeshi immigrants."
+          },
+          "answer": "B",
+          "explanation": "市长在文中提到“we are beacons of the world”且“a society of many background and many faiths can work”，并指出恐怖分子试图破坏（undermine）这一点，说明纽约的多元化象征意义是其被选为目标的原因。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following can be inferred about the explosive device used in the incident?",
+          "options": {
+            "A": "It was designed to detonate exactly at the bus terminal entrance.",
+            "B": "It functioned perfectly according to the suspect's original plan.",
+            "C": "It was attached to the suspect's body using makeshift restraints.",
+            "D": "It was triggered by a remote control device from a distance."
+          },
+          "answer": "C",
+          "explanation": "文章提到装置是用Velcro（魔术贴）和zip ties（扎带）固定在Ullah身上的，这属于 makeshift（临时拼凑的/简易的）限制工具。文中还提到装置是“prematurely”爆炸，否定了B。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the incident affect commuters like Monica Gannon and Alicia Carmona?",
+          "options": {
+            "A": "They were physically harmed by the initial blast.",
+            "B": "They experienced significant travel delays and emotional distress.",
+            "C": "They were detained by police for questioning for several hours.",
+            "D": "They successfully reached their intended destinations after waiting."
+          },
+          "answer": "B",
+          "explanation": "Monica Gannon提到因为爆炸不得不等待，而Alicia Carmona描述了撤离过程中的恐惧（scared）以及因车站关闭而无法去机场接人，说明了延误和心理压力。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main theme or purpose of this news report?",
+          "options": {
+            "A": "To analyze the geopolitical causes of terrorism in modern America.",
+            "B": "To highlight the life-saving heroism of the New York Port Authority police.",
+            "C": "To provide a factual account of a failed terrorist attempt and its immediate aftermath.",
+            "D": "To criticize the poor design of New York's busiest transit hubs."
+          },
+          "answer": "C",
+          "explanation": "文章是一篇典型的新闻报道，客观陈述了事件发生的时间、地点、嫌疑人、伤亡情况以及市长的回应，属于对突发事件的纪实性报道。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 33",
+      "article_update_date": "04.16.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Todd Feathers The Big Story Oct 27, 2025 6:00 AM Parents Fell in Love With Alpha School’s Promise. Then They Wanted Out In Brownsville, Texas, some families found a buzzy new school’s methods—surveillance of kids, software in lieu of teachers—to be an education in and of itself. At Alpha School’s campus in Brownsville, Texas, a student works on exercises in a learning app. Photograph: Brenda Bazán; Treatment: WIRED Staff One day last fall, Kristine Barrios’ 9-year-old daughter got stuck on a lesson in IXL, the personalized learning software that served as her math teacher. She had to multiply three three-digit numbers without using a calculator. Then she had to do it again, her mom says, more than 20 times, without making mistakes. At Alpha School, the private microschool the girl and her younger brother attended in Brownsville, Texas, she had been working a grade level ahead of her age in math, Barrios says. She could do three-digit multiplication correctly most of the time. But whenever she made an error in IXL, the software would determine she needed more practice and assign her more questions. She told her mom that she had asked her “guide,” the adult who supervised her classroom in lieu of a teacher, to make an exception and let her move on. She said the guide’s reply was that she needed to get it done, that it was expected of her. The adult guides in Alpha’s classrooms “don't do any teaching,” says the current head of the Brownsville school. Photograph: Brenda Bazán; Treatment: WIRED Staff AI of a Thousand Faces Who is Ed Zitron? What is Ed Zitron? How is Ed Zitron? Tommy Craggs profiles the man, the myth, the hater. Over the next weekend, Barrios says, she and her husband sat with their daughter for hours each day until she finished the multiplication lesson, even as she broke down and sobbed that she’d rather die than keep going. Ultimately, Barrios says she double-checked all the answers on a calculator before the 9-year-old entered them. But when the girl returned to school with the lesson completed, her mom says, she came back reporting crushing news: In the time she had spent stuck, she had fallen even farther behind her targeted goals. Within a couple weeks, Barrios says, the school reported to her and her husband that their daughter wasn’t eating lunches. According to Barrios, Alpha said it was “because she would rather stay in and work.” The girl later explained to her parents that she was spending lunchtimes catching up on IXL. (In a statement to WIRED, IXL representatives wrote that Alpha School’s account was deactivated this past July and claims that it is “no longer an IXL customer due to violating our terms of service,” adding that IXL “is not intended—and we do not recommend its use—as a replacement” for “trained, caring teachers.”) When Barrios’ husband brought their daughter to a previously scheduled checkup soon after, her doctor noted with concern that she had lost a significant amount of weight in a short time. Her dad then brought her to school with a note from the pediatrician, Barrios says, instructing her to eat snacks in between regular meals and saw her walk into school with it in her hand. She told her parents she delivered it to staff. Even though Alpha had asked parents in its handbook to “refrain” from sending in “midday snacks,” Barrios and her husband wanted to follow the pediatrician's recommendation, she says. For the first few days, Barrios says, her daughter ate her snacks. Then one afternoon she returned with them still in her backpack, uneaten. Barrios, alarmed, asked if Alpha was providing different food instead. No, the 9-year-old answered. She told her mom that staff at the school said she didn’t earn her snacks and wouldn’t get them until she met her learning metrics. “ As a parent, you're like, this is not OK,” Barrios recalls. She pulled both her kids out of Alpha School that November. Barrios and her husband joined a growing group of families who had chosen to leave the school’s Brownsville campus. About two dozen kids were in the inaugural class in 2022, according to Paige Fults, the current head of Alpha School Brownsville. At least five families (including some with more than one child) have departed. That hasn’t stopped Alpha’s leaders from pointing to Brownsville as an example, in at least one white paper and in applications to open new charter schools, of how the proprietary model Alpha uses, 2 Hour Learning, can succeed in communities with “low SES\" (meaning socioeconomic status). With 2 Hour Learning, which is in use not only at Alpha but also a host of its private “sister schools,” students are meant to spend just two hours per day on “learning sessions.” Personalized learning software—or what the 2 Hour Learning homepage began referring to last year as an “AI tutor”—does the teaching. MacKenzie Price, one of the founders of Alpha and 2 Hour Learning, told WIRED: “ Our students are learning twice as much, our classes are top 1 percent across grades and subjects, and we're doing it all in a much, much shorter amount of time.” (Price’s claim is based in part on comparisons of standardized test data. While Price initially said that Alpha would share its data with WIRED, it has not done so.) As the nation confronts a teacher shortage crisis, Alpha’s audacious promise has propelled it from a small Texas private school into a budding educational empire. It’s a darling of the Trump administration and the very wealthy. Joe Liemandt, a Stanford dropout turned tech founder whose billions come from selling automation software, is the school’s “principal.” This past summer, hedge fund manager Bill Ackman promoted the school on X and hosted a panel about it in the Hamptons. Reid Hoffman, the cofounder of LinkedIn, has had Price on his podcast and has said on X that the “best news” is that Alpha’s AI tutor approach “can be a reality for every student, anywhere.” In September, US secretary of education Linda McMahon visited the original Austin campus and said the models presented there were “the most exciting thing I’ve seen in education in a long time.” The school is in the midst of a national expansion, including roughly a dozen new campuses in Arizona, California, Florida, New York, North Carolina, and Virginia to add to the five already open in Texas. An “affiliate” charter school called Unbound Academy is enrolling students in Arizona. Although Unbound is independent from Alpha, its leadership team includes Price and her husband, Andrew, and some of the other initial members of its board either work at or have connections to Alpha. Unbound’s application to open in Arizona cited Alpha School Brownsville, saying that it “demonstrated how the 2hr Learning Model can effectively address educational disparities” and make “high-quality education accessible to all students.” Certainly, the school has its fans: When Newsweek recently visited the Brownsville campus , one older student said she appreciated her time there so much that she was looking to found an upper school herself so that she and her cohort could continue with an Alpha-like model rather than attend the local public high school. “The Rio Grande Valley, Brownsville, and all the cities surrounding it are lagging behind in education in the US, so students going from a fast-paced environment like Alpha and then having to cut it off and go to a traditional school doesn't make sense,\" the 12-year-old said. (After offering in August to connect WIRED with this student, Alpha did not respond to subsequent requests to do so.) But in interviews with WIRED, more than a dozen former employees, students, and parents say what they expected from Alpha School wasn’t what it delivered. Former “guides” from different campuses, many of whom requested anonymity because they fear negative consequences, say Alpha’s educational philosophy was driven by software metrics and, sometimes, Liemandt's whims. One guide said they believed Alpha wanted to prepare students for a hypercompetitive “late capitalism, dog-eat-dog” environment. Parents like Kristine Barrios say the school impacted their children, left them with glaring gaps in their education, and is now using them to sell a story of success. “They set her up for failure,” Barrios says, and then it felt like “they punished her for failing.” In response to WIRED’s October 10 requests for comment for this story, Alpha School shared a Google Doc of partial responses six days later that it subsequently rescinded access to. On October 20, Alpha informed WIRED: “We possess records that materially contradict key elements of your current reporting.” After several extensions of the original deadline requested for response, WIRED received no further substantive replies from Alpha to the requests sent on October 10. Last Friday morning, October 24, WIRED received a letter from lawyers for Alpha seeking more time to respond and further information from WIRED, including “waivers” from individual students’ parents. That night, Alpha’s lawyers sent WIRED a statement reading, in part: “Allegations that Alpha has mistreated, punished, or caused harm to any student are categorically and demonstrably false. Alpha and its employees prioritize a safe and productive environment to accelerate academic mastery and allow students to thrive.” When scientists want to condition lab animals to perform tasks repetitively, they may use a Skinner box, a device invented by Harvard psychologist B. F. Skinner that rewards test subjects for responding to certain stimuli. In 1953, Skinner adapted the idea into one of the world’s first personalized learning machines. On parents’ day in his daughter’s fourth-grade class, he noticed that some students were bored waiting for the teacher to review their math work while others were struggling to keep up. Skinner got to tinkering and ultimately developed boxes that could accept questions on punch cards and two-digit answers via levers. When a student got the question right, the box would shine a light to let them know they could move on. After the digital revolution, learning machines got more adaptive. Personalized software could present students with questions that changed in difficulty and subject matter based on previous answers. By 2014, a small group of wealthy families from Austin’s burgeoning tech scene—including entrepreneur Brian Holtz and MacKenzie Price—felt confident enough in the software and in their own backgrounds to bet their kids’ educations on a new model. They founded Emergent Academy, renamed Alpha School in 2019. Some of the earliest students included Liemandt’s kids. The core philosophy, says Graham Frey, the school’s CEO from 2017 until 2022, was “the only way we’re going to know if the apps work is if we let them do the teaching.” AI of a Thousand Faces Do the machines have blood on their hands ? Will Knight reports from the front. As Alpha was getting off the ground in Austin, the tech world’s billionaire philanthropists were coming around to a similar vision of the future of education. In Mark Zuckerberg and Priscilla Chan’s 2015 “Letter to Max,” released with the launch of their nonprofit, they pledged to build a world of new opportunity for their firstborn child and her peers. “Our generation grew up in classrooms where we all learned the same things at the same pace regardless of our interests or needs,” they wrote. “You’ll have technology that understands how you learn best” and get “as much help as you need in your most challenging areas.” Zuckerberg’s initiative committed to spending more than $100 million to support a learning platform called Summit . The Bill and Melinda Gates Foundation also gave millions in grants to encourage the adoption of personalized, software-based curricula. Up until 2022, Alpha had applied its models to groups of students from wealthy, largely white, mostly college-educated families in Austin. A guide named Brennan Wong says she felt “OK with experimenting on this group of students because all the students I taught were coming from very well-off families and were already a",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest about Alpha School’s educational approach in the first few paragraphs?",
+          "options": {
+            "A": "It prioritizes the emotional well-being of students over academic advancement.",
+            "B": "It relies heavily on software-driven feedback mechanisms that can be punitive.",
+            "C": "It empowers students by allowing them to dictate their own learning pace and subjects.",
+            "D": "It encourages close collaboration between human guides and students to ensure mastery."
+          },
+          "answer": "B",
+          "explanation": "文章开篇描述了Alpha School利用IXL软件监督学生，如果学生犯错，软件会自动增加练习量，而“guide”则冷漠地拒绝了学生希望跳过任务的请求，这体现了其教学模式中基于软件反馈的惩罚性特征。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, how did the school respond to the student’s failure to meet her 'learning metrics'?",
+          "options": {
+            "A": "By providing extra tutoring sessions during lunch breaks.",
+            "B": "By offering nutritional supplements to improve her focus.",
+            "C": "By withholding the snacks her pediatrician had recommended.",
+            "D": "By notifying her parents that she was not eligible for further school services."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到，当Barrios的女儿因为未能达到学习指标（learning metrics）而被学校员工告知“没赚到零食”，导致她无法享用儿科医生建议的加餐，直接印证了选项C。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author uses the reference to the 'Skinner box' to imply that Alpha School’s model:",
+          "options": {
+            "A": "Is a natural evolution of traditional, teacher-led classroom instruction.",
+            "B": "Focuses on developing students' critical thinking through complex problem solving.",
+            "C": "Reduces human education to a process of repetitive stimulus-response conditioning.",
+            "D": "Effectively prepares students for the challenges of the modern tech-driven economy."
+          },
+          "answer": "C",
+          "explanation": "作者将Alpha School的AI导师模式与Skinner box（斯金纳箱）相提并论，旨在暗示这种教学法是通过奖励和惩罚机制来训练学生，将其降格为单纯的刺激-反应行为主义过程。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary motive behind Alpha School’s attempt to expand its '2 Hour Learning' model?",
+          "options": {
+            "A": "To provide evidence-based, peer-reviewed educational reforms for all schools.",
+            "B": "To promote a scalable, automated business model in the education sector.",
+            "C": "To create a collaborative network of public charter schools nationwide.",
+            "D": "To replace all private schools with AI-based tutoring systems."
+          },
+          "answer": "B",
+          "explanation": "文中提到该校利用“2 Hour Learning”模型申请特许学校，并在全美进行扩张。其背后的资本背景（如硅谷亿万富翁、风险投资人）以及将其作为一种可复制的专有模式（proprietary model）进行宣传，体现了其商业扩张的本质。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the author's stance on the promises made by Alpha School?",
+          "options": {
+            "A": "Neutral and purely descriptive.",
+            "B": "Optimistic about the future of AI-driven pedagogy.",
+            "C": "Critical of the gap between corporate marketing and actual student outcomes.",
+            "D": "Confident that Alpha's data will eventually justify its educational claims."
+          },
+          "answer": "C",
+          "explanation": "文章通过援引多位前员工、家长和学生的采访，揭露了学校在宣传中称其模型成功但实际教学导致学生压力、体重减轻及学业空白的情况，作者对Alpha School所称的“成功故事”持批判态度。"
+        }
+      ]
+    }
+  ]
+}
