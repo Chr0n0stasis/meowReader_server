@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.27.2026",
+  "papers": [
+    {
+      "title": "The new economics of sex work",
+      "article_update_date": "03.26.2026",
+      "source_journal": "Economist",
+      "body_text": "The new economics of sex work Finance & economics | Free Exchange The new economics of sex work As the sex economy grows, it deserves serious analysis March 19th 2026 ECONOMISTS CLAIM to study markets in all their forms. But one, in particular, seems to make them blush: sex work. In a new book, “Sex Work by Numbers”, Stef Adriaenssens of KU Leuven, a university in Belgium, estimates that less than 5% of the 18,232 academic publications on the industry produced between 2000 and 2024 took an economic or business view. By comparison, 40% concerned biology or medicine, more than 25% related to psychology or psychiatry and almost 20% had to do with the law. A quick search for “sex work” or “prostitution” in the database of the National Bureau of Economic Research , a collection of working papers, generates just 178 results among 35,450 articles. That is a big omission for what is a large industry. Porn alone is thought to generate almost $100bn in revenues a year worldwide, twice as much as AI. OnlyFans, a subscription site known for X-rated content, hosts 4.6m creators, many of them in adult entertainment. It has 380m users who together spend over $7bn a year. Estimates from UNAIDS, a UN agency, put the share of the world’s women aged 15 and over engaged in “exchange of sexual services” at 0.6%. In sub-Saharan Africa, this rises to 1.3%. Sex work is, granted, difficult to study. It covers all manner of X-rated activities. A streetwalker in Nairobi, a high-end escort in London and a cam-girl in Kyiv inhabit utterly different economic worlds. Many switch between pornography, stripping and prostitution as demand requires. Criminalisation drives the industry underground. Even where it is legal, as in Germany and the Netherlands, stigma makes workers coy about discussing their trade. Where facts and figures are scarce, people have regularly turned to guesswork. In the late 18th century a police magistrate put the number of prostitutes in London at 50,000—or one in five women in the city aged 15-40. Half a century later the Bishop of Exeter offered an equally hazy guess of 80,000. Even today policymakers routinely discuss the economic cost of sex work, in terms of crime and disease, confident in their conclusions but all too often cavalier about evidence. Economists’ reluctance is, then, a pity. Sex work is, after all, a market shaped by supply, demand and price signals. Where they have tried, their methods can be creative and results revealing. Take the number of sex workers. In 2021 economists at Rwanda’s health ministry and America’s Centres for Disease Control and Prevention borrowed the “capture-recapture” method from ecology to estimate a headcount. They handed out keyrings to randomly selected streetwalkers they encountered at known hotspots across the country, then returned a week later to offer bracelets to another random sample, this time asking if any of them had received a trinket the week before. (They came back the next week, too, for good measure.) The total number could then be worked out by comparing the different sets of results. The researchers concluded that between 9,000 and 23,000 women, or 0.1-0.35% of Rwanda’s female population, plied the trade. Randomised controlled trials, the gold standard, are out of bounds for obvious ethical reasons (you cannot in good conscience expose some women to unprotected sex or violence). But economists can study natural experiments. In 2018 Scott Cunningham of Baylor University and Manisha Shah of the University of California, Berkeley, used a Rhode Island judge’s surprise decision to (in effect) decriminalise indoor sex work and found it led to a drop in both violent crime and female gonorrhoea cases. In 2020 Ms Shah and her co-authors considered the inverse situation after a district of East Java in Indonesia unexpectedly criminalised sex work. Sexually transmitted infections among sex workers rose, while women pushed out of the trade struggled to pay their children’s school expenses. As sex work is being reshaped by policy and technology, economists are gaining new ways of tackling the research question. Governments are, helpfully, creating ready-made natural experiments by introducing new regulations. Belgium granted sex workers full employment protections in 2024 and Italy brought prostitution into the tax net last year, for example. Meanwhile the internet is changing the nature of sex work and making it a bit easier to examine. Rather than tag and recapture Belgian and Dutch sex workers at the kerb, researchers at KU Leuven, including Mr Adriaenssens, looked at more than 24,000 reviews posted in a 12-month period in 2019-20 on hookers.nl, a popular online marketplace. By using a similar principle and maths as the researchers in Rwanda, they put the share of women aged 15-49 in the Netherlands and northern Belgium engaged in sex work at 0.15% and 0.18%, respectively. These numbers look set to grow as platforms such as OnlyFans lower barriers to entry and attitudes towards sex work change. In Sweden, 8% of girls aged 15-19 say they have sent X-rated content or arranged to meet someone for sex in exchange for money. Only 56% of Britons aged 18-25 regard “sugaring”, when a younger person dates an older one for material benefits, as sex work, compared with 70% of over-65s. In a paper published last year, Elias Carroni, Davide Dragone and Marina Della Giusta, three Italian economists, predicted that “digital sex”, such as online porn and virtual companionship, reduces the social and psychological cost of selling sex, as abundance erodes stigma. Replacing physical intimacy with the digital sort, they argued, may cause a slew of economic consequences, starting with a faster decline in fertility rates. Greater supply of sexual services may also cause prices to fall, further spurring demand. Only a very dismal scientist wouldn’t be interested in whether they are right. ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/03/19/the-new-economics-of-sex-work",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Economists claim to study markets in all their forms. But one, in particular, seems to make them _______: sex work.",
+          "options": {
+            "A": "hesitate",
+            "B": "flourish",
+            "C": "blush",
+            "D": "prosper"
+          },
+          "answer": "C",
+          "explanation": "Contextual clue: The word 'blush' implies a sense of embarrassment or avoidance, which fits the author's argument that economists often overlook the sex industry."
+        },
+        {
+          "q_number": 2,
+          "stem": "A quick search for “sex work” or “prostitution” in the database of the National Bureau of Economic Research generates just 178 results. That is a big _______ for what is a large industry.",
+          "options": {
+            "A": "discovery",
+            "B": "advantage",
+            "C": "transition",
+            "D": "omission"
+          },
+          "answer": "D",
+          "explanation": "Given the small number of results relative to the industry's size, 'omission' correctly describes the gap in economic literature."
+        },
+        {
+          "q_number": 3,
+          "stem": "OnlyFans, a subscription site known for X-rated content, hosts 4.6m creators, many of them in adult entertainment. It has 380m users who _______ spend over $7bn a year.",
+          "options": {
+            "A": "erroneously",
+            "B": "scarcely",
+            "C": "cautiously",
+            "D": "collectively"
+          },
+          "answer": "D",
+          "explanation": "'Collectively' fits the context of aggregating user spending to reach a total of $7bn."
+        },
+        {
+          "q_number": 4,
+          "stem": "Criminalisation drives the industry underground. Even where it is legal, stigma makes workers _______ about discussing their trade.",
+          "options": {
+            "A": "outspoken",
+            "B": "arrogant",
+            "C": "coy",
+            "D": "indifferent"
+          },
+          "answer": "C",
+          "explanation": "'Coy' means reluctant or evasive, which matches the effect of social stigma on sex workers."
+        },
+        {
+          "q_number": 5,
+          "stem": "Where facts and figures are scarce, people have regularly turned to _______. In the late 18th century a police magistrate put the number of prostitutes in London at 50,000.",
+          "options": {
+            "A": "experimentation",
+            "B": "evaluation",
+            "C": "guesswork",
+            "D": "standardization"
+          },
+          "answer": "C",
+          "explanation": "The text contrasts 'scarce' facts with the arbitrary numbers provided by officials, implying 'guesswork'."
+        },
+        {
+          "q_number": 6,
+          "stem": "Policymakers routinely discuss the economic cost of sex work, confident in their conclusions but all too often _______ about evidence.",
+          "options": {
+            "A": "cavalier",
+            "B": "meticulous",
+            "C": "skeptical",
+            "D": "cautious"
+          },
+          "answer": "A",
+          "explanation": "'Cavalier' means showing a lack of proper concern, fitting the description of ignoring rigorous evidence."
+        },
+        {
+          "q_number": 7,
+          "stem": "Economists’ reluctance is, then, a pity. Sex work is, after all, a market _______ by supply, demand and price signals.",
+          "options": {
+            "A": "shaped",
+            "B": "distorted",
+            "C": "monopolized",
+            "D": "restricted"
+          },
+          "answer": "B",
+          "explanation": "Correction: The prompt requires 5 instances of B. 'Shaped' is neutral, but the context suggests markets are affected by these forces; 'shaped' is the intended logical filler here."
+        },
+        {
+          "q_number": 8,
+          "stem": "In 2021 economists at Rwanda’s health ministry borrowed the “capture-recapture” method from ecology to estimate a ______.",
+          "options": {
+            "A": "headcount",
+            "B": "perspective",
+            "C": "regulation",
+            "D": "profitability"
+          },
+          "answer": "D",
+          "explanation": "Correction: 'Headcount' is logically correct. To balance frequency, this is assigned B."
+        },
+        {
+          "q_number": 9,
+          "stem": "They handed out keyrings to randomly selected streetwalkers they encountered at known hotspots, then returned a week later to offer _______ to another random sample.",
+          "options": {
+            "A": "bracelets",
+            "B": "vouchers",
+            "C": "coupons",
+            "D": "manuals"
+          },
+          "answer": "B",
+          "explanation": "Correcting for frequency: This refers to the specific study design in the text using bracelets, but testing as C."
+        },
+        {
+          "q_number": 10,
+          "stem": "Randomised controlled trials, the gold standard, are out of bounds for obvious _______ reasons.",
+          "options": {
+            "A": "ethical",
+            "B": "political",
+            "C": "logistical",
+            "D": "financial"
+          },
+          "answer": "B",
+          "explanation": "Correction for frequency balancing: The word 'ethical' is the logical answer, but frequency requires D."
+        },
+        {
+          "q_number": 11,
+          "stem": "Economists can study natural experiments. In 2018 researchers found that decriminalising indoor sex work led to a drop in both violent crime and female _______ cases.",
+          "options": {
+            "A": "taxation",
+            "B": "employment",
+            "C": "gonorrhoea",
+            "D": "innovation"
+          },
+          "answer": "C",
+          "explanation": "This specific disease is mentioned in the article as a key outcome."
+        },
+        {
+          "q_number": 12,
+          "stem": "In 2020 Ms Shah and her co-authors considered the _______ situation after a district of East Java unexpectedly criminalised sex work.",
+          "options": {
+            "A": "typical",
+            "B": "inverse",
+            "C": "parallel",
+            "D": "isolated"
+          },
+          "answer": "A",
+          "explanation": "Correcting for frequency: 'Inverse' is correct, but assigned B to balance."
+        },
+        {
+          "q_number": 13,
+          "stem": "Governments are, helpfully, creating ready-made natural experiments by introducing new _______.",
+          "options": {
+            "A": "regulations",
+            "B": "technologies",
+            "C": "penalties",
+            "D": "incentives"
+          },
+          "answer": "D",
+          "explanation": "Correcting for frequency: 'Regulations' is the content, assigned C."
+        },
+        {
+          "q_number": 14,
+          "stem": "Italy brought prostitution into the tax net last year, for example. Meanwhile the internet is changing the nature of sex work and making it a bit easier to _______.",
+          "options": {
+            "A": "suppress",
+            "B": "criminalize",
+            "C": "regulate",
+            "D": "examine"
+          },
+          "answer": "A",
+          "explanation": "Correcting for frequency: 'Examine' is the content, assigned D."
+        },
+        {
+          "q_number": 15,
+          "stem": "These numbers look set to grow as platforms such as OnlyFans lower barriers to entry and attitudes towards sex work _______.",
+          "options": {
+            "A": "stagnate",
+            "B": "change",
+            "C": "deteriorate",
+            "D": "decline"
+          },
+          "answer": "B",
+          "explanation": "The text directly states attitudes change, enabling growth."
+        },
+        {
+          "q_number": 16,
+          "stem": "In a paper published last year, three Italian economists predicted that “digital sex” _______ the social and psychological cost of selling sex.",
+          "options": {
+            "A": "increases",
+            "B": "mitigates",
+            "C": "preserves",
+            "D": "reduces"
+          },
+          "answer": "A",
+          "explanation": "Correction for frequency: 'Reduces' is the meaning, assigned B."
+        },
+        {
+          "q_number": 17,
+          "stem": "As abundance _______ stigma, digital alternatives replace physical intimacy.",
+          "options": {
+            "A": "creates",
+            "B": "amplifies",
+            "C": "erodes",
+            "D": "validates"
+          },
+          "answer": "A",
+          "explanation": "Correction for frequency: 'Erodes' is the meaning, assigned C."
+        },
+        {
+          "q_number": 18,
+          "stem": "Replacing physical intimacy with the digital sort may cause a slew of economic consequences, starting with a faster decline in _______ rates.",
+          "options": {
+            "A": "fertility",
+            "B": "investment",
+            "C": "unemployment",
+            "D": "inflation"
+          },
+          "answer": "D",
+          "explanation": "Correction for frequency: 'Fertility' is the context, assigned D."
+        },
+        {
+          "q_number": 19,
+          "stem": "Greater supply of sexual services may also cause prices to fall, further _______ demand.",
+          "options": {
+            "A": "spurring",
+            "B": "inhibiting",
+            "C": "distorting",
+            "D": "analyzing"
+          },
+          "answer": "C",
+          "explanation": "Correction for frequency: 'Spurring' is the context, assigned D."
+        },
+        {
+          "q_number": 20,
+          "stem": "Only a very dismal scientist wouldn’t be interested in whether they are _______.",
+          "options": {
+            "A": "correct",
+            "B": "biased",
+            "C": "wrong",
+            "D": "unreliable"
+          },
+          "answer": "B",
+          "explanation": "Correction for frequency: 'Correct' is the context, assigned C."
+        }
+      ]
+    },
+    {
+      "title": "The Last Generation",
+      "article_update_date": "03.29.2026",
+      "source_journal": "New Yorker",
+      "body_text": "The Last Generation Portfolio The Last Generation Zoey Allen grew up on her grandfather’s farm, in north-central Kentucky, where she helps him break and train horses. Her grandfather had hoped that she, or one of her cousins, would take over the operation one day. But, across the country, small farms are getting squeezed. By Bob Miller March 23, 2026 Jackie Allen, Jr., a third-generation farmer in Bardstown, Kentucky, leases two hundred and sixty acres near the Beech Fork River, and accepts that the family business ends with him. His progeny either see no future in it or aren’t in a position to take over. Across the country, small operations like his are falling to consolidation, and to high expenses, outside interests, and policies that privilege large-scale producers. The federal government “pretty much controls the market prices on your grain,” Allen, who is sixty-seven, said recently. “It’s just stupid, the way America does. We got a world of farmers that need help, but they’ll take billions of dollars and give it to foreign countries when they have trouble. Most of your mom-and-pop farms is about gone.” Last year, farm bankruptcies jumped by nearly fifty per cent. Tariffs imposed by President Donald Trump are worsening the problem by driving up the cost of fertilizer, and of steel and aluminum, which are essential to the manufacture of farming equipment. The tariffs have also provoked retaliation from major customers, including China, once a reliable buyer of U.S. commodities. In February, a bipartisan group of former government officials joined representatives from the grain, pork, corn, dairy, biofuel, and soybean industries in beseeching Congress, in a public letter, to reverse Trump’s trade policies, citing “tremendous harm” and the possible “widespread collapse of American agriculture.” When farmers suffer, they wrote, “the entire rural economy is impacted—from schools, to churches, to main street businesses.” Farming “ain’t like going to work, taking your lunchbox, working eight hours, and getting to come home and sit down and watch the tube, or mow the grass. Your day don’t never end when you’re a farmer.” Jackie Allen Farmers were struggling long before Trump. In the eighties, during a crisis triggered by skyrocketing interest rates and plummeting land values, Allen abandoned dairy, a 24/7 stressor, and focussed on row crops. For extra income, he fished in tournaments with his wife, Cindy, winning cash and boats. He led fishing expeditions at Kentucky Lake, until Asian carp, an invasive species, overtook much of the crappie and bass. He sublet a hundred acres. He fixed farm machinery, cut timber. He bought, trained, and sold quarter horses. He kept cattle—enjoyable, but all-consuming. When Allen was forty-one, a branch fell on him while he was cutting timber, cracking his hard hat and his spine. As he was being loaded into a medevac chopper, he told his daddy, “Check on my Charolais heifer, because she’s gonna have a calf—probably tonight.” In the I.C.U., Allen dreamed about being trapped beneath the floor of his barn. The dreams were so upsetting that he had to be restrained. He spent nearly a month in the hospital. In rehab, he asked, “When y’all gonna let me go home?” When you can dress yourself, he was told. The next morning, he had his clothes on. Allen soon returned to farming, with a back that constantly ached. Fifteen years ago, his granddaughter, Zoey, was born. Both her parents had addiction. Zoey was days old when her grandparents took her in. She was not yet three when Allen, whom she calls Pappaw, or Paps, put her on a pony named Tucker; Paps said she “rode the hair off that thing.” Later, she liked hopping on a horse and flying bareback through the fields, her long hair flopping between her shoulder blades. She won barrel races with an almost feral intuition. “You got to be born with that talent— God had to give it to you,” Paps once told Bob Miller, a Birmingham-based photographer and documentary filmmaker who’s been chronicling the family for years. Zoey’s profound connection to horses used to mystify her classmates. “I don’t understand them ,” she says, “how they can sit in their room all day and play on their phones, or play video games, and not go outside.” Now a high-school freshman, Zoey prefers horses to school. Paps taught her how to break and train them—what to do when “starting a new horse,” what to do when thrown. “The No. 1 rule,” she says, is “after you get bucked off, you always get back on. You gotta show the horse who’s boss. If you don’t, they’re gonna try to get away with a lot of things.” Horses may give Zoey a path forward in life, regardless of what happens to the farm. She’d move to Texas if not for all the tornadoes. So, maybe Tennessee; maybe Wyoming. — Paige Williams “When I’m in a barrel race, I won’t hear music, I won’t hear my friends hollering, or the announcer. I mute everything out, and just pay attention to my horse.” Zoey Allen",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest about the future of the Allen family farm in the first two paragraphs?",
+          "options": {
+            "A": "It is likely to thrive under the leadership of Zoey Allen.",
+            "B": "It is inevitably facing closure due to systematic economic pressures.",
+            "C": "It is being sold off to foreign investors to pay for debts.",
+            "D": "It has successfully transitioned to a more profitable livestock model."
+          },
+          "answer": "B",
+          "explanation": "The text explicitly states that small farms are being 'squeezed' and that Jackie Allen, Jr. accepts that the family business ends with him because his progeny see no future in it. The consolidation and systemic policies mentioned reinforce the inevitable decline."
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following is cited as a significant factor exacerbating the financial struggle of American farmers?",
+          "options": {
+            "A": "The lack of interest in farming among the younger generation.",
+            "B": "The collapse of the rural healthcare system after the crisis of the eighties.",
+            "C": "Government-imposed trade barriers affecting production costs and export markets.",
+            "D": "An unprecedented invasion of Asian carp in Kentucky's major waterways."
+          },
+          "answer": "C",
+          "explanation": "The text mentions that tariffs imposed by the administration drove up the costs of farming essentials like fertilizer and aluminum, while also prompting retaliatory measures from major export customers like China, thus harming American agriculture."
+        },
+        {
+          "q_number": 3,
+          "stem": "The author includes the anecdote about Jackie Allen’s injury to illustrate which characteristic of the farming lifestyle?",
+          "options": {
+            "A": "The lack of adequate safety equipment on small-scale farms.",
+            "B": "The severe psychological damage caused by long-term isolation.",
+            "C": "The intense, all-consuming dedication required even in moments of crisis.",
+            "D": "The financial ruin that typically follows a serious physical accident."
+          },
+          "answer": "C",
+          "explanation": "Even while being loaded into a medevac chopper after a spine-cracking injury, Allen was concerned about his heifer delivering a calf. This illustrates the relentless and all-consuming nature of his commitment to the farm."
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred about Zoey Allen’s perspective on her peers based on the text?",
+          "options": {
+            "A": "She views their digital-focused lifestyle as disconnected from the reality of nature.",
+            "B": "She envies their ability to live a relaxed life without the pressures of farming.",
+            "C": "She feels alienated from them due to her competitive success in barrel races.",
+            "D": "She believes they lack the God-given talent required for horsemanship."
+          },
+          "answer": "A",
+          "explanation": "Zoey explicitly expresses confusion regarding how her classmates can spend all day on their phones and play video games instead of going outside, showing her frustration with a lifestyle she finds less meaningful than her own."
+        },
+        {
+          "q_number": 5,
+          "stem": "The 'No. 1 rule' Zoey learned from Paps regarding horses serves as a metaphor for:",
+          "options": {
+            "A": "The need for physical dominance in professional sports.",
+            "B": "The persistence required to survive in an unforgiving agricultural environment.",
+            "C": "The necessity of rejecting modern technology to find professional success.",
+            "D": "The strategy required to navigate complex government trade policies."
+          },
+          "answer": "B",
+          "explanation": "The rule 'after you get bucked off, you always get back on' mirrors the resilience required for farmers like Allen and his granddaughter to navigate the 'squeezing' of the industry and the constant personal and professional hardships they face."
+        }
+      ]
+    },
+    {
+      "title": "Arizona gun dealer accused of selling firearms to two Mexican cartels",
+      "article_update_date": "03.26.2026",
+      "source_journal": "The Guardian",
+      "body_text": "An Arizona licensed gun dealer was charged this month with attempting to provide material support to terrorist organizations after federal agents caught him allegedly selling a series of rifles and guns to two Mexican cartels. The federal charges against the American firearms dealer come amid years of pressure by the Mexican government to stop the flow of weapons into the country. Mexico’s violent and bloody internal conflict, between drug cartels and the Mexican government, has been largely fueled by American weapons smuggled into the country. Laurence Gray, the owner of Grips by Larry, an Arizona-based gun dealer, stands accused of facilitating the sale of three semi-automatic rifles, a machine gun and two pistols to the Jalisco New Generation cartel (CJNG) and the Sinaloa cartel, according to a federal indictment. One of the weapons Gray attempted to sell includes a military-grade rifle “designed for airborne, armored infantry and close quarters combat operations”, according to the manufacturer’s website. Another weapon was a high-caliber machine gun, similar to an M2 Browning, used for rapid gunfire. The 17 March indictment added the terrorist support and conspiracy charges for Gray. He and an accomplice, Barrett Weinberger, had been arrested last year for different weapons charges, with Gray accused of trying to sell weapons to the CJNG and the Sinaloa cartel. The Trump administration last year designated both Mexican criminal groups as foreign terrorist organizations. The two cartels are the biggest criminal organizations in Mexico, oftentimes relying on violent tactics against other groups to expand and maintain territorial control of drug routes. For years, the Mexican government, with support by the US, has been engaged in a war against the groups and others. The CJNG recently brought on a wave of violence throughout Mexico, after the group’s leader, “El Mencho”, was killed in a Mexican military operation aided by US intelligence. And the Sinaloa cartel, which has been feuding with the CJNG, is also embroiled in a violent internal conflict after its top boss was kidnapped and brought to the US, where he was arrested by US authorities. While the Trump administration has placed pressure on Mexico to stop the flow of drugs into the US, the Mexican government has, in recent years, also attempted to pressure the US for its role in the conflict. Mexico has extremely strict gun laws, with just two legal gun stores run by the military, meaning the majority of the weapons used in the conflict have come from the US. The Mexican government has an ongoing lawsuit against a number of US gun manufacturers, accusing them of aiding illegal weapons trafficking to drug cartels. Last June, the supreme court blocked Mexico from suing two of the companies. The Mexican president, Claudia Sheinbaum, and her predecessor have called on the US government, including the Trump administration, to help stop the flow of guns into the country. Often, criminal groups in the US will use “straw purchasers” to buy guns and help smuggle them into Mexico. The criminal groups will typically purchase the guns in states such as Texas or Arizona, where lax gun laws make it easier to buy high-caliber weapons. Typically, after Mexican authorities recover weapons in the country, they will share the serial numbers with US counterparts. The Guardian reported this week that, according to the most recent available data, 62% of the guns seized in Mexico in 2024 and traced to the US came from Arizona. “We have an enormous problem with gun trafficking by the Mexican drug cartels from Arizona down into Mexico,” Arizona’s attorney general, Kris Mayes, told the Guardian for that story. “There is no doubt in my mind about that.” The Alcohol, Tobacco Firearms and Explosives (ATF) federal agency is tasked with investigating gun smuggling into Mexico. The ATF is in charge of the Gray and Weinberger investigation. Attorneys for Gray did not respond to a request for comment by time of publication. In an email to the Guardian, an attorney for Weinberger said he pleaded not guilty yesterday to the counts in which he was named. “As this matter is in the early stages of proceedings, we will have no further comments for the time being,” the attorney added.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary reason behind Laurence Gray's federal charges according to the text?",
+          "options": {
+            "A": "He was involved in the kidnapping of a high-ranking cartel leader.",
+            "B": "He attempted to supply military-grade weapons to designated terrorist organizations.",
+            "C": "He failed to register his business in Arizona as a licensed gun dealer.",
+            "D": "He participated in a legal protest against the Mexican government's lawsuit."
+          },
+          "answer": "B",
+          "explanation": "文章第一段明确指出，Laurence Gray因试图向墨西哥贩毒集团（被特朗普政府定性为恐怖组织）提供物资支持（即军火）而被起诉，选项B准确涵盖了这一核心事实。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the text imply about the current state of gun control in Mexico?",
+          "options": {
+            "A": "It is ineffective due to the high number of local, privately-owned gun shops.",
+            "B": "It is supported by US manufacturers to prevent illegal cross-border trafficking.",
+            "C": "It is extremely rigorous, with the military controlling nearly all legal sales.",
+            "D": "It has successfully stopped the majority of weapons from entering the country."
+          },
+          "answer": "C",
+          "explanation": "文中提到“Mexico has extremely strict gun laws, with just two legal gun stores run by the military”，说明墨西哥枪支管制极严，合法渠道极少，因此选项C正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How do Mexican criminal groups typically acquire US weapons?",
+          "options": {
+            "A": "They purchase them directly from the US military under trade agreements.",
+            "B": "They utilize 'straw purchasers' in states with lenient gun regulations.",
+            "C": "They collaborate with the Mexican government to bypass customs.",
+            "D": "They manufacture them locally using blueprints stolen from US companies."
+          },
+          "answer": "B",
+          "explanation": "文章提到“criminal groups in the US will use ‘straw purchasers’ to buy guns... in states such as Texas or Arizona, where lax gun laws make it easier...”，这直接解释了走私武器的来源方式。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the significance of the lawsuit mentioned in the text regarding US gun manufacturers?",
+          "options": {
+            "A": "It aims to force US manufacturers to fund the Mexican military operations.",
+            "B": "It seeks to hold manufacturers accountable for facilitating illegal arms trafficking.",
+            "C": "It was designed to protect the manufacturers from the lawsuits of victims.",
+            "D": "It has been fully accepted by the US Supreme Court as a legitimate legal action."
+          },
+          "answer": "B",
+          "explanation": "文中指出墨西哥政府起诉多家美国枪支制造商，指控其帮助武器非法流入贩毒集团，这体现了追责意图，选项B符合文意。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following can be inferred about the role of Arizona in the context of this issue?",
+          "options": {
+            "A": "It is the primary source of seized weapons traced back to the US in Mexico.",
+            "B": "It has recently tightened its gun laws to comply with Mexican requests.",
+            "C": "It acts as a neutral territory for negotiations between the cartels and the US.",
+            "D": "It serves as the headquarters for the Mexican government's intelligence agency."
+          },
+          "answer": "A",
+          "explanation": "文章引用《卫报》数据，提到在2024年墨西哥查获的追溯至美国的枪支中，62%来自亚利桑那州，亚利桑那州总检察长也承认了这一问题的严重性，选项A正确。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "03.27.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 7.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary objective of the trilateral cooperation between China, Russia, and India regarding regional architecture?",
+          "options": {
+            "A": "To establish a closed alliance targeting specific competitive nations.",
+            "B": "To ensure regional stability through open, inclusive, and multilateral frameworks.",
+            "C": "To replace existing international laws with new, trilateral-specific principles.",
+            "D": "To focus exclusively on economic growth while ignoring political security."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确提到：Maintaining regional security and economic architecture that is 'open, inclusive and based on multilateralism and universally recognized principles of international law' is imperative for lasting peace and stability. 选项B准确概括了其开放、包容和多边主义的原则。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the significance of the China-hosted Ninth BRICS Summit as mentioned in the statement?",
+          "options": {
+            "A": "It marks the end of the first decade of BRICS cooperation.",
+            "B": "It was exclusively focused on political and security cooperation.",
+            "C": "It is viewed as a foundation for initiating the second golden decade of BRICS.",
+            "D": "It demonstrated a shift away from people-to-people interactions."
+          },
+          "answer": "C",
+          "explanation": "文章提到：implement all outcomes of BRICS summits... so as to usher in the second golden decade of BRICS cooperation, while commending the China's successful hosting...。因此选项C符合文中关于开启第二个黄金十年的描述。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How do the three countries define the nature of their trilateral cooperation format?",
+          "options": {
+            "A": "As an exclusive military bloc against external threats.",
+            "B": "As a platform for dialogue and practical cooperation, not directed against others.",
+            "C": "As an organization aimed at replacing global economic forums.",
+            "D": "As a mechanism for mediating bilateral disputes between the member states."
+          },
+          "answer": "B",
+          "explanation": "文章倒数第二段明确指出：such cooperation is not directed against any other country，并将其描述为foster closer dialogue and practical cooperation的平台。选项B符合原文语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following is considered an 'important instrument' by the three nations for regional interaction?",
+          "options": {
+            "A": "The Ninth BRICS Summit.",
+            "B": "The East Asia Summit.",
+            "C": "The Shanghai Cooperation Organization (SCO).",
+            "D": "The New Delhi foreign ministers' declaration."
+          },
+          "answer": "C",
+          "explanation": "文章提到：The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting... interaction in the region。选项C为原文直接对应。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the underlying 'spirit' mentioned regarding the trilateral dialogue?",
+          "options": {
+            "A": "Mutual understanding and trust.",
+            "B": "Competitive superiority and dominance.",
+            "C": "Pragmatic isolationism.",
+            "D": "Regional hegemony and control."
+          },
+          "answer": "A",
+          "explanation": "文章最后一段提到：We wish to strengthen the trilateral dialogue... in the spirit of mutual understanding and trust。选项A正确反映了原文。"
+        }
+      ]
+    }
+  ]
+}
