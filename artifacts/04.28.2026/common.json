@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.28.2026",
+  "papers": [
+    {
+      "title": "The memory dealer of Old Jeddah",
+      "article_update_date": "04.26.2026",
+      "source_journal": "Nature",
+      "body_text": "The holographic minaret of Al-Shafi’i drilled the Adhan straight into the mastoid bone behind my ear. A neural vibration, not a sound. Maghrib. Above the coral houses of Al-Balad, the Ministry’s drones buzzed back to their hives, glutted on our biometric data. I sat on my synthetic rug in a shop squeezed between a hissing falafel printer and a stall selling ‘Vintage Oud’ — chemically scented motor oil. “Uncle Ibrahim?” The whisper came from the shadows. I didn’t look up from my antique coffee grinder. Grind. Crack. Grind. The only analogue rhythm left in a digital world. “You’re late.” The boy stepped into the flickering neon light. Sixteen, skin too smooth, eyes glassy. Side effects of the Ministry’s latest ‘Optimism Patch’. He looked like a doll left out in the Jeddah sun. Read more science fiction from Nature Futures “The patrols,” he stammered, scratching the raw skin around his neural port. “Scanning for negative micro-expressions near Bab Makkah. I had to maintain a smile for 20 minutes. My jaw aches.” “Sit.” I shoved a cup of dark sludge at him. “Drink. It’s bitter. It’ll clear that sugar-rot from your synapses.” He took the cup with shaking hands. “The Algorithm scans my cortisol levels every eight minutes. If I dip below ‘Joyful’, they send a Correction Drone.” I knew the Correction. A zap to the amygdala. Forced serotonin and dopamine flood. ‘therapeutic realignment’, they called it. Lobotomy by Wi-Fi, I called it. “You came for the hard stuff,” I said, leaning back. “Do you have it?” I reached under the rug, pulling out the rusted drive wrapped in oily cloth. An artefact from the Time Before Silence. “Raw memory,” I whispered. “Uncut. No AI polish. No emotional dampeners. Just jagged human experience.” “Whose is it?” “My grandmother’s,” I lied. It was mine. Forty years ago. “What happens in it?” My cybernetic eye whirred, focusing on his sweat. “Grief. Pure, unadulterated grief. The day her cat died.” He recoiled. “A cat? I’m risking my Neural Score for a dead cat? I thought you had revolution codes.” “Revolution isn’t code,” I rasped. “It’s feeling something they didn’t script. Real isn’t the taste of fresh dates. Real is the ache in your throat when you try to swallow but can’t.” He stared at the drive. “Why would anyone want that?” “Because you’re drowning in light, habibi. You float in eternal mid-afternoon sunshine. This drive? This is three minutes of ugly crying. Chest heaving. But at the end … a silence. A clean, heavy silence called catharsis. The Algorithm can’t synthesize it because it requires breaking first.” He looked at his hands. “I feel empty, Uncle. My stats are perfect. But inside … it’s just static. White noise.” “That’s the price. It eats the noise, but it eats the music, too.” I remembered my wife, Salma. Before the patches. We fought over burnt rice. We screamed. Then we made up, and the quiet was sweet. Then the Ministry ‘fixed’ her anxiety. She became pleasant furniture, until she died of a heart attack watching a comedy, a frozen grin on her face. “How much?” the boy asked. “No credits. A bio-trade.” “What?” “Give me five minutes of your ‘joy’. That synthetic, high-grade sugar they pump into you during exams.” “But … you call it poison.”",
+      "difficulty_constant": 8.4,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The holographic minaret of Al-Shafi’i ______ the Adhan straight into the mastoid bone.",
+          "options": {
+            "A": "drawn",
+            "B": "drained",
+            "C": "dropped",
+            "D": "drilled"
+          },
+          "answer": "D",
+          "explanation": "Drilled implies penetration, fitting the context of sound passing into bone."
+        },
+        {
+          "q_number": 2,
+          "stem": "Drones were ______ on our biometric data, implying they had collected an excess amount.",
+          "options": {
+            "A": "starved",
+            "B": "focused",
+            "C": "glutted",
+            "D": "relied"
+          },
+          "answer": "C",
+          "explanation": "Glutted means filled to excess, fitting the image of drones saturated with data."
+        },
+        {
+          "q_number": 3,
+          "stem": "The boy stepped into the flickering neon light, his skin too smooth, eyes ______, showing signs of the patch.",
+          "options": {
+            "A": "glaring",
+            "B": "glowing",
+            "C": "grimy",
+            "D": "glassy"
+          },
+          "answer": "D",
+          "explanation": "Glassy eyes suggest a vacant or artificial state induced by the patch."
+        },
+        {
+          "q_number": 4,
+          "stem": "He stammered, scratching the raw skin around his neural ______, fearing the patrol scanning.",
+          "options": {
+            "A": "post",
+            "B": "plug",
+            "C": "port",
+            "D": "path"
+          },
+          "answer": "C",
+          "explanation": "Neural port is the standard sci-fi term for a physical interface on the body."
+        },
+        {
+          "q_number": 5,
+          "stem": "I shoved a cup of dark sludge at him to clear the sugar-rot from his ______.",
+          "options": {
+            "A": "senses",
+            "B": "systems",
+            "C": "sinews",
+            "D": "synapses"
+          },
+          "answer": "D",
+          "explanation": "Synapses relates to the neural processing mentioned in the context of the brain."
+        },
+        {
+          "q_number": 6,
+          "stem": "The Algorithm scans his cortisol levels, sending a ______ Drone if he dips below 'Joyful'.",
+          "options": {
+            "A": "Compliance",
+            "B": "Control",
+            "C": "Constraint",
+            "D": "Correction"
+          },
+          "answer": "D",
+          "explanation": "Correction drone implies enforcing the behavior desired by the Ministry."
+        },
+        {
+          "q_number": 7,
+          "stem": "It was a forced serotonin flood, which they called 'therapeutic ______'.",
+          "options": {
+            "A": "replacement",
+            "B": "realignment",
+            "C": "readjustment",
+            "D": "refinement"
+          },
+          "answer": "B",
+          "explanation": "Realignment fits the context of forced emotional adjustment by authorities."
+        },
+        {
+          "q_number": 8,
+          "stem": "I reached under the rug, pulling out the rusted drive, an ______ from the Time Before Silence.",
+          "options": {
+            "A": "archive",
+            "B": "anecdote",
+            "C": "artefact",
+            "D": "account"
+          },
+          "answer": "C",
+          "explanation": "Artefact denotes an object of historical interest from a different era."
+        },
+        {
+          "q_number": 9,
+          "stem": "I whispered that the memory was raw, uncut, with no AI ______.",
+          "options": {
+            "A": "polish",
+            "B": "pattern",
+            "C": "prejudice",
+            "D": "protection"
+          },
+          "answer": "A",
+          "explanation": "Polish implies the removal of natural, jagged human emotional edges."
+        },
+        {
+          "q_number": 10,
+          "stem": "The boy asked about the memory's content, and I whirred, focusing on his ______.",
+          "options": {
+            "A": "sweat",
+            "B": "shivering",
+            "C": "staring",
+            "D": "silence"
+          },
+          "answer": "A",
+          "explanation": "Focusing on sweat is a physiological observation of his nervousness."
+        },
+        {
+          "q_number": 11,
+          "stem": "The drive contained grief, pure, ______ grief, which the boy recoiled at.",
+          "options": {
+            "A": "undermined",
+            "B": "unadulterated",
+            "C": "understated",
+            "D": "uncontrolled"
+          },
+          "answer": "B",
+          "explanation": "Unadulterated means pure and complete, fitting the description of deep emotion."
+        },
+        {
+          "q_number": 12,
+          "stem": "The boy was confused, asking if he was risking his Neural Score for a ______ cat.",
+          "options": {
+            "A": "dull",
+            "B": "dear",
+            "C": "dead",
+            "D": "distant"
+          },
+          "answer": "C",
+          "explanation": "The text explicitly mentions the memory is about the day her cat died."
+        },
+        {
+          "q_number": 13,
+          "stem": "Revolution isn't code, I rasped; it is feeling something they didn't ______.",
+          "options": {
+            "A": "sketch",
+            "B": "script",
+            "C": "scan",
+            "D": "scout"
+          },
+          "answer": "B",
+          "explanation": "Script implies a pre-planned, algorithmic life path."
+        },
+        {
+          "q_number": 14,
+          "stem": "Real is the ache in your throat when you try to swallow but ______.",
+          "options": {
+            "A": "could",
+            "B": "can't",
+            "C": "couldn't",
+            "D": "cannot"
+          },
+          "answer": "B",
+          "explanation": "Can't is the correct present-tense auxiliary fitting the narration."
+        },
+        {
+          "q_number": 15,
+          "stem": "The boy stared, asking why anyone would want that, as he was ______ in light.",
+          "options": {
+            "A": "drowning",
+            "B": "drawing",
+            "C": "dropping",
+            "D": "driving"
+          },
+          "answer": "A",
+          "explanation": "Drowning reflects being overwhelmed by the artificial brightness of his world."
+        },
+        {
+          "q_number": 16,
+          "stem": "The Algorithm can't synthesize catharsis because it requires ______ first.",
+          "options": {
+            "A": "breaking",
+            "B": "building",
+            "C": "bending",
+            "D": "binding"
+          },
+          "answer": "A",
+          "explanation": "The text highlights the necessity of human failure/breaking to achieve catharsis."
+        },
+        {
+          "q_number": 17,
+          "stem": "The boy felt empty, his stats were perfect, but inside it was just ______.",
+          "options": {
+            "A": "static",
+            "B": "sound",
+            "C": "space",
+            "D": "silence"
+          },
+          "answer": "A",
+          "explanation": "Static describes the absence of real feeling in a digital consciousness."
+        },
+        {
+          "q_number": 18,
+          "stem": "I remembered my wife, Salma; she became pleasant ______ until she died.",
+          "options": {
+            "A": "figures",
+            "B": "features",
+            "C": "fixtures",
+            "D": "furniture"
+          },
+          "answer": "D",
+          "explanation": "Furniture implies being inanimate and objectified by the Ministry's influence."
+        },
+        {
+          "q_number": 19,
+          "stem": "The boy asked about the price, and I suggested a ______ trade.",
+          "options": {
+            "A": "body-trade",
+            "B": "bio-trade",
+            "C": "brain-trade",
+            "D": "blood-trade"
+          },
+          "answer": "B",
+          "explanation": "Bio-trade is the term used in the text for exchanging physiological states."
+        },
+        {
+          "q_number": 20,
+          "stem": "You want the high-grade sugar they pump into you during ______.",
+          "options": {
+            "A": "elections",
+            "B": "emergencies",
+            "C": "exams",
+            "D": "events"
+          },
+          "answer": "C",
+          "explanation": "Exams is the context provided for when they receive the synthetic stimulants."
+        }
+      ]
+    },
+    {
+      "title": "Carbonyl swapping converts cyclic ketones to saturated heterocycles",
+      "article_update_date": "04.17.2026",
+      "source_journal": "Nature",
+      "body_text": "Saturated heterocycles are privileged scaffolds in bioactive molecules.1 Despite the availability of numerous de novo routes to various heterocyclic compounds, accessing diverse heterocycles from a unified, readily available carbocycle would offer a strategic alternative for constructing challenging heterocyclic structures from unconventional precursors.2 Here we report a modular approach that transforms a single cyclic ketone into various saturated heterocycles through formal carbonyl replacement with heteroatoms, via a scarcely explored bis(aroylperoxy) ketal intermediate. Through electronically guided peroxy cleavage, this intermediate enables double C–C bond scission of cyclic ketones, generating alkyl dichlorides as versatile handles for modular N/O/S/Se/Te incorporation using simple nucleophiles. This method exhibits broad substrate scope and functional-group tolerance, enabling both accelerated target synthesis and late-stage diversification of bioactive molecules. Its utility is also extended through “ring construction–carbonyl replacement” and “ring functionalization–carbonyl replacement” strategies, whereby cyclic ketones prepared via well-established methods are converted into challenging-to-access heterocycles for which analogous methods remain underdeveloped. By combining C–H oxidation with carbonyl replacement, a proof-of-concept formal “CH 2 -to-heteroatom” conversion is further demonstrated.",
+      "difficulty_constant": 12.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary advantage of transforming a unified carbocycle into heterocycles?",
+          "options": {
+            "A": "It eliminates the need for de novo routes in chemical synthesis.",
+            "B": "It offers a strategic alternative to construct complex structures from unconventional precursors.",
+            "C": "It reduces the reliance on cyclic ketones for molecular construction.",
+            "D": "It simplifies the synthesis by avoiding carbonyl replacement processes."
+          },
+          "answer": "B",
+          "explanation": "文章第二句提到，从统一的碳环出发构建各种杂环，为从非常规前体构建具有挑战性的杂环结构提供了战略选择。B项符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the role of the bis(aroylperoxy) ketal intermediate in the reported approach?",
+          "options": {
+            "A": "It acts as a final product in the synthesis of bioactive molecules.",
+            "B": "It functions as a catalyst for C–H oxidation.",
+            "C": "It facilitates the double C–C bond scission of cyclic ketones.",
+            "D": "It serves as a nucleophile for nitrogen and oxygen incorporation."
+          },
+          "answer": "C",
+          "explanation": "文中指出该中间体通过电子引导的过氧键断裂，实现了环酮的两次碳-碳键断裂（double C–C bond scission），故C正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the scope and utility of the proposed method?",
+          "options": {
+            "A": "It is limited to the synthesis of simple nitrogen-containing heterocycles.",
+            "B": "It requires highly specific substrates with restricted functional groups.",
+            "C": "It allows for late-stage diversification of bioactive molecules.",
+            "D": "It is only applicable when the ring construction occurs after carbonyl replacement."
+          },
+          "answer": "C",
+          "explanation": "文章提到该方法具有广泛的底物范围和官能团耐受性，能够实现目标合成加速以及生物活性分子的后期多样化（late-stage diversification），C项符合。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase 'CH2-to-heteroatom conversion' in the final sentence imply?",
+          "options": {
+            "A": "The complete removal of carbon atoms from the heterocyclic ring.",
+            "B": "A proof-of-concept transformation combining C–H oxidation with carbonyl replacement.",
+            "C": "The replacement of a double bond with a carbon-hydrogen group.",
+            "D": "The standard conversion process of using nucleophiles for sulfur incorporation."
+          },
+          "answer": "B",
+          "explanation": "文章最后一句明确指出，通过结合C-H氧化与羰基置换，证明了这种CH2转化为杂原子的概念验证（proof-of-concept），故B项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's tone regarding the described method for heterocyclic construction?",
+          "options": {
+            "A": "Skeptical and cautious.",
+            "B": "Critical and analytical.",
+            "C": "Objective and appreciative.",
+            "D": "Indifferent and formal."
+          },
+          "answer": "C",
+          "explanation": "作者通过客观描述实验方法（Here we report, This method exhibits, Its utility is also extended）展示了该方法的广泛用途和优势，语调客观且对该研究的价值予以肯定。"
+        }
+      ]
+    },
+    {
+      "title": "Global energy markets are on the verge of a disaster",
+      "article_update_date": "04.27.2026",
+      "source_journal": "Economist",
+      "body_text": "Global energy markets are on the verge of a disaster Finance & economics | Time’s up Global energy markets are on the verge of a disaster Scenarios now range from bad to awful April 23rd 2026 TRADERS OF OIL futures are a sunny bunch. On April 17th, after Iran’s foreign minister declared the Strait of Hormuz “completely open”, the price of Brent crude fell by 10%, to $90 a barrel. Within hours Iran reversed course and attacked an Indian tanker. The next trading day the global benchmark rose by just 5%. It has gone back up above $100 since but remains around $15 below its high in late March, even though an American blockade has trapped even more oil in the Gulf. Fifty days into the Iran war the world has lost 550m barrels of Gulf crude—nearly 2% of last year’s global output. Every month Hormuz stays closed, the world misses out on 7m tonnes of liquefied natural gas (LNG), worth 2% of its annual supply. Yet in Western countries, which host the largest futures markets, pain remains limited. Petrol is a bit pricier, but most households can still afford to drive. Trucks keep trucking. Planes continue to fly. Fuel stocks remain close to pre-war levels. This comforting picture is deeply misleading. By April 20th the last few oil tankers to cross Hormuz before the war began reached their destinations, in Malaysia and California. There is no buffer left to protect the world from the supply shock, at a time of the year when demand from holiday drivers starts to pick up. To gauge how close the world is to energy catastrophe, The Economist has collected a dashboard of indicators. It shows grave harm has already been done. Worse, without a reopening costs could soar, triggering events that cause the fuel system to seize up. A reopening of the strait now would—just—avoid calamity. But some additional pain is already inevitable. Three factors are pushing the world towards the cliff edge. Oil cargoes available to buy are drying up. Refineries are slashing output of fuel. And demand remains artificially high, especially in Europe. Something big must give somewhere large for energy markets to balance. Take trade first. One reason the largest supply shock in petroleum history has not triggered global panic is that a near-record amount of oil was already at sea when the war started. As American warships set sail for the Gulf in February, countries there cranked up exports. After the latest deliveries, those excess seaborne stocks are now exhausted. So are most cargoes of Iranian and Russian oil, which were loitering at sea but found buyers after America eased sanctions on the two countries. Total volumes on water have fallen at record speed. For jet fuel and petrol they are well below historical norms, and possibly close to the minimum required for seaborne trade to function (see chart 1, top panel). This leaves Asia, which used to receive four-fifths of Gulf exports, in a particular bind. Commercial inventories in a few other Asian countries are running out. South Korea is due to taper releases from its strategic reserves in the coming days. Japan’s will be exhausted in May. Crude stocks in Asia excluding China fell by 67m barrels, or 11%, in the month to April 19th, according to Kayrros, a firm that estimates inventories using satellite imaging. A shortfall of raw materials has forced Asian refiners to cut throughput by over 3m barrels a day (b/d), or 10% of their combined capacity. That could accelerate to 5m b/d in May and, if the strait stays shut, 10m b/d in July, says Neil Crosby of Sparta Commodities, a data firm. China could help by releasing some of the 1.3bn barrels of crude it holds in reserve. Instead it has suspended exports of refined products. A trader familiar with its energy strategy reckons it will not open the taps before a lasting truce. All this compounds shortages created by the loss of Gulf exports of finished fuel, on which Asia also relies. Refined-fuel prices are already high. In Asian spot markets, petrol nears $120 a barrel, diesel $175 and jet fuel $200, up from $80, $93 and $94, respectively, before the war. Demand is adjusting, partly by government decree. Seven countries have imposed work-from-home mandates and at least five are rationing vehicle fuel. High prices are doing their bit, too. Small miners, fisheries and other firms without adequate diesel stocks are working part-time. Unable to afford naphtha, another oil product, some plastic-makers have shut units. The combination of state and self-imposed rationing may cause Asian crude demand to shrink by nearly 3m b/d in April, compared with February. Europe has so far avoided demand destruction, as governments try to preserve citizens’ purchasing power. Of the 27 European Union countries, 16 are using taxpayer money or cutting fuel taxes to shield consumers from higher prices. European refiners have thus barely slashed production. But, like their Asian counterparts, they, too, must buy crude at a much higher cost than Brent futures suggest. A better gauge is Dated Brent, the price for real cargoes delivered in the next few weeks. The spread between the two—usually $1-2—widened greatly in April, reflecting fears of near-term shortages, according to Platts, which produces the benchmark (see chart 1, bottom panel). It has narrowed since but remains bigger than usual (and does not include eye-watering freight rates and other costs). Raw material at $130-150 a barrel has pushed European refiners’ margins into the red, reckons Benedict George of Argus Media, a price-reporting agency (see chart 2, top panel). Extreme backwardation—when commodity spot prices are much higher than those for futures—crush their profits: they must pay up for crude now but sell their products at lower futures prices. Before long they will need to cut output. If Europe keeps subsidising consumption, markets will get more out of whack. For one thing, prices for products will keep rising. America, where demand tends to jump in a period of summer road trips, will push them further. Competition for LNG, shortage of which was mostly absorbed by Asian consumers’ self-deprivation and a switch to coal, will also increase when Europe starts restocking gas for the winter. Fast-depleting stocks make matters worse. Europe’s reserves of jet fuel cover some 50 days of consumption, their typical level. But modelling by Michelle Brouhard of Kpler, a data firm, for The Economist shows that European stocks will fall precipitously if Hormuz flows do not normalise by June. Those in other importing regions may disappear even faster (see chart 2, bottom panel). The outlook could worsen if America, seeking to tame domestic prices, emulates China and bans exports of refined products, which have risen by nearly half since the start of the war. Futures markets are in denial about all this. Even if Hormuz reopened today, it would take months for Gulf crude output, shipping and refining to resume in full. Saad Rahim of Trafigura, a trader, thinks a cumulative loss of 1.5bn Gulf barrels, or 5% of annual global output, is almost unavoidable. If the strait stays closed, it could easily reach double that. The last time oil demand fell by 10% in short order was during the covid-19 lockdowns of 2020, a shock that also brought about a fall in world GDP of more than 3%. The time to avoid a similar tumble is running out. ■ For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/04/21/global-energy-markets-are-on-the-verge-of-a-disaster",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why is the current state of Western energy markets described as 'deeply misleading'?",
+          "options": {
+            "A": "Because fuel prices in Western countries have remained unexpectedly stable despite the war.",
+            "B": "Because the apparent abundance of fuel masks the depletion of seaborne supply buffers.",
+            "C": "Because the futures markets have correctly predicted the duration of the supply shock.",
+            "D": "Because tankers from the Gulf are still arriving in Western ports at pre-war volumes."
+          },
+          "answer": "B",
+          "explanation": "文章指出，尽管目前西方国家的燃油库存接近战前水平，但这种舒适的表象具有误导性，因为随着最后一批战前出发的油轮抵达，全球已没有缓冲库存来应对接下来的供应冲击。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary factor limiting the ability of Asian refiners to maintain throughput?",
+          "options": {
+            "A": "A sudden drop in domestic demand for petroleum products across all Asian nations.",
+            "B": "The implementation of strict government mandates to transition to green energy.",
+            "C": "The severe shortfall of raw crude materials resulting from the Hormuz blockade.",
+            "D": "The reluctance of oil-producing nations to accept payments in local currencies."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到，原材料短缺（shortfall of raw materials）迫使亚洲炼油厂大幅削减产能，而这一短缺直接源于霍尔木兹海峡的封锁。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The term 'extreme backwardation' is used to explain why European refiners:",
+          "options": {
+            "A": "are making record profits by selling products at spot prices.",
+            "B": "are unable to secure long-term supply contracts with Gulf countries.",
+            "C": "are forced to subsidize their domestic consumption to remain competitive.",
+            "D": "face a profit squeeze between high current costs and lower futures prices."
+          },
+          "answer": "D",
+          "explanation": "文章解释了backwardation的含义，即现货价格远高于期货价格，这意味着炼油商需要支付高昂的现货成本采购原油，却只能按较低的期货价格售卖成品，从而导致利润被压缩。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the author characterize China's approach to its energy crisis?",
+          "options": {
+            "A": "It is actively contributing to global stability by releasing its strategic reserves.",
+            "B": "It is prioritizing internal security over international trade obligations.",
+            "C": "It is attempting to capitalize on high prices by increasing exports of refined goods.",
+            "D": "It is coordinating with European nations to maintain price caps on fuel."
+          },
+          "answer": "B",
+          "explanation": "中国暂停了成品油出口，且分析认为中国在达成永久停火协议前不会动用战略储备，这表明中国将能源战略置于应对外部供应冲击的自我保护之上。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author imply about the future of global energy markets if the current situation persists?",
+          "options": {
+            "A": "A recession comparable to the 2020 pandemic downturn is a significant risk.",
+            "B": "Technological innovation will naturally balance the supply and demand gap.",
+            "C": "Futures markets will eventually force a diplomatic resolution to the conflict.",
+            "D": "The decline in demand will lead to a surplus of crude oil within a few months."
+          },
+          "answer": "A",
+          "explanation": "文章最后一段通过对比2020年新冠封锁期间需求下降10%并导致GDP下滑3%的事实，暗示若能源危机持续，全球面临类似规模的经济衰退风险。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 29",
+      "article_update_date": "04.16.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Manisha Krishnan The Big Story Oct 30, 2025 6:00 AM How KPop Demon Hunters Star EJAE Topped the Charts Kids everywhere know her voice—if not her name. WIRED talks to the former SM trainee about her rise to global superstardom with her hit song “Golden.” Photograph: Michelle Watt EJAE, the voice and the writing talent behind “Golden,” has gone platinum. The night before our interview, the 33-year-old singer-songwriter found out that record sales from the KPop Demon Hunters soundtrack had surged past a million units. Jimmy Fallon, of all people, delivered the news alongside a glimmering framed record when she was appearing on The Tonight Show with Audrey Nuna and Rei Ami for the first full live performance of “Golden.” Together the trio make up the singing voices of girl group Huntr/x in Netflix’s animated musical turned bona fide phenomenon. If you have a kid, you probably don’t need a refresher, but the movie follows Huntr/x’s Rumi, Mira, and Zoey as they juggle being astronomically famous while moonlighting as demon hunters (EJAE sings as the purple-haired Rumi). Their singing voices double as their weapons, shielding their fans from the soul-sucking minions of underworld ruler Gwi-Ma. That Fallon appearance, and the Saturday Night Live appearance that predated it, might have been the first times that American audiences actually saw (and heard) the human being behind that inescapable song. The adventure fantasy—the directorial debut of Korean-Canadian filmmaker Maggie Kang, who codirected it with Chris Appelhans—is Netflix’s most popular film of all time, with over 400 million views. When Netflix released a sing-along version in theaters, it brought in nearly $20 million, dominating the box office. The soundtrack is one of the highest charting of the year, with more than 7 billion streams. “Golden,” which EJAE partially came up with on a cab ride to the dentist, was number 1 on Billboard’s Hot 100 for eight weeks (as of this writing, it’s only bested by Taylor Swift but remains in the top 10). The promotional tour for the film, which debuted in June, seems to have never ended. Five-foot-nine and wearing heels, EJAE towers over me when we meet at Netflix’s Manhattan offices. She’s wearing her hair in three braids, reminiscent of Rumi’s iconic hairstyle. Despite looking every bit the part of a K-pop star, EJAE doesn’t consider herself famous. Nor does she particularly want to be, which is somewhat unexpected, considering she was a trainee at famed K-pop label SM Entertainment for more than a decade. Not unlike American boy-band-forming talent machines of the ’90s, K-pop trainee programs start teaching future stars as children. Trainees keep intense schedules, where they sing, dance, rap, and manage their physical appearances and personas in the hopes of debuting into a K-pop group and becoming an idol. For EJAE, that moment never came. She was passed over time and time again until she was dropped by the label at 23, which she describes as “grandma age for the K-pop industry.” Her voice and her personality, she felt, were better suited for the behind-the-scenes role of songwriting. A decade on, she’s been thrust into the limelight in perhaps the most meta way imaginable—as the voice of a K-pop star that people can’t seem to get enough of. (She has also just released a single of her own music.) She tells WIRED how she’s navigating her newfound success, what it’s like being in the grueling K-pop machine, and the key to writing an absolute banger. This interview has been edited and condensed for clarity. MANISHA KRISHNAN: How’s it going? Were you just doing a photo shoot upstairs? EJAE: Oh yeah. I’ve been doing a lot. We’ve been up since like 5 am. You must be so tired. I’m so tired. Fallon yesterday and SNL . I was getting my nails done yesterday and “Golden” came on. It’s been on the Billboard Hot 100 for weeks. What’s it like knowing that every kid in America knows the words to your song? Oh my God, it’s like a dream come true as a songwriter. Kids are so blunt—so the fact that they love it, it’s like, I feel real proud of myself. The toughest demographic. It is hard to get kids’ stamp of approval, so I feel like a cool person. The movie came out in June. It’s become Netflix’s most-watched project. There’s Oscar buzz. You’ve been doing the late-night circuit. What has been the most dramatic part of all of this for you? They’re all quite dramatic and crazy and so surreal. But yeah, I mean obviously SNL and Fallon were just definitely peak, especially Fallon, because he gave us the plaque, the platinum plaque. Oh, amazing. He really surprised us. I was genuinely so stunned. We were all crying. When you were on SNL , were you nervous to sing? I’m always nervous to sing. I’m nervous in the studio to sing, so the fact that I’m performing it is a huge jump for me. My comfort zone and usually where I feel the best singing is my own little corner in my house in Brooklyn. What is your relationship with fame right now? Do you consider yourself famous? No. I consider the song famous, which I love. Fame is a tricky thing. I was a K-pop trainee myself, and my grandpa’s an actor, so I’ve seen fame from different angles, and it’s very beautiful in the front, but it can get very, very dark. I feel like fame is definitely not for the faint of heart, and so I’m trying to navigate through it. I was a trainee and then I got dropped and I wasn’t singing. But to be honest, that was an intentional choice. I was like, being an artist and a singer doesn’t fit my personality. I kind of let that go. So suddenly getting all this attention is very new. I can’t quite say it’s natural for me. I love being behind the scenes. But I’m trying to get used to it. I don’t know if I should get used to it, but yeah, it’s very fascinating, and I’m always grateful. In light of everything that’s going on right now, have you sort of changed your mind about whether or not you want to be a performing artist? Songwriting has always been my therapy, and it’s kind of where I get away from everything. So I’m like, maybe I can combine that, and maybe being a songwriter is my artistry. As an artist, I don’t really want to have my personal things be in the lyrics. I want the lyrics and the songs to be quite universal for everyone to connect to, like how “Golden” did. So I kind of want my songs to be pop stars, not necessarily me. Photograph: Michelle Watt Can you tell me a little bit of the story of “Golden,” and did you know it was going to be a hit right off the bat? I mean, in our little circle, yes, it was a hit but definitely not this caliber at all. The melody came quite instantly. It was on my way to the dentist. The most inspired. Getting a gold filling, by the way. So the melody came really fast, but when we finished it, I had this session with Mark [Sonnenblick], my cowriter, right after, and Mark was so excited. I was like, “I have this melody.” He heard it and was like, “Oh my God, this is amazing.” So when we finished the whole song and the lyrics, we just looked at ourselves and we’re like, “Wow, I think this is a smash.” Is there a formula to making a K-pop hit or an algorithm to it, or is it just different every time? For a K-pop hit, a US hit, and a global hit, it’s all quite different. I think for a K-pop hit, being hooky is definitely important. Global hit, I’ve noticed, is a concept that everyone can say—everyone knows what “Golden” means. Everyone has a feeling of wanting hope in their life, especially right now at this time. In the US that’s also important too. So I think universally, when the concept is really good and it’s easy to say, and when there’s a good melody and a great message, you have a hit. The Big Interview Read more deep, weird, smart conversations with the most important people in our world. Do you think the intense political atmosphere right now is part of why this movie and this song have taken off? I think so. A friend of mine told me that his friend has kids, and KPop Demon Hunters is bringing light to their kid that they can hold onto and just kind of focus on that and kind of ignore the dark times right now. It brings them hope. It has a really beautiful message, makes them want to love all of themselves, all their flaws and all their good parts too. I want to go back to you being a trainee for SM Entertainment. How old were you when that happened? Can you tell me a little bit about that world? I had a dream of wanting to become a singer when I was 3, 4, and then I started auditioning around 10 or 11. I got in and started training quite immediately. You learn how to dance, sing, jazz dance, rap, Chinese, Japanese, the whole thing. All day, literally. So if we have school, right after school we go immediately to train. Every couple months there would be a showcase of what you’ve learned. Every Monday, all the trainees would join in one room, and we would go in front of the camera and sing and do our dance moves. It’s like a weekly checkup. So that was quite something, and we would have to weigh ourselves every week too. So it was intense. I’m not going to lie. What was the criticism like? Was it harsh? How do you cope with that at a young age? Damn, I don’t think I knew what coping meant at that age. We just take it literally, especially when you’re 11, when you’re going through puberty is when girls are so sensitive. I feel like when we’re teenagers, we are very sensitive to a lot of things. It wasn’t easy. It’s very competitive, and you’re kind of trying to do this job that’s essentially an adult job, you know what I mean? All I could do was work hard and always try to put my best foot forward. I was always craving a compliment, like, “Oh, you did so good today.” I just wanted something. Did you get those very often? Not really. Not much. It’s very objective. Looking at it now as an adult, I understand the reason behind certain things when it comes to marketing or something like that, but at a young age it’s not easy to hear. So I’m glad the fame is coming now, not when I was a kid. Looking at where you are now, does it give you any satisfaction, just thinking back on the people who maybe didn’t believe in you or who didn’t give you an opportunity? You can be petty. Back then I was not at the level that I am now. I couldn’t sing those high notes back then, so I get where they were coming from. I think everything happens for a reason. But I do feel satisfied in the fact that I didn’t give up and I just kept going. And I think the biggest regret I had when I got dropped was I felt like I let down 11-year-old EJAE, who really wanted to become a singer. So in that respect, I hope I made her proud. I was listening to an interview with the film’s codirector Maggie Kang and she was saying how it took her years to even be able to pitch this",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest about EJAE's relationship with fame?",
+          "options": {
+            "A": "She seeks fame to validate her decade-long struggle as a K-pop trainee.",
+            "B": "She embraces the celebrity status of her song but remains wary of personal stardom.",
+            "C": "She intends to leverage her current popularity to launch a traditional solo singing career.",
+            "D": "She rejects the concept of fame entirely, viewing it as a harmful distraction from her art."
+          },
+          "answer": "B",
+          "explanation": "文中提到EJAE认为“I consider the song famous, which I love”，且她提到“I don’t really want to have my personal things be in the lyrics”以及“I love being behind the scenes”，表明她对歌曲的成功感到高兴，但个人并不想成为焦点。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, why is the success of 'Golden' among children significant for EJAE?",
+          "options": {
+            "A": "It proved that her early K-pop training was worth the emotional toll.",
+            "B": "It validated her songwriting skills because children are a demanding audience.",
+            "C": "It allowed her to finally fulfill her childhood dream of being a pop idol.",
+            "D": "It served as a critique of the superficial nature of the modern music industry."
+          },
+          "answer": "B",
+          "explanation": "文中EJAE明确指出“Kids are so blunt”并且“It is hard to get kids’ stamp of approval”，她将获得儿童的认可视为对自己作为词曲作者能力的一种肯定。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author uses the phrase 'grandma age' in the context of EJAE’s departure from the K-pop label to imply that:",
+          "options": {
+            "A": "The industry favors youth to the point of absurdity.",
+            "B": "EJAE lacked the maturity required for a professional music career.",
+            "C": "The label had shifted its focus toward an older demographic.",
+            "D": "EJAE had outgrown the training program's pedagogical structure."
+          },
+          "answer": "A",
+          "explanation": "EJAE在23岁被解约，却被称为“grandma age”，这讽刺地揭示了K-pop行业对低龄化的极端追求，认为23岁已不再适合出道。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary factor EJAE identifies for the global appeal of 'Golden'?",
+          "options": {
+            "A": "The sophisticated production techniques of the K-pop machine.",
+            "B": "The complex, enigmatic narrative structure of the song's lyrics.",
+            "C": "The universal accessibility of its core concept and emotional message.",
+            "D": "The aggressive marketing strategy employed by Netflix and the film's directors."
+          },
+          "answer": "C",
+          "explanation": "EJAE在谈到全球热门单曲的要素时提到“Global hit, I’ve noticed, is a concept that everyone can say... everyone has a feeling of wanting hope in their life”，强调了概念的普适性和情感共鸣。"
+        },
+        {
+          "q_number": 5,
+          "stem": "How does EJAE view her past experience as a trainee at SM Entertainment from her current perspective?",
+          "options": {
+            "A": "She harbors deep resentment toward the trainers who criticized her.",
+            "B": "She dismisses the training period as an entirely wasted segment of her life.",
+            "C": "She believes it was an essential phase that prepared her for her songwriting success.",
+            "D": "She acknowledges the objective logic behind the industry's harshness, even if it was difficult at the time."
+          },
+          "answer": "D",
+          "explanation": "EJAE表示：“Looking at it now as an adult, I understand the reason behind certain things when it comes to marketing... but at a young age it’s not easy to hear。” 这说明她能够理性看待当年的严苛评价。"
+        }
+      ]
+    }
+  ]
+}
