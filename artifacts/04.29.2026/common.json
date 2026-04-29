@@ -1,0 +1,465 @@
+{
+  "group_update_date": "04.29.2026",
+  "papers": [
+    {
+      "title": "Transdimensional anomalous Hall effect in rhombohedral thin graphite",
+      "article_update_date": "04.29.2026",
+      "source_journal": "Nature",
+      "body_text": "Anomalous Hall effect (AHE), occurring in materials with broken time-reversal symmetry, epitomizes the interplay between magnetic order and electron orbital motions1,2,3,4. In two-dimensional (2D) systems, AHE is coupled with out-of-plane orbital magnetization associated with in-plane chiral orbital motions. In three-dimensional (3D) systems, in which sample thickness far exceeds a vertical coherence-transport length l z , the AHE is effectively a thickness-averaged 2D counterpart4—still governed by out-of-plane orbital magnetization arising from in-plane orbital motions. Here we report the experimental observation of a fundamentally new type of AHE that couples both in-plane and out-of-plane orbital magnetizations in multilayer rhombohedral graphene, shown by pronounced Hall resistance hysteresis under both in-plane and out-of-plane magnetic fields. This state emerges from a peculiar metallic phase that spontaneously breaks time-reversal, mirror and rotational symmetries driven by electron–electron interactions. By measuring multiple devices spanning 3–15 layers, we find that this phenomenon emerges only within an intermediate thickness of 2–5 nm. Theoretical calculations show that carriers within this window can sustain coherent orbital motions both within and across the 2D plane. Together, these identify an uncharted ‘transdimensional’ regime between 2D and 3D, in which the sample thickness is much larger than atomic spacing yet remains comparable to l z , for the emergence of this new state of matter—transdimensional AHE. Our findings point to a distinct class of AHE, opening an unexplored model for correlated and topological physics in transdimensional landscapes.",
+      "difficulty_constant": 14.2,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Anomalous Hall effect (AHE), occurring in materials with broken time-reversal symmetry, _____ the interplay between magnetic order and electron orbital motions.",
+          "options": {
+            "A": "neglects",
+            "B": "contradicts",
+            "C": "epitomizes",
+            "D": "replaces"
+          },
+          "answer": "C",
+          "explanation": "epitomizes意为“是……的缩影/代表”，符合句意，即AHE很好地体现了磁序与轨道运动之间的相互作用。"
+        },
+        {
+          "q_number": 2,
+          "stem": "In two-dimensional (2D) systems, AHE is _____ with out-of-plane orbital magnetization associated with in-plane chiral orbital motions.",
+          "options": {
+            "A": "divided",
+            "B": "isolated",
+            "C": "coupled",
+            "D": "broken"
+          },
+          "answer": "C",
+          "explanation": "coupled with意为“与……耦合”，是物理学中描述两个现象相互关联的常用搭配。"
+        },
+        {
+          "q_number": 3,
+          "stem": "In three-dimensional (3D) systems, in which sample thickness far _____ a vertical coherence-transport length, the AHE is effectively a thickness-averaged 2D counterpart.",
+          "options": {
+            "A": "reduces",
+            "B": "matches",
+            "C": "exceeds",
+            "D": "minimizes"
+          },
+          "answer": "C",
+          "explanation": "exceeds意为“超过”，语境为3D系统中样品厚度远大于某个长度常数。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The AHE is effectively a thickness-averaged 2D counterpart—still _____ by out-of-plane orbital magnetization arising from in-plane orbital motions.",
+          "options": {
+            "A": "distorted",
+            "B": "governed",
+            "C": "interrupted",
+            "D": "modified"
+          },
+          "answer": "B",
+          "explanation": "governed by意为“受……支配/控制”，强调物理过程背后的决定性因素。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Here we report the experimental _____ of a fundamentally new type of AHE that couples both in-plane and out-of-plane orbital magnetizations.",
+          "options": {
+            "A": "calculation",
+            "B": "observation",
+            "C": "assumption",
+            "D": "simulation"
+          },
+          "answer": "B",
+          "explanation": "observation意为“观察”，与前面的report搭配，指科学上的实验发现。"
+        },
+        {
+          "q_number": 6,
+          "stem": "This new type of AHE is _____ by pronounced Hall resistance hysteresis under both in-plane and out-of-plane magnetic fields.",
+          "options": {
+            "A": "shown",
+            "B": "obscured",
+            "C": "withheld",
+            "D": "replaced"
+          },
+          "answer": "A",
+          "explanation": "shown by意为“通过……表现出来”，符合物理实验描述特征的表达习惯。"
+        },
+        {
+          "q_number": 7,
+          "stem": "This state emerges from a peculiar metallic phase that _____ breaks time-reversal, mirror and rotational symmetries.",
+          "options": {
+            "A": "rarely",
+            "B": "deliberately",
+            "C": "erroneously",
+            "D": "spontaneously"
+          },
+          "answer": "D",
+          "explanation": "spontaneously breaks意为“自发破缺”，这是凝聚态物理中对称性破缺的标准术语。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The metallic phase is _____ by electron–electron interactions.",
+          "options": {
+            "A": "halted",
+            "B": "driven",
+            "C": "hindered",
+            "D": "ignored"
+          },
+          "answer": "B",
+          "explanation": "driven by意为“受……驱动”，描述物理状态产生的原因。"
+        },
+        {
+          "q_number": 9,
+          "stem": "By measuring multiple devices spanning 3–15 layers, we find that this phenomenon emerges _____ within an intermediate thickness of 2–5 nm.",
+          "options": {
+            "A": "randomly",
+            "B": "constantly",
+            "C": "rarely",
+            "D": "only"
+          },
+          "answer": "D",
+          "explanation": "only强调该现象只在特定厚度区间内出现，符合实验数据的排他性发现。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Theoretical calculations show that carriers within this window can _____ coherent orbital motions both within and across the 2D plane.",
+          "options": {
+            "A": "eliminate",
+            "B": "sustain",
+            "C": "interrupt",
+            "D": "abandon"
+          },
+          "answer": "B",
+          "explanation": "sustain意为“维持”，指载流子在特定空间内能够保持相干运动。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Together, these identify an _____ ‘transdimensional’ regime between 2D and 3D.",
+          "options": {
+            "A": "uncharted",
+            "B": "familiar",
+            "C": "overrated",
+            "D": "obvious"
+          },
+          "answer": "A",
+          "explanation": "uncharted意为“未知的/未开发的”，对应前文提出的“新类型”研究方向。"
+        },
+        {
+          "q_number": 12,
+          "stem": "In this regime, the sample thickness is much larger than atomic spacing yet remains _____ to l z.",
+          "options": {
+            "A": "superior",
+            "B": "comparable",
+            "C": "contrary",
+            "D": "parallel"
+          },
+          "answer": "B",
+          "explanation": "comparable to意为“与……相当”，是描述两个尺度量级接近的常用词汇。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The regime is essential for the _____ of this new state of matter—transdimensional AHE.",
+          "options": {
+            "A": "emergence",
+            "B": "collapse",
+            "C": "neglect",
+            "D": "reversal"
+          },
+          "answer": "A",
+          "explanation": "emergence意为“出现/兴起”，与文中的new state相呼应。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Our findings _____ to a distinct class of AHE.",
+          "options": {
+            "A": "point",
+            "B": "adhere",
+            "C": "object",
+            "D": "yield"
+          },
+          "answer": "A",
+          "explanation": "point to意为“指向/表明”，表示研究发现指明了一个新的分类。"
+        },
+        {
+          "q_number": 15,
+          "stem": "These findings are _____ an unexplored model for correlated and topological physics.",
+          "options": {
+            "A": "refining",
+            "B": "closing",
+            "C": "resisting",
+            "D": "opening"
+          },
+          "answer": "D",
+          "explanation": "opening a model意为“开启了一个模型”，指提供了新的研究视角或途径。"
+        },
+        {
+          "q_number": 16,
+          "stem": "AHE is an effect that often _____ in materials with specific symmetries.",
+          "options": {
+            "A": "occurs",
+            "B": "persists",
+            "C": "manifests",
+            "D": "exists"
+          },
+          "answer": "A",
+          "explanation": "occurs意为“发生”，是科学论文中最常用的词，用于描述自然现象。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The researcher _____ the relationship between the thickness and the coherence length.",
+          "options": {
+            "A": "analyzed",
+            "B": "scrutinized",
+            "C": "investigated",
+            "D": "examined"
+          },
+          "answer": "C",
+          "explanation": "investigated意为“调查/研究”，符合科研工作者的行为逻辑。"
+        },
+        {
+          "q_number": 18,
+          "stem": "This study _____ light on the complex behavior of electrons in multilayer graphene.",
+          "options": {
+            "A": "casts",
+            "B": "throws",
+            "C": "sheds",
+            "D": "brings"
+          },
+          "answer": "C",
+          "explanation": "shed light on是固定搭配，意为“阐明/揭示”。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The thickness of the material is a _____ factor in determining the Hall effect.",
+          "options": {
+            "A": "minor",
+            "B": "negligible",
+            "C": "trivial",
+            "D": "crucial"
+          },
+          "answer": "D",
+          "explanation": "crucial意为“至关重要的”，文中反复强调厚度对现象产生的重要性。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The _____ experimental data support the theoretical model provided.",
+          "options": {
+            "A": "abstract",
+            "B": "hypothetical",
+            "C": "fictional",
+            "D": "empirical"
+          },
+          "answer": "D",
+          "explanation": "empirical意为“经验的/基于观察的”，是科学研究中形容实验数据的标准表达。"
+        }
+      ]
+    },
+    {
+      "title": "Why women, more than men, are abandoning rural Japan",
+      "article_update_date": "04.04.2026",
+      "source_journal": "Economist",
+      "body_text": "Why women, more than men, are abandoning rural Japan Asia | The ladies vanish Why women, more than men, are abandoning rural Japan Bigger cities are, in turn, skewing more female April 1st 2026 KOYASU MIWA traverses Japan, from Sapporo in the north to Miyazaki in the south, with one goal: to make the countryside less hostile to women. Ms Koyasu runs a consultancy that advises local governments, lectures businessmen on discrimination and runs workshops urging community elders to let women take a bigger role in local decision-making. On a recent stop in Nanto, a region in central Japan ringed by snow-capped mountains, she leads a session on gender inequality for members of its various community councils, volunteer bodies that deal with issues from disaster preparedness to organising festivals. Of the 31 council chairs in the region none is a woman. Ms Koyasu’s work is part of an effort to assuage a national worry: young women are draining away from the countryside and from small-town Japan. A government report in 2014 expressed alarm about the future of 900 municipalities, half of the country’s total. It concluded that the number of women of child-bearing age in those places would fall by half within the next quarter-century, and that these municipalities faced “extinction” as a result. Officials in lots of outlying places accept that young people will move to cities for university or a first job. But they count on them doing a U-turn and returning home in their 20s or 30s. Yet in roughly 70% of Japan’s 47 prefectures, young women are leaving at higher rates than young men. In Toyooka, a small city in western Japan, census data show that 52% of men who left as teenagers came back in their 20s. For women, the figure was just 27%. Tokyo and a handful of other urban centres are seeing the opposite trend, with more young women moving in than men. The reasons for all this are deeply entrenched: a shortage of good jobs for women, a wider gender pay gap than in the cities and many other forms of sexism. Last year a government regional-revitalisation plan cited unconscious bias and inflexible gender roles as forces pushing women away. Rural areas often struggle with attitudes that the larger cities have shed, argues Yamamoto Ren, a campaigner. In many small offices, women still make the tea while men make the decisions. Ms Yamamoto says those who have left for cities sometimes dread returning home for holidays. “Family and neighbours keep asking, ‘Isn’t it time for a baby?’” Although many Japanese women are enjoying their lives in the cities, others would willingly return to the countryside if things were different. Tokuno Sayuri, a woman in her 30s from Nanto, returned there after briefly living in Tokyo, finding the capital too hectic. Miura Miwako, a journalist in Akita, a northern prefecture famed for its bears, says she would ideally spend her whole career there. “The countryside suits me better,” she says. Yet both she and Ms Tokuno are deeply frustrated with the status quo. “When women notice discrimination here, they rarely speak up—they just leave silently,” says Ms Miura. Many smaller places have now established strategies to tackle gender discrimination. Initiatives in Toyooka include handing out manga cartoons that raise awareness of the issue, and training teachers and businesspeople. Ms Koyasu, the consultant, says her work was once met with jeers and pushback. “But people are increasingly realising that being inclusive towards women is a matter of survival.” Therein lies a tension at the heart of many of the official initiatives. The single biggest reason authorities want women to stay in the countryside is so they can have children. “I never want women to feel like they’re simply kept around to pop out babies,” says Ms Koyasu. Promoting gender equality ought to mean accepting a woman’s choice not to marry or have children. In practice, many towns send mixed signals. Even those that now promote gender equality also sponsor nannyish matchmaking schemes, such as hosting government-backed parties for young singles to find partners, or getting local elders to encourage those who are too shy to pair off. In Nanto, both programmes sit in the same department. Last year Iwate prefecture published a dating guide urging women to wear skirts that make them look “delicate” and make-up that looks “demure” to attract husbands. Changing attitudes, as Ms Koyasu puts it, will take time. ■ This article was downloaded by zlibrary from https://www.economist.com//asia/2026/04/01/why-women-more-than-men-are-abandoning-rural-japan",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first paragraph, what is the primary objective of Ms. Koyasu’s consultancy?",
+          "options": {
+            "A": "To improve the disaster preparedness of community councils.",
+            "B": "To increase the number of female council chairs in Nanto.",
+            "C": "To foster a more hospitable environment for women in rural Japan.",
+            "D": "To replace male decision-makers with female counterparts in local governments."
+          },
+          "answer": "C",
+          "explanation": "文章第一段提到Ms. Koyasu的目标是“to make the countryside less hostile to women”（让乡村对女性没那么敌对），这与C选项“营造一个对女性更友好的乡村环境”意义吻合。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author mentions the 2014 government report to highlight which of the following?",
+          "options": {
+            "A": "The inevitability of urban migration for university students.",
+            "B": "The existential threat posed by the exodus of young women from rural areas.",
+            "C": "The failure of previous government policies to increase birth rates.",
+            "D": "The economic disparity between different Japanese municipalities."
+          },
+          "answer": "B",
+          "explanation": "文中提到2014年的报告表达了对900个行政区未来发展的担忧，并明确指出这些地方因育龄女性减少而面临“extinction”（消亡），因此B选项正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is implied about the return rate of young people in Japan’s rural areas?",
+          "options": {
+            "A": "Men are more likely than women to return to their hometowns after living in cities.",
+            "B": "The majority of young women prefer staying in Tokyo over returning to their prefectures.",
+            "C": "Government initiatives have successfully bridged the return-rate gap between genders.",
+            "D": "Rural areas offer fewer opportunities for men than for women in their 20s."
+          },
+          "answer": "A",
+          "explanation": "文中通过Toyooka的数据对比指出，52%离开的男性在20多岁时回流，而女性仅为27%，说明男性更倾向于回流，A选项符合题意。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following does the author identify as a reason for women leaving rural Japan?",
+          "options": {
+            "A": "The lack of interest in rural lifestyle and community festivals.",
+            "B": "The influence of western culture on modern Japanese women.",
+            "C": "Entrenched structural barriers including wage gaps and rigid gender roles.",
+            "D": "The total absence of employment opportunities in small cities."
+          },
+          "answer": "C",
+          "explanation": "文章提到“The reasons for all this are deeply entrenched: a shortage of good jobs for women, a wider gender pay gap... and many other forms of sexism”，故C选项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the 'tension' mentioned in the final paragraph regarding official initiatives?",
+          "options": {
+            "A": "The contradiction between promoting gender equality and viewing women as birth-givers.",
+            "B": "The conflict between Ms. Koyasu’s consultancy and government-backed matchmaking.",
+            "C": "The struggle between the desire for modernization and the preservation of tradition.",
+            "D": "The tension between local council members and the younger generation of women."
+          },
+          "answer": "A",
+          "explanation": "文章结尾指出，政府推动性别平等的背后动力是希望女性留下来生育，这与Ms. Koyasu提到的“不应把女性仅看作生育机器”的理念产生冲突，即A选项所述的矛盾。"
+        }
+      ]
+    },
+    {
+      "title": "Peruvians to go to polls hoping to break cycle of instability",
+      "article_update_date": "04.10.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Peruvians go to the polls on Sunday hoping to break a cycle of instability that has produced nine presidents in a decade as well as surging violent crime, corruption scandals and overwhelming distrust in institutions and politicians. About 27 million people who are eligible to vote must choose between a record 35 presidential candidates as well as contenders for the bicameral congress – all from a ballot sheet measuring nearly half a metre, the longest in the country’s history. The fight against crime tops voter concerns amid record homicide and extortion rates but political corruption comes a close second. Four former presidents are in jail, most of them linked to bribery cases involving the Brazilian construction company Odebrecht. Keiko Fujimori, a three-time presidential candidate and the daughter of the late president Alberto Fujimori, holds a narrow lead in opinion polls. She is closely followed by the comedian Carlos Álvarez and two former mayors of Lima, the ultra-conservative Rafael López Aliaga and the media mogul Ricardo Belmont. View image in fullscreen Keiko Fujimori, daughter of the late president Alberto Fujimori , holds a narrow lead in the opinion polls. None of the candidates is polling above 15%, making a runoff on 7 June almost certain, according to Urpi Torrado, of the polling company Datum Internacional. “This is one of the most unpredictable elections on record,” said Torrado. “There could be surprises this Sunday because we don’t know who will make it through to the second round.” Fujimori, 50, is making her fourth bid for the presidency, having reached the runoff in the last three elections (2021, 2016 and 2011) and losing by extremely narrow margins each time. The rightwinger served as first lady in the autocratic 1990s government of her late father, who was convicted over corruption and human rights abuses and spent 16 years in prison. Ricardo Belmont, who was Lima’s mayor from 1990 to 1995, has risen in most opinion polls, winning the younger vote with his upbeat messaging and the slogan “hugs not bullets”, borrowed from the former Mexican leader Andrés Manuel López Obrador. Gonzalo Banda, a Peruvian political analyst and doctoral researcher at University College of London’s Institute of the Americas, called Belmont an “anti-establishment candidate catching votes from the right, the left and the centre”. The 80-year-old is also known for making xenophobic and sexist remarks. View image in fullscreen A band plays in support of Jorge Nieto, a former Peruvian defence minister, at a rally in Lima on Thursday. Photograph: Sebastián Blanco/EPA López Aliaga, who was Lima’s mayor until a few months ago, has run a hard-right campaign littered with disinformation, hate speech and threats against journalists and opponents. But the 65-year-old rail magnate, who has opposed same-sex marriage and pledged to refuse abortion to underage rape victims, has slipped in the polls. The surprise entry is Álvarez, one of Peru’s best-known comedians, who has been imitating presidents for the last three decades. However, his proposals are far from lighthearted. He describes himself as an admirer of Donald Trump and El Salvador’s leader, Nayib Bukele, and his tough-on-crime campaign has focused on megaprisons and the death penalty. “It is ironically poetic that due to this cycle of [political] decay in Peru, we could end up with a comedy performer who imitates politicians as president,” said Banda. Other candidates include Roberto Sánchez, who has been endorsed by the ousted former populist leader Pedro Castillo and wears the same style of wide-brimmed sombrero. Centrist candidates include a former defence minister, Jorge Nieto, and a former university rector, Alfonso López Chau. Torrado said: “No political leader has emerged who can generate a sense of hope, a feeling that this person could change the country’s political course or solve its problems. Peruvians feel that in recent years, politicians have turned their backs on the people.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary factor driving the high number of presidential candidates in Peru's upcoming election?",
+          "options": {
+            "A": "A lack of established political parties with clear agendas.",
+            "B": "The country's tradition of allowing unlimited participation.",
+            "C": "The systemic instability and lack of trust in existing institutions.",
+            "D": "The recent reform of the constitution regarding election laws."
+          },
+          "answer": "C",
+          "explanation": "The text states that voters are hoping to 'break a cycle of instability' that has produced multiple presidents and corruption scandals, leading to 'overwhelming distrust in institutions'. This atmosphere of systemic failure and political decay encourages a massive number of candidates (35) as voters look for alternatives."
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, why is a runoff election considered almost certain?",
+          "options": {
+            "A": "The sheer number of candidates makes it mathematically impossible for any one person to win outright.",
+            "B": "Opinion polls indicate that no single candidate currently receives more than 15% of the vote.",
+            "C": "The electoral laws require a second round if the participation rate exceeds 27 million.",
+            "D": "The frontrunner, Keiko Fujimori, has requested an additional round to solidify her support."
+          },
+          "answer": "B",
+          "explanation": "The article explicitly quotes Urpi Torrado, who says, 'None of the candidates is polling above 15%, making a runoff on 7 June almost certain.'"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which description best characterizes Ricardo Belmont’s campaign strategy?",
+          "options": {
+            "A": "A traditional, establishment-focused approach relying on past mayoral success.",
+            "B": "A populist, anti-establishment platform featuring optimistic messaging.",
+            "C": "A controversial, hard-right agenda centered on hate speech.",
+            "D": "A lighthearted, satirical approach that focuses on his career as a comedian."
+          },
+          "answer": "B",
+          "explanation": "Belmont is described by analyst Gonzalo Banda as an 'anti-establishment candidate' who wins the younger vote with 'upbeat messaging' and the slogan 'hugs not bullets', which fits the definition of a populist strategy."
+        },
+        {
+          "q_number": 4,
+          "stem": "What irony does Gonzalo Banda highlight regarding the candidacy of Carlos Álvarez?",
+          "options": {
+            "A": "He is the most qualified candidate despite his lack of formal political experience.",
+            "B": "He uses the same populist slogans as the leaders he personally dislikes.",
+            "C": "A professional comedian who mocks politicians may end up as the nation's leader due to political decay.",
+            "D": "He proposes policies that are far more extreme than the politicians he used to imitate."
+          },
+          "answer": "C",
+          "explanation": "Banda remarks, 'It is ironically poetic that due to this cycle of [political] decay in Peru, we could end up with a comedy performer who imitates politicians as president.' This highlights the absurdity of the current political environment."
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author suggest about the mood of the Peruvian electorate?",
+          "options": {
+            "A": "They are optimistic that the record number of candidates will bring necessary reform.",
+            "B": "They are indifferent to the corruption scandals as long as the economy improves.",
+            "C": "They feel disconnected from their political leaders, who have neglected their concerns.",
+            "D": "They are overwhelmingly supporting candidates who promise to maintain the status quo."
+          },
+          "answer": "C",
+          "explanation": "The final paragraph concludes that 'Peruvians feel that in recent years, politicians have turned their backs on the people,' and notes that no leader has emerged to 'generate a sense of hope,' indicating widespread disillusionment."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 7",
+      "article_update_date": "04.11.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | Previous | Inside the Dirty, Dystopian World of AI Data Centers The race to power AI is already remaking the physical world. by Matteo Wong Three Mile Island’s cooling towers have until recently served as grave markers for America’s nuclear-power industry. A s we drove through southwest Memphis, KeShaun Pearson told me to keep my window down—our destination was best tasted, not viewed. Along the way, we passed an abandoned coal plant to our right, then an active power plant to our left, equipped with enormous natural-gas turbines. Pearson, who directs the nonprofit Memphis Community Against Pollution, was bringing me to his hometown’s latest industrial megaproject. Already, the air smelled of soot, gasoline, and asphalt. Then I felt a tickle sliding up my nostrils and down into my throat, like I was getting a cold. As we approached, I heard the rumble of cranes and trucks, and then from behind a patch of trees emerged a forest of electrical towers. Finally, I saw it—a white-walled hangar, bigger than a dozen football fields, where Elon Musk intends to build a god. This is Colossus: a data center that Musk’s artificial-intelligence company, xAI, is using as a training ground for Grok, one of the world’s most advanced generative-AI models. Training these models takes a staggering amount of energy; if run at full strength for a year, Colossus would use as much electricity as 200,000 American homes. When fully operational, Musk has written on X, this facility and two other xAI data centers nearby will require nearly two gigawatts of power. Annually, those facilities could consume roughly twice as much electricity as the city of Seattle. To get Colossus up and running fast, xAI built its own power plant, setting up as many as 35 natural-gas turbines—railcar-size engines that can be major sources of smog—according to imagery obtained by the Southern Environmental Law Center. Pearson coughed as we drove by the facility. The scratch in my throat worsened, and I rolled up my window. xAI’s rivals are all building similarly large data centers to develop their most powerful generative-AI models; a metropolis’s worth of electricity will surge through facilities that occupy a few city blocks. These companies have primarily made their chatbots “smarter” not by writing niftier code but by making them bigger: ramming more data through more powerful computer chips that use more electricity. OpenAI has announced plans for facilities requiring more than 30 gigawatts of power in total—more than the largest recorded demand for all of New England. Since ChatGPT’s launch, in November 2022, the capital expenditures of Amazon, Microsoft, Meta, and Google have exceeded $600 billion, and much of that spending has gone toward data centers—more, even after adjusting for inflation, than the government spent to build the entire interstate-highway system. “These are the largest single points of consumption of electricity in history,” Jesse Jenkins, a climate modeler at Princeton, told me. Even conservative analyses forecast that the tech industry will drop the equivalent of roughly 40 Seattles onto America’s grid within a decade; aggressive scenarios predict more than 60 in half that time. According to Siddharth Singh, an energy-investment analyst at the International Energy Agency, by 2030, U.S. data centers will consume more electricity than all of the country’s heavy industries—more than the cement, steel, chemical, car, and other industrial facilities put together. Roughly half of that demand will come from data centers equipped for the particular needs of generative AI—programs, such as ChatGPT, that can produce text and images, solve complex math problems, and perhaps one day inform scientific discoveries. Colossus, Elon Musk’s data center in Memphis, can consume as much electricity over the course of a year as 200,000 American homes. (Landon Speers for The Atlantic ) To power AI, energy and tech companies are turning to fossil fuels, which they regard as more reliable and readily available than wind, solar, or nuclear. Asked where the energy for data centers should come from, OpenAI CEO Sam Altman has repeatedly said , “Short-term: natural gas.” (OpenAI and The Atlantic have a corporate partnership.) A Louisiana utility plans to build three natural-gas plants for a Meta data center that, upon completion, will be among the largest in this hemisphere. The lifespans of coal plants, too, are being extended to power new data centers. And the IEA estimates that data-center emissions could more than double by 2030—becoming one of the fastest-growing sources of greenhouse gases in the world. The optimist’s case is that, by then, advanced nuclear reactors will have obviated many of the new fossil-fuel plants, and AI tools will have invented technologies that can solve the climate crisis. That may well happen. But today, “the market has converged on Add gas now, and then add nuclear later ,” Jenkins said. In other words, if natural-gas turbines seem to offer the most expedient path to an AI-enhanced future, then clean air may have to wait. A data center is a planet of contradictions: heat without motion, shelter without bodies, light without sky. “The lifeblood of the internet is essentially flowing through these sites,” Jon Lin, the chief business officer at Equinix, one of the world’s largest data-center companies, told me in an Equinix facility in Loudoun County, Virginia. Behind Lin, someone in a green hoodie fiddled with computer chips shelved in a row of humming, refrigerator-size cabinets on the data-center floor. There were no windows, to keep the facility secure and to guard against the sun’s heat. As we walked along a corridor of cabinets, motion-activated lights illuminated the way. Farther ahead, only faint blue lights and blinking computer equipment pierced the darkness. Ever since the first data centers were built, in the mid-20th century, their purpose has remained constant : pack computer equipment close together to store and send information as efficiently as possible. But their scale has grown dramatically. The original data centers were simply large rooms housing mainframe computers. With the rise of the internet, in the 1990s, backroom computers gave way to entire buildings, such as the one Lin and I stood in—facilities that enable us to stream movies, trade stocks, store medical records, manage supply chains, and make military decisions. Now the AI race is requiring vastly greater computing power, which has led to even bigger data centers, ones filled with computer chips that are much hungrier and run much hotter. Read: The lifeblood of the AI boom In a traditional data center, the cabinets are cooled by industrial fans—as we walked through the Equinix facility, I felt a constant breeze on my cheek—and rooftop cooling towers eventually expel the heat. The cabinets in a generative-AI data center use dozens of times more electricity. Lin showed me a row of AI-specialized cabinets used by Block, the firm that owns Square and Cash App, which radiated enough heat to make me break a sweat; to cool them, water runs into special metal plates that sit atop the chips inside the cabinets. AI data centers are filled with similar equipment, and cooling thousands of cabinets can require a lot of water . Public records from the Memphis water utility, for instance, show that the address for Colossus used more than 11 million gallons in September alone, as much as 150 homes use in an entire year. When a data center’s cooling equipment malfunctions, spiraling heat combined with humid air has yielded that rarest of meteorological events: indoor rain. Placing servers in the same or neighboring buildings allows them to exchange information seamlessly and quickly, and Loudoun County has the highest concentration of data centers in the world, with 199 already operating and another 30 or so on the way. According to one report, 13 percent of global data-center capacity is squeezed into the county’s 520 square miles. One particularly dense stretch is called “Data Center Alley.” Cabinets of computer chips at a data center in Loudoun County, Virginia (Landon Speers for The Atlantic ) Northern Virginia offers a glimpse into what the AI rush may bring to the rest of the nation. Loudoun is running out of space, but new data-center hubs are popping up in Phoenix, Atlanta, and Dallas. Amazon and Meta are building AI data centers in Indiana and Louisiana, respectively, that will each require more than two gigawatts of electricity, dozens of times more than standard facilities. OpenAI has proposed that the U.S. establish “AI Economic Zones”: little Loudouns everywhere. As I drove into Data Center Alley with Julie Bolthouse, the director of land use at the Piedmont Environmental Council, she explained how to distinguish data centers from warehouses: cooling towers on the roof, dozens of backup diesel generators to one side, no windows (or false ones, decorative glass panels backed by a wall of concrete). There didn’t seem to be any warehouses, though, and I gave up counting data centers within minutes, unable to tell where one facility ended and the next one began. Bolthouse helps run a coalition aiming to slow data-center development throughout Virginia, but in Loudoun, it is too late. So many data centers are under construction just north of Dulles International Airport that hills of freshly dug dirt loom over roads and orange dust tints the air. Should Musk successfully colonize Mars, the early stages of terraforming might look like this. The architect of this labyrinth is Buddy Rizer, Loudoun’s longtime executive director of economic development. Rizer has courted data centers with regulatory and state tax incentives, and when we met in his office, he told me that since 2009, at least one has been under construction at any given time. Data centers are typically operated by only a few dozen staff members, but building them has produced a steady source of employment. They also provide nearly 40 percent of the county’s budget, helping to pay for police, schools, and parks for a population that has grown steadily since 2010. Within a 1.5-mile radius of us, Rizer said, were 12 substations: small jungles of metal poles and wiring that convert high-voltage electricity into a form you’d use to charge your iPhone or, in this case, run a data center. All around us were towering utility poles strung with high-voltage transmission lines that carry raw electricity from power plants to those substations; they hang over Loudoun like a canopy, or a cobweb. Follow any one cable far enough, and you’re likely to reach a data center. For years to come, the AI race is projected to be the main force driving roughly 2 percent annual growth in U.S. electricity demand, which has been stagnant for nearly two decades. Nationally, this is not a crisis; regionally, it may be. Dominion Energy, the major electrical utility in Virginia, predicts growth of 5.5 percent each year, with overall electricity demand doubling by 2039. Aaron Ruby, a spokesperson for Dominion, told me that the company is preparing to meet that surge, though he was frank about the challenge: “We are experiencing the largest growth in power demand since the years following World War II.” By the end of the decade, training the industry’s most powerful AI model could require as much electricity as millions of American homes. In China, hundreds of data centers have been announced since 2023, and additional facilities are planned for beneath the ocean and in the desert . China’s biggest advantage in the AI race is not the talent of its software engineers or the quantity of its data centers, but its abundance of energy: In 2024, the nation produced nearly as much electricity as the U.S., Europe, and India combined. President Trump has declared that the nation is in an “energy emergency,” and been vocal about the need to build more power plants for the U.S. to win the AI race. A senior executive at OpenAI told me that the U.S. needs to activate every resource at its disposal—solar panels, natural-gas turbines, nuclear reactors. And Anthropic, OpenAI’s top rival, published a report arguing that the U.S. should streamline permitting",
+      "difficulty_constant": 8.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why does the author associate Musk's 'Colossus' with environmental concern?",
+          "options": {
+            "A": "It has failed to produce any significant AI advancement despite its size.",
+            "B": "It relies on aging technology that contributes to the decline of Memphis.",
+            "C": "It consumes massive amounts of energy and utilizes natural-gas turbines near local communities.",
+            "D": "It occupies space previously designated for the city’s residential development."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到Colossus项目规模巨大，不仅能耗惊人（相当于20万美国家庭的用电量），而且为了快速运行，使用了35台天然气涡轮机，这被当地环保组织指出是产生雾霾的主要来源，且文中描述了作者在附近的身体不适感。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How do AI companies mainly improve the 'intelligence' of their chatbots according to the text?",
+          "options": {
+            "A": "By hiring more specialized software engineers to rewrite core algorithms.",
+            "B": "By scaling up hardware and increasing the volume of data processed.",
+            "C": "By utilizing more efficient coding languages to reduce energy waste.",
+            "D": "By focusing on smaller, localized models to enhance processing speed."
+          },
+          "answer": "B",
+          "explanation": "文中明确指出：这些公司让聊天机器人变“聪明”的主要方式并非通过编写更精巧的代码，而是通过扩大模型规模：让更多的数据穿过更强大的计算机芯片，从而消耗更多的电力。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the phrase 'obviated many of the new fossil-fuel plants' (Paragraph 10) imply?",
+          "options": {
+            "A": "Fossil-fuel plants will be forcibly dismantled by the government.",
+            "B": "Advanced nuclear reactors will render the need for new fossil-fuel plants unnecessary.",
+            "C": "AI-generated technologies will make fossil fuels more efficient than they are today.",
+            "D": "The market will prioritize fossil fuels even if nuclear technology is available."
+          },
+          "answer": "B",
+          "explanation": "Obviate意为“排除”、“使……不再必要”。此处逻辑是乐观派认为，未来先进的核反应堆技术将会取代或消除对新建化石燃料电厂的需求。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary function of the design choices in modern data centers, such as the absence of windows?",
+          "options": {
+            "A": "To maximize architectural aesthetic appeal and environmental sustainability.",
+            "B": "To decrease construction costs and improve long-term structural integrity.",
+            "C": "To maintain security and prevent external heat from affecting internal operations.",
+            "D": "To facilitate easier maintenance for the cooling systems and industrial fans."
+          },
+          "answer": "C",
+          "explanation": "文章提到数据中心没有窗户的目的有两个：一个是保持设施安全，另一个是防止太阳的热量进入中心内部影响设备运行。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's tone regarding the rapid expansion of AI data centers?",
+          "options": {
+            "A": "Objective and uncritical.",
+            "B": "Optimistic and celebratory.",
+            "C": "Apprehensive and questioning.",
+            "D": "Indifferent and detached."
+          },
+          "answer": "C",
+          "explanation": "文章描述了数据中心巨大的能耗、环境代价以及对地方电网的压力，引用了“肮脏”、“反乌托邦”、“室内雨”等词汇，体现了作者对这一高速增长背后深层隐患的忧虑与质疑。"
+        }
+      ]
+    }
+  ]
+}
