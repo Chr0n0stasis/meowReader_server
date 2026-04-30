@@ -54,7 +54,7 @@ articles:
   is_used: false
   title: Albertans find it harder than expected to break from Canada. Good
 - id: epub_35
-  is_used: true
+  is_used: false
   title: A botched election adds to Peru’s democratic dysfunction
 - id: epub_37
   is_used: false
@@ -221,8 +221,8 @@ articles:
 - id: epub_242
   is_used: false
   title: Chapter 242
-capture_date: 04.29.2026
+capture_date: 04.30.2026
 journal_name: Economist
-publish_date: 04.29.2026
+publish_date: 04.30.2026
 source_type: github
 update_frequency: weekly

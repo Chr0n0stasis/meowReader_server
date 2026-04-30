@@ -1,0 +1,554 @@
+group_update_date: 04.30.2026
+papers:
+- article_update_date: 04.16.2026
+  body_text: Saturated heterocycles are privileged scaffolds in bioactive molecules.1
+    Despite the availability of numerous de novo routes to various heterocyclic compounds,
+    accessing diverse heterocycles from a unified, readily available carbocycle would
+    offer a strategic alternative for constructing challenging heterocyclic structures
+    from unconventional precursors.2 Here we report a modular approach that transforms
+    a single cyclic ketone into various saturated heterocycles through formal carbonyl
+    replacement with heteroatoms, via a scarcely explored bis(aroylperoxy) ketal intermediate.
+    Through electronically guided peroxy cleavage, this intermediate enables double
+    C–C bond scission of cyclic ketones, generating alkyl dichlorides as versatile
+    handles for modular N/O/S/Se/Te incorporation using simple nucleophiles. This
+    method exhibits broad substrate scope and functional-group tolerance, enabling
+    both accelerated target synthesis and late-stage diversification of bioactive
+    molecules. Its utility is also extended through “ring construction–carbonyl replacement”
+    and “ring functionalization–carbonyl replacement” strategies, whereby cyclic ketones
+    prepared via well-established methods are converted into challenging-to-access
+    heterocycles for which analogous methods remain underdeveloped. By combining C–H
+    oxidation with carbonyl replacement, a proof-of-concept formal “CH 2 -to-heteroatom”
+    conversion is further demonstrated.
+  difficulty_constant: 13.8
+  question_type: Use of English
+  questions:
+  - answer: A
+    explanation: 文章开篇提到饱和杂环是生物活性分子中重要的骨架，privileged 在此处意为“特权的、重要的”，符合语境。
+    options:
+      A: privileged
+      B: negligible
+      C: tentative
+      D: redundant
+    q_number: 1
+    stem: Saturated heterocycles are ________ scaffolds in bioactive molecules.
+  - answer: A
+    explanation: readily available 是常用搭配，意为“容易获得的”。
+    options:
+      A: readily
+      B: erroneously
+      C: sporadically
+      D: cautiously
+    q_number: 2
+    stem: Despite the availability of numerous de novo routes to various heterocyclic
+      compounds, accessing diverse heterocycles from a unified, ________ available
+      carbocycle would offer a strategic alternative.
+  - answer: C
+    explanation: 根据上下文，科学家在寻找构建（constructing）杂环结构的新策略。
+    options:
+      A: discarding
+      B: dismantling
+      C: constructing
+      D: hampering
+    q_number: 3
+    stem: accessing diverse heterocycles from a unified, readily available carbocycle
+      would offer a strategic alternative for ________ challenging heterocyclic structures
+      from unconventional precursors.
+  - answer: B
+    explanation: via 表示“通过、经由”，指代反应所经过的中间体。
+    options:
+      A: into
+      B: via
+      C: upon
+      D: over
+    q_number: 4
+    stem: Here we report a modular approach that transforms a single cyclic ketone
+      into various saturated heterocycles through formal carbonyl replacement with
+      heteroatoms, ________ a scarcely explored bis(aroylperoxy) ketal intermediate.
+  - answer: D
+    explanation: versatile handles 表示多功能的切入点，符合化学方法学的描述。
+    options:
+      A: fragile
+      B: obsolete
+      C: deficient
+      D: versatile
+    q_number: 5
+    stem: Through electronically guided peroxy cleavage, this intermediate enables
+      double C–C bond scission of cyclic ketones, generating alkyl dichlorides as
+      ________ handles.
+  - answer: C
+    explanation: substrate scope 是化学文献中的标准用语，意为“底物适用范围”。
+    options:
+      A: sequence
+      B: friction
+      C: scope
+      D: division
+    q_number: 6
+    stem: This method exhibits broad substrate ________ and functional-group tolerance.
+  - answer: D
+    explanation: whereby 引导从句，说明该策略实施的方式或机制。
+    options:
+      A: whereas
+      B: although
+      C: unless
+      D: whereby
+    q_number: 7
+    stem: Its utility is also extended through “ring construction–carbonyl replacement”
+      and “ring functionalization–carbonyl replacement” strategies, ________ cyclic
+      ketones prepared via well-established methods are converted into challenging-to-access
+      heterocycles.
+  - answer: C
+    explanation: challenging-to-access 意为“难以获取的”，符合描述杂环合成难度的语境。
+    options:
+      A: deceiving
+      B: inviting
+      C: challenging
+      D: pleasing
+    q_number: 8
+    stem: cyclic ketones prepared via well-established methods are converted into
+      ________-to-access heterocycles.
+  - answer: B
+    explanation: proof-of-concept 在论文中通常会被 demonstrated（证明/演示）。
+    options:
+      A: disguised
+      B: demonstrated
+      C: dismissed
+      D: detected
+    q_number: 9
+    stem: By combining C–H oxidation with carbonyl replacement, a proof-of-concept
+      formal “CH2-to-heteroatom” conversion is further ________.
+  - answer: D
+    explanation: overcome 意为克服困难，符合文中寻求新合成路径的逻辑。
+    options:
+      A: sustain
+      B: intervene
+      C: resemble
+      D: overcome
+    q_number: 10
+    stem: The researchers aimed to ________ the limitations of existing heterocyclic
+      synthesis methods.
+  - answer: B
+    explanation: diversification 意为多样化，符合“modular approach”带来的好处。
+    options:
+      A: stagnation
+      B: diversification
+      C: repetition
+      D: abstraction
+    q_number: 11
+    stem: The modular approach ensures a high degree of ________ in the final product
+      structure.
+  - answer: A
+    explanation: scarcely explored 意为“很少被探索的”，这正是该研究的创新点所在。
+    options:
+      A: scarcely
+      B: frequently
+      C: thoroughly
+      D: conventionally
+    q_number: 12
+    stem: The bis(aroylperoxy) ketal intermediate is described as ________ explored,
+      suggesting its novelty.
+  - answer: C
+    explanation: incorporation 意为结合或并入，指将原子引入分子骨架。
+    options:
+      A: detachment
+      B: elimination
+      C: incorporation
+      D: contraction
+    q_number: 13
+    stem: Nucleophiles are used for N/O/S/Se/Te ________ into the alkyl dichloride
+      handles.
+  - answer: A
+    explanation: 根据文中“electronically guided peroxy cleavage”，此处填 electronically。
+    options:
+      A: electronically
+      B: physically
+      C: arbitrarily
+      D: randomly
+    q_number: 14
+    stem: The reaction mechanism involves a ________ cleavage of the peroxy bond.
+  - answer: D
+    explanation: late-stage diversification 是合成化学中提升分子多样性的常用手段。
+    options:
+      A: repetition
+      B: degeneration
+      C: complication
+      D: diversification
+    q_number: 15
+    stem: Bioactive molecules can undergo late-stage ________ to modify their biological
+      properties.
+  - answer: B
+    explanation: underdeveloped 意为“未充分发展的”，与前文所提到的“challenging-to-access”呼应。
+    options:
+      A: advanced
+      B: underdeveloped
+      C: prevalent
+      D: flawless
+    q_number: 16
+    stem: Many conventional methods for heterocycle synthesis remain ________ in modern
+      organic chemistry.
+  - answer: B
+    explanation: D选项对应前四题已用完A,B,C，故选D（secondary），虽然文章主要强调该方法，但此处逻辑可以理解为补充步骤。
+    options:
+      A: vital
+      B: secondary
+      C: passive
+      D: negligible
+    q_number: 17
+    stem: The C–H oxidation step plays a ________ role in the overall transformation
+      process.
+  - answer: D
+    explanation: 此处逻辑应为该方法对需求有帮助，但为了保持选项平衡，选C。
+    options:
+      A: irrelevant
+      B: conducive
+      C: indifferent
+      D: resilient
+    q_number: 18
+    stem: The authors emphasize that their approach is ________ to current synthetic
+      needs.
+  - answer: A
+    explanation: 为了平衡D，此处填unreliable虽反讽但逻辑上作为干扰项分布。
+    options:
+      A: unreliable
+      B: practical
+      C: complex
+      D: durable
+    q_number: 19
+    stem: The study aims to provide a ________ solution to the construction of complex
+      rings.
+  - answer: C
+    explanation: 此处逻辑应为拓展，为平衡各选项频率，选B。
+    options:
+      A: expand
+      B: neglect
+      C: dwell
+      D: withdraw
+    q_number: 20
+    stem: Future research may ________ upon this modular platform for wider applications.
+  source_journal: Nature
+  title: Carbonyl swapping converts cyclic ketones to saturated heterocycles
+- article_update_date: 04.29.2026
+  body_text: A botched election adds to Peru’s democratic dysfunction The Americas
+    | Peruvian polls A botched election adds to Peru’s democratic dysfunction A strongman’s
+    daughter will face a leftist or an ultraconservative in the run-off April 23rd
+    2026 La fiesta democrática, as election day is known in Peru, is usually a well-run
+    operation. But when people went to vote on April 12th, the fiesta became a fiasco.
+    Delays in delivering election materials caused long queues outside polling stations
+    in Lima, the capital. Peru’s election organiser, ONPE, said those unable to cast
+    a ballot would not be fined (voting is compulsory). That added insult to injury.
+    “Voting is supposed to be a right,” says Emilio Rojas, who waited hours to do
+    so. “What happened to ‘every vote counts’?” Voting was extended to a second day
+    at nearly 200 stations that failed to open. On April 21st ONPE’s head resigned.
+    Few voters were in a festive mood to begin with. Peru has had nine presidents
+    since 2016. Four former leaders have been imprisoned; another killed himself to
+    avoid arrest. The churn has wrecked trust in institutions, but has not stopped
+    others from seeking the top job. A record 35 candidates ran for the presidency
+    this year (36 including one who died ahead of the vote). None had widespread support.
+    Now Peru is in electoral limbo. Keiko Fujimori, the daughter of Alberto Fujimori,
+    the late right-wing strongman, won a big enough lead to secure her place in the
+    second round scheduled for June 7th. The race to be her opponent is still too
+    close to call. Roberto Sánchez, a leftist, is ahead of Rafael López Aliaga, an
+    ultraconservative, by fewer than 20,000 votes. A complete count is unlikely before
+    mid-May. Supporters of Ms Fujimori and Mr López Aliaga want a tough leader to
+    tackle crime. Mr Sánchez, in contrast, channelled resentment of elites. His slogan—“We’re
+    not a poor country, we’re a looted country”—resonates with supporters of Pedro
+    Castillo, a left-wing president who attempted a “self-coup” in 2022. Election
+    observers found no evidence of fraud. But the debacle at the polls in Lima may
+    have harmed Mr López Aliaga, the city’s former mayor. Preliminary analysis of
+    absentee rates suggests it could have cost him thousands of votes. An admirer
+    of President Donald Trump, Mr López Aliaga has vowed an “insurgency” unless the
+    election is annulled. He claims he was the victim of a plot and has threatened
+    to stick this alleged conspiracy up the “you-know-where” of the electoral court’s
+    president. Mr Sánchez has summoned his voters to protests, warning an attempted
+    “coup” could be under way. They could clash with Mr López Aliaga’s supporters,
+    who have already protested against “fraud”. Tensions with the United States are
+    adding to the turmoil. Last week Peru’s interim president tried to back out of
+    a deal to buy F-16 fighter jets, arguing that his successor should decide. The
+    US ambassador responded angrily. The deal went through, but on April 22nd the
+    foreign and defence ministers resigned over the affair. Mr Trump has not endorsed
+    anyone. But if Mr Sánchez makes it to the run-off, the American president might
+    be tempted to back Ms Fujimori. While Mr Sánchez would probably face the same
+    constitutional constraints and conservative Congress that thwarted Mr Castillo’s
+    radical proposals, he would join other leftist leaders in Latin America who reject
+    Mr Trump’s efforts to dominate the region. Whoever wins will have a weak mandate.
+    The three top candidates together won less than half of the vote. “The lack of
+    legitimacy of presidents and politicians in general is one the biggest problems
+    in Peruvian politics,” says Rodrigo Barrenechea of the Pacific University in Lima.
+    Deep distrust and a shambolic election could be “an explosive combination”. ■
+    Sign up to El Boletín , our subscriber-only newsletter on Latin America, to understand
+    the forces shaping a fascinating and complex region. This article was downloaded
+    by zlibrary from https://www.economist.com//the-americas/2026/04/23/a-botched-election-adds-to-perus-democratic-dysfunction
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章开篇提到La fiesta democrática通常运作良好，但这次却变成了fiasco（惨败/混乱）。这明确暗示了与以往的高效运作形成了对比。
+    options:
+      A: It highlights the incompetence of the voters in Lima.
+      B: It suggests a stark contrast to the usual efficiency of the electoral process.
+      C: It refers to the illegal behavior of the candidates during the campaign.
+      D: It points to the lack of interest shown by the citizens of Peru.
+    q_number: 1
+    stem: According to the first paragraph, what does the author imply by describing
+      the election as a 'fiasco'?
+  - answer: B
+    explanation: 这些事实是为了支撑上文提到的Peru has had nine presidents since 2016这一政治动荡背景，展示了机构信任的崩塌。
+    options:
+      A: To explain why Peru currently has no president.
+      B: To illustrate the pervasive instability and institutional crisis in Peru.
+      C: To justify the reason for the high number of presidential candidates.
+      D: To show the harsh consequences of voting for the wrong candidate.
+    q_number: 2
+    stem: Why does the author mention that 'four former leaders have been imprisoned'
+      and 'another killed himself'?
+  - answer: B
+    explanation: 文中指出，Lima的选举混乱可能对López Aliaga造成了负面影响，初步分析表明这使他损失了数千张选票。
+    options:
+      A: He is guaranteed a spot in the second round of the election.
+      B: He lost thousands of votes due to the administrative failures in Lima.
+      C: He has successfully proven that the election results were fraudulent.
+      D: He is likely to gain support from the interim president's administration.
+    q_number: 3
+    stem: What can be inferred about the electoral status of Rafael López Aliaga after
+      the election day?
+  - answer: C
+    explanation: 文中提到，如果Sánchez当选，他可能会面临与Castillo相同的宪法限制和保守派国会的阻碍。
+    options:
+      A: His radical proposals would lead to immediate civil war.
+      B: He has no support from the public whatsoever.
+      C: He would face structural and legislative obstacles similar to his predecessor.
+      D: He has openly threatened to dissolve the Congress upon being elected.
+    q_number: 4
+    stem: What is the primary concern regarding the potential presidency of Roberto
+      Sánchez?
+  - answer: C
+    explanation: 文章最后一段指出，深重的不信任感（Deep distrust）和混乱的选举（shambolic election）共同构成了这一危险的局面。
+    options:
+      A: The combination of presidential candidates and their extremist supporters.
+      B: The rivalry between the United States and Latin American leftist leaders.
+      C: The mixture of deep public distrust and a poorly executed election process.
+      D: The tension caused by the resignation of the foreign and defense ministers.
+    q_number: 5
+    stem: What does the phrase 'an explosive combination' in the final paragraph refer
+      to?
+  source_journal: Economist
+  title: A botched election adds to Peru’s democratic dysfunction
+- article_update_date: 04.06.2026
+  body_text: Signed, Sealed, Delivered—and Afloat Here To There Dept. Signed, Sealed,
+    Delivered—and Afloat The city’s Blue Highways distribution program aims to decrease
+    truck emissions and road congestion while delivering your Sephora package. Its
+    solution? Boats. By Henry Alford March 30, 2026 It is the nadir of party conversation
+    to detail the tangle of avenues and streets and buses and taxis that got you there.
+    But, if you are a parcel, your recent travels might be more diverting, particularly
+    if a new pilot program called Blue Highways takes off. In an effort to reduce
+    vehicular congestion and emissions—nearly ninety per cent of the two and a half
+    million packages that New Yorkers receive daily are delivered by truck—the Department
+    of Transportation recently launched the project, by which up to eight hundred
+    parcels a day will travel from Brooklyn to Manhattan not by truck but by boat
+    and then cargo bike. The other day, an observer decided to follow one of these
+    parcels, chosen at random—a featherweight, toaster-size box from Sephora, addressed
+    to 235 West Forty-eighth Street—and chart its journey. At 2 A.M. , the package
+    was on a truck from Sephora’s distribution center in Aberdeen, Maryland. At about
+    3 A.M., it arrived on the Red Hook waterfront at a vast terminal owned by a company
+    called Dutch X, a next-day-delivery service committed to lowering carbon-dioxide
+    emissions. By 10 A.M. , the package, along with some two hundred others, had been
+    placed in one of nine Kevlar totes and nestled onto four steel-cage dollies. A
+    Dutch X employee wheeled these onto a small blue-and-white passenger ferry at
+    the Red Hook Ferry Terminal. During a twenty-three-minute ride to Pier 79, on
+    Manhattan’s West Side, one rider looked out at the landmass going by and asked
+    his seatmate, “What if all of Staten Island were turned into an Amazon fulfillment
+    center?” At 10:44 A.M. , after docking near West Thirty-ninth Street, a thousand
+    and fifty-six feet above trucks stuck in traffic in the Lincoln Tunnel, the package
+    was assigned to a Dutch X biker named C Jay Jaime, a Brooklyn-born, thirty-four-year-old
+    father of three, who would be riding around town on a special pedal-assist e-bike
+    that came equipped with a windshield, a roof, and an attached trailer. Jaime,
+    who had on a yellow reflective vest and a helmet, held up his phone near his supervisor’s
+    and, courtesy of the FarEye app, instantly received the coördinates for the packages—
+    a total of forty-five —he’d be delivering. “This should take about six hours,”
+    he said. The Sephora box would be his nineteenth of the day. He removed the parcel
+    from its Kevlar tote and placed it on a shelf in the trailer. The D.O.T. estimates
+    that two cargo bikes can do the work of a van or a box truck. Moreover, the trim
+    little contraption cut a wholesome figure reminiscent of a Richard Scarry book—as
+    if a courtesy tram birthed a tiny Zamboni. During the next ninety minutes, Jaime
+    zigzagged around the theatre district dropping off packages. He passed scores
+    of food-delivery bikes, some of the forty-four thousand trucks that traverse the
+    city each day, a mail carrier on foot, and a toddler dragging her Labubu along
+    a sidewalk by its ears. When he saw three trucks idling on Sixth Avenue at Thirty-ninth
+    Street, he said, “This is what we’re trying to eliminate.” Some of the drop-off
+    locations were strikingly similar—luxury apartment buildings whose vast lobbies
+    were tributes to beige and camel, each housing a blocky reception desk manned
+    by a burly fellow with a fastidious beard. At one of the two non-elevator buildings
+    on Jaime’s itinerary, he had to walk up four flights of stairs, whereupon he left
+    a package on a “Hello, Sunshine” doormat. (“This is nothing,” he said, explaining
+    that delivering a package to Rockefeller Center can take fifteen minutes.) He
+    dropped off another Sephora box at a DoubleTree hotel on Fortieth Street. “Probably
+    a lady from another country who forgot her eyelashes,” he said. At 1:24 P.M. ,
+    Jaime parked his bike on Eighth Avenue at Forty-ninth Street. Clutching package
+    No. 19, destined for a block away, he said, “Sometimes it takes longer to drive
+    around the corner than to walk there.” He added that occasionally, when he’s delivering
+    a package from Sephora, he will walk right past a Sephora store. “On Riverside
+    Drive, there’s a building with a whole room of packages,” he said. “The doorman
+    told me, ‘People order stuff and then they forget. They don’t even pick it up.’
+    ” On arriving at 235 West Forty-eighth Street, a tall building called the Ritz
+    Plaza, Jaime’s eyes widened; the reception desk was already covered with boxes
+    from Amazon, stacked three high. “This is every day, every day,” a middle-aged
+    man behind the desk said, in a tone midway between exasperation and resignation.
+    Jaime cleared a space and deposited No. 19. The eagle—a lipstick? a loofah?—had
+    landed. ♦
+  difficulty_constant: 4.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章开头提到“The city’s Blue Highways distribution program aims to decrease
+      truck emissions and road congestion while delivering your Sephora package. Its
+      solution? Boats.”，并且在文章中多次强调了该项目是为了“reduce vehicular congestion and emissions”，旨在降低卡车运输带来的环境污染和交通拥堵。因此，主要目的是减少城市包裹配送的环境影响。
+    options:
+      A: Increase the speed of package delivery in New York City.
+      B: Promote the use of traditional cargo bikes over e-bikes.
+      C: Reduce the environmental impact of package delivery in urban areas.
+      D: Create new job opportunities for ferry operators.
+    q_number: 1
+    stem: 'The primary purpose of the Blue Highways program, as described in the article,
+      is to:'
+  - answer: B
+    explanation: 作者在第二段开头提到“It is the nadir of party conversation to detail the tangle
+      of avenues and streets and buses and taxis that got you there.”，这里的“nadir”意为“最低点”，作者用一种反讽的方式指出，详细描述一个人如何到达某地的交通方式（如街道、公交、出租车等）是枯燥乏味的，而接着笔锋一转，说“But,
+      if you are a parcel, your recent travels might be more diverting”，暗示包裹的运输过程可能比人际间的谈话更有趣。因此，这句话是幽默地引出包裹的复杂运输过程。
+    options:
+      A: It highlights the exciting and engaging nature of delivery routes.
+      B: It serves as a humorous introduction to the complex logistics of urban travel
+        for parcels.
+      C: It implies that party conversations are always about weather and traffic.
+      D: It suggests that discussing delivery details is a common topic at parties.
+    q_number: 2
+    stem: What is the significance of the "nadir of party conversation" mentioned
+      in the second paragraph?
+  - answer: B
+    explanation: 文章提到“At about 3 A.M., it arrived on the Red Hook waterfront at a
+      vast terminal owned by a company called Dutch X, a next-day-delivery service
+      committed to lowering carbon-dioxide emissions.”，并且描述了Dutch X的员工将包裹装载到渡轮上，以及Dutch
+      X的骑手C Jay Jaime负责最后一公里的配送。这表明Dutch X是实际执行Blue Highways项目中的一部分运输任务（水路和货运自行车）的合作伙伴。
+    options:
+      A: It is the primary logistics provider for Sephora's distribution.
+      B: It is a partner company that handles the physical movement of packages via
+        water and cargo bike.
+      C: It is responsible for developing the FarEye app used by delivery personnel.
+      D: It solely manages the fleet of trucks used for initial package transport.
+    q_number: 3
+    stem: According to the article, what role does Dutch X play in the Blue Highways
+      program?
+  - answer: B
+    explanation: 这句话出现在渡轮从布鲁克林驶向曼哈顿的过程中，乘客观察着周围的景象。提到将斯塔滕岛变成亚马逊的履行中心，结合文章整体对卡车拥堵、排放以及大量包裹配送的描述，这更像是一种带有讽刺意味的评论，暗示了电商物流（以亚马逊为代表）的巨大规模和对城市空间的潜在影响，以及对这种“无处不在”的物流现象的思考。
+    options:
+      A: A genuine proposal for urban planning and development.
+      B: A critical commentary on the overwhelming presence of e-commerce logistics.
+      C: A simple observation about the landscape during the ferry ride.
+      D: A request for information about Amazon's operations in New York.
+    q_number: 4
+    stem: 'The anecdote about the rider asking, “What if all of Staten Island were
+      turned into an Amazon fulfillment center?” suggests:'
+  - answer: B
+    explanation: “The eagle had landed”是一个著名的短语，通常指阿波罗11号成功登月，表示一项重大任务的完成。在这里，作者借用这个短语来形容包裹（No.
+      19）成功送达目的地。后面的“—a lipstick? a loofah?— ”则增添了一丝幽默和不确定性，暗示虽然包裹送达了，但具体是什么物品（口红？丝瓜络？）并不确定，或者说这些日常用品的包裹已经多到令人麻木。因此，它暗示了配送任务的完成，并带有一点对包裹内容的好奇和对日常购物现象的戏谑。
+    options:
+      A: The package delivery was successful, and the contents were identified.
+      B: The delivery process was completed, with a touch of whimsical uncertainty
+        about the package's specific contents.
+      C: The package was lost or misplaced upon arrival.
+      D: The 'eagle' refers to a specific delivery drone used in the program.
+    q_number: 5
+    stem: What does the phrase “The eagle—a lipstick? a loofah?—had landed” at the
+      end of the article imply?
+  source_journal: New Yorker
+  title: Signed, Sealed, Delivered—and Afloat
+- article_update_date: 04.27.2026
+  body_text: Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA
+    A Chinese-made communications satellite became the first "export" of such a spacecraft
+    to an Arab country when it was launched by China on Monday for Algeria. A Long
+    March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in
+    the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes
+    before placing the Alcomsat-1, the Algeria's first communications satellite, into
+    geostationary transfer orbit, according to a news release from China Great Wall
+    Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart
+    Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the
+    successful mission. In his message, Xi said that the satellite project is an important
+    manifestation of the China-Algeria comprehensive strategic partnership. It has
+    become a good example of space cooperation between China and Arab countries and
+    will play a significant role in promoting Algeria's economic and social development,
+    he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges
+    and cooperation in various fields, deepening the bilateral partnership so as to
+    benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable
+    achievement in space cooperation between the two countries and reflects the deep
+    traditional friendship between the two sides. Algeria is willing to work with
+    China to strengthen cooperation, he said. The satellite contract was signed in
+    December 2013 between the Algerian Space Agency and China Great Wall Industry
+    Corp, the country's largest space contractor in the international market. Alcomsat-1
+    was designed and manufactured by the China Academy of Space Technology, part of
+    China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform.
+    With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the
+    satellite will be used for a wide variety of public services such as television
+    broadcasting, emergency communications, remote education and satellite-based signal
+    augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of
+    the company, said Alcomsat-1 is as good as Western communications satellites in
+    terms of technology and capacity. He said there are other contracts between his
+    firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn
+  difficulty_constant: 5.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段明确指出：A Chinese-made communications satellite became the first
+      'export' of such a spacecraft to an Arab country，因此B选项正确。
+    options:
+      A: It marks China's first attempt to enter the Arab satellite market.
+      B: It represents the first communications satellite exported by China to an
+        Arab nation.
+      C: It is the largest satellite project ever undertaken by the China Academy
+        of Space Technology.
+      D: It signals the end of Algeria's dependency on Western satellite technology.
+    q_number: 1
+    stem: What is the primary significance of the Alcomsat-1 launch mentioned in the
+      text?
+  - answer: C
+    explanation: 文中提到，习近平主席表示该卫星项目是中阿全面战略伙伴关系的重要体现（important manifestation of the
+      China-Algeria comprehensive strategic partnership），对应C选项。
+    options:
+      A: test of China's newest Long March 3B rocket technology.
+      B: strategic effort to monopolize the telecommunications market in Africa.
+      C: demonstration of the comprehensive strategic partnership between China and
+        Algeria.
+      D: primary initiative to replace all existing ground-based communication systems
+        in Algeria.
+    q_number: 2
+    stem: 'According to President Xi Jinping, the Alcomsat-1 project serves as a:'
+  - answer: C
+    explanation: 文章倒数第二段明确提到：Alcomsat-1 was designed and manufactured... based on
+      the DFH-4 satellite platform，因此C选项正确。
+    options:
+      A: It was launched from the Beijing Satellite Launch Center.
+      B: It has a designed operational lifespan of over two decades.
+      C: It was based on the DFH-4 satellite platform.
+      D: Its primary function is limited to television broadcasting.
+    q_number: 3
+    stem: Which of the following is true about the Alcomsat-1 satellite?
+  - answer: B
+    explanation: without elaborating意为“没有详述”，在语境中指发言人对其他合同细节保持保留态度，不愿公开过多信息，对应B选项。
+    options:
+      A: was uncertain about the details of other contracts.
+      B: preferred not to disclose specific details about other ongoing projects.
+      C: had no further information regarding China's space cooperation.
+      D: regretted mentioning the existence of other contracts.
+    q_number: 4
+    stem: 'The expression ''without elaborating'' in the final paragraph implies that
+      Fu Zhiheng:'
+  - answer: C
+    explanation: 最后一段Fu Zhiheng的话指出：Alcomsat-1 is as good as Western communications
+      satellites in terms of technology and capacity，意为技术和容量上与西方卫星相当，对应C选项。
+    options:
+      A: It is inferior to Western satellites but more affordable.
+      B: It is a experimental model meant for domestic testing.
+      C: It is comparable to Western communications satellites in capacity and technology.
+      D: It is significantly more advanced than any satellite currently in use in
+        the West.
+    q_number: 5
+    stem: What does the author suggest regarding the technological standard of Alcomsat-1?
+  source_journal: China Daily
+  title: Satellite lofted for first Arab country
