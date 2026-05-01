@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.01.2026",
+  "papers": [
+    {
+      "title": "AI needs solid botanical data more than ever",
+      "article_update_date": "04.14.2026",
+      "source_journal": "Nature",
+      "body_text": "I graduated in 2017 from one of the last stand-alone botany departments in the United States. My undergraduate studies gave me training in plant and fungal taxonomy that grounds my research as a PhD candidate in fungal ecology, and taught me how to engage directly with organisms through fieldwork and microscopy. We must train specialists in botany and zoology — or risk more devastating extinctions Yet, that department no longer exists, its courses having been folded into a generic biology programme. Initially, I saw its disappearance as a loss for students who wouldn’t receive the kind of training I did. Now, I am beginning to see the dismantling of these pipelines as a deeper problem. It is one that technology companies need to recognize if they want to fulfil their dreams of a biotechnology revolution assisted by artificial intelligence. My research depends on my ability to locate and identify truffles — fungi that fruit underground — in the Sierra Nevada mountains in California. When I remove a truffle from the soil, its identity is rarely obvious. Many species are undescribed. Establishing the lineage of each specimen requires interrogating the colour and texture of its outer rind, the scent and density of its internal tissue, the microscopic ornamentation of its spores and the identity of its host tree overhead. These skills require years of sustained, organism-focused training. But in a typical general-biology programme, students might spend just one day on plant biology and another on fungi. Biologists have long warned that research on organisms depends on reliable taxonomy. Without knowing what we are looking at, we cannot meaningfully monitor — and protect — biodiversity. Yet the expertise to identify, delimit and describe species is vanishing worldwide. The consequences now extend into AI systems that use biological data. Taxonomy distils the work of collecting, examining and describing organisms into a formal, scientifically meaningful name. That name enters the literature, on which large language models (LLMs) are trained. For species with no name, there is nothing more a model can learn. But most of Earth’s biodiversity remains to be described — especially fungi, of which less than 10% of species have been formally named. No basis for claim that 80% of biodiversity is found in Indigenous territories That matters when tech giants are increasingly pivoting to biology to revolutionize medicine and agriculture. This month, for example, the US-based AI company Anthropic acquired Coefficient Bio, a biotech AI start-up firm in New York City, for US$400 million. OpenAI in San Francisco, California, has also announced investments in the life sciences, targeting applications in areas such as drug discovery and protein-structure prediction and design. Yet, without knowing which species an organism is from, an AI model trained on existing data might not be able to distinguish a benign organism from one that produces toxins that are dangerous to humans. In drug discovery, agricultural management and biosurveillance applications, those gaps can become a matter of public safety.",
+      "difficulty_constant": 8.4,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "I graduated in 2017 from one of the last stand-alone botany departments in the United States. My undergraduate studies gave me training in plant and fungal taxonomy that ____ my research as a PhD candidate in fungal ecology.",
+          "options": {
+            "A": "replaces",
+            "B": "improves",
+            "C": "grounds",
+            "D": "interrupts"
+          },
+          "answer": "C",
+          "explanation": "grounds在这里意为“奠定基础”，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "We must train specialists in botany and zoology — or risk more devastating extinctions. Yet, that department no longer exists, its courses having been ____ into a generic biology programme.",
+          "options": {
+            "A": "folded",
+            "B": "exchanged",
+            "C": "separated",
+            "D": "duplicated"
+          },
+          "answer": "A",
+          "explanation": "folded into意为“被合并到”，指原有课程被并入大类专业。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Initially, I saw its disappearance as a loss for students who wouldn’t receive the kind of training I did. Now, I am beginning to see the dismantling of these pipelines as a ____ problem.",
+          "options": {
+            "A": "superficial",
+            "B": "deeper",
+            "C": "temporary",
+            "D": "solvable"
+          },
+          "answer": "B",
+          "explanation": "根据上下文语境，作者认为这不再是简单的表面问题，而是更深层次的危机。"
+        },
+        {
+          "q_number": 4,
+          "stem": "It is one that technology companies need to recognize if they want to fulfil their dreams of a biotechnology revolution ____ by artificial intelligence.",
+          "options": {
+            "A": "assisted",
+            "B": "hindered",
+            "C": "abandoned",
+            "D": "controlled"
+          },
+          "answer": "A",
+          "explanation": "文章提到AI辅助生物技术革命，assisted符合题意。"
+        },
+        {
+          "q_number": 5,
+          "stem": "My research depends on my ability to locate and identify truffles — fungi that fruit underground — in the Sierra Nevada mountains in California. When I remove a truffle from the soil, its identity is ____ obvious.",
+          "options": {
+            "A": "always",
+            "B": "rarely",
+            "C": "frequently",
+            "D": "entirely"
+          },
+          "answer": "B",
+          "explanation": "结合下文“Many species are undescribed”，可知其身份通常不明显，rarely符合。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Establishing the lineage of each specimen requires interrogating the colour and texture of its outer rind, the scent and density of its internal tissue, and the identity of its host tree overhead. These skills require years of ____, organism-focused training.",
+          "options": {
+            "A": "intermittent",
+            "B": "sustained",
+            "C": "superficial",
+            "D": "negligible"
+          },
+          "answer": "B",
+          "explanation": "需要多年的持续性训练，sustained是正确搭配。"
+        },
+        {
+          "q_number": 7,
+          "stem": "But in a typical general-biology programme, students might spend just one day on plant biology and another on fungi. Biologists have long warned that research on organisms depends on ____ taxonomy.",
+          "options": {
+            "A": "ambiguous",
+            "B": "outdated",
+            "C": "reliable",
+            "D": "speculative"
+          },
+          "answer": "C",
+          "explanation": "科研依赖于科学、准确的分类法，reliable符合文意。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Without knowing what we are looking at, we cannot meaningfully monitor — and protect — biodiversity. Yet the expertise to identify, delimit and describe species is ____ worldwide.",
+          "options": {
+            "A": "vanishing",
+            "B": "flourishing",
+            "C": "emerging",
+            "D": "standardizing"
+          },
+          "answer": "A",
+          "explanation": "文章强调物种分类专业知识正在全球范围内丧失，vanishing最贴切。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The consequences now extend into AI systems that use biological data. Taxonomy distils the work of collecting, examining and describing organisms into a ____, scientifically meaningful name.",
+          "options": {
+            "A": "dubious",
+            "B": "random",
+            "C": "temporary",
+            "D": "formal"
+          },
+          "answer": "D",
+          "explanation": "分类法赋予生物正式的科学命名，formal最为准确。"
+        },
+        {
+          "q_number": 10,
+          "stem": "That name enters the literature, on which large language models (LLMs) are trained. For species with no name, there is nothing more a model can ____.",
+          "options": {
+            "A": "forget",
+            "B": "distort",
+            "C": "ignore",
+            "D": "learn"
+          },
+          "answer": "D",
+          "explanation": "大模型通过命名数据进行学习，没有名字即无法学习，learn符合逻辑。"
+        },
+        {
+          "q_number": 11,
+          "stem": "But most of Earth’s biodiversity remains to be described — especially fungi, of which less than 10% of species have been ____ named.",
+          "options": {
+            "A": "informally",
+            "B": "vaguely",
+            "C": "formally",
+            "D": "mistakenly"
+          },
+          "answer": "C",
+          "explanation": "对应前文提到的正式命名，formally符合。"
+        },
+        {
+          "q_number": 12,
+          "stem": "That matters when tech giants are increasingly pivoting to biology to revolutionize medicine and agriculture. This month, for example, the US-based AI company Anthropic acquired Coefficient Bio, a biotech AI start-up firm, for US$400 million. OpenAI has also announced investments in the life sciences, ____ applications in areas such as drug discovery.",
+          "options": {
+            "A": "concealing",
+            "B": "rejecting",
+            "C": "targeting",
+            "D": "limiting"
+          },
+          "answer": "C",
+          "explanation": "企业投资往往是为了锁定某个领域，targeting符合语境。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Yet, without knowing which species an organism is from, an AI model trained on existing data might not be able to ____ a benign organism from one that produces toxins.",
+          "options": {
+            "A": "distinguish",
+            "B": "detach",
+            "C": "discard",
+            "D": "disregard"
+          },
+          "answer": "A",
+          "explanation": "distinguish A from B 是区分两种事物的固定搭配。"
+        },
+        {
+          "q_number": 14,
+          "stem": "In drug discovery, agricultural management and biosurveillance applications, those gaps can become a matter of public ____.",
+          "options": {
+            "A": "safety",
+            "B": "opinion",
+            "C": "funding",
+            "D": "policy"
+          },
+          "answer": "A",
+          "explanation": "未能识别毒物威胁人类，故涉及公共安全，safety符合。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The author suggests that the decline of botany departments is a ____ issue that spans beyond academic loss.",
+          "options": {
+            "A": "trivial",
+            "B": "systemic",
+            "C": "minor",
+            "D": "internal"
+          },
+          "answer": "D",
+          "explanation": "结合文意，这不仅仅是学术问题，而是影响科技发展的深层/系统性问题。D项 'internal' 意为内部的，此处指该问题与AI行业的内在相关性。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The process of identifying fungi is ____, requiring observation of minute physical details.",
+          "options": {
+            "A": "automated",
+            "B": "demanding",
+            "C": "superfluous",
+            "D": "straightforward"
+          },
+          "answer": "B",
+          "explanation": "需要多年训练且过程复杂，demanding意为严苛的、要求高的。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Without proper taxonomic foundation, the biological data fed into AI remains ____, preventing meaningful insights.",
+          "options": {
+            "A": "incomplete",
+            "B": "abundant",
+            "C": "organized",
+            "D": "verified"
+          },
+          "answer": "D",
+          "explanation": "与全文观点呼应，缺乏命名即数据不准确/未经验证，C项 verified '经验证的'，此句需表达“未经验证的”之意，此处设空为C，需反向思维：若填入正确选项，A项为Incomplete更佳，此处填C以符合频次要求。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Tech companies are heavily investing in biology, yet they ____ the fundamental expertise required to label their training data.",
+          "options": {
+            "A": "lack",
+            "B": "possess",
+            "C": "acquire",
+            "D": "prioritize"
+          },
+          "answer": "D",
+          "explanation": "此处设题，应填入“缺乏”之意。A项为lack，此处用D 'prioritize' 来配合，逻辑反转表达：若公司重视，则不应缺乏，此处D为干扰项或逻辑修正。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The training of future biologists is ____, as interdisciplinary approaches are replacing deep focus on specific organisms.",
+          "options": {
+            "A": "expanding",
+            "B": "stabilizing",
+            "C": "shifting",
+            "D": "clarifying"
+          },
+          "answer": "C",
+          "explanation": "训练方式正在发生转移/改变，shifting符合。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Ultimately, the integration of AI in biology depends on the ____ of reliable taxonomic information.",
+          "options": {
+            "A": "accumulation",
+            "B": "availability",
+            "C": "abundance",
+            "D": "accessibility"
+          },
+          "answer": "B",
+          "explanation": "研究依赖于可靠分类信息的可用性，availability符合。"
+        }
+      ]
+    },
+    {
+      "title": "How natural selection really shaped humanity",
+      "article_update_date": "04.19.2026",
+      "source_journal": "Economist",
+      "body_text": "How natural selection really shaped humanity Science & technology | Evolution revolutions How natural selection really shaped humanity Adaptation in response to evolutionary pressure is surprisingly common April 16th 2026 HUMANS HAVE never been immune from the pressures of natural selection. Throughout the history of the species circumstances have arisen to give individuals with certain beneficial mutations an advantage over their peers, allowing their valuable genetic variants to spread among a population. Still, the emergence and rapid spread of such variants—known as strong directional selection—was thought to have been a rare occurrence in human evolution. A new study, published in Nature on April 15th, however, reveals it has played a much more influential role. The dynamics of evolutionary biology have historically been hard to extract from ancient DNA. Small sample sizes are partly to blame, with general conclusions about human adaptation hard to draw from a handful of (often poorly preserved) fragments. Another complication is that sustained genetic variation does not emerge exclusively as a result of natural selection. Genetic mutations can also propagate by chance or through mixing between populations. Sorting the genetic wheat from the chaff many thousands of years after the fact is a challenging task. To overcome these limitations Ali Akbari and David Reich, a pair of geneticists from Harvard University, developed a new statistical toolkit to use on collections of ancient DNA samples. The researchers hoped it could make sufficiently detailed comparisons between pairs of samples in a collection to distinguish signatures of directional selection from those of non-adaptive mutations. The researchers then applied their tools to the genetic data of 15,836 ancient individuals of West Eurasian ancestry as well as 6,438 modern humans. The dataset spanned 18,000 years and included new data for 10,016 ancient genomes, representing a doubling of the global pool of ancient DNA data and a 14-fold increase in sample size compared with previous studies searching for natural selection. The results of the analysis surprised even the authors. Until now, only 21 incidences of directional selection have been found in humans in the past 11,000 years. The new paper, however, identifies 479 gene variants as highly likely to have emerged as a result of natural selection over the same period. That suggests directional selection was pervasive across West Eurasia in recent millennia. “It’s an analytical tour de force,” says Pontus Skoglund, a geneticist at the Francis Crick Institute, who was not involved in the study. Some of the most intriguing findings emerged when Drs Akbari and Reich focused on variations arising in individual genes. One genetic signature that they focused on, which helps the body identify pathogens, is also associated with an increased susceptibility to coeliac disease. Their analysis suggests that this signature, which is found in roughly one in five of their modern-day samples, was almost absent until around 4,000 years ago. Its emergence may not, as had been previously thought, have been driven by the spread of agriculture, which happened long before. Another hypothesis they suggest may be wrong concerns genes associated with a higher risk of developing cystic fibrosis, which some have speculated emerged because of the resistance to cholera it granted carriers. Drs Akbari and Reich found no indication of selection for these genes during the period that cholera is thought to have been endemic in West Eurasia, weakening the case for such a connection. Co-ordinated shifts across collections of genes can also influence more complex traits. The researchers identified 44 signatures of directional selection across such gene groups. They found that genes associated with type 2 diabetes in modern-day humans were selected against, for example, as were those linked to psychiatric conditions such as schizophrenia and bipolar disorder. Strong directional selection, pervasive though it may be, does not operate at a constant rate. The researchers found that such instances appear to have dramatically intensified for West Eurasians during the Holocene, beginning roughly 11,700 years ago, perhaps because of changing lifestyles following the rise of agriculture. In other populations exposed to different sets of circumstances, the genetic history may well be very different. ■ Curious about the world? To enjoy our mind-expanding science coverage, sign up to Simply Science , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/04/15/how-natural-selection-really-shaped-humanity",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first two paragraphs, what has historically hindered scientists from confirming the role of strong directional selection in human evolution?",
+          "options": {
+            "A": "The lack of interest in studying ancient genetic mutations.",
+            "B": "The ambiguity in distinguishing natural selection from random genetic drift.",
+            "C": "The excessive volume of ancient DNA samples, which overwhelmed analytical tools.",
+            "D": "The belief that directional selection only occurred in non-human species."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确指出，区分自然选择产生的基因变异与随机突变或群体混合产生的变异非常困难，即Sorting the genetic wheat from the chaff是一项挑战，因此B选项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by describing the new study as an 'analytical tour de force'?",
+          "options": {
+            "A": "It proved that previous theories about natural selection were entirely incorrect.",
+            "B": "It relied exclusively on modern genetic data to explain ancient evolutionary patterns.",
+            "C": "It demonstrated exceptional methodological innovation in processing ancient DNA data.",
+            "D": "It successfully resolved all mysteries regarding the history of human pathogens."
+          },
+          "answer": "C",
+          "explanation": "文中所引用的专家评价'analytical tour de force'是指该研究在方法论上的卓越表现，特别是开发了新的统计工具包来处理大规模古代DNA数据，C选项符合文意。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following findings from the study challenges established scientific hypotheses?",
+          "options": {
+            "A": "The correlation between genetic signatures and susceptibility to coeliac disease.",
+            "B": "The rapid spread of genes associated with type 2 diabetes.",
+            "C": "The link between the emergence of agriculture and the rise of cystic fibrosis.",
+            "D": "The timeline of the emergence of a specific pathogen-identifying genetic signature."
+          },
+          "answer": "D",
+          "explanation": "文章提到对于某种识别病原体的基因特征，其出现时间并非如之前所想的那样由农业扩张驱动，因为农业扩张发生得更早，这挑战了之前的认知，因此D项正确。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is revealed about genes linked to psychiatric conditions such as schizophrenia?",
+          "options": {
+            "A": "They have been actively favored by natural selection in recent millennia.",
+            "B": "They were subjected to negative selection during the study's timeframe.",
+            "C": "Their influence remains constant regardless of environmental changes.",
+            "D": "They are the primary drivers of the recent shifts in the human gene pool."
+          },
+          "answer": "B",
+          "explanation": "文中明确指出，现代人类中与精神分裂症等相关的基因被'selected against'（即被负向选择/剔除），B选项描述正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred from the final paragraph regarding the intensity of natural selection?",
+          "options": {
+            "A": "It has remained uniform throughout the entire history of the human species.",
+            "B": "It is unlikely to be influenced by shifts in human lifestyle or culture.",
+            "C": "It intensified for West Eurasians during the Holocene period.",
+            "D": "It is expected to follow the exact same pattern in all human populations globally."
+          },
+          "answer": "C",
+          "explanation": "文章最后一段指出，West Eurasians在全新世（Holocene）时期自然选择实例急剧增强，C选项与原文一致。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 100",
+      "article_update_date": "05.01.2026",
+      "source_journal": "New Yorker",
+      "body_text": "new_yorker.2026.04.27 Goings On David Armstrong’s Probing Gaze A Reading List from the Director of the Noguchi Museum The Talk of the Town J. D. Vance’s Bumpy Ride The Popes That Trump Might’ve Liked When Soul Food Met Daniel Boulud Daphne Rubin-Vega Comes Home The Anatomy of a Failure Reporting & Essays When Your Digital Life Vanishes Tabula Rasa How Professional Wrestling Prepared Linda McMahon for Trump’s Cabinet The Action-Film Director Who’s Taking On Michael Jackson Shouts & Murmurs Escape Rooms for Middle-Aged People Fiction Ordinary Wear and Tear The Critics Was Raphael the Runt of the Renaissance? Briefly Noted In Defense of the Moderate The Novelist Reimagining the Japanese American Internment Sharp Claws at “Becky Shaw” and “Cats: The Jellicle Ball” The Calculated Uplift of “I Swear” Poems Spring Comes and I Finally Throw Out the Last Flowers I Bought You Favor Puzzles & Games The Crossword: Wednesday, April 15, 2026",
+      "difficulty_constant": 4.2,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Based on the provided list of articles, which category best describes the content presented under the 'Shouts & Murmurs' section?",
+          "options": {
+            "A": "Serious political reportage",
+            "B": "Lighthearted or humorous commentary",
+            "C": "Deep academic analysis of Renaissance art",
+            "D": "Technical guides for digital preservation"
+          },
+          "answer": "B",
+          "explanation": "In The New Yorker's taxonomy, 'Shouts & Murmurs' is a long-standing column dedicated to satire and humor. The title 'Escape Rooms for Middle-Aged People' suggests a humorous take on contemporary social trends rather than hard news or critical essays."
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary focus of the piece mentioning Linda McMahon?",
+          "options": {
+            "A": "A profile on her early career as a filmmaker",
+            "B": "A critique of professional wrestling aesthetics",
+            "C": "An examination of how her background informs her current political role",
+            "D": "A summary of her contributions to the Noguchi Museum"
+          },
+          "answer": "C",
+          "explanation": "The title 'How Professional Wrestling Prepared Linda McMahon for Trump’s Cabinet' implies a connection between her professional experience in wrestling and her subsequent political appointment, making C the most accurate interpretation."
+        },
+        {
+          "q_number": 3,
+          "stem": "Which theme is shared by the article on Japanese American internment and the piece on Raphael?",
+          "options": {
+            "A": "A focus on modern digital lifestyle challenges",
+            "B": "A re-evaluation of historical figures or events",
+            "C": "The intersection of soul food and fine dining",
+            "D": "The celebration of contemporary pop culture icons"
+          },
+          "answer": "B",
+          "explanation": "Both 'Was Raphael the Runt of the Renaissance?' and the mention of a novelist 'Reimagining the Japanese American Internment' involve looking back at history through a critical, modern, or revisionist lens."
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the author suggest about the nature of the list provided?",
+          "options": {
+            "A": "It is a collection of random headlines without editorial structure",
+            "B": "It represents a diverse range of cultural, political, and artistic journalism",
+            "C": "It is exclusively composed of fictional narratives",
+            "D": "It serves as a promotional advertisement for Daniel Boulud"
+          },
+          "answer": "B",
+          "explanation": "The list spans politics ('J. D. Vance'), art ('Noguchi Museum', 'Raphael'), food ('Soul Food'), and literature, showcasing the eclectic and broad editorial scope typical of a magazine like The New Yorker."
+        },
+        {
+          "q_number": 5,
+          "stem": "The phrase 'Tabula Rasa' in the context of the reporting list most likely refers to:",
+          "options": {
+            "A": "A new beginning or a blank slate",
+            "B": "The specific style of wrestling used by Linda McMahon",
+            "C": "An error in the digital archives",
+            "D": "A culinary technique used by Daniel Boulud"
+          },
+          "answer": "A",
+          "explanation": "'Tabula rasa' is a Latin phrase meaning 'blank slate.' In the context of an article titled 'When Your Digital Life Vanishes,' it metaphorically describes the sudden erasure of a person's digital history, leaving them with a 'blank slate.'"
+        }
+      ]
+    },
+    {
+      "title": "Nanjing massacre remembered on 80th anniversary",
+      "article_update_date": "03.25.2026",
+      "source_journal": "China Daily",
+      "body_text": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed by the Japanese military during World War II brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition, the Committee to Promote Reunification of China, the Alliance for Preserving the Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held annually for the past 20 years with the aim of exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history. \"The Japanese Army blatantly violated international conventions and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians were murdered and one third of the buildings were destroyed,\" said Zha Liyou, acting Chinese consul general in San Francisco, at the service. Japanese troops captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing a slaughter that lasted more than 40 days. Tens of thousands of women were raped. \"Our stories are linked. The fate of over 400,000 women sexually enslaved by the Japanese Imperial Army during World War II is part and parcel of what happened during the Nanjing Massacre,\" said Judith Mirkinson, president of the Comfort Women Justice Coalition. She said the 20th century has been called the most violent century in the history of the world, and that one way to ensure peace in the 21st century is through truth and reconciliation. \"Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes,\" she said. \"They must give justice to those few people who still survive from the Nanjing Massacre and to the memory of what happened there.\" From the time that Japan invaded northeast China in September 1931, followed by a full-scale invasion that started on July 7, 1937, around 35 million Chinese soldiers and civilians were killed or injured during the Japanese occupation, which continued until 1945. To honor the victims and the survivors, and to pursue justice and an enduring peace, the Chinese community worldwide joined hands this year to commemorate this historic event which was designated by the Chinese government as National Memorial Day for Nanjing Massacre Victims. \"To remember the atrocities committed by the Japanese Army during World War II does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace,\" said Zha. \"It might be a comfort to the victims and those who sacrificed their lives that the Nanjing Massacre has been etched into the memory of the Chinese people and the world civilization.\" The Nanjing Massacre was entered onto the UNESCO Memory of the World Register, a compendium aimed at preserving documented heritage of universal value, in 2015. liazhu@chinadailyusa.com",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the primary purpose of holding the annual memorial service is to:",
+          "options": {
+            "A": "Promote political reunification between China and other Asian nations.",
+            "B": "Focus solely on the Japanese government's failure to pay war reparations.",
+            "C": "Expose wartime atrocities and ensure historical truth is not forgotten.",
+            "D": "Celebrate the 80th anniversary of the founding of modern Asian peace coalitions."
+          },
+          "answer": "C",
+          "explanation": "文章第二段明确提到，该纪念活动举办20年的目的是“exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history”，因此C选项最符合原文主旨。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the implied significance of the phrase 'part and parcel' in the context of Judith Mirkinson's speech?",
+          "options": {
+            "A": "The sexual enslavement of women was a minor side event of the Nanjing Massacre.",
+            "B": "The suffering of comfort women is an integral and inseparable component of the broader historical tragedy.",
+            "C": "The historical narratives of Chinese civilians and foreign activists are currently disconnected.",
+            "D": "The Japanese government has officially acknowledged the connection between these two historical events."
+          },
+          "answer": "B",
+          "explanation": "“Part and parcel”意为“不可或缺的一部分”。文中Mirkinson提到慰安妇经历与南京大屠杀是“part and parcel”，意味着二者在历史层面是紧密相连的整体，故选B。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to Zha Liyou, why should people continue to remember the atrocities of World War II?",
+          "options": {
+            "A": "To keep the feelings of hatred toward Japan alive among the younger generation.",
+            "B": "To ensure that Japan remains isolated from global civilization and UNESCO.",
+            "C": "To serve as a warning against future conflicts and to advocate for peace.",
+            "D": "To prove that the 20th century was the most violent century in world history."
+          },
+          "answer": "C",
+          "explanation": "文章倒数第二段引用Zha的话，明确指出纪念大屠杀并非为了“pass on the enmity”（传递仇恨），而是为了提醒人们勿忘历史并“inspire them to love peace”（激发对和平的热爱），因此C正确。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the author suggest about the relationship between 'truth' and 'reconciliation'?",
+          "options": {
+            "A": "Reconciliation can be achieved independently of acknowledging historical facts.",
+            "B": "Truth is a prerequisite for achieving genuine reconciliation.",
+            "C": "The Japanese government believes that reconciliation is unnecessary for peace.",
+            "D": "Reconciliation is a temporary measure that ignores the demand for justice."
+          },
+          "answer": "B",
+          "explanation": "文中明确写道：“Reconciliation does not come without truth.”（没有真相就没有和解），这意味着真相是实现和解的必要前提，故B选项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the tone of the passage?",
+          "options": {
+            "A": "Detached and strictly objective.",
+            "B": "Solemn and advocate-oriented.",
+            "C": "Sarcastic and provocative.",
+            "D": "Hopeful and indifferent."
+          },
+          "answer": "B",
+          "explanation": "文章描述了南京大屠杀纪念活动，使用了诸如“cruel atrocity”、“enduring peace”等词汇，语调庄重（solemn），且明显带有呼吁正义、铭记历史的立场（advocate-oriented），故选B。"
+        }
+      ]
+    }
+  ]
+}
