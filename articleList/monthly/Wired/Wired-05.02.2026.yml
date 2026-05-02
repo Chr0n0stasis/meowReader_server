@@ -16,7 +16,7 @@ articles:
   title: Pause
 - id: epub_8
   is_used: false
-  title: Chapter 8
+  title: Save to wishlist
 - id: epub_9
   is_used: false
   title: Chapter 9
@@ -88,19 +88,19 @@ articles:
   title: Chapter 31
 - id: epub_32
   is_used: false
-  title: Pause
+  title: Chapter 32
 - id: epub_33
   is_used: false
   title: Chapter 33
 - id: epub_34
   is_used: false
-  title: Chapter 34
+  title: Pause
 - id: epub_35
   is_used: false
   title: Chapter 35
 - id: epub_36
   is_used: false
-  title: Save to wishlist
+  title: Chapter 36
 - id: epub_37
   is_used: false
   title: Save to wishlist
@@ -132,7 +132,7 @@ articles:
   is_used: false
   title: Chapter 46
 - id: epub_47
-  is_used: true
+  is_used: false
   title: Chapter 47
 - id: epub_48
   is_used: false
@@ -167,11 +167,8 @@ articles:
 - id: epub_60
   is_used: false
   title: Pause
-- id: epub_61
-  is_used: false
-  title: Chapter 61
-capture_date: 04.17.2026
+capture_date: 05.02.2026
 journal_name: Wired
-publish_date: 04.17.2026
+publish_date: 05.02.2026
 source_type: github
 update_frequency: monthly

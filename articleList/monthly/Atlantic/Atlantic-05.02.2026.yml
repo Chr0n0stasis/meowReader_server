@@ -1,0 +1,45 @@
+articles:
+- id: epub_4
+  is_used: false
+  title: Chapter 4
+- id: epub_5
+  is_used: false
+  title: Chapter 5
+- id: epub_6
+  is_used: false
+  title: Chapter 6
+- id: epub_7
+  is_used: false
+  title: Chapter 7
+- id: epub_9
+  is_used: false
+  title: Chapter 9
+- id: epub_10
+  is_used: false
+  title: Chapter 10
+- id: epub_11
+  is_used: false
+  title: Chapter 11
+- id: epub_13
+  is_used: false
+  title: Chapter 13
+- id: epub_14
+  is_used: false
+  title: Chapter 14
+- id: epub_15
+  is_used: false
+  title: Chapter 15
+- id: epub_16
+  is_used: false
+  title: Chapter 16
+- id: epub_18
+  is_used: false
+  title: Chapter 18
+- id: epub_21
+  is_used: false
+  title: Chapter 21
+capture_date: 05.02.2026
+journal_name: Atlantic
+publish_date: 05.02.2026
+source_type: github
+update_frequency: monthly
