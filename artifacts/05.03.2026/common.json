@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.03.2026",
+  "papers": [
+    {
+      "title": "In the current Gulf war, water may prove as decisive as oil",
+      "article_update_date": "04.01.2026",
+      "source_journal": "Economist",
+      "body_text": "In the current Gulf war, water may prove as decisive as oil Middle East & Africa | The threat of thirst In the current Gulf war, water may prove as decisive as oil The Arab states are plainly vulnerable, but so is Iran March 26th 2026 Should the war over Iran grind on, water may become as crucial a commodity as oil. The arid Arab countries of the Gulf increasingly rely on desalination, which provides 90% or more of the drinking-water supply for Bahrain, Kuwait and Qatar, and almost as much for Oman. For Saudi Arabia it is 70%, and roughly 40% in the United Arab Emirates (UAE). This has created a “dangerous new bunch of vulnerabilities” for Gulf countries, says Peter Schwartzstein of the Stimson Centre, an American think-tank. Their rapidly expanding populations and thirsty industries now rely on the smooth running of “a handful of bits of water infrastructure”, he explains. These Arab countries depend on thousands of plants; the most productive of which line the coast (see map). That puts them within easy reach of Iranian missiles and drones. The risks during war are obvious. An American diplomatic cable written in 2008 and published by WikiLeaks noted that the Jubail Desalination Plant alone then supplied Riyadh, the kingdom’s capital, with over 90% of its drinking water. If its pipelines or the power infrastructure around it were hammered, the city would have to be evacuated within a week. If that were to happen, the memo concluded, “the current structure of the Saudi government could not exist”. Since 2006 the Gulf states have spent around $53bn to offset this risk. Saudi Arabia now gets roughly 40% of its desalinated water from smaller facilities that are more spread out. Abu Dhabi and Qatar are building up strategic reserves. Thanks to these investments, most Gulf countries have a modicum of protection. Even if Iran did hit the plants, in most countries some drinking water would continue to flow. But huge gaps remain. Most of the Gulf’s desalinated water comes from a small number of plants. Storage is patchy: the UAE aims to have reserves equivalent to just two days of normal consumption by 2036, which could be stretched to around a month by strict rationing. Smaller states like Bahrain are even more exposed. Attacking civilian water infrastructure is generally considered a war crime. It may already have been perpetrated by both sides in this conflict. American forces reportedly struck a plant on Iran’s Qeshm Island; Iran then hit one in Bahrain. Shortly before Donald Trump abruptly changed tack on his threat to clobber Iranian power plants, Iran’s Islamic Revolutionary Guard Corps said it would target Gulf countries’ water facilities in response. Though Iran relies much less on desalination, it is desperately short of water. Decades of building dams and recklessly extracting water have depleted supplies. Almost a third of Iranians face shortages. And the war will do little to help Iran’s already modest co-operation on water with nearby countries. As the conflict goes on, Iran may turn off the taps for its Gulf neighbours. But it is increasingly likely to run out of water itself. ■ Sign up to the Middle East Dispatch , a weekly newsletter that keeps you in the loop on a fascinating, complex and consequential part of the world. This article was downloaded by zlibrary from https://www.economist.com//middle-east-and-africa/2026/03/26/in-the-current-gulf-war-water-may-prove-as-decisive-as-oil",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "In the current Gulf war, water may prove as ________ as oil.",
+          "options": {
+            "A": "expensive",
+            "B": "plentiful",
+            "C": "decisive",
+            "D": "renewable"
+          },
+          "answer": "C",
+          "explanation": "文章开篇指出水资源可能像石油一样起到决定性作用，decisive符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The arid Arab countries of the Gulf increasingly ________ on desalination.",
+          "options": {
+            "A": "rely",
+            "B": "operate",
+            "C": "insist",
+            "D": "originate"
+          },
+          "answer": "A",
+          "explanation": "rely on意为依赖，符合海湾国家对淡化水的需求。"
+        },
+        {
+          "q_number": 3,
+          "stem": "This has created a “dangerous new bunch of ________” for Gulf countries.",
+          "options": {
+            "A": "priorities",
+            "B": "opportunities",
+            "C": "vulnerabilities",
+            "D": "possibilities"
+          },
+          "answer": "C",
+          "explanation": "下文提到这些国家依赖少数基础设施，容易受到攻击，因此是脆弱性（vulnerabilities）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Their rapidly expanding populations and thirsty industries now rely on the ________ running of water infrastructure.",
+          "options": {
+            "A": "slow",
+            "B": "rough",
+            "C": "smooth",
+            "D": "stagnant"
+          },
+          "answer": "C",
+          "explanation": "基础设施需要“平稳”运行（smooth running）才能满足人口需求。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The most productive plants line the coast, which puts them within easy ________ of Iranian missiles.",
+          "options": {
+            "A": "vision",
+            "B": "control",
+            "C": "charge",
+            "D": "reach"
+          },
+          "answer": "D",
+          "explanation": "within easy reach指容易被触及/打击，符合军事威胁语境。"
+        },
+        {
+          "q_number": 6,
+          "stem": "If the infrastructure were hammered, the city would have to be ________ within a week.",
+          "options": {
+            "A": "decorated",
+            "B": "expanded",
+            "C": "renovated",
+            "D": "evacuated"
+          },
+          "answer": "D",
+          "explanation": "如果水源中断，城市居民必须被迫撤离（evacuated）。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Since 2006 the Gulf states have spent around $53bn to ________ this risk.",
+          "options": {
+            "A": "aggravate",
+            "B": "offset",
+            "C": "ignore",
+            "D": "create"
+          },
+          "answer": "B",
+          "explanation": "投入资金是为了抵消或弥补（offset）风险。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Saudi Arabia now gets roughly 40% of its desalinated water from smaller facilities that are more ________ out.",
+          "options": {
+            "A": "spread",
+            "B": "broken",
+            "C": "worn",
+            "D": "taken"
+          },
+          "answer": "A",
+          "explanation": "spread out意为分布开，指降低集中被攻击的风险。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Thanks to these investments, most Gulf countries have a ________ of protection.",
+          "options": {
+            "A": "modicum",
+            "B": "lack",
+            "C": "mountain",
+            "D": "majority"
+          },
+          "answer": "A",
+          "explanation": "a modicum of意为少量，符合语境中提到的基本防护能力。"
+        },
+        {
+          "q_number": 10,
+          "stem": "But huge gaps ________. Most of the Gulf’s desalinated water comes from a small number of plants.",
+          "options": {
+            "A": "vanish",
+            "B": "decline",
+            "C": "emerge",
+            "D": "remain"
+          },
+          "answer": "D",
+          "explanation": "虽然有所改善，但仍存在巨大缺口（remain）。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Storage is patchy: the UAE aims to have reserves ________ to just two days of consumption.",
+          "options": {
+            "A": "contrary",
+            "B": "equivalent",
+            "C": "superior",
+            "D": "indifferent"
+          },
+          "answer": "B",
+          "explanation": "equivalent to意为等于、相当于。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Smaller states like Bahrain are even more ________.",
+          "options": {
+            "A": "secure",
+            "B": "exposed",
+            "C": "relaxed",
+            "D": "confident"
+          },
+          "answer": "B",
+          "explanation": "小国储备更少，因此更容易受到威胁（exposed）。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Attacking civilian water infrastructure is generally considered a war ________.",
+          "options": {
+            "A": "service",
+            "B": "report",
+            "C": "crime",
+            "D": "policy"
+          },
+          "answer": "C",
+          "explanation": "根据国际法，攻击民用基础设施被视为战争罪（war crime）。"
+        },
+        {
+          "q_number": 14,
+          "stem": "It may already have been ________ by both sides in this conflict.",
+          "options": {
+            "A": "prevented",
+            "B": "perpetrated",
+            "C": "prepared",
+            "D": "preserved"
+          },
+          "answer": "B",
+          "explanation": "perpetrate意为犯下（罪行），与战争罪搭配。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Shortly before Donald Trump abruptly changed ________ on his threat...",
+          "options": {
+            "A": "tack",
+            "B": "rock",
+            "C": "pack",
+            "D": "luck"
+          },
+          "answer": "A",
+          "explanation": "change tack意为改变策略或方针。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Though Iran relies much less on desalination, it is ________ short of water.",
+          "options": {
+            "A": "casually",
+            "B": "partially",
+            "C": "eventually",
+            "D": "desperately"
+          },
+          "answer": "D",
+          "explanation": "desperately short意为极度匮乏。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Decades of building dams and ________ extracting water have depleted supplies.",
+          "options": {
+            "A": "recklessly",
+            "B": "cautiously",
+            "C": "optimistically",
+            "D": "regularly"
+          },
+          "answer": "A",
+          "explanation": "recklessly（鲁莽地）开采导致了资源枯竭。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Almost a third of Iranians face ________.",
+          "options": {
+            "A": "abundance",
+            "B": "surpluses",
+            "C": "shortages",
+            "D": "wealth"
+          },
+          "answer": "C",
+          "explanation": "文章探讨的是缺水问题，shortages符合逻辑。"
+        },
+        {
+          "q_number": 19,
+          "stem": "As the conflict goes on, Iran may turn off the ________ for its Gulf neighbours.",
+          "options": {
+            "A": "lights",
+            "B": "radios",
+            "C": "engines",
+            "D": "taps"
+          },
+          "answer": "D",
+          "explanation": "turn off the taps（关掉水龙头）是针对水资源的比喻用法。"
+        },
+        {
+          "q_number": 20,
+          "stem": "But it is increasingly likely to run out of water ________.",
+          "options": {
+            "A": "nearby",
+            "B": "itself",
+            "C": "already",
+            "D": "somewhere"
+          },
+          "answer": "B",
+          "explanation": "强调伊朗不仅威胁邻国，自己也会耗尽水源，用itself加强语气。"
+        }
+      ]
+    },
+    {
+      "title": "Doctor Mike’s Internet Medicine",
+      "article_update_date": "03.25.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Doctor Mike’s Internet Medicine Dept. of Debunking Doctor Mike’s Internet Medicine Mikhail Varshavski, People’s “sexiest doctor,” has a medical degree—and millions of fans on YouTube, where he debunks R.F.K., Jr., interviews Kamala Harris, and analyzes “The Pitt.” By Andrew Trunsky March 16, 2026 Awoman was wheeled into the E.R. with a hectic red rash on her leg, painful to the touch. Dr. Mikhail Varshavski looked it over. “If it continues to spread past the demarcation that we usually draw using a skin marker—we say Sharpie, but it’s a skin marker—we say that this is spreading,” he commented. Diagnosis: possible sepsis. Varshavski was not talking to the patient or to nursing staff. He was not even in a hospital. He was speaking into a camera in a two-bedroom apartment on the fifty-sixth floor of a building in Hell’s Kitchen, in a makeshift studio where he records videos and his popular podcast, “The Checkup with Doctor Mike.” He had on form-fitting royal-blue scrubs and no shoes. The “patient” he was observing wasn’t a patient at all but an actor on Season 2 of “The Pitt.” As the episode continued and other patients appeared—a mother with metastatic cancer, a badly beaten prisoner, a Gen Z-er burned by dry ice from a botched branding—Varshavski periodically hit Pause and explained the medical lingo and the treatments, drawn from his own experience as a family-medicine physician. At one point, he tsk-tsked at the way the onscreen doctors were revealing their own “interpersonal conflict” in front of a patient. And when a “Pitt” doctor touted an A.I. app that charts patients’ medical info, Varshavski grimaced. “I’m always very sus about these,” he said. “But I’m opening up to them.” Color commentary on TV hospital shows is only a small slice of what Varshavski, known to his nearly fifteen million YouTube subscribers as Dr. Mike, puts out into the world. He makes videos of himself clarifying basic medical misconceptions and debunking cranks—Robert F. Kennedy, Jr., is a common target, as are influencers hawking dodgy supplements. He also interviews prominent doctors, celebrities (Noah Wyle), and powerful politicians (Chuck Schumer and Kamala Harris). When planning his content, he bows to the algorithm. “We need to do silly videos, because then we’re in viewers’ watch history,” he said. If they see a video he makes with his dogs, chances are they’ll see a video he makes about how vaccines eradicated smallpox. Varshavski has been posting videos for nearly a decade, but these days, with R.F.K., Jr., running the Department of Health and Human Services, measles spreading, and the “wellness” industry endorsing pseudoscience, the doctor is especially eager to engage viewers who are misinformed—as well as the people who are doing the misinforming. He appears on Fox News; he has debated groups of vaccine skeptics and MAHA true believers. Communication, he likes to say, is as critical online as it is in an examination room. “People say, ‘Dr. Mike, you’re a great doctor, but my doctor sucks,’ ” he said. “That could be true!” Varshavski was born in the U.S.S.R. three days after the fall of the Berlin Wall and moved to New York City when he was six. He picked up boxing during medical school and still trains. Two days a week, he sees patients at a health center in Chatham, New Jersey; he donates his salary back to the center. In 2015, People magazine named Varshavski “the sexiest doctor alive.” He’s aware of the legacy of famous media doctors who preceded him and is wary of relaxing his standards in order to stay in the spotlight. “That’s why a show like ‘The Dr. Oz Show,’ which initially started off with providing really good evidence about exercise and the benefits of eating a well-rounded diet, devolved into saying how your zodiac sign impacts your health,” he said. MAHA , Varshavski believes, has become its own worst enemy. “It is a fractured movement,” he said. “It started off with the idea that we want Americans to be healthy, and it’s been co-opted to be an agenda to make a certain proportion of the population very wealthy at the expense of science, at the expense of children getting sick.” In his immaculate kitchen, looking out at views spreading from Central Park to Brooklyn, he sat down to a plate of takeout chicken and vegetables. (There was no ultra-processed food in sight, although a bar cart held bottles of Clase Azul and Johnnie Walker Blue.) When asked what he considers to be his unhealthiest habit, he thought for a moment. “I used to say poor sleep,” he said. (He now tries to get at least seven hours a night.) “But my cholesterol is really bad.” A few bites later, he added, “Another unhealthy thing I do is box.” ♦",
+      "difficulty_constant": 7.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary activity Dr. Mikhail Varshavski performs in his makeshift studio in Hell's Kitchen?",
+          "options": {
+            "A": "Providing remote medical diagnosis to real-world patients in need.",
+            "B": "Analyzing and fact-checking medical portrayals in fictional television shows.",
+            "C": "Filming episodes for a documentary about his daily life as a family-medicine physician.",
+            "D": "Hosting debates between prominent politicians and medical experts."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到Varshavski在他的工作室里通过观看电视剧《The Pitt》并打断播放（hit Pause），向观众解释医疗术语和治疗手段，以此纠正剧中对医疗行为的描写，因此B项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, why does Dr. Mike consciously include 'silly videos' in his content strategy?",
+          "options": {
+            "A": "To maintain his image as the 'sexiest doctor' in the industry.",
+            "B": "To satisfy the personal requests of his celebrity guests.",
+            "C": "To manipulate the YouTube algorithm and improve viewer retention.",
+            "D": "To distance himself from the serious tone of traditional medical professionals."
+          },
+          "answer": "C",
+          "explanation": "文章引用Dr. Mike的话：“We need to do silly videos, because then we’re in viewers’ watch history.” 说明这些视频是为了迎合YouTube算法，从而增加曝光率，因此C项正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is Dr. Mike's attitude toward the 'wellness' industry and medical trends like A.I. apps?",
+          "options": {
+            "A": "Indifferent, as he believes they have little impact on public health.",
+            "B": "Supportive, because they promote patient autonomy.",
+            "C": "Apprehensive but cautiously open to evolving technologies.",
+            "D": "Hostile, as he considers all non-traditional medical advice to be fraudulent."
+          },
+          "answer": "C",
+          "explanation": "文中提到Dr. Mike对于A.I.医疗App的态度是“very sus”（可疑的/警惕的），但也紧接着说“But I’m opening up to them”，表明他是审慎且保持开放态度的，C项符合原意。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Why does Dr. Mike criticize the trajectory of 'The Dr. Oz Show'?",
+          "options": {
+            "A": "It prioritized entertainment value over scientific evidence.",
+            "B": "It failed to attract a large enough audience to stay profitable.",
+            "C": "It focused too heavily on political agendas rather than health.",
+            "D": "It ignored the impact of diet and exercise on human longevity."
+          },
+          "answer": "A",
+          "explanation": "Dr. Mike提到该节目最初提供好的科学证据，但后来“devolved into”（退化为）讨论星座等伪科学，说明他批评的是该节目背离了科学证据，转而追求娱乐化，故选A。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about Dr. Mike's perspective on the 'MAHA' movement?",
+          "options": {
+            "A": "He believes it is a genuine effort to improve national health.",
+            "B": "He views it as a fractured group exploited for profit at the cost of public health.",
+            "C": "He sees it as a necessary political force to reform the Department of Health.",
+            "D": "He considers it a harmless trend that will eventually fade away."
+          },
+          "answer": "B",
+          "explanation": "文章中Dr. Mike称该运动“fractured”，并认为它被“co-opted”（被利用）以牺牲科学和儿童健康来换取部分人的财富，反映出他对其负面性质的严厉批判，故选B。"
+        }
+      ]
+    },
+    {
+      "title": "Weather tracker: hail covers parts of Tunisia and Algeria like snow",
+      "article_update_date": "04.19.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Severe thunderstorms have affected the Mediterranean this week. On Monday, a surface low-pressure system in the Mediterranean in conjunction with an upper air cut-off low, led to thunderstorms over north Africa. Their intensity was aided by the hot precursor conditions. Algeria and Tunisia were notably affected by the thunderstorms, with some hail accumulation layers as a result. When so much hail forms, it starts to lay down sheets of hail, covering the ground like snow. Hail accumulations of up to 3cm were reported in Oum Ladjoul and Hammam Sokhna in Algeria, and there were hailstones of up to 3cm in diameter in Makthar, Tunisia. Thunderstorms continued in the region through the following day, with further hail accumulations, notably in Ouled Bousmir, Tunisia, where there was a layer about 2cm deep. Later in the week, another surface low developed, this time over Sicily. Thunderstorms broke out across parts of central Italy on Wednesday morning. These led to some severe downpours, with 52.1mm of rain falling in just over an 1 hour and 10 minutes in the city of Ascoli Piceno and 62.3mm falling in less than 1 hour and 50 minutes in the town of Mosciano Sant’Angelo. Other regions were also affected, with 46mm of rain in 36 minutes in the Sicilian town of Bagheria, as well as heavy rain being recorded in Algeria and Tunisia. View image in fullscreen A boy watches dark storm clouds from a bedroom window in Monroe, Wisconsin. Photograph: Ross Harried/NurPhoto/Shutterstock There were severe thunderstorms elsewhere in the world this week, notably parts of the north-east US. On Tuesday evening, a supercell affected Dane county, Wisconsin, and as a result, a tornado warning was in force. According to radar, a tornado did occur, but there were no confirmed reports of it touching the ground. However, this supercell also led to some severe hail. Around Madison, baseball-sized hailstones were reported. At 7cm in diameter, these would have been twice the size of those reported in Tunisia. The following day, severe storms continued in the north-east US, and spread into Ohio. During this outbreak, even bigger hail was reported, with softball-sized stones being seen near Kansas City – stones as large as 11.5cm in diameter. Tornadoes were also a big player in these storm outbreaks, with about 20 across the US this week, primarily in Wisconsin, Kansas, Iowa and Minnesota.",
+      "difficulty_constant": 7.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what contributed to the intensity of the thunderstorms in North Africa?",
+          "options": {
+            "A": "A sudden drop in temperature following a severe cold front.",
+            "B": "The combination of a surface low-pressure system and an upper air cut-off low.",
+            "C": "The arrival of a seasonal cyclone originating from the Atlantic Ocean.",
+            "D": "The lack of moisture in the Mediterranean basin throughout the week."
+          },
+          "answer": "B",
+          "explanation": "文章第一段明确提到：'a surface low-pressure system in the Mediterranean in conjunction with an upper air cut-off low, led to thunderstorms over north Africa.' 选项B准确概括了这一成因。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following descriptions best characterizes the hail accumulation in the Mediterranean region?",
+          "options": {
+            "A": "The hail caused significant damage to residential buildings in Sicily.",
+            "B": "The accumulation was consistent across all Mediterranean coastal towns.",
+            "C": "The hail formed sheets on the ground, resembling a snowfall.",
+            "D": "The hail diameter consistently exceeded 10cm in most reported areas."
+          },
+          "answer": "C",
+          "explanation": "文章提到：'it starts to lay down sheets of hail, covering the ground like snow.' 选项C与原文描述完全一致。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author cites the rainfall data in Ascoli Piceno and Mosciano Sant’Angelo primarily to demonstrate:",
+          "options": {
+            "A": "The geographical shift of storm systems towards Italy.",
+            "B": "The unprecedented duration of rainfall in central Italy.",
+            "C": "The intensity and speed of the downpours caused by the surface low.",
+            "D": "The inefficiency of local drainage systems in Italian towns."
+          },
+          "answer": "C",
+          "explanation": "文章引用这些具体数值是为了支持前文关于'severe downpours'的论点，强调了降水在极短时间内的高强度，故选C。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the hailstones in the US compare to those in Tunisia as described in the text?",
+          "options": {
+            "A": "They were significantly larger, with some reaching up to 7cm in diameter near Madison.",
+            "B": "They were identical in size but fell over a much wider geographical area.",
+            "C": "They were smaller in size but occurred with much higher frequency.",
+            "D": "They failed to reach the ground despite the tornado warnings issued."
+          },
+          "answer": "A",
+          "explanation": "文章指出Madison附近的冰雹直径达7cm，并明确说明：'At 7cm in diameter, these would have been twice the size of those reported in Tunisia.' 选项A符合文意。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the tornado activity in the US during the reported week?",
+          "options": {
+            "A": "Tornadoes were the sole cause of the damage reported in Wisconsin.",
+            "B": "The tornadoes resulted in confirmed widespread destruction in Kansas City.",
+            "C": "Approximately 20 tornadoes were reported, mainly in the midwestern and northern regions.",
+            "D": "Radar technology failed to detect the majority of the tornadoes that occurred."
+          },
+          "answer": "C",
+          "explanation": "文章最后一段指出：'Tornadoes were also a big player... with about 20 across the US this week, primarily in Wisconsin, Kansas, Iowa and Minnesota.' 选项C准确总结了这一事实。"
+        }
+      ]
+    },
+    {
+      "title": "Nanjing massacre remembered on 80th anniversary",
+      "article_update_date": "04.19.2026",
+      "source_journal": "China Daily",
+      "body_text": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed by the Japanese military during World War II brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition, the Committee to Promote Reunification of China, the Alliance for Preserving the Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held annually for the past 20 years with the aim of exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history. \"The Japanese Army blatantly violated international conventions and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians were murdered and one third of the buildings were destroyed,\" said Zha Liyou, acting Chinese consul general in San Francisco, at the service. Japanese troops captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing a slaughter that lasted more than 40 days. Tens of thousands of women were raped. \"Our stories are linked. The fate of over 400,000 women sexually enslaved by the Japanese Imperial Army during World War II is part and parcel of what happened during the Nanjing Massacre,\" said Judith Mirkinson, president of the Comfort Women Justice Coalition. She said the 20th century has been called the most violent century in the history of the world, and that one way to ensure peace in the 21st century is through truth and reconciliation. \"Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes,\" she said. \"They must give justice to those few people who still survive from the Nanjing Massacre and to the memory of what happened there.\" From the time that Japan invaded northeast China in September 1931, followed by a full-scale invasion that started on July 7, 1937, around 35 million Chinese soldiers and civilians were killed or injured during the Japanese occupation, which continued until 1945. To honor the victims and the survivors, and to pursue justice and an enduring peace, the Chinese community worldwide joined hands this year to commemorate this historic event which was designated by the Chinese government as National Memorial Day for Nanjing Massacre Victims. \"To remember the atrocities committed by the Japanese Army during World War II does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace,\" said Zha. \"It might be a comfort to the victims and those who sacrificed their lives that the Nanjing Massacre has been etched into the memory of the Chinese people and the world civilization.\" The Nanjing Massacre was entered onto the UNESCO Memory of the World Register, a compendium aimed at preserving documented heritage of universal value, in 2015. liazhu@chinadailyusa.com",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the memorial service in San Francisco is held annually with the primary purpose of __________.",
+          "options": {
+            "A": "promoting the reunification of China and Asia",
+            "B": "calling for financial reparations from the Japanese government",
+            "C": "ensuring the memory of historical atrocities persists to foster peace",
+            "D": "revising international conventions regarding wartime conduct"
+          },
+          "answer": "C",
+          "explanation": "文章明确提到举办纪念活动的目的是exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history，以及 remind people not to forget the history and inspire them to love peace。因此C项符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase \"part and parcel of\" in the second paragraph most likely mean?",
+          "options": {
+            "A": "An independent consequence",
+            "B": "An essential component",
+            "C": "A historical deviation",
+            "D": "A contradictory element"
+          },
+          "answer": "B",
+          "explanation": "短语 \"part and parcel of\" 意为“……不可分割的一部分/重要组成部分”。文中指代被性奴役的女性命运与南京大屠杀期间发生的事紧密相连，属于整体事件的构成部分。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best summarizes Judith Mirkinson's stance on reconciliation?",
+          "options": {
+            "A": "True reconciliation is impossible without the acknowledgment of past crimes",
+            "B": "Justice for the survivors is secondary to the pursuit of global peace",
+            "C": "The 20th century's violence can be offset by forgetting history",
+            "D": "The Japanese government has already fulfilled its duty to the victims"
+          },
+          "answer": "A",
+          "explanation": "Mirkinson明确指出：Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes. 这表明承认罪行是实现和解的先决条件。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the implied attitude of the author towards the Chinese government's designation of a National Memorial Day?",
+          "options": {
+            "A": "Critical of its potential to prolong national enmity",
+            "B": "Indifferent to its symbolic historical value",
+            "C": "Supportive of its role in honoring victims and pursuing peace",
+            "D": "Skeptical of its recognition by international organizations like UNESCO"
+          },
+          "answer": "C",
+          "explanation": "文中提到设立纪念日是为了 honor the victims and the survivors, and to pursue justice and an enduring peace。作者在文中引用Zha Liyou的话，强调纪念不是为了传递仇恨，而是提醒人们铭记历史、热爱和平，态度呈现积极支持。"
+        },
+        {
+          "q_number": 5,
+          "stem": "According to Zha Liyou, what is the ultimate comfort for the victims of the Nanjing Massacre?",
+          "options": {
+            "A": "The destruction of the Japanese Imperial Army's archives",
+            "B": "The fact that the history has been preserved in the collective memory",
+            "C": "The official apology issued by the Japanese government in 2015",
+            "D": "The financial aid provided to the survivors worldwide"
+          },
+          "answer": "B",
+          "explanation": "Zha Liyou在文末提到：It might be a comfort to the victims... that the Nanjing Massacre has been etched into the memory of the Chinese people and the world civilization。此处etched into the memory对应选项B中preserved in the collective memory。"
+        }
+      ]
+    }
+  ]
+}
