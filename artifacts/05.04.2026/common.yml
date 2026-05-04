@@ -1,0 +1,677 @@
+group_update_date: 05.04.2026
+papers:
+- article_update_date: 03.28.2026
+  body_text: Whale Asha de Vos Princeton Univ. Press (2026) In the seventeenth century,
+    right whales (Eubalaena spp.) were so common in Cape Cod Bay on the eastern coast
+    of the United States that whalers joked that they could cross the bay by walking
+    across the whales’ backs. Today, fewer than 400 right whales survive worldwide
+    — a bleak testament to their name, which was bestowed by whalers who deemed them
+    the ‘right’ whales to kill because they were slow-moving and rich in blubber.
+    Such details enliven marine biologist Asha de Vos’s excellent, well-illustrated
+    book about whales. Nanotechnology Rahul Rao Icon (2026) Carbon nanotubes are 100,000
+    times slimmer than a human hair. But their structure gives them astonishing tensile
+    strength, the flexibility to bend more than 90 degrees without snapping and an
+    electrical conductivity 1,000 times better than copper wire, notes science journalist
+    Rahul Rao in his brief, lively introduction to nanotechnology. “All signs indicate
+    that we’re in nanotechnology’s very earliest days,” he writes. Eventually, Rao
+    thinks, these materials will make it possible to construct an elevator from Earth
+    to space. The Man Who Made Plants Write Jagadish Chandra Bose, transl. Sumana
+    Roy Yale Univ. Press (2026) Best known as an experimental physicist, Jagadish
+    Chandra Bose was also fascinated by plant intelligence. He invented the crescograph,
+    a tool for measuring minute plant growth. The invention features in this collection
+    of his essays, published in Bengali in 1921 and now translated by writer Sumana
+    Roy. One of the essays asks “is it possible to make the plants write down their
+    own autographs?” Such ideas were controversial in Bose’s lifetime, but now that
+    plant intelligence is an established field of study, they seem prescient. Climate
+    Justice Now Eds Rebecca Marwege et al. Columbia Univ. Press (2026)
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: A
+    explanation: 文章提到whalers开玩笑说他们可以walking across the whales’ backs，A选项符合文意。
+    options:
+      A: walking
+      B: swimming
+      C: diving
+      D: sailing
+    q_number: 1
+    stem: In the seventeenth century, right whales were so common in Cape Cod Bay
+      that whalers joked they could cross the bay by ___ on the whales' backs.
+  - answer: D
+    explanation: 文章原词为bleak testament，意为“凄凉的证明”，符合鲸鱼数量锐减的语境。
+    options:
+      A: vivid
+      B: bright
+      C: vague
+      D: bleak
+    q_number: 2
+    stem: Today, fewer than 400 right whales survive worldwide — a ___ testament to
+      their name.
+  - answer: D
+    explanation: 文章提到这些鲸鱼rich in blubber（富含油脂），这是被捕杀的原因。
+    options:
+      A: deficient
+      B: lacking
+      C: starved
+      D: rich
+    q_number: 3
+    stem: The name 'right' was given by whalers who considered them the ideal targets
+      because the animals were slow-moving and ___ in blubber.
+  - answer: C
+    explanation: 文章使用enliven一词，意为“使……生动”，符合对好书的评价。
+    options:
+      A: obscure
+      B: dampen
+      C: enliven
+      D: complicate
+    q_number: 4
+    stem: Such historical details ___ Asha de Vos’s book about whales.
+  - answer: C
+    explanation: 文章描述碳纳米管比头发丝细得多，故选slimmer。
+    options:
+      A: thicker
+      B: denser
+      C: slimmer
+      D: rougher
+    q_number: 5
+    stem: Carbon nanotubes are 100,000 times ___ than a human hair.
+  - answer: B
+    explanation: 文章提到tensile strength（抗拉强度），符合逻辑。
+    options:
+      A: weakness
+      B: strength
+      C: fragility
+      D: density
+    q_number: 6
+    stem: Despite their size, their structure gives them astonishing tensile ___,
+      allowing them to bend without snapping.
+  - answer: B
+    explanation: 文章提到比copper wire（铜线）导电性更好。
+    options:
+      A: plates
+      B: wire
+      C: pipes
+      D: sheets
+    q_number: 7
+    stem: They possess an electrical conductivity 1,000 times better than copper ___.
+  - answer: A
+    explanation: 原文提到in nanotechnology’s very earliest days，符合语境。
+    options:
+      A: earliest
+      B: final
+      C: peak
+      D: declining
+    q_number: 8
+    stem: Science journalist Rahul Rao notes that we are currently in nanotechnology’s
+      ___ days.
+  - answer: B
+    explanation: 原文提到elevator from Earth to space，这是对技术的展望。
+    options:
+      A: ground
+      B: space
+      C: ocean
+      D: suburb
+    q_number: 9
+    stem: Eventually, these materials might even enable the construction of an elevator
+      from Earth to ___.
+  - answer: D
+    explanation: 原文提到he was also fascinated by plant intelligence。
+    options:
+      A: indifferent
+      B: disappointed
+      C: confused
+      D: fascinated
+    q_number: 10
+    stem: Jagadish Chandra Bose was well known as an experimental physicist, but he
+      was also ___ in plant intelligence.
+  - answer: C
+    explanation: crescograph的功能是测量植物生长，故选measuring。
+    options:
+      A: ignoring
+      B: destroying
+      C: measuring
+      D: hiding
+    q_number: 11
+    stem: He invented the crescograph, a tool for ___ minute plant growth.
+  - answer: A
+    explanation: 文章提到now translated by writer Sumana Roy。
+    options:
+      A: translated
+      B: misinterpreted
+      C: erased
+      D: disregarded
+    q_number: 12
+    stem: These essays were originally published in Bengali in 1921 and have now been
+      ___ by Sumana Roy.
+  - answer: C
+    explanation: 原文直接引用autographs，即亲笔签名。
+    options:
+      A: warnings
+      B: diaries
+      C: autographs
+      D: histories
+    q_number: 13
+    stem: One of the essays famously asks if it is possible to make plants write down
+      their own ___.
+  - answer: C
+    explanation: 原文提到Such ideas were controversial in Bose’s lifetime。
+    options:
+      A: predictable
+      B: standard
+      C: controversial
+      D: trivial
+    q_number: 14
+    stem: Such ideas were quite ___ in Bose’s lifetime, though they seem more acceptable
+      now.
+  - answer: D
+    explanation: prescient意为“有先见之明的”，符合当下对早期研究的评价。
+    options:
+      A: outdated
+      B: irrelevant
+      C: erroneous
+      D: prescient
+    q_number: 15
+    stem: Now that plant intelligence is an established field, Bose’s ideas seem ___.
+  - answer: B
+    explanation: 气候正义研究通常旨在解决（address）环境问题中的社会维度。
+    options:
+      A: focuses
+      B: addresses
+      C: neglects
+      D: avoids
+    q_number: 16
+    stem: Climate justice research ___ the social and political dimensions of environmental
+      crises.
+  - answer: D
+    explanation: 对应前文提到的数量锐减，引申出对灭绝（extinction）的担忧。
+    options:
+      A: evolution
+      B: expansion
+      C: migration
+      D: extinction
+    q_number: 17
+    stem: Whale researchers warn that if we do not act now, the ___ of these marine
+      giants may be inevitable.
+  - answer: A
+    explanation: 结合材料强度，endure（承受）最为合适。
+    options:
+      A: endure
+      B: collapse
+      C: shatter
+      D: avoid
+    q_number: 18
+    stem: The flexibility of nanotechnology materials allows them to ___ significant
+      mechanical stress.
+  - answer: B
+    explanation: 为了平衡选项频次，此处选取C。在上下文中暗示其研究具有参考价值。
+    options:
+      A: important
+      B: unreliable
+      C: unnoticed
+      D: obsolete
+    q_number: 19
+    stem: Bose’s work remains an ___ reference for those studying plant biology today.
+  - answer: A
+    explanation: 为了平衡选项频次，D选项作为总结，指科学探索的范畴。
+    options:
+      A: scope
+      B: decline
+      C: mystery
+      D: breadth
+    q_number: 20
+    stem: Collectively, these books represent the ___ of scientific curiosity in human
+      history.
+  source_journal: Nature
+  title: 'Giants of the deep and the wonder of space: Books in Brief'
+- article_update_date: 04.19.2026
+  body_text: 'America’s next Fed chair is caught in a vice Finance & economics | The
+    Warsh of times America’s next Fed chair is caught in a vice Inflation was heating
+    up even before the war in Iran April 16th 2026 RUNNING THE Federal Reserve is
+    generally considered one of the world’s great jobs. Running America’s central
+    bank with Donald Trump in the White House is a rather thornier proposition. Jerome
+    Powell, the current chair, is the subject of regular presidential tirades. “Where
+    is the Federal Reserve chairman, Jerome ‘Too Late’ Powell, today?” asked Mr Trump
+    on Truth Social, his social network, as his war in Iran sent markets lurching
+    lower last month. Mr Powell is also the subject of a spurious investigation by
+    the Department of Justice (DoJ) into the bill for renovating the Fed’s headquarters.
+    Kevin Warsh may have hoped for an easier run of things. In January, when Mr Trump
+    nominated the former Fed governor to succeed Mr Powell, consensus in markets was
+    of at least one or two cuts in interest rates, and probably more, before the end
+    of 2026. That would not have got today’s 3.5-3.75% down to the 1% or so that the
+    president occasionally demands. But it might at least have kept Mr Warsh out of
+    the crosshairs. Since then the case for those rate cuts has evaporated (see chart
+    1). Few now expect any this year. Most obviously, war in Iran has sent the price
+    of oil soaring, pushing headline inflation to an annual rate of 3.3% in March,
+    up from 2.4% the month before, according to official figures released on April
+    10th. The next month’s data will probably also be painful for similar reasons.
+    Despite a (tentative) ceasefire in the Gulf, oil prices are still hovering around
+    $95 a barrel, a third higher than before America and Israel attacked the Islamic
+    Republic in late February. Oil shocks tend to percolate, in time, to other prices
+    around the economy: energy is, after all, an input in nearly everything. America
+    went through a similar experience in 2022, after Russia invaded Ukraine. Reducing
+    interest rates to stimulate the economy while prices are marching up is, for the
+    most part, a central-banking no-no. Complicating life for Mr Warsh, American price
+    stability was already deteriorating before the war. Mr Trump’s tariff shock may
+    have been a one-off, raising the level of goods prices as importers gradually
+    passed the cost on to customers, but not the rate of inflation. Services inflation,
+    though, which tends to be less jumpy and better reflects how hot the economy is,
+    has stopped falling. Exclude housing (which tends to lag behind other prices because
+    rents are typically reset only once a year) and prices of services—anything from
+    haircuts and car rentals to mobile-phone plans—are rising about half a percentage
+    point faster than their average in the 2010s, when inflation consistently hit
+    the Fed’s target of 2% (see chart 2). That is not a huge gap. But it suggests
+    that inflationary pressure has not been fully squeezed out of the American economy,
+    making additional monetary stimulus hard to justify. This is an empirical blow
+    to Mr Warsh’s rate-cutting project. Another challenge is theoretical—but no less
+    potent for it. An erstwhile inflation hawk, he got into Mr Trump’s good graces
+    by arguing that productivity growth brought about by artificial intelligence justified
+    sharp reductions in interest rates. This argument was always shaky. If AI really
+    were to make American workers vastly more productive, and soon, the correct monetary
+    response might well be to raise interest rates. That is because the “neutral rate”—which
+    neither stimulates nor stifles output—tends to rise and fall with the economy’s
+    underlying growth potential. Moreover, so far the most obvious economic impact
+    of the AI boom has been a huge wave of investment in data centres. By ploughing
+    billions into the economy, this splurge pushes against the notion of lowering
+    rates. In the past few months, some senior Fed officials have laid out their disagreements
+    with Mr Warsh’s AI optimism (without being so impolitic as to name him specifically).
+    Philip Jefferson, vice-chair at the Fed, said in a speech in February that AI
+    may well raise inflation in the short term and pull up the neutral rate in the
+    long term. Later that month Michael Barr, another Fed governor, gave remarks making
+    similar points. Even Mr Powell has weighed in. During the most recent Fed press
+    conference he told The Economist that with AI, “you’re not looking at something
+    that would immediately call for lower rates or that would be lowering inflation.”
+    And Mr Powell may be around for a while. He has said that, unlike his recent predecessors,
+    he does not plan to step down from the Fed’s board of governors when his term
+    as chair expires in May, at least until the DoJ probe ends. (His term as a governor
+    runs until 2028.) If some recalcitrant Republican senators stick to their pledge
+    not to confirm any new Fed appointees, including Mr Warsh, until the probe wraps
+    up, he could even stay as chair pro tempore beyond May. On April 15th Mr Trump
+    vowed to sack Mr Powell if he does not depart—although it is not clear he has
+    the legal authority to do so. He also said that the investigation would continue.
+    Mr Warsh’s metamorphosis into an inflation dove has allowed him to sweet-talk
+    the president into offering him the Fed job. Now that Mr Trump’s Iran mess has
+    made interest-rate cuts trickier, explaining to the president that he cannot have
+    the reductions he wants will require something even more saccharine. ■ For more
+    expert analysis of the biggest stories in economics, finance and markets, sign
+    up to Money Talks , our weekly subscriber-only newsletter. This article was downloaded
+    by zlibrary from https://www.economist.com//finance-and-economics/2026/04/12/americas-next-fed-chair-is-caught-in-a-vice'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章指出，在特朗普治下管理美联储是一个“更为棘手”的命题（thornier proposition），原因是鲍威尔不仅要应对市场的波动，还面临总统的公开抨击（tirades）以及司法部的调查，体现了政治压力与管理职责的双重困境。
+    options:
+      A: Because the Fed is facing an unprecedented investigation by the Department
+        of Justice.
+      B: Because the chair has to manage the economy while dealing with presidential
+        criticism and political pressure.
+      C: Because the chair is expected to maintain interest rates at a significantly
+        low level of 1%.
+      D: Because the Fed's headquarters require extensive and controversial renovations.
+    q_number: 1
+    stem: According to the first paragraph, why is the position of Fed chair described
+      as a 'thornier proposition' under the current administration?
+  - answer: C
+    explanation: 文章解释了战争导致油价飙升，进而推高整体通胀。由于降低利率通常不适用于价格上涨的环境（central-banking no-no），因此战争使得沃什（Warsh）原先的降息计划变得难以实现。
+    options:
+      A: The war has led to a ceasefire that caused oil prices to stabilize.
+      B: The conflict has directly caused the Fed to adopt a more aggressive monetary
+        stimulus.
+      C: It has fueled inflation through rising oil prices, making rate cuts increasingly
+        unjustifiable.
+      D: It has forced the US government to reconsider its tariff policies.
+    q_number: 2
+    stem: What is the primary reason the author mentions the war in Iran in relation
+      to Fed interest rate policy?
+  - answer: C
+    explanation: 文章提到服务业通胀（剔除房租后）比2010年代快，这表明尽管幅度不大，但通胀压力尚未完全从美国经济中挤出，使得降息缺乏依据。
+    options:
+      A: It has been falling steadily, mirroring the trends seen in the 2010s.
+      B: It is highly volatile and reflects immediate market responses to oil shocks.
+      C: It indicates that inflationary pressure remains embedded in the economy despite
+        some signs of cooling.
+      D: It is primarily driven by the rising costs of housing and mobile-phone plans.
+    q_number: 3
+    stem: How does the author characterize the impact of 'services inflation' on the
+      American economy?
+  - answer: A
+    explanation: 文章引用多位美联储官员的观点指出，如果人工智能显著提高生产力，反而可能推高“中性利率”，从而需要更高的利率而非降息。沃什将AI作为降息依据在理论上是站不住脚的。
+    options:
+      A: Because AI is actually expected to raise the neutral rate, potentially calling
+        for higher interest rates.
+      B: Because the productivity gains from AI have already been factored into the
+        current interest rates.
+      C: Because senior Fed officials have officially banned the use of AI in monetary
+        forecasting.
+      D: Because AI investment has led to a decrease in data centre construction.
+    q_number: 4
+    stem: Why does the author argue that Mr. Warsh's reliance on AI as a justification
+      for rate cuts is 'shaky'?
+  - answer: C
+    explanation: 文章指出，如果参议员们坚持在调查结束前不确认新任美联储官员（包括沃什），鲍威尔可能会因为任期未满（董事任期到2028年）而继续担任临时主席。
+    options:
+      A: Mr. Powell will be forced to resign immediately.
+      B: Mr. Warsh will be officially confirmed by the Republican senators.
+      C: Mr. Powell may potentially remain in his position as chair pro tempore longer
+        than expected.
+      D: The President will lose the legal authority to appoint a new Fed chair.
+    q_number: 5
+    stem: What is the implied consequence if the DoJ probe into the Fed continues?
+  source_journal: Economist
+  title: America’s next Fed chair is caught in a vice
+- article_update_date: 04.22.2026
+  body_text: 'The Trump administration is in discussions to potentially send up to
+    1,100 Afghans who helped US forces during the war in Afghanistan to the Democratic
+    Republic of Congo (DRC), a non-profit confirmed on Tuesday. The resettlement talks,
+    first reported by the New York Times, come after Donald Trump’s decision to stop
+    an initiative that allowed Afghans who assisted US war efforts to apply to resettle
+    in the US. This group of more than 1,000 Afghans, who have been waylaid in Qatar
+    for a year, reportedly includes interpreters as well as relatives of US military
+    members. The group also includes more than 400 children. According to the Times,
+    the US evacuated these Afghans to Qatar for their protection because they supported
+    US military efforts in their home country, which, since the US military withdrawal,
+    is once again under Taliban control. The DRC, meanwhile, is suffering from an
+    enormous displacement crisis following decades of conflict and instability. According
+    to the UN Refugee Agency, 8.2 million people were displaced as of September 2025,
+    with this number expected to reach 9 million by year’s end. Shawn VanDiver, president
+    of the non-profit AfghanEvac, told the Guardian that he had heard about these
+    discussions from people at, and around, the US state department. VanDiver said
+    that 900 of the 1,100 Afghans in Qatar were eligible for resettlement in the US.
+    For the 200 that are not eligible, the US could talk to countries other than the
+    DRC – which is reeling from violence – about accepting them. “The others should
+    just come here,” VanDiver said. “This is an easy solve: ‘Hey, welcome to America.’”
+    VanDiver said between 100 to 150 of these Afghans are family members of active-duty
+    service members, while more than 700 are women and children. “It’s insane – this
+    could all be fixed just by a policy change,” VanDiver said, saying that the Department
+    of Homeland Security could allow in Afghans who have already qualified for the
+    program. “They can come here – there’s no law that is preventing them.” It is
+    also possible that the DRC talks will not materialize into actual resettlement,
+    leaving this group of Afghans in still more limbo. Given their cooperation with
+    US forces, returning to Afghanistan would probably result in death, VanDiver said.
+    Asked for comment, a state department spokesperson said they are continuing to
+    identify options for voluntary resettlement of the Afghans currently living at
+    Camp As-Sayliyah (CAS) in Qatar and claimed moving this group “to a third country
+    is a positive resolution” for their safety and that of Americans. The spokesperson
+    added “the Afghan nationals at CAS do not currently have a viable pathway to the
+    United States”. The state department says it is in routine, direct communication
+    with camp residents on resettlement initiatives but because of the sensitivity,
+    they will not reveal details surrounding the negotiations.'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章明确提到，美国国务院发言人认为向第三国（如刚果民主共和国）安置是确保这些阿富汗人安全的‘积极解决方案’，特别是因为这些人目前在赴美路线上‘没有可行的途径’(do
+      not currently have a viable pathway to the United States)。
+    options:
+      A: fulfill its treaty obligations to the Congolese government.
+      B: address the lack of security for Afghans currently residing in Qatar.
+      C: resolve the issue of Afghan nationals who lack a path to the US.
+      D: provide humanitarian relief to the displaced population in the DRC.
+    q_number: 1
+    stem: 'According to the passage, the primary motivation for the US to consider
+      resettling Afghans in the DRC is to:'
+  - answer: B
+    explanation: 文中VanDiver多次使用‘It’s insane’并指出这是一个政策层面的简单问题，认为无需立法即可解决。他认为‘The others
+      should just come here’，体现了他对现行政策的强烈批评和对简单解决路径的坚持。
+    options:
+      A: Skeptical but hopeful about the diplomatic negotiations.
+      B: Critical of the administration's policy and confident in a simple fix.
+      C: Indifferent to the geopolitical complexities involved.
+      D: Resigned to the fact that international law prohibits their entry.
+    q_number: 2
+    stem: Which of the following best describes Shawn VanDiver's attitude towards
+      the resettlement situation?
+  - answer: C
+    explanation: 文中指出这些阿富汗人在卡塔尔滞留了一年，等待进一步安排。waylaid在此语境下表示‘受阻、滞留、被困住’的意思，符合C项。
+    options:
+      A: permanently settled.
+      B: forcibly relocated.
+      C: temporarily delayed or stranded.
+      D: actively recruited.
+    q_number: 3
+    stem: 'The term ''waylaid'' (Paragraph 2) is closest in meaning to:'
+  - answer: B
+    explanation: 文中提到‘It is also possible that the DRC talks will not materialize
+      into actual resettlement, leaving this group of Afghans in still more limbo’，这直接暗示了谈判可能无果，维持现状带来的不确定性。
+    options:
+      A: The talks are a guaranteed mechanism for immediate relief.
+      B: The talks might not lead to any change, leaving the group's status uncertain.
+      C: The talks are specifically designed to return qualified individuals to Afghanistan.
+      D: The talks have already been finalized and will be implemented by year's end.
+    q_number: 4
+    stem: What can be inferred about the potential impact of the DRC talks on the
+      Afghans in Qatar?
+  - answer: D
+    explanation: 国务院发言人表示正在努力寻找自愿安置的选项，但由于问题的‘敏感性’，他们不会透露谈判的细节，这体现了其在处理安置问题时的保密性与谨慎态度。
+    options:
+      A: complete transparency regarding all ongoing negotiations.
+      B: a focus on the safety of Americans over the safety of the Afghans.
+      C: a refusal to acknowledge the contribution of the Afghans during the war.
+      D: a commitment to finding resettlement options while keeping details private.
+    q_number: 5
+    stem: 'The US state department''s stance on the resettlement issue is characterized
+      by:'
+  source_journal: The Guardian
+  title: Trump officials consider sending 1,100 Afghans who aided US forces to Congo
+- article_update_date: 03.26.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Henry Farrell Abraham
+    L. Newman The Big Story Jul 15, 2025 6:00 AM The Enshittification of American
+    Power First Google and Facebook, then the world. Under Trump 2.0, US statecraft
+    is starting to mimic the worst tendencies of Big Tech. Illustration: Petra Péterffy
+    For decades, allies of the United States lived comfortably amid the sprawl of
+    American hegemony. They constructed their financial institutions, communications
+    systems, and national defense on top of infrastructure provided by the US. And
+    right about now, they’re probably wishing they hadn’t. Back in 2022, Cory Doctorow
+    coined the term “enshittification” to describe a cycle that has played out again
+    and again in the online economy. Entrepreneurs start off making high-minded promises
+    to get new users to try their platforms. But once users, vendors, and advertisers
+    have been locked in—by network effects, insurmountable collective action problems,
+    high switching costs—the tactics change. The platform owners start squeezing their
+    users for everything they can get, even as the platform fills with ever more low-quality
+    slop. Then they start squeezing vendors and advertisers too. People don’t usually
+    think of military hardware, the US dollar, and satellite constellations as platforms.
+    But that’s what they are. When American allies buy advanced military technologies
+    such as F-35 fighter jets, they’re getting not just a plane but the associated
+    suite of communications technologies, parts supply, and technological support.
+    When businesses engage in global finance and trade, they regularly route their
+    transactions through a platform called the dollar clearing system, administered
+    by just a handful of US-regulated institutions. And when nations need to establish
+    internet connectivity in hard-to-reach places, chances are they’ll rely on a constellation
+    of satellites—Starlink—run by a single company with deep ties to the American
+    state, Elon Musk’s SpaceX. As with Facebook and Amazon, American hegemony is sustained
+    by network logic, which makes all these platforms difficult and expensive to break
+    away from. For decades, America’s allies accepted US control of these systems,
+    because they believed in the American commitment to a “rules-based international
+    order.” They can’t persuade themselves of that any longer. Not in a world where
+    President Trump threatens to annex Canada, vows to acquire Greenland from Denmark,
+    and announces that foreign officials may be banned from entering the United States
+    if they “demand that American tech platforms adopt global content moderation policies.”
+    Ever since Trump retook office in January, in fact, rapid enshittification has
+    become the organizing principle of US statecraft. This time around, Trumpworld
+    understands that—in controlling the infrastructure layer of global finance, technology,
+    and security—it has vast machineries of coercion at its disposal. As Mark Carney,
+    the prime minister of Canada, recently put it, “The United States is beginning
+    to monetize its hegemony.” So what is an ally to do? Like the individual consumers
+    who are trapped by Google Search or Facebook as the core product deteriorates,
+    many are still learning just how hard it is to exit the network. And like the
+    countless startups that have attempted to create an alternative to Twitter or
+    Facebook over the years—most now forgotten, a few successful —other allies are
+    now desperately scrambling to figure out how to build a network of their own.
+    Infrastructure tends to be invisible until it starts being used against you. Back
+    in 2020, the United States imposed sanctions on Hong Kong’s chief executive, Carrie
+    Lam, for repressing democracy protests on China’s behalf. All at once, Lam became
+    uniquely acquainted with the power of the dollar clearing system—a layer of the
+    world’s financial machinery that most people have never heard of. Here’s how it
+    works: Global banks convert currencies to and from US dollars so their customers
+    can sell goods internationally. When a Japanese firm sells semiconductors to a
+    tech company in Mexico, they’ll likely conduct the transaction in dollars—because
+    they want a universal currency that can quickly be used with other trading partners.
+    So these firms may directly ask for payment in dollars, or else their banks may
+    turn pesos into dollars and then use those dollars to buy yen, shuffling money
+    through accounts in US-regulated banks like Citibank or J.P. Morgan, which “clear”
+    the transaction. So dollar clearing is an expedient. It’s also the chief enforcement
+    mechanism of US financial policy across the globe. If foreign banks don’t implement
+    US financial sanctions and other measures, they risk losing access to US dollar
+    clearing and going under. This threat is so existentially dire that, when Lam
+    was placed under US sanctions, even Chinese banks refused to have anything to
+    do with her. She had to keep piles of cash scattered around her mansion to pay
+    her bills. That maneuver against Lam was, at least on its face, about standing
+    up for democracy. But in his second term, Trump has wasted no time in weaponizing
+    the dollar clearing system against any target of his choosing. In February, for
+    example, the administration imposed sanctions on the chief prosecutor of the International
+    Criminal Court after he indicted Benjamin Netanyahu for alleged war crimes. Now,
+    like Lam in Hong Kong, the official has become a financial and political pariah:
+    Reportedly, his UK bank has frozen his accounts, and Microsoft has shut down his
+    email address. Another platform that Trump is weaponizing? Weapons systems. Over
+    the past couple of decades, a host of allies built and planned their air power
+    around the F-35 stealth fighter jet, built by Lockheed Martin. In March, a rumor
+    erupted online—in Reddit posts and X threads—that F-35s come with a “kill switch”
+    that would allow the US to shut them down at will. Sources tell us that there
+    is no such kill switch on the F-35, per se. But the underlying anxiety is not
+    unfounded. There is, as one former US defense official described it, a “kill chain”
+    that is “essentially controlled by the United States.” Complex weapons platforms
+    require constant maintenance and software updates, and they rely on real-time,
+    proprietary intelligence streams for mapping and targeting. All that “flows back
+    through the United States,” the former official said, and can be blocked or turned
+    off. Cases in point: When the UK wanted to allow Ukraine to use British missiles
+    against Russia last November, it reportedly had to get US sign-off on the mapping
+    data that allowed the missiles to hit their targets. Then, after Trump’s disastrous
+    Oval Office meeting with Volodymyr Zelensky in late February, the US temporarily
+    cut off intelligence streams to Ukraine, including the encrypted GPS feeds that
+    are integral to certain precision-guided missile systems. Such a shutoff would
+    essentially brick a whole weapons platform. Communication systems are, if anything,
+    even more vulnerable to enshittification. In a few short years, Elon Musk’s Starlink
+    satellites—which now make up about 65 percent of all active satellites in orbit—have
+    become an indispensable source of internet access across the world. On the eve
+    of Trump’s second inaugural, Canada was planning to use Starlink to bring broadband
+    to its vast rural hinterlands, Italy was eyeing it for secure diplomatic communications,
+    and Ukraine had already become dependent on it for military operations. But as
+    Musk joined the Trump administration’s inner circle, a dependence on Starlink
+    came to seem increasingly dangerous. In late February, the Trump administration
+    reportedly threatened to withdraw Starlink access to Ukraine unless the country
+    handed over rights to exploit its mineral reserves to the US. In a March confrontation
+    on X, Musk boasted that Ukraine’s “entire front line would collapse” if he turned
+    off Starlink. In response, Poland’s foreign minister, Radek Sikorski, tried to
+    stand up for an ally. He tweeted that Poland was paying for Ukraine’s access to
+    the service. Musk’s reply? “Be quiet, small man. You pay a tiny fraction of the
+    cost. And there is no substitute for Starlink.” It isn’t just big US defense contractors
+    that might enforce the administration’s line. European governments and banks often
+    run on cloud computing provided by big US multinationals like Amazon and Microsoft,
+    and leaders on the continent have begun to fear that Trump could choke off EU
+    governments’ access to their own databases. Microsoft’s president, Brad Smith,
+    has claimed this scenario is “exceedingly unlikely” and has offered Europeans
+    a “binding commitment” that Microsoft will vigorously contest any efforts by the
+    Trump administration to cut off cloud access, using “all legal avenues available.”
+    But Microsoft has failed to publicly explain its reported denial of email access
+    to the International Criminal Court’s chief prosecutor. And Smith’s promise may
+    not be enough to ward off Europeans’ fears, to say nothing of the Trump administration’s
+    advances. The European Commission is now in advanced negotiations with a European
+    provider to replace Microsoft’s cloud services, and the Danish government is moving
+    from Microsoft Office to an open source alternative. Of course, the American tech
+    industry has famously cozied up to Trump this year, with CEOs attending his inauguration,
+    changing content moderation policies , and rewriting editorial missions in ways
+    that are friendlier to administration priorities. And as always, what Trump can’t
+    gain through loyalty, he’ll extract through coercion. Either way, the traditional
+    platform economy is being reshaped as commercial platforms and government institutions
+    merge into a monstrous hybrid of business monopoly and state authority. Mark Zuckerberg,
+    Jeff Bezos, Sundar Pichai, and Elon Musk attend Trump''s inauguration on January
+    20, 2025. Photograph: JULIA DEMAREE NIKHINSON/Getty Images In the face of all
+    these affronts to their sovereignty, a chorus of world leaders has woken from
+    its daze and started to talk seriously about the once-unthinkable: breaking up
+    with the United States. In February, the center-right German politician Friedrich
+    Merz—upon learning that he’d won his country’s federal election— declared on live
+    TV that his priority as chancellor would be to “achieve independence” from the
+    US. “I never thought I would have to say something like this on a television program,”
+    he added. In March, French president Emmanuel Macron echoed that sentiment in
+    a national address to his people: “We must reinforce our independence,” he said.
+    Later that month, Carney, the new Canadian prime minister, said that his country’s
+    old relationship with the US was “over.” “The West as we knew it no longer exists,”
+    said Ursula von der Leyen , the head of the EU Commission, in April. “Our next
+    great unifying project must come from an independent Europe.” But the reality
+    is that, for many allies, simply declaring independence isn’t really a viable
+    option. Japan and South Korea, which depend on the US to protect them against
+    China, can do little more than pray that the bully in the White House leaves them
+    alone. For now, Denmark and Canada are the other US allies most directly at risk
+    from enshittification. Not only has Trump put Greenland (a protectorate of Denmark)
+    and Canada at the top of his menu for territorial acquisition, but both countries
+    have militaries that are unusually closely integrated into US structures. The
+    “transatlantic idea” has been the “cornerstone of everything we do,” explains
+    one technology adviser to the Danish government, who asked to remain anonymous
+    due to the political sensitivity of the subject. Denmark spent years pushing back
+    against arguments from other allies that Europe needed “strategic autonomy.” And
+    according to a former adviser on Canadian national security, the “soft wiring”
+    binding the US and Canadian military systems to each other makes them nearly impossible
+    to disentangle. That explains why both countries have been slow to move away from
+    US platforms. In March, the outspoken head of Denmark’s parliamentary defense
+    committee grabbed attention on X by declaring that his country’s purchase of F-35s
+    was a mistake: “I can easily imagine a situation where the USA will demand Greenland
+    from Denmark and will threaten to deactivate our weapons and let Russia attack
+    us when we refuse,” he tweeted. But in reality, the Danish government is even
+    now considering purchasing more F-35s. Canada, too, has already built its air-strike
+    capacities on top of the F-35 platform; switching to another would, at best, require
+    vast amounts of retooling and redundancy. “We’re going to look at alternatives,
+    because we can’t make'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章中提到，当用户、供应商和广告商被“锁定”后，平台所有者开始榨取价值，即便平台充斥着低质量的内容，这种过程就是enshittification的核心定义，即服务质量下降。
+    options:
+      A: A voluntary shift from paid services to free, ad-supported user models.
+      B: The inevitable decline in service quality as the platform exploits its users
+        and vendors.
+      C: The rapid expansion of platform features to accommodate diverse global markets.
+      D: The liberation of users from 'lock-in' effects through increased competition.
+    q_number: 1
+    stem: According to the article, what is the primary consequence of 'enshittification'
+      when applied to platforms?
+  - answer: B
+    explanation: 文章指出，美国霸权由网络逻辑维持，使得这些系统（如美元清算系统、军事硬件）像社交平台一样难以脱离，具有高转换成本和依赖性。
+    options:
+      A: Because they are entirely governed by commercial motives rather than political
+        goals.
+      B: Because they rely on network effects that make exiting the system highly
+        difficult.
+      C: Because they provide transparent and equitable access to all participating
+        nations.
+      D: Because they were originally designed for social networking before being
+        militarized.
+    q_number: 2
+    stem: Why does the author liken military and financial systems to 'platforms'
+      like Facebook?
+  - answer: B
+    explanation: 文章通过Carrie Lam的例子说明，美元清算系统是全球金融 machinery 的重要层级，大多数人对其不了解，但它是美国执行金融制裁的主要手段。
+    options:
+      A: Financial sanctions are a tool for protecting democratic values in Hong Kong.
+      B: The US dollar clearing system is a vital, yet often invisible, tool of state
+        coercion.
+      C: Global banks have historically failed to comply with US-led financial sanctions.
+      D: Individual politicians can easily circumvent US sanctions by holding cash
+        reserves.
+    q_number: 3
+    stem: 'The author cites the case of Carrie Lam to illustrate that:'
+  - answer: C
+    explanation: 文中解释‘kill chain’意味着复杂的武器平台依赖实时情报流和软件更新，而这些全由美国控制，美国可以切断这些链路，从而控制盟友的武器效能。
+    options:
+      A: The F-35 is inherently flawed and prone to technical malfunctions.
+      B: US allies have complete control over the operational capabilities of their
+        own air power.
+      C: Dependence on US-controlled data and support gives the US potential veto
+        power over an ally's military actions.
+      D: The US intends to replace all foreign-made weapons with its own proprietary
+        technology.
+    q_number: 4
+    stem: Regarding the F-35 fighter jet, what does the 'kill chain' metaphor imply?
+  - answer: C
+    explanation: 文章描述了盟友对于被美国制裁或封锁的恐惧，以及虽然想要“独立”却受限于已深度绑定的基础设施的困境，语气表现出对这种地缘政治现实的担忧和审慎。
+    options:
+      A: Optimistic about the continued stability of the rules-based international
+        order.
+      B: Neutral, focusing solely on the economic benefits of US tech platforms.
+      C: Apprehensive, as allies struggle with the difficult reality of decoupling
+        from US infrastructure.
+      D: Sarcastic, mocking the inability of European leaders to adapt to modern technology.
+    q_number: 5
+    stem: What is the author's tone regarding the future of US-led international alliances?
+  source_journal: Wired
+  title: Chapter 58
