@@ -40,7 +40,7 @@ articles:
   is_used: false
   title: Donald Trump is crushing America’s farmers—yet they back him
 - id: epub_29
-  is_used: true
+  is_used: false
   title: A radical idea for governing California
 - id: epub_30
   is_used: false
@@ -222,8 +222,8 @@ articles:
 - id: epub_225
   is_used: false
   title: Chapter 225
-capture_date: 05.01.2026
+capture_date: 05.05.2026
 journal_name: Economist
-publish_date: 05.01.2026
+publish_date: 05.05.2026
 source_type: github
 update_frequency: weekly
