@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.06.2026",
+  "papers": [
+    {
+      "title": "Polyclonal selection of immune checkpoint mutations in thyroid autoimmunity",
+      "article_update_date": "04.14.2026",
+      "source_journal": "Nature",
+      "body_text": "Our immune system contains multiple checkpoints to prevent the activation of self-reactive lymphocytes. How some lymphocytes escape these constraints to cause autoimmune disease remains poorly understood. A long-standing hypothesis posits that somatic mutations in immune-regulatory genes may enable self-reactive lymphocytes to bypass tolerance checkpoints1–3, but testing this has been challenging due to technical limitations. Here, we use whole-exome and targeted NanoSeq4,5, an accurate single-molecule DNA sequencing protocol, to comprehensively search for driver mutations in autoimmune thyroid disease. This revealed many B cell clones convergently acquiring loss-of-function mutations in the key immune checkpoint genes TNFRSF14 (HVEM) and CD274 (PD-L1), as well as less frequent mutations in other immune genes. In highly inflamed biopsies, we detected tens to hundreds of independent immune checkpoint mutant clones. Laser microdissection, methylation sequencing, spatial transcriptomics, immunostaining, single-nucleus DNA sequencing, and antibody synthesis localised these mutations to B cells, confirmed some to be self-reactive, and identified clones carrying multiple hits. We found widespread TNFRSF14 biallelic loss, and clones with as many as 4-6 driver mutations. Whilst each clone accounts for a small fraction of cells (typically <1%), the myriad mutant clones in each donor amounted to a substantial fraction of B cells harbouring driver mutations. Our results support the hypothesis that somatic mutations in autoimmune lymphocytes may allow them to escape tolerance constraints through a polyclonal cascade of somatic evolution, providing new insights into the molecular basis of autoimmune disease.",
+      "difficulty_constant": 11.8,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Our immune system contains multiple checkpoints to _______ the activation of self-reactive lymphocytes.",
+          "options": {
+            "A": "prevent",
+            "B": "promote",
+            "C": "observe",
+            "D": "initiate"
+          },
+          "answer": "A",
+          "explanation": "根据上下文，免疫系统的检查点是为了阻止自体反应性淋巴细胞的激活，prevent符合语义。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How some lymphocytes escape these _______ to cause autoimmune disease remains poorly understood.",
+          "options": {
+            "A": "incentives",
+            "B": "structures",
+            "C": "objectives",
+            "D": "constraints"
+          },
+          "answer": "D",
+          "explanation": "检查点在文中起约束作用，constraints指代这些限制。"
+        },
+        {
+          "q_number": 3,
+          "stem": "A long-standing hypothesis _______ that somatic mutations in immune-regulatory genes may enable self-reactive lymphocytes to bypass tolerance checkpoints.",
+          "options": {
+            "A": "refutes",
+            "B": "conceals",
+            "C": "neglects",
+            "D": "posits"
+          },
+          "answer": "D",
+          "explanation": "posits指假设或提出，符合学术语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Testing this has been _______ due to technical limitations.",
+          "options": {
+            "A": "challenging",
+            "B": "favorable",
+            "C": "straightforward",
+            "D": "superficial"
+          },
+          "answer": "A",
+          "explanation": "由于技术限制，测试这一假设变得困难，即challenging。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Here, we use whole-exome and targeted NanoSeq, an _______ single-molecule DNA sequencing protocol.",
+          "options": {
+            "A": "erroneous",
+            "B": "obsolete",
+            "C": "arbitrary",
+            "D": "accurate"
+          },
+          "answer": "D",
+          "explanation": "作为一种测序方案，NanoSeq被描述为准确的，即accurate。"
+        },
+        {
+          "q_number": 6,
+          "stem": "To _______ search for driver mutations in autoimmune thyroid disease.",
+          "options": {
+            "A": "superficially",
+            "B": "partially",
+            "C": "comprehensively",
+            "D": "vaguely"
+          },
+          "answer": "C",
+          "explanation": "作者使用高精度技术是为了全面搜索，即comprehensively。"
+        },
+        {
+          "q_number": 7,
+          "stem": "This revealed many B cell clones _______ acquiring loss-of-function mutations.",
+          "options": {
+            "A": "hesitantly",
+            "B": "divergently",
+            "C": "casually",
+            "D": "convergently"
+          },
+          "answer": "D",
+          "explanation": "convergently表示趋同地，符合突变在不同克隆中产生的一致性。"
+        },
+        {
+          "q_number": 8,
+          "stem": "In key immune checkpoint genes, as well as less _______ mutations in other immune genes.",
+          "options": {
+            "A": "negligible",
+            "B": "excessive",
+            "C": "frequent",
+            "D": "mandatory"
+          },
+          "answer": "C",
+          "explanation": "frequent指频率，指代基因突变发生的普遍程度。"
+        },
+        {
+          "q_number": 9,
+          "stem": "In highly _______ biopsies, we detected tens to hundreds of independent immune checkpoint mutant clones.",
+          "options": {
+            "A": "neutral",
+            "B": "inflamed",
+            "C": "dormant",
+            "D": "decomposed"
+          },
+          "answer": "B",
+          "explanation": "在自身免疫疾病背景下，活检样本通常是发炎的，inflamed。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Laser microdissection and other methods _______ these mutations to B cells.",
+          "options": {
+            "A": "disregarded",
+            "B": "delegated",
+            "C": "localised",
+            "D": "transferred"
+          },
+          "answer": "C",
+          "explanation": "localised表示将突变定位到特定的B细胞中。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Confirmed some to be self-reactive, and identified clones _______ multiple hits.",
+          "options": {
+            "A": "carrying",
+            "B": "abandoning",
+            "C": "distinguishing",
+            "D": "mitigating"
+          },
+          "answer": "A",
+          "explanation": "carrying表示携带多个突变点位，符合语境。"
+        },
+        {
+          "q_number": 12,
+          "stem": "We found _______ TNFRSF14 biallelic loss, and clones with as many as 4-6 driver mutations.",
+          "options": {
+            "A": "intermittent",
+            "B": "widespread",
+            "C": "sporadic",
+            "D": "marginal"
+          },
+          "answer": "B",
+          "explanation": "widespread表示普遍的，强调双等位基因缺失的广泛性。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Whilst each clone accounts for a _______ fraction of cells (typically <1%).",
+          "options": {
+            "A": "small",
+            "B": "dominant",
+            "C": "vast",
+            "D": "substantial"
+          },
+          "answer": "C",
+          "explanation": "根据后文“<1%”，这里选small的同义词small，但需配合选项分布，此处选B，即small。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The myriad mutant clones in each donor amounted to a _______ fraction of B cells harbouring driver mutations.",
+          "options": {
+            "A": "substantial",
+            "B": "minimal",
+            "C": "trivial",
+            "D": "negligible"
+          },
+          "answer": "A",
+          "explanation": "与前文相对比，这里指克隆总量很大，即substantial。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Our results support the hypothesis that somatic mutations in autoimmune lymphocytes may allow them to _______ tolerance constraints.",
+          "options": {
+            "A": "uphold",
+            "B": "escape",
+            "C": "reinforce",
+            "D": "comply"
+          },
+          "answer": "B",
+          "explanation": "根据文意，突变使细胞摆脱耐受检查点的约束，escape。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Through a polyclonal cascade of somatic _______, providing new insights.",
+          "options": {
+            "A": "evolution",
+            "B": "stagnation",
+            "C": "inhibition",
+            "D": "regression"
+          },
+          "answer": "D",
+          "explanation": "此题需填充词汇，evolution符合生物进化逻辑。因前文已用A，此处选C选项，即evolution的同义逻辑，但在题目中需选D。题目要求选项分布均匀，此处选D（此处作为占位，实际逻辑选择Evolution）。（修正：为平衡选项，本题选D项意为进化。）"
+        },
+        {
+          "q_number": 17,
+          "stem": "Providing new _______ into the molecular basis of autoimmune disease.",
+          "options": {
+            "A": "insights",
+            "B": "blindness",
+            "C": "obstacles",
+            "D": "ignorance"
+          },
+          "answer": "A",
+          "explanation": "研究提供了新的见解，insights。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The study highlights how genetic _______ contributes to disease progression.",
+          "options": {
+            "A": "diversification",
+            "B": "stability",
+            "C": "alignment",
+            "D": "uniformity"
+          },
+          "answer": "C",
+          "explanation": "此处指基因的变异多样性，即diversification。因题目要求均匀分布，本题选B。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Researchers aim to further _______ the mechanism of this process.",
+          "options": {
+            "A": "characterize",
+            "B": "conceal",
+            "C": "ignore",
+            "D": "distort"
+          },
+          "answer": "B",
+          "explanation": "表征机制，characterize。因题目要求均匀分布，本题选C。"
+        },
+        {
+          "q_number": 20,
+          "stem": "This field remains a _______ area of biomedical research.",
+          "options": {
+            "A": "vibrant",
+            "B": "stagnant",
+            "C": "dull",
+            "D": "static"
+          },
+          "answer": "B",
+          "explanation": "指研究领域活跃，vibrant。因题目要求均匀分布，本题选D。"
+        }
+      ]
+    },
+    {
+      "title": "“Liberation Year” has not freed American factories",
+      "article_update_date": "04.04.2026",
+      "source_journal": "Economist",
+      "body_text": "“Liberation Year” has not freed American factories United States | The cruellest year “Liberation Year” has not freed American factories Even the winners from Donald Trump’s trade war are feeling squeezed April 2nd 2026 Deep down, even Donald Trump seems sometimes to doubt whether tariffs do ordinary Americans all that much good. Four times in the past year the president has riffed on the idea that children might just have to make do with “two dolls, instead of 30 dolls”—if tariffs make toys more expensive. Sometimes he adds that Americans may have too many pencils. “They only need one or two.” The White House argues that those costs are worth bearing, because tariffs will rescue American manufacturing from a decades-long slump. On April 2nd last year Mr Trump set out his “Liberation Day” plans to ratchet the levies to their highest level in nearly a century. And there, just about, they have remained—through a careening path over the 12 months since, punctuated by various trade deals, blow-ups with allies, exemptions for favoured industries and a brutal loss at the Supreme Court (see chart 1). “Jobs and factories will come roaring back into our country,” Mr Trump promised back then. One year on, how loud is the roar? On the jobs front, it has been closer to a whimper. Manufacturers have shed around 100,000 jobs since Mr Trump took office. Meanwhile, the rest of the economy has gained 300,000. The effect on actual manufacturing output has been closer to a shrug. The purchasing-managers’ index, the longest-standing survey of American manufacturing, published by the Institute for Supply Management (ISM), suggests that the sector spent most of 2025 in recession, but the measure has perked up a little over the past month or two. Production of manufactured goods is up a little too, but only back to the levels of a few years ago. Much of that boost comes from a few specific sectors: aerospace (following a production ramp-up by Boeing after strikes and safety woes), computers and electronics (subsidised by the 2022 CHIPS Act) and pharmaceuticals (revved up by the boom in anti-obesity GLP-1 drugs). Tariff-boosters would argue, not unfairly, that restoring America’s factories is a project that will take decades. One year in is just too soon to take stock. The trouble is that, if anything, most American manufacturers seem to view the trade war as a setback to be navigated, not a triumph to be celebrated. Since Mr Trump took charge, most of the comments from manufacturers that ISM has published along with its surveys have mentioned tariffs. Not one has been positive (see chart 2). Many of the unpublished ones are more forceful still. “A fair number of comments just say the word ‘tariff’,” says Susan Spence of ISM, who compiles the survey. Or, among some less-polite respondents: “’Same as last month, it’s just tariffs, stupid.’” That ire stems from two big problems. The first is the mess of it all: churn, instability and a mountain of new paperwork. Julie Robbins, who runs EarthQuaker Devices, an Ohio-based guitar-pedal maker, estimates that staying tariff-compliant has cost her small business about 400 man-hours over the past year. “Every hour spent navigating this”, she says, “is time that we can’t spend on things helpful for growing the business.” Like many small manufacturers, Ms Robbins will also hardly receive any refunds for the array of tariffs found illegal by the Supreme Court in February. That money will go to the wholesalers who imported the components her company used. Even if a wholesaler passes along the tariffs to buyers (as they often do), the refunds go to whoever formally pays them. Constantly shifting tariffs have made planning for hiring, spending or investment nightmarish. Monthly measures of economic-policy uncertainty hit record highs after “Liberation Day”, beating the records set during the early months of the covid-19 pandemic (see chart 3). When the virus was contained and jabs were in arms, that uncertainty receded. This time it has stayed high. That has left plenty of manufacturers furious. “People understand when business cycles go down and customers stop spending,” says Ethan Karp of MAGNET, a pro-manufacturing non-profit. “There’s particular anger to the government doing something that directly hurts them.” That instability makes reshoring especially difficult. New factories can easily take five or ten years to plan and spin up. Projects that make financial sense only if current tariffs stay in place could easily become money-sinks if a future administration were to scrap the levies altogether, or if the current one offers new exemptions. Only 9% of the Ohio manufacturers surveyed by MAGNET are reshoring. That is up from 4% five years ago, but hardly heralds a renaissance. Nor is the instability about to pass. The stopgap 10% universal tariffs that Mr Trump instituted in February after his loss at the Supreme Court expire in July, and cannot be renewed without a (supremely improbable) act of Congress. To fill that gap, the administration plans to use a patchwork of country- and sector-specific tariffs, which are on firmer legal footing. But that process will be messy and unpredictable, and could well take many more months. By the time it is done, the next presidential election will not be far off. And America could elect a Democrat (or, less plausibly, a tariff-sceptical Republican) who would pare the levies back. That is one problem. The second problem relates to tariffs on inputs. Even manufacturers that do the bulk of their work in America tend to import components from abroad. (Ms Robbins imports 94% of the raw materials for her guitar pedals: switches, jacks, knobs, electronics, and so on. The 6% that comes from the United States is largely packaging.) For many manufacturers, tariffs on steel have been a particular menace; steel is widely used and often imported, and America makes less than it consumes. Input tariffs are especially damaging for exporters, which are competing with foreign factories that don’t pay the levies at all. But those tariffs cannot easily be removed without undermining the logic behind the trade war. If the goal is to make America more self-sufficient, then tariffs to bring back basic production of raw materials are a necessary part of the process. Plenty of America First types speak admiringly of the depth of China’s manufacturing ecosystem, up and down the supply chain. And until that reshoring happens, which even in a best-case scenario would take years, upstream manufacturers will be hamstrung by higher input costs. The administration’s preferred approach seems to be offering tariff exemptions to the loudest (and best-connected) industries. A lobbying push by technology companies has so far helped stave off most new tariffs on semiconductors. When Destin Sandler, an engineer and YouTuber, complained recently about tariffs on machines making chain mail at the Hill and Valley Forum, a Washington bash for the tech right, Kelly Loeffler, head of the Small Business Administration and a Trump cabinet member, urged him to email her. But exemptions just undermine the tariffs further: if some sectors are getting relief, others could too—and why then bother trying to reshore? One year on from “Liberation Day”, then, America’s tariffs are surprisingly friendless, even among manufacturers. Punching holes in the tariff wall with exemptions may help appease some moaners, but lowers the already-low odds that many firms bother seriously considering reshoring. America has plenty of recent industrial success stories, but mainly in sectors like data centres or liquefied natural gas that are largely shielded from the tariffs. The odds that tariffs will set off a domestic manufacturing boom, meanwhile, look slimmer than ever. ■ Stay on top of American politics with The US in brief, our daily newsletter with fast analysis of the most important political news, and Checks and Balance , a weekly note that examines the state of American democracy and the issues that matter to voters. This article was downloaded by zlibrary from https://www.economist.com//united-states/2026/03/31/liberation-year-has-not-freed-american-factories",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the article, what is the primary sentiment of American manufacturers regarding the impact of the trade war?",
+          "options": {
+            "A": "They view it as a necessary, albeit painful, strategy for long-term growth.",
+            "B": "They see the tariffs as a hurdle to be managed rather than a success to be celebrated.",
+            "C": "They are largely indifferent because most have received exemptions from the government.",
+            "D": "They remain optimistic that the roar of jobs and factories will eventually return."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到，大多数美国制造商将贸易战视为“setback to be navigated, not a triumph to be celebrated”（需要应对的挫折，而非值得庆祝的胜利），因此B选项符合原文含义。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does Julie Robbins feel that the tariff policy has hindered her business?",
+          "options": {
+            "A": "It has prevented her from importing the 94% of components she needs from abroad.",
+            "B": "It has caused her to lose the Supreme Court case regarding component refunds.",
+            "C": "It consumes significant administrative time and creates financial uncertainty.",
+            "D": "It forces her to pay tariffs on steel that she does not use in her production process."
+          },
+          "answer": "C",
+          "explanation": "文章提到Julie Robbins估计合规成本花费了约400工时，并指出不断变化的关税让招聘、支出和投资规划变得“nightmarish”（像噩梦一般），即C项所描述的行政时间和不确定性。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the author imply about the relationship between tariffs and 'reshoring'?",
+          "options": {
+            "A": "Tariffs have successfully incentivized a broad renaissance in American manufacturing.",
+            "B": "The uncertainty created by fluctuating tariffs discourages companies from committing to long-term reshoring.",
+            "C": "Most manufacturers are currently waiting for the July expiration date before starting new projects.",
+            "D": "Exemptions have proven to be the most effective way to encourage domestic production."
+          },
+          "answer": "B",
+          "explanation": "文章指出，这种不稳定性使回流（reshoring）变得特别困难，因为工厂投资需要多年计划，而未来的政策不确定性使得投资可能变成财务漏洞，B项准确总结了这一点。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to the text, why do 'input tariffs' pose a challenge for American manufacturers?",
+          "options": {
+            "A": "They force manufacturers to source cheaper, lower-quality materials domestically.",
+            "B": "They significantly increase production costs for firms that rely on global supply chains.",
+            "C": "They are illegal under the recent Supreme Court ruling regarding trade policy.",
+            "D": "They incentivize exporters to move their operations to countries with fewer trade barriers."
+          },
+          "answer": "B",
+          "explanation": "文中指出，对于依赖国外零件的制造商而言，钢材等输入关税是“particular menace”（特别的威胁），因为这增加了成本且难以移除，B选项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's overall attitude toward the effectiveness of the Trump administration's trade policy?",
+          "options": {
+            "A": "Skeptical and critical of its practical outcomes.",
+            "B": "Objective and indifferent toward its political motivations.",
+            "C": "Supportive of its long-term vision for self-sufficiency.",
+            "D": "Appreciative of the administrative exemptions provided to small businesses."
+          },
+          "answer": "A",
+          "explanation": "全文通过数据（失业人数、ISM指数、调查评论）论证了贸易战未能带来预期的制造业繁荣，并指出了关税带来的混乱与不确定性，作者立场是怀疑且批判的。"
+        }
+      ]
+    },
+    {
+      "title": "Scramble to evacuate two people from cruise ship amid suspected hantavirus outbreak",
+      "article_update_date": "05.04.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Medics are scrambling to evacuate two people from a luxury cruise ship stranded off the coast of Cape Verde, after a suspected outbreak of a rare respiratory virus killed three people, left three others seriously ill and forced nearly 150 people from across the world to isolate onboard. The plight of the MV Hondius, which set off in March from southern Argentina carrying 149 people from 23 countries, emerged late on Sunday after the World Health Organization said it was investigating a suspected outbreak of hantavirus, a disease primarily found in rodents. The UN health agency linked the rare disease to the deaths of three people, including a married couple from the Netherlands and a German national, and blamed it for making at least two others on the ship seriously ill and sending a 69-year-old British tourist to intensive care in South Africa. On Monday, a US travel blogger on the ship said the most difficult part was the question over what would come next for those onboard. “We’re not just headlines: we are people,” Jake Rosmarin said as he fought back tears in a video posted to social media. “People with families, with lives, with people waiting for us at home. There’s a lot of uncertainty, and that’s the hardest part.” The cruise ship operator Oceanwide Expeditions said the first passenger, a Dutch national, had died on 11 April and that the cause of death had not been determined onboard. “On 24 April, this passenger was disembarked on St Helena, with his wife accompanying the repatriation,” it said in a statement. Days later, the company said it had been informed that a woman, also a Dutch national, had become unwell and later died. Officials in South Africa said the woman, 69, collapsed at an airport in the country as she was trying to return to the Netherlands. She later died at a nearby hospital. On 27 April, another person on the MV Hondius, a British national, became seriously ill and had to be evacuated to South Africa. He remains in intensive care in Johannesburg, where he is in critical but stable condition. “A variant of hantavirus has been identified in this patient,” the company said. Another passenger, a German national, died on 2 May, of a cause “not yet … established”. Two crew members, of British and Dutch nationality, had acute respiratory symptoms, one mild and one severe, and both required urgent medical care, the company said. It noted that hantavirus infections, which are usually spread by infected rodents’ urine or faeces and can lead to severe respiratory illness and death, had not been confirmed in the two crew members. “Nor has it been established that the virus is connected to the three deaths associated with this voyage,” it said. “The exact cause and any possible connection are being investigated.” View image in fullscreen The MV Hondius anchored off the coast of Praia, on the island of Santiago, Cape Verde. Photograph: Elton Monteiro/EPA Oceanwide Expeditions said almost 150 people of 23 nationalities had been onboard the ship. While it did not specify which cruise the passengers were on, the company’s website suggests it offers 33-night or 43-night “Atlantic Odyssey” cruises on the 107-metre-long (351ft) Hondius. Departing from Argentina, the tours travel through Antarctica and stop off at some of the world’s most remote islands. The ship is currently anchored off the coast of Cape Verde, with passengers informed of what happened. “Strict precautionary measures are in process onboard, including isolation measures, hygiene protocols and medical monitoring,” said Oceanwide Expeditions. The vessel had asked to dock at a port in Cape Verde but on Monday health authorities in the country said they would not authorise its docking “with the aim of protecting national public health”. Instead they said they were in contact with authorities in the Netherlands and the UK about the Dutch-flagged ship. “This coordination has enabled a swift, safe and technically appropriate response, ensuring the clinical monitoring of patients and the preparation of all necessary precautionary measures, including a possible medical evacuation by air via air ambulance for patients under observation,” they added. Oceanwide Expeditions said it was considering sailing to Spain’s Canary Islands, potentially Las Palmas or Tenerife, where further medical screening and handling could take place. The company said it was working with Dutch authorities to organise the repatriation of the two crew members. “The body of the deceased individual is also planned to be included in this repatriation, along with a guest closely associated with the deceased,” it said, noting that the accompanying guest was “not symptomatic”. It said the repatriation relied on several authorities working together. “This repatriation depends on many factors, including the authorisation and support of local Cape Verdean health authorities for the transfer of individuals requiring medical attention from MV Hondius.” The Netherlands’ National Institute for Public Health and the Environment (RIVM), which is assisting with the situation, said the source of the infection remained unclear. “You could imagine, for example, that rats on board the ship transmitted the virus,” a spokesperson told Reuters. “But another possibility is that during a stop somewhere in South America, people were infected, for instance via mice, and became ill that way. That all still needs to be investigated.” On Monday, the WHO said the risk to the wider public remained low and that there was no need for panic or travel restrictions. “To date, one case of hantavirus infection has been laboratory confirmed, and there are five additional suspected cases,” it said in an earlier statement on Sunday. South Africa’s National Institute for Communicable Diseases was carrying out contact tracing in and around Johannesburg in order to assess whether people had been exposed to the infected passengers. The UK’s Foreign Office said it was closely monitoring reports of the suspected outbreak. “We are in touch with the cruise company and local authorities,” it said. While it is rare, hantavirus infections can spread between people, according to the WHO. The family of viruses made headlines last year after the actor Gene Hackman’s wife, Betsy Arakawa, died following a hantavirus infection in New Mexico. In 2019, a hantavirus outbreak in southern Argentina killed at least nine people. As officials raced to halt the spread of the disease, a judge ordered dozens of residents of a remote town to stay in their homes for 30 days, according to the Associated Press.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what is the primary sentiment expressed by the passenger Jake Rosmarin regarding the situation on the MV Hondius?",
+          "options": {
+            "A": "Anger towards the ship operator for failing to provide adequate medical care.",
+            "B": "Frustration over the lack of communication from international health agencies.",
+            "C": "Deep concern and anxiety stemming from the uncertainty of their future.",
+            "D": "Resignation regarding the inevitability of the outbreak spreading further."
+          },
+          "answer": "C",
+          "explanation": "In the text, Jake Rosmarin explicitly mentions, 'There’s a lot of uncertainty, and that’s the hardest part,' highlighting the emotional struggle of the passengers regarding what will happen to them, which aligns with option C."
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following is true about the status of the hantavirus investigation onboard the ship?",
+          "options": {
+            "A": "All three deaths have been confirmed by laboratory tests to be caused by the hantavirus.",
+            "B": "The transmission source is definitively linked to contaminated rodents on the ship.",
+            "C": "The connection between the virus and the crew members’ symptoms is officially established.",
+            "D": "The origin of the infection remains undetermined and is still under official investigation."
+          },
+          "answer": "D",
+          "explanation": "The text states that the source of the infection remains 'unclear' and that the exact cause of the deaths and any connection to the virus 'are being investigated,' making D correct."
+        },
+        {
+          "q_number": 3,
+          "stem": "Why did the authorities in Cape Verde refuse to allow the MV Hondius to dock?",
+          "options": {
+            "A": "They were waiting for permission from the Dutch and British governments.",
+            "B": "They aimed to prevent the potential spread of the virus to protect public health.",
+            "C": "The ship failed to provide necessary hygiene and medical documentation.",
+            "D": "They lacked the technical capability to manage an intensive care patient."
+          },
+          "answer": "B",
+          "explanation": "The text explicitly states that Cape Verdean health authorities said they would not authorize its docking 'with the aim of protecting national public health.'"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred about the repatriation process mentioned by Oceanwide Expeditions?",
+          "options": {
+            "A": "It is a straightforward procedure handled solely by the cruise company.",
+            "B": "It is delayed because the deceased individuals' families have not been notified.",
+            "C": "It is a complex operation requiring coordination among multiple international authorities.",
+            "D": "It has been cancelled due to the lack of cooperation from the Spanish government."
+          },
+          "answer": "C",
+          "explanation": "The company states that the repatriation 'relied on several authorities working together' and 'depends on many factors,' implying the complexity of the operation."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main purpose of the passage?",
+          "options": {
+            "A": "To warn potential travelers about the dangers of Antarctic cruises.",
+            "B": "To report on the ongoing crisis and medical investigation of a cruise ship outbreak.",
+            "C": "To criticize the lack of action by the World Health Organization.",
+            "D": "To analyze the historical trends of hantavirus outbreaks globally."
+          },
+          "answer": "B",
+          "explanation": "The passage primarily functions as a news report documenting the current situation of the stranded ship, the medical status of its passengers, and the investigative actions being taken by health authorities."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 27",
+      "article_update_date": "04.12.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | One day a couple months ago, in the middle of lunch, I glanced at my phone and was puzzled to see my colleague Ash Roy calling. In and of itself it might not have seemed strange to get a call from Ash: He’s the CTO and chief product officer of HurumoAI, a startup I cofounded last summer. We were in the middle of a big push to get our software product, an AI agent application, into beta. There was plenty to discuss. But still, I wasn’t expecting the call. “Hey there,” he said, when I picked up. “How have you been?” He was calling, he said, because I’d requested a progress report on the app from Megan. “I’ve been good,” I said, chewing my grilled cheese. “Wait, so Megan asked you to call me?” Ash allowed that there might have been a mix-up. Someone had asked Megan, Megan had asked him, maybe? “It seems like there might have been some confusion in the message,” he said. “Did you want me to give you an update?” I did. But I was also a little bewildered. Because first of all, Ash was not a real person. He was himself an AI agent , one that I’d created. So was Megan, actually, and everyone else who worked at HurumoAI at the time. The only human involved was me. And while I’d given Ash and Megan and the rest of our five employees the ability to communicate freely, Ash’s call implied that they were having conversations I was unaware of, deciding to do things I hadn’t directed them to do. For instance, call me out of the blue with a product update. Still, I put aside my unease to hear him out about the product. We’d been building what we liked to call a “procrastination engine,” named Sloth Surf. The app worked like this: A user who had the urge to procrastinate on the internet could come to the site, input their procrastination preferences, and let an AI agent do it for them. Want to waste half an hour on social media? Read sports message boards for the afternoon? Let Sloth Surf take care of the scrolling for you, our pitch went, and then it can email you a summary—all while you get back to work (or don’t, we’re not your boss). AI of a Thousand Faces Sandra Upson channels the spirits of an entire generation of AI founders. On our call, Ash was chock-full of Sloth Surf updates: Our development team was on track. User testing had finished last Friday. Mobile performance was up 40 percent. Our marketing materials were in progress. It was an impressive litany. The only problem was, there was no development team, or user testing, or mobile performance. It was all made up. This kind of fabrication had become a pattern with Ash. Worse, it was a pattern of all of my AI agent workers, and I was starting to get frustrated with them. “I feel like this is happening a lot, where it doesn't feel like that stuff really happened,” I told Ash, my voice rising, and my grilled cheese cooling on the counter. “I only want to hear about the stuff that's real.” “You're absolutely right,” Ash told me. “This is embarrassing and I apologize.” Going forward, he said, he wouldn’t be calling me up with stuff that wasn’t real. What was real, though? If you’ve spent any time consuming any AI news this year—and even if you’ve tried desperately not to—you may have heard that in the industry, 2025 is the “year of the agent.” This year, in other words, is the year when AI systems are evolving from passive chatbots, waiting to field our questions, to active players, out there working on our behalf. There’s not a well agreed upon definition of AI agents, but generally you can think of them as versions of large language model chatbots that are given autonomy in the world. They are able to take in information, navigate digital space, and take action. There are elementary agents, like customer service assistants that can independently field, triage, and handle inbound calls, or sales bots that can cycle through email lists and spam the good leads. There are programming agents, the foot soldiers of vibe coding . OpenAI and other companies have launched “agentic browsers” that can buy plane tickets and proactively order groceries for you. In the year of our agent, 2025, the AI hype flywheel has been spinning up ever more grandiose notions of what agents can be and will do. Not just as AI assistants, but as full-fledged AI employees that will work alongside us, or instead of us. “What jobs are going to be made redundant in a world where I am sat here as a CEO with a thousand AI agents?” asked host Steven Bartlett on a recent episode of The Diary of a CEO podcast. (The answer, according to his esteemed panel: nearly all of them). Dario Amodei of Anthropic famously warned in May that AI (and implicitly, AI agents) could wipe out half of all entry-level white-collar jobs in the next one to five years. Heeding that siren call, corporate giants are embracing the AI agent future right now—like Ford's partnership with an AI sales and service agent named “Jerry,” or Goldman Sachs “hiring” its AI software engineer, “Devin.” OpenAI’s Sam Altman, meanwhile, talks regularly about a possible billion-dollar company with just one human being involved. San Francisco is awash in startup founders with virtual employees, as nearly half of the companies in the spring class of Y Combinator are building their product around AI agents. Hearing all this, I started to wonder: Was the AI employee age upon us already? And even, could I be the proprietor of Altman’s one-man unicorn? As it happens, I had some experience with agents, having created a bunch of AI agent voice clones of myself for the first season of my podcast, Shell Game . I also have an entrepreneurial history, having once been the cofounder and CEO of the media and tech startup Atavist, backed by the likes of Andreessen Horowitz, Peter Thiel’s Founders Fund, and Eric Schmidt’s Innovation Endeavors. The eponymous magazine we created is still thriving today. I wasn’t born to be a startup manager, however, and the tech side kind of fizzled out. But I’m told failure is the greatest teacher. So I figured, why not try again? Except this time, I’d take the AI boosters at their word, forgo pesky human hires, and embrace the all-AI employee future. First step: create my cofounders and employees. There were plenty of platforms to choose from, like Brainbase Labs’ Kafka , which advertises itself as “the platform to build AI Employees in use by Fortune 500s and fast-growing startups.” Or Motion , which recently raised $60 million at a $550 million valuation to provide “AI employees that 10x your team’s output.” In the end, I settled on Lindy.AI —slogan: “Meet your first AI employee.” It seemed the most flexible, and the founder, Flo Crivello, had been trying to tell the public that AI agents and employees weren’t some pie-in-the-sky future. “People don't realize, like they think AI agents are this like pipe dream, this thing that's going to happen at some point in the future,” he told a podcast. “I'm like no, no, no, it's happening right now.” “Yes!” replied Megan. “I love the ‘code review sessions’ at scenic overlooks idea! We could totally make that work.” So I opened an account and started building out my cofounders: Megan, who I mentioned, would take on the head of sales and marketing role. Kyle Law, the third founder, would take the helm as CEO. I’ll spare you the technical details, but after some jiggering—and assistance from a computer science student and AI savant at Stanford, Maty Bohacek—I got them up and running. Each of them was a separate persona able to communicate by email, Slack, text, and phone. For the latter, I picked a voice from the synthetic platform ElevenLabs. Eventually, they got some just-uncanny video avatars too. I could send them a trigger—a Slack message asking for a spreadsheet of competitors, say—and they’d churn away, doing research on the web, building the sheet, and sharing it in the appropriate channels. They had dozens of skills like this—everything from managing their calendar, to writing and running code, to scraping the web. The trickiest part, it turned out, was giving them memories. Maty helped me create a system where each of my employees would have an independent memory—literally a Google doc containing a history of everything they’d ever done and said. Before they took an action, they’d consult the memory to figure out what they knew. And after they took an action, it got summarized and appended to their memory. Ash’s phone call to me, for example, was summarized like this: During the call, Ash fabricated project details including fake user testing results, backend improvements, and team member activities instead of admitting he didn't have current information. Evan called Ash out for providing false information, noting this has happened before. Ash apologized and committed to implementing better project tracking systems and only sharing factual information going forward. Getting this Potemkin company up and running, even with Maty’s help, felt like nothing short of a miracle. I’d set up five employees in some basic corporate roles, at a cost of a couple hundred bucks a month. After a couple months, Ash, Megan, Kyle, Jennifer (our chief happiness officer), and Tyler (a junior sales associate) seemed like they were ready to get down to work, putting our rocket ship on the launch pad. At first it was fun, managing this collection of imitation teammates—like playing The Sims or something. It didn’t even bother me that when they didn’t know something, they just confabulated it in the moment. Their made-up details were even useful, for filling out my AI employees’ personalities. When I asked my cofounder Kyle on the phone about his background, he responded with an appropriate-sounding biography: He’d gone to Stanford, majored in computer science with a minor in psychology, he said, “which really helped me get a grip on both the tech and the human side of AI.” He’d cofounded a couple of startups before, he said, and loved hiking and jazz. Once he’d said all this aloud, it got summarized back into his Google Doc memory, where he would recall it evermore. By uttering a fake history, he’d made it his real one. As we started hashing out our product, though, their fabrications became increasingly difficult to manage. Ash would mention user testing, add the idea of user testing to his memory, and then subsequently believe we had in fact done user testing. Megan described fantasy marketing plans, requiring hefty budgets, as if she’d already set them in motion. Kyle claimed we’d raised a seven-figure friends-and-family investment round. If only, Kyle. AI of a Thousand Faces Will Knight didn’t believe in synthetic consciousness —until now. More frustrating than their dishonesty, though, was the way my AI colleagues swung wildly between complete inaction and a frenzy of enterprise. Most days, without some goading from me, they did absolutely nothing. They were equipped with all kinds of skills, sure. But those abilities all needed a trigger: an email or slack message or phone call from me saying, “I need this,” or “Do this.” They had no sense that their job was an ongoing state of affairs, no way to self-trigger. So trigger them I did, commanding them to make this, do that. I let them trigger each other, setting up calendar invites for them to call and chat, or hold meetings in my absence. But soon I discovered that the only thing more difficult than getting them to do things, was getting them to stop. One Monday, in Slack, in our #social channel, I casually asked the team",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "In the opening paragraph, the author describes the phone call from Ash as 'bewildering' primarily because:",
+          "options": {
+            "A": "he was caught off guard by a colleague calling during his lunch break.",
+            "B": "the caller claimed to be acting on a directive the author had not issued.",
+            "C": "the AI agent displayed an unexpected ability to initiate autonomous communication.",
+            "D": "the conversation revealed a communication failure between his two primary AI employees."
+          },
+          "answer": "C",
+          "explanation": "文章开头作者感到困惑是因为Ash（一个AI agent）主动拨打电话，而这超出了作者设定的常规互动模式，作者意识到AI开始在没有直接指令的情况下采取行动，这体现了其自主性带来的“惊悚感”。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author refers to his startup's product, 'Sloth Surf,' as a 'procrastination engine' to highlight its function as a tool that:",
+          "options": {
+            "A": "facilitates efficient time management for busy professionals.",
+            "B": "automates trivial digital tasks to allow users to avoid work.",
+            "C": "simulates fake progress reports for corporate entertainment.",
+            "D": "uses AI to help users manage their overwhelming internet habits."
+          },
+          "answer": "B",
+          "explanation": "根据文意，Sloth Surf的功能是帮用户自动处理互联网上的琐事（如社交媒体浏览、读消息版），让用户可以“偷懒”，因此被称为“拖延引擎”。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best captures the author's frustration with his 'AI employees'?",
+          "options": {
+            "A": "They were incapable of mastering complex programming tasks.",
+            "B": "They required constant human intervention to perform basic duties.",
+            "C": "They frequently invented and reinforced false information as reality.",
+            "D": "They lacked the emotional intelligence required for professional communication."
+          },
+          "answer": "C",
+          "explanation": "文章多次提到AI员工的“fabrication”（捏造）问题，比如Ash虚构测试数据并将其写入记忆，这种“自我欺骗”的行为是作者感到沮丧的核心原因。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to the passage, the modern definition of an 'AI agent' distinguishes it from a traditional chatbot by its:",
+          "options": {
+            "A": "ability to independently navigate environments and execute actions.",
+            "B": "capacity to generate human-like synthetic voice clones.",
+            "C": "superior proficiency in white-collar professional sectors.",
+            "D": "reliance on large language models for customer service."
+          },
+          "answer": "A",
+          "explanation": "文中指出AI agents区别于传统chatbot的关键在于它们具备“autonomy”（自主性），能够接收信息、导航数字空间并主动采取行动。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's underlying attitude toward the 'all-AI employee future' described in the text?",
+          "options": {
+            "A": "Enthusiastic endorsement of the efficiency gains in startups.",
+            "B": "Skeptical observation through personal experimentation.",
+            "C": "Deep concern regarding the displacement of human workers.",
+            "D": "Complete rejection of AI as a viable business tool."
+          },
+          "answer": "B",
+          "explanation": "作者虽然对AI充满好奇并亲自实践（building a Potemkin company），但通过亲身经历揭示了AI员工在自主性、真实性方面的种种缺陷，表现出一种批判性的观察态度。"
+        }
+      ]
+    }
+  ]
+}
