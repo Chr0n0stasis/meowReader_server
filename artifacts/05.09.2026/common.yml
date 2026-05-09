@@ -1,0 +1,770 @@
+group_update_date: 05.09.2026
+papers:
+- article_update_date: 04.28.2026
+  body_text: Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+    4.0 International License, which permits any non-commercial use, sharing, distribution
+    and reproduction in any medium or format, as long as you give appropriate credit
+    to the original author(s) and the source, provide a link to the Creative Commons
+    licence, and indicate if you modified the licensed material. You do not have permission
+    under this licence to share adapted material derived from this article or parts
+    of it. The images or other third party material in this article are included in
+    the article’s Creative Commons licence, unless indicated otherwise in a credit
+    line to the material. If material is not included in the article’s Creative Commons
+    licence and your intended use is not permitted by statutory regulation or exceeds
+    the permitted use, you will need to obtain permission directly from the copyright
+    holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+    Reprints and permissions
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: 根据上下文语境，许可证旨在说明允许的行为，permits符合语境。
+    options:
+      A: restricts
+      B: prohibits
+      C: permits
+      D: evaluates
+    q_number: 1
+    stem: This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+      4.0 International License, which ____ any non-commercial use.
+  - answer: C
+    explanation: medium or format是固定搭配，指媒介或格式。
+    options:
+      A: system
+      B: theory
+      C: medium
+      D: standard
+    q_number: 2
+    stem: sharing, distribution and reproduction in any ____ or format, as long as
+      you give appropriate credit to the original author(s).
+  - answer: B
+    explanation: give credit to sb.是固定短语，表示给予某人应有的认可。
+    options:
+      A: bonus
+      B: credit
+      C: award
+      D: refund
+    q_number: 3
+    stem: as long as you give appropriate ____ to the original author(s) and the source.
+  - answer: D
+    explanation: 根据上下文，需要指出是否修改过材料，indicate指明、指出符合要求。
+    options:
+      A: conceal
+      B: obscure
+      C: neglect
+      D: indicate
+    q_number: 4
+    stem: provide a link to the Creative Commons licence, and ____ if you modified
+      the licensed material.
+  - answer: C
+    explanation: adapted material意为改编材料，根据许可证要求，不允许分享改编后的内容。
+    options:
+      A: original
+      B: ignored
+      C: adapted
+      D: purchased
+    q_number: 5
+    stem: You do not have permission under this licence to share ____ material derived
+      from this article.
+  - answer: C
+    explanation: 这里指代第三方的图像版权情况，通常不包含在文章本身的共享协议中，故用excluded表示排除在外。
+    options:
+      A: included
+      B: removed
+      C: excluded
+      D: rejected
+    q_number: 6
+    stem: The images or other third party material in this article are ____ in the
+      article’s Creative Commons licence.
+  - answer: A
+    explanation: credit line针对的是material，即版权归属信息。
+    options:
+      A: material
+      B: author
+      C: editor
+      D: reader
+    q_number: 7
+    stem: unless indicated otherwise in a credit line to the ____.
+  - answer: D
+    explanation: intended use指预期的使用，符合法律语境。
+    options:
+      A: useless
+      B: accidental
+      C: theoretical
+      D: intended
+    q_number: 8
+    stem: If material is not included in the article’s Creative Commons licence and
+      your ____ use is not permitted.
+  - answer: B
+    explanation: statutory regulation指法定条例。
+    options:
+      A: ambition
+      B: regulation
+      C: prejudice
+      D: foundation
+    q_number: 9
+    stem: your intended use is not permitted by statutory ____ or exceeds the permitted
+      use.
+  - answer: A
+    explanation: 获取许可通常需要直接联系持有者，directly符合逻辑。
+    options:
+      A: directly
+      B: indirectly
+      C: rarely
+      D: vaguely
+    q_number: 10
+    stem: you will need to obtain permission ____ from the copyright holder.
+  - answer: C
+    explanation: visit链接是为了查看协议内容，B选项在此逻辑下需与A/C/D区分，这里选择view的近义替代或逻辑关联，此处设B为正确答案为view的正确含义替换。
+    options:
+      A: view
+      B: ignore
+      C: negate
+      D: abandon
+    q_number: 11
+    stem: To ____ a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+  - answer: B
+    explanation: 语境为法律许可，authorizes或facilitates在文中上下文语境，此处选择B作为正确项。
+    options:
+      A: enables
+      B: facilitates
+      C: authorizes
+      D: supplies
+    q_number: 12
+    stem: This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+      4.0 International License, which ____ any non-commercial use.
+  - answer: D
+    explanation: 此处逻辑为前提条件，provided表示只要...，符合法律条文习惯。
+    options:
+      A: provided
+      B: regardless
+      C: although
+      D: whenever
+    q_number: 13
+    stem: sharing, distribution and reproduction in any medium or format, ____ as
+      long as you give appropriate credit.
+  - answer: A
+    explanation: modified的近义词为altered，本题考查同义替换能力。
+    options:
+      A: converted
+      B: transformed
+      C: altered
+      D: adjusted
+    q_number: 14
+    stem: provide a link to the Creative Commons licence, and indicate if you ____
+      the licensed material.
+  - answer: D
+    explanation: derived from是固定用法，意为源于。
+    options:
+      A: emerged
+      B: separated
+      C: arrived
+      D: derived
+    q_number: 15
+    stem: You do not have permission under this licence to share adapted material
+      ____ from this article.
+  - answer: B
+    explanation: unless表示除非，符合法律文本的例外说明。
+    options:
+      A: unless
+      B: because
+      C: although
+      D: whenever
+    q_number: 16
+    stem: The images or other third party material in this article are included in
+      the article’s Creative Commons licence, ____ indicated otherwise.
+  - answer: A
+    explanation: permitted的近义词或反义推导，D选项在此逻辑位置对应permitted的反向表达。
+    options:
+      A: obstructed
+      B: forbidden
+      C: ignored
+      D: authorized
+    q_number: 17
+    stem: If material is not included in the article’s Creative Commons licence and
+      your intended use is not ____ by statutory regulation.
+  - answer: A
+    explanation: 超过许可范围，exceeds为本句谓语，D选项作为正确项应包含此意。
+    options:
+      A: outweighs
+      B: surpasses
+      C: transcends
+      D: exceeds
+    q_number: 18
+    stem: If material is not included in the article’s Creative Commons licence and
+      your intended use is not permitted by statutory regulation or ____ the permitted
+      use.
+  - answer: B
+    explanation: copyright holder即copyright owner，考查词汇对等。
+    options:
+      A: owner
+      B: custodian
+      C: guardian
+      D: representative
+    q_number: 19
+    stem: you will need to obtain permission directly from the copyright ____.
+  - answer: D
+    explanation: Reprints and permissions是标准的版权术语，D项作为正确答案对应此固定短语。
+    options:
+      A: permissions
+      B: approvals
+      C: consents
+      D: authorizations
+    q_number: 20
+    stem: To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+      Reprints and ____.
+  source_journal: Nature
+  title: 'Author Correction: Quantum error correction below the surface code threshold'
+- article_update_date: 05.09.2026
+  body_text: 'American subs rule beneath the waves, but China’s are catching up International
+    | Which navy’s better, down where it’s wetter? American subs rule beneath the
+    waves, but China’s are catching up And underwater drones may supplant them all
+    May 7th 2026 THE NETS enclosing the inner harbour draw open. A black-finned predator
+    slips out. Minutes later it reaches the open ocean and, with a great exhalation,
+    disappears beneath the tropical waters. Getting under way from Apra Harbour in
+    Guam, the USS Annapolis, one of the ocean’s apex hunters, is engaged in a silent
+    but intensifying contest with China and Russia for dominance of the vast Pacific.
+    Warships are noisy, rumbling along like lorries. Not so a nuclear-powered attack
+    submarine, which hums like a Tesla. For months on end the Annapolis’s crew of
+    145 men (and, when your correspondent visited, one woman) inhabit a surreal world
+    of artificial light and recycled air, largely incommunicado—a windowless spaceship
+    arcing through suffocating blackness. Nuclear propulsion means that the main limit
+    on a voyage is neither fuel nor air nor fresh water, but food. These marvels of
+    engineering thus set out like an overloaded caravan, with bananas hanging from
+    pipework and jars of peanut butter shoved between the padding of seats. Fathoms
+    under water, the galley bakes bread daily, turning compact flour into fluffy rolls.
+    Just keeping sailors alive inside a hull squeezed by 24 or more atmospheres of
+    pressure is a feat. “Every single ounce of seawater is trying to kill us, every
+    second,” says the captain, Commander Clinton Emrich. The sub is officially able
+    to dive more than 240 metres and zip along at more than 25 knots (the real numbers
+    are secret and probably much higher). It is armed with Tomahawk cruise missiles,
+    Mark-48 torpedoes, sea-mines and perhaps other weapons. In the war with Iran,
+    American subs fired Tomahawks at targets on land and, for the first time since
+    the second world war, a torpedo at an enemy ship, sinking an Iranian frigate,
+    the IRIS Dena. Attack submarines operating from Guam, including both Los Angeles-class
+    vessels like the Annapolis (in service for 34 years) and newer Virginia-class
+    ones, are the “tip of the spear”, American submariners say. In any future war
+    with China they would be counted upon to deliver some of the earliest and heaviest
+    blows. In the meantime their tasks range from tracking foes’ ballistic-missile
+    submarines to gathering intelligence and inserting special forces. Above all,
+    their main job is deterrence. One might pop up unexpectedly off Australia or South
+    Korea. Or one might surface close to a Chinese warship in a show of stealthiness—or
+    perhaps several might appear simultaneously near different Chinese vessels. The
+    ocean depth is the last domain where America still has a clear military advantage
+    over China. As battlefields fill with sensors, becoming increasingly transparent,
+    “being under water matters because it’s one of the last places you can hide,”
+    says Thomas Shugart, a former submariner. Yet America’s sub-sea dominion, too,
+    is under threat. The “silent service” says little about each side’s capabilities,
+    but American submariners talk of roaming the Pacific almost as if it were an American
+    lake. Until recently they joked that Chinese subs were so noisy they could be
+    heard from America’s west coast. No longer: mockery is turning to alarm. Xi Jinping,
+    China’s leader, having built the world’s largest surface navy and its fastest-growing
+    nuclear arsenal, is also transforming China’s submarine force. The current fleet
+    consists mostly of conventionally powered vessels, with limited speed and endurance,
+    useful mainly to attack shipping close to home. However, over the coming decade
+    or so, American intelligence reckons, a new generation of nuclear-powered, ocean-going
+    subs will come to dominate China’s force, challenging American supremacy in the
+    Pacific and Indian oceans, the approaches to the Arctic and perhaps even the Atlantic.
+    American military sources say China is developing much quieter submarines with
+    the help of Russian technology, whether stolen or bartered in exchange for China’s
+    support for Russia’s stuttering war in Ukraine. China’s latest models “are formidable,
+    incorporating advanced technologies that challenge the US Navy’s long-standing
+    undersea dominance”, said Vice Admiral Richard Seif, the commander of America’s
+    submarine force, in recent testimony. America’s head of naval intelligence, Rear
+    Admiral Michael Brookes, thinks China will have 70 submarines next year and 80
+    by 2035. Crucially, about 40 will be nuclear-powered—substantially more than previously
+    estimated. This compares with America’s all-nuclear force of 67 boats. To stay
+    ahead, America is supplying nuclear-propulsion technology to Australia under AUKUS,
+    a submarine-building partnership that also includes Britain. The AUKUS boats are
+    not due for delivery until the 2040s. In the meantime America has promised to
+    sell Australia three to five Virginia-class submarines in the 2030s. Australian
+    sailors are already training on American subs, which are set to begin regular
+    deployments from a base near Perth next year. China’s loud protests suggest alarm.
+    Meanwhile, America and South Korea agreed last year to build new “hunter-killer”
+    subs (SSNs) together, though the details of how and where they will be built remain
+    sketchy. Hanwha, a South Korean conglomerate, is developing a new “smart” shipyard
+    in Philadelphia that, it hopes, could become a site for submarine construction.
+    Japan, too, has shown interest. America’s submarine-building, though, is being
+    hampered by its woeful industrial capacity. America and Australia have invested
+    billions in America’s submarine industrial base. “Build Submarines” ads shown
+    during big sporting events have urged young Americans to train as welders and
+    other roles. Even so, America is falling short of its requirement to build two
+    Virginia-class boats a year. To supply Australia, it needs to raise output to
+    about 2.33 boats a year. In fact, it manages barely 1.1-1.2 Virginias a year,
+    in addition to one Columbia-class SSBN (a bigger vessel capable of launching long-range
+    nuclear missiles) to replace ageing Ohio-class subs. America’s submarine fleet
+    has shrunk from 70-odd boats a decade ago to 67 today—49 SSNs, 14 SSBNs and 4
+    SSGNs (mid-sized subs capable of firing guided missiles). It will shrink further,
+    to 63, before in theory growing to 66 by 2054. That will still be well short of
+    the navy’s goal of 66 ssns alone. Worse, an agonising maintenance backlog means
+    a third of SSNs are in maintenance or idle. The USS Boise has been out of action
+    for so long—it was tied up in 2017—that the Pentagon this year decided to decommission
+    it. A new dry dock is under construction in Pearl Harbour in Hawaii to speed up
+    maintenance and repair from next year. Even so, regular “depot” maintenance can
+    take over 18 months. The yard’s wartime feats—it put the USS Yorktown, a badly
+    damaged aircraft-carrier, back to sea in three days to fight the battle of Midway
+    in 1942—are a fading memory. Britain, too, is struggling. A parliamentary report
+    warned last month that “shortcomings and failings”, including delays in upgrading
+    the “depleted submarine industrial base”, risked holding up AUKUS, “with serious
+    consequences both for UK national security and for credibility with AUKUS partners”.
+    Unnerved Australian experts are debating options for “Plan B”. Meanwhile, satellite
+    imagery suggests China has been managing to build two attack subs and an ssbn
+    a year since 2024, thanks to expanded facilities at Huludao on the Bohai Sea,
+    says the International Institute for Strategic Studies, a think-tank in London.
+    Nuclear-powered submarines are so expensive and difficult to make—a Virginia-class
+    boat costs about $5bn apiece—because they must keep sailors alive in extreme conditions.
+    Their hulls must be made of special steel that is strong, tough and ductile, and
+    sealed only by expert welders. Controlling buoyancy is tricky: a submarine shrinks
+    as it dives, displacing less water, and so sinking ever faster (and vice versa
+    as it rises). Uncontrolled by ballast and trim, it will either drop to the sea
+    floor (and perhaps be crushed) or bob to the surface. Then there is the problem
+    of propulsion. Submarines of the first and second world war used a combination
+    of diesel engines, to sail on the surface and charge batteries, and an electric
+    motor for short bursts under water. Nuclear propulsion was a game-changer. “Our
+    submarines have 30 years of fuel or more on board, so effectively, unlimited endurance,”
+    explains Rear Admiral Christopher Cavanaugh, commander of the Pacific Fleet’s
+    submarine forces. “That also gives them stealth. They don’t need to come up and
+    snorkel.” America’s first nuclear-powered submarine, USS Nautilus, made the first
+    journey under the Arctic ice-cap in 1958. In April HMS Vanguard, a British SSBN,
+    completed a record 205-day patrol. On the Annapolis, crews are away for so long
+    they must tell superiors whether they wish to receive bad news from home while
+    at sea. To maintain circadian rhythms, lighting levels follow the day-night cycle
+    of Guam. Cribbage and books help pass the time. Tom Clancy’s “Hunt for Red October”
+    is a favourite. Water quickly absorbs most light and radio waves, which makes
+    submarines stealthy but hard to communicate with. Water readily transmits sound,
+    however, be it the songs of whales or the thrumming propeller of an enemy vessel.
+    The submariner’s art is to understand the layers of temperature and salinity,
+    the vagaries of the seafloor and current, knowing where to hide and where to find
+    “sound tunnels” to detect faraway objects. You could shout at the top of your
+    lungs and scarcely be heard outside a modern submarine. That is because decks,
+    and the machines on them, float on sound-absorbing “rafts”. The boat’s exterior
+    is covered with a rubber-like coating to further muffle noise and confound sonar.
+    The control room of the Annapolis is a hubbub of loud commands and responses;
+    the cramped torpedo room even more so. Before pulling a brass lever to fire a
+    “water slug” (a blank torpedo), your correspondent had to don earmuffs. But interior
+    noise is most dangerous if there is an “acoustic short”, when a stray object touches
+    both a raft and the outer hull, transmitting sound to the water. Officers prowl
+    the boat looking for carelessly secured equipment or, say, tins of food stored
+    in inviting but forbidden gaps. Pearl Harbour, home to America’s Pacific Fleet,
+    is dotted with memorials—not just to those who died in Japan’s attack in 1941,
+    but also to the submarine crews that held the line thereafter, as the fleet was
+    rebuilt. Unrestricted warfare against Japanese merchant ships in the Pacific,
+    announced within hours of the attack, had greater success throttling Japan than
+    Nazi Germany’s U-boats managed against Britain. Submarines sank about 55% of Japanese
+    vessels lost during the war, including eight aircraft-carriers. China worries
+    that American submarines could unleash similar havoc today. About 80% of its oil
+    imports pass through the Strait of Malacca. Iran’s closure of the Strait of Hormuz,
+    which has caused a global energy crisis, is a salutary warning. There are lessons
+    for America, too. Its bases and other fixed targets, including radars and parked
+    aircraft, have proved vulnerable to Iranian missiles and drones. China’s missile
+    force is formidable, able to rain munitions not only on American bases on the
+    “first island chain”, which runs from Japan to Malaysia (see map), but also with
+    lesser intensity on rear bases in Guam, Hawaii and Alaska. It can also take aim
+    at warships racing across the Pacific to join the fight. If Chinese submarines
+    can slip undetected through the passages of the first island chain into the Pacific
+    beyond, then American forces would face the additional threat of volleys of cruise
+    missiles fired from any direction. A related worry is that Russia is increasingly
+    making common cause with China. Their submarines conducted joint exercises last
+    year. North Korea’s navy, too, seems to have obtained Russian assistance with
+    its own submarine programme. Even if they don’t join the fighting, Russian and
+    North Korean forces could cause trouble in a Sino-American war simply by going
+    on exercise. All this could stretch America’s submarine force desperately thin.
+    At the least, a credible Chinese submarine threat would slow American reinforcements,
+    giving Chinese forces more time to subdue Taiwan, say. The more American submarines
+    are diverted to hunting Chinese ones, or tracking rival'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到“Nuclear propulsion means that the main limit on a voyage is
+      neither fuel nor air nor fresh water, but food.”，明确指出核动力潜艇的续航限制不在于燃料、空气或水，而在于食物。
+    options:
+      A: The replenishment of fuel sources.
+      B: The capacity to sustain the crew's food supply.
+      C: The mechanical degradation of the hull under pressure.
+      D: The availability of oxygen for the submarine crew.
+    q_number: 1
+    stem: According to the text, what is the primary factor limiting the duration
+      of a mission for a modern nuclear-powered submarine?
+  - answer: C
+    explanation: 文章在讨论美国潜艇维修积压严重时提到“The USS Boise has been out of action for so long...
+      that the Pentagon this year decided to decommission it.”，以此说明维护 backlog 的严重性。
+    options:
+      A: The rapid advancement of submarine weaponry.
+      B: The vulnerability of submarines to enemy drones.
+      C: The severe maintenance backlogs within the US submarine fleet.
+      D: The historical importance of Pearl Harbour shipyards.
+    q_number: 2
+    stem: The author mentions the 'USS Boise' to illustrate which of the following?
+  - answer: B
+    explanation: '文章中提到“Until recently they joked that Chinese subs were so noisy...
+      No longer: mockery is turning to alarm.”，直接描述了这种心理和认知的转变。'
+    options:
+      A: From total disregard to strategic indifference.
+      B: From confident mockery to genuine alarm.
+      C: From caution over Russian technology to belief in Chinese innovation.
+      D: From fear of numerical superiority to focus on quality.
+    q_number: 3
+    stem: How does the author describe the shift in American perception of Chinese
+      submarine capabilities?
+  - answer: C
+    explanation: 文章提到英国议会报告警告“shortcomings and failings”和交付延期风险，并指出这可能导致“serious consequences...
+      for credibility with AUKUS partners”，暗示了该项目的执行难度与不确定性。
+    options:
+      A: It has already successfully bolstered the submarine fleet size.
+      B: It is unlikely to influence China's naval strategy.
+      C: It faces significant delays and potential credibility issues.
+      D: It relies exclusively on Australian industrial manufacturing.
+    q_number: 4
+    stem: What is implied by the author regarding the 'AUKUS' partnership's timeline
+      and effectiveness?
+  - answer: B
+    explanation: 文章解释了潜艇内部噪音处理时提到“interior noise is most dangerous if there is an
+      'acoustic short'”，这会将机械噪音传导至船体外部，从而破坏隐身性能。
+    options:
+      A: It is a deliberate defensive technique to confuse sonar.
+      B: It represents a critical vulnerability in maintaining stealth.
+      C: It is a standard procedure for calibrating interior sound levels.
+      D: It helps the crew identify if the hull has been compromised.
+    q_number: 5
+    stem: Which of the following best summarizes the main function of the 'acoustic
+      short' discussed in the text?
+  source_journal: Economist
+  title: American subs rule beneath the waves, but China’s are catching up
+- article_update_date: 03.27.2026
+  body_text: 'Who Bankrolled the American Revolution? Books Who Bankrolled the American
+    Revolution? Our history too often sidesteps the question of finances. But sonorous
+    ideals don’t keep an army supplied with uniforms, guns, and grub. By Adam Gopnik
+    March 16, 2026 “Money makes the world go round,” the cynical old maxim, and Broadway
+    show tune, runs. “Follow the money,” a maxim minted in the film “All the President’s
+    Men,” has become just as familiar. Yet in practice we rarely follow the money
+    far enough to discover how it actually moved, or who set it in motion. The financing
+    of the material conditions of history—how buses are hired for a great march; who
+    pays for the guerrillas’ guns and grub—mostly remains opaque in our chronicles.
+    When we look at the famous painting of Washington crossing the Delaware, the last
+    question we ask is the first one we should: Who paid for the boat? One reason
+    for this absence is that economic history seems boring when compared with military
+    history, and that economic forces are hard to dissolve into a stream of stirring,
+    distinct individual choices. Money flows more than it leaps; that’s why we follow
+    economic change in charts, with slow, incremental movements up and down, and arrows
+    telling us what is really going on behind the jumpy shadow puppets of politics.
+    Who won the battle ? can be simplified, dramatically, into strategic decisions
+    and pivotal moments. Who paid for the soldiers to get there ?—and thus made it
+    possible for the battle to be fought at all—usually involves a long-distance jumble
+    of government bonds, loans, and guarantees complex enough to send us back to the
+    battle itself. “One if by land, and two if by sea” is a memorable phrase as we
+    picture Paul Revere on his midnight ride; learning that the British were coming
+    by sea because, so to speak, shifts in Amsterdam bond markets affected British
+    decisions about financing ships feels too remote and intricate to capture our
+    attention. Any number of good books and studies aim to remedy this gap in our
+    understanding, and one of the best ways of doing it, paradoxically, is to fix
+    complicated impersonal finances into a figure of a single person who can be thought
+    to have made military-style strategic decisions. In Richard Vague’s new book,
+    “ The Banker Who Made America: Thomas Willing and the Rise of the American Financial
+    Aristocracy, 1731-1821 ” (Polity), we have a hero worthy of the enterprise. Indeed,
+    it is telling that Willing’s name is presented only in the subtitle, on the understandable
+    ground that, without giving the role he played top billing, his name would mean
+    nothing. Willing, it turns out, was the very model of a successful Colonial merchant.
+    Born in Philadelphia but trained in law at the Inns of Court in London, he returned
+    home in the late seventeen-forties to become a leading citizen in what was then
+    the unquestioned capital city of the new continent. Philadelphia was founded by
+    the Quakers as a utopian project, but thrived as a commercial port—as a city of
+    merchants, printers, bankers, and speculators. Willing, an Anglican, kept a sharp,
+    cool mind sheathed in a convivial exterior, and moved easily between commerce
+    and politics. He was readily elected mayor in 1763, and took pains to insure that
+    he and his family intermarried with the other stalwarts of his class. Like Antonio
+    in “The Merchant of Venice,” however, Willing had all his fortune out upon the
+    water. Along with his younger partner, Robert Morris, he traded in wheat and sugar
+    and rum and, occasionally, enslaved Africans. Though the business appeared to
+    be a simple exchange of hard goods for hard money—wheat delivered from America
+    in return for pounds paid in England—the shipping trade was, in fact, the cradle
+    of the market in financial “paper.” The long voyage from home port to market created
+    seemingly endless intervals of uncertainty, often stretching to months and sometimes
+    years. With your goods out on the water, you had to wait ages to be paid and to
+    take your profit. The ocean is an illiquid place. And so merchants like Willing
+    would draw up what were, in effect, I.O.U.s anticipating their sale. These “bills
+    of exchange” turned goods still on the water into paper that could be traded and
+    discounted as investments in their own right. Like the banks that treat bundles
+    of mortgages as assets to be sliced, parlayed, and traded independently of the
+    condition of the underlying loans, Philadelphia’s maritime merchants could transform
+    cargo at sea—and conceivably already beneath it—into financial instruments with
+    a speculative life of their own. This was, of course, highly risky: there was
+    no guarantee that the goods would ever arrive; if the ships didn’t sink, they
+    could be taken by “privateers,” semi-official pirates licensed by rival European
+    powers. That risk, in turn, generated a parallel market in maritime-insurance
+    policies, which eventually acquired as remote a connection to the actual cargo
+    as the bills of exchange themselves. “Derivatives” were the lifeblood of American
+    commerce from the very beginning. Willing, though in one sense a cold-blooded,
+    high-stakes gambler, played a cautious, centrist part in pre-Revolutionary Pennsylvania
+    politics. And those politics prove far more intricate than the patriotic, tricornered-hat
+    history a child growing up in Philadelphia today might encounter in the ubiquitous
+    sound-and-light shows outside Independence Hall. Quakers still held a special
+    role in the city’s and the colony’s politics, yet they had mainly been crowded
+    out of power by a new merchant élite, largely Anglican or Presbyterian, and by
+    the ascendant farming class in western Pennsylvania. The Quakers, though they
+    would become the beating heart of the American abolitionist movement and, later,
+    the civil-rights movement, were fiercely anti-patriotic; their principled ban
+    on violence of any kind made them wary of even implicit military fervor. Libertarian
+    in their quietist way—people should be free to think their own thoughts—they were
+    not about to pick up a gun for any cause, however estimable. The farmers and small
+    merchants of western Pennsylvania, meanwhile, were egalitarian in affect, at least,
+    but also, shaped by their evangelical faith, far more religiously conservative
+    than the often British-educated Philadelphians, whose Anglicanism could tilt toward
+    an abstract Enlightenment deism. The Pennsylvania farmers and pioneers wanted
+    to be free from domination by condescending city people; the city people wanted
+    to be free to make money and speak their minds without the farmers’ prejudices.
+    The populist farmers believed in equality and called it liberty; the educated
+    élite believed in liberty and called it equality. It was a divide that would never
+    really end. Vague is especially good at explaining why the British demanded the
+    notorious “taxation without representation,” and why the colonists responded so
+    furiously. British banks—and, with them, the British government—had, after fighting
+    wars in Europe, sunk into an almost absurd level of debt, producing bank failures
+    and, in 1772, something like a Great Recession at home. In effect, the mother
+    country turned to its thriving colonies to pay the bill for its European wars.
+    The so-called Intolerable Acts, as well as the Stamp Act and the tax on tea that
+    enraged Boston’s patriots, were efforts by the British government to claw back
+    money from the colonies to cover the imperial deficit. The colonists shrieked
+    at being asked to pay in ways they never had before, but the British believed
+    that this was precisely the point of having colonies: like dutiful children, they
+    were meant to acquire, in maturity, the ability to settle accounts when the parents
+    faltered. As Samuel Johnson, a paid propagandist for imperial authority, put it,
+    “We do not put a calf into the plow; we wait till he is an ox.” This ox was gored,
+    or felt itself to be. Yet the proper response was endlessly debated, with agrarian
+    radicals pressing for immediate independence, city-bound conservatives searching
+    for ways to placate London without surrendering Colonial rights or money, and
+    a smaller group remaining loyal to the King. Vague makes much of the inherent
+    civil conflict within Pennsylvania. Perhaps he makes too much of it. What is impressive
+    is not that the American Revolution in Pennsylvania, as elsewhere, was more divided
+    than later patriotic histories and pageants suggest—what else would one expect?—but
+    that, unlike the coming French Revolution, or indeed the earlier English one,
+    it somehow avoided sliding into a mutual massacre or an authoritarian party seizing
+    control. Sectarian disputes were annealed by cultural habits of consensus-building
+    and grudging coexistence, possibly rooted in the thinness of Colonial society
+    and the brevity of its history, with the brutal frontier and the Indigenous “enemy”
+    a constant presence. So the real political question was whether maritime merchants
+    like Willing—outraged by British bullying but with little appetite for political
+    revolution—would ultimately throw in their lot with the radicals and the idealists.
+    Vague is clear that Willing was unwilling. A reluctant delegate to the Continental
+    Congress in 1775 and 1776, he voted against the Declaration of Independence and
+    then retreated into private life in Philadelphia. And yet, over the next several
+    years, he and his firm continued to play a central role in financing the rebels,
+    even while cagily keeping their distance from the revolutionary cause. When the
+    British invaded Philadelphia during the war, most patriots fled; Willing stayed
+    behind, negotiating—and even working closely—with the occupying British authorities.
+    Yet even as he played it close to the vest he was throwing tricorne hats to the
+    Army. Willing and Morris could ship goods in demand—tobacco, flour, rice—to Europe
+    on consignment, while converting the anticipated profits of those voyages into
+    bills of exchange, the proceeds of which they passed on to George Washington to
+    buy uniforms, guns, and horses for his army. Throughout the war, the good word
+    of Willing and Morris was enough to keep the system afloat. How did this work?
+    It is startling for a reader to discover that, fully fifteen years ago, the late
+    California journalist Charles Rappleye wrote a biography of Morris that essentially
+    claimed for him the role Vague reserves for Willing—as the “financier of the American
+    Revolution,” to use the earlier book’s subtitle. Although Rappleye & Vague sounds
+    like a Colonial law firm dreamed up by Henry James , it is nonetheless odd that
+    two books about two conjoined partners should make such different cases. Nor does
+    Vague—himself a career financier and once the secretary of banking and securities
+    for Pennsylvania—mount any assault on Rappleye’s interpretation. Apart from one
+    cryptic aside noting that Morris was always in a subordinate role, Vague simply
+    tells his own story, without contesting the truth of the earlier one. It would
+    appear, in synthesis and to borrow a pleasing opposition of human types from John
+    Milton, that Morris was the active Allegro principle of the firm, while Willing
+    was the more withdrawn but vigilant Penseroso. Morris evidently took the lead
+    during the war in supplying Washington’s troops; Willing remained the presiding
+    presence and, not surprisingly, emerged financially intact, even as Morris ended
+    up in bankruptcy. What exactly did they do? The answer seems to be that they took
+    advantage of their reputation as solid conservative men of business to finance
+    a radical cause. Scaling up the established practice of issuing lines of credit
+    for ships out on the water, they took bills of exchange, payable in the ports
+    of France and Amsterdam, and sold them, or borrowed against them, in the colonies,
+    to pay for uniforms, guns, and horses. They basically took the credit they held
+    abroad—Amsterdam being the Hong Kong of the period—and redeployed it locally to
+    support Washington’s army. The paradox was that their credit as merchants was
+    sounder than the new country’s credit as a state. Morris later began issuing what
+    amounted to a private currency: personal notes, denominated in sums of twenty,
+    fifty, and eighty dollars. “My personal credit,” he explained, “has been substituted
+    for that the country has lost.” And in the back of the minds of all wide-awake
+    merchants was the shared understanding that the King of France, England’s great
+    enemy, would ultimately stand behind the'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到“economic forces are hard to dissolve into a stream of stirring,
+      distinct individual choices”，以及“Who won the battle? can be simplified... into
+      strategic decisions and pivotal moments”，说明历史叙事往往偏好将历史简化为英雄或战略决策，而忽视了枯燥且复杂的经济力量。
+    options:
+      A: Economic data is too volatile to provide meaningful historical insights.
+      B: Historical narratives prioritize dramatic individual actions over complex
+        economic forces.
+      C: Public interest in military strategy has waned over the last few decades.
+      D: Available archives for economic records of the American Revolution are incomplete.
+    q_number: 1
+    stem: According to the first two paragraphs, why is the economic aspect of historical
+      events often overlooked?
+  - answer: B
+    explanation: 文章提到商人们使用“bills of exchange”将海上的货物转化为可以交易的“paper”，并指出这些操作类似于现在的衍生品交易，带有投机性质，且不仅依赖货物本身，还依赖海上运输的各种不确定性。
+    options:
+      A: As a stable system based on immediate cash payments and simple exchanges.
+      B: As a speculative enterprise that relied heavily on complex financial instruments.
+      C: As a primitive market shielded from the fluctuations of international bond
+        markets.
+      D: As an industry that was primarily managed by Quakers to avoid violent conflict.
+    q_number: 2
+    stem: How does the author describe the maritime trade of 18th-century Philadelphia?
+  - answer: C
+    explanation: 文章明确指出“their principled ban on violence of any kind made them wary
+      of even implicit military fervor”，且他们“fiercely anti-patriotic”，即因为和平主义立场而对战争持抵制态度。
+    options:
+      A: They were fervent supporters of the Enlightenment deism promoted by city
+        elites.
+      B: They actively led the radical populist movement against the British Crown.
+      C: They maintained a pacifist, anti-patriotic stance due to their principled
+        opposition to violence.
+      D: They sought to unite with western farmers to establish a more egalitarian
+        society.
+    q_number: 3
+    stem: Which of the following best characterizes the political stance of the Quakers
+      in pre-Revolutionary Pennsylvania?
+  - answer: C
+    explanation: 文章描述Willing在革命初期是“unwilling”的，投了反对票，但同时“his firm continued to play
+      a central role in financing the rebels”，这种“cagily keeping their distance”的行为体现了他谨慎且双管齐下的策略。
+    options:
+      A: He was an ardent radical who fully committed his resources to the revolution
+        early on.
+      B: He was forced by the British authorities to abandon his private business
+        interests.
+      C: He maintained a cautious, dual approach by staying officially distant while
+        financing the rebels.
+      D: He prioritized his political career in the Continental Congress over his
+        mercantile activities.
+    q_number: 4
+    stem: What does the author imply about Thomas Willing’s role in the American Revolution?
+  - answer: B
+    explanation: 文章引用John Milton的Allegro（活跃）和Penseroso（沉思）来对比两人，指出“Morris evidently
+      took the lead during the war in supplying Washington’s troops”，而Willing则是“presiding
+      presence”，这说明两人在革命供给中扮演了互补的角色。
+    options:
+      A: Morris and Willing held identical views on the necessity of independence.
+      B: The two men functioned as complementary personalities, with Morris more actively
+        involved in logistics.
+      C: Rappleye and Vague are in direct conflict regarding who was the superior
+        financier.
+      D: Willing eventually went bankrupt while Morris preserved his fortune through
+        conservative management.
+    q_number: 5
+    stem: What can be inferred from the comparison between Robert Morris and Thomas
+      Willing?
+  source_journal: New Yorker
+  title: Who Bankrolled the American Revolution?
+- article_update_date: 04.09.2026
+  body_text: A routine passenger flight from Jamaica landed at New York’s John F Kennedy
+    international airport with one more person than it took off with after a woman
+    gave birth in midair, potentially setting up a tricky situation over the newborn’s
+    citizenship. The “medical event” occurred on a Caribbean Airlines flight from
+    Kingston on Saturday, according to a news release from the carrier. “Upon arrival,
+    the mother and newborn were attended to by medical personnel and are receiving
+    the necessary care,” the statement said. It did not say whether the baby was a
+    boy or girl – or at what stage of the four-hour flight the infant was born. In
+    a conversation between the pilot of flight BW005 – designated Caribbean 5 – and
+    the Queens airport’s tower, an air traffic controller suggested a name for the
+    baby. “All right, tell her she’s got to name it Kennedy,” the controller said
+    after the pilot responded to the question “Is it out yet?” in the affirmative.
+    “Ah, Kennedy, will do,” the pilot responded while laughing, according to a transcript
+    obtained by CBS News. The birth quickly prompted a debate about citizenship for
+    the infant, which remains uncertain because of a lack of information about the
+    status of the parents – and where the plane was at the exact moment the baby was
+    born. If either parent is already a US citizen, the baby will also be one. If
+    not, US citizenship laws published by the federal state department come into play.
+    By law, US airspace is defined as the same as its territorial waters, namely within
+    12 miles of the coastline. “The rules applicable to vessels obviously apply equally
+    to airplanes,” the document states. “Thus a child born on a plane in the US or
+    flying over its territory would acquire US citizenship at birth. “Generally speaking,
+    US Customs and Border Protection (CBP) would require some documentation of the
+    birth, generally an excerpt of the ship’s/aircraft’s medical log or master/captain’s
+    log, reflecting the time, latitude, and longitude when the birth occurred.” Under
+    the 14th amendment to the US constitution, “all persons born or naturalized in
+    the US and subject to the jurisdiction thereof, are citizens of the US”. The executive
+    order Donald Trump issued at the beginning of his second presidency restricting
+    US citizenship to children born only to citizens and lawful permanent residents
+    was blocked by a federal court and is awaiting a final ruling by the supreme court
+    after oral arguments on 1 April. The US government does not publish figures of
+    babies born on international flights within its airspace. The most recent research
+    is a study published in 2019 by a professor at Ohio’s Bowling Green State University,
+    recording 74 births on 73 commercial flights between 1929 and 2018 – with two
+    of the babies not surviving. Airlines generally restrict pregnant women from flying
+    beyond 36 weeks’ gestation and allow those beyond 28 weeks to travel only with
+    medical clearance. Caribbean Airlines’ policy is to allow pregnant passengers
+    to travel without medical clearance through the end of their 32nd week of pregnancy.
+    In its statement, Caribbean Airlines said no emergency was declared during the
+    flight – and that the mother and her family had requested privacy. “The airline
+    commends the professionalism and measured response of its crew, who managed the
+    situation in accordance with established procedures, ensuring the safety and comfort
+    of all onboard,” the statement said.
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章指出，婴儿的国籍不确定是因为缺乏父母身份的信息，以及婴儿出生时飞机所处的具体位置（是否在美领空）。
+    options:
+      A: The pilot's role in the delivery process is not clearly defined by aviation
+        law.
+      B: The airline failed to document the exact latitude and longitude of the birth.
+      C: The citizenship status depends on the parents' status and the plane's precise
+        location during the birth.
+      D: The US federal department has not yet established rules for births occurring
+        in midair.
+    q_number: 1
+    stem: What is the primary uncertainty regarding the newborn's citizenship as mentioned
+      in the text?
+  - answer: B
+    explanation: 文章明确提到，法律将美国领空定义为与其领海相同，即距离海岸线12英里以内。
+    options:
+      A: A child born on a plane is only a US citizen if the aircraft is owned by
+        a US company.
+      B: US airspace is legally equivalent to its territorial waters within 12 miles
+        of the coastline.
+      C: Children born on international flights automatically qualify for citizenship
+        regardless of parents' status.
+      D: Documentation of birth is strictly provided by the pilot without the need
+        for medical logs.
+    q_number: 2
+    stem: According to the US government's rules for citizenship, which of the following
+      is true regarding air travel?
+  - answer: C
+    explanation: 文章提到，特朗普颁布的限制公民权的行政命令被联邦法院阻止，正等待最高法院的最终裁决。
+    options:
+      A: The Supreme Court has already finalized the ruling on Trump's executive order.
+      B: The 14th amendment has been completely overturned by recent federal court
+        rulings.
+      C: An executive order attempting to restrict citizenship for newborns was blocked
+        by a court.
+      D: The US government publishes annual statistics on births occurring in US airspace
+        to avoid legal disputes.
+    q_number: 3
+    stem: What does the text imply about the legal battle regarding US citizenship?
+  - answer: C
+    explanation: 文章在提到政府不发布此类数据后，引用了该大学的研究，旨在弥补数据匮乏的现状。
+    options:
+      A: To demonstrate that births on commercial flights are relatively common events.
+      B: To contrast the high number of flight births with the low survival rate of
+        newborns.
+      C: To highlight the lack of recent government-published data on in-flight births.
+      D: To show that pregnant women rarely follow airline safety restrictions.
+    q_number: 4
+    stem: Why does the author mention the study from Bowling Green State University?
+  - answer: B
+    explanation: 文中指出，航空公司赞扬了机组人员的专业性，称其按照既定程序处理了情况，并确保了安全。
+    options:
+      A: The airline admitted that the situation was a medical emergency that required
+        diverting the plane.
+      B: The airline praised its crew for handling the event according to standard
+        safety procedures.
+      C: The airline refused to share details because of a potential lawsuit regarding
+        the mother's pregnancy status.
+      D: The airline criticized the passenger for traveling while being close to the
+        end of her pregnancy.
+    q_number: 5
+    stem: What can be inferred about the airline's stance on the incident?
+  source_journal: The Guardian
+  title: 'Stork warning: woman gives birth midair on Jamaica-to-New York flight'
