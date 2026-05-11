@@ -30,7 +30,7 @@ articles:
   is_used: false
   title: The pact that could help America and China repair relations
 - id: epub_25
-  is_used: true
+  is_used: false
   title: Trump and Xi will struggle to strike a major economic deal
 - id: epub_26
   is_used: false
@@ -227,8 +227,8 @@ articles:
 - id: epub_225
   is_used: false
   title: Chapter 225
-capture_date: 05.08.2026
+capture_date: 05.11.2026
 journal_name: Economist
-publish_date: 05.08.2026
+publish_date: 05.11.2026
 source_type: github
 update_frequency: weekly

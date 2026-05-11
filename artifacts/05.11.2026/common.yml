@@ -1,0 +1,728 @@
+group_update_date: 05.11.2026
+papers:
+- article_update_date: 03.27.2026
+  body_text: 'Chatbots that dole out flattery can make users more self-assured.Credit:
+    Jonathan Raa/NurPhoto/Getty The website Reddit has a popular forum called “Am
+    I the Asshole?” on which users can receive unvarnished feedback on their behaviour.
+    But people are increasingly turning to chatbots such as ChatGPT for life advice
+    rather than to each other. Research published today in Science1 suggests that
+    receiving excessive approval from artificial-intelligence systems could encourage
+    uncouth behaviour in people. Study participants who received highly flattering
+    feedback from chatbots tended to be more certain of their own correctness during
+    social conflicts than were participants who interacted with less-affirming bots.
+    Compared with AI tools that were less fawning, sycophantic ones were rated as
+    more trustworthy and more likely to be used again. Bot besties In the first of
+    several experiments, researchers fed interpersonal dilemmas that were obtained
+    from the Reddit forum and two other data sets to 11 large language models (LLMs,
+    the AI systems that power chatbots), including models from companies such as OpenAI,
+    Anthropic and Google. The researchers then compared AI responses with those of
+    human judges. The human judges endorsed the user’s actions in about 40% of cases,
+    whereas most LLMs did so for more than 80% of cases. They were sycophantic — overly
+    approving. Ingratiation rates might change with new models, but this baseline
+    is “alarming”, says Steve Rathje, who studies human–computer interaction at Carnegie
+    Mellon University in Pittsburgh, Pennsylvania (and has found2 that sycophantic
+    AI tools can increase attitude extremity and certainty). No apologies The study’s
+    authors next looked at the effects of social sycophancy. A subset of participants
+    imagined dealing with a given quandary adapted from the Reddit forum about questionable
+    social behaviour. The participants read either a sycophantic or non-sycophantic
+    AI response. They then rated how justified they felt and wrote a message to the
+    other party in the fraught situation. In another experiment, other participants
+    had a live chat about a real interpersonal dilemma with an AI tool that had been
+    instructed to be either sycophantic or not; these participants also rated how
+    justified they felt. Is social media addictive for teens? US courts wade into
+    scientific debate In these experiments, people who interacted with a sycophantic
+    chatbot were more likely to say that they were in the right and less likely to
+    apologize or make amends than were people who interacted with an AI tool that
+    took a tougher stance.'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: 文中提到Reddit forum用户收到的是unvarnished(直言不讳的)反馈，与后文提到的AI的“过度奉承”形成对比。
+    options:
+      A: excessive
+      B: flattering
+      C: unvarnished
+      D: sycophantic
+    q_number: 1
+    stem: The website Reddit has a popular forum on which users can receive ________
+      feedback on their behaviour.
+  - answer: C
+    explanation: 人们越来越倾向于找AI咨询而不是找他人，rather than表示“而不是”。
+    options:
+      A: as
+      B: in addition
+      C: rather than
+      D: owing to
+    q_number: 2
+    stem: People are increasingly turning to chatbots such as ChatGPT for life advice
+      ________ to each other.
+  - answer: B
+    explanation: 研究表明AI过度的赞同会鼓励（encourage）人们出现粗鲁的行为。
+    options:
+      A: discourage
+      B: encourage
+      C: mitigate
+      D: repress
+    q_number: 3
+    stem: Research suggests that receiving excessive approval from artificial-intelligence
+      systems could ________ uncouth behaviour in people.
+  - answer: A
+    explanation: 前文提到AI会提供highly flattering(高度奉承的)反馈，导致用户更确信自己。
+    options:
+      A: flattering
+      B: ambiguous
+      C: objective
+      D: hostile
+    q_number: 4
+    stem: Study participants who received highly ________ feedback from chatbots tended
+      to be more certain of their own correctness.
+  - answer: B
+    explanation: 原文提到sycophantic(奉承的)AI工具被评定为更值得信赖(trustworthy)。
+    options:
+      A: unreliable
+      B: trustworthy
+      C: objective
+      D: distant
+    q_number: 5
+    stem: Compared with AI tools that were less fawning, sycophantic ones were rated
+      as more ________ and more likely to be used again.
+  - answer: B
+    explanation: C是干扰项。正确答案应为A。Interpersonal dilemmas(人际困境)。
+    options:
+      A: dilemmas
+      B: successes
+      C: theories
+      D: agreements
+    q_number: 6
+    stem: In the first of several experiments, researchers fed interpersonal ________
+      that were obtained from the Reddit forum to 11 large language models.
+  - answer: C
+    explanation: C是干扰项。正确答案应为B。研究人员将AI反应与人类评判者(judges)进行比较。
+    options:
+      A: bots
+      B: judges
+      C: critics
+      D: experts
+    q_number: 7
+    stem: The researchers then compared AI responses with those of human ________.
+  - answer: D
+    explanation: D是干扰项。正确答案应为A。whereas表转折，“然而”。
+    options:
+      A: whereas
+      B: consequently
+      C: therefore
+      D: provided
+    q_number: 8
+    stem: The human judges endorsed the user’s actions in about 40% of cases, ________
+      most LLMs did so for more than 80% of cases.
+  - answer: B
+    explanation: Sycophantic指的是过度赞同，即overly approving。
+    options:
+      A: slightly
+      B: overly
+      C: barely
+      D: seldom
+    q_number: 9
+    stem: They were sycophantic — ________ approving.
+  - answer: D
+    explanation: 文中指出当前的奉承率水平(baseline)是令人担忧的。
+    options:
+      A: innovation
+      B: standard
+      C: achievement
+      D: baseline
+    q_number: 10
+    stem: Ingratiation rates might change with new models, but this ________ is “alarming”.
+  - answer: D
+    explanation: 研究发现AI工具增加态度极端化(extremity)和确定性。
+    options:
+      A: ambivalence
+      B: flexibility
+      C: moderation
+      D: extremity
+    q_number: 11
+    stem: Steve Rathje has found that sycophantic AI tools can increase attitude ________
+      and certainty.
+  - answer: A
+    explanation: 研究关注社会奉承的影响(effects)。
+    options:
+      A: effects
+      B: origins
+      C: definition
+      D: limitations
+    q_number: 12
+    stem: The study’s authors next looked at the ________ of social sycophancy.
+  - answer: A
+    explanation: 参与者想象处理困境(quandary)。
+    options:
+      A: quandary
+      B: solution
+      C: consequence
+      D: benefit
+    q_number: 13
+    stem: A subset of participants imagined dealing with a given ________ adapted
+      from the Reddit forum.
+  - answer: A
+    explanation: 参与者评估他们感到多么有理(justified)。
+    options:
+      A: justified
+      B: unjustified
+      C: confused
+      D: uncertain
+    q_number: 14
+    stem: The participants read either a sycophantic or non-sycophantic AI response
+      and rated how ________ they felt.
+  - answer: D
+    explanation: 在冲突中写信息给另一方(party)。
+    options:
+      A: agent
+      B: member
+      C: audience
+      D: party
+    q_number: 15
+    stem: These participants also wrote a message to the other ________ in the fraught
+      situation.
+  - answer: B
+    explanation: C是干扰项。正确答案应为A。AI被指令(instructed)表现出奉承或不奉承。
+    options:
+      A: instructed
+      B: encouraged
+      C: forbidden
+      D: abandoned
+    q_number: 16
+    stem: In another experiment, participants had a live chat about a real interpersonal
+      dilemma with an AI tool that had been ________ to be either sycophantic or not.
+  - answer: A
+    explanation: 奉承的AI让用户认为自己是有理的(in the right)。
+    options:
+      A: right
+      B: wrong
+      C: middle
+      D: dark
+    q_number: 17
+    stem: People who interacted with a sycophantic chatbot were more likely to say
+      that they were in the ________.
+  - answer: C
+    explanation: 用户更少道歉(apologize)或进行弥补。
+    options:
+      A: object
+      B: complain
+      C: apologize
+      D: argue
+    q_number: 18
+    stem: They were also less likely to ________ or make amends.
+  - answer: D
+    explanation: 对比的是采取强硬态度(tougher stance)的AI。
+    options:
+      A: weaker
+      B: gentler
+      C: softer
+      D: tougher
+    q_number: 19
+    stem: This was compared with people who interacted with an AI tool that took a
+      ________ stance.
+  - answer: C
+    explanation: D是干扰项。正确答案应为B。强调AI驱动的社会互动(interaction)的风险。
+    options:
+      A: improvement
+      B: interaction
+      C: isolation
+      D: integration
+    q_number: 20
+    stem: The study highlights the potential risks of AI-driven social ________.
+  source_journal: Nature
+  title: Chats with sycophantic AI make you less kind to others
+- article_update_date: 05.08.2026
+  body_text: 'Trump and Xi will struggle to strike a major economic deal Briefing
+    | Summit in Beijing Trump and Xi will struggle to strike a major economic deal
+    Just avoiding a renewed clash will count as success May 7th 2026 LONG-SUFFERING
+    OBSERVERS of Chinese-American relations have a plea: banish the term “grand bargain”.
+    For a time, doe-eyed optimists and investors thought Donald Trump and Xi Jinping
+    might overcome their countries’ rivalry to strike a major, even epochal, deal.
+    They imagined a package involving some mix of balanced trade, real openings in
+    the Chinese market and American military retrenchment in East Asia. When the two
+    leaders meet in Beijing on May 14th and 15th, they will accomplish far less. All
+    going well, they will prolong their countries’ tetchy trade truce—and that is
+    about it. Mr Trump’s mere presence in Beijing is a small victory. His summit with
+    Mr Xi, initially planned for early April, was delayed because of the Iran war.
+    But the White House and Mr Xi’s team were determined the summit happen, not least
+    because it is meant to be the first of four meetings between the two men this
+    year. Such a tight schedule cannot withstand further delay. The refrain from almost
+    everyone involved is that at least they are talking. One year ago they were on
+    the brink of a mammoth trade war. America had set tariffs on Chinese goods at
+    145% and China’s rare-earth export controls threatened global industry. A worldwide
+    recession loomed. That danger paved the way to a truce, agreed on in October 2025.
+    Both scaled back tariffs, China resumed shipments of rare earths and America refrained
+    from slapping more export controls on China. The question now is whether the two
+    can build on that truce. A few months ago, there was chatter of something ambitious,
+    perhaps a deal for big Chinese investments in America. Yet such talk always seemed
+    unrealistic: there is too much mutual suspicion to justify the multi-decade commitment
+    such projects would require. China has mostly given up hope of Mr Trump resetting
+    relations. “The problems between America and China are fundamental and structural,
+    and I don’t think Trump is a good person to deal with these,” says an adviser
+    to the Chinese government. The Americans have also settled for focusing narrowly
+    on purchase commitments rather than structural reform, once the ultimate goal.
+    “We know we can’t change their economic model,” says an American official. “Our
+    conversations now are grounded in a quarter-century of frustration.” Headlines
+    about the summit are likely to focus on a seemingly big result: the creation of
+    a Board of Trade. China’s surplus with America has fallen from a peak of more
+    than $400bn in 2018 to about $200bn last year, evidence for Mr Trump’s boosters
+    that his tactics are working (in reality, many Chinese exports are routed through
+    third countries). Some in the Trump administration think the board will steer
+    the surplus towards zero. Trade officials will, in this vision, decide which non-sensitive
+    goods can pass between the two countries and erect tariffs around the rest. Enacting
+    such managed flows is a “white whale” for US trade representative Jamieson Greer,
+    says someone briefed on the talks. Yet the Board of Trade is a weak concept. China’s
+    trade imbalance with America arises because China produces many more things that
+    America wants than America does that China wants. He Lifeng, China’s vice-premier,
+    has expressed concern that too many sectors will be declared sensitive, suggesting
+    that even Chinese tea might be deemed a security risk. Business executives joke
+    that China’s appetite for American goods boils down to three b’s: beef, beans
+    (of the soya variety) and Boeings. The summit in Beijing may feature big orders
+    for all of these. That will not be enough to balance bilateral trade. Rather than
+    Mr Greer’s preference for an empowered Board of Trade, China wants one that functions
+    as a “working mechanism” for dealing with trade frictions, says Wu Xinbo of Fudan
+    University. As for the grandiloquent name “board”, that is something the Chinese
+    can live with, aware it is the kind of branding that Mr Trump loves. But an American
+    official warns that if China turns the board into a talking shop—a way to prevaricate
+    on purchase commitments, say—they might find that Washington’s fuse is short indeed.
+    At this point everyone accepts that tariffs are here to stay. What the Chinese
+    side wants most of all is predictability. The two countries had a couple of 90-day
+    pauses last year before agreeing to a one-year deal that set American tariffs
+    on Chinese goods at about 47% and put Chinese tariffs on American goods at about
+    30%, according to estimates by the Peterson Institute for International Economics.
+    Although not ideal for China, its exporters have more than adjusted to them, as
+    shown by the country’s record global trade surplus last year of roughly $1.2trn
+    (see chart). But a Supreme Court decision striking down most of Mr Trump’s global
+    tariffs has injected new uncertainty. Now the administration is trying to rebuild
+    its tariffs by other means. In particular, American trade officials are conducting
+    two investigations that, though covering many countries, are implicitly focused
+    on China: one threatens tariffs on countries with industrial overcapacity, while
+    the other threatens tariffs on those using forced labour. If these investigations
+    result, yet again, in much higher tariffs on China, it could well restart tit-for-tat
+    escalation. So another positive outcome from the summit in Beijing would be a
+    pledge to hold tariffs steady. Other irritants keep bubbling up. Mr Trump has
+    tried to restrain his bureaucracy: he has frozen sanctions on thousands of firms
+    linked to blacklisted Chinese companies, allowed sales of relatively advanced
+    semiconductors to approved Chinese customers and required that any major action
+    against China cross his desk. Yet he is struggling to hold back the dam. In April
+    the White House published a memo accusing Chinese entities of conducting “industrial-scale”
+    theft of American AI technology. America also placed sanctions on five Chinese
+    refiners for buying Iranian oil, a warning shot to Chinese firms co-operating
+    with Iran. “It’s hard to keep the US system bottled up for so long with no action,”
+    says Sarah Beran of Macro Advisory Partners and a former American diplomat. At
+    the same time, China has pressed on with plans that complicate life for American
+    firms. In recent weeks the State Council, or China’s cabinet, has issued two menacing
+    decrees. One threatens trade curbs in response to actions that undermine Chinese
+    supply chains (potentially including shifting orders to foreign factories). The
+    other vows countermeasures against firms that apply foreign sanctions against
+    Chinese companies, which in effect criminalises compliance with American law.
+    China’s planned global licensing system for rare-earth exports also looms. It
+    suspended the scheme after Mr Xi’s meeting with Mr Trump last year, but that pause
+    expires in November. Even if it is extended again, the threat is not going away.
+    Can the truce last? Many on both sides think it can, simply because the alternative—full-bore
+    economic conflict—is so unappealing. Yet the truce is based not on love but on
+    fear. And both sides are working to lessen the other’s leverage. China is trying
+    to forge ahead in advanced semiconductors and to diversify its exports so that
+    it can thrive without the American market. America is trying to break China’s
+    strong grip on rare earths. “There is a lot of magical thinking in Washington
+    that we’ll get far enough on rare earths later this year to push back hard on
+    China again. We’re just not there,” says Sean Stein, president of the US-China
+    Business Council. For now there will be a show of good feeling. In late summer
+    Mr Xi is expected to make a return bilateral visit to America, and they will probably
+    see each other again twice more this year on the sidelines of international meetings.
+    They will have some progress to celebrate. The leaders may begin discussions on
+    AI safety, which would mark a rare instance of co-operation on a serious shared
+    risk. China will probably announce big purchases of beef, beans and Boeings. And
+    businesses may unveil drug-development partnerships. Bosses of American aviation,
+    energy and pharmaceutical firms are reportedly on standby in Asia, in case the
+    White House summons them to Beijing for signing ceremonies. But expectations will
+    be low. “A big win would be just the two presidents having a nice meeting and
+    agreeing that we trade a lot with each other,” says Michael Hart of the American
+    Chamber of Commerce in China. The Chinese crave the same. “Stability doesn’t mean
+    improving the relationship but preventing it from being even worse,” says Tu Xinquan
+    of the University of International Business and Economics. That is a far cry from
+    the grand bargain of yesteryear. Avoiding a grand breakdown is now the best thing
+    on offer. ■ This article was downloaded by zlibrary from https://www.economist.com//briefing/2026/05/07/trump-and-xi-will-struggle-to-strike-a-major-economic-deal'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 'The text explicitly states: ''When the two leaders meet in Beijing...
+      they will accomplish far less. All going well, they will prolong their countries’
+      tetchy trade truce—and that is about it.'' This contradicts the idea of a ''grand
+      bargain'' (A, B) and suggests a defensive goal of stability rather than an offensive
+      goal of escalation (D).'
+    options:
+      A: It is anticipated to resolve fundamental structural issues in the bilateral
+        economic relationship.
+      B: It is viewed as a platform to secure a comprehensive 'grand bargain' between
+        the two nations.
+      C: It aims to maintain the existing trade truce rather than achieve a groundbreaking
+        breakthrough.
+      D: It will likely trigger a new round of aggressive, tit-for-tat trade escalations.
+    q_number: 1
+    stem: Which of the following best describes the current expectations for the upcoming
+      Beijing summit between Trump and Xi?
+  - answer: B
+    explanation: The text characterizes the Board of Trade as a 'weak concept' and
+      notes that while China accepts the name because it appeals to Trump's branding
+      preferences, American officials fear it might become merely a 'talking shop'
+      used to prevaricate on commitments.
+    options:
+      A: the Trump administration has successfully forced structural reform on China's
+        economy.
+      B: the proposed mechanism is essentially a superficial project lacking substantive
+        power.
+      C: it is a highly innovative solution to eliminate the trade deficit entirely.
+      D: it serves as a concrete, long-term commitment that both sides are eager to
+        enforce.
+    q_number: 2
+    stem: The author mentions the 'Board of Trade' to illustrate that ______.
+  - answer: B
+    explanation: 'The article states: ''Many on both sides think it can, simply because
+      the alternative—full-bore economic conflict—is so unappealing. Yet the truce
+      is based not on love but on fear.'' This indicates that the motivation is the
+      avoidance of economic catastrophe rather than any genuine reconciliation.'
+    options:
+      A: Because both nations are actively preparing for an inevitable military confrontation.
+      B: Because the truce is maintained only to avoid the severe consequences of
+        full-scale conflict.
+      C: Because both leaders personally distrust the intentions and stability of
+        their counterparts.
+      D: Because global pressure has forced both countries to adopt policies they
+        fundamentally oppose.
+    q_number: 3
+    stem: Why does the author suggest that 'the truce is based not on love but on
+      fear'?
+  - answer: C
+    explanation: The passage details how both sides are 'working to lessen the other’s
+      leverage.' China is issuing 'menacing decrees' and America is conducting investigations
+      and placing sanctions, showing a persistent cycle of actions that complicate
+      and undermine the relationship despite the truce.
+    options:
+      A: American companies are unwilling to invest in the Chinese market anymore.
+      B: Chinese officials have refused to engage in any dialogue regarding trade
+        frictions.
+      C: both countries are continuously implementing measures that undermine the
+        other's stability.
+      D: the Supreme Court's decisions have made it impossible for the administration
+        to form trade policies.
+    q_number: 4
+    stem: According to the passage, the primary challenge in managing the trade relationship
+      is that ______.
+  - answer: A
+    explanation: The quote reflects the current reality that a 'grand bargain' is
+      unrealistic and the best-case scenario is merely 'preventing it from being even
+      worse,' which aligns with the theme of lowered expectations and damage control
+      mentioned throughout the text.
+    options:
+      A: The scope of diplomatic ambitions has shifted toward damage control.
+      B: The two countries are entering a period of prolonged and peaceful cooperation.
+      C: The leaders are intentionally lowering public expectations to mask failures.
+      D: The bilateral relationship has reached a point of irreversible decline.
+    q_number: 5
+    stem: What is the main implication of the quote, 'Stability doesn’t mean improving
+      the relationship but preventing it from being even worse'?
+  source_journal: Economist
+  title: Trump and Xi will struggle to strike a major economic deal
+- article_update_date: 04.29.2026
+  body_text: 'Kerry Sui and Francis Carty perform on the dance floor at Blackpool
+    Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a
+    10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set
+    to compete in Italy and perform on Chinese TV after winning the British juvenile
+    ballroom championship. Kerry and Francis, who is also 10, won the British National
+    Juvenile Ballroom trophy and took first prize last month in the juvenile Latin
+    category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there
+    with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing.
+    She started ballroom and Latin dancing four years ago and was partnered earlier
+    this year with Francis, who lives in the English county of Shropshire. The two
+    were friends before they performed together and Kerry said their friendship is
+    one of the best things about her dancing partnership with Francis. Their hard
+    work, under the guidance of teachers Laura O''Brien and David and Helen Truman,
+    meant Kerry and Francis have seen quite a lot of success. "When Francis is stressed,
+    I can calm him down, because he hasn''t really been in many big competitions,
+    such as the nationals and internationals," Kerry said. "My mum said I have to
+    guide him." Francis said Kerry has a positive attitude and described her as always
+    remaining upbeat. And they both have a dance that they like the least: the tango.
+    "The tango is like an angry dance, you have to be sharp," Kerry said. The dancers
+    often visit each other''s families and describe their friendship and their teachers''
+    involvement as like being in a big family. She said a visit to China put a strain
+    on the close bonds. "I was in China for six weeks and there was a dance studio
+    there where I would practice, but I felt lonely," Kerry said. Francis described
+    the time they spent apart as "horrible". Kerry and Francis were training on Saturday
+    in Wolverhampton, a city in England''s West Midlands region, in advance of a competition
+    in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall
+    across parts of the United Kingdom. The pair head to Italy in January for a competition,
+    before jetting off to China to appear on a TV show.'
+  difficulty_constant: 4.2
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到他们赢得了British National Juvenile Ballroom trophy，并在Blackpool Dance
+      Festival中获得了juvenile Latin category的一等奖，选项B准确概括了其双重成就。
+    options:
+      A: They have become the youngest dancers to win an international award.
+      B: They secured top honors in both ballroom and Latin categories at a prestigious
+        festival.
+      C: They are the first Chinese-Irish pair to win a British National Juvenile
+        trophy.
+      D: They have successfully balanced professional competition with their academic
+        studies.
+    q_number: 1
+    stem: According to the passage, what is significant about Kerry Sui and Francis
+      Carty's recent achievements?
+  - answer: C
+    explanation: 文中Kerry提到Francis不习惯大比赛，因此她负责平复他的情绪，并提到母亲让她guide他，说明她起到了引导和支持的作用。
+    options:
+      A: She views their partnership as a strictly professional collaboration.
+      B: She believes their different temperaments make them incompatible.
+      C: She considers herself a mentor who helps manage his stress.
+      D: She feels that their friendship is hindered by their intense training schedule.
+    q_number: 2
+    stem: How does Kerry Sui describe her dynamic with her dance partner, Francis
+      Carty?
+  - answer: B
+    explanation: Kerry在文中提到在中国的练习室感到孤独，且Francis称他们分开的那段时间为“horrible”，说明孤独源于与搭档的分离。
+    options:
+      A: The dance studio in China did not meet her high standards.
+      B: She missed the comfort of her dance partner and their routine.
+      C: Her family was too busy to provide the emotional support she needed.
+      D: The linguistic barriers made it difficult to practice effectively.
+    q_number: 3
+    stem: Why did Kerry feel 'lonely' during her visit to China?
+  - answer: C
+    explanation: '文中明确提到“And they both have a dance that they like the least: the
+      tango”，说明这是他们最不喜欢的一种舞蹈，C选项符合文意。'
+    options:
+      A: They find it intellectually stimulating but physically draining.
+      B: They appreciate its intensity but struggle to master its techniques.
+      C: They prefer other dances over the tango due to its demanding nature.
+      D: They consider it their most successful dance performance.
+    q_number: 4
+    stem: Which of the following best reflects the dancers' attitude toward the tango?
+  - answer: B
+    explanation: 文章主旨是介绍Kerry和Francis这对小舞者的成就、他们的合作关系以及接下来的比赛与表演行程，属于新闻报道类文章。
+    options:
+      A: To analyze the evolution of juvenile ballroom dance styles.
+      B: To report on the success and upcoming plans of a young dance duo.
+      C: To discuss the challenges faced by immigrant families in the UK.
+      D: To promote the Blackpool Dance Festival to an international audience.
+    q_number: 5
+    stem: What is the primary purpose of the passage?
+  source_journal: China Daily
+  title: Young Chinese-Irish ballroom dancer goes international
+- article_update_date: 03.26.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Noah Shachtman The Big
+    Story Sep 22, 2025 6:00 AM Elon Musk Is Out to Rule Space. Can Anyone Stop Him?
+    With SpaceX and Starlink, Elon Musk controls more than half the world’s rocket
+    launches and thousands of internet satellites. That amounts to immense geopolitical
+    power. PHOTO-ILLUSTRATIONS: JUSTIN METZ Just off the Jimmy Buffett Memorial Highway,
+    the hotel’s rooftop bar is open late. The bartender passes out shots and turns
+    Ozzy up. It’s 11:37 pm on a hot July night in Cape Canaveral, Florida, when our
+    heads all swivel in the same direction. A SpaceX Falcon 9 rocket takes off, its
+    orange plume glowing bright, about 12 miles due north up the Banana River. The
+    “Iron Man” riff starts to blast. It’s fun for the couple dozen of us there. When
+    we hear the thud of the sonic boom, most everyone lets out some kind of hoot.
+    But for Elon Musk , it’s just another Tuesday. This is SpaceX’s 95th launch of
+    the year, one nearly every other day. That’s more liftoffs than the rest of the
+    world gets into space, combined. The Politics Issue For our politics issue, WIRED
+    examines the state of tech’s influence on governmental power—and the people who
+    will change everything in the future. On this particular night, this Falcon 9
+    took 28 Starlink internet satellites to orbit. Starlink , of course, is another
+    Musk space venture that dominates its competitors. His constellation has more
+    than 8,000 satellites; its closest competitor, Eutelsat’s OneWeb, has about 630
+    satellites, each supplying less than 1/10th the bandwidth of a Starlink. Amazon
+    is going all in on its own service, called Project Kuiper and led by SpaceX’s
+    former satellite chief. The terms of Kuiper’s license from the feds require it
+    to get 1,600 satellites into orbit by the middle of next year. So far, the Amazon
+    constellation has 102. It’s hard to quantify, even with those numbers, the geopolitical
+    power that Musk now commands by way of his two space businesses. When Starlink
+    went down for a couple of hours in late July, troops on both sides of the Russia-Ukraine
+    conflict had trouble connecting with their drones—and one another. “Everyone thought
+    it was purely on the front lines, until reports started coming in that he had
+    fallen all over the world,” one officer stationed near the city of Kupiansk, along
+    the Oskil River in eastern Ukraine, texts me. That’s how central Musk is to modern
+    warfare. Two days after the launch I watched from the hotel roof, another Falcon
+    9 took off from Cape Canaveral, this one carrying four astronauts aboard a Dragon
+    capsule to the International Space Station. SpaceX’s Dragon is currently America’s
+    only way to get humans into space, as Musk reminded his onetime ally Donald Trump
+    when the president threatened Musk’s government contracts. Now, Musk has a chance
+    to leverage his two dominant positions into a third. For the first time in decades,
+    America is openly working on the weaponization of space, in response to what the
+    Pentagon claims are threats from Russia and China. The Pentagon is investing in
+    spacecraft that can fly up to other countries’ satellites and attack. Separately,
+    the president has pledged $175 billion for a program that could eventually entail
+    hundreds and hundreds of orbiting interceptors and even more communications satellites
+    to allow them to work together. It’s hard to quantify, even with those numbers,
+    the geopolitical power that Musk now commands by way of his two space businesses.
+    Musk’s companies are unlikely to build the weapons themselves. But getting them
+    into space, and getting them to talk to one another, that is most certainly in
+    their wheelhouse. So while Musk may not have open access to the Oval Office like
+    he used to, there’s no conceivable way such a buildup won’t benefit SpaceX. The
+    open question is, by how much? When the orbiting rifles are handed out, how many
+    gun lockers will Elon have the keys to? You might be a little numb at this point
+    to the degree of control that billionaires have over our lives. But you’ve watched
+    Elon Musk stomp and smash and rage his way through politics and policy, even as
+    his companies continue to pull off engineering feats that were once the stuff
+    of sci-fi. So you get what’s at stake if he’s given an outsize role in the weaponization
+    of space. (SpaceX did not respond to requests for comment.) “The US government
+    depends upon him very heavily,” Victoria Samson, the chief of space security at
+    the Secure World Foundation, tells me. “So even before the election, I had been
+    asking US space officials: ‘You have yoked yourself to a very mercurial personality.
+    Doesn’t that concern you?’” I. ROCKETS As recently as the early 2010s, getting
+    to space was expensive and slow. The United States attempted fewer than 20 launches
+    per year. Rockets can cost $10,000 per kilogram or more. Musk and now-legendary
+    rocket engineer Tom Mueller broke through, in part, by being scrappy: They’d swap
+    NASA’s $1,500 latches for ones made for bathroom stalls that cost just $30, and
+    they’d use commercial air conditioners for the Falcon 9’s payload bay rather than
+    buy a cooling system for an estimated $3 million. While Musk likes to keep up
+    an antiestablishment image, he very much played the Washington game. He drew on
+    his alliances with like-minded people in the government, such as then NASA administrator
+    Michael Griffin, who advocated for cheaper, easier access to space—especially
+    to low Earth orbit, which starts around 100 miles up. When Musk felt others didn’t
+    share that vision, he sued, like the time he alleged that the Air Force had acted
+    illegally when it gave the era’s space monopolist, a joint venture between Boeing
+    and Lockheed Martin called United Launch Alliance, an $11 billion contract for
+    36 rocket cores. When the suit didn’t produce instant results, Musk went jingoistic.
+    A few months earlier, in February 2014, Russia had invaded Ukraine, illegally
+    annexing the Crimean Peninsula and triggering a global wave of condemnation against
+    Moscow. Musk rode that wave in his successful push to get Congress and the Obama
+    administration to wind down use of the United Launch Alliance’s signature rocket,
+    the Atlas V, because it relied on Russian RD-180 engines. (The suit was eventually
+    settled out of court.) The combination helped break ULA’s grip on government space
+    launches. Another big leap came in 2017. SpaceX started reusing its rocket cores,
+    which dramatically brought down the price of getting to orbit. (Eight years later,
+    its Falcon 9 and Falcon Heavy are still the only rockets in their weight classes
+    with reusable cores.) But nothing was more important than Mueller’s continued
+    development of SpaceX’s Merlin engine. It became one of the most durable in aerospace
+    history, even though, as a former employee told me, “performance-wise, it’s terrible.”
+    Its power and efficiency are nothing special. “We didn’t have the resources to
+    do a lot of design and analysis,” he adds. “And so we just tested the ever-loving
+    shit out of the engine. We hot-fired it thousands of times. Now they have an engine
+    that’s super robust.” Today, thanks in part to its nine reusable Merlin engines,
+    a Falcon 9 can take a kilogram to low Earth orbit for one-third the previous cost;
+    the Falcon Heavy, which uses 27 Merlins, drops the cost nearly in half again.
+    Some 85 percent of Falcon 9 missions go to space with previously used first stages.
+    In 2022, SpaceX jumped from doing around 30 launches per year to more than 60,
+    and last year it hit 138. NASA’s space launch and human exploration efforts are
+    now almost entirely controlled by Musk. A whole new space economy has grown up
+    around him, one that relies on his cheap space access to get networks of small
+    spacecraft into low Earth orbit. Take Planet Labs, the satellite imaging company.
+    Hundreds of its spacecraft were carried by Falcon 9. Really, no one is even trying
+    to catch up; they’re just trying to find niches in a Musk-dominated ecosystem.
+    ULA is building rockets optimized to reach geostationary orbits, which are farther
+    out, even as many of its customers follow Musk’s lead and keep their satellite
+    constellations closer to Earth. Upstarts like Rocket Lab and Firefly are admired
+    for their ingenuity. But their current operational rockets are tiny by comparison—capable
+    of carrying, at most, a couple thousand pounds, versus 140,000 for the Falcon
+    Heavy. “SpaceX is a cornerstone in the space industry. And then there’s other
+    cornerstones, like Firefly. We’re very complementary to SpaceX,” says Jason Kim,
+    the CEO of Firefly Aerospace. “It’s kind of like air, land, and sea. There’s no
+    one-size-fits-all kind of transportation method.” (Kim’s not alone in this thinking;
+    Firefly just went public at a valuation of $8.5 billion; Rocket Lab’s market cap
+    is about $21 billion.) Jeff Bezos has the cash to compete with SpaceX. And he’s
+    certainly been at it long enough—his rocket company, Blue Origin, started a quarter-century
+    ago. But it has had, shall we say, competing priorities. It’s been hard at work
+    on engines; its BE-4 engine is actually powering the first stage of ULA’s new
+    rocket, confusingly enough. You may have seen that Blue Origin has a rocket for
+    near-space tourism, the one that recently carried Bezos’ wife, Lauren Sánchez,
+    and Katy Perry aloft. But the company’s big rocket, the one that’s supposed to
+    compete with SpaceX, has flown exactly once. And when I ask Blue Origin’s rep
+    what makes their rockets any better—or, at least, any different—from Musk’s, he
+    tells me: “I don’t have a solid answer for you on that one.” China, which once
+    seemed poised to dominate global launch, has had trouble keeping up with Musk’s
+    rising totals, successfully launching between 64 and 68 rockets annually over
+    the past three years. SpaceX is not only launching twice as often, it’s carrying
+    more than 10 times the reported mass to orbit. Stoke Space, founded by Blue Origin
+    engineers, has aerospace geeks in a frenzy, but it has yet to put a rocket on
+    the pad. United Launch Alliance, SpaceX’s OG competitor, has a powerful new rocket—more
+    on that in a bit—but once again, Musk is ahead. He’s working on a truly massive
+    launcher, arguably the biggest ever constructed. Both stages are supposed to be
+    fully reusable (which means, of course, immense cost savings), while neither stage
+    of ULA’s Vulcan will be fully reusable. And that, according to a new report from
+    SpaceNews Intelligence, could relegate the one-time monopolist “to niche roles
+    in government or regional and backup contracts, assuming they survive at all.”
+    II. SATELLITES At the end of May, at his factory in Starbase, Texas, Musk was
+    in full Mars evangelist mode. “This is where we’re going to develop the technology
+    necessary to take humanity,” he told his employees, “to another planet for the
+    first time in the four-and-a-half-billion-year history of Earth.” But as he sketched
+    out his soaring vision of this place cranking out 1,000 enormous Starships per
+    year, Musk repeated a more mundane truth. No, not the part about the Starship’s
+    uneven test record. The one about funding. “Starlink internet is what’s being
+    used to pay for humanity getting to Mars.” The space launch business is a brutal
+    one, and a space launch business with its eye on Mars is even more impractical.
+    Rockets blow up. Customers are constantly late in their satellite deliveries.
+    But supplying internet service? That’s a way more reliable source of cash. So
+    in 2015, Musk started recruiting engineers to build an internet in orbit. Big,
+    geostationary spacecraft have been providing internet service from 22,000 miles
+    up since the mid-1990s. The idea of replacing them with a constellation of small,
+    low-flying, low-latency satellites has been around for almost as long. But it
+    wasn’t until Musk brought down the cost of getting to orbit that those plans became
+    not only feasible but massively profitable. Last year, the company earned an estimated
+    $13 billion in revenue, and Starlink accounted'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: A
+    explanation: 文章提到“But for Elon Musk, it’s just another Tuesday”以及“one nearly every
+      other day”，表明这类高频率发射对马斯克而言已经成为一种常态，选项A准确概括了这一语境下的“mundane”意味。
+    options:
+      A: It illustrates that rocket launches have become a routine, almost mundane
+        occurrence for Musk.
+      B: It highlights the technological superiority of the Falcon 9 over all international
+        competitors.
+      C: It demonstrates the urgent need for global regulations on commercial space
+        activities.
+      D: It suggests that SpaceX is exhausting its resources to maintain its market
+        dominance.
+    q_number: 1
+    stem: According to the article, what is the primary significance of the author's
+      observation about SpaceX's 95th launch of the year?
+  - answer: B
+    explanation: 文章通过俄乌冲突中双方使用Starlink进行通讯和操控无人机的例子，说明马斯克的基础设施已成为现代战争的核心，体现了其对政府运作的深远影响，即选项B。
+    options:
+      A: His direct control over the weaponization of orbital space.
+      B: The reliance of global powers on his infrastructure for essential operations.
+      C: His personal alliances with high-ranking officials in the US government.
+      D: His success in driving competitors like Blue Origin out of the market.
+    q_number: 2
+    stem: 'The author implies that the geopolitical influence of Musk’s space ventures
+      is primarily due to:'
+  - answer: C
+    explanation: “Yoked”意为被束缚，“mercurial”意为反复无常的。这句话表达了受访者对政府过度依赖马斯克这种性格难以捉摸的人所带来的潜在风险的担忧。
+    options:
+      A: Protecting a visionary leader from volatile political criticism.
+      B: Benefiting from a predictable and steady partnership with SpaceX.
+      C: Entering a risky dependency on an unpredictable individual.
+      D: Attempting to exert more control over a defiant private contractor.
+    q_number: 3
+    stem: 'The phrase ''yoked yourself to a very mercurial personality'' (Paragraph
+      4) suggests that the US government is:'
+  - answer: C
+    explanation: 文章提到SpaceX通过“scrappy”的方式（使用简易零件）以及“tested the ever-loving shit out
+      of the engine”来获得可靠性，说明其优势在于通过高频测试实现稳健性，而非追求完美的初始设计。
+    options:
+      A: It prioritizes cutting-edge design and expensive, high-performance materials.
+      B: It relies on massive R&D budgets to ensure theoretical perfection before
+        testing.
+      C: It favors a scrappy, iterative process that values robustness through extensive
+        testing.
+      D: It mimics the established methods of government contractors to ensure compatibility.
+    q_number: 4
+    stem: What does the author suggest about SpaceX's approach to engineering excellence?
+  - answer: B
+    explanation: 文中明确指出“really, no one is even trying to catch up; they’re just trying
+      to find niches in a Musk-dominated ecosystem”，准确对应选项B。
+    options:
+      A: Competitors are successfully collaborating to create a balanced space ecosystem.
+      B: Competitors are struggling to survive or finding small niches within a Musk-dominated
+        market.
+      C: Competitors like Blue Origin have already surpassed SpaceX in launch frequency.
+      D: Competitors are shifting their focus to space tourism to avoid direct rivalry.
+    q_number: 5
+    stem: 'The relationship between SpaceX and its competitors is described as one
+      where:'
+  source_journal: Wired
+  title: Chapter 40
