@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.12.2026",
+  "papers": [
+    {
+      "title": "Donald Trump has made Venezuela a better place",
+      "article_update_date": "04.23.2026",
+      "source_journal": "Economist",
+      "body_text": "Donald Trump has made Venezuela a better place Leaders | The Caracas condition Donald Trump has made Venezuela a better place But the American president is misinterpreting an incomplete success April 16th 2026 Before its strongman leader, Nicolás Maduro, was captured by American special forces on January 3rd, Venezuela was a grim, hopeless place. His regime silenced critics and stole elections. Some opposition politicians were killed, tortured or thrown into jail. The economy had collapsed; 8m people had fled. The notion of Venezuela spontaneously becoming more open or prosperous seemed too much to hope for. But in the 100 days since Mr Maduro’s seizure, Venezuela has changed for the better. Opposition politicians, many only just released from prison, are meeting openly. Protests are no longer routinely suppressed. Investors are sniffing around oil, gas and mining assets . Delcy Rodríguez, previously Mr Maduro’s deputy, is running the country to Donald Trump’s liking, albeit under the threat of violence if she fails to comply. None of this would have happened without Mr Trump. But the president is muddled about what Venezuela shows, in two important ways. The first is that he talks about the country’s transformation as though it were complete, speaking of how “Venezuela has worked out so incredibly”. The second is that he holds Venezuela up as a model for regime change. “What we did in Venezuela”, Mr Trump said in March, when asked about his plans for Iran, “I think is the perfect, the perfect scenario.” On both counts he is wrong. For one thing, Venezuela’s positive transformation is only limited so far. It will not be secure until democracy has been rekindled. Foreign investment will not pour in at the scale needed while the rule of law is backed only by Mr Trump’s word that he will keep the regime’s cronies in line. What’s more, having had their hopes dramatically raised, Venezuelans will bridle without more progress away from dictatorship. Those jails still hold some 480 political prisoners. Investors want stability; delaying elections will eventually cause unrest. The return of democracy is a possibility. However, the path towards it is narrow and murky and, without sustained American pressure, it may vanish altogether. It probably requires María Corina Machado, leader of the opposition, to return to Venezuela and campaign for elections. After she was barred from standing in the presidential vote in 2024, Venezuelans voted overwhelmingly for her political ally, Edmundo González; Mr Maduro pretended he had won. This time, Venezuelans may have to take to the streets at the same time as seeking negotiations with those in power. The threat of his big foreign-policy success being marred by protesters angrily demanding change may motivate Mr Trump to press for elections. Marco Rubio, his Cuban-American secretary of state, also has staked much on Venezuela’s success, including his own presidential ambitions . But the long game is hardly a Trumpian strength. Besides, Ms Rodríguez will surely seek to string things out, hoping that Mr Trump will lose interest. The temptation for America to trade democratic delay for short-term stability will be strong. Even if Mr Trump and his officials can nurture a democratic Venezuela, his methods are not easily reproduced elsewhere. The Venezuelan regime was uniquely vulnerable to Mr Trump’s transactional approach, because it has long been corrupt and ideology-free. Mr Maduro was no more than the gangster-in-chief. By removing him, Mr Trump helped others profit more. With few shared beliefs beyond grabbing power and money, it cost them little to fall in line with America. Venezuela’s history of democracy and its robust political opposition also aided Mr Trump, by giving Venezuelans a group apart from the regime to rally around. Most interpreted Mr Maduro’s seizure narrowly, as an attack on a hated dictator. Contrast this with Mr Trump’s failed attempts to topple the regime in Iran. The strike at the start of the war that killed Ali Khamenei, the country’s supreme leader, prompted the rest of the regime in Tehran to close ranks and fight back. However corrupt and self-serving the Islamic Revolutionary Guard Corps may be, a shared ideology helps prevent the regime from fracturing. By contrast, Ms Rodríguez’s deal with America was consistent with the self-serving values of Mr Maduro. Iran’s regime is far more powerful than the one in Venezuela. But even tiny Cuba has so far held out against Mr Trump’s aggression. For 66 years the island has been run by the Castro family, who are true believers in communism regardless of the country’s corruption. Neither the regime in Cuba nor that in Iran faces an organised domestic political opposition. Mr Trump sees ideology as weakness. He thinks making money is all that really counts. If he keeps following the model he stumbled into in Venezuela, reality will prove him wrong. ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//leaders/2026/04/16/donald-trump-has-made-venezuela-a-better-place",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Before its strongman leader, Nicolás Maduro, was captured by American special forces on January 3rd, Venezuela was a grim, _______ place.",
+          "options": {
+            "A": "prosperous",
+            "B": "hopeless",
+            "C": "thriving",
+            "D": "democratic"
+          },
+          "answer": "B",
+          "explanation": "根据上下文，马杜罗被捕前委内瑞拉情况恶劣，与hopeless对应。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The economy had collapsed; 8m people had _______.",
+          "options": {
+            "A": "flourished",
+            "B": "returned",
+            "C": "fled",
+            "D": "prospered"
+          },
+          "answer": "C",
+          "explanation": "经济崩溃背景下，人们通常会逃离，fled符合逻辑。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The notion of Venezuela spontaneously becoming more open or _______ seemed too much to hope for.",
+          "options": {
+            "A": "prosperous",
+            "B": "oppressed",
+            "C": "chaotic",
+            "D": "isolated"
+          },
+          "answer": "A",
+          "explanation": "open与prosperous通常作为国家发展的正向描述，此处对应好转的期望。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Opposition politicians, many only just released from prison, are meeting _______.",
+          "options": {
+            "A": "secretly",
+            "B": "openly",
+            "C": "clandestinely",
+            "D": "reluctantly"
+          },
+          "answer": "B",
+          "explanation": "委内瑞拉局势变好，反对派不再被压迫，因此是公开见面。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Protests are no longer _______ suppressed.",
+          "options": {
+            "A": "occasionally",
+            "B": "randomly",
+            "C": "rarely",
+            "D": "routinely"
+          },
+          "answer": "D",
+          "explanation": "文中对比之前的情况，现在不再是“常规性地”被镇压。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Delcy Rodríguez, previously Mr Maduro’s deputy, is running the country to Donald Trump’s _______.",
+          "options": {
+            "A": "dismay",
+            "B": "liking",
+            "C": "disapproval",
+            "D": "horror"
+          },
+          "answer": "B",
+          "explanation": "由于她被迫与美国合作，运行方式符合特朗普的期望（liking）。"
+        },
+        {
+          "q_number": 7,
+          "stem": "None of this would have happened _______ Mr Trump.",
+          "options": {
+            "A": "without",
+            "B": "by",
+            "C": "with",
+            "D": "despite"
+          },
+          "answer": "A",
+          "explanation": "强调特朗普在这一转变中的关键作用，故用without。"
+        },
+        {
+          "q_number": 8,
+          "stem": "But the president is muddled about what Venezuela shows, in two _______ ways.",
+          "options": {
+            "A": "insignificant",
+            "B": "trivial",
+            "C": "important",
+            "D": "minor"
+          },
+          "answer": "C",
+          "explanation": "下文列举的两个要点涉及战略层面，故用important。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The first is that he talks about the country’s transformation as though it were _______.",
+          "options": {
+            "A": "partial",
+            "B": "complete",
+            "C": "incomplete",
+            "D": "ongoing"
+          },
+          "answer": "B",
+          "explanation": "文中指出特朗普错误地认为转型已经“完成”，故选complete。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The second is that he holds Venezuela up as a _______ for regime change.",
+          "options": {
+            "A": "model",
+            "B": "standard",
+            "C": "warning",
+            "D": "failure"
+          },
+          "answer": "A",
+          "explanation": "特朗普将其作为伊朗等国政权更迭的参考模板（model）。"
+        },
+        {
+          "q_number": 11,
+          "stem": "It will not be secure until democracy has been _______.",
+          "options": {
+            "A": "ignored",
+            "B": "extinguished",
+            "C": "suppressed",
+            "D": "rekindled"
+          },
+          "answer": "D",
+          "explanation": "民主需要重新被点燃才能确保委内瑞拉的安全。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Investors want _______; delaying elections will eventually cause unrest.",
+          "options": {
+            "A": "chaos",
+            "B": "instability",
+            "C": "stability",
+            "D": "uncertainty"
+          },
+          "answer": "C",
+          "explanation": "投资者追求的是稳定性，故选stability。"
+        },
+        {
+          "q_number": 13,
+          "stem": "However, the path towards it is narrow and _______ and, without sustained American pressure, it may vanish altogether.",
+          "options": {
+            "A": "clear",
+            "B": "bright",
+            "C": "murky",
+            "D": "obvious"
+          },
+          "answer": "C",
+          "explanation": "形容路径不清晰、扑朔迷离，murky最贴切。"
+        },
+        {
+          "q_number": 14,
+          "stem": "After she was barred from standing in the presidential vote in 2024, Venezuelans voted _______ for her political ally.",
+          "options": {
+            "A": "cautiously",
+            "B": "reluctantly",
+            "C": "scarcely",
+            "D": "overwhelmingly"
+          },
+          "answer": "D",
+          "explanation": "民众支持率极高，用overwhelmingly表示压倒性支持。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The threat of his big foreign-policy success being _______ by protesters angrily demanding change may motivate Mr Trump.",
+          "options": {
+            "A": "improved",
+            "B": "boosted",
+            "C": "marred",
+            "D": "enhanced"
+          },
+          "answer": "C",
+          "explanation": "被抗议者干扰或破坏，marred符合题意。"
+        },
+        {
+          "q_number": 16,
+          "stem": "But the long game is hardly a Trumpian _______.",
+          "options": {
+            "A": "strength",
+            "B": "weakness",
+            "C": "failure",
+            "D": "mistake"
+          },
+          "answer": "A",
+          "explanation": "暗示长期布局不是特朗普的强项，故选strength。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The Venezuelan regime was uniquely _______ to Mr Trump’s transactional approach.",
+          "options": {
+            "A": "resistant",
+            "B": "vulnerable",
+            "C": "impervious",
+            "D": "immune"
+          },
+          "answer": "B",
+          "explanation": "由于腐败，委内瑞拉政权对交易式外交容易受制（vulnerable）。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Mr Maduro was no more than the _______.",
+          "options": {
+            "A": "leader-in-chief",
+            "B": "hero-in-chief",
+            "C": "savior-in-chief",
+            "D": "gangster-in-chief"
+          },
+          "answer": "D",
+          "explanation": "文中将马杜罗比作流氓头目，故选gangster-in-chief。"
+        },
+        {
+          "q_number": 19,
+          "stem": "By contrast, Ms Rodríguez’s deal with America was consistent with the _______ values of Mr Maduro.",
+          "options": {
+            "A": "self-serving",
+            "B": "altruistic",
+            "C": "principled",
+            "D": "honorable"
+          },
+          "answer": "A",
+          "explanation": "该政权腐败且唯利是图，self-serving准确。"
+        },
+        {
+          "q_number": 20,
+          "stem": "If he keeps following the model he stumbled into in Venezuela, reality will prove him _______.",
+          "options": {
+            "A": "right",
+            "B": "correct",
+            "C": "accurate",
+            "D": "wrong"
+          },
+          "answer": "D",
+          "explanation": "文章主旨指出特朗普的模式不可完全复制，故现实会证明他是错误的（wrong）。"
+        }
+      ]
+    },
+    {
+      "title": "Interpol arrest warrant requested in Congo-Brazzaville for Jean-Guy Blaise Mayolas",
+      "article_update_date": "04.02.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Authorities in Congo-Brazzaville have applied to Interpol for an international arrest warrant against Jean-Guy Blaise Mayolas, the president of the country’s football federation, Fecofoot, after he was convicted of embezzling $1.1m in Fifa funds. Mayolas is on the run with his wife and son after they were all sentenced to life imprisonment this month for embezzling funds provided by world football’s governing body as part of its Covid-19 relief plan in February 2021. As the Guardian revealed last year, that included almost $500,000 earmarked for the Congo women’s team. Mayolas and his family were tried in absentia and are believed to have fled the country weeks before the hearing. Investigators suspect he may be hiding in Cameroon or the Democratic Republic of the Congo. The authorities and partner police forces in the region have been alerted and officials are working with financial intelligence units, including Tracfin, the French financial intelligence unit, to freeze assets linked to the case. Mayolas and his family members were convicted of money laundering, forgery, use of forged documents and embezzlement on 10 March by the court in Brazzaville, along with Fecofoot’s general secretary, Badji Mombo Wantete, and treasurer, Raoul Kanda. Wantete and Kanda were each sentenced to five years in prison. Fifa opened disciplinary proceedings against Mayolas, Wantete and Kanda last week for alleged financial misconduct. The charges under consideration include conflict of interest, forgery and improper acceptance of gifts after Fifa’s ethics committee received information and documents during a review. It has been alleged Mayolas, since being elected as president of Fecofoot in 2018, used a series of shell companies to embezzle funding from Fifa. According to a declaration signed by the presidents of every women’s club in the country’s top flight that was sent to the Congolese authorities in March, $20,000 of the $500,000 Fifa sent to Fecofoot in 2021 as part of its Covid-19 relief plan was paid out. Mayolas denied all the allegations before his disappearance, describing them as a conspiracy. Wantete also rejected the accusations. In 2015, they received six-month bans from Fifa for ethics violations related to gifts and benefits. Mayolas was suspended by the country’s sports ministry last year after being investigated for fraud. Fifa stepped in and banned Congo from international football for “third-party interference”, meaning that in March they had to forfeit World Cup qualifiers against Tanzania and Zambia, who were awarded 3-0 victories. Congo were reinstated when Fecofoot was permitted to resume control of its headquarters in Brazzaville, although Mayolas and Wantete were prevented from travelling to Fifa’s congress in Paraguay and arrested a few days later.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary reason for the international arrest warrant issued against Jean-Guy Blaise Mayolas?",
+          "options": {
+            "A": "His involvement in illegal international sports betting schemes.",
+            "B": "His failure to organize the World Cup qualifiers against Tanzania and Zambia.",
+            "C": "His conviction for misappropriating financial aid intended for football development.",
+            "D": "His persistent refusal to comply with the directives of the Congolese sports ministry."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到Mayolas因挪用（embezzling）110万美元的国际足联资金而被定罪，并被判处终身监禁，这与选项C描述的“挪用足球发展资金”相符。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The phrase 'tried in absentia' (paragraph 2) implies that Mayolas and his family:",
+          "options": {
+            "A": "Were granted immunity from attending the court proceedings.",
+            "B": "Were judged without being physically present in the courtroom.",
+            "C": "Intentionally avoided the legal hearing to protest its unfairness.",
+            "D": "Had their legal rights temporarily suspended due to the gravity of the crimes."
+          },
+          "answer": "B",
+          "explanation": "‘In absentia’是法律术语，意为“缺席审判”，即被告人不在场的情况下进行的庭审，与选项B的含义完全吻合。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What role did Tracfin play in the ongoing investigation according to the text?",
+          "options": {
+            "A": "It acted as the primary prosecutor in the Brazzaville court hearings.",
+            "B": "It served as a witness to the alleged conflict of interest.",
+            "C": "It collaborated with local authorities to help block access to the suspect's financial resources.",
+            "D": "It provided the evidence that led to the initial suspension of the Congolese football federation."
+          },
+          "answer": "C",
+          "explanation": "文中提到官员们正与金融情报机构（包括Tracfin）合作，目的是冻结（freeze）与此案有关的资产，即阻断对资金的使用，故选C。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the scandal impact Congo's international football status?",
+          "options": {
+            "A": "The country was permanently expelled from all Fifa-sanctioned events.",
+            "B": "Congo's team was forced to forfeit matches due to third-party administrative interference.",
+            "C": "The government was required to replace the entire leadership of Fecofoot by Fifa.",
+            "D": "The national team lost its ranking points after the federation president fled the country."
+          },
+          "answer": "B",
+          "explanation": "文章提到国际足联以“第三方干预”为由对刚果实施禁令，导致其被迫弃权（forfeit）对阵坦桑尼亚和赞比亚的世预赛，符合选项B。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following can be inferred about the $500,000 Covid-19 relief fund?",
+          "options": {
+            "A": "It was primarily used to settle the debts of various local women's football clubs.",
+            "B": "Only a negligible fraction of the allocated funds actually reached the intended recipients.",
+            "C": "It was the main source of the financial discrepancy that led to the initial ethics investigation.",
+            "D": "The entire amount was successfully recovered by the French financial intelligence unit."
+          },
+          "answer": "B",
+          "explanation": "根据文中提到的女子俱乐部主席签署的声明，50万美元的救助金中只有2万美元被支付出去了，说明绝大部分资金并未到达目标群体，即只有极小部分（negligible fraction）到达了，符合选项B。"
+        }
+      ]
+    },
+    {
+      "title": "Young Chinese-Irish ballroom dancer goes international",
+      "article_update_date": "04.16.2026",
+      "source_journal": "China Daily",
+      "body_text": "Kerry Sui and Francis Carty perform on the dance floor at Blackpool Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a 10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set to compete in Italy and perform on Chinese TV after winning the British juvenile ballroom championship. Kerry and Francis, who is also 10, won the British National Juvenile Ballroom trophy and took first prize last month in the juvenile Latin category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing. She started ballroom and Latin dancing four years ago and was partnered earlier this year with Francis, who lives in the English county of Shropshire. The two were friends before they performed together and Kerry said their friendship is one of the best things about her dancing partnership with Francis. Their hard work, under the guidance of teachers Laura O'Brien and David and Helen Truman, meant Kerry and Francis have seen quite a lot of success. \"When Francis is stressed, I can calm him down, because he hasn't really been in many big competitions, such as the nationals and internationals,\" Kerry said. \"My mum said I have to guide him.\" Francis said Kerry has a positive attitude and described her as always remaining upbeat. And they both have a dance that they like the least: the tango. \"The tango is like an angry dance, you have to be sharp,\" Kerry said. The dancers often visit each other's families and describe their friendship and their teachers' involvement as like being in a big family. She said a visit to China put a strain on the close bonds. \"I was in China for six weeks and there was a dance studio there where I would practice, but I felt lonely,\" Kerry said. Francis described the time they spent apart as \"horrible\". Kerry and Francis were training on Saturday in Wolverhampton, a city in England's West Midlands region, in advance of a competition in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall across parts of the United Kingdom. The pair head to Italy in January for a competition, before jetting off to China to appear on a TV show.",
+      "difficulty_constant": 4.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary focus of the text concerning Kerry Sui and Francis Carty?",
+          "options": {
+            "A": "Their struggles in balancing academic life and professional dance training.",
+            "B": "Their recent achievements and growing partnership in competitive ballroom dancing.",
+            "C": "The cultural challenges of being young immigrants in the United Kingdom.",
+            "D": "The history of the Blackpool Dance Festival and its international influence."
+          },
+          "answer": "B",
+          "explanation": "文章主要围绕两位10岁选手的舞蹈成就、合作关系以及未来的比赛与表演计划展开，选项B准确概括了文章核心。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, how does Kerry characterize her role in her partnership with Francis?",
+          "options": {
+            "A": "She acts as a disciplinarian to ensure he practices his steps.",
+            "B": "She relies on him to handle the technical aspects of the tango.",
+            "C": "She provides emotional stability and guidance due to her competition experience.",
+            "D": "She feels responsible for teaching him about Chinese culture."
+          },
+          "answer": "C",
+          "explanation": "文中提到Kerry说在Francis感到压力时她能安抚他，因为他缺乏大赛经验，且她妈妈也让她引导他，这对应了C选项。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the expression 'put a strain on' in the passage imply about the period when Kerry was in China?",
+          "options": {
+            "A": "It caused a significant decline in their dancing performance quality.",
+            "B": "It created difficulties or stress in maintaining their close connection.",
+            "C": "It led to a permanent misunderstanding between the two young partners.",
+            "D": "It improved their ability to perform independently without the other."
+          },
+          "answer": "B",
+          "explanation": "put a strain on在此处表示“给...造成压力/紧张”，文中描述他们分开时感到“孤独”和“horrible”，说明这段时间对他们的亲密关系造成了负面影响。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Why did the pair not compete in Stoke-on-Trent on the expected Sunday?",
+          "options": {
+            "A": "The competition was rescheduled for their upcoming trip to Italy.",
+            "B": "Francis suffered from a sudden illness due to the cold weather.",
+            "C": "The venue in Wolverhampton was unavailable for the event.",
+            "D": "Severe weather conditions forced the cancellation of the event."
+          },
+          "answer": "D",
+          "explanation": "文中明确提到：“The event was cancelled due to the heavy snowfall across parts of the United Kingdom.”"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the attitude of the two dancers toward the tango?",
+          "options": {
+            "A": "They consider it the most technically demanding and rewarding dance.",
+            "B": "They find its aggressive style and required sharpness less enjoyable.",
+            "C": "They are indifferent to it because it is not part of their competition category.",
+            "D": "They prefer it over the Latin category because it is less stressful."
+          },
+          "answer": "B",
+          "explanation": "文中提到两人最不喜欢的舞蹈是探戈，并描述其为“像一种愤怒的舞蹈，必须非常尖锐（sharp）”，可见他们对此态度并不积极。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 12",
+      "article_update_date": "04.26.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | Previous | The Republican Party Has a Nazi Problem How did the GOP become a haven for slogans and ideas straight out of the Third Reich? by Tom Nichols Over the past few months, during his agency’s chaotic crackdowns in Chicago and Minneapolis, the U.S. Border Patrol chief Greg Bovino has worn an unusual uniform: a wide-lapel greatcoat with brass buttons and stars along one sleeve. It looks like it was taken right off the shoulders of a Wehrmacht officer in the 1930s. Bovino’s choice of garment is more than tough-guy cosplay (German media noted the aesthetic immediately). The coat symbolizes a trend: The Republicans, it seems, have a bit of a Nazi problem. By this, I mean that some Republicans are deploying Nazi imagery and rhetoric, and espouse ideas associated with the Nazi Party during its rise to power in the early 1930s. A few recent examples: An ICE lawyer linked to a white-supremacist social-media account that praised Hitler was apparently allowed to return to federal court . Members of the national Young Republicans organization were caught in a group chat laughing about their love for Hitler . Vice President J. D. Vance shrugged off that controversy, instead of condemning the growing influence of anti-Semites in his party. (In December, at Turning Point USA’s conference, Vance said, “I didn’t bring a list of conservatives to denounce or to deplatform.”) Even federal agencies are modeling Nazi phrasing . The Department of Homeland Security used an anthem beloved by neo-Nazi groups, “By God We’ll Have Our Home Again,” in a recruitment ad. The Labor Department hung a giant banner of Donald Trump’s face from its headquarters, as if Washington were Berlin in 1936, and posted expressions on social media such as “America is for Americans”—an obvious riff on the Nazi slogan “Germany for the Germans”—and “Americanism Will Prevail,” in a font reminiscent of Third Reich documents. Trump, of course, openly pines to be a dictator. In his first term, he reportedly told his chief of staff, General John Kelly, that he wished he had generals who were as loyal as Hitler’s military leaders . (The president was perhaps unaware of how often the führer’s officers tried to kill him.) More recently, the White House’s official X account supported Trump’s pursuit of Greenland by posting a meme with the caption “Which way, Greenland man?” That is not merely a clunky turn of phrase; it’s an echo of Which Way Western Man? , the title of a 1978 book by the American neo-Nazi William Gayley Simpson, a former Presbyterian minister who called for America to expel its Jewish citizens. Read: ‘I need the kind of generals that Hitler had’ The people pushing such trash are offended by the accusation that they are pantomiming Nazis. “Calling everything you dislike ‘Nazi propaganda’ is tiresome,” a DHS spokesperson told Politico . But when even Laura Loomer—conspiracy theorist and ardent Trump supporter—says on social media that “the GOP has a Nazi problem,” then perhaps the GOP has a Nazi problem . The U.S. Border Patrol chief Greg Bovino in Minneapolis on January 15, 2026 (Octavio Jones / AFP / Getty) As a former Republican, I’m aware that the American conservative movement has spent generations fighting off intrusions from the far right, including the John Birchers and the Ku Klux Klan. But I am still surprised and aggrieved by how quickly 21st-century Nazism has found a home in the party of Lincoln. In 1991, President George H. W. Bush repudiated the former Klan leader David Duke, who was running as a Republican to be Louisiana’s governor. Today, Trump and his party haven’t bothered to even pretend to be appalled by the degenerates gathering under the GOP aegis. So how did a major American political party become a safe space for such people? When I first joined the GOP, in 1979, the party around me did not seem hospitable to Nazis. A liberal Black Republican, Edward Brooke, had just finished two terms as our junior senator from Massachusetts; the liberal Republicans Lowell Weicker and John Chafee represented Connecticut and Rhode Island, respectively. In college, I worked in the Massachusetts state House for our hometown representative, a young and principled working-class Democrat (my GOP membership was not a disqualifier; imagine that). I got to know Republican legislators on Beacon Hill because they were close friends with my Democratic boss. Party affiliations were about political disagreements among Americans, not markers of antithetical worldviews. I was, like many people then, a resolute ticket-splitter, voting often for local Democrats but always for Republican presidents, because I believed the national GOP was a moderate institution. Ronald Reagan, for example, disappointed the far right and his evangelical base by reducing nuclear weapons, leaving abortion rights largely untouched, and granting mass amnesty to undocumented immigrants (something I objected to at the time). I first encountered the fringe elements of the conservative base in 1990, when I went to work in the U.S. Senate for John Heinz of Pennsylvania. I remember fielding an angry phone call from a constituent who grilled me about whether the senator was part of a globalist one-world-government conspiracy. From the November 2018 issue: McKay Coppins on the man who broke politics The country and the GOP were in the hands of Bush, the ultimate moderate, but extremists were making inroads to power. The populist demagogue Pat Buchanan, crusading against modernity and multiculturalism, challenged Bush in 1992 and garnered 23 percent of the Republican-primary vote . Bush, in turn, gave him the stage at the Republican National Convention in Houston. Buchanan’s speech, which envisioned a “religious war” for the country, shocked many Americans. A few years later, Representative Newt Gingrich of Georgia carried Buchanan’s culture war into the House speakership. For Gingrich, politics was solely about winning ; his scorched-earth approach treated opponents as enemies and compromise as treason. He wanted votes, and wasn’t concerned about who was animated by his viciousness. Gingrich was eventually driven from the speakership; Buchanan left the Republican Party to run under the Reform Party, and then faded from public life. But an example had been set of welcoming extremism (extreme ideology, extreme tactics) for the sake of winning. Later Republican presidential nominees—good men such as John McCain and Mitt Romney—represented the moderate coalition that had brought people like me into the party. As they stood in the center of the GOP tent, they began to see who was now lurking in the back. In 2008, the nation saw too, when McCain had to defend Barack Obama as a “decent family man” to a delusional town-hall participant who had obviously imbibed racist right-wing propaganda. From the October 2022 issue: Kim Phillips-Fein on the long unraveling of the Republican Party Soon after McCain’s loss to Obama, the Tea Party movement barreled into American politics. I was among those appalled by the Tea Partiers’ juvenile public behavior and anti-government nihilism; others believed they represented a new grassroots movement and the future of the party. In the end, their revolt against government bailouts soured into a giant yawp of anger at the first Black president. By the time Romney was running against Obama, in 2012, Trump had launched his political career by pushing the “birther” lie, which capitalized on racial animus toward the 44th president. Rather than try to push Trump out of the tent, Romney accepted his endorsement. McCain came to be viewed as a traitor by the Republican base; Trump made that permissible by mocking his war-hero status. In his third run for office, Trump expanded his vote share despite embracing fascist themes of xenophobia, nationalism, and glorification of violence. I didn’t want to see what was happening to the Republican Party, until the durability of Donald Trump made it impossible to ignore. Was this a radical, unpredictable metamorphosis, or was a fascist tendency latent in the DNA of the party? To better understand the GOP in the years before I joined it, I arranged a Zoom call with Stuart Stevens, a native Mississippian and former Republican operative. Stevens, several years older than I am, joined the Republicans in his youth rather than the segregationist local Democrats, then bolted from the party because of Trump. I asked Stevens to tell me when and where the GOP went wrong, and whether the devolution into a haven for Nazis was inevitable. For Stevens, racism is the original sin of the modern Republican Party. White voters were alienated by the passage of the Civil Rights Act in 1964 and the violence around the 1968 Democratic primaries. As Black voters deserted Republicans, the segregationist George Wallace proved with his ’68 presidential run that white southerners were up for grabs. Richard Nixon made a cunning and cynical calculation to sweep up those disaffected white voters, using appeals to “law and order” to stoke racial anxiety. By the 1970s, the GOP was the de facto white party in the United States. Nixon and Reagan held racist views, as did many men of their generation. (Nixon was also an anti-Semite.) But they did not govern as racists, and they certainly weren’t Nazis; neither was Gingrich, Buchanan, or any national Republican over the past half century. But years of racial pandering had created a too-big tent, enlarged in the name of electoral expediency, that offered dark corners for despicable ideologies. Political realignment also made the GOP vulnerable to extremism. Democrats became appealing to wealthy suburbanites. Republicans, whose voters were now less educated and more working-class, gained among white voters in rural areas and the Rust Belt. Gerrymandering helped turn red districts redder and blue districts bluer. Democrats’ more diverse constituencies were a built-in trip wire against politicians who cozied up to extremists, while Republican-primary candidates—influenced by the rise of talk radio, Fox News, and the Tea Party—were not subjected to serious moderate challengers. Unprincipled and bizarre candidates could now thread a path to victory in ruby-red districts. Critics of the GOP have long argued that something like the Trump movement, and the emergence of a new American Nazism, was inevitable—that conservatism, as a belief system, inevitably decays into fascism. Stevens, when he left the party, wrote a book with a bitter title: It Was All a Lie . When I told him how often people quote his title to argue that conservatism itself was a lie, he rolled his eyes. “We conservatives were right about everything,” Stevens told me. “Especially about the importance of character.” I asked the writer Geoffrey Kabaservice, who has chronicled the decline of Republican moderates, whether the fall of the GOP was preordained, and why conservatism, once a moralizing movement, became so vulnerable to figures without moral character. “I don’t happen to believe that conservatism is one of those doctrines that is flawed from the get-go,” Kabaservice told me, “and certainly not in the American context, in which conservatism is a variation on core liberal principles.” In that sense, he said, Reaganism, the strongest vehicle of 20th-century American conservatism, didn’t lead directly to Trumpism—not least because Trump’s vulgar populism is “a repudiation of conservatism.” But Reagan’s dominance of the party may have indirectly set the stage for Trump. Kabaservice brought up the Prussian statesman Otto von Bismarck, who created a balance-of-power system that worked only because it relied on Bismarck’s personal influence and political genius; it collapsed without him. Likewise, Kabaservice argued, Reagan enjoined his party to leave room in the tent for moderates and to avoid ideological litmus tests, but the GOP needed Reagan’s “personal magnetism” to keep his followers from spiraling into hyper-partisanship, or even political fratricide. Without Reagan, the Reaganite coalition began to dissolve in the face of Buchanan’s angry populism and Gingrich’s cold opportunism. The Republican Party, as an institution, weakened over time, until it could be hijacked by an aspiring dictator. Republican leaders who warned against Trump in 2016—senators such as Ted Cruz, Lindsey Graham, and Mike Lee—soon discarded conservative principles to protect their jobs. Their eager amorality has",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the article, what is the author's primary concern regarding the current state of the Republican Party?",
+          "options": {
+            "A": "The party is losing its traditional base to the Democratic Party.",
+            "B": "The party has become a sanctuary for extremist rhetoric and Nazi-associated imagery.",
+            "C": "The party's leadership is failing to address economic issues in the Rust Belt.",
+            "D": "The party is being unfairly maligned by the media through conspiracy theories."
+          },
+          "answer": "B",
+          "explanation": "文章核心主旨在于探讨共和党为何逐渐接纳了纳粹相关的言论、形象以及思想，作者对此表示担忧和质疑。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following does the author cite as a turning point that encouraged extremism within the GOP for the sake of electoral success?",
+          "options": {
+            "A": "The rise of the Tea Party movement following the 2008 election.",
+            "B": "Newt Gingrich’s political strategy that emphasized winning above all else.",
+            "C": "Ronald Reagan’s decision to grant mass amnesty to undocumented immigrants.",
+            "D": "The 1991 rejection of David Duke by President George H. W. Bush."
+          },
+          "answer": "B",
+          "explanation": "文章提到纽特·金里奇将政治视为纯粹的胜负之争，其‘焦土政策’忽视了道德底线，为后续将极端主义纳入共和党奠定了先例。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author discusses the historical context of the GOP to illustrate that:",
+          "options": {
+            "A": "Conservative ideology is inherently flawed and prone to fascism.",
+            "B": "The party was always destined to be dominated by populists like Trump.",
+            "C": "The shift toward extremism was a gradual process exacerbated by political expediency.",
+            "D": "The party has maintained a consistent set of principles throughout the decades."
+          },
+          "answer": "C",
+          "explanation": "作者回顾历史旨在说明，共和党走向极端并非一日之功，而是经过数十年的政治投机、种族议题操弄以及对极端主义的宽容而演变的结果。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the author's interpretation of Geoffrey Kabaservice’s view on Reaganism?",
+          "options": {
+            "A": "Reaganism was a direct precursor to Trumpism.",
+            "B": "Reaganism was a failed doctrine that lacked moral substance.",
+            "C": "Reagan’s personal influence once kept the party's disparate elements in check, but the system collapsed without him.",
+            "D": "Reaganism was intentionally designed to alienate moderate voters."
+          },
+          "answer": "C",
+          "explanation": "文中援引Kabaservice的观点，将里根比作俾斯麦，强调里根依靠个人魅力维持党内平衡，而一旦失去这种核心影响力，党内冲突便加剧。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the phrase 'the durability of Donald Trump' imply in the context of the passage?",
+          "options": {
+            "A": "Trump’s ability to withstand political scrutiny and remain a dominant force in the party.",
+            "B": "Trump’s legal battles and his persistence in the federal court system.",
+            "C": "The physical resilience of the candidate during the presidential campaign.",
+            "D": "The long-standing support Trump has received from the Democratic establishment."
+          },
+          "answer": "A",
+          "explanation": "‘Durability’在此处指特朗普作为政治人物在面对诸多争议和丑闻时，依然能在共和党内保持强大影响力和生存能力。"
+        }
+      ]
+    }
+  ]
+}
