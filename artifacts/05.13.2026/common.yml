@@ -1,0 +1,553 @@
+group_update_date: 05.13.2026
+papers:
+- article_update_date: 04.29.2026
+  body_text: 'The international problem of weasel words Britain | More weaselly said
+    than done The international problem of weasel words Two countries divided by a
+    common language April 23rd 2026 The problem for the British soldiers was English
+    understatement. And, admittedly, the thousands of Chinese soldiers attacking them.
+    It was 1951, it was the Korean war and 29 Brigade had been asked to defend a hill.
+    Soon they were low on men, ammunition and hope. Things, their brigadier told his
+    American allies, were “a bit sticky”. In British army-speak that meant “critical”.
+    The Americans heard: we’re fine. And left him to it. America and Britain are two
+    nations divided by a common language. They are likely to be more divided than
+    usual when Donald Trump—a man who gilds most parts of the Oval Office, wears $5,000
+    suits and who, on social media, has called himself “THE KING”—meets Charles III,
+    an actual king, who gilds little, wears old, patched suits and once called the
+    prospect of kingship “ghastly”. It seems highly likely something will be lost
+    in translation. If only English speakers could agree on what phrases like “highly
+    likely” actually mean. They are all, it turns out, divided by our common language,
+    especially on words of “estimative probability”. Say “highly likely” and it is
+    highly likely, says Adam Kucharski, a mathematician who studied the matter, that
+    different people will hear it differently, with listeners assigning the event
+    it describes a probability of anywhere from 45% to 100%. It is probable that other
+    words are worse—like “probable” (for which a probability of 25% to 100% is assumed).
+    Nationality matters. Americans, Professor Kucharski found, offer “more optimism”.
+    But it is a realistic possibility (0% to 100%) that some phrases are almost meaningless.
+    Native speakers seem unqualified to use qualifiers. Happily help is at hand. Such
+    weasel words are so important in intelligence that organisations like Nato and
+    the British government have calibrated them. Each now has a numerical value—and
+    is used carefully. Thus when the king and THE KING meet there is only a remote
+    chance (no more than 5%) that it will go wrong. It is almost certain (95%-plus)
+    that, as long as they avoid tricky topics, like the joy of kingship, it will be
+    fine. Probably. ■ For more expert analysis of the biggest stories in Britain,
+    sign up to Blighty, our weekly subscriber-only newsletter. This article was downloaded
+    by zlibrary from https://www.economist.com//britain/2026/04/23/the-international-problem-of-weasel-words'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: 根据上下文，英军在朝鲜战争中被要求守卫阵地，故选 defend。
+    options:
+      A: monitor
+      B: abandon
+      C: defend
+      D: occupy
+    q_number: 1
+    stem: The problem for the British soldiers was English understatement. And, admittedly,
+      the thousands of Chinese soldiers attacking them. It was 1951, it was the Korean
+      war and 29 Brigade had been asked to _____ a hill.
+  - answer: A
+    explanation: 根据语义，美国人听到的解释是“我们很好”，符合语境中因为语言习惯差异造成的误解。
+    options:
+      A: heard
+      B: denied
+      C: resisted
+      D: concluded
+    q_number: 2
+    stem: 'Soon they were low on men, ammunition and hope. Things, their brigadier
+      told his American allies, were “a bit sticky”. In British army-speak that meant
+      “critical”. The Americans _____ : we’re fine.'
+  - answer: C
+    explanation: gild意为“镀金”，文中对比Trump的奢华与Charles的节俭，gilds对应原文。
+    options:
+      A: destroys
+      B: renovates
+      C: gilds
+      D: cleans
+    q_number: 3
+    stem: America and Britain are two nations divided by a common language. They are
+      likely to be more divided than usual when Donald Trump—a man who _____ most
+      parts of the Oval Office, wears $5,000 suits...—meets Charles III.
+  - answer: D
+    explanation: 两人因语言习惯不同导致理解偏差，即“lost in translation”（翻译中丢失了原意）。
+    options:
+      A: thought
+      B: memory
+      C: history
+      D: translation
+    q_number: 4
+    stem: It seems highly likely something will be lost in _____. If only English
+      speakers could agree on what phrases like “highly likely” actually mean.
+  - answer: A
+    explanation: Adam Kucharski作为数学家是对该问题进行了研究，故选studied。
+    options:
+      A: studied
+      B: ignored
+      C: solved
+      D: questioned
+    q_number: 5
+    stem: They are all, it turns out, divided by our common language, especially on
+      words of “estimative probability”. Say “highly likely” and it is highly likely,
+      says Adam Kucharski, a mathematician who _____ the matter, that different people
+      will hear it differently.
+  - answer: A
+    explanation: 括号内给出的数值是一个假定范围，assumed符合语境。
+    options:
+      A: assumed
+      B: debated
+      C: rejected
+      D: measured
+    q_number: 6
+    stem: It is probable that other words are worse—like “probable” (for which a probability
+      of 25% to 100% is _____).
+  - answer: C
+    explanation: 根据后文对比，美国人倾向于认为概率更高，故表现出乐观。
+    options:
+      A: cynicism
+      B: pessimism
+      C: optimism
+      D: skepticism
+    q_number: 7
+    stem: Nationality matters. Americans, Professor Kucharski found, offer “more _____”.
+  - answer: C
+    explanation: 根据前文提到的歧义，母语者似乎不具备正确使用限定词的能力，即unqualified。
+    options:
+      A: qualified
+      B: eager
+      C: unqualified
+      D: reluctant
+    q_number: 8
+    stem: But it is a realistic possibility (0% to 100%) that some phrases are almost
+      meaningless. Native speakers seem _____ to use qualifiers.
+  - answer: D
+    explanation: 为了消除歧义，组织对这些词进行了“校准”，calibrated意为校准。
+    options:
+      A: abandoned
+      B: overlooked
+      C: disputed
+      D: calibrated
+    q_number: 9
+    stem: Happily help is at hand. Such weasel words are so important in intelligence
+      that organisations like Nato and the British government have _____ them.
+  - answer: C
+    explanation: 这里指会面出错的几率很低，故用wrong。
+    options:
+      A: ahead
+      B: well
+      C: wrong
+      D: public
+    q_number: 10
+    stem: Each now has a numerical value—and is used carefully. Thus when the king
+      and THE KING meet there is only a remote chance (no more than 5%) that it will
+      go _____.
+  - answer: A
+    explanation: kingship被描述为ghastly，属于敏感/棘手的话题，用tricky。
+    options:
+      A: tricky
+      B: boring
+      C: fascinating
+      D: trivial
+    q_number: 11
+    stem: It is almost certain (95%-plus) that, as long as they avoid _____ topics,
+      like the joy of kingship, it will be fine.
+  - answer: B
+    explanation: 文章开篇点出英国人的understatement导致了沟通问题。
+    options:
+      A: complexity
+      B: understatement
+      C: verbosity
+      D: humor
+    q_number: 12
+    stem: The problem for the British soldiers was English _____. And, admittedly,
+      the thousands of Chinese soldiers attacking them.
+  - answer: D
+    explanation: 低弹药是战争语境的常见表述，文中明确提到ammunition。
+    options:
+      A: medicine
+      B: supplies
+      C: water
+      D: ammunition
+    q_number: 13
+    stem: Soon they were low on men, _____ and hope. Things, their brigadier told
+      his American allies, were “a bit sticky”.
+  - answer: D
+    explanation: 题目多次重复“divided by a common language”，这是文章核心论点。
+    options:
+      A: supported
+      B: connected
+      C: united
+      D: divided
+    q_number: 14
+    stem: And left him to it. America and Britain are two nations _____ by a common
+      language.
+  - answer: A
+    explanation: 对应原文Charles对王权的描述，ghastly意为可怕的。
+    options:
+      A: ghastly
+      B: delightful
+      C: magnificent
+      D: praiseworthy
+    q_number: 15
+    stem: meets Charles III, an actual king, who gilds little, wears old, patched
+      suits and once called the prospect of kingship “_____”.
+  - answer: B
+    explanation: 即便是母语者也难以对词义达成一致，agree。
+    options:
+      A: argue
+      B: agree
+      C: decide
+      D: debate
+    q_number: 16
+    stem: If only English speakers could _____ on what phrases like “highly likely”
+      actually mean.
+  - answer: B
+    explanation: 听者给事件赋予概率，assigning指赋予。
+    options:
+      A: ignoring
+      B: assigning
+      C: calculating
+      D: measuring
+    q_number: 17
+    stem: that different people will hear it differently, with listeners _____ the
+      event it describes a probability of anywhere from 45% to 100%.
+  - answer: D
+    explanation: 指某些词汇因歧义而变得没有实际意义，meaningless。
+    options:
+      A: essential
+      B: accurate
+      C: crucial
+      D: meaningless
+    q_number: 18
+    stem: But it is a realistic possibility (0% to 100%) that some phrases are almost
+      _____.
+  - answer: B
+    explanation: 在情报工作中非常关键，故选important。
+    options:
+      A: negligible
+      B: important
+      C: trivial
+      D: unnecessary
+    q_number: 19
+    stem: Such weasel words are so _____ in intelligence that organisations like Nato
+      and the British government have calibrated them.
+  - answer: B
+    explanation: 结尾用Probably呼应前文提到的“概率”话题的讽刺意味。
+    options:
+      A: Certainly
+      B: Probably
+      C: Unquestionably
+      D: Definitely
+    q_number: 20
+    stem: It is almost certain (95%-plus) that, as long as they avoid tricky topics,
+      like the joy of kingship, it will be fine. _____.
+  source_journal: Economist
+  title: The international problem of weasel words
+- article_update_date: 04.12.2026
+  body_text: 'Four men deported by the US to Eswatini and denied in-person legal counsel
+    for nine months while detained in a maximum security prison have the right to
+    see a local lawyer, Eswatini’s supreme court ruled. The men, from Cambodia, Cuba,
+    Vietnam and Yemen, were sent to the small southern African country, formerly known
+    as Swaziland, in July despite having no connection to the country, as part of
+    Donald Trump’s administration’s efforts to ramp up deportations. The US government
+    had labelled the men dangerous criminals. Their lawyers said they had already
+    served sentences for crimes committed in the US. Eswatini’s correctional services
+    refused to let a local lawyer see the men, although they allowed them to make
+    calls to their US lawyers, the lawyers said. The court rejected the government’s
+    argument that “the inmates persistently showed no interest” in meeting the human
+    rights lawyer Sibusiso Magnificent Nhlabatsi, in a judgment handed down on Thursday.
+    The three judges ruled: “There can be no real harm in granting the respondent
+    access to the detainees … it then will be up to the detainees, if they do not
+    wish to see the respondent, to tell this to the respondent to his face.” Of the
+    first five deportees, one was repatriated to Jamaica in September. Another 10
+    arrived in Eswatini in October, one of whom was repatriated to Cambodia on 26
+    March, and a further four last month. Alma David, a US lawyer for several of the
+    men, said: “The fact that it took nearly nine months of litigation and a decision
+    by the highest court of the land to obtain something as innocuous as permission
+    for my clients to meet with a local lawyer speaks volumes about how hard the government
+    of Eswatini is fighting to deny these men the most basic of rights.” The Eswatini
+    government spokesperson, Thabile Mdluli, did not immediately respond to a request
+    for comment. Previously, she has said: “The government of the Kingdom of Eswatini
+    has made every reasonable effort, in accordance with national laws and international
+    obligations, to ensure that the third-country nationals received from the United
+    States government are accommodated in conditions that respect their fundamental
+    rights and human dignity.” The US has deported dozens of people to third countries
+    from which they do not originate, including Ghana, South Sudan and Uganda. Human
+    rights lawyers and NGOs have labelled the deportations as a form of human trafficking.
+    A spokesperson for the US Department of Homeland Security said: “Allegations that
+    sending criminal illegal aliens to third country’s [sic] is a form of ‘human trafficking’
+    is insane. The Trump administration is utilizing all lawful options to carry out
+    the largest deportation operation in history, just as President Trump promised.”'
+  difficulty_constant: 8.4
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章明确提到Eswatini最高法院裁定这些被拘留者有权见当地律师，并驳回了政府拒绝其会见律师的理由，因此选项C最符合文意。
+    options:
+      A: It mandates their immediate repatriation to their countries of origin.
+      B: It declares the US deportation policy as a violation of international human
+        rights law.
+      C: It overturns the Eswatini government's decision to restrict the men's access
+        to local legal counsel.
+      D: It forces the US government to provide financial compensation for the men's
+        detention.
+    q_number: 1
+    stem: What is the primary significance of the Eswatini supreme court’s recent
+      ruling regarding the four men?
+  - answer: B
+    explanation: 文中指出这些人被送往该国，但与该国没有联系（having no connection to the country），且被关押在最高安全级别监狱中，故选B。
+    options:
+      A: They were relocated to Eswatini as part of a voluntary rehabilitation program.
+      B: They have no prior ties to Eswatini, yet they are held in a maximum-security
+        prison there.
+      C: They are considered citizens of Eswatini due to the US deportation agreements.
+      D: They have been granted the right to live freely in Eswatini after serving
+        their sentences.
+    q_number: 2
+    stem: What can be inferred about the men’s status in Eswatini according to the
+      text?
+  - answer: C
+    explanation: Alma David认为政府花费九个月诉讼仅为了获得基本的会见许可，这表明政府在极力剥夺这些人的基本权利，故选C。
+    options:
+      A: As a diligent attempt to uphold international justice and legal standards.
+      B: As a reluctant but lawful response to the pressures of the US administration.
+      C: As an obstructive effort to withhold even the most fundamental rights from
+        her clients.
+      D: As a confused bureaucratic process due to the lack of clear national laws.
+    q_number: 3
+    stem: How does Alma David characterize the government of Eswatini's handling of
+      the case?
+  - answer: A
+    explanation: 美国国土安全部发言人明确表示将关于“人口贩卖”的指控斥为“疯狂的”，并强调这是在执行“所有合法选项”，即认为其政策是合法且必要的，故选A。
+    options:
+      A: They argue that the policy is a necessary and legal component of their immigration
+        strategy.
+      B: They agree that human rights violations have occurred and promise an immediate
+        review.
+      C: They acknowledge the term 'human trafficking' but argue it is justified in
+        this context.
+      D: They remain silent on the matter and refuse to provide any official justification.
+    q_number: 4
+    stem: What is the stance of the US Department of Homeland Security regarding the
+      criticisms labeled against their deportation policy?
+  - answer: B
+    explanation: 法院认为允许律师进入不会造成实质性伤害，潜台词是政府以此作为拒绝理由是不成立的，即对政府安全担忧的否定，故选B。
+    options:
+      A: The court believes the lawyer represents a potential security risk to the
+        prison.
+      B: The court views the government’s security concerns as overstated and insufficient
+        to deny basic rights.
+      C: The court is implying that the detainees are not actually dangerous criminals.
+      D: The court intends to facilitate the future transfer of detainees to other
+        countries.
+    q_number: 5
+    stem: What is the implication of the court's statement that there is 'no real
+      harm' in granting access to detainees?
+  source_journal: The Guardian
+  title: Four men deported by US to Eswatini have right to see lawyer, court rules
+- article_update_date: 04.22.2026
+  body_text: 'Kerry Sui and Francis Carty perform on the dance floor at Blackpool
+    Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a
+    10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set
+    to compete in Italy and perform on Chinese TV after winning the British juvenile
+    ballroom championship. Kerry and Francis, who is also 10, won the British National
+    Juvenile Ballroom trophy and took first prize last month in the juvenile Latin
+    category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there
+    with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing.
+    She started ballroom and Latin dancing four years ago and was partnered earlier
+    this year with Francis, who lives in the English county of Shropshire. The two
+    were friends before they performed together and Kerry said their friendship is
+    one of the best things about her dancing partnership with Francis. Their hard
+    work, under the guidance of teachers Laura O''Brien and David and Helen Truman,
+    meant Kerry and Francis have seen quite a lot of success. "When Francis is stressed,
+    I can calm him down, because he hasn''t really been in many big competitions,
+    such as the nationals and internationals," Kerry said. "My mum said I have to
+    guide him." Francis said Kerry has a positive attitude and described her as always
+    remaining upbeat. And they both have a dance that they like the least: the tango.
+    "The tango is like an angry dance, you have to be sharp," Kerry said. The dancers
+    often visit each other''s families and describe their friendship and their teachers''
+    involvement as like being in a big family. She said a visit to China put a strain
+    on the close bonds. "I was in China for six weeks and there was a dance studio
+    there where I would practice, but I felt lonely," Kerry said. Francis described
+    the time they spent apart as "horrible". Kerry and Francis were training on Saturday
+    in Wolverhampton, a city in England''s West Midlands region, in advance of a competition
+    in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall
+    across parts of the United Kingdom. The pair head to Italy in January for a competition,
+    before jetting off to China to appear on a TV show.'
+  difficulty_constant: 5.4
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到“Their hard work, under the guidance of teachers... meant Kerry
+      and Francis have seen quite a lot of success”，明确指出他们的成功源于勤奋以及教练的指导。
+    options:
+      A: They have lived in the same city since they were born.
+      B: They have received professional guidance and worked hard together.
+      C: They were born into families with a professional dancing background.
+      D: They have won numerous international trophies before the Blackpool festival.
+    q_number: 1
+    stem: According to the passage, what is the main reason for the success of Kerry
+      and Francis?
+  - answer: B
+    explanation: 文中Kerry明确表示“When Francis is stressed, I can calm him down”以及“My mum
+      said I have to guide him”，说明她认为自己有责任在比赛压力下引导和安抚舞伴。
+    options:
+      A: She sees herself as a mentor who must handle all the stress.
+      B: She believes she needs to be the one who calms him down and guides him.
+      C: She thinks she is the more talented dancer in the pair.
+      D: She feels that she must carry the burden of their shared success alone.
+    q_number: 2
+    stem: How does Kerry view her role in the partnership with Francis?
+  - answer: C
+    explanation: 文中Francis描述Kerry时提到“Kerry has a positive attitude and described her
+      as always remaining upbeat”，根据语境positive（积极的）可以推断出upbeat意为乐观、开朗。
+    options:
+      A: Physically strong and energetic.
+      B: Strict and demanding during practice.
+      C: Cheerful and optimistic.
+      D: Skillful and highly technical.
+    q_number: 3
+    stem: What does the word "upbeat" most likely mean in the context of the passage?
+  - answer: C
+    explanation: 文章在提到Kerry在中国的经历时说“I was in China for six weeks... but I felt lonely”，紧接着Francis描述他们分开的时间为“horrible”，说明孤独感源于两人无法共同练习。
+    options:
+      A: Because the dance studio in China was not professional.
+      B: Because she was unable to communicate with her family there.
+      C: Because she was separated from her dance partner Francis.
+      D: Because the training in China was too difficult for her.
+    q_number: 4
+    stem: Why did Kerry feel "lonely" during her visit to China?
+  - answer: C
+    explanation: 文章结尾明确指出“The pair head to Italy in January for a competition, before
+      jetting off to China to appear on a TV show”，说明接下来的安排包括前往意大利参加比赛和去中国参加电视节目。
+    options:
+      A: They plan to stay in the UK for the rest of the winter.
+      B: They have cancelled all their future competitions due to weather.
+      C: They are scheduled to travel to Italy and China for professional engagements.
+      D: They will quit ballroom dancing to focus on their academic studies.
+    q_number: 5
+    stem: What can be inferred about the future schedule of the two dancers?
+  source_journal: China Daily
+  title: Young Chinese-Irish ballroom dancer goes international
+- article_update_date: 03.28.2026
+  body_text: 'Magazine Articles Why Are Some Women Training for Pregnancy Like It’s
+    a Marathon? He Leaked the Secrets of a Southeast Asian Scam Compound. Then He
+    Had to Get Out Alive Why Minnesota Can’t Do More to Stop ICE Your First Humanoid
+    Robot Coworker Will Probably Be Chinese You’ve Never Heard of China’s Greatest
+    Sci-Fi Novel For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable
+    Ones? Thousands of Companies Are Driving China’s AI Boom. A Government Registry
+    Tracks Them All China’s AI Boyfriend Business Is Taking On a Life of Its Own China’s
+    Renewable Energy Revolution Is a Huge Mess That Might Save the World She Was Given
+    Up by Her Chinese Parents—and Spent 14 Years Trying to Find a Way Back How China’s
+    ‘Crystal Capital’ Cornered the Market on a Western Obsession Chinese EV Batteries
+    Are Eating the World He Went to Prison for Gene-Editing Babies. Now He’s Planning
+    to Do It Again Trump Declared a Space Race With China. The US Is Losing True Patriots
+    Are Cashing In on the Apocalypse Scientists Thought Parkinson’s Was in Our Genes.
+    It Might Be in the Water A New Anonymous Phone Carrier Lets You Sign Up With Nothing
+    but a Zip Code Want This Hearing Aid? Well, Who Do You Know? Ruby Is Not a Serious
+    Programming Language OpenAI''s Fidji Simo Plans to Make ChatGPT Way More Useful—and
+    Have You Pay For It All of My Employees Are AI Agents, and So Are My Executives
+    Alex Karp Goes to War How KPop Demon Hunters Star EJAE Topped the Charts The Cure
+    Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI Parents Fell in Love
+    With Alpha School’s Promise. Then They Wanted Out The Future of AI Isn’t Just
+    Slop Why AI Breaks Bad Programming in Assembly Is Brutal, Beautiful, and Maybe
+    Even a Path to Better AI Gear for Good: 20 Eco-Friendly Items That Score a Win
+    for the Planet—and for You The Real Stakes, and Real Story, of Peter Thiel’s Antichrist
+    Obsession The Story of DOGE, as Told by Federal Workers The 22 Very Online Upstarts
+    Changing the Face of Politics She Fought the Far Right Online for Years. Now She
+    Wants to Do It in Congress I Thought I Knew Silicon Valley. I Was Wrong Elon Musk
+    Is Out to Rule Space. Can Anyone Stop Him? One Vigilante, 22 Cell Tower Fires,
+    and a World of Conspiracies The Superyacht, the Billionaire, and a Wildly Improbable
+    Disaster at Sea The Baby Died. Whose Fault Is It? What It’s Like Watching Dozens
+    of Bodies Decompose (for Science) Why Did a $10 Billion Startup Let Me Vibe-Code
+    for Them—and Why Did I Love It? AI Isn’t Coming for Hollywood. It''s Already Arrived
+    Lisa Su Runs AMD—and Is Out for Nvidia’s Blood Psychedelic Therapy Crashed and
+    Burned. MAHA Might Bring It Back Bryan Johnson Is Going to Die Life Without Screens:
+    This Camp Is a Teen’s Worst Nightmare A Head-to-Toe Breakdown of Social Media’s
+    Billion-Dollar Remedies Who Controls Your Health? Test Your Knowledge of the MAHA
+    Movement The Next Thing You Smell Could Ruin Your Life Does Anyone Know What ‘Wellness’
+    Means Anymore? How Trump Killed Cancer Research Animals Are the Original Wellness
+    Influencers Where Are All the AI Drugs? The Enshittification of American Power
+    Cloning Came to Polo. Then Things Got Truly Uncivilized I Let AI Agents Plan My
+    Vacation—and It Wasn''t Terrible My Couples Retreat With 3 AI Chatbots and the
+    Humans Who Love Them How to Beat Jet Lag'
+  difficulty_constant: 7.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: A
+    explanation: A significant portion of the article titles, such as 'He Went to
+      Prison for Gene-Editing Babies. Now He’s Planning to Do It Again,' and multiple
+      titles related to AI ('Your First Humanoid Robot Coworker Will Probably Be Chinese,'
+      'China’s AI Boyfriend Business Is Taking On a Life of Its Own,' 'OpenAI's Fidji
+      Simo Plans to Make ChatGPT Way More Useful—and Have You Pay For It,' 'All of
+      My Employees Are AI Agents, and So Are My Executives,' 'Why AI Isn't Coming
+      for Hollywood. It's Already Arrived,' 'I Let AI Agents Plan My Vacation—and
+      It Wasn't Terrible,' 'My Couples Retreat With 3 AI Chatbots and the Humans Who
+      Love Them'), point towards the ethical and developmental aspects of these emerging
+      technologies.
+    options:
+      A: The ethical implications of gene editing and AI development.
+      B: The economic impact of renewable energy in developing nations.
+      C: The challenges of international relations between the US and China.
+      D: The growing influence of social media on political discourse.
+    q_number: 1
+    stem: The article titles suggest that which of the following is a recurring theme
+      in recent discussions?
+  - answer: C
+    explanation: While many titles highlight the rapid advancements and new applications
+      of AI (e.g., 'China’s AI Boyfriend Business,' 'AI Isn’t Coming for Hollywood,'
+      'AI Agents Plan My Vacation'), others hint at negative aspects or complexities
+      ('Why AI Breaks Bad,' 'The Future of AI Isn’t Just Slop,' 'He Also Gets Paid
+      to Hate AI'). This suggests a nuanced view that explores both the positive and
+      negative facets of AI's development and integration.
+    options:
+      A: Unreservedly optimistic about its potential to solve global problems.
+      B: Deeply concerned about its potential for misuse and unintended consequences.
+      C: Balanced, acknowledging both the promise and the perils of AI.
+      D: Skeptical about its long-term viability and impact.
+    q_number: 2
+    stem: Based on the provided titles, what can be inferred about the author's perspective
+      on technological advancement, particularly AI?
+  - answer: B
+    explanation: The titles span a broad spectrum of contemporary issues, including
+      cutting-edge technology (AI, robotics, gene editing, EV batteries), global politics
+      and international relations (US-China, ICE), societal trends (wellness, dating,
+      parenting), and even unique human interest stories. This breadth indicates an
+      interest in covering relevant and evolving aspects of modern life and technology.
+    options:
+      A: Niche scientific research and historical analysis.
+      B: Current events, technology, and societal trends.
+      C: Personal finance and investment strategies.
+      D: Arts, literature, and cultural criticism.
+    q_number: 3
+    stem: 'The diverse range of topics covered in the article titles implies that
+      the publication aims to appeal to a readership interested in:'
+  - answer: C
+    explanation: The title 'China’s Renewable Energy Revolution Is a Huge Mess That
+      Might Save the World' directly conveys a sense of significant challenge ('Huge
+      Mess') intertwined with a potentially world-altering outcome ('Might Save the
+      World'), suggesting an urgent and critical situation.
+    options:
+      A: The development of premium watches.
+      B: The marketing of K-Pop stars.
+      C: The renewable energy sector in China.
+      D: The adoption of humanoid robots in the workplace.
+    q_number: 4
+    stem: Which of the following topics, judging by the titles, is presented with
+      a sense of urgency or potential crisis?
+  - answer: A
+    explanation: 'These titles touch upon unconventional subjects: DOGE relates to
+      cryptocurrency and internet phenomena, while the cell tower fires and conspiracies
+      delve into fringe beliefs and unusual events. This combination points to an
+      interest in examining how modern phenomena, including online culture and mistrust,
+      intersect with economic and social realities.'
+    options:
+      A: Exploring the intersection of finance, internet culture, and conspiracy theories.
+      B: Analyzing the formal structures of government agencies.
+      C: Documenting the history of emerging technologies.
+      D: Promoting scientific breakthroughs in cellular biology.
+    q_number: 5
+    stem: 'The inclusion of topics like ''The Story of DOGE, as Told by Federal Workers''
+      and ''One Vigilante, 22 Cell Tower Fires, and a World of Conspiracies'' suggests
+      an interest in:'
+  source_journal: Wired
+  title: Chapter 3
