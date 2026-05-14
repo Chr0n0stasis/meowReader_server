@@ -45,7 +45,7 @@ articles:
   is_used: false
   title: The American Revolution Wasn’t the Main Event
 - id: epub_30
-  is_used: true
+  is_used: false
   title: The Idea That Reshaped Identity Politics Has a Complicated Backstory
 - id: epub_31
   is_used: false
@@ -74,8 +74,8 @@ articles:
 - id: epub_137
   is_used: false
   title: Chapter 137
-capture_date: 05.10.2026
+capture_date: 05.14.2026
 journal_name: New Yorker
-publish_date: 05.10.2026
+publish_date: 05.14.2026
 source_type: github
 update_frequency: monthly

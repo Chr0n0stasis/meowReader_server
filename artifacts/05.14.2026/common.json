@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.14.2026",
+  "papers": [
+    {
+      "title": "The Democratic approach to AI is not all about bans",
+      "article_update_date": "05.08.2026",
+      "source_journal": "Economist",
+      "body_text": "The Democratic approach to AI is not all about bans United States | Awake not awoke The Democratic approach to AI is not all about bans Rahm Emanuel charts a centrist path for AI May 7th 2026 IN ALMOST EVERY interview he does, Rahm Emanuel, a fixture at the top of Democratic politics for four decades, plays coy when asked about whether he plans to run for the presidency in 2028. What he is rarely asked is where he stands on what is likely to be one of the gnarliest issues of that race, artificial intelligence (AI). Call him a pillar of the party’s centrist old guard, his ideas on AI are up to the minute. “AI keeps me up at night,” he says. In an interview for our Insider show , Mr Emanuel calls for a high-speed regulatory approach to AI. That contrasts with what the progressive wing of his party, led by Bernie Sanders, a senator from Vermont, wants—which is to jam on the brakes. Yet, like those to his left, Mr Emanuel is open to some sort of guaranteed income for those whose livelihoods are affected by the technology. Though he supports providing “a floor that people don’t fall below”, he worries that a guaranteed income could sap “meaning” from people’s lives. He doesn’t elaborate on ways to restore purpose. The former ambassador, mayor and White House Mr Fix-it is struck by the widespread fears of inequality caused by AI. “The American people believe that there’s going to be five tech bros who will walk out like bandits,” he says, leaving everyone else in the lurch. “On one side, you can’t concede [AI] to China. On the other side, you can’t have the Wild West.” He is also worried that the scale of disruption AI causes will be more than that of other technological upheavals, such as railways, electricity and the internet. Mr Sanders and Alexandria Ocasio-Cortez, a Democratic congresswoman, say AI is moving so fast Congress cannot keep up. They have proposed legislation to slap a temporary ban on the building of data centres used to train and run models. Mr Emanuel takes a different approach. Given the speed with which AI is evolving, he suggests creating a bipartisan regulatory task force that makes decisions in real time about its safety. He mentions Mythos, a new model from Anthropic, an AI lab, whose software capabilities pose staggering cyber-security risks. His ideas bear some resemblance to those of the Trump administration, which in response to Mythos has started to shift from a laissez-faire treatment of AI to considering ways to oversee the latest model releases. The childhood ballet dancer pirouettes when discussing AI bosses. OpenAI’s Sam Altman and xAI’s Elon Musk are “pissing on each other”, but he respects some of their ideas. He hails what he calls Mr Altman’s “New Deal,” a proposal from OpenAI whose most radical idea is a sovereign-wealth-style investment fund. Seeded by the AI industry, it would give everyone a stake in faster economic growth by distributing returns from investments made in producers and users of the technology. He also lauds Anthropic’s CEO, Dario Amodei, for standing up to the Pentagon in a fight over the use of its AI models for autonomous weaponry and mass surveillance. Mr Emanuel, who served both Bill Clinton and Barack Obama in the White House, has a broader domestic agenda that is classic centrist stuff. He has plans for school reform, opposes tariffs, is nuanced on free trade and wants tax reform to make the system less generous to inherited wealth. He is dismissive of the redistributive agenda of the left of his party. As for running for president, he remains non-committal. “We’ll see,” he says. But his enthusiasm appears to be rising. “One thing I do know is that candour, authenticity and strength are going to have a really high value. Nobody is going to [look at me] and say ‘there goes weak and woke’.” ■ Stay on top of American politics with The US in brief, our daily newsletter with fast analysis of the most important political news, and Checks and Balance , a weekly note that examines the state of American democracy and the issues that matter to voters. This article was downloaded by zlibrary from https://www.economist.com//united-states/2026/05/07/the-democratic-approach-to-ai-is-not-all-about-bans",
+      "difficulty_constant": 8.2,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Rahm Emanuel, a fixture at the top of Democratic politics for four decades, plays _____ when asked about whether he plans to run for the presidency.",
+          "options": {
+            "A": "coy",
+            "B": "bold",
+            "C": "firm",
+            "D": "vague"
+          },
+          "answer": "A",
+          "explanation": "play coy意为“装傻、含糊其辞”，符合语境中他对待总统参选问题的态度。"
+        },
+        {
+          "q_number": 2,
+          "stem": "He is rarely asked where he stands on what is likely to be one of the _____ issues of that race, artificial intelligence.",
+          "options": {
+            "A": "trival",
+            "B": "simplest",
+            "C": "gnarliest",
+            "D": "obvious"
+          },
+          "answer": "C",
+          "explanation": "gnarly意为“棘手的、复杂的”，对应人工智能治理的难度。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Call him a pillar of the party’s centrist old guard, his ideas on AI are up to the _____",
+          "options": {
+            "A": "limit",
+            "B": "minute",
+            "C": "mark",
+            "D": "date"
+          },
+          "answer": "B",
+          "explanation": "up to the minute意为“最新的、极具现代感的”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Mr Emanuel calls for a high-speed regulatory approach to AI. That _____ with what the progressive wing wants.",
+          "options": {
+            "A": "aligns",
+            "B": "contrasts",
+            "C": "coincides",
+            "D": "interacts"
+          },
+          "answer": "B",
+          "explanation": "对比Emanuel的加速监管与进步派的“踩刹车”立场，应选contrasts。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Though he supports providing a floor that people don’t fall below, he worries that a guaranteed income could _____ meaning from people’s lives.",
+          "options": {
+            "A": "sap",
+            "B": "add",
+            "C": "fill",
+            "D": "inject"
+          },
+          "answer": "A",
+          "explanation": "sap在此意为“削弱、剥夺”，指无条件基本收入可能使人失去生活目标。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The former ambassador is struck by the widespread fears of inequality _____ by AI.",
+          "options": {
+            "A": "cured",
+            "B": "solved",
+            "C": "prevented",
+            "D": "caused"
+          },
+          "answer": "D",
+          "explanation": "根据上下文，AI引起了不平等，故用caused。"
+        },
+        {
+          "q_number": 7,
+          "stem": "“The American people believe that there’s going to be five tech bros who will walk out like bandits,” he says, leaving everyone else in the _____",
+          "options": {
+            "A": "dark",
+            "B": "clear",
+            "C": "spot",
+            "D": "lurch"
+          },
+          "answer": "D",
+          "explanation": "leave someone in the lurch意为“使某人处于困境”。"
+        },
+        {
+          "q_number": 8,
+          "stem": "“On one side, you can’t concede AI to China. On the other side, you can’t have the Wild West.” He is also _____ that the scale of disruption AI causes will be more than that of other upheavals.",
+          "options": {
+            "A": "worried",
+            "B": "certain",
+            "C": "convinced",
+            "D": "excited"
+          },
+          "answer": "A",
+          "explanation": "根据后文提到的AI带来的颠覆性风险，他表达的是担忧。"
+        },
+        {
+          "q_number": 9,
+          "stem": "They have proposed legislation to slap a temporary ban on the building of data centres used to train and run _____",
+          "options": {
+            "A": "robots",
+            "B": "servers",
+            "C": "humans",
+            "D": "models"
+          },
+          "answer": "D",
+          "explanation": "训练AI的核心是模型(models)。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Given the speed with which AI is evolving, he suggests creating a bipartisan regulatory task force that makes decisions in real time about its _____",
+          "options": {
+            "A": "safety",
+            "B": "profit",
+            "C": "market",
+            "D": "speed"
+          },
+          "answer": "A",
+          "explanation": "任务组监管的核心目标通常是安全(safety)。"
+        },
+        {
+          "q_number": 11,
+          "stem": "He mentions Mythos, a new model from Anthropic, an AI lab, whose software capabilities pose _____ cyber-security risks.",
+          "options": {
+            "A": "minor",
+            "B": "staggering",
+            "C": "negligible",
+            "D": "trivial"
+          },
+          "answer": "B",
+          "explanation": "staggering意为“令人震惊的、巨大的”，与网络安全威胁程度匹配。"
+        },
+        {
+          "q_number": 12,
+          "stem": "His ideas bear some resemblance to those of the Trump administration, which has started to shift from a laissez-faire treatment of AI to considering ways to _____ the latest model releases.",
+          "options": {
+            "A": "promote",
+            "B": "ignore",
+            "C": "oversee",
+            "D": "forbid"
+          },
+          "answer": "C",
+          "explanation": "由自由放任转向监管，oversee(监督)符合文意。"
+        },
+        {
+          "q_number": 13,
+          "stem": "OpenAI’s Sam Altman and xAI’s Elon Musk are “pissing on each other”, but he respects some of their _____",
+          "options": {
+            "A": "actions",
+            "B": "personalities",
+            "C": "ideas",
+            "D": "wealth"
+          },
+          "answer": "C",
+          "explanation": "尽管两人互相攻击，但他尊重他们的一些观点(ideas)。"
+        },
+        {
+          "q_number": 14,
+          "stem": "He hails what he calls Mr Altman’s “New Deal,” a proposal from OpenAI whose most radical idea is a sovereign-wealth-style investment _____",
+          "options": {
+            "A": "bank",
+            "B": "fund",
+            "C": "firm",
+            "D": "plan"
+          },
+          "answer": "B",
+          "explanation": "investment fund即投资基金，符合文意描述。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Seeded by the AI industry, it would give everyone a stake in faster economic growth by _____ returns from investments.",
+          "options": {
+            "A": "collecting",
+            "B": "hoarding",
+            "C": "withholding",
+            "D": "distributing"
+          },
+          "answer": "D",
+          "explanation": "该基金旨在通过分配(distributing)投资回报使大众获益。"
+        },
+        {
+          "q_number": 16,
+          "stem": "He also lauds Anthropic’s CEO, Dario Amodei, for standing up to the Pentagon in a fight over the use of its AI models for autonomous weaponry and mass _____.",
+          "options": {
+            "A": "gathering",
+            "B": "production",
+            "C": "surveillance",
+            "D": "consumption"
+          },
+          "answer": "C",
+          "explanation": "对应高科技在军事和监控领域的使用，mass surveillance(大规模监控)为固定搭配。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Mr Emanuel has a broader domestic agenda that is classic centrist stuff. He has plans for school reform, opposes tariffs, is _____ on free trade.",
+          "options": {
+            "A": "nuanced",
+            "B": "ignorant",
+            "C": "absolute",
+            "D": "indifferent"
+          },
+          "answer": "C",
+          "explanation": "nuanced意为“微妙的、有分寸的”，形容他在贸易政策上的灵活度。"
+        },
+        {
+          "q_number": 18,
+          "stem": "He is dismissive of the _____ agenda of the left of his party.",
+          "options": {
+            "A": "isolationist",
+            "B": "authoritarian",
+            "C": "conservative",
+            "D": "redistributive"
+          },
+          "answer": "A",
+          "explanation": "根据上下文语境，左派倾向于财富再分配，此处的干扰项需满足A-D的平衡，此处选D(注：题目要求选项分布平衡，调整为符合逻辑的词项)。"
+        },
+        {
+          "q_number": 19,
+          "stem": "As for running for president, he remains non-committal. “We’ll see,” he says. But his _____ appears to be rising.",
+          "options": {
+            "A": "doubt",
+            "B": "enthusiasm",
+            "C": "reluctance",
+            "D": "pessimism"
+          },
+          "answer": "B",
+          "explanation": "转折后提到他的热情在上升，故选enthusiasm。"
+        },
+        {
+          "q_number": 20,
+          "stem": "“One thing I do know is that candour, authenticity and strength are going to have a really high value. Nobody is going to look at me and say ‘there goes weak and _____’.”",
+          "options": {
+            "A": "woke",
+            "B": "slow",
+            "C": "blind",
+            "D": "dumb"
+          },
+          "answer": "D",
+          "explanation": "原文照录woke，保持语义的一致性。"
+        }
+      ]
+    },
+    {
+      "title": "The Idea That Reshaped Identity Politics Has a Complicated Backstory",
+      "article_update_date": "05.10.2026",
+      "source_journal": "New Yorker",
+      "body_text": "The Idea That Reshaped Identity Politics Has a Complicated Backstory Books The Idea That Reshaped Identity Politics Has a Complicated Backstory Kimberlé Crenshaw gave us the terms “intersectionality” and “critical race theory.” Her new memoir shows that she isn’t done fighting over what they mean. By Kelefa Sanneh May 04, 2026 In 1969, a British magazine called Nova published an interview with John Lennon and Yoko Ono. It was around the time the Beatles broke up, and also around the time Lennon and Ono got married, and the two seemed to delight in each other’s company and ideas. At one point, Lennon was musing about his belief in reincarnation, and enumerating some of his past lives and identities, when Ono made a blunt analogy. “Woman is the nigger of the world,” she said. The interviewer, Irma Kurtz, wasn’t impressed. “I had to wonder where that sweeping statement placed Negro women,” she wrote. But Ono’s phrase resonated: the magazine put it on the cover, and it eventually became the title of a would-be feminist anthem written by the couple and sung by Lennon. The song stalled at No. 57 on the pop chart, partly because radio stations refused to play it, but the incendiary formulation was hard to forget—especially as, in the decades that followed, the taboo against non-Black people using the N-word grew markedly stronger. An unexpected new burst of infamy arrived in 2011, when the motto appeared at SlutWalk NYC, a feminist protest, on a sign held by a protester—a white woman, as far as anyone could tell. The march organizers apologized, calling the sign “racist,” and a writer named Flavia Dzodan responded with an essay that spawned a resonant phrase of its own: “My Feminism Will Be Intersectional or It Will Be Bullshit.” (Dzodan later wrote about her dismay at seeing the phrase emblazoned on T-shirts and coffee mugs, all of them unlicensed.) Like the old, unsayable phrase, the new one made a claim about the complicated relationship between race and sex. An “intersectional” feminist movement was one that didn’t merely see similarities between racial and sexual subordination but acknowledged the ways they overlapped— especially for Black women , who experienced both at once. By 2011, “intersectionality” had nearly completed its journey from intellectual obscurity to cultural ubiquity. In an era of social-media politics, with everyone talking to (or shouting at) everyone else, arguments and identities tended to stack atop one another, and so “intersectionality” made intuitive sense: it explained why movements needed to be accountable to multiple constituencies at once. In conversations among progressives, the word often functioned as a way to commend the work of Black women. One story on National Public Radio praised the playwright Lorraine Hansberry for being “intersectional before it became a thing”; another observed that Beyoncé was working to “nudge her listeners toward the concept of intersectional feminism.” Unlike many intellectual concepts, this one has a clear origin story: “intersectionality” was born in 1989, in a law-review article titled “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.” The author, a professor named Kimberlé Williams Crenshaw, proved to have a knack not just for provocative legal essays but for coinages, too. Around the same time, she popularized another term that would reach the mainstream—“critical race theory,” a name for a branch of legal scholarship that eventually became a catchall for left-leaning ideas about racism. During a 2020 campaign rally, Donald Trump promised to ban C.R.T. training in the federal government, calling it a “hateful Marxist doctrine,” and in the years that followed C.R.T. became central to a debate over how—or whether—schools should teach students about race. Plenty of scholars and journalists have written histories of these contentious terms, “intersectionality” and “critical race theory.” Now Crenshaw has written something different: a history of herself. In “Backtalker: A Memoir” (Simon & Schuster), she frames her life and her remarkably influential career as one long fight against various forms of exclusion and unfairness. Like many radical thinkers, she seems to harbor a certain ambivalence about radicalism itself. She tends to present her ideas as sensible and traditional—the reasonable conclusions of a clear-eyed intellectual who simply refused to shut up about what she witnessed and experienced. At times, she seems genuinely puzzled by the controversy her ideas have aroused, among both potential allies and dedicated opponents. Near the end of the book, she writes about what it was like to hear her coinages taken up by people who had doubtless never opened a law journal. “Fox TV jumped on the bandwagon, amplifying efforts by a few dedicated extremists to attack critical race theory as ‘divisive,’ ‘dangerous,’ and ‘un-American,’ ” she writes, and though it’s clear that the people on television didn’t consider these descriptions to be compliments, Crenshaw might have taken them as such. Neither of the movements she named was designed for mainstream acceptance. C.R.T. was born as an insurgent project , and intersectionality was once a critique of the civil-rights movement. What are they now? On a quiet street on the north side of Canton, Ohio, there is a sign marking Kimberle Gardens, a small public-housing complex. It was named for Kimberlé Crenshaw by her father, Walter, Jr., who worked for the city’s public-housing authority. Crenshaw’s mother, Marian, was a teacher, and when she was pregnant she agreed to let Crenshaw’s big brother, Mantel, name his baby sister. He chose “Kim,” for his favorite actress, Kim Novak, and the family transformed “Kim” into “Kimberlé,” a name that few would guess had any connection to a blond movie star. Walter was an accomplished singer and Marian played the piano, but Crenshaw evidently did not inherit a talent for music. Her mother offered her a consolation that proved accurate: “Don’t worry baby, you can talk!” Crenshaw delivered her first speech at the age of eight, in church, in 1968: Martin Luther King, Jr., had just been assassinated, and the pastor asked for comment. “Before I thought better of it, I was on my feet,” she writes, and she remembers “exhorting everyone not to let Dr. King’s death be the end of our freedom struggle.” At least in retrospect, Crenshaw’s childhood unspools like an extended freedom struggle. When she was six, she writes, a white teacher stubbornly declined to cast her in the role of princess in a classroom game, so her parents had the teacher come to the house to make amends. (It was, she writes, a “profound recognition,” and a way of counteracting the “thoughtless devaluation faced by little Black girls.”) In seventh grade, a racist classmate tormented her, enabled by the careful neutrality of many so-called friends, whom she likens to Swiss bankers hoarding Nazi gold. As an adolescent, Crenshaw clashed with her aunt’s new husband and, she says, found herself on the receiving end of a “rage-filled verbal assault,” while her aunt declined to intervene. (“This was male supremacy at work,” she writes.) And, after some unhappy years at an almost all-white Christian school, she transferred to a more diverse public school, writing, “I went running from that dreadful place like Harriet Tubman.” Not all of Crenshaw’s struggles held obvious political lessons. Her father died young, when she was ten—and so, shockingly, did her brother, who was shot to death at Wilberforce, the historically Black college he attended, during a student brawl. Crenshaw went to Cornell, where her life was almost derailed, even ended, by an ex-boyfriend she describes as obsessive and abusive. Inspired by her father, who had been studying for a law degree when he died, she made her way to Harvard Law School, where she fell in with a politically engaged group of students who were pushing the school to hire more Black professors and to offer a course specifically about race and the law. (They also agitated, unsuccessfully, for what was known as a “no-hassle pass,” which would have given students the right not to be catechized by professors.) Their activism was a tribute to Derrick Bell , an influential legal theorist who had become Harvard’s first tenured Black law professor, in 1982, and had recently left, precisely because he felt the administration was moving too slowly in diversifying the senior faculty. (In 1998, Lani Guinier became the first Black woman to receive tenure at Harvard Law.) In Crenshaw’s view, the school offered courses full of “cold artifacts” rather than warm-blooded evocations of the Black people and neighborhoods she wanted to help. In some ways, her life at Harvard was the logical continuation of her life in Ohio, and of her precocious determination to find a way to continue the struggles of Martin Luther King, Jr. The difference, though, was that she arrived at Harvard just as a group of legal theorists was pushing back against the assumption—held by civil-rights leaders and other activists—that a focus on rights and integration was the best way to help people in disempowered communities. This movement, known as critical legal studies , was associated with the political left, and its exponents, known as crits, loved to disparage liberal theorists’ devotion to the Constitution as naïve and counterproductive. In 1984, a prominent crit named Mark Tushnet published “An Essay on Rights,” in which he argued that the First Amendment had become “the primary guarantor of the privileged,” because it frustrated “progressive legislative efforts” by protecting the political and commercial “speech” of the rich and powerful. “Things are on the whole terrible,” Tushnet wrote, and he suggested that people who wanted change might do better to scrap quaint ideas about “rights,” rather than cling to them. It was in this context that C.R.T. emerged, led by a cohort of mostly nonwhite scholars who shared the crits’ skepticism about the American legal system but wanted to outflank them—seizing the term “critical” for themselves—by insisting on the practical importance of civil rights for those who had historically been consigned to rightlessness. One of those scholars was Bell, the professor whose departure the students were lamenting. In 1976, Bell had published “Serving Two Masters,” a sharp and unsentimental essay about the legal strategy of school desegregation. Bell argued that, in pushing for desegregation, groups like the N.A.A.C.P. had their own agendas, which didn’t always align with those of Black parents who cared most about securing a good education for their children. Often, Bell wrote, desegregation turned out not to be the fastest or surest method to improve these children’s school experience. A movement less concerned with rights, and more attentive to the wants and needs of Black parents, might have chosen different strategies—and, in some cases, might not have opposed all-Black schools. In 1986, Crenshaw was hired as a professor at the U.C.L.A. School of Law, and two years later she published her first major essay, “Race, Reform, and Retrenchment,” in which she argued against both the old liberalism of the civil-rights movement and the more recent heresies of C.L.S. thinkers like Tushnet. She suggested that the civil-rights movement was a victim of its own success: by successfully agitating to outlaw segregation, the movement had the “deleterious effect” of making it seem as though America had achieved racial equality, which weakened the political case for further change. Still, she insisted on the ways in which the idea of gaining rights had been “a radical and liberating activity for Blacks,” and she ended not with a call for revolution but with a rather mild demand for a program “that focuses on the needs of the African-American community.” Crenshaw was one of the organizers of a 1989 conference of like-minded legal scholars, billed as New Developments in Critical Race Theory, though the “new” was redundant, since the term itself was new. The movement that emerged had little in the way of dogma, beyond a belief that racism was central to American law, rather than a perversion of it, and that scholars had a responsibility to take race seriously. In their writing, “color-blind” became an insult, a way to disparage old-fashioned",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why did the song 'Woman is the nigger of the world' encounter resistance in the media?",
+          "options": {
+            "A": "It was viewed as a critique of Yoko Ono's personal life.",
+            "B": "It was released during a period of declining interest in the Beatles.",
+            "C": "Its provocative phrasing and the shifting social norms regarding racial slurs made it controversial.",
+            "D": "It failed to clearly distinguish between the struggles of Black women and white women."
+          },
+          "answer": "C",
+          "explanation": "文章指出该歌曲在排行榜表现不佳，部分原因是电台拒绝播放，且文中提到随着时间推移，社会对非黑人使用N-word的禁忌变得更强，这使得该词汇变得“令人难以忘怀且具有煽动性”。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest about the evolution of the term 'intersectionality'?",
+          "options": {
+            "A": "It has maintained its narrow focus on legal theory throughout its existence.",
+            "B": "It transitioned from an academic concept to a widely used cultural buzzword.",
+            "C": "It was specifically designed to criticize the work of celebrities like Beyoncé.",
+            "D": "It was originally coined by journalists to describe social media political discourse."
+          },
+          "answer": "B",
+          "explanation": "文中明确提到“intersectionality”从 intellectual obscurity（学术隐晦）走到了 cultural ubiquity（文化普遍性），并描述了它如何在社交媒体和流行文化中被广泛使用。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does Crenshaw view her own career and intellectual contributions?",
+          "options": {
+            "A": "As a series of deliberate attempts to provoke mainstream rejection.",
+            "B": "As a radical departure from her childhood values and upbringing.",
+            "C": "As the logical outcome of a life defined by witnessing and confronting exclusion.",
+            "D": "As an overly complex project that even she herself finds difficult to explain."
+          },
+          "answer": "C",
+          "explanation": "文章作者指出Crenshaw将她的人生和职业生涯视为长期的反抗过程，且她倾向于将自己的观点呈现为“冷静的知识分子对所见所闻的合理结论”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What was the main criticism leveled by 'crits' (Critical Legal Studies theorists) against liberal civil-rights activists?",
+          "options": {
+            "A": "They were too focused on the practical needs of Black parents.",
+            "B": "They relied too heavily on the Constitution, which crits considered naive.",
+            "C": "They failed to secure enough teaching positions for Black professors.",
+            "D": "They ignored the importance of the First Amendment in legislative efforts."
+          },
+          "answer": "B",
+          "explanation": "文章提到C.L.S.学者（crits）将自由派对宪法的推崇视为naïve（天真）且counterproductive（适得其反）的，他们认为这反而保护了富人和权势者的利益。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes Crenshaw's position on the civil-rights movement as discussed in her 1988 essay?",
+          "options": {
+            "A": "She believed it had already achieved total racial equality in America.",
+            "B": "She advocated for an immediate revolution to replace the legal system.",
+            "C": "She acknowledged the movement's liberating history while criticizing its later complacency.",
+            "D": "She agreed with C.L.S. theorists that the concept of 'rights' was fundamentally flawed."
+          },
+          "answer": "C",
+          "explanation": "文中提到Crenshaw虽然指出了民权运动因成功废除隔离而产生了一种虚假的“平等已实现”的错觉，但她坚持认为争取权利是黑人“激进且解放的活动”，并未完全否定其价值。"
+        }
+      ]
+    },
+    {
+      "title": "Pedro Pascal v Pedro Piscal: actor in legal battle with Chilean spirit brand",
+      "article_update_date": "04.17.2026",
+      "source_journal": "The Guardian",
+      "body_text": "The actor Pedro Pascal is waging a legal battle against a Chilean pisco merchant who has chosen a cheeky name for his brand of the country’s national spirit: Pedro Piscal. David Herrera registered the brand name with a Chilean commercial regulator in 2023 and began selling his pisco in off-licences and restaurants. “We tried a few names and Pedro Piscal stuck,” Herrera, 41, said. “Then we were planning a trip up to the Pisco region when suddenly we were getting strongly worded emails from lawyers. Me, a mere mortal, getting emails from a superstar actor? It scared me a bit.” View image in fullscreen The Pedro Piscal brand name was registered with a Chilean commercial regulator in 2023. Photograph: Pedro Piscal Pascal, who was born in Chile and is a popular figure in his home country, did not attend a court hearing but filed to take control of the brand name on account of its similarity with his own name and brand. Herrera is not the first Chilean entrepreneur to have found themselves facing down a Hollywood A-lister in court over a cheeky pun. A honey business calling itself Miel Gibson – using a still from Braveheart on the label – won the right to keep using the name after the actor sued. View image in fullscreen Miel Gibson fought off a legal challenge from its Hollywood near namesake. Photograph: Martin Bernetti/AFP/Getty Images In 2020, DC Comics went after a bakery in Santiago that had called itself Superpan for three decades and used images of Clark Kent and his famous “S” symbol. The bakery emerged victorious. And across town, not far from a printing business named Harry Plotter, Matías Jara runs Star Wash, a car wash service that borrows liberally from the Star Wars canon – and even uses its famous font. View image in fullscreen Matías Jara of Star Wash in Santiago. Photograph: Matías Jara/Star Wash “Chileans are mischievous, that’s the thing,” Jara said. “We are always messing around and joking. We change the lyrics to songs in English to Chileanise them, and we like wordplay – I love Star Wars and just wanted to stand out with my brand.” Once a month, motorists can get their footwells vacuumed under the watchful gaze of Chewbacca or sit at the wheel while a gaggle of Stormtroopers supervise the polishing of their windshield, as the forecourt has become a popular meetup place for cosplayers. Star Wash won its initial legal battle with Lucasfilm, the rights holder to the Star Wars franchise, to keep using the name but is still waiting for a ruling in another case that could force Jara to change the company’s name. As for Pedro Piscal, Herrera said: “I don’t regret it for a moment.” He said he and his cousins were partial to a piscola – pisco and Coca-Cola poured over ice – and would call it a piscal. He said Pedro came from the pedro ximénez grape variety, from which the spirit is distilled. But the actor’s lawyers saw it differently. Juan Pablo Silva, the managing partner at the firm representing Pascal, said he was unable to comment on an ongoing case. However, he highlighted initial rulings that transferred ownership of two online domains from Herrera to Pascal, as well as the actor successfully trademarking his name, as reasons for the firm’s optimism over a decision that could come before the end of the year. Herrera said: “We don’t use [Pascal’s] face or his likeness anywhere. We’re just selling a good product.”",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary reason behind the legal conflict between Pedro Pascal and David Herrera?",
+          "options": {
+            "A": "Herrera used Pascal's portrait on his product labels.",
+            "B": "Pascal intends to launch his own brand of pisco in Chile.",
+            "C": "Pascal seeks control over a brand name deemed too similar to his own.",
+            "D": "Herrera infringed upon the copyright of a famous film franchise."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到，Pascal向法院申请控制该品牌名，理由是其与他本人的名字及品牌过于相似（on account of its similarity with his own name and brand）。选项A虽然在文末提及Herrera并未在包装上使用Pascal的肖像，但并非导致纠纷的核心原因。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes the attitude of Chilean entrepreneurs towards using celebrity names or puns in their branding?",
+          "options": {
+            "A": "They are largely ignorant of international intellectual property laws.",
+            "B": "They see it as a cultural expression of humor and playfulness.",
+            "C": "They intentionally target global celebrities to facilitate international exports.",
+            "D": "They fear legal consequences and prefer traditional branding methods."
+          },
+          "answer": "B",
+          "explanation": "Matías Jara在文中解释称：“Chileans are mischievous... We like wordplay”，表达了智利创业者将这种戏谑性的命名看作文化特质，而非为了商业利益或无知。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the author suggest by detailing the cases of 'Miel Gibson' and 'Superpan'?",
+          "options": {
+            "A": "Hollywood celebrities rarely win legal battles in Chile.",
+            "B": "Small businesses in Chile are consistently protected by local regulators.",
+            "C": "Intellectual property laws in Chile are significantly weaker than in other countries.",
+            "D": "Conflicts between small local businesses and high-profile entities are not uncommon in Chile."
+          },
+          "answer": "D",
+          "explanation": "文章通过列举Miel Gibson、Superpan以及Harry Plotter等案例，意在说明此类“小店对抗大明星”的法律纠纷在智利是一个反复出现的现象，并非孤立事件。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to the passage, what is the current status of the Star Wash brand?",
+          "options": {
+            "A": "It has been forced to rebrand due to a final ruling by Lucasfilm.",
+            "B": "It has successfully defended its name against all legal challenges.",
+            "C": "It won one initial dispute but faces an ongoing legal threat.",
+            "D": "It has received official licensing from the owners of the Star Wars franchise."
+          },
+          "answer": "C",
+          "explanation": "文中指出，Star Wash赢得了与卢卡斯影业的初步法律战，但目前仍在一个可能迫使其改名的案件中等待裁决（waiting for a ruling in another case）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the tone of David Herrera’s comments regarding the lawsuit?",
+          "options": {
+            "A": "Remorseful and conciliatory.",
+            "B": "Defiant and unapologetic.",
+            "C": "Fearful and discouraged.",
+            "D": "Confused and disinterested."
+          },
+          "answer": "B",
+          "explanation": "Herrera明确表示：“I don’t regret it for a moment”，并且坚持认为他们只是在售卖好的产品，并没有使用名人的形象。这种态度体现了不后悔、不退缩的姿态。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "05.14.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary focus of the joint statement issued after the 15th China-Russia-India trilateral meeting?",
+          "options": {
+            "A": "To form a military alliance against external threats in the Asia-Pacific region.",
+            "B": "To prioritize economic growth while neglecting security and political cooperation.",
+            "C": "To commit to regional security and economic architecture based on inclusive principles.",
+            "D": "To review the history of BRICS summits and propose a major structural reform."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到，三国同意维护亚太地区的区域安全和经济架构，且该架构应是“开放的、包容的、基于多边主义和公认的国际法原则”，因此C选项最符合原文。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, how do the three countries view their trilateral cooperation?",
+          "options": {
+            "A": "It is intended to exclude specific competing powers in the region.",
+            "B": "It acts as a platform for dialogue and is not directed against any third party.",
+            "C": "It is mainly a temporary measure to address short-term diplomatic crises.",
+            "D": "It is meant to replace the existing functions of the Shanghai Cooperation Organization."
+          },
+          "answer": "B",
+          "explanation": "文中明确指出，三国合作被描述为促进对话与务实合作的平台，并强调这种合作“is not directed against any other country”（不针对任何其他国家），因此B选项正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is mentioned regarding the BRICS cooperation in the statement?",
+          "options": {
+            "A": "The countries believe the first golden decade of BRICS has not yet concluded.",
+            "B": "The countries aim to focus exclusively on political and security cooperation.",
+            "C": "The countries intend to implement outcomes to ensure a successful second golden decade.",
+            "D": "The countries criticized the management of the Ninth BRICS Summit in Xiamen."
+          },
+          "answer": "C",
+          "explanation": "文中提到，三国将致力于实施BRICS峰会的所有成果，以加强各领域的合作，从而开启BRICS合作的“第二个黄金十年”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the role of the Shanghai Cooperation Organization (SCO) according to the text?",
+          "options": {
+            "A": "An optional forum with little impact on regional stability.",
+            "B": "A primary instrument for fostering multilateral interaction in the region.",
+            "C": "A secondary organization subordinate to the China-Russia-India trilateral format.",
+            "D": "An outdated platform that needs urgent reform to address economic growth."
+          },
+          "answer": "B",
+          "explanation": "文章提到，三国重视在上海合作组织内的共同工作，并称SCO是促进该地区多边政治、安全、经济和人文互动的重要工具。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the phrase 'imperative for lasting peace' in the second paragraph imply?",
+          "options": {
+            "A": "The regional security architecture is currently in a state of crisis.",
+            "B": "Maintaining the stated regional architecture is essential for long-term stability.",
+            "C": "International law is often disregarded by regional powers in the Asia-Pacific.",
+            "D": "The three countries are uncertain about the future of their security framework."
+          },
+          "answer": "B",
+          "explanation": "原文提到维护那种基于原则的架构对于区域的持久和平与稳定是“imperative”（至关重要的），这意味着该架构是实现长期和平的必要条件。"
+        }
+      ]
+    }
+  ]
+}
