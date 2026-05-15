@@ -66,7 +66,7 @@ articles:
   is_used: false
   title: While My Daughter Is in Surgery I Think About a Night in a Hotel in Florence
 - id: epub_38
-  is_used: true
+  is_used: false
   title: '1970'
 - id: epub_42
   is_used: false
@@ -74,8 +74,8 @@ articles:
 - id: epub_137
   is_used: false
   title: Chapter 137
-capture_date: 05.09.2026
+capture_date: 05.15.2026
 journal_name: New Yorker
-publish_date: 05.09.2026
+publish_date: 05.15.2026
 source_type: github
 update_frequency: monthly

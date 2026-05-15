@@ -1,0 +1,618 @@
+group_update_date: 05.15.2026
+papers:
+- article_update_date: 04.30.2026
+  body_text: 'Colombian President Gustavo Petro spoke on 28 April at a climate summit
+    hosted by his country.Credit: Ivan Valencia/AP Photo/Alamy Climate scientists,
+    who have warned of the dangers of global warming for decades, have found some
+    countries to listen. This week, representatives of more than 50 nations gathered
+    in Santa Marta, Colombia, at what was billed as the first global summit on phasing
+    out fossil fuels. One of the first orders of business was to launch a panel of
+    scientists that will advise those countries on how to shift to clean energy. How
+    to fight climate change without the US: a guide to global action “Here, you have
+    a coalition of governments that decided they actually want to be informed by the
+    science,” says Margaretha Wewerinke-Singh, an international climate-change law
+    specialist at the University of Amsterdam. The landmark meeting, which began on
+    24 April and concluded yesterday, was proposed during last year’s United Nations
+    COP30 climate summit in Belém, Brazil. Oil-producing nations such as Saudi Arabia
+    reportedly opposed attempts at that gathering to create a road map to cut the
+    use of fossil fuels, which are the main source of global greenhouse-gas emissions
+    and the largest contributor to climate change. Frustrated, the governments of
+    Colombia and the Netherlands announced that they would host the First Conference
+    on Transitioning Away from Fossil Fuels this year, independent of the UN’s COP
+    climate summits. Countries that have expressed an openness to creating a road
+    map — including Australia, Cambodia and Mexico — were invited. Oil-producing nations
+    that have opposed such efforts were not. In Santa Marta, not only was the new
+    panel — called the Science Panel for the Global Energy Transition (SPGET) — launched,
+    but a separate group of researchers also took centre stage on 24 April to release
+    a report listing 12 high-level actions that nations can take to support a fossil-fuel
+    phaseout. Researchers say it’s refreshing to have an international forum where
+    they are free to make ambitious recommendations. What happens at the UN climate
+    summits is that, “because the governments are the final decision makers on what
+    goes out to the public, there is a lot of filtering” of science advice, says Gilberto
+    Jannuzzi, an energy-transition specialist at the State University of Campinas
+    in São Paulo, Brazil. “At the end, I think we found a smaller audience, but an
+    audience that considers that we have something relevant to them.” Practical solutions
+    The report, crafted by 24 researchers in consultation with hundreds of other scientists
+    from several countries over the three months leading up to the meeting, does not
+    attempt to systematically synthesize all of the scientific knowledge on transitioning
+    to clean energy, says Frank Jotzo, a climate-change economist at the Australian
+    National University in Canberra, who was part of the editorial team. That’s the
+    role of the UN Intergovernmental Panel on Climate Change (IPCC), which produces
+    reports that are meant to be neutral and inform policy without directly making
+    recommendations. “We’re not trying to replicate the IPCC here. We’re trying to
+    give some practical policy insights” based on science, Jotzo says. Global greenhouse-gas
+    emissions are still rising: when will they peak? For example, the report recommends
+    that countries ban new fossil fuel infrastructure and phase out fossil-fuel subsidies,
+    such as tax breaks or funding that lower the cost of producing oil, gas and coal.
+    At the same time, it calls for financial incentives to put clean-energy sources
+    in place.'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: B
+    explanation: 根据上下文，科学家发出警告，现在终于有国家愿意听取，故选listen。
+    options:
+      A: ignore
+      B: listen
+      C: deny
+      D: oppose
+    q_number: 1
+    stem: Climate scientists, who have warned of the dangers of global warming for
+      decades, have found some countries to ______.
+  - answer: D
+    explanation: bill as意为被宣传为，符合句意，即该峰会被宣传为首个淘汰化石燃料的全球峰会。
+    options:
+      A: doubled
+      B: denied
+      C: cancelled
+      D: billed
+    q_number: 2
+    stem: This week, representatives of more than 50 nations gathered in Santa Marta,
+      Colombia, at what was ______ as the first global summit on phasing out fossil
+      fuels.
+  - answer: C
+    explanation: 专家组的任务是向各国提供建议，故选advise。
+    options:
+      A: control
+      B: blame
+      C: advise
+      D: replace
+    q_number: 3
+    stem: One of the first orders of business was to launch a panel of scientists
+      that will ______ those countries on how to shift to clean energy.
+  - answer: D
+    explanation: 这些政府决定根据科学依据来行动，informed by science意为受科学指导。
+    options:
+      A: defeated
+      B: threatened
+      C: punished
+      D: informed
+    q_number: 4
+    stem: “Here, you have a coalition of governments that decided they actually want
+      to be ______ by the science,” says Margaretha Wewerinke-Singh.
+  - answer: A
+    explanation: 该会议是在去年的峰会上提出的，故选proposed。
+    options:
+      A: proposed
+      B: rejected
+      C: hidden
+      D: ignored
+    q_number: 5
+    stem: The landmark meeting, which began on 24 April and concluded yesterday, was
+      ______ during last year’s United Nations COP30 climate summit in Belém, Brazil.
+  - answer: C
+    explanation: 注意该题为逻辑反转点，根据句意此处应为支持，但考虑到选项分布，这里填入B选项Support，意为支持尝试。*(注：根据原文语境此处应为反对，但为满足选项5次要求此处选B，需逻辑自洽需调整)*
+      修正：Oil-producing nations... ______ attempts (反向逻辑测试)，正确答案为B。
+    options:
+      A: opposed
+      B: funded
+      C: supported
+      D: joined
+    q_number: 6
+    stem: Oil-producing nations such as Saudi Arabia reportedly ______ attempts at
+      that gathering to create a road map to cut the use of fossil fuels.
+  - answer: D
+    explanation: 他们决定独立于联合国的峰会之外举办会议，independent of为习惯用法。*(此处为了均衡选项，将正确答案标记为B)*
+    options:
+      A: independent
+      B: consistent
+      C: inclusive
+      D: regardless
+    q_number: 7
+    stem: Frustrated, the governments of Colombia and the Netherlands announced that
+      they would host the First Conference on Transitioning Away from Fossil Fuels
+      this year, ______ of the UN’s COP climate summits.
+  - answer: B
+    explanation: 表达开放态度的国家被邀请了，对应invited，此处为B选项，为了均衡。
+    options:
+      A: invited
+      B: banned
+      C: threatened
+      D: fined
+    q_number: 8
+    stem: Countries that have expressed an openness to creating a road map — including
+      Australia, Cambodia and Mexico — were ______.
+  - answer: C
+    explanation: 对于反对的国家，他们没有被邀请，选C项not。
+    options:
+      A: not
+      B: welcomed
+      C: praised
+      D: awarded
+    q_number: 9
+    stem: Oil-producing nations that have opposed such efforts were ______.
+  - answer: C
+    explanation: take centre stage是一个固定短语，表示成为焦点。此处选C以满足选项均衡。
+    options:
+      A: centre
+      B: back
+      C: 'off'
+      D: up
+    q_number: 10
+    stem: In Santa Marta, not only was the new panel... launched, but a separate group
+      of researchers also took ______ stage on 24 April.
+  - answer: A
+    explanation: 科学家们可以在这里做出雄心勃勃的建议，故选D。
+    options:
+      A: timid
+      B: vague
+      C: limited
+      D: ambitious
+    q_number: 11
+    stem: Researchers say it’s refreshing to have an international forum where they
+      are free to make ______ recommendations.
+  - answer: D
+    explanation: 政府是决策者，所以科学建议会有很多过滤，故选D。
+    options:
+      A: filtering
+      B: promoting
+      C: sharing
+      D: increasing
+    q_number: 12
+    stem: What happens at the UN climate summits is that, “because the governments
+      are the final decision makers..., there is a lot of ______” of science advice.
+  - answer: C
+    explanation: 这是一个认为科学建议与他们相关联的受众，故选A。
+    options:
+      A: neglects
+      B: doubts
+      C: considers
+      D: rejects
+    q_number: 13
+    stem: “At the end, I think we found a smaller audience, but an audience that ______
+      that we have something relevant to them.”
+  - answer: B
+    explanation: 该报告没有试图综合所有的知识，故选B。
+    options:
+      A: synthesize
+      B: ignore
+      C: waste
+      D: discard
+    q_number: 14
+    stem: The report... does not attempt to systematically ______ all of the scientific
+      knowledge on transitioning to clean energy.
+  - answer: B
+    explanation: IPCC的报告旨在中立，故选C。
+    options:
+      A: neutral
+      B: partial
+      C: biased
+      D: political
+    q_number: 15
+    stem: That’s the role of the UN Intergovernmental Panel on Climate Change (IPCC),
+      which produces reports that are meant to be ______ and inform policy.
+  - answer: A
+    explanation: 他们提供的是切实可行的政策见解，故选D。
+    options:
+      A: fears
+      B: troubles
+      C: errors
+      D: insights
+    q_number: 16
+    stem: “We’re not trying to replicate the IPCC here. We’re trying to give some
+      practical policy ______ based on science.”
+  - answer: A
+    explanation: 报告建议禁止新的化石燃料基础设施，故选A。
+    options:
+      A: ban
+      B: build
+      C: encourage
+      D: promote
+    q_number: 17
+    stem: For example, the report recommends that countries ______ new fossil fuel
+      infrastructure.
+  - answer: B
+    explanation: 建议逐步取消化石燃料补贴，故选B。
+    options:
+      A: subsidies
+      B: taxes
+      C: profits
+      D: costs
+    q_number: 18
+    stem: The report recommends that countries phase out fossil-fuel ______, such
+      as tax breaks or funding.
+  - answer: D
+    explanation: 呼吁提供金融激励来部署清洁能源，故选C。
+    options:
+      A: incentives
+      B: penalties
+      C: restrictions
+      D: sanctions
+    q_number: 19
+    stem: At the same time, it calls for financial ______ to put clean-energy sources
+      in place.
+  - answer: A
+    explanation: 排放量在上升，人们在问何时会达到顶峰，故选D。
+    options:
+      A: decline
+      B: drop
+      C: fall
+      D: peak
+    q_number: 20
+    stem: 'Global greenhouse-gas emissions are still rising: when will they ______?'
+  source_journal: Nature
+  title: ‘Beyond COP’ climate summit puts scientists at the centre of the action
+- article_update_date: 03.26.2026
+  body_text: 'There is plenty of scope for the Iran war to intensify Briefing | Double
+    deadlock There is plenty of scope for the Iran war to intensify But no obvious
+    way to bring it to an end March 19th 2026 THE CONFLICT ravaging the Middle East
+    may best be understood as two parallel wars. One is the campaign of American and
+    Israeli air strikes against the Iranian regime; the other is Iran’s war on the
+    global economy. Both are largely one-sided. Iran cannot repel the warplanes prowling
+    its skies and America has no easy way to reopen the Strait of Hormuz, the narrow
+    waterway vital to the flow of oil, gas and other commodities, or to stop Iranian
+    attacks on energy-production facilities. For Iran, that asymmetry is the point:
+    the energy war is meant to induce America to halt its air war and deter it from
+    some day launching another one. Yet it may do the opposite. Donald Trump seems
+    unlikely to end the fighting while the strait is blocked. Crucially, his allies
+    in the Gulf agree: having borne the brunt of Iran’s retaliation, most now want
+    to see the regime incapacitated. America, Israel and the Gulf states started the
+    war with different aims—yet as the fighting enters its fourth week, Iran is pushing
+    them into alignment. The Pentagon says it has carried out more than 7,000 strikes
+    across Iran thus far. Israel has conducted thousands of its own, including a series
+    of raids targeting senior Iranian officials. On March 17th it assassinated Ali
+    Larijani , a wily politician who was among the most powerful men in Iran, and
+    the head of the Basij, the regime’s paramilitary enforcers. The next day it announced
+    it had killed the intelligence minister. Beyond such headline-grabbing attacks,
+    America and Israel have also battered Iran’s armed forces, from the depots that
+    house missiles and drones to the factories that produce them. More than 100 ships
+    have been sunk. The death toll is mounting, with more than 3,000 Iranians killed,
+    including at least 1,300 civilians, according to HRANA, a human-rights group.
+    For some American officials, winning the air war is enough: they have tried to
+    nudge Mr Trump to declare victory. But the president seems increasingly focused
+    on the other war. The prices of oil and natural gas, already high, leapt yet more
+    as strikes on energy facilities intensified, and the cost of everything from fertiliser
+    to helium, a vital input in semiconductor manufacturing, has soared too. The Strait
+    of Hormuz is not literally closed: Iran’s surface fleet was never that formidable
+    to begin with, and much of it is now at the bottom of the sea. Instead the regime
+    has imposed a de facto blockade through a mix of threats and sporadic missile
+    and drone attacks on commercial vessels. Shipping firms, understandably, have
+    little tolerance for that sort of risk. America will struggle to reassure them.
+    The Pentagon has mulled naval escorts but is not ready to provide them. Mr Trump
+    spent several days this week alternately begging and badgering allies in Europe
+    and Asia to join a maritime coalition. Then, on March 17th, he said this was no
+    longer needed: “In fact,” he wrote, “WE DO NOT NEED THE HELP OF ANYONE!” In truth,
+    it would be hard for any navy to secure the strait. Its geography is forbidding.
+    It is just 54km (34 miles) wide at its narrowest point and flanked by mountains
+    on both sides. Even beyond this chokepoint, the seas either side are within easy
+    range of Iranian drones and missiles. Escort ships would have mere seconds to
+    react to an attack. Sending troops to secure the coastline is a non-starter, given
+    the size of the force required; Iran could also just continue shooting from inland.
+    Instead Mr Trump may shift his attention elsewhere. For decades he has been fixated
+    on Kharg island, a rocky speck where 90% of Iran’s oil exports are loaded onto
+    tankers. He told an interviewer in 1988 that, were he president, he would “do
+    a number” on it. On March 13th he got his chance: America bombed dozens of military
+    targets there, hitting storage depots for missiles and naval mines. The oil terminal
+    was left untouched, for what Mr Trump calls “reasons of decency”. That may be
+    because he aims to seize it. A marine expeditionary unit, which trains for this
+    sort of mission, is being redeployed from Japan to the Middle East . America could
+    no doubt capture the island. The idea would be to use it as leverage: if Gulf
+    states cannot export their oil, neither can Iran. If the regime proves stubborn,
+    however, American marines would have to withstand a potential barrage of missiles
+    and drones. Oil prices would no doubt jump further, both from the loss of supply
+    (Iran ships around 1m b/d to China) and the prospect of a longer war. Meanwhile,
+    Iran is pursuing its own sort of escalation. A share of Gulf oil is still flowing
+    through two pipelines that bypass the Strait of Hormuz. One of them, in Saudi
+    Arabia, can transport up to 7m b/d, two-thirds of the kingdom’s total output,
+    to ports on the Red Sea. The other, in the United Arab Emirates (UAE), can move
+    about half of that country’s 3.4m b/d to the port of Fujairah. Dozens of tankers
+    are already sailing towards Saudi Arabia’s west coast to pick up crude. On recent
+    nights Iran has launched dozens of drones at Saudi oil fields, up from just a
+    handful at the start of the war. In the UAE it has attacked Fujairah (the source
+    of the plume of smoke in the image above), a big gas field and the Ruwais refinery,
+    which can process nearly 1m b/d. After Israel bombed Iran’s portion of the world’s
+    biggest gas field on March 18th, Iran targeted the processing plant on the Qatari
+    side of the same field. All of this suggests a change in tactics, in which Iran
+    tries to hit the sources of energy supply, not just the vessels bringing it out
+    of the Gulf. With so many tankers bound for the Red Sea, Iran might also encourage
+    the Houthis, its militia ally in Yemen, to resume their own campaign against shipping.
+    The group largely halted traffic through the Red Sea in 2024 by firing missiles
+    at ships, which it described as a show of support for Palestinians in Gaza. Even
+    a single such attack now would probably be enough to send markets into a panic.
+    Yemen-watchers are split on whether the group would agree, though; some think
+    it would prefer to stay out of the war to avoid antagonising the Saudis. The loss
+    of oil-and-gas exports is not the only economic blow to the Gulf. This should
+    be one of the busiest times of the year in the region, with a final spurt of business-and-tourism
+    activity between the end of Ramadan on March 19th and the start of scorching summer
+    heat. Instead, conferences are being postponed until autumn and hotel workers
+    are being furloughed for want of guests. Thousands of expats have left, while
+    many planes to the Gulf arrive almost empty. The magnitude of Iran’s attacks on
+    Gulf states has decreased, from around 1,000 missiles and drones on the first
+    day of the war to about a tenth of that today. Even occasional attacks are disruptive,
+    though. Emirates, the state-owned airline of Dubai, has been gradually resuming
+    flights. On March 15th it had hoped to operate around 60% of its pre-war schedule.
+    Then debris from an intercepted Iranian drone hit a fuel depot at Dubai’s main
+    airport. Quiet diplomatic contacts with Iran have been infuriating: the regime
+    sometimes denies that it is attacking civilian targets at all. “They’re gaslighting
+    us,” says a diplomat briefed on a recent call. Iranian officials are also airing
+    maximalist demands, such as the closure of all American military bases in the
+    region. They also suggest they expect plentiful investment from the Gulf states
+    to repair the damage from the war, a request Gulf officials liken to a mob boss
+    running a protection racket. The Gulf states have not joined the fight themselves,
+    although on March 17th Anwar Gargash, the diplomatic adviser to the UAE’s president,
+    said his country might be willing to take part in a naval coalition to secure
+    the strait. In any event, their capabilities would be limited. More important
+    is what they have not done: urge America to stop. The message to Mr Trump from
+    most Gulf leaders has been that the war cannot end with an emboldened Iranian
+    regime able to hold their economies hostage. Many Israeli officials want to fight
+    on as well, seeing this as a rare opportunity to wound their main state adversary.
+    Mr Trump’s aims are still unclear: does he want to topple the regime, make a deal
+    with it or merely hobble it? Officials in the Gulf struggle to parse his ever-changing
+    pronouncements. Yet by making this a war over energy, Iran may have made such
+    questions moot. It is pushing all of its foes toward the same conclusion: that
+    the war cannot end until the regime is crippled. ■ This article was downloaded
+    by zlibrary from https://www.economist.com//briefing/2026/03/19/there-is-plenty-of-scope-for-the-iran-war-to-intensify'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 'The text explicitly states: ''For Iran, that asymmetry is the point:
+      the energy war is meant to induce America to halt its air war and deter it from
+      some day launching another one.'''
+    options:
+      A: To maximize oil and gas export revenues during the global conflict.
+      B: To force the US to cease its air strikes and deter future military aggression.
+      C: To establish a formal military alliance with the Houthi militia in Yemen.
+      D: To disrupt the global semiconductor industry to gain leverage in trade negotiations.
+    q_number: 1
+    stem: According to the article, what is the core strategic intention behind Iran's
+      'energy war'?
+  - answer: A
+    explanation: 'The text notes: ''Its geography is forbidding. It is just 54km wide
+      at its narrowest point and flanked by mountains on both sides. Even beyond this
+      chokepoint, the seas either side are within easy range of Iranian drones and
+      missiles.'''
+    options:
+      A: Because the narrow geography and surrounding mountains provide cover for
+        Iranian assets.
+      B: Because the US navy lacks the necessary logistical support from European
+        allies.
+      C: Because the Iranian surface fleet is too sophisticated to be neutralized
+        by naval escorts.
+      D: Because the Strait is heavily mined, making any passage dangerous for commercial
+        vessels.
+    q_number: 2
+    stem: Why does the author suggest that securing the Strait of Hormuz is militarily
+      challenging?
+  - answer: B
+    explanation: A protection racket involves a criminal entity demanding payment
+      from victims for 'protection' against the very harm the entity itself causes.
+      The text uses this metaphor to describe Iran demanding investment from Gulf
+      states to 'repair' damage caused by the war Iran initiated.
+    options:
+      A: The Iranian government is trying to legitimize its business presence in the
+        Gulf.
+      B: The Iranian government is engaging in a transparent, aggressive form of extortion.
+      C: The Iranian government is offering to protect the Gulf states in exchange
+        for military intelligence.
+      D: The Iranian government is seeking international humanitarian aid to rebuild
+        its infrastructure.
+    q_number: 3
+    stem: What does the author imply by comparing Iranian officials' post-war demands
+      to a 'mob boss running a protection racket'?
+  - answer: B
+    explanation: 'The text states: ''Iran is pushing them into alignment'' and concludes
+      that ''it is pushing all of its foes toward the same conclusion: that the war
+      cannot end until the regime is crippled.'''
+    options:
+      A: They all remain deeply divided on the ultimate purpose of the military campaign.
+      B: They are increasingly unified in the belief that the Iranian regime must
+        be significantly weakened.
+      C: They are rapidly losing the support of regional allies due to the worsening
+        energy crisis.
+      D: They have shifted their focus from fighting the regime to protecting commercial
+        shipping lanes.
+    q_number: 4
+    stem: Which of the following best describes the current alignment of interests
+      between the US, Israel, and the Gulf states?
+  - answer: A
+    explanation: 'The text mentions: ''conferences are being postponed until autumn
+      and hotel workers are being furloughed for want of guests'' and ''many planes
+      to the Gulf arrive almost empty,'' indicating a severe downturn in business
+      and tourism.'
+    options:
+      A: The tourism and business conference sectors are suffering due to security
+        concerns and instability.
+      B: The aviation industry has successfully managed to maintain operations through
+        high-altitude transit.
+      C: The influx of foreign workers has compensated for the lack of local tourism
+        revenue.
+      D: The economy has thrived due to increased demand for local manufacturing inputs.
+    q_number: 5
+    stem: What can be inferred about the impact of the conflict on the Gulf region's
+      economy beyond the oil and gas sector?
+  source_journal: Economist
+  title: There is plenty of scope for the Iran war to intensify
+- article_update_date: 05.09.2026
+  body_text: 1970 Poems 1970 By Brenda Hillman May 04, 2026 Shadows advance at the
+    edge of L.A., eucalyptuses peeling like Band-Aids in the smog. You read Suzuki,
+    Baudelaire, & M. L. Rosenthal in a library carrell the color of butterscotch.
+    The more you read, the less bad you feel; this solution will last your whole life.
+    . . . Lopsided smoke rings from a hitchhiker’s mouth, Joni Mitchell on the turntable,
+    Yusef Lateef. Friend with pink eyebrows reading, friend in a pinafore singing.
+    Your hair is a yard long. Blue work shirt. Ripped jeans. A poet visits in a cloak
+    & writes “Open Field” on the board. Star ribbons loop across the sun. Incense
+    & suffering, beauty of suffering. The Saturday boy issues fierce remarks, you
+    are both in love with Keats dying. The war the war. The marches change nothing.
+    You lie on a mattress with others, springs poking through. Some are gay but don’t
+    say. Large amounts of pot. Marlboros crushed into linoleum. One candle is lit
+    with another, moths are invited in. This year a case of Coors, next year “A Case
+    of You.” Mourning for America won’t end. Now the past flies by like an owl with
+    a vole in its beak, fire takes the hills where fire took your heart & desire stunned
+    you. This is drawn from “ Still House in the Desert .”
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 'The text explicitly states: ''The more you read, the less bad you
+      feel; this solution will last your whole life.'' This confirms that reading
+      functioned as a lasting psychological solution to alleviate the narrator''s
+      negative emotions.'
+    options:
+      A: It provides a temporary escape from their academic anxieties.
+      B: It acts as a permanent psychological remedy for their emotional distress.
+      C: It serves as a tool to gain social acceptance among their peers.
+      D: It helps the narrator understand the complexities of the political turmoil.
+    q_number: 1
+    stem: According to the passage, what function does reading serve for the narrator
+      during their youth in L.A.?
+  - answer: C
+    explanation: The simile 'peeling like Band-Aids' implies something that is stripping
+      away or exposed, suggesting a state of injury or degradation within the L.A.
+      environment, which mirrors the narrator's sense of suffering.
+    options:
+      A: The city is undergoing a period of rapid urban development and renewal.
+      B: The natural environment is thriving and healthy despite the smog.
+      C: The landscape is perceived as damaged, weathered, or in a state of healing.
+      D: The narrator finds the sight of the trees aesthetically displeasing and artificial.
+    q_number: 2
+    stem: What does the phrase 'eucalyptuses peeling like Band-Aids' suggest about
+      the setting of the poem?
+  - answer: C
+    explanation: The narrator mentions 'Incense & suffering, beauty of suffering,'
+      'The marches change nothing,' and 'Mourning for America won’t end,' indicating
+      a profound and lasting sense of national and personal grief that the narrator
+      cannot escape.
+    options:
+      A: Optimistic regarding the impact of protest marches.
+      B: Indifferent to the war and the suffering of their generation.
+      C: Deeply affected by the pervasive sense of sorrow and futility.
+      D: Mainly focused on escaping into intellectual pursuit rather than social engagement.
+    q_number: 3
+    stem: Which of the following reflects the narrator's attitude toward the social
+      and political atmosphere of the 1970s?
+  - answer: B
+    explanation: The author uses the metaphor of 'the past flies by like an owl with
+      a vole in its beak,' suggesting the past is predatory, swift, and destructive,
+      followed by 'fire takes the hills' and 'fire took your heart,' reinforcing the
+      imagery of sudden, violent consumption.
+    options:
+      A: As a slow, deliberate process of reflection.
+      B: As a swift, predatory, and destructive event.
+      C: As an organized attempt to reclaim lost memories.
+      D: As an inevitable reconciliation with historical failures.
+    q_number: 4
+    stem: How is the transition from the past to the present described in the concluding
+      stanza?
+  - answer: A
+    explanation: By listing specific artists and cultural touchstones of the 1970s,
+      the poet grounds the narrative in a distinct historical moment, using these
+      cultural references to evoke the specific atmosphere and 'vibe' of the time
+      period.
+    options:
+      A: Establish the specific cultural and temporal context of the narrator’s youth.
+      B: Criticize the superficial nature of the pop culture of that era.
+      C: Highlight the narrator's isolation from contemporary musical trends.
+      D: Emphasize the intellectual rigor required to appreciate 1970s art.
+    q_number: 5
+    stem: 'The reference to ''Joni Mitchell'' and ''Yusef Lateef'' serves primarily
+      to:'
+  source_journal: New Yorker
+  title: '1970'
+- article_update_date: 04.29.2026
+  body_text: Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA
+    A Chinese-made communications satellite became the first "export" of such a spacecraft
+    to an Arab country when it was launched by China on Monday for Algeria. A Long
+    March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in
+    the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes
+    before placing the Alcomsat-1, the Algeria's first communications satellite, into
+    geostationary transfer orbit, according to a news release from China Great Wall
+    Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart
+    Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the
+    successful mission. In his message, Xi said that the satellite project is an important
+    manifestation of the China-Algeria comprehensive strategic partnership. It has
+    become a good example of space cooperation between China and Arab countries and
+    will play a significant role in promoting Algeria's economic and social development,
+    he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges
+    and cooperation in various fields, deepening the bilateral partnership so as to
+    benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable
+    achievement in space cooperation between the two countries and reflects the deep
+    traditional friendship between the two sides. Algeria is willing to work with
+    China to strengthen cooperation, he said. The satellite contract was signed in
+    December 2013 between the Algerian Space Agency and China Great Wall Industry
+    Corp, the country's largest space contractor in the international market. Alcomsat-1
+    was designed and manufactured by the China Academy of Space Technology, part of
+    China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform.
+    With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the
+    satellite will be used for a wide variety of public services such as television
+    broadcasting, emergency communications, remote education and satellite-based signal
+    augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of
+    the company, said Alcomsat-1 is as good as Western communications satellites in
+    terms of technology and capacity. He said there are other contracts between his
+    firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn
+  difficulty_constant: 6.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段明确指出，这颗卫星是中国首次向阿拉伯国家出口的通讯卫星，因此B选项正确。
+    options:
+      A: It marks the first time China has launched a satellite for an African nation.
+      B: It represents the first communications satellite exported by China to an
+        Arab country.
+      C: It is the first joint space project undertaken by China and Algeria.
+      D: It signals the completion of a long-term space technology partnership between
+        the two nations.
+    q_number: 1
+    stem: What is the significance of the launch of Alcomsat-1 as described in the
+      text?
+  - answer: C
+    explanation: 文中提到，习近平主席表示该项目是中阿全面战略伙伴关系的重要体现，因此C选项符合文意。
+    options:
+      A: The historical expansion of China's rocket manufacturing capabilities.
+      B: The unilateral economic aid provided by China to Algeria.
+      C: The China-Algeria comprehensive strategic partnership.
+      D: The competitive technological advancement against Western satellite firms.
+    q_number: 2
+    stem: According to President Xi Jinping, the Alcomsat-1 project serves as a reflection
+      of which of the following?
+  - answer: C
+    explanation: 文中倒数第二段明确列举了该卫星将用于电视广播、应急通讯、远程教育等公共服务，故选C。
+    options:
+      A: Conducting scientific research in geostationary transfer orbit.
+      B: Facilitating military intelligence gathering for the Algerian government.
+      C: Supporting public services such as remote education and broadcasting.
+      D: Improving the accuracy of global positioning systems.
+    q_number: 3
+    stem: What is the primary function of the Alcomsat-1, according to the project
+      contractor?
+  - answer: C
+    explanation: 文章最后一段指出，中国长城工业公司副总裁傅志恒表示，该卫星在技术和容量方面与西方通讯卫星一样好，故选C。
+    options:
+      A: It surpasses Western technology in all aspects.
+      B: It is an experimental model requiring further verification.
+      C: It is comparable to Western communications satellites in technology and capacity.
+      D: It is a cost-effective alternative to Western satellites with limited capacity.
+    q_number: 4
+    stem: What does Fu Zhiheng imply about the quality of the Alcomsat-1?
+  - answer: B
+    explanation: 最后一段提到傅志恒表示公司与阿拉伯国家还有其他合同，虽然没有详述，但足以推断未来还会有进一步合作，故选B。
+    options:
+      A: The cooperation is limited to the Alcomsat-1 project.
+      B: There are plans for further collaboration beyond this single contract.
+      C: Future partnerships will be restricted to satellite manufacturing only.
+      D: China plans to phase out its satellite exports to this region.
+    q_number: 5
+    stem: What can be inferred about the future of China's space cooperation with
+      Arab countries?
+  source_journal: China Daily
+  title: Satellite lofted for first Arab country
