@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.16.2026",
+  "papers": [
+    {
+      "title": "More concentrated precipitation decreases terrestrial water storage",
+      "article_update_date": "05.13.2026",
+      "source_journal": "Nature",
+      "body_text": "Data TWS data come from the GRACE and GRACE-FO mass concentration solutions (RL06) developed by the Center for Space Research at the University of Texas25. The dataset represents monthly total water mass variations (expressed as equivalent water height) at a gridded resolution of 0.25°. We omit data before August 2002 (due to sensor calibration at the outset of the GRACE mission) and for water-year 2017 (due to incomplete data during the mission gap between GRACE and GRACE-FO). We use GRACE TWS because it is an observational data product that holistically measures land water, capturing all surface and underground stocks. To account for observational uncertainty, we use three daily gridded precipitation data products: the Global Precipitation Climatology Project (GPCP) Daily Precipitation Analysis v.1.3 (ref. 21), the Global Precipitation Climatology Center (GPCC) Daily Analysis v.2022 (ref. 23) and the National Oceanic and Atmospheric Administration Climate Prediction Center (CPC) Unified Gauge-Based Analysis22. GPCC is a station-based product (1° resolution) with coverage over 1982–2020, whereas CPC (0.5°) and GPCP (1°) integrate station and satellite observations over 1979–2022 and 1997–2022, respectively. We repeated our analysis for the more recent GPCP v.3.3 and find consistent main effects56 (Supplementary Fig. 4), but use the more complete earlier version for our main analysis (GPCP v.3.3 contains missing daily values at high latitudes after 2020). We use two net all-sky surface shortwave radiation datasets: the Global Energy and Water Exchanges Surface Radiation Budget (GEWEX-SRB, limited here to 2002–2017)52 daily dataset and the NASA Clouds and the Earth’s Radiant Energy System Energy Balanced and Filled monthly dataset (NASA-EBAF, limited here to 2002–2022)53, each at 1° resolution. We use monthly evapotranspiration from the GLEAM v.3.8a, at 0.25° resolution for the overlapping GRACE period (2002–2020; ref. 54). Main river basin boundaries are from the HydroBASINS v.1.0 dataset, which is derived from Shuttle Radar Topography Mission elevation data collected in 2000 (ref. 51). All data URLs are enumerated in Supplementary Table 1. Daily climate model data are from the land-hist experiment of the Coupled Model Intercomparison Project, Phase 6, Land-Surface, Snow and Soil Moisture Intercomparison Project (CMIP6-LS3MIP)55. In the land-hist experiment, the land-surface components of climate models are forced by atmospheric forcings from the Global Soil Wetness Project phase 3, whose precipitation data are derived from the NOAA-CIRES-DOE Twentieth Century Reanalysis (20CR). We include results from the two models that report all required variables: MIROC6 with land component MATSIRO and VISIT-e57, and CNRM-CM6-1 with land component ISBA-CTRIP58. We use the mrtws (total water storage), tas (mean surface air temperature) and pr (precipitation rate) variables. No participating models report these required variables plus evaporation, precluding extending our climate model analysis towards mechanisms. Data aggregation and precipitation Gini coefficient All data are temporally aggregated to the water-year scale, using October to September for the Northern Hemisphere water-year and July to June in the Southern Hemisphere. On this water-year scale, snow and ice storage changes are negligible. We further limit our spatial domain to regions without permanent snow and ice accumulation. We compute daily mean temperature data using the average of daily maximum and minimum temperatures from CPC. We also compute climatological mean precipitation as the average of the annual total over the full precipitation data record. We linearly detrend GRACE data to isolate interannual variability, which is largely governed by hydroclimate variability, from long-term trends that include anthropogenic water use and management26,31. The rationale for this focus on interannual variability is to establish whether more concentrated daily precipitation distributions lead to cumulative water balance changes, averaged across the water-year, absent the influence of coincident economic, demographic and mean warming trends. Correspondingly, and because GRACE only estimates TWS relative anomalies, we detrend and demean all other hydroclimate variables (except climatological precipitation, which is time-invariant). Finally, we interpolate all datasets to a common 0.5° grid as a compromise across the resolutions of the datasets. We repeated our analyses at alternative coarser common resolutions (1°, 2° and 3°) and found consistent results (Supplementary Fig. 5). We present long-term linear trends in terms of changes per 20 years to ease interpretation. To quantify the annual concentration of daily precipitation, we apply the Gini coefficient, a common economic measure of income inequality59, to the three daily precipitation datasets. The Gini coefficient is based on the Lorenz curve, which plots the cumulative share of the total quantity (that is, cumulative share of annual precipitation) against the cumulative share of the population (that is, days per year), sorted from least to greatest (Fig. 1d). The Gini coefficient is defined as the area between the Lorenz curve and the 1:1 line of equality. For more concentrated distributions, such as all of the annual precipitation falling in 1 day, the Lorenz curve deviates further from the line of equality, giving a Gini coefficient closer to 1. If all days are equally rainy, the Gini yields a value of 0. We use a computationally efficient discrete formulation to calculate the annual Gini coefficient of sorted daily precipitation (G P ): $${G}_{{\\rm{P}}}=\\frac{1}{n}\\,\\left(n+1-2\\frac{{\\Sigma }_{i}^{k}{\\Sigma }_{i}^{n}{P}_{i}}{{\\Sigma }_{i}^{n}{P}_{i}}\\right)$$ (1) where n is the number of days per year and P is a sorted vector of precipitation values for a given water-year and location. The cumulative sum of P approximates the Lorenz curve (inner numerator double summation), and the normalized integral of that curve is estimated by summing the cumulative values (outer numerator double summation) and dividing by the total sum (denominator summation). This formulation is analytically identical to more common Gini formulations, but is computationally faster. As with the other variables, we linearly detrend and demean G P to isolate local interannual anomalies. G P is—by formulation—sensitive to both incremental dry days and precipitation extremes. These joint sensitivities are mathematically coupled: in normalized terms, incremental dry days necessitate a greater concentration of annual precipitation into the remaining wet days, whereas incremental precipitation extremes leave less annual precipitation to be distributed across the remaining days of the year. This coupling maps conceptually with expectations from the physics of hydrologic intensification, in which daily precipitation responds more to warming than its annual total. We confirm this joint sensitivity of G P by regressing its annual anomalies on annual occurrence of extreme precipitation days (>99th percentile of nonzero precipitation days), dry days (<0.1 mm), and total annual precipitation as well as on annual mean temperature. Statistical models of TWS effect For each precipitation dataset, the data aggregation and G P calculations yield a panel of annual anomalies in TWS, mean temperature (T), total precipitation (P) and G P , plus long-term (absolute) climatological mean precipitation (\\(\\bar{P}\\)). The three panels vary in sample size because of differing time availability of the precipitation datasets (Supplementary Table 2). To assess the influence of G P on TWS for each panel, we apply linear fixed-effects models, a type of panel regression that enables controlling for time-invariant unobserved spatial heterogeneity using spatial fixed effects, as well as global shocks in any year using time fixed effects60. Our approach minimizes confounding by spatial or temporal trends in environmental, climate or anthropogenic factors that may covary with G P , without explicit inclusion in the model. Spatial fixed effects remove all static differences across grid cells, such as baseline differences in soils, hydrogeology, vegetation and groundwater use or irrigation infrastructure. Water-year fixed effects absorb global shocks that affect all regions simultaneously (notably, El Niño events). By detrending all variables, we also exclude long-term groundwater depletion trends, ensuring that the model captures only interannual variability. This identification strategy isolates the emergent interannual influence of precipitation concentration on TWS. The models are of the form $$\\,{\\mathrm{TWS}}^{i,t}=\\theta {T}^{i,t}+\\pi {P}^{i,t}+\\gamma {G}_{{\\rm{P}}}^{i,t}+\\chi {G}_{{\\rm{P}}}^{i,t}{\\bar{P}}^{i}+{\\sigma }^{i}+{\\tau }^{t}+{\\varepsilon }^{i,t}$$ (2) where θ and π are coefficients of temperature and annual precipitation, σ and τ are spatial and time fixed effects, superscripts i and t denote grid cell and water-year, and ε is the residual. These terms are included as controls for the influence of other hydroclimate or unobserved variables. We estimate the effect of G P as an interaction with climatological mean precipitation (using linear coefficient γ and interaction coefficient χ) to explicitly assess variation in the effect across the global aridity gradient. As such, the marginal effect of an anomaly ΔG P on TWS is conditional on climatological precipitation and is given by $$\\Delta \\mathrm{TWS}=(\\gamma +\\chi \\bar{P})\\Delta {G}_{{\\rm{P}}}$$ (3) We interpret this marginal effect as the generalizable response of local interannual TWS variation to local anomalies of precipitation concentration, conditioned on local climatological wetness. We present the marginal effect of G P on TWS per a 10 percentage-point change in G P (that is, a G P anomaly of 0.1) as G P values are bounded between 0 and 1, and vary interannually by a smaller portion of that range. For each precipitation dataset, we estimate the coefficients in equation (2) separately using absolute anomalies (to quantify the effect in hydrologically meaningful units) and standardized anomalies (to enable comparison of effect sizes across predictors). Coefficients are estimated using the lfe package in R. Global Pearson correlation among predictors (pooled across space and time) is under 0.5 (r2 under 0.25), indicating little scope for influence of collinearity on regression estimates (Extended Data Fig. 10). To ease visualization of standardized coefficients, we present the conditional G P effect at the global population-weighted climatological mean precipitation value of 1,000 mm. As the marginal effect of G P on TWS is conditioned on climatological precipitation, its standard error depends on the variance of coefficients χ and γ as well as the climatological precipitation. We estimate this standard error (SE) using the variance of linear combinations of estimators: $$\\mathrm{SE}(\\gamma +\\chi \\bar{P})=\\sqrt{\\mathrm{var}(\\gamma )+{\\bar{P}}^{2}\\mathrm{var}(\\chi )+2\\bar{P}\\cdot \\mathrm{cov}(\\gamma ,\\chi )}$$ (4) When estimating the variances and covariance of χ and γ, we cluster standard errors at the main river basin scale to account for spatial and temporal autocorrelation of gridded data51—this step yields more conservative standard errors and avoids type-I errors due to the non-independence of observations. We also tested Conley spatial standard errors61 with distance cutoffs of 300 km (roughly the effective resolution of GRACE) and 750 km (the average length scale of global river basins in HydroSHEDS; Supplementary Fig. 6a–c), and Driscoll–Kraay temporal standard errors with time cutoffs of 3 years and 5 years (Supplementary Fig. 6d–f). All approaches yield similar confidence intervals. At a given value of climatological precipitation, we consider the marginal effect of G P on TWS as statistically significant, for which its median estimate plus or minus two standard errors excludes zero. We also estimate a reduced form of equation (2) at the main river basin scale to check the robustness of the global effect at finer spatial scales51, and to characterize its spatial variability. We omit the interaction between G P and climatological precipitation, as variation in climatological precipitation within basins is smaller than across the globe. For simplicity, we present these basin-scale TWS effects as the average across the three products, wherever they are significant (P < 0.05) and of consistent sign in at least two of the three precipitation data products. Basin-scale TWS effects are fairly consistent across the three data products (Extended Data Fig. 5). Although spatial fixed effects control for time-invariant spatial differences, they do not control for confounders that vary interannually in response to G P itself, such as irrigation responses to year-to-year variation in TWS change, which might deplete groundwater. To isolate the influence of irrigation, we add an interaction term, I, for the grid cell area equipped for irrigation to equation (2) (using data from the UN Food and Agriculture AQUASTAT Global Information System on Water and Agriculture): $${{\\rm{T}}{\\rm{W}}{\\rm{S}}}^{i,t}=\\theta {T}^{i,t}+\\pi {P}^{i,t}+\\gamma {G}_{{\\rm{P}}}^{i,t}+\\chi {G}_{{\\rm{P}}}^{i,t}{\\bar{P}}^{i}+\\varphi {G}_{{\\rm{P}}}^{i,t}{I}^{i}+\\delta {I}^{i}{G}_{{\\rm{P}}}^{i,t}{\\bar{P}}^{i}+{\\sigma }^{i}+{\\tau }^{t}+{\\varepsilon }^{i,t}$$ (5) In this model, the influence of G P on TWS depends on both climatological mean precipitation and irrigation area, which we evaluate at varying levels. The approach enables our isolation of irrigation influence, despite 95% of grid cells in our analysis containing <1% irrigated area. For the CMIP6-LS3MIP land-hist climate model data, we apply the identical data aggregation and statistical modelling in equations (2–4) to the simulated TWS, T, P and G",
+      "difficulty_constant": 11.8,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The dataset represents monthly total water mass variations at a gridded resolution, which is _____ to analyze water stock changes.",
+          "options": {
+            "A": "negligible",
+            "B": "redundant",
+            "C": "pivotal",
+            "D": "ambiguous"
+          },
+          "answer": "C",
+          "explanation": "Context suggests the dataset is essential for the analysis. 'Pivotal' means crucial, fitting the context best."
+        },
+        {
+          "q_number": 2,
+          "stem": "We omit data before August 2002 _____ sensor calibration at the outset of the GRACE mission.",
+          "options": {
+            "A": "due to",
+            "B": "in favor of",
+            "C": "regardless of",
+            "D": "thanks to"
+          },
+          "answer": "A",
+          "explanation": "The context explains the reason for omission, 'due to' is the standard causal preposition."
+        },
+        {
+          "q_number": 3,
+          "stem": "We use GRACE TWS because it is an observational data product that _____ measures land water.",
+          "options": {
+            "A": "sporadically",
+            "B": "holistically",
+            "C": "erroneously",
+            "D": "superficially"
+          },
+          "answer": "B",
+          "explanation": "The text states it captures all stocks, indicating a comprehensive or 'holistic' approach."
+        },
+        {
+          "q_number": 4,
+          "stem": "To _____ observational uncertainty, we use three daily gridded precipitation data products.",
+          "options": {
+            "A": "amplify",
+            "B": "ignore",
+            "C": "account for",
+            "D": "exaggerate"
+          },
+          "answer": "C",
+          "explanation": "In scientific writing, researchers 'account for' uncertainty to improve robustness."
+        },
+        {
+          "q_number": 5,
+          "stem": "GPCC is a station-based product with coverage over 1982–2020, _____ CPC and GPCP integrate satellite observations.",
+          "options": {
+            "A": "furthermore",
+            "B": "therefore",
+            "C": "consequently",
+            "D": "whereas"
+          },
+          "answer": "D",
+          "explanation": "The sentence contrasts GPCC's methodology with others; 'whereas' is the correct conjunction for contrast."
+        },
+        {
+          "q_number": 6,
+          "stem": "We repeated our analysis for the more recent GPCP v.3.3 and find _____ main effects.",
+          "options": {
+            "A": "divergent",
+            "B": "contradictory",
+            "C": "unreliable",
+            "D": "consistent"
+          },
+          "answer": "D",
+          "explanation": "The text states the results were consistent, supporting the main analysis."
+        },
+        {
+          "q_number": 7,
+          "stem": "The dataset is limited here to 2002–2017, _____ its utility for longer periods.",
+          "options": {
+            "A": "constraining",
+            "B": "extending",
+            "C": "enhancing",
+            "D": "promoting"
+          },
+          "answer": "A",
+          "explanation": "The limitation in time range 'constrains' or restricts its usage for broader timeframes."
+        },
+        {
+          "q_number": 8,
+          "stem": "All data URLs are _____ in Supplementary Table 1 for reader reference.",
+          "options": {
+            "A": "concealed",
+            "B": "enumerated",
+            "C": "discarded",
+            "D": "distorted"
+          },
+          "answer": "B",
+          "explanation": "Supplementary tables usually contain listed or 'enumerated' information."
+        },
+        {
+          "q_number": 9,
+          "stem": "Climate models are forced by atmospheric forcings, _____ precipitation data derived from 20CR.",
+          "options": {
+            "A": "excluding",
+            "B": "despite",
+            "C": "with",
+            "D": "without"
+          },
+          "answer": "C",
+          "explanation": "The precipitation data is an accompaniment/source, so 'with' is grammatically and logically correct."
+        },
+        {
+          "q_number": 10,
+          "stem": "No participating models report all required variables, _____ extending our climate model analysis towards mechanisms.",
+          "options": {
+            "A": "facilitating",
+            "B": "encouraging",
+            "C": "maintaining",
+            "D": "precluding"
+          },
+          "answer": "D",
+          "explanation": "The lack of variables prevents or 'precludes' further analysis."
+        },
+        {
+          "q_number": 11,
+          "stem": "Snow and ice storage changes are _____ on this water-year scale.",
+          "options": {
+            "A": "significant",
+            "B": "substantial",
+            "C": "negligible",
+            "D": "dominant"
+          },
+          "answer": "C",
+          "explanation": "The text notes that for the specified scale, these factors are ignored or 'negligible'."
+        },
+        {
+          "q_number": 12,
+          "stem": "We linearly detrend GRACE data to _____ interannual variability from long-term trends.",
+          "options": {
+            "A": "complicate",
+            "B": "obfuscate",
+            "C": "integrate",
+            "D": "isolate"
+          },
+          "answer": "D",
+          "explanation": "Detrending is done to 'isolate' specific signals from noise or broader trends."
+        },
+        {
+          "q_number": 13,
+          "stem": "This focus on interannual variability is to establish whether precipitation distributions lead to _____ water balance changes.",
+          "options": {
+            "A": "negligible",
+            "B": "cumulative",
+            "C": "stationary",
+            "D": "insignificant"
+          },
+          "answer": "B",
+          "explanation": "Water balance changes accumulate over time, fitting 'cumulative'."
+        },
+        {
+          "q_number": 14,
+          "stem": "We interpolate all datasets to a common 0.5° grid as a _____ across the resolutions.",
+          "options": {
+            "A": "discrepancy",
+            "B": "compromise",
+            "C": "contradiction",
+            "D": "confrontation"
+          },
+          "answer": "B",
+          "explanation": "A common resolution used when datasets differ is a 'compromise'."
+        },
+        {
+          "q_number": 15,
+          "stem": "The Gini coefficient is based on the Lorenz curve, which _____ the cumulative share of total quantity.",
+          "options": {
+            "A": "plots",
+            "B": "neglects",
+            "C": "denies",
+            "D": "conceals"
+          },
+          "answer": "A",
+          "explanation": "The Lorenz curve 'plots' data points to visualize inequality."
+        },
+        {
+          "q_number": 16,
+          "stem": "If all days are equally rainy, the Gini yields a value of 0, _____ complete equality.",
+          "options": {
+            "A": "denoting",
+            "B": "disregarding",
+            "C": "avoiding",
+            "D": "challenging"
+          },
+          "answer": "A",
+          "explanation": "A Gini value of 0 'denotes' or signifies equality in economic and statistical contexts."
+        },
+        {
+          "q_number": 17,
+          "stem": "These joint sensitivities are mathematically _____, linking dry days to precipitation extremes.",
+          "options": {
+            "A": "dismantled",
+            "B": "isolated",
+            "C": "coupled",
+            "D": "divided"
+          },
+          "answer": "C",
+          "explanation": "The text explains the variables are mathematically 'coupled'."
+        },
+        {
+          "q_number": 18,
+          "stem": "We apply linear fixed-effects models, a type of panel regression that enables controlling for _____ spatial heterogeneity.",
+          "options": {
+            "A": "frequently-shifting",
+            "B": "rapidly-changing",
+            "C": "unpredictable",
+            "D": "time-invariant"
+          },
+          "answer": "A",
+          "explanation": "Fixed effects control for 'time-invariant' or static differences."
+        },
+        {
+          "q_number": 19,
+          "stem": "Our approach minimizes confounding by spatial or temporal trends that may _____ with G P.",
+          "options": {
+            "A": "align",
+            "B": "clash",
+            "C": "deviate",
+            "D": "covary"
+          },
+          "answer": "D",
+          "explanation": "Variables that change together are said to 'covary'."
+        },
+        {
+          "q_number": 20,
+          "stem": "We estimate the effect of G P as an interaction to explicitly assess _____ in the effect across the gradient.",
+          "options": {
+            "A": "variation",
+            "B": "uniformity",
+            "C": "stagnation",
+            "D": "constancy"
+          },
+          "answer": "B",
+          "explanation": "Interactions allow the assessment of 'variation' in effects across different conditions."
+        }
+      ]
+    },
+    {
+      "title": "How much for a fake authorship? Ad database reveals secrets of scientific fraud",
+      "article_update_date": "04.24.2026",
+      "source_journal": "Nature",
+      "body_text": "The cost of authorship slots on studies produced by papermills ranges from less than $100 to more than $5000, an analysis found. Credit: Ievgen Chabanov/Alamy Researchers have amassed a data set of thousands of advertisements selling research-paper authorships online, shedding light on the global marketplace for academic fraud. The collection — the largest of its kind — contains more than 18,700 adverts that were posted between March 2020 and early April 2026 by seven paper mills — businesses that produce fake or low-quality research and sell authorships. Together, the companies cater to academics in the Middle East, Central Asia, Eastern Europe and India. Authorship for sale: Nature investigates how paper mills work An analysis of the advert data found that a first-author slot on an article sold by a paper mill costs a median value of nearly US$800, with prices ranging from $57 to more than $5,600. The work is described in a preprint submitted to arXiv this week. Researchers, publishers and indexing services could use the list of adverts to screen their publications and audit which journals and research topics are most likely to be targeted, says study co-author Reese Richardson, a metascientist at Northwestern University in Evanston, Illinois. “The preprint paints a valuable picture of the significant financial scale of these operations, underscoring the pressure put on researchers to publish in order to advance in their careers,” a spokesperson for the New Jersey-based publisher Wiley told Nature. Global operations Richardson and his colleagues archived 2,311 advertisements that were posted on the messaging app Telegram by three paper mills that seem to be based in India, Iraq and Uzbekistan. The team also identified 16,399 advertisements from the websites of four businesses thought to operate from Russia, Latvia, Kazakhstan and Ukraine. “What we’re beginning to see here is a pattern of global operations and the platformization of social media and online websites to operate a global network of businesses and corporations that exist for the purposes of scientific and academic fraud,” says Sarah Eaton, who studies academic integrity and fraud at the University of Calgary in Canada. The data set “tells us an awful lot about the businesses, their marketing and some of their operations”. Science’s fake-paper problem: high-profile effort will tackle paper mills All seven paper mills advertised authorships for research articles — sometimes giving the title of the article and the journal in which it would be published. But two companies also offered authorships on other types of publication, such as textbooks, as well as other services, including being named on patents and copyright registrations or receiving awards. “Paper mills are really in a variety of different businesses to the extent that the phrase ‘paper mill’ doesn’t capture everything that’s going on,” says Richardson. “I like to think of them as businesses operating in the market for reputation manipulation.” The study found that some of the paper mills even ran seasonal discounts and holiday sales. Papers in the wild There are signs that manuscripts sold by paper mills make their way into the published literature at least some of the time. Using the data set, Nature’s news team manually checked more than 600 adverts for some 400 research articles that included manuscript titles in English. The search identified 53 published papers with titles that matched those in adverts from three businesses. Only five of those papers have been retracted, and one was withdrawn while the article was in the press. Out of the papers that have not been retracted, four were published in Springer Nature journals and five in Wiley journals. Twenty-three papers appeared in conference proceedings published by the Institute of Electrical and Electronics Engineers (IEEE). Nature’s analysis also identified a further three papers, one each in journals published by Elsevier, Frontiers and Taylor & Francis. Some of the papers appeared in different publishers to those named in the advert. Nature’s news team shared these findings with all six publishers.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary function of the 'paper mills' described by researchers?",
+          "options": {
+            "A": "They provide mentorship for researchers in emerging economies.",
+            "B": "They assist academic institutions in conducting high-quality peer reviews.",
+            "C": "They operate as businesses that sell fake or low-quality research credits.",
+            "D": "They act as legitimate indexing services for global scientific publications."
+          },
+          "answer": "C",
+          "explanation": "文章第二段明确指出：“seven paper mills — businesses that produce fake or low-quality research and sell authorships.” 故选项C符合题意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does Reese Richardson suggest the collected data set could be utilized?",
+          "options": {
+            "A": "To assist researchers in finding reputable journals for publication.",
+            "B": "To help publishers audit journals and research topics susceptible to fraud.",
+            "C": "To provide a comprehensive database for pricing academic research globally.",
+            "D": "To expose the specific identities of individual researchers who buy authorships."
+          },
+          "answer": "B",
+          "explanation": "文章第三段提到：“Researchers, publishers and indexing services could use the list of adverts to screen their publications and audit which journals and research topics are most likely to be targeted.” 选项B准确概括了这一点。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is Sarah Eaton's perspective on the findings presented in the study?",
+          "options": {
+            "A": "She believes the operations are limited to specific regional markets.",
+            "B": "She considers the paper mills to be a minor issue in academic integrity.",
+            "C": "She views the current findings as evidence of a sophisticated, globalized network for academic fraud.",
+            "D": "She argues that the platformization of social media has successfully reduced instances of fraud."
+          },
+          "answer": "C",
+          "explanation": "文章第五段援引Sarah Eaton的话：“What we’re beginning to see here is a pattern of global operations and the platformization of social media... that exist for the purposes of scientific and academic fraud.” 这支持了选项C。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The author quotes Richardson calling paper mills 'businesses operating in the market for reputation manipulation' to imply that:",
+          "options": {
+            "A": "The term 'paper mill' is too narrow to describe their diverse fraudulent services.",
+            "B": "The companies primarily focus on software for corporate reputation management.",
+            "C": "Most paper mills are actually legitimate marketing firms for scientists.",
+            "D": "The main goal of these businesses is to improve the quality of academic journals."
+          },
+          "answer": "A",
+          "explanation": "文章第六段Richardson提到，除了写论文，这些公司还提供专利署名、奖项获取等服务，因此“paper mill”这一术语不足以概括其业务范围。故选项A正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What did Nature's analysis of published papers revealed in the 'Papers in the wild' section suggest?",
+          "options": {
+            "A": "The majority of papers sold by paper mills were promptly retracted by publishers.",
+            "B": "A significant number of papers advertised by mills successfully appeared in published literature.",
+            "C": "Most publishers have successfully identified and blocked all papers originating from paper mills.",
+            "D": "The papers were exclusively limited to one single major publishing house."
+          },
+          "answer": "B",
+          "explanation": "最后一段指出，Nature团队发现了53篇已发表论文与广告标题匹配，且其中大部分尚未被撤回，说明这些虚假论文确实进入了已发表的文献体系中，即选项B。"
+        }
+      ]
+    },
+    {
+      "title": "From Allbirds to Glossier, millennial brands have lost their mojo",
+      "article_update_date": "04.30.2026",
+      "source_journal": "Economist",
+      "body_text": "From Allbirds to Glossier, millennial brands have lost their mojo Business | Mid-life crisis From Allbirds to Glossier, millennial brands have lost their mojo They have been squeezed by competitors old and new April 23rd 2026 THOSE STILL doubting that investors’ exuberance for artificial intelligence is straying into the irrational received further evidence on April 15th when Allbirds , a wool-sneaker brand that took off among Silicon Valley millennials a decade or so ago, announced a plan to remake itself as a provider of AI computing infrastructure. The share price of the company—which will be renamed NewBird AI—briefly soared by more than 800%, and has since settled at roughly four times its pre-announcement level. The reaction was also a striking indictment of the prospects facing the business before its metamorphosis. Since its peak in November 2021, shortly after it went public, Allbirds had lost 99% of its market value. It is not the only brand that soared in the 2010s on the back of enthusiasm from young shoppers only to come crashing back down in the past few years. Firms such as Glossier, a beauty label, Warby Parker, a spectacle merchant, and Dollar Shave Club, a seller of razors, built thriving businesses by advertising and selling products directly over the internet to millennials. At their peak, several commanded valuations in the billions of dollars. But they have not aged well. These once-buzzy millennial brands were built on two ideas. The first was that many products widely thought to require consumers to see them in person before making a purchase could in fact be sold online, saving on the cost of running a physical store. Warby Parker lent customers glasses frames to test at home; Casper, a mattress brand, guessed that consumers did not actually need to jump up and down on their product before buying it. The second idea was that mastery of social media would allow these brands to drum up interest in their products without requiring the costly ad campaigns of yore. Glossier, for example, packaged its wares in colourful bubble wrap, spurring customers to post “unboxing” videos on Instagram that provided free publicity. At first, the business model led to rapid growth. But success has been more difficult to sustain. These brands had a “free lunch” during their infancy because interest rates were low and the cost of acquiring customers on social media was cheap, argues Daniel Corsten of IE Business School in Spain. Neither remains true. The tide of venture-capital funding has receded as interest rates have risen and investors have shifted their attention to AI. At the same time, online advertising has become saturated, forcing companies to pay more to reach shoppers. The cost to brands of acquiring new customers online rose by 40-60% between 2023 and 2025, depending on the channel, notes Mr Corsten. Partly as a response, many millennial brands have built a physical retail presence in the past few years. Competition has also stiffened. Large incumbents have raised their game online by learning from the millennial brands, points out Camille Moore, who runs a branding consultancy. What is more, a new generation of upstarts has emerged, often led by celebrities hoping to cash in on their legions of followers on social media. Rhode, a lip-gloss brand founded in 2022 by Hailey Bieber, wife of Justin, was sold last year to e.l.f. Beauty, a cosmetics business, for as much as $1bn. Allbirds is unique among its peers in abandoning consumer goods altogether. But other millennial brands have suffered existential crises of their own. Casper, which went public in February 2020, was taken private in November 2021 after losing around 70% of its value over the period. Glossier has reportedly tried to sell itself, but been unable to find a buyer. Unilever, a consumer-products conglomerate, bought Dollar Shave Club in 2016 for $1bn, but sold a majority stake to a private-equity firm in 2023, reportedly at a much lower valuation. “We lost our edge, we lost our vibe,” the brand’s boss moped last year. Gone are the days of rapid growth for millennial brands. Now they must learn from older incumbents how to keep customers they have won, argues Ms Moore. The next generation of young upstarts is hot on their heels. ■ To track the trends shaping commerce, industry and technology, sign up to “ The Bottom Line ”, our weekly subscriber-only newsletter on global business. This article was downloaded by zlibrary from https://www.economist.com//business/2026/04/21/from-allbirds-to-glossier-millennial-brands-have-lost-their-mojo",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the market reaction to Allbirds' pivot to AI infrastructure primarily reflects:",
+          "options": {
+            "A": "a deep-seated confidence in the brand's long-term product diversification.",
+            "B": "an ironic acknowledgment of the brand's dismal performance prior to the announcement.",
+            "C": "a calculated investor strategy to bolster the wool-sneaker market.",
+            "D": "a widespread belief that NewBird AI will outperform incumbent AI firms."
+          },
+          "answer": "B",
+          "explanation": "文章提到Allbirds在宣布转型前市值蒸发了99%，而宣布转型后股价飙升，作者将其称为“a striking indictment of the prospects facing the business”，意指这次飙升反而反衬了之前业务的极其惨淡，B选项符合这一含义。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is implied as the primary reason why the 'free lunch' model for millennial brands became unsustainable?",
+          "options": {
+            "A": "The rise of physical retail stores increased the brands' operational overhead.",
+            "B": "The collapse of the social media ecosystem made advertising impossible.",
+            "C": "Changes in economic conditions and marketing costs eroded their competitive advantage.",
+            "D": "The lack of innovation in product design led to a loss of millennial interest."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到利率上升导致风险投资减少，同时线上获客成本上涨（40-60%），这些经济环境的变化直接终结了当初的“免费午餐”模式，C选项准确概括了这些宏观因素。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author uses the example of Rhode to illustrate which point?",
+          "options": {
+            "A": "The dominance of celebrity-led brands in the current market.",
+            "B": "The failure of millennial brands to compete with old incumbents.",
+            "C": "The difficulty of selling beauty brands to larger conglomerates.",
+            "D": "The diminishing influence of social media followers on sales."
+          },
+          "answer": "A",
+          "explanation": "文章提到Rhode是为了说明新一代品牌（upstarts）的兴起，且这些品牌通常由拥有大量粉丝的网红名人主导，这加剧了老一代千禧品牌面临的竞争压力，A选项与文章逻辑一致。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the current dilemma faced by millennial brands mentioned in the text?",
+          "options": {
+            "A": "They are forced to abandon their core products to survive.",
+            "B": "They are caught between traditional incumbents and emerging celebrity-backed challengers.",
+            "C": "They lack the financial resources to pivot towards AI infrastructure.",
+            "D": "They have failed to transition from digital-only to multi-channel sales."
+          },
+          "answer": "B",
+          "explanation": "文章最后指出大公司（incumbents）正在线上业务上迎头赶上，而年轻的后起之秀（upstarts）也紧随其后，千禧品牌处于前后夹击的境地，B选项完整覆盖了这一困境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The expression 'lost their mojo' in the title most likely means:",
+          "options": {
+            "A": "suffered from identity theft.",
+            "B": "ceased to exist due to bankruptcy.",
+            "C": "declined in influence and competitive spirit.",
+            "D": "failed to track changing consumer trends."
+          },
+          "answer": "C",
+          "explanation": "“Mojo”在这里指品牌曾经拥有的那种吸引力和魔力。文章描述这些品牌曾经非常火爆（buzzy），但现在陷入危机、增长停滞，这显然是指它们的市场影响力和商业活力衰退了，故选C。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 23",
+      "article_update_date": "04.03.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Andy Greenberg The Big Story Dec 4, 2025 12:00 PM A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code Privacy stalwart Nicholas Merrill spent a decade fighting an FBI surveillance order. Now he wants to sell you phone service—without knowing almost anything about you. Photographs: Yael Malka Nicholas Merrill has spent his career fighting government surveillance . But he would really rather you didn’t call what he’s selling now a “burner phone.” Yes, he dreams of a future where anyone in the US can get a working smartphone—complete with cellular coverage and data—without revealing their identity, even to the phone company. But to call such anonymous phones “burners” suggests that they’re for something illegal, shady, or at least subversive. The term calls to mind drug dealers or deep-throat confidential sources in parking garages. With his new startup, Merrill says he instead wants to offer cellular service for your existing phone that makes near-total mobile privacy the permanent, boring default of daily life in the US. “We're not looking to cater to people doing bad things,” says Merrill. “We're trying to help people feel more comfortable living their normal lives, where they're not doing anything wrong, and not feel watched and exploited by giant surveillance and data mining operations. I think it’s not controversial to say the vast majority of people want that.” That’s the thinking behind Phreeli, the phone carrier startup Merrill launched today, designed to be the most privacy-focused cellular provider available to Americans. Phreeli, as in, “speak freely,” aims to give its user a different sort of privacy from the kind that can be had with end-to-end encrypted texting and calling tools like Signal or WhatsApp . Those apps hide the content of conversations, or even, in Signal’s case, metadata like the identities of who is talking to whom. Phreeli instead wants to offer actual anonymity. It can’t help government agencies or data brokers obtain users’ identifying information because it has almost none to share. The only piece of information the company records about its users when they sign up for a Phreeli phone number is, in fact, a mere ZIP code. That’s the minimum personal data Merrill has determined his company is legally required to keep about its customers for tax purposes. By asking users for almost no identifiable information, Merrill wants to protect them from one of the most intractable privacy problems in modern technology: Despite whatever surveillance-resistant communications apps you might use, phone carriers will always know which of their customers’ phones are connecting to which cell towers and when. Carriers have frequently handed that information over to data brokers willing to pay for it—or any FBI or ICE agent that demands it with a court order Merrill has some firsthand experience with those demands. Starting in 2004, he fought a landmark, decade-plus legal battle against the FBI and the Department of Justice. As the owner of an internet service provider in the post-9/11 era, Merrill had received a secret order from the bureau to hand over data on a particular user—and he refused. After that, he spent another 15 years building and managing the Calyx Institute, a nonprofit that offers privacy tools like a snooping-resistant version of Android and a free VPN that collects no logs of its users’ activities. “Nick is somebody who is extremely principled and willing to take a stand for his principles,” says Cindy Cohn, who as executive director of the Electronic Frontier Foundation has led the group’s own decades-long fight against government surveillance. “He's careful and thoughtful, but also, at a certain level, kind of fearless.” Nicholas Merrill with a copy of the National Security Letter he received from the FBI in 2004, ordering him to give up data on one of his customers. He refused, fought a decade-plus court battle—and won. Photograph: Yael Malka More recently, Merrill began to realize he had a chance to achieve a win against surveillance at a more fundamental level: by becoming the phone company. “I started to realize that if I controlled the mobile provider, there would be even more opportunities to create privacy for people,” Merrill says. “If we were able to set up our own network of cell towers globally, we can set the privacy policies of what those towers see and collect.” Building or buying cell towers across the US for billions of dollars, of course, was not within the budget of Merrill’s dozen-person startup. So he’s created the next best thing: a so-called mobile virtual network operator, or MVNO, a kind of virtual phone carrier that pays one of the big, established ones—in Phreeli’s case, T-Mobile—to use its infrastructure. The result is something like a cellular prophylactic. The towers are T-Mobile’s, but the contracts with users—and the decisions about what private data to require from them—are Phreeli’s. “You can't control the towers. But what can you do?” he says. “You can separate the personally identifiable information of a person from their activities on the phone system.” Signing up a customer for phone service without knowing their name is, surprisingly, legal in all 50 states, Merrill says. Anonymously accepting money from users—with payment options other than envelopes of cash—presents more technical challenges. To that end, Phreeli has implemented a new encryption system it calls Double-Blind Armadillo , based on cutting-edge cryptographic protocols known as zero-knowledge proofs . Through a kind of mathematical sleight of hand, those crypto functions are capable of tasks like confirming that a certain phone has had its monthly service paid for, but without keeping any record that links a specific credit card number to that phone. Phreeli users can also pay their bills (or rather, prepay them, since Phreeli has no way to track down anonymous users who owe them money) with tough-to-trace cryptocurrency like Zcash or Monero. Phreeli users can, however, choose to set their own dials for secrecy versus convenience. If they offer an email address at signup, they can more easily recover their account if their phone is lost. To get a SIM card, they can give their mailing address—which Merrill says Phreeli will promptly delete after the SIM ships—or they can download the digital equivalent known as an eSIM, even, if they choose, from a site Phreeli will host on the Tor anonymity network. Phreeli’s “armadillo” analogy—the animal also serves as the mascot in its logo—is meant to capture this sliding scale of privacy that Phreeli offers its users: Armadillos always have a layer of armor, but they can choose whether to expose their vulnerable underbelly or curl into a fully protected ball. Even if users choose the less paranoid side of that spectrum of options, Merrill argues, his company will still be significantly less surveillance-friendly than existing phone companies, which have long represented one of the weakest links in the tech world’s privacy protections. All major US cellular carriers comply, for instance, with law enforcement surveillance orders like “tower dumps” that hand over data to the government on every phone that connected to a particular cell tower during a certain time. They’ve also happily, repeatedly handed over your data to corporate interests: Last year the Federal Communications Commission fined AT&T, Verizon, and T-Mobile nearly $200 million for selling users’ personal information, including their locations, to data brokers. (AT&T’s fine was later overturned by an appeals court ruling intended to limit the FCC’s enforcement powers.) Many data brokers in turn sell the information to federal agencies, including ICE and other parts of the DHS, offering an all-too-easy end run around restrictions on those agencies’ domestic spying. Phreeli doesn’t promise to be a surveillance panacea. Even if your cellular carrier isn’t tying your movements to your identity, the operating system of whatever phone you sign up with might be. Even your mobile apps can track you. But for a startup seeking to be the country’s most privacy-focused mobile carrier, the bar is low. “The goal of this phone company I'm starting is to be more private than the three biggest phone carriers in the US. That’s the promise we’re going to massively overdeliver on,” says Merrill. “I don’t think there’s any way we can mess that up.” Merrill’s not-entirely-voluntary decision to spend the last 20-plus years as a privacy diehard began with three pages of paper that arrived at his office on a February day in New York in 2004. An FBI agent knocked on the door of his small internet service provider firm called Calyx, headquartered in a warehouse space a block from the Holland Tunnel in Manhattan. When Merrill answered, he found an older man with parted white hair, dressed in a trench coat like a comic book G-man, who handed him an envelope. Merrill opened it and read the letter while the agent waited. The first and second paragraphs told him he was hereby ordered to hand over virtually all information he possessed for one of his customers, identified by their email address, explaining that this demand was authorized by a law he’d later learn was part of the Patriot Act. The third paragraph informed him he couldn’t tell anyone he’d even received this letter—a gag order. Then the agent departed without answering any of Merrill’s questions. He was left to decide what to do, entirely alone. Merrill was struck immediately by the fact that the letter had no signature from a judge. He had in fact been handed a so-called National Security Letter, or NSL, a rarely seen and highly controversial tool of the Bush administration that allowed the FBI to demand information without a warrant, so long as it was related to “national security.” Calyx’s actual business, since he’d first launched the company in the early ’90s with a bank of modems in the nonfunctional fireplace of a New York apartment, had evolved into hosting the websites of big corporate customers like Mitsubishi and Ikea. But Merrill used that revenue stream to give pro bono or subsidized web hosting to nonprofit clients he supported like the Marijuana Policy Project and Indymedia—and to offer fast internet connections to a few friends and acquaintances like the one named in this surveillance order. Merrill has never publicly revealed the identity of the NSL's target, and he declined to share it with WIRED. But he knew this particular customer, and he certainly didn’t strike Merrill as a national security threat. If he were, Merrill thought, why not just get a warrant? The customer would later tell Merrill he had in fact been pressured by the FBI to become an informant—and had refused. The bureau, he told Merrill, had then retaliated by putting him on the no-fly list and pressuring employers not to hire him. (The FBI didn’t respond to WIRED’s request for comment on the case.) Merrill immediately decided to risk disobeying the gag order—on pain of what consequences, he had no idea—and called his lawyer, who told him to go to the New York affiliate of the American Civil Liberties Union, which happened to be one of Calyx’s web-hosting clients. After a few minutes in a cab, Merrill was talking to a young attorney named Jameel Jaffer in the ACLU’s Financial District office. “I wish I could say that we reassured him with our expertise on the NSL statute, but that's not how it went down,” Jaffer says. “We had never seen one of these before.” Merrill, meanwhile, knew that every lawyer he showed the letter to might represent another count in his impending prosecution. “I was terrified,” he says. “I kind of assumed someone could just come to my place that night, throw a hood over my head, and drag me away.” Despite his fears, Merrill never complied with the FBI’s letter. Instead, he decided to fight its constitutionality in court, with the help of pro bono representation from the ACLU and later the Yale Media Freedom and Information Access Clinic. That fight would last 11 years and entirely commandeer his life.",
+      "difficulty_constant": 7.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why does Nicholas Merrill avoid using the term “burner phone” for his startup’s service?",
+          "options": {
+            "A": "The term is technically inaccurate for the infrastructure of an MVNO.",
+            "B": "It carries connotations of illegality that misrepresent his service's purpose.",
+            "C": "He believes the term is outdated and does not reflect modern cellular technology.",
+            "D": "The term implies a lack of data security which his service explicitly promises to prevent."
+          },
+          "answer": "B",
+          "explanation": "文章中提到：\"But to call such anonymous phones 'burners' suggests that they’re for something illegal, shady, or at least subversive.\" Merrill 希望强调的是隐私保护而非非法活动，因此他避免使用这个容易让人联想到犯罪行为的词。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary role of the \"Double-Blind Armadillo\" system mentioned in the text?",
+          "options": {
+            "A": "To disguise the identity of cell towers used by the mobile network.",
+            "B": "To allow users to access the Tor network through a cellular connection.",
+            "C": "To process payments without linking specific financial accounts to user identities.",
+            "D": "To encrypt the metadata of all conversations conducted over the Phreeli network."
+          },
+          "answer": "C",
+          "explanation": "文章指出该系统利用 zero-knowledge proofs 来确认费用支付，但不记录特定信用卡号与手机号之间的关联，旨在实现财务上的匿名性。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does Phreeli differentiate itself from traditional cellular carriers in handling user data?",
+          "options": {
+            "A": "It refuses to comply with any government subpoenas regarding user location.",
+            "B": "It operates its own independent network of physical cell towers across the US.",
+            "C": "It collects only the minimum information legally required, specifically ZIP codes.",
+            "D": "It prohibits the storage of any metadata related to incoming or outgoing calls."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到：\"The only piece of information the company records about its users when they sign up for a Phreeli phone number is, in fact, a mere ZIP code. That’s the minimum personal data Merrill has determined his company is legally required to keep...\""
+        },
+        {
+          "q_number": 4,
+          "stem": "The author mentions the Federal Communications Commission's fine against major carriers to illustrate:",
+          "options": {
+            "A": "The effectiveness of federal oversight in protecting consumer privacy.",
+            "B": "The susceptibility of major carriers to selling user data to brokers.",
+            "C": "The legal challenges involved in maintaining an MVNO business model.",
+            "D": "The government's inconsistent approach to regulating domestic surveillance."
+          },
+          "answer": "B",
+          "explanation": "作者引用此事例是为了证明大型通信商不仅配合政府监视，还会为了利益将个人隐私信息售卖给数据中介，从而突显 Phreeli 在隐私保护上的必要性。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about Nicholas Merrill's experience with the FBI in 2004?",
+          "options": {
+            "A": "He was forced to become an informant against his own customers.",
+            "B": "He eventually complied with the NSL after his lawyers assessed the risks.",
+            "C": "The FBI demand was based on a court-issued warrant related to national security.",
+            "D": "The experience was a pivotal factor that motivated his lifelong commitment to privacy advocacy."
+          },
+          "answer": "D",
+          "explanation": "文章结尾部分详细描述了 2004 年那封 NSL 及其引发的长期法律抗争，表明这一事件改变了他的人生轨迹，使其全身心投入到隐私工具和相关事业的建设中。"
+        }
+      ]
+    }
+  ]
+}
