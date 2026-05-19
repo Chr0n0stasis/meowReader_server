@@ -6,7 +6,7 @@ articles:
   is_used: false
   title: Chapter 5
 - id: epub_7
-  is_used: true
+  is_used: false
   title: Chapter 7
 - id: epub_8
   is_used: false
@@ -68,8 +68,8 @@ articles:
 - id: epub_36
   is_used: false
   title: Chapter 36
-capture_date: 05.17.2026
+capture_date: 05.19.2026
 journal_name: New Yorker
-publish_date: 05.17.2026
+publish_date: 05.19.2026
 source_type: github
 update_frequency: monthly
