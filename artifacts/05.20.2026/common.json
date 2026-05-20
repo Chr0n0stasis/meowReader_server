@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.20.2026",
+  "papers": [
+    {
+      "title": "The City of London is becoming a seven-day-a-week destination",
+      "article_update_date": "05.01.2026",
+      "source_journal": "Economist",
+      "body_text": "The City of London is becoming a seven-day-a-week destination Britain | Saturday-night fever The City of London is becoming a seven-day-a-week destination Weekend footfall in the Square Mile has risen sharply April 30th 2026 DESCENDING INTO the crypt of St Mary-le-Bow church is akin to stepping through a thousand years of history. The church was founded by the Normans in 1080, rebuilt by Christopher Wren after the Great Fire of London in 1666, and again after the Luftwaffe bombed it in 1941. Anyone born within the sound of its famous bells is deemed “a true Londoner”. In those cellars today, though, you will find something reflecting a modern trend: cases of fine wine served in the church’s upmarket bar. The City of London—the Square Mile of the financial district—is changing. A decade or two ago it was strictly a weekday destination: pubs and restaurants, frequented mainly by financiers, would typically shut early on weekdays and be closed altogether at weekends. No longer. It now bustles with nightlife all week, with 222 restaurants, 193 pubs and bars, 35 hotels and nine nightclubs. Weekend footfall rose by 8% last year. That is not by accident. Brexit and covid-19 forced a strategy rethink by the City of London Corporation, which runs the Square Mile. Chris Hayward, its policy chair, devised a plan that “reimagined, redesigned and revisualised” the City as a “seven-day-a-week destination”. Footfall on Saturday nights has risen by 20% in the first four months of this year compared with two years ago. Tourism plays a part, too. The Ned Hotel, which occupies the former headquarters of Midland Bank, has 250 bedrooms, ten restaurants and music every night. Its well-heeled patrons spill out to other spots in the City. Nearby a Premier Inn, in a recently converted police station, offers cheaper rooms, and a full-English breakfast for £8 ($11). According to CoStar, a research firm, hotel-room revenues in the Square Mile rose by 47% between 2019 and 2025, faster than other areas of London. Good transport links also help. Trains that shuttle City workers from all corners of Greater London in the week offer easy access at weekends. Our analysis finds that Saturday travel into the City on the Underground has risen by 22% since June 2023, whereas it is flatlining in the congested West End (see chart). At the Steel Yard, a cavernous club below Cannon Street Station, drum-and-bass pounds until the small hours. The modern sound of the City feels a world away from Bow Bells. ■ For more expert analysis of the biggest stories in Britain, sign up to Blighty, our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//britain/2026/04/30/the-city-of-london-is-becoming-a-seven-day-a-week-destination",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The City of London, historically a financial center, is undergoing a transformation into a destination that operates on a ________ basis.",
+          "options": {
+            "A": "weekday-only",
+            "B": "seven-day-a-week",
+            "C": "seasonal-based",
+            "D": "night-shift-only"
+          },
+          "answer": "B",
+          "explanation": "文章开头即提到City of London正在变成一个seven-day-a-week destination，与选项A对应。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Visiting the crypt of St Mary-le-Bow is described as ________ stepping through a long span of history.",
+          "options": {
+            "A": "akin to",
+            "B": "opposed to",
+            "C": "superior to",
+            "D": "detached from"
+          },
+          "answer": "A",
+          "explanation": "原文提到is akin to stepping through，意为“类似于”，故选B。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The church has faced numerous challenges throughout history, ________ by the Great Fire and bombing during the war.",
+          "options": {
+            "A": "neglected",
+            "B": "abandoned",
+            "C": "demolished",
+            "D": "rebuilt"
+          },
+          "answer": "D",
+          "explanation": "原文提到在火灾和轰炸后被rebuilt，符合语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "In the modern era, the church's cellar has been ________ to accommodate a bar serving wine, reflecting current trends.",
+          "options": {
+            "A": "investigated",
+            "B": "restricted",
+            "C": "dismantled",
+            "D": "repurposed"
+          },
+          "answer": "D",
+          "explanation": "将旧地窖改为现代酒吧，repurposed（改作他用）最准确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "In the past, the City of London was ________ a destination meant for weekdays only.",
+          "options": {
+            "A": "merely",
+            "B": "strictly",
+            "C": "vaguely",
+            "D": "rarely"
+          },
+          "answer": "B",
+          "explanation": "原文提到it was strictly a weekday destination，故选A。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Unlike the past, the area now ________ with nightlife activities throughout the week.",
+          "options": {
+            "A": "declines",
+            "B": "collapses",
+            "C": "struggles",
+            "D": "bustles"
+          },
+          "answer": "D",
+          "explanation": "bustle with意为“充满、繁忙”，符合当下夜生活的描述。"
+        },
+        {
+          "q_number": 7,
+          "stem": "This shift in the City's atmosphere did not happen by ________; it was a result of a strategic plan.",
+          "options": {
+            "A": "mistake",
+            "B": "force",
+            "C": "accident",
+            "D": "coincidence"
+          },
+          "answer": "C",
+          "explanation": "固定搭配by accident意为“偶然地”，原文用以引出人为决策。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Brexit and covid-19 acted as ________ that forced the City of London Corporation to rethink its strategy.",
+          "options": {
+            "A": "benefits",
+            "B": "solutions",
+            "C": "triggers",
+            "D": "obstacles"
+          },
+          "answer": "C",
+          "explanation": "根据上下文，这两个事件是促使策略重构的诱因（triggers）。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The policy chair devised a comprehensive plan that sought to ________ the City as a vibrant destination.",
+          "options": {
+            "A": "disregard",
+            "B": "reimagine",
+            "C": "overlook",
+            "D": "abandon"
+          },
+          "answer": "B",
+          "explanation": "原文提到reimagined, redesigned and revisualised，reimagine符合文意。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Tourism plays a significant ________ in this transformation, with new hotels attracting visitors.",
+          "options": {
+            "A": "trick",
+            "B": "game",
+            "C": "role",
+            "D": "fault"
+          },
+          "answer": "C",
+          "explanation": "play a part/role in是固定搭配，意为“发挥作用”。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The Ned Hotel attracts patrons who are ________, often spending money in various local establishments.",
+          "options": {
+            "A": "ill-informed",
+            "B": "well-heeled",
+            "C": "empty-handed",
+            "D": "narrow-minded"
+          },
+          "answer": "A",
+          "explanation": "well-heeled意为“富有的”，符合下文的高消费场景。"
+        },
+        {
+          "q_number": 12,
+          "stem": "While some hotels are luxurious, others like the Premier Inn offer ________ options for budget-conscious travelers.",
+          "options": {
+            "A": "pricier",
+            "B": "cheaper",
+            "C": "scarcer",
+            "D": "stricter"
+          },
+          "answer": "A",
+          "explanation": "根据文中提到的£8早餐和converted police station，属于经济实惠的选择。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Data from CoStar indicates that hotel-room revenues have experienced a ________ increase.",
+          "options": {
+            "A": "significant",
+            "B": "gradual",
+            "C": "negative",
+            "D": "negligible"
+          },
+          "answer": "D",
+          "explanation": "47%的增长在商业分析中属于显著增长（significant）。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The City's growth in revenue has been ________ faster than other areas of London.",
+          "options": {
+            "A": "unpredictably",
+            "B": "frequently",
+            "C": "considerably",
+            "D": "barely"
+          },
+          "answer": "A",
+          "explanation": "形容增长速度快，considerably（相当地）符合修饰关系。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Easy ________ to the City is another factor contributing to the rise in weekend visitors.",
+          "options": {
+            "A": "access",
+            "B": "restraint",
+            "C": "exodus",
+            "D": "avoidance"
+          },
+          "answer": "B",
+          "explanation": "good transport links提供的是便捷的进入（access）。"
+        },
+        {
+          "q_number": 16,
+          "stem": "While weekend travel to the City has surged, it is ________ in the West End.",
+          "options": {
+            "A": "soaring",
+            "B": "booming",
+            "C": "flatlining",
+            "D": "fluctuating"
+          },
+          "answer": "C",
+          "explanation": "原文提到whereas it is flatlining in the congested West End，对比鲜明。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The West End faces the challenge of being ________, which may deter potential visitors.",
+          "options": {
+            "A": "spacious",
+            "B": "congested",
+            "C": "isolated",
+            "D": "abandoned"
+          },
+          "answer": "A",
+          "explanation": "原文提到congested West End，意为“拥挤的”。"
+        },
+        {
+          "q_number": 18,
+          "stem": "At the Steel Yard, loud music continues until the ________ hours of the morning.",
+          "options": {
+            "A": "small",
+            "B": "large",
+            "C": "final",
+            "D": "prime"
+          },
+          "answer": "D",
+          "explanation": "small hours是习惯用法，指深夜或凌晨。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The current modern sound of the City feels worlds away from its ________ bells.",
+          "options": {
+            "A": "traditional",
+            "B": "artificial",
+            "C": "modernized",
+            "D": "temporary"
+          },
+          "answer": "B",
+          "explanation": "Bow Bells象征传统历史，故选traditional。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The transformation of the City serves as a testament to the ________ of urban centers.",
+          "options": {
+            "A": "instability",
+            "B": "inability",
+            "C": "adaptability",
+            "D": "futility"
+          },
+          "answer": "C",
+          "explanation": "文章展示了城市适应时代变迁的能力（adaptability）。"
+        }
+      ]
+    },
+    {
+      "title": "Carney says it’s Canada’s ‘time to come together’ after Liberals secure majority",
+      "article_update_date": "04.15.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Mark Carney has said he will govern with “humility, determination and a clear understanding of what this moment demands” after his Liberals swept three byelections Monday evening, forging a parliamentary majority just more than a year after he took power. Carney has achieved only the third majority government in two decades – and has done so in a highly unusual fashion, cobbling together both ballot box wins and defections from rival parties. While the Liberals were heavily favoured in two of three byelections on Monday, they outperformed in all contests at the expense of a struggling Conservative party. Danielle Martin won easily in University-Rosedale and Doly Begum, who Carney’s team wooed from the provincial New Democratic party, captured nearly 70% of the vote in Scarborough Southwest. Tatiana Auguste, whose 2025 victory of a single vote made headlines, came out on top after a close battle in the Montreal-area riding of Terrebonne. Ahead of Monday’s special elections, the Liberals held 171 seats in the House of Commons. Five of those came from lawmakers who had defected from other parties. The Liberals now hold 174 of 343 seats. The Conservatives have 140, the Bloc Québécois 22, the NDP six, and the Greens one. “This is a time to come together so we can build a Canada strong for all,” Carney said in a statement shortly after midnight, calling for bipartisan “collaboration, partnership, and ambition” in the coming months. “We will build a Canada that is not just strong, but good; not just prosperous, but fair; not just for some, most of the time, but for all, all of the time,” he said. “That is the responsibility we have been given by Canadians. We will achieve it together.” Carney’s Liberals were handed a minority government mandate by voters last year. But the constant threat of Donald Trump’s protectionist trade policies – and the highly erratic and unpredictable nature of how those policies are implemented – has shored up support for Carney, who has pledged a steady economic hand. A string of floor crossings from parties to both the ideological left and right of the Liberals has produced a feat without modern precedent: building a majority government from a legislative minority. Pierre Poilievre, the Conservative leader who has lost four of his parliamentary members to the Liberals, condemned the outcome on Monday evening. “The Carney Liberals did not win a majority government through a general election or today’s byelections. Instead, it was won through backroom deals with politicians who betrayed the people who voted for them,” he wrote on social media. “Liberals expect Canadians to give up, get complacent and go away, so Carney can have total power without any accountability. That will not happen. Our country and its people are worth fighting for.” With an election now likely three years away, Poilievre must contend with reduced political power – and persistent rumours that more Tories are preparing to abandon the party. Electoral results underscored the challenge he faces: the Conservative vote share dropped by double-digits in all three ridings, including one of the party’s worst-ever performance outside a major city in Quebec. An aggregate of national polls show the Liberals far ahead of the Conservatives –dramatic reversal for the Tories who, less than two years ago, were on the cusp of a historic majority government. Liberals will now control committees in the House of Commons and dictate both the scope and pace of their legislative agenda. One of the main focuses of the government is minimizing the economic impacts of the US war with Iran, which has pushed up fuel costs across Canada. On Tuesday, Carney said his government would suspend the ​federal fuel excise tax ‌on gasoline and diesel later this month until early September, telling reporters the move was a “responsible measure” to cut fuel costs. Canada also is bracing for what experts suspect will be a bitterly fought set of trade negotiations with the United States in the coming months as the two sides look for a renewed free trade pact.",
+      "difficulty_constant": 8.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following describes the unique way in which Mark Carney achieved a parliamentary majority?",
+          "options": {
+            "A": "By triggering a sudden general election to secure a mandate from the public.",
+            "B": "By consistently winning all regional byelections since taking power.",
+            "C": "By combining electoral victories with the acquisition of defectors from other parties.",
+            "D": "By forming a formal coalition with the New Democratic Party and the Greens."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到Carney是通过‘cobbling together both ballot box wins and defections from rival parties’来实现多数席位的，这在现代政治中罕见，因此C项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, what is a primary reason for the increased public support for Carney’s Liberal government?",
+          "options": {
+            "A": "The successful implementation of social welfare programs for all Canadians.",
+            "B": "The reassurance provided by Carney in response to volatile US protectionist trade policies.",
+            "C": "The total collapse of the Bloc Québécois in the recent byelections.",
+            "D": "The public's desire to punish the Conservatives for their past economic failures."
+          },
+          "answer": "B",
+          "explanation": "文章提到‘The constant threat of Donald Trump’s protectionist trade policies... has shored up support for Carney, who has pledged a steady economic hand’，这直接指出了支持率上升的原因。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does Pierre Poilievre view the recent legislative expansion of the Liberal party?",
+          "options": {
+            "A": "As a triumph of democratic process and political negotiation.",
+            "B": "As a necessary adjustment to restore national economic stability.",
+            "C": "As an illegitimate power grab facilitated by backroom betrayal.",
+            "D": "As an expected outcome of the Liberal party's superior electoral strategy."
+          },
+          "answer": "C",
+          "explanation": "Poilievre在文中谴责说‘The Carney Liberals did not win a majority... through a general election... Instead, it was won through backroom deals with politicians who betrayed the people’，这表明他认为这是不合法的权力攫取。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase 'on the cusp of' most likely mean in the context of the passage?",
+          "options": {
+            "A": "In the process of recovering from.",
+            "B": "At the very beginning of.",
+            "C": "At the point of experiencing.",
+            "D": "In direct opposition to."
+          },
+          "answer": "C",
+          "explanation": "根据上下文，两年前保守党本来快要赢得多数席位，‘on the cusp of’在这里表示处于即将发生某事的状态，即C项所述。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main purpose of the Canadian government’s recent decision regarding the fuel excise tax?",
+          "options": {
+            "A": "To generate additional revenue to fund the upcoming trade negotiations with the US.",
+            "B": "To offset the rising fuel costs caused by international geopolitical conflicts.",
+            "C": "To fulfill a campaign promise made during the previous general election.",
+            "D": "To discourage the consumption of fossil fuels in preparation for environmental reforms."
+          },
+          "answer": "B",
+          "explanation": "文章提到政府暂停汽油和柴油燃油税，目的是为了‘cut fuel costs’，而燃料成本上涨是因为‘the US war with Iran’，这属于地缘政治冲突引起的成本增加。"
+        }
+      ]
+    },
+    {
+      "title": "Russia claims its Africa Corps group prevented coup in Mali after rebels seize towns",
+      "article_update_date": "04.28.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Russia’s defence ministry has claimed its Africa Corps – the successor to the former Wagner mercenary group – prevented a coup in Mali over the weekend, avoiding mass civilian casualties and inflicting “irreplaceable losses” on rebel insurgents. It said in a statement that its troops in the desert town of Kidal near the Algerian border had fought for more than 24 hours while completely surrounded and vastly outnumbered. It also alleged, without providing evidence, that the militants had been trained by European mercenary instructors, including Ukrainians. The casualty toll was not specified. Local reports on Monday had suggested that, contrary to Russia’s claims, the Africa Corps troops negotiated their exit, with Algeria as a mediator. Rebel forces in Mali over the weekend drove the Africa Corps from Kidal, launched an attack near the capital, Bamako, and killed defence minister Sadio Camara – a key Moscow ally – in an apparent suicide bombing. Kremlin spokesperson Dmitry Peskov separately told reporters in Moscow on Tuesday that restoring peace and stability in Mali was a priority. The fall of Kidal – a city Russian forces first helped the junta recapture in 2023 – and handover of territory to the rebel alliance has been seen as proof of the limits of Moscow’s military influence in west Africa. French state radio RFI quoted one Malian official as anonymously saying that Kidal’s governor had warned Africa Corps of the attack three days before it happened and that their exit was pre-negotiated. “The Russians betrayed us in Kidal,” the official said. Mali has been gripped by violence on multiple fronts since 2012 after a rebellion triggered by Tuareg rebels. The security crisis hit a new peak on Saturday after the separatists and al-Qaida-linked jihadists joined forces to launch coordinated attacks, dealing a major blow to the country’s military junta and its Russian backers. In recent years, Russia has made inroads in the Sahel, the semi-desert belt stretching across countries including Mali, Burkina Faso and Niger. All three have experienced military coups in which French and UN forces were expelled and replaced by Russian support, as juntas sought to shore up their rule and confront long-running Islamist insurgencies and separatist rebellions. About 2,000 Russian troops are deployed in landlocked Mali under the Africa Corps banner, the successor to the Wagner group across much of the continent. Military bloggers close to the defence ministry previously said that one Russian helicopter had been shot down near the city of Gao, killing those on board. Footage posted on social media appeared to show Russian soldiers engaged in fighting with insurgents, with one clip showing rebels seizing Russian military hardware. Residents of neighbourhoods within and on the outskirts of Bamako also reported seeing al-Qaida affiliate Jama’at Nusrat al-Islam wal-Muslimin (JNIM) terrorists freely moving around in the last few days. Analysts like Ulf Laessing, Bamako-based head of the Sahel programme at the German thinktank Konrad-Adenauer-Stiftung, say the Russians could change tactics in the short-term at least and move southwards. “I think the Russians will focus on defending the regime and leave the north to rebels,” he told the Guardian. Peskov told reporters Moscow had no information on the whereabouts of Assimi Goïta, the military ruler who deposed Mali’s civilian government in a 2020 coup and assumed office within a year, but had not been seen publicly since the unrest began. The Malian presidency posted a photo of him in a meeting with Russian ambassador Igor Gromyko on X on Tuesday afternoon, in a meeting purported to have happened on the same day. That, however, did not diminish speculation about Goita’s future as military ruler and reports of factions within the junta. “Goïta has lost his footing … he no longer has political legitimacy over the junta,” one former Malian diplomat told the Guardian under condition of anonymity.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the core discrepancy between the Russian defence ministry's account and local reports regarding the events in Kidal?",
+          "options": {
+            "A": "Russia claims a decisive military victory, while local reports indicate a negotiated withdrawal.",
+            "B": "Russia claims the casualties were minimal, while local reports report massive civilian deaths.",
+            "C": "Russia denies any involvement in the conflict, whereas local reports confirm their active combat role.",
+            "D": "Russia accuses the Algerian military of interference, while local reports point to Ukrainian involvement."
+          },
+          "answer": "A",
+          "explanation": "The text states that Russia claims to have 'inflicted irreplaceable losses' and fought while surrounded, whereas local reports suggest the Africa Corps 'negotiated their exit' with Algeria as a mediator, contradicting Russia's narrative of a military triumph."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the 'fall of Kidal' signify regarding Russia's geopolitical position in west Africa?",
+          "options": {
+            "A": "It marks the complete withdrawal of Russian diplomatic presence from Mali.",
+            "B": "It demonstrates the constraints and limitations of Russia's military influence in the region.",
+            "C": "It proves that the Malian junta is no longer aligned with Moscow's security interests.",
+            "D": "It highlights the success of the French and UN forces in regaining lost territories."
+          },
+          "answer": "B",
+          "explanation": "The text explicitly mentions that the handover of territory to the rebel alliance is 'seen as proof of the limits of Moscow’s military influence in west Africa.'"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following reflects the Malian official's perspective on the conduct of the Russian troops in Kidal?",
+          "options": {
+            "A": "The Russian troops were betrayed by the local governor's secret deal with rebels.",
+            "B": "The Russian troops heroically fought until the very last moment.",
+            "C": "The Russian troops had pre-negotiated their departure despite prior warnings of an attack.",
+            "D": "The Russian troops successfully defended the city against al-Qaida affiliates."
+          },
+          "answer": "C",
+          "explanation": "The official quoted by RFI stated that the Kidal governor had warned the Russians three days in advance and their exit was 'pre-negotiated,' leading to the claim: 'The Russians betrayed us in Kidal.'"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the likely reason behind the military juntas in Mali, Burkina Faso, and Niger replacing French forces with Russian support?",
+          "options": {
+            "A": "To modernize their state media and improve diplomatic relations with the European Union.",
+            "B": "To seek international legitimacy after being expelled from the United Nations.",
+            "C": "To consolidate their control and address persistent separatist and Islamist insurgencies.",
+            "D": "To facilitate the return of civilian governments through democratic elections."
+          },
+          "answer": "C",
+          "explanation": "The text notes that these regimes sought to 'shore up their rule and confront long-running Islamist insurgencies and separatist rebellions' by replacing Western forces with Russian support."
+        },
+        {
+          "q_number": 5,
+          "stem": "How does the author characterize the political status of Mali's ruler, Assimi Goïta, following the recent unrest?",
+          "options": {
+            "A": "He is widely celebrated for his success in restoring peace and stability.",
+            "B": "His leadership is increasingly questioned due to speculation regarding his disappearance and waning political authority.",
+            "C": "He has successfully unified the various factions within the military junta.",
+            "D": "He remains the undisputed leader with full public support and no internal opposition."
+          },
+          "answer": "B",
+          "explanation": "The text mentions that despite a photo released on X, there remains 'speculation about Goita’s future' and quotes a former diplomat stating that he has 'lost his footing' and 'no longer has political legitimacy over the junta.'"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 17",
+      "article_update_date": "04.09.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Emily Mullin The Big Story Jan 20, 2026 6:00 AM He Went to Prison for Gene-Editing Babies. Now He’s Planning to Do It Again Chinese scientist He Jiankui wants to end Alzheimer’s and thinks Silicon Valley is conducting a “Nazi eugenic experiment.” Photo-illustration: Valerie Chiang; COURTESY OF HE JIANKUI; GETTY IMAGES In 2018, a nervous-looking He Jiankui took the stage at a scientific conference in Hong Kong. A hush settled over the packed auditorium as the soft-spoken Chinese scientist adjusted his microphone and confirmed the circulating media reports: He had created the world’s first gene-edited babies . Three little girls were born with modifications to their genomes that were intended to protect them against HIV. The changes he’d made to their DNA were permanent and heritable, meaning they could be passed down to future generations. A Chinese court sent him to prison for three years, and the Chinese government banned genome editing for reproductive purposes. Now He is trying to reestablish himself as a man out to change history. Since his release in 2022, He says, he’s worked on a gene therapy for boys with Duchenne muscular dystrophy. He has yet to publish or share any results publicly, but he claims that a pharmaceutical company has taken on his Duchenne research and that funders are eager to help him continue his work. And He, who has set up an independent lab in south Beijing, recently started talking again about human embryo editing—this time to prevent Alzheimer’s. With germline editing prohibited in nearly every country including the United States, his path forward is unclear. Through it all, He has documented his life on social media. He has posted about his failed romance with self-styled “biotech Barbie” Cathy Tie, a Canadian former Thiel fellow and cofounder of a human embryo editing startup . A condition of this interview was that WIRED refer to He as a “pioneer of gene editing,” but he has more colorfully referred to himself on X as “Chinese Darwin,” “Oppenheimer in China,” and “China’s Frankenstein.” The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . He often posts photos of himself in a crisp lab coat, posing alone near scientific equipment. One glaringly empty lab shot comes with the text “I did not violate ethics , I overturned it.” More recently he dropped the austere look and posted an image of himself seated on a giant throne with prehistoric animals at his feet, a rainbow beaming down on his crown, and a double helix adorning his purple robe. WIRED spoke with He about designer babies—the ones already born and the ones he hopes to eventually produce. This interview has been edited for length and clarity. Emily Mullin: Back in 2018 the scientific consensus was that gene editing was not a mature technology. Do you think it’s mature now? He Jiankui: Anyone who is the first in the world, no one can say it’s mature. The Wright brothers who made the first flight, was it mature? Of course not, but they made history. I’m lucky that Lulu, Nana, and the third girl were healthy; they’re normal. We have observed them for seven, eight years now. So I think it’s time to move on to hundreds of gene-edited babies. We should give a trial to maybe 300 now. Do you keep in touch with the parents of the three babies? Yes, we have regular contact. And everything seems fine? Yeah, they go to primary school. Their family is very happy with it. Have their parents told them that they were gene-edited? No. What is your new lab focusing on? The new lab is germline gene editing—embryo gene editing—and it is focusing on trying to prevent Alzheimer’s disease. What genes are you working on? The APP-A673T mutation. This mutation was identified in the population in Iceland. People with this mutation are free of Alzheimer’s and even live longer. They’re healthy and normal. So we want to introduce the mutation to the next generation, so they will have the same mutation as Icelandic people and be free of Alzheimer’s. Are you currently working with human embryos? For now, we’re not getting into the embryo yet. We’re still on human cell line experiments. And you’ve been doing this for the past couple of months? Yes. Why are you more interested in embryo editing than in treating existing patients with gene editing? Because it is going to change the world. Where does your funding come from? Donations and some people who provided early seed money. I don’t talk to investors; they come to me. Maybe every week, an investor comes to Beijing, wants to have dinner with me and also wants to invest in me, or maybe they propose some business ideas. Also from Canada, from Russia, all kinds of places. How much has your lab raised so far? Does this include any government grants? 50 million yuan [$7 million]. No government funding. And you’re hoping to raise more? I need $10 million. With that money, I will finish the Alzheimer’s work—from cell lines to mice to monkeys. And even a clinical trial, a small-scale clinical trial. You mentioned on X that a patient had donated some money. Oh, yes, the patient is an entrepreneur of a big company. Also his family has this disease. Do you mean Alzheimer’s, or another disease? I cannot disclose the disease. It is the patient’s privacy. Is it fair to say that your funders are wealthy people who want their own babies to have protective traits? No. How many people are working in your lab on Alzheimer’s? It’s just me plus two, three people. Are you allowed to carry out a clinical trial in China given your criminal history? Germline gene editing is currently banned in China. So all I’m doing in Beijing is human cell lines, mice and monkey embryos, then I’ll stop. I wanted to start a lab in Austin, Texas, to continue the embryo editing research, but I don’t have a passport. So my new plan is to go to Hong Kong. But for the human trial, it has to be somewhere else. South Africa made it legal last year. [ Editor’s note: In August 2025, South Africa removed language from its national ethics guidelines that some had interpreted as potentially allowing heritable human genome editing. ] Do you think that South Africa would be receptive to you going there? I already talked to people from South Africa. They showed great interest. Are you allowed to leave the country? It is possible. Photo-illustration: Valerie Chiang; COURTESY OF HE JIANKUI; GETTY IMAGES You have condemned research on IQ enhancements, but some people might consider editing embryos to prevent Alzheimer’s a form of enhancement. Where do you draw the line between disease prevention and enhancement? Recently, some billionaires in Silicon Valley have been pushing forward to enhance human IQ, in particular in babies. I think that is a Nazi eugenic experiment. That should be stopped. The scientists working on this should be arrested if they want to enhance human IQ for the billionaires. With Alzheimer’s or HIV, it’s just for preventing human disease and never to enhance the IQ of a person. How many years away do you think you are from trying to create babies that have been edited for Alzheimer’s protection? I need two years to finish mice and monkeys and also some human embryo studies. And then we wait for regulatory approval in South Africa. Or if Americans are OK with it, then we go to America, or Japan. There are already animals being created from highly edited embryos. Like the dire wolves that were revealed in 2025 and the pigs that are being used for human transplants. Do you think it might be possible to one day do multiple genetic edits to a human embryo? That’s exactly what we are developing in our lab. We want to make 12 edits in one embryo and make it safe. If we could have multiple edits that could prevent cancer, Alzheimer’s, cardiovascular disease, HIV, and others, in a panel of 10 to 20 genes, that will prevent all the major diseases that are happening today. The children born will be much healthier and maybe even live longer than us. I could see this research being controversial to some people. How do you plan to avoid run-ins with Chinese authorities? Just be open, transparent, do the right thing. I post my research plan on social media, so everybody knows what I am doing. My lab is also open. It’s not a secret. People come visit. Unfortunately, it’s not open for foreigners anymore due to national security reasons. Have you had interactions with the Chinese government since you were in prison? I’m not going to go against the law. You gained instant fame with the birth of those babies and then spent time in prison, and now here you are continuing your work. What have you learned in this time? The most important thing is, make sure the patient is happy. Make sure that it improves their health or happiness. That’s the number one requirement for any medical research. You don’t worry about ethics, national geopolitics, or anything. What Say You? Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected] . This article was downloaded by calibre from https://www.wired.com/story/china-he-jiankui-gene-editing-alzheimers/ | Section menu | Main menu |",
+      "difficulty_constant": 7.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes the author's portrayal of He Jiankui in this article?",
+          "options": {
+            "A": "A reformed scientist who has gained the full support of the Chinese government.",
+            "B": "A polarizing figure who continues to challenge global scientific and ethical norms.",
+            "C": "A misunderstood visionary whose work on Alzheimer’s is universally praised.",
+            "D": "A disillusioned individual who has abandoned his ambition to alter history."
+          },
+          "answer": "B",
+          "explanation": "The article depicts He as a controversial figure who served prison time, remains banned from certain research, yet persists in his pursuit of controversial gene-editing goals (like designer babies) while rebranding himself, which aligns with 'polarizing' and 'challenging norms'."
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the interview, what is He Jiankui's primary motivation for pursuing embryo editing for Alzheimer’s disease?",
+          "options": {
+            "A": "To secure government grants and institutional approval in China.",
+            "B": "To create a business model that satisfies Silicon Valley investors.",
+            "C": "To fundamentally change the world by preventing diseases at a genetic level.",
+            "D": "To prove that IQ enhancement is less dangerous than medical disease prevention."
+          },
+          "answer": "C",
+          "explanation": "He explicitly states 'Because it is going to change the world' when asked why he prefers embryo editing over treating existing patients, emphasizing his goal of preventing diseases for future generations."
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the author implying by mentioning the specific image of He Jiankui on a throne with a rainbow and double helix?",
+          "options": {
+            "A": "He is showing a more humble, academic approach to his new research.",
+            "B": "He is attempting to project an image of grandiosity and self-importance.",
+            "C": "The image serves as an official endorsement by global biotech organizations.",
+            "D": "He is acknowledging his past mistakes and seeking forgiveness from the public."
+          },
+          "answer": "B",
+          "explanation": "The description of the throne, crown, and imagery portrays a shift from the 'austere' lab coat look to something more performative, suggesting a desire to cultivate a grandiose public persona."
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the text suggest about the legal feasibility of He's future research plans?",
+          "options": {
+            "A": "He has secured a legal pathway in South Africa for clinical trials on human embryos.",
+            "B": "He is operating with full regulatory approval within Beijing's current legal framework.",
+            "C": "He faces significant hurdles as germline editing is restricted in China and his international options are limited.",
+            "D": "He has successfully obtained a passport to move his lab to Austin, Texas."
+          },
+          "answer": "C",
+          "explanation": "The text notes that germline editing is banned in China, he lacks a passport for his planned move to Texas, and even the South African path is uncertain following updates to their ethics guidelines."
+        },
+        {
+          "q_number": 5,
+          "stem": "How does He Jiankui distinguish his work from the 'Nazi eugenic experiment' he attributes to others?",
+          "options": {
+            "A": "He argues that his methods are more scientifically mature than those used in Silicon Valley.",
+            "B": "He claims his research is strictly for disease prevention rather than human enhancement like IQ boosting.",
+            "C": "He believes that the state, rather than private individuals, should control all genetic modification.",
+            "D": "He denies that he is doing any form of editing that could be categorized as eugenics."
+          },
+          "answer": "B",
+          "explanation": "He explicitly states that while he condemns IQ enhancement as eugenics, his own work on Alzheimer’s or HIV is 'just for preventing human disease' and does not aim for enhancement."
+        }
+      ]
+    }
+  ]
+}
