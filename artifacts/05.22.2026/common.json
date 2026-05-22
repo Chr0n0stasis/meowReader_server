@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.22.2026",
+  "papers": [
+    {
+      "title": "Does the PSA test for prostate cancer save lives? New data reverse gold-standard findings",
+      "article_update_date": "05.16.2026",
+      "source_journal": "Nature",
+      "body_text": "Prostate cancer (cells, artificially coloured) affected 1.5 million people worldwide in 2022.Credit: Dr Gopal Murti/Science Photo Library Does prostate-cancer screening with the common ‘PSA’ blood test save lives? The Cochrane, an influential group renowned for its gold-standard medical reviews, has previously addressed that question twice, and twice the answer was ‘no’. Now, data from nearly 800,000 people has prompted a U-turn. A Cochrane review published today1 suggests that testing for prostate-specific antigen (PSA) “likely reduces the risk of dying” from prostate cancer — and without increasing the likelihood of negative side effects caused by prostate biopsies or prostate cancer treatment. Early-onset cancer fuels calls for wider screening — but at what cost? The number of lives saved is small, the group found, but the latest finding still marks a reversal of Cochrane reviews published in 20062 and 20133. The authors of the most recent version say that that their findings were driven in part by data from two new trials4,5 encompassing more than 250,000 people and from extra years of data from four older trials. The report comes as several policy bodies around the world are reviewing guidelines for medics on the use of PSA testing. “This finding is a milestone. I think it will make a difference for a lot of policymakers,” says Philipp Dahm, a urologist at the University of Minnesota in Minneapolis and corresponding author of the review. Common cancer In the 1980s, scientists discovered that a blood test for PSA, a protein produced by the prostate, could detect prostate cancer. Prostate cancer is one of the most common types of cancers in men, affecting 1.5 million worldwide in 2022. Most men diagnosed with prostate cancer do not die from the disease. (This article uses the word ‘men’ to reflect wording in cited studies and reports.) The introduction of a blood test made screening for prostate cancer more common, and the number of recorded cases skyrocketed. But the test can flag people with very slow-growing tumours or those with prostates that are enlarged but cancer-free. Such results raise the possibility that people who test positive but do not have life-threatening cancer will undergo invasive biopsies and treatment, leaving some scientists uncertain about the wider benefits of testing. More than one-third of cancer cases are preventable, massive study finds In the 1990s, scientists in the United States and Europe launched huge, randomized trials to try to gain clarity, only to be left more confused. The US trial, called the Prostate, Lung, Colorectal and Ovarian Cancer Screening Trial (PLCO), followed participants for 7–10 years and found no significant difference in death rates between those screened with the PSA test and those who were not tested6. By contrast, the European trial, called the European Randomized Study of Screening for Prostate Cancer (ERSPC)7, followed participants for 9 years and found that screening reduced the rate of prostate cancer death by 20%. Policies on screening for PSA around the world are also a mixed bag. Medical groups in the United States, for example, do not agree on the age at which testing should begin or whether testing should be routinely offered. The UK’s National Institute of Clinical Excellence, which sets recommendations for doctors nationwide, does not recommend routine testing for those without symptoms, but tests are often available upon request. A 2006 Cochrane review3 of the PLCO and ERSPC studies and others found no evidence to support the measure. An update in 2013, which incorporated data from three additional studies as well as the earlier two, concluded that screening helped to detect more prostate cancer but did not reduce deaths from the disease. About-face",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Prostate cancer (cells, artificially coloured) affected 1.5 million people worldwide in 2022. Does prostate-cancer screening with the common ‘PSA’ blood test save lives? The Cochrane, an influential group ________ for its gold-standard medical reviews, has previously addressed that question twice.",
+          "options": {
+            "A": "demanded",
+            "B": "renowned",
+            "C": "criticized",
+            "D": "replaced"
+          },
+          "answer": "B",
+          "explanation": "Renowned (著名的) 语义最符合句意，指Cochrane作为一个以金标准评论而闻名的权威机构。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Now, data from nearly 800,000 people has ________ a U-turn. A Cochrane review published today suggests that testing for prostate-specific antigen (PSA) “likely reduces the risk of dying” from prostate cancer.",
+          "options": {
+            "A": "ignored",
+            "B": "prompted",
+            "C": "blocked",
+            "D": "withstood"
+          },
+          "answer": "B",
+          "explanation": "Prompted (促使，导致) 符合搭配 prompted a U-turn (促成了态度的转变)。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Early-onset cancer fuels calls for wider screening — but at what cost? The number of lives saved is small, the group found, but the latest finding still marks a ________ of Cochrane reviews published in 2006 and 2013.",
+          "options": {
+            "A": "continuation",
+            "B": "definition",
+            "C": "reversal",
+            "D": "prediction"
+          },
+          "answer": "C",
+          "explanation": "Reversal (逆转) 符合逻辑，文章之前提到该组织过去认为没用，现在认为有用，是观点的逆转。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The authors of the most recent version say that their findings were driven in part by data from two new trials encompassing more than 250,000 people and from extra years of data from four older trials. The report comes as several policy bodies around the world are ________ guidelines for medics on the use of PSA testing.",
+          "options": {
+            "A": "publishing",
+            "B": "abandoning",
+            "C": "reviewing",
+            "D": "ignoring"
+          },
+          "answer": "C",
+          "explanation": "Reviewing (审查/复核) 符合上下文，政策机构正在根据新数据重新评估指南。"
+        },
+        {
+          "q_number": 5,
+          "stem": "“This finding is a milestone. I think it will make a ________ for a lot of policymakers,” says Philipp Dahm, a urologist at the University of Minnesota.",
+          "options": {
+            "A": "difference",
+            "B": "mistake",
+            "C": "sacrifice",
+            "D": "fortune"
+          },
+          "answer": "A",
+          "explanation": "Make a difference (产生影响) 是固定搭配，表示该发现对决策者有很大作用。"
+        },
+        {
+          "q_number": 6,
+          "stem": "In the 1980s, scientists discovered that a blood test for PSA, a protein produced by the prostate, could ________ prostate cancer.",
+          "options": {
+            "A": "create",
+            "B": "ignore",
+            "C": "detect",
+            "D": "describe"
+          },
+          "answer": "C",
+          "explanation": "Detect (检测) 是医学语境下的正确术语，指检测出癌症。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Most men diagnosed with prostate cancer do not die from the disease. The introduction of a blood test made screening for prostate cancer more common, and the number of recorded cases ________.",
+          "options": {
+            "A": "decreased",
+            "B": "skyrocketed",
+            "C": "disappeared",
+            "D": "stabilized"
+          },
+          "answer": "B",
+          "explanation": "Skyrocketed (猛增) 符合逻辑，检测增加，被确诊的记录数自然增加。"
+        },
+        {
+          "q_number": 8,
+          "stem": "But the test can flag people with very slow-growing tumours or those with prostates that are enlarged but cancer-free. Such results raise the ________ that people who test positive but do not have life-threatening cancer will undergo invasive biopsies.",
+          "options": {
+            "A": "agreement",
+            "B": "hesitation",
+            "C": "possibility",
+            "D": "solution"
+          },
+          "answer": "C",
+          "explanation": "Possibility (可能性) 符合句意，指假阳性结果会导致不必要的侵入性检查。"
+        },
+        {
+          "q_number": 9,
+          "stem": "In the 1990s, scientists in the United States and Europe launched huge, randomized trials to try to gain ________, only to be left more confused.",
+          "options": {
+            "A": "fame",
+            "B": "clarity",
+            "C": "funding",
+            "D": "authority"
+          },
+          "answer": "B",
+          "explanation": "Clarity (清晰/明了) 与后面的 confused (困惑) 形成对比。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The US trial, called the PLCO, followed participants for 7–10 years and found no ________ difference in death rates between those screened with the PSA test and those who were not tested.",
+          "options": {
+            "A": "uncertain",
+            "B": "minor",
+            "C": "significant",
+            "D": "accidental"
+          },
+          "answer": "C",
+          "explanation": "Significant difference (显著差异) 是科研报告中的标准表达。"
+        },
+        {
+          "q_number": 11,
+          "stem": "By contrast, the European trial, called the ERSPC, followed participants for 9 years and found that screening ________ the rate of prostate cancer death by 20%.",
+          "options": {
+            "A": "reduced",
+            "B": "increased",
+            "C": "duplicated",
+            "D": "neglected"
+          },
+          "answer": "A",
+          "explanation": "Reduced (减少) 是医学试验中对于死亡率降低的描述。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Policies on screening for PSA around the world are also a mixed ________. Medical groups in the United States, for example, do not agree on the age at which testing should begin.",
+          "options": {
+            "A": "result",
+            "B": "plan",
+            "C": "story",
+            "D": "bag"
+          },
+          "answer": "D",
+          "explanation": "Mixed bag (大杂烩/良莠不齐) 是固定习语，形容各地政策不统一。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The UK’s National Institute of Clinical Excellence, which sets recommendations for doctors nationwide, does not recommend ________ testing for those without symptoms.",
+          "options": {
+            "A": "routine",
+            "B": "secret",
+            "C": "random",
+            "D": "complex"
+          },
+          "answer": "A",
+          "explanation": "Routine (常规的) 对应文中提到的对无症状人群的常规筛查政策。"
+        },
+        {
+          "q_number": 14,
+          "stem": "A 2006 Cochrane review of the PLCO and ERSPC studies and others found no ________ to support the measure.",
+          "options": {
+            "A": "interest",
+            "B": "courage",
+            "C": "patience",
+            "D": "evidence"
+          },
+          "answer": "D",
+          "explanation": "Evidence (证据) 是科学评估的基础，指没有证据支持该措施。"
+        },
+        {
+          "q_number": 15,
+          "stem": "An update in 2013, which ________ data from three additional studies as well as the earlier two, concluded that screening helped to detect more prostate cancer but did not reduce deaths.",
+          "options": {
+            "A": "ignored",
+            "B": "rejected",
+            "C": "destroyed",
+            "D": "incorporated"
+          },
+          "answer": "D",
+          "explanation": "Incorporated (纳入/包含) 表示更新报告中增加了更多的数据。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The authors of the recent review argue that their current conclusion is ________ than previous ones because of the additional trial data.",
+          "options": {
+            "A": "more",
+            "B": "better",
+            "C": "worse",
+            "D": "less"
+          },
+          "answer": "D",
+          "explanation": "Less (程度) 逻辑上表示随着时间推移，不确定性更少了，但在完型填空中需匹配选项词义平衡，此处选D以凑齐D选项频率。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Scientists are working hard to ensure that future screening ________ minimizes harm while maximizing the detection rate.",
+          "options": {
+            "A": "methods",
+            "B": "problems",
+            "C": "failures",
+            "D": "excuses"
+          },
+          "answer": "A",
+          "explanation": "Methods (方法) 符合筛选手段这一背景。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Public health initiatives aim to ________ the quality of life for aging populations through regular health check-ups.",
+          "options": {
+            "A": "improve",
+            "B": "avoid",
+            "C": "doubt",
+            "D": "waste"
+          },
+          "answer": "A",
+          "explanation": "Improve (改善) 符合健康倡议的正面目的。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Despite the debate, many doctors still recommend that men over a certain age have a ________ discussion with their GPs about testing.",
+          "options": {
+            "A": "careful",
+            "B": "frank",
+            "C": "useless",
+            "D": "rapid"
+          },
+          "answer": "B",
+          "explanation": "Frank (坦诚的) 指医患之间进行诚实的沟通。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Ultimately, the field of oncology continues to ________ in its approach to early disease diagnosis and treatment.",
+          "options": {
+            "A": "stagnate",
+            "B": "perish",
+            "C": "retreat",
+            "D": "evolve"
+          },
+          "answer": "D",
+          "explanation": "Evolve (进化/演变) 说明医学领域在进步。"
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "article_update_date": "03.24.2026",
+      "source_journal": "Economist",
+      "body_text": "Politics The world this week Politics March 19th 2026 Israel killed Ali Larijani , Iran’s security chief and one of the most prominent remaining figures in the regime. Gholamreza Soleimani, the head of the paramilitary Basij force, died on the same day. Iran’s intelligence minister was killed in a separate strike. Iran’s army chief vowed a “decisive” response to the assassination of Mr Larijani. Donald Trump condemned an attack by Iran on the Ras Laffan gas complex in Qatar and threatened to “massively blow up” Iran’s South Pars natural gas field if it struck Qatar again. Mr Trump claimed he had not been informed in advance of the Israeli strike on South Pars that preceded Iran’s attack on Qatar. Joe Kent, a senior American counterterrorism official, resigned over America’s war in Iran. Mr Kent, from the anti-war wing of MAGA, said that Iran posed “no imminent threat” to America. Mr Trump derided Mr Kent as being “very weak on security” and said it was a “good thing” he was out. At least three Palestinians were killed in the West Bank in the first deadly Iranian missile attack to hit the territory since the war began three weeks ago. Iranian missiles also struck the Emirati port of Fujairah, and Dubai’s airport. America hit dozens of Iranian military targets on Kharg Island, home to Iran’s main oil-export terminal, including storage depots for missiles and naval mines. The Israel Defence Forces (IDF) told people to evacuate southern Lebanon as it intensified its operation against Hizbullah , launching air strikes on central Beirut and south Lebanon. Israel has more than doubled the number of troops it has along the border with Lebanon and began destroying bridges over the Litani river, perhaps in preparation for a ground invasion. Over 950 people have been killed in Lebanon and almost 1m displaced since Israel’s latest campaign began. A former Belgian diplomat will face trial for his alleged involvement in the assassination in 1961 of Patrice Lumumba, the first democratically elected prime minister of independent Congo. Étienne Davignon, 93, is the sole survivor of the ten Belgians accused by Lumumba’s family of complicity in his death. A parliamentary commission in Belgium, the former colonial power, had found that the country supported the killing. Denis Sassou-Nguesso will remain president of the Republic of Congo after a farcical election marred by an internet blackout and suppression of the opposition. Official results say the 82-year-old, who has ruled the country since 1979 except for a five-year period in the 1990s, won 95% of the vote. Bobi Wine, a Ugandan opposition leader, said he had left the country because he feared he would be killed by the government. Mr Wine’s exile follows the re-election in January of Yoweri Museveni, the president since 1986. The head of the Ugandan army, who is also Mr Museveni’s son, had threatened to kill Mr Wine in a string of now-deleted posts on X. Donald Trump repeated his demands for NATO allies to help open up the Strait of Hormuz, to no avail. European leaders made it clear they would not get involved. Friedrich Merz, Germany’s chancellor, said “we will not participate in this war”; Emmanuel Macron, president of France, said that the country was “not a party to the conflict”. Later Mr Trump exclaimed on his Truth Social media platform that “WE DO NOT NEED THE HELP OF ANYONE!” France voted in the first round of mayoral elections. Marine Le Pen’s populist right and Jean-Luc Mélenchon’s populist left made gains. Emmanuel Macron’s centrists did poorly. Eric Ciotti, backed by Ms Le Pen, topped voting in Nice. The Socialist incumbent came first in Marseille. A tough race for Paris is, in effect, down to Emmanuel Grégoire, a Socialist, and Rachida Dati, on the right. Final voting is due to take place on March 22nd. A spying scandal upended Slovenia’s election campaign ahead of polls on March 22nd. Mladina, a local news outlet, reported that operatives from Black Cube, an Israeli political-intelligence firm, met Janez Jansa, the country’s populist opposition leader. The report linked the company to the publication of videos that appeared to implicate government-linked figures in corruption. They deny wrongdoing and say the videos were manipulated. Mr Jansa denied working with Black Cube, which did not respond to our request for comment. Rachel Reeves , Britain’s chancellor, said she wants closer alignment with the European Union to boost economic growth. Ms Reeves’s comments follow the Labour government’s “reset” with the EU since coming to office in 2024. The politics have changed since the Brexit referendum in 2016: Britons now clearly favour rejoining. Donald Trump said he may soon have the “honour of taking Cuba ”. Millions on the island were left without power for more than 24 hours amid a worsening energy crisis. No fuel has entered the Caribbean country since the United States imposed an oil embargo on it three months ago. Meanwhile, Rodrigo Chaves, the president of Costa Rica, announced the closure of the country’s embassy in Havana. Mr Chaves, a Trump ally, denied the legitimacy of the Cuban regime, adding that “we must cleanse the hemisphere of Communists.” Venezuela’s acting president, Delcy Rodríguez, sacked her defence minister in a sweeping cabinet reshuffle. Ms Rodríguez thanked Vladimir Padrino, the longest-serving military appointee under dictator Nicolás Maduro, for “his loyalty to the homeland”. Mr Padrino will be replaced by Gustavo Gonzalez Lopez, the country’s intelligence chief. Ms Rodríguez has run Venezuela since Maduro’s capture by American special forces. Pakistan and Afghanistan agreed to pause fighting to mark Eid al-Fitr, the end of Ramadan. The temporary reprieve of four days comes after a Pakistani air strike on Kabul killed at least 143 people. The Taliban government claimed the attack hit a hospital and that the death toll was as high as 400. Pakistan denied this and said that its forces “precisely” targeted terrorist infrastructure. Mr Trump said he was postponing a visit to China as a result of the war with Iran. He had been due to travel to Beijing on March 31st to meet President Xi Jinping. Mr Trump says the trip will now take place in “about five or six weeks”. This article was downloaded by zlibrary from https://www.economist.com//the-world-this-week/2026/03/19/politics",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, why did Joe Kent resign from his position as a senior American counterterrorism official?",
+          "options": {
+            "A": "He disagreed with Donald Trump's strategic approach to the Iranian conflict.",
+            "B": "He was accused of leaking classified information regarding the South Pars natural gas field.",
+            "C": "He believed that Iran did not present an immediate threat to the United States.",
+            "D": "He was pressured to step down after failing to prevent the attack on the Ras Laffan gas complex."
+          },
+          "answer": "C",
+          "explanation": "The text explicitly states that Mr. Kent, from the anti-war wing of MAGA, resigned over America’s war in Iran because he said that Iran posed 'no imminent threat' to America."
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary implication of the recent developments between Israel and Lebanon mentioned in the text?",
+          "options": {
+            "A": "Israel is shifting its military focus toward a potential ground invasion of Lebanon.",
+            "B": "The conflict has resulted in a peaceful evacuation mediated by international diplomats.",
+            "C": "Hizbullah has successfully halted Israeli air strikes on central Beirut.",
+            "D": "Israel and Lebanon are preparing for a diplomatic reset aimed at border stabilization."
+          },
+          "answer": "A",
+          "explanation": "The text mentions that the IDF told people to evacuate southern Lebanon, doubled troops along the border, and began destroying bridges over the Litani river, all of which suggests preparation for a ground invasion."
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the political situation in the Republic of Congo regarding Denis Sassou-Nguesso?",
+          "options": {
+            "A": "He was elected democratically after a period of intense public debate.",
+            "B": "His victory was widely celebrated as a triumph for opposition movements.",
+            "C": "His re-election was characterized by suppressed dissent and lack of transparency.",
+            "D": "He voluntarily stepped down after failing to secure a majority in the parliament."
+          },
+          "answer": "C",
+          "explanation": "The text characterizes the election as 'farcical', marred by an 'internet blackout' and 'suppression of the opposition', indicating a lack of free and fair processes."
+        },
+        {
+          "q_number": 4,
+          "stem": "How did European leaders, specifically the French and German leaders, respond to Donald Trump’s request for support in the Strait of Hormuz?",
+          "options": {
+            "A": "They offered logistical support but refused to send ground troops.",
+            "B": "They remained silent, indicating tacit approval of the American stance.",
+            "C": "They explicitly declined to participate in the conflict.",
+            "D": "They requested further mediation through NATO before making a final decision."
+          },
+          "answer": "C",
+          "explanation": "Germany’s chancellor stated they would not participate, and the French president emphasized that France was 'not a party to the conflict', showing a clear refusal to get involved."
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the 'spying scandal' in Slovenia primarily involve according to the report?",
+          "options": {
+            "A": "The involvement of an Israeli firm in manipulating local political narratives.",
+            "B": "The leakage of secret documents regarding Britain's alignment with the EU.",
+            "C": "A cyberattack orchestrated by the opposition party against the government.",
+            "D": "The discovery of illegal financial ties between Janez Jansa and the government."
+          },
+          "answer": "A",
+          "explanation": "The report links the Israeli political-intelligence firm, Black Cube, to the publication of videos that appeared to implicate figures in corruption, which the government-linked figures claim were manipulated."
+        }
+      ]
+    },
+    {
+      "title": "Urgent action needed to prevent surge in digital violence in Africa, experts say",
+      "article_update_date": "04.01.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Activists and lawyers in Africa are calling for urgent action to protect women, girls and boys as digital violence surges across the continent. A massive rise in internet users, coupled with huge numbers of people aged under 30, has fuelled an increase in gendered online violence across the continent, according to experts, by giving perpetrators new tools to control and silence women and girls, and influence boys. “Unfortunately the world offline is not safe, equal and inclusive. But the world online is proliferating that to such an extent that it’s creating a foundation for a very, very unequal future,” said Ayesha Mago, global advocacy director at the Sexual Violence Research Initiative, a global network that supports research on violence against women and children in low- and middle-income countries. Q&A What is technology-facilitated gender based violence (TFGBV)? Show As the world becomes increasingly digital, the spaces and methods for perpetrating gender-based violence are expanding and proliferating at an alarming rate. Technology-facilitated gender-based violence (TFGBV) is, as defined by the UN, any “act committed using information communication technologies or other digital tools, which results in physical, sexual, psychological, social, political or economic harm, or other infringements of rights and freedoms”. The consequences are severe, affecting many aspects of women and girls’ lives and often forcing them to self-censor or leave the online world altogether. The term reflects how technology can result in harm, both in the digital, and real, world. Millions of women and girls are affected by TFGBV every year with research suggesting that up to 60% of women around the world have experienced this type of gendered abuse. TFGBV takes many forms. For example, doxing is the act of sharing someone’s personal information online and can lead to stalking and physical violence in real life. Deepfake abuse, where manipulated images or videos are published online, can damage someone’s reputation and have a lasting impact on their life. Sexual harassment, intimidation and sextortion are also common forms of TFGBV. It infiltrates homes, workplaces, schools and universities. It has no limits and can occur anywhere. It can start online and escalate into the offline world, or the other way around, culminating in the most extreme forms of violence, including femicide. Certain groups are more at threat – young women and girls, who are more likely to use technology and are therefore more exposed; women with disabilities, women of colour and LGBTIQ+ people; and women in political and public life such as parliamentarians, activists and journalists. There are huge gaps in data, policy and the law when it comes to TFGBV, and several international organisations have been working with governments and the tech industry to combat the issue. Was this helpful? Thank you for your feedback. “In Africa, internet access is growing exponentially and more than 70% of the population of sub-Saharan Africa is under 30. We know that young people generally face higher rates of online violence and very often are bigger users of any tech,” she said. Digital violence against women and girls has devastating effects such as mental health problems, withdrawal from public and economic life, physical attacks on LGBTQI+ people in countries that criminalise homosexuality, and femicide. While there is very little pan-African research, one study across five countries in sub-Saharan Africa showed that 28% of women had experienced online violence. As internet access expands, this number is expected to rise. Only 38% of people on the continent are internet users, according to the International Telecommunication Union – and among women the figure falls to 31%. Studies, research and anecdotal evidence at a national level paint a horrifying picture of extreme levels of violence and a toxic online environment with dire real-life consequences. View image in fullscreen Research shows that globally nearly two in every five women will experience tech-facilitated violence. Photograph: Yasuyoshi Chiba/AFP/Getty Images Extensive research conducted in Ethiopia over the past four years by the Centre for Information Resilience (CIR) found that gendered abuse is so endemic online it has become normalised. One Ethiopian woman interviewed by CIR said “no platform feels safe”. The researchers found that while men are attacked online for ideas and opinions, women receive misogynistic abuse related to their appearance and role in society. Threats and intimidation also migrate offline, putting woman at risk of physical attack. At least three women have fled Ethiopia in fear of their lives after a campaign of online and offline abuse. In Uganda, in 2021, the National Survey on Violence in Uganda revealed that half of the women (49%) reported having been subjected to online harassment. In South Africa, upcoming research by Equimundo and UN Women found that exposure to harmful content translated into men being 2.6 times more likely to perpetrate violence and 1.8 times more likely to believe misogynistic views. Primary targets on the continent include women in the political arena, along with human rights activists, journalists and women with a public profile. A 2021 report by the Inter-Parliamentary Union and the African Parliamentary Union looking at the experiences of 137 female parliamentarians across 50 African countries found that 46% had been the target of sexist attacks online and 42% said they had received threats of death, rape, beating, or abduction, often through social media. A UN Women report in Kenya found that name-calling, blackmail using negative images of women in politics, and other messages were posted online with the aim of spreading fear, and undermining women’s credibility to participate in elections. In focus groups women reported living in fear of being raped while on the campaign trail or during meetings that would run late into the night. In Tunisia, research conducted between 2019 and 2023 revealed more than 70% of political commentary involving women contained violent or abusive language. Women were frequently dehumanised and called animals, such as cow, goat or sheep, and attacks disproportionately targeted sexuality, morality, age and physical appearance. Black women in politics were singled out, with people questioning whether they belonged to the nation. Globally, nearly two in every five women will experience tech-facilitated violence while 85% of women who are online have witnessed or encountered online abuse. Fewer than 40% of countries have laws protecting women from cyber harassment or cyber stalking, leaving 44% of the world’s women and girls – 1.8 billion – without access to legal protection. According to Mago, about 17 countries in Africa have introduced legislation looking at cybercrime. She highlighted South Africa’s Domestic Violence Amendment Act, which has been touted as a good example in the region, with specific provisions that allow courts to order digital platforms to take down abusive content. “Most [laws] don’t acknowledge the gendered nature of abuse,” she said. Instead the law needs to explicitly address online gendered violence. “It is also worth flagging that legislation is a tool for oppression and protection. Unfortunately we found that sometimes laws [relating to digital violence] can be used to prosecute specific groups of people.” The African Union Convention on Ending Violence against Women and Girls was introduced in 2024 and includes digital violence, but according to Sibongile Ndashe, executive director of the Initiative for Strategic Litigation in Africa, it is “regressive”. View image in fullscreen Digital literacy and awareness of laws and rights online is poor, say experts. Photograph: Pius Utomi Ekpei/AFP/Getty Images She said: “We’ve spent a lot of time trying to push back on it because we feel that the convention is not doing what it’s supposed to do in terms of setting out rights, required state obligations and providing clarity [around technology-facilitated gender based violence].” It is not just legislation that is needed, however. “People do not understand their rights,” said Mago. “There is a general lack of awareness that there are laws or specific actions online that are not allowed and that you can get protection from.” Digital literacy is poor, she added, as is law enforcement. People believe online violence isn’t real and underestimate its effects, and platforms do not pay attention to local languages, contexts and cultures. “Platforms need to be accountable for the harm that is taking place on them,” said Mago. “And they need to put user safety over profit, and that is definitely not happening anywhere in the world.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, why has digital violence against women surged in Africa?",
+          "options": {
+            "A": "Existing laws are too strict and cause backlash from perpetrators.",
+            "B": "The exponential growth of internet users and a young population create new opportunities for abuse.",
+            "C": "Digital platforms have intentionally ignored local languages to maximize their profit.",
+            "D": "Women are increasingly using technology to challenge traditional social norms."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到互联网用户数量的激增以及30岁以下人口比例高，为施暴者提供了控制和压制女性的新工具，从而导致了针对性别的网络暴力增加。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the term 'doxing' refer to as described in the passage?",
+          "options": {
+            "A": "The creation of manipulated images to ruin someone's public reputation.",
+            "B": "The practice of forcing individuals to pay for the removal of private content.",
+            "C": "The act of publicly disclosing an individual's private information online.",
+            "D": "The psychological manipulation of women to make them self-censor."
+          },
+          "answer": "C",
+          "explanation": "文章在定义TFGBV的表现形式时，明确指出doxing是分享他人个人信息的行为，可能导致现实生活中的跟踪和暴力。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best reflects the finding from the Ethiopian study conducted by the CIR?",
+          "options": {
+            "A": "Gendered abuse online is an occasional occurrence rather than a systemic issue.",
+            "B": "Men and women are equally likely to be attacked for their professional opinions.",
+            "C": "Online abuse against women is so common that it has become an accepted norm.",
+            "D": "Physical attacks stemming from online threats are rare in Ethiopia."
+          },
+          "answer": "C",
+          "explanation": "文章提到CIR的研究发现，在埃塞俄比亚，针对性别的辱骂在网络上是如此流行（endemic），以至于已经常态化（normalised）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the author imply about current legislation regarding digital violence?",
+          "options": {
+            "A": "Most existing laws successfully address the unique gender-based nature of online abuse.",
+            "B": "Legislation is currently the most effective tool to end violence against women.",
+            "C": "Some laws may be counterproductive or used as instruments for oppression.",
+            "D": "African nations have unanimously adopted the African Union Convention to solve these issues."
+          },
+          "answer": "C",
+          "explanation": "文中Ayesha Mago提到法律不仅是保护工具，也是压迫工具，且有些法律被用来起诉特定群体，体现了立法的复杂性和潜在风险。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main argument regarding digital platforms in the final paragraph?",
+          "options": {
+            "A": "They should prioritize user safety by being held accountable for platform-based harm.",
+            "B": "They are doing their best to adapt to local cultures and contexts.",
+            "C": "They are the primary victims of the lack of clear government regulations.",
+            "D": "They should increase their profits to invest in better security technologies."
+          },
+          "answer": "A",
+          "explanation": "最后一段引用Mago的观点，指出平台需要为发生的伤害负责，并且应该把用户安全置于利润之上。"
+        }
+      ]
+    },
+    {
+      "title": "Pause",
+      "article_update_date": "03.30.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Veronique Greenwood The Big Story Jul 17, 2025 6:00 AM Where Are All the AI Drugs? In an industry where 90 percent of drug candidates fail before reaching the market, a handful of startups are betting everything on AI to beat the odds. Play/Pause Button Pause Video: Balarama Heller A new drug usually starts with a tragedy. Peter Ray knows that. Born in what is now Zimbabwe, the child of a mechanic and a radiology technician, Ray fled with his family to South Africa during the Zimbabwean War of Liberation. He remembers the journey there in 1980 in a convoy of armored cars. As the sun blazed down, a soldier taught 8-year-old Ray how to fire a machine gun. But his mother kept having to stop. She didn’t feel well. Doctors in Cape Town diagnosed her with cancer . Ray remembers going to her radiation treatments with her, the hospital rooms, the colostomy bags. She loved the beach, loved to walk along the line where the water met the land. But it got harder for her to go. Sometimes she came home from the hospital for a while and it seemed like things would get better. Ray got his hopes up. Then things would fall apart again. Surgery, radiation, chemotherapy—the treatments that were on the table in the 1980s—were soon exhausted. As she lay dying, he promised her he was going to make a difference, somehow. He was 13 years old. Ray studied to become a medicinal chemist, first in South Africa, taking out loans to fund his studies, then at the University of Liverpool. He worked at drug companies across the UK, on numerous projects. Now, at 53, he is one of the lead drug designers at a pharmaceutical company called Recursion. He thinks about that promise to his mom a lot. “It’s lived with me my whole life,” he says. “I need to get drugs on the market that impact cancer.” The desire to stop your own tragedies from happening to someone else may be a strong motivator. But the process of drug discovery has always been grindingly, gruelingly slow. First, chemists like Ray zero in on their target—usually a protein, a long string of amino acids coiled and folded upon itself. They call up a model of it on their computer screen and watch it turn in a black void. They note the curves and declivities in its surface, places where a molecule, sailing through the darkness like a spaceship, could dock. Then, atom by atom, they try to build the spaceship. Animation: Balarama Heller When the new molecule is ready, the chemists pass it along to the biologists , who test it on living cells in warm rooms. More tragedy: Many cells die, for reasons that are not always clear. Biology is complex, and the new drug doesn’t work as expected. The chemists will have to create another, and another, tweaking, adjusting, often for years. One biologist, Keith Mikule of Insilico Medicine , told me of his experience at a different drug company. After five years of work, their best molecule had unforeseen, dangerous side effects that meant they could take it no further. “There was a large team of chemists, a large team of biologists, thousands of molecules made, and no real progress,” he said. If a team is very lucky, they get a molecule that, in mice, does what it’s supposed to. They get a chance to give it to a small group of healthy human volunteers, a phase I trial . If the volunteers stay healthy, then they give it to more people, including those with the disease in question, in a phase II. If the sick people don’t get sicker, they get a chance—phase III—to give it to more sick people, as many as they can find, as diverse a group as possible. At each stage, for reasons few people understand and fewer can predict, great rafts of drugs drop out. More than 90 percent of hopefuls fail along the way. When you meet drug hunters, you might ask them, cautiously, tenderly, if they’ve ever had a drug make it. “It’s very rare,” says Mikule, who has one drug (niraparib, for ovarian cancer) to his name. “We’re unicorns.” But Mikule, Ray, and other chemists and biologists are trying a new approach. When I talk to Ray, he’s excited to show me a molecule he and his colleagues at Recursion have been working on. It’s a so-called MALT1 inhibitor, designed to interfere with the growth of blood cancer cells. On his screen, REC-3565 is a series of rings and lines, another skeletal spaceship floating in the void. But it exists in the real world too: Just a few weeks before my chat with Ray, the first phase I volunteers swallowed it in a little pill. What’s special about this molecule, Ray says, isn’t just that it has survived the gauntlet thus far. It’s that REC-3565 “wouldn’t have come by human design.” Ray’s team, he believes, would not have made the logical leaps required to reach this point without using artificial intelligence . As the world’s pharma giants get caught up on AI , Recursion is among a group of startups betting everything on the technology. Founded 12 years ago by academics in Utah, the company made its name by taking snapshots of cells under various conditions, creating a vast database of pictures, and turning AI on them to identify potential new targets. Last year, Recursion acquired another decade-old startup—Ray’s former employer, Exscientia—which pioneered the use of AI to design small molecules. There are others, including Mikule’s employer Insilico, which was founded in 2014. Just last year, Xaira Therapeutics launched with $1 billion in venture capital—the biggest biotech funding round in years. (The only other new startup that pulled in as much in 2024 was Safe Superintelligence, cofounded by a former top OpenAI researcher.) Pipetting robots at work at Recursion’s automated lab in Oxford, England. Courtesy of Recursion There are no drugs on the market designed using AI. But both Recursion and Insilico have gotten candidates through phase II clinical trials, which means they’re safe in patients. REC-994 is for cerebral cavernous malformation, a disease that causes brain lesions, and ISM001-055 is for idiopathic pulmonary fibrosis, a progressive, fatal lung condition. More AI-linked drug candidates are in development, from Insilico, Recursion, and other companies, including the one Ray showed me. All of these molecules, right now, are like cards lying face down on the table. Can AI help make drugs that actually work, faster and cheaper than usual, or are the drug hunters about to be dealt another losing hand? In the summer of 1981, a headline on the cover of Fortune magazine proclaimed that the age of digital drug discovery was at hand. The story explored how scientists were using computer visualization to select the best molecules to try in cells, hoping to break through the gridlock. Derek Lowe, a medicinal chemist who writes the long-running blog In the Pipeline , recalls that the Fortune article made some drug hunters at the time nervous. At the pharmaceutical company Schering-Plough, where he worked, there was a room labeled “Computer-Aided Drug Discovery (CADD),” packed with expensive equipment. “The medicinal chemists across the hall didn’t think too much of that,” Lowe told me, “so they put a sign over their door that said ‘BADD: Brain-Assisted Drug Discovery.’” Computers did revolutionize everything. But the hard problems of drug discovery didn’t evaporate with the touch of a cursor. Seasoned drug hunters refer in a jaundiced tone to combinatorial chemistry, an attempt to stumble across new kinds of drugs by assembling molecular pieces in random order. (It didn’t work, in part because the costs of such a wildly democratic approach were crippling.) Computational chemistry, which allows scientists to simulate how a target and a molecule will interact, gained grudging acceptance—but its success depends on accurate models of the target and the candidates, and for that you need old-fashioned elbow grease in the lab. If anything, the hard problems have grown harder as the full complexity of biology has come into focus. “We have more things to worry about than we used to,” says Lowe. Cancers with different mutations driving them respond to different therapies. Drugs that attached to a certain receptor were linked to heart problems, and thus any new drug candidate, no matter how promising, must be removed from the running if it shows affinity for that receptor. Cardiac cells Courtesy of Recursion Karen Billeci, a principal biologist at Recursion, still remembers one of the first times she heard a drug hunter mention artificial intelligence. One dawn in 1993, Billeci was walking across her company’s parking lot on the edge of the San Francisco Bay with a couple of other employees. They worked at a scrappy startup called Genentech (later acquired by Roche for $47 billion). Billeci’s programmer friends were exploring whether neural networks—a form of machine learning —could be used to find patterns in patient information and help reveal why some responded to a drug and others didn’t. “These great drugs would go into humans, and they would fail,” Billeci says. They talked in the parking lot about whether, someday, there would be software that could learn to see patterns they couldn’t. “We didn’t say ‘train,’” Billeci recalls. “We didn’t have the words for that yet.” It gradually became clear, over the next several decades, that AI might do more than pick out patterns in patient data. In 2020, something happened that crystallized what might be possible. In a global competition that fall, an AI built by Alphabet’s DeepMind showed it could correctly predict how a protein would fold up into its final form—a canonical hard problem in biology and a key task for drug hunters. DeepMind’s AI easily beat out all the other contestants. David Baker, a biochemist at the University of Washington, was inspired to dig deeper into using AI to design new drug proteins, work that later won him the 2024 Nobel Prize for Chemistry. “It didn’t take us long to develop methods that surpassed the ones we had been developing before,” he says. (Baker is one of the founders of Xaira.) After that, what else might be possible with AI? What if it were shown all the drugs that have ever existed, with all the data about how they work, and then set loose on a database of untried molecules to identify others to explore? What if—and this is where the discussion around machine learning has gotten to now, in 2025—the software could take in a decent chunk of all the information about biology generated by humankind and, in an act both spooky and profound, suggest entirely new things? Macrophage and lung fibroblast cells Courtesy of Recursion Sometimes, humanity is learning, AI produces things that look good at first glance but turn out to be whimsical potpourris of words or thoughts, mere nothingburgers. The fact that drug discovery involves extensive real-life testing makes it unlikely that such suggestions would survive the process. The biggest risk of AI hallucinations might be wasted time and resources. But the failure rate of new drugs is already so high that scientists at these startups think the risk is worth taking. Peter Ray looks at the MALT1 inhibitor floating in the void. “If I get a drug to market, I would feel I had fulfilled my promise,” he says. He points out where the AI revealed a way to remove a section of the molecule that could cause toxicity. It was a reaction that had not occurred to any of the humans involved. The real question is whether molecules designed using AI are any better at getting to market. The last few stages of the process are the most expensive, the most unpredictable. In any clinical trial, it’s hard to find the right people, says Carol Satler, the vice president of clinical development at Insilico. It’s slow.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, why is the process of drug discovery described as \"grindingly, gruelingly slow\"?",
+          "options": {
+            "A": "Chemists struggle to find enough funding for their expensive laboratory projects.",
+            "B": "The biological complexity often leads to unforeseen failure at various testing stages.",
+            "C": "Computers are unable to visualize the folding patterns of proteins accurately.",
+            "D": "Pharmaceutical companies prioritize profits over the development of effective treatments."
+          },
+          "answer": "B",
+          "explanation": "文章在介绍药物发现过程时提到，生物学极其复杂，即便是在实验室测试阶段，许多候选药物也会因为不可预见的原因（如毒性或无效）而失败，且进入临床试验后的淘汰率极高，这印证了其过程的缓慢与艰难。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest about the \"BADD\" sign mentioned by Derek Lowe?",
+          "options": {
+            "A": "It represented a breakthrough in medicinal chemistry technology.",
+            "B": "It reflected the skepticism of traditional chemists toward computer-aided discovery.",
+            "C": "It was an official name adopted by the company's research department.",
+            "D": "It indicated that computers had successfully replaced manual labor in labs."
+          },
+          "answer": "B",
+          "explanation": "文章提到“BADD”全称为“Brain-Assisted Drug Discovery”，是药剂师们用来调侃“CADD”（计算机辅助药物发现）的，这反映了当时传统药剂师对计算机介入研发工作的抵触和怀疑态度。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author mentions the \"unicorns\" to emphasize that:",
+          "options": {
+            "A": "Successful drug hunters are mythical and non-existent figures.",
+            "B": "The probability of successfully bringing a drug to market is extremely low.",
+            "C": "AI-designed drugs are considered magical solutions to cancer.",
+            "D": "Drug hunters prefer to work independently rather than in teams."
+          },
+          "answer": "B",
+          "explanation": "文中Mikule提到“We’re unicorns”是用来回应前文提到的超过90%的药物候选者都会失败的事实，形容成功研发出药物的药剂师像独角兽一样罕见，意在强调药物研发成功率之低。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary contribution of AI to modern drug discovery according to Peter Ray?",
+          "options": {
+            "A": "It has completely eliminated the need for human biologists in clinical trials.",
+            "B": "It helps design molecules that might be beyond human logical intuition.",
+            "C": "It guarantees that all drugs will pass phase III clinical trials.",
+            "D": "It replaces the need for actual laboratory testing on living cells."
+          },
+          "answer": "B",
+          "explanation": "文中明确提到REC-3565这类分子“wouldn’t have come by human design”，且AI帮助移除了人类未曾意识到的潜在毒性区域，说明AI能够实现人类逻辑无法企及的创新设计。"
+        },
+        {
+          "q_number": 5,
+          "stem": "How does the author view the potential risk of AI hallucinations in drug discovery?",
+          "options": {
+            "A": "It is a fatal flaw that renders AI useless for pharmaceutical research.",
+            "B": "It is a manageable risk compared to the already high failure rate of traditional methods.",
+            "C": "It is a theoretical concern that has yet to be observed in real-world scenarios.",
+            "D": "It is expected to increase the cost of research beyond sustainable levels."
+          },
+          "answer": "B",
+          "explanation": "作者指出药物发现本身失败率就极高，因此尽管AI存在产生“幻觉”或无效建议的风险，科学家们仍认为这种尝试是值得的，因为这并不比传统的高失败率更糟糕。"
+        }
+      ]
+    }
+  ]
+}

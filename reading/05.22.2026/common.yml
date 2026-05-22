@@ -1,0 +1,21 @@
+articles:
+- article_id: epub_10
+  journal_name: Economist
+  publish_date: 03.24.2026
+  title: Politics
+- article_id: epub_57
+  journal_name: Wired
+  publish_date: 03.30.2026
+  title: Pause
+- article_id: rss_3_1775070575
+  journal_name: The Guardian
+  publish_date: 04.01.2026
+  title: Urgent action needed to prevent surge in digital violence in Africa, experts
+    say
+- article_id: rss_12_1778958690
+  journal_name: Nature
+  publish_date: 05.16.2026
+  title: Does the PSA test for prostate cancer save lives? New data reverse gold-standard
+    findings
+generate_date: 05.22.2026
+strategy: common
