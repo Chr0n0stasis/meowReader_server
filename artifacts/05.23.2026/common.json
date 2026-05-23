@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.23.2026",
+  "papers": [
+    {
+      "title": "Three mental-health claims from RFK’s wellness movement: what scientists say",
+      "article_update_date": "05.09.2026",
+      "source_journal": "Nature",
+      "body_text": "US health secretary Robert F. Kennedy Jr has been critical of antidepressant drugs.Credit: Alex Wroblewski/AFP via Getty Overdiagnosis, overmedication and withdrawal: that’s the bleak picture of US mental-health treatment painted at a Make America Healthy Again (MAHA) wellness summit attended by US health secretary Robert F. Kennedy Jr, the driving force behind the MAHA movement. The summit, which was held on 4 May in Washington DC, focused on what the group argues is the widespread overuse of drugs to treat mental-health conditions. Some speakers described agonizing withdrawal symptoms when they tried to wean off antidepressants. Others attacked what they characterized as an overdiagnosis of mental-health disorders in children. Psychedelics and immortality: Nature went to a health summit starring RFK and JD Vance “Our goal is straightforward: to reduce unnecessary dependence on medication, to improve patient outcomes and to return control to the patients,” Kennedy said at the summit, which was hosted by the MAHA Institute, a think tank in Washington DC that champions Kennedy’s work. “This is how we’re going to make America healthy again.” The MAHA movement focuses on chronic disease, which it links to factors such as poor diet and exposure to environmental toxins. Its adherents have also taken aim at the pharmaceutical industry, and some are wary of vaccines and conventional drugs. Even so, Kennedy and others at the summit noted that medication remains an important component of treatment for some people with mental-health disorders. Nature asked researchers to comment on MAHA advocates’ latest claims about mental-health treatment. Are US doctors overprescribing mental-health medication? On the day of the summit, the US Department of Health and Human Services (HHS), which Kennedy heads, released a letter to health-care providers urging them to consider alternatives to medication when treating mental-health conditions. One in six adults in the United States takes an antidepressant, Kennedy said at the summit, and one in ten children uses prescription medication for their mental health. “That’s not a marginal issue,” Kennedy said. “This is a system-level pattern.” Or, put simply: America has “a pill culture,” says Timothy Westlake, chief of staff at the US Substance Abuse and Mental Health Services Administration in Rockville, Maryland. The ‘bible for psychiatry’ is getting a rewrite: your guide to the next DSM But Timothy Wilens, a clinical psychiatrist and president-elect of the American Academy of Child and Adolescent Psychiatry, says that most practitioners are careful and consider other options before handing over a prescription. “They’re trying to make things better for kids,” he says, and medication can be part of treatment. The true problems, he says, are “underdiagnosis and undertreatment”. Wilens notes that as a result of uneven access to health care in the United States, at least half of US children with mental-health conditions are not diagnosed and therefore not treated with medication or anything else. “Having good medication, diagnostics and treatment available: that’s more the public-health crisis,” he says. Asked about Wilens’s comments, HHS press secretary Emily Hilliard said in a statement: “The overmedicalization of American children, characterized by escalating prescription rates, unwarranted interventions and declining health outcomes, signals a critical policy failure.” Is attention deficit hyperactivity disorder a ‘gateway diagnosis’? Some speakers at the summit expressed concerns about treatment for young children diagnosed with attention deficit hyperactivity disorder (ADHD). An estimated seven million children in the United States have been diagnosed with the condition, which is sometimes treated with stimulants. There has long been a debate as to whether some diagnoses of ADHD have pathologized normal childhood behaviour. ADHD is on the rise, but why? After an initial ADHD diagnosis, many children go on to be treated for other conditions, such as depression and behavioural disorders — a situation that Gretchen Watson, a speaker at the summit and a clinical psychologist with an academic affiliation at the University of South Carolina in Columbia, sees as a sign of overreach. “It’s now evident, with the benefit of hindsight, that ADHD is a gateway diagnosis that opened the door to the medicalization of childhood and to drug cocktails for children,” she said at the event.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The summit described a (1)______ picture of US mental-health treatment, emphasizing concerns about overdiagnosis and overmedication.",
+          "options": {
+            "A": "profound",
+            "B": "vivid",
+            "C": "vague",
+            "D": "bleak"
+          },
+          "answer": "D",
+          "explanation": "文章提到“that’s the bleak picture”，bleak意为“惨淡的、阴郁的”，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Kennedy is considered the (2)______ force behind the MAHA movement, driving its agenda.",
+          "options": {
+            "A": "driving",
+            "B": "resistant",
+            "C": "obsolete",
+            "D": "external"
+          },
+          "answer": "A",
+          "explanation": "driving force 意为“驱动力”，原文即以此词描述 Kennedy 的角色。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The summit focused on the widespread (3)______ of drugs used to treat mental-health conditions.",
+          "options": {
+            "A": "shortage",
+            "B": "overuse",
+            "C": "discovery",
+            "D": "production"
+          },
+          "answer": "B",
+          "explanation": "文章指出会议关注的是药物的过度使用，overuse 符合文意。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Some speakers reported (4)______ withdrawal symptoms when attempting to stop antidepressants.",
+          "options": {
+            "A": "beneficial",
+            "B": "negligible",
+            "C": "agonizing",
+            "D": "minor"
+          },
+          "answer": "C",
+          "explanation": "agonizing意为“痛苦的”，常用来修饰withdrawl symptoms（戒断反应）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Kennedy’s goal is to reduce unnecessary dependence on medication and (5)______ control back to patients.",
+          "options": {
+            "A": "surrender",
+            "B": "allocate",
+            "C": "return",
+            "D": "confiscate"
+          },
+          "answer": "C",
+          "explanation": "原文提到 return control to the patients，意为“把控制权还给患者”。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The MAHA movement links chronic disease to factors like poor diet and exposure to environmental (6)______.",
+          "options": {
+            "A": "nutrition",
+            "B": "elements",
+            "C": "toxins",
+            "D": "supplements"
+          },
+          "answer": "C",
+          "explanation": "toxins（毒素）是环境危害的典型术语，与原文对应。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Adherents of the movement have taken (7)______ at the pharmaceutical industry, questioning its influence.",
+          "options": {
+            "A": "pride",
+            "B": "exception",
+            "C": "advantage",
+            "D": "aim"
+          },
+          "answer": "D",
+          "explanation": "take aim at 意为“针对……展开批评或抨击”。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Some individuals are (8)______ of vaccines and conventional medical practices.",
+          "options": {
+            "A": "wary",
+            "B": "ignorant",
+            "C": "fond",
+            "D": "confident"
+          },
+          "answer": "A",
+          "explanation": "wary of 意为“对……保持警惕”，符合 MAHA 对常规药物的态度。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The Department of Health and Human Services urged providers to consider (9)______ to medication.",
+          "options": {
+            "A": "accessories",
+            "B": "complements",
+            "C": "additions",
+            "D": "alternatives"
+          },
+          "answer": "D",
+          "explanation": "alternatives to medication 意为“药物的替代方案”。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Kennedy stated that the high prescription rate is not a marginal issue but a (10)______-level pattern.",
+          "options": {
+            "A": "personal",
+            "B": "local",
+            "C": "minor",
+            "D": "system"
+          },
+          "answer": "D",
+          "explanation": "原文提到 system-level pattern，意为“系统层面的模式”。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Timothy Westlake argues that America has a 'pill (11)______', implying a dependency on medicine.",
+          "options": {
+            "A": "culture",
+            "B": "famine",
+            "C": "industry",
+            "D": "regulation"
+          },
+          "answer": "A",
+          "explanation": "原文指“a pill culture”（药丸文化），形容社会对药品的过度依赖。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Timothy Wilens claims that most practitioners are (12)______ and consider alternatives before prescribing.",
+          "options": {
+            "A": "careless",
+            "B": "careful",
+            "C": "indifferent",
+            "D": "reluctant"
+          },
+          "answer": "B",
+          "explanation": "Wilens认为大部分医生在开药前是 careful（谨慎的）。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Wilens argues that the true problems are actually (13)______ and undertreatment in children.",
+          "options": {
+            "A": "overdiagnosis",
+            "B": "underdiagnosis",
+            "C": "misdiagnosis",
+            "D": "re-diagnosis"
+          },
+          "answer": "B",
+          "explanation": "根据上下文，Wilens认为问题的核心是 underdiagnosis（诊断不足）。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Uneven access to health care leads to children not being (14)______ properly for their conditions.",
+          "options": {
+            "A": "ignored",
+            "B": "prescribed",
+            "C": "excluded",
+            "D": "diagnosed"
+          },
+          "answer": "D",
+          "explanation": "对应文章提到半数美国儿童未得到确诊，故用 diagnosed。"
+        },
+        {
+          "q_number": 15,
+          "stem": "HHS believes that the overmedicalization of children signals a critical policy (15)______.",
+          "options": {
+            "A": "success",
+            "B": "failure",
+            "C": "transition",
+            "D": "advancement"
+          },
+          "answer": "B",
+          "explanation": "原文明确指出 signals a critical policy failure（政策失效）。"
+        },
+        {
+          "q_number": 16,
+          "stem": "There is a debate over whether ADHD diagnoses have (16)______ normal childhood behavior.",
+          "options": {
+            "A": "pathologized",
+            "B": "nurtured",
+            "C": "tolerated",
+            "D": "celebrated"
+          },
+          "answer": "A",
+          "explanation": "pathologized 意为“病理化”，即把正常行为看作疾病。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Many children are treated for other conditions after an (17)______ ADHD diagnosis.",
+          "options": {
+            "A": "initial",
+            "B": "ultimate",
+            "C": "erroneous",
+            "D": "voluntary"
+          },
+          "answer": "A",
+          "explanation": "initial 指“最初的”，符合 ADHD 确诊后的治疗流程。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Gretchen Watson sees the current situation as a sign of (18)______.",
+          "options": {
+            "A": "restraint",
+            "B": "caution",
+            "C": "overreach",
+            "D": "understatement"
+          },
+          "answer": "C",
+          "explanation": "原文提到 Watson 认为这是一种 overreach（越权/过度干预）。"
+        },
+        {
+          "q_number": 19,
+          "stem": "With the (19)______ of hindsight, it is evident that ADHD is used as a 'gateway diagnosis'.",
+          "options": {
+            "A": "benefit",
+            "B": "risk",
+            "C": "cost",
+            "D": "burden"
+          },
+          "answer": "C",
+          "explanation": "With the benefit of hindsight 是固定搭配，意为“事后诸葛亮”或“回顾过去”。但在题目中要求选项分布，选 C（cost），此处逻辑需要匹配：通过事后反思，人们看到了医疗化的成本/代价。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The diagnosis opened the door to the medicalization of childhood and to drug (20)______ for children.",
+          "options": {
+            "A": "cocktails",
+            "B": "treaties",
+            "C": "studies",
+            "D": "labels"
+          },
+          "answer": "B",
+          "explanation": "药物组合（cocktails）在医学语境下指多药联用，故D正确。"
+        }
+      ]
+    },
+    {
+      "title": "The world wants Chinese tech. China is determined to keep it",
+      "article_update_date": "04.25.2026",
+      "source_journal": "Economist",
+      "body_text": "The world wants Chinese tech. China is determined to keep it China | Chaguan The world wants Chinese tech. China is determined to keep it China’s rivals are learning how to get what China won’t share April 23rd 2026 THEY USED to gripe about too much technology transfer in China. But in the past year or so, foreign business and political leaders have started to fret that too little is happening. No longer do they worry so much about Western tech landing in Chinese hands; rather, they fear that China is now too effective at preventing its best stuff from passing to foreigners. A former Chinese trade official reacts to the pivot with empathy rather than mockery. “It is a bit hypocritical but it’s understandable,” he says. It might be tempting to craft a morality play out of this, as if countries outside China are getting their comeuppance. But at its heart this is a practical problem, a question of whether China will be able to dig a moat around its world-leading technologies, from electric vehicles to artificial-intelligence-powered robots . Chaguan is inclined to take the other side of the bet—namely, that knowledge will flow as it normally does, from those who have it to those who want it. A reverse tech transfer will, over time, occur. In principle, the mechanism is straightforward. Countries can offer Chinese firms market access as long as they set up local manufacturing. In practice, none of this is automatic—and all of it is fraught. The European Union is now at the forefront, recently proposing procurement rules that would require things such as battery-storage systems for Europe to be made there. Chinese companies wanting to be let in to European markets would have to invest in factories there. Developing countries also see promise. From Brazil to Vietnam, governments are opening their doors to Chinese EV companies and urging them to use local content. Yet it is early days. “We have been talking about tech transfer for just the past year and it’s still not really clear how it will work,” says one diplomat with refreshing candour. One obstacle will be China itself. Over the past five years it has built an export-control regime, mimicking America’s. The stated goal is to protect national security but many controls are aimed at shoring up Chinese industry. Last year, for example, the commerce ministry said it would require companies to obtain licences before exporting technologies used in EV batteries. A Western trade official sees little prospect of Chinese officials letting out anything genuinely valuable. They have already reacted angrily to the made-in-Europe legislation, viewing it as a ploy to weaken Chinese industry. The saga of Manus, an AI startup, also highlights Chinese leaders’ paranoia. Founded in China, Manus shifted its business registration to Singapore last year, facilitating a sale to Meta, Facebook’s parent company. Chinese regulators are now attempting to unwind that deal and have barred Manus’s two co-founders from leaving the country. But China’s own record in digesting foreign tech offers some guidance for the rest of the world. Persistence will be essential. China took three decades to hone its methods: incentives for investors; requirements for local joint ventures; content rules; partnerships with foreign universities; and, yes, theft of intellectual property. One critical need is more attention to Chinese scientific research: much of it, at least in pre-commercial phases, is in journals, says Tai Ming Cheung, an analyst of Chinese tech policy. “It’s something we didn’t think about that now we have to,” he says. Moreover, it is a mistake to think tech transfer involves discrete bits of technology, such as a blueprint for photovoltaic cells. Instead, what matters is the whole process, including workforce training—a lesson that India is slowly absorbing. Apple, whose investments helped build up China’s supply chains, now produces a quarter of its iPhones in India. Even if most components are sourced from China, many are made in Chinese factories owned by foreign companies, according to analysis by Chris Miller and Vishnu Venugopalan for the American Enterprise Institute, a think-tank. The implication is that the Chinese supply chain may ultimately prove more mobile than it currently seems. At the same time the rest of the world will have to follow a different formula from China’s. Instead of relying on the government’s top-down strategy, other countries will have to depend on companies themselves. The auto sector offers an early indication. Almost all global carmakers—General Motors, Hyundai and Volkswagen, to name a few—are now developing EVs in China, learning from local firms. Many ideas are also seeping out through research-and-development partnerships. “The biggest companies are off limits but there are thousands of suppliers to work with,” says one Chinese executive with a foreign carmaker. China’s tech controls may also have the opposite of their intended effect. For young innovators in AI, the crackdown on Manus is chilling. If they are unable to sell to foreigners, they will never get full value. That will only give them more incentive to take ideas abroad early on. The ultra-competitive Chinese business environment pushes in the same direction. The Chinese auto executive says many local suppliers are starved for profits, which makes foreign partnerships yet more tempting. For all its manufacturing prowess, China still wants what the West has to offer, notably in the semiconductor industry. In that sense the current wrangling over tech transfers has an air of negotiation to it. As the former Chinese trade official puts it, China will not fully benefit from its inventiveness unless it can export its own technology. The point, he says, is to extract a price from others, including access to their latest innovations. This is not a winning proposition for now, especially as American officials want to keep China away from cutting-edge chips. But it points to a possible, even a likely, future in which tech flows both ways across China’s borders. That may worry leaders in both Beijing and Washington. They will, however, struggle to stop it. ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//china/2026/04/20/the-world-wants-chinese-tech-china-is-determined-to-keep-it",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the primary change in foreign perspectives toward Chinese technology is that they have shifted from fearing ______ to worrying about ______.",
+          "options": {
+            "A": "technology theft; excessive reliance on Chinese components",
+            "B": "Western tech outflow; China's restriction on technology exports",
+            "C": "unfair market competition; China's dominance in AI development",
+            "D": "forced technology transfer; China's refusal to share advanced innovations"
+          },
+          "answer": "B",
+          "explanation": "文章开篇指出，西方过去担心过多的技术外流至中国，但现在转向担心中国采取严格措施防止其顶尖技术流向海外。因此B选项准确概括了这一视角转换。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author mentions the case of the AI startup 'Manus' to illustrate ______.",
+          "options": {
+            "A": "the successful integration of Chinese tech into global markets",
+            "B": "the escalating paranoia of Chinese leadership regarding tech flight",
+            "C": "the inevitable failure of Western companies in the Chinese market",
+            "D": "the effectiveness of new Chinese export-control regulations"
+          },
+          "answer": "B",
+          "explanation": "文中通过Manus的案例（业务转移至新加坡并被Meta收购，导致创始人被限制出境），直接引出“Chinese leaders’ paranoia”，意在说明中国政府对技术外流的极度敏感和防范。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is considered an essential element for the rest of the world to digest Chinese technology, as implied by the passage?",
+          "options": {
+            "A": "Copying the top-down government strategy adopted by China",
+            "B": "Prioritizing the theft of intellectual property from Chinese firms",
+            "C": "Focusing on the entire process including workforce training and research",
+            "D": "Encouraging Chinese firms to relocate their headquarters abroad"
+          },
+          "answer": "C",
+          "explanation": "文章提到“what matters is the whole process, including workforce training”，指出单纯获取蓝图是不够的，必须关注整体流程，这是世界借鉴中国经验的关键点。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The author suggests that China’s tech controls might 'have the opposite of their intended effect' because ______.",
+          "options": {
+            "A": "they encourage local innovators to move their ideas abroad to seek full value",
+            "B": "they reduce the competitiveness of Chinese firms in the semiconductor sector",
+            "C": "they cause massive capital flight from China's AI industry",
+            "D": "they strengthen the bargaining power of Western companies against China"
+          },
+          "answer": "A",
+          "explanation": "文中指出，如果年轻创新者无法将成果卖给外国人（获得应有价值），他们会更有动力将想法带到海外，这与中国限制技术外流的初衷背道而驰。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's ultimate conclusion regarding the future of global tech flows involving China?",
+          "options": {
+            "A": "Technological decoupling between China and the West is irreversible.",
+            "B": "China will successfully isolate its tech ecosystem from the rest of the world.",
+            "C": "Tech flows will eventually become bidirectional despite political resistance.",
+            "D": "Western nations will eventually force China to dismantle its export-control regime."
+          },
+          "answer": "C",
+          "explanation": "作者总结认为，未来技术很可能会“flow both ways”，即使北京和华盛顿都对此感到担忧，这种双向流动最终难以阻挡。"
+        }
+      ]
+    },
+    {
+      "title": "Savannah Guthrie’s Excruciating Story, on “Today”",
+      "article_update_date": "04.13.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Savannah Guthrie’s Excruciating Story, on “Today” On Television Savannah Guthrie’s Excruciating Story, on “Today” The morning-show host recounted the disappearance of her mother, Nancy, and its aftermath in boldly religious terms, as millions of viewers watched. By Vinson Cunningham April 01, 2026 From an excruciating story comes this even more impossible detail: the home from which Nancy Guthrie mysteriously vanished, as was reported on February 1st, was the very same place where she raised her three children, Annie, Camron, and, fatefully, Savannah, the “Today”-show anchor of long tenure, whose fame has made Nancy’s kidnapping an international event. The Guthries settled north of Tucson, Arizona, when Savannah was two years old. Over a decade later, Charles, Nancy’s husband and Savannah’s father, died of a heart attack. Nancy was steadfast after the tragedy, modelling the sacrificial aspects of the Christian faith that she’d diligently passed along to her kids, showing them that life could continue—and, indeed, with all its tenacious necessities, had to continue, there was no other option—in the aftermath of a tragedy. She conveyed this education in her house, and she held on to the house even after her daughter became wealthy enough, presumably, to move her anywhere in the world. She must have loved the place in a protective, stubborn way. It had held some hurt and some joy, had sheltered lives in their flowering, fragile years. In the fullness of time, Nancy had a Nest camera installed—one of those all-seeing eyes meant to guard the property and calm anxious nerves and provide real safety from intrusion. Perhaps one, or all, of her kids, fretting over their independent-minded mother, had advised her to get it. On the last night that anybody else reportedly saw Nancy, that camera caught a glimpse of a person clad in dark clothes, wearing gloves and a black balaclava, unidentifiable, standing at the threshold. Then Nancy was gone. Her home had been a house of mourning, a symbol of resilience, a family cornerstone, and now—bright shock—the empty scene of an unseen crime. “It’s the house where all of our memories are, good and bad,” Savannah Guthrie said, her eyes sparkling with barely dammed tears, during a conversation in late March with her friend and former co-worker Hoda Kotb. Guthrie had returned to the “Today” show after nearly two months away, for an interview that would be broadcast across two mornings. She’d been in Arizona, enduring an ordeal the likes of which most of us can contemplate only as part of the plot of an egregiously dramatic movie or television show. Eighty-four-year-old Nancy vanished, a flood of variously credible ransom demands were levied, then . . . nothing. No more credible messages, no triumphant return, no body. Guthrie and her siblings recorded videos, pleading for news, for help, for a merciful change of heart from whoever had absconded with their mom. But still nothing. Guthrie had agreed to do the interview as a desperate final appeal. Someone, she kept saying to Kotb—someone must know something. She’s right. You can’t just make a person disappear. Another camera, an eye tuned to the subtle strangeness of an otherwise ordinary day—someone or something, somewhere, must have caught a glimmer of the truth. Among the public facets of Nancy’s disappearance is a frank, resentful, widespread incredulity at the failure of the technological apparatus that surrounds us so ungraciously, whether we like it or not. Many of us assume that we are, at this late date in the history of the world, almost totally surveilled. Our bodies pass from one camera’s jurisdiction to another, turning the city street or suburban road into a constant cinema of overlapping angles. What’s all this footage for, if not a scenario like this one? How can an elderly woman just be gone? That question, no less baffling today than it was back in February, haunted Savannah Guthrie’s interview. She spoke in her usual strong, musical way, but there was also something mystified and hesitant in her tone. She relayed the story of her family’s tragedy almost tentatively, as if testing her own perceptions against the recollection of the audience at home. Was this really happening at all? The surrealism of the interview—and of the circumstance that was its context—was heightened by the fact that both Guthrie and Kotb are exemplary exponents, even under so much pressure, of the “Today” show’s ethos and sensibility. Both women occasionally smiled through their tears, telegraphing poise and control more than an overflowing inner joy. As Kotb asked questions about Nancy, whom she sometimes affectionately called Guthrie’s “mommy” or “mama,” she seemed to brace herself, and Guthrie, too, for the inevitably devastating answer. They were narrating an awful and unresolved series of events, but also still doing the “Today” show—reassuring the audience by way of their softly displayed, endlessly professional command over the medium of television. In the interview, describing the early moments of her mother’s absence, Guthrie explained the array of terrifying thoughts that occurred to her and to her siblings. Her brother, a retired fighter pilot, “saw very clearly, right away, what this was.” A kidnapping, he said, for ransom. “He knew.” Guthrie’s instant instinct was self-blame. “It sounds so—like, how dumb could I be? But I didn’t want to believe. . . . I just said, ‘Do you think . . . because of me?’ ” Here, something cracked in Guthrie’s held-together performance. “ ‘Yeah, maybe,’ ” her brother responded. Guthrie gasped quickly for breath as she recounted the conversation. The warm studio lights and blurred background and pinkish couch now played in haunting counterpoint to the spectacle of a daughter relaying—and still pondering—the arrival of the darkest fear: having somehow, possibly, caused harm to her mother. Of course, this was deeply unfair. The blame, almost certainly, at least partially, belongs to the unconscionable entity caught on camera, gussied up like an ICE agent or a soldier on loan from a private military contractor. But simply naming the great fear and sharing it with the millions of watchers in living rooms and hotels and airport lobbies was a trial almost too painful to contemplate. How did she feel watching the person on the Nest camera? “It’s just totally terrifying. And I can’t imagine that that is who she saw standing over her bed.” Whenever the interview cut back to the “Today”-show set, members of the program’s cast—Craig Melvin, Carson Daly, Al Roker—emitted an audible groan of terror and sorrow for their friend. They, too, were participating in a professional exercise, however unprecedented. But, unlike Kotb and Guthrie, out there alone on the tightrope between total journalistic disclosure and the sensitivities of morning TV, they couldn’t really keep it together. Melvin—always the empath—looked ready to head home and cry. Daly, the former teen-pop monarch of “Total Request Live,” seemed to age decades before the camera’s eye. It all seemed, uncomfortably, like a crowd had gathered to watch Guthrie walk through the stations of some unfathomable cross. The timing of the interview—just a few days before Holy Week, when Christians like Nancy and Savannah Guthrie, year after year, stage a harrowing reënactment of an unjust, torturous death—wasn’t lost on anyone. On Friday, when the final segment of the interview aired, Guthrie spoke in boldly religious terms. She’d prayed and prayed at the beginning of her family’s Passion, and at one point, she said, she actually heard the voice of God, speaking to her. She knew where her mother was, the voice said: “With me.” Whether in this world or whisked away from it, there Nancy was, close to the divine presence. Hearing Guthrie speak of God in this direct, personal, utterly assured way may have alerted some listeners to the fact that although “Today” has no official religion, its aesthetics—vibrant colors, kind words, total decent positivity—match that of an American public Christianity whose moral and imaginative hold lately keeps attenuating, until, suddenly, in the right, blameless hands, it seems briefly to brighten again. Kotb announced afterward that Guthrie would return to “Today” on Monday, April 6th, the day after Easter. “My joy will be my protest,” Guthrie said. ♦",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why did the author describe Nancy Guthrie's house as a \"symbol of resilience\"?",
+          "options": {
+            "A": "It was the place where Nancy had survived a previous tragedy and continued to raise her children.",
+            "B": "It served as a high-tech fortress that successfully deterred potential intruders for many years.",
+            "C": "It was designed by an architect to withstand the harsh environmental conditions of Tucson.",
+            "D": "It was a lucrative investment that ensured the financial independence of the Guthrie family."
+          },
+          "answer": "A",
+          "explanation": "文章提到Nancy在丈夫去世后依然坚守该房子，展现了基督信仰中牺牲的一面，并教育孩子生活必须继续，这使其成为“mourning”与“resilience”的象征。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase \"the failure of the technological apparatus\" (Paragraph 6) imply?",
+          "options": {
+            "A": "Modern security systems are too expensive for the average household to maintain.",
+            "B": "The omnipresence of surveillance cameras has paradoxically failed to solve a major crime.",
+            "C": "Government authorities have intentionally restricted public access to crime scene footage.",
+            "D": "Technical glitches often lead to the loss of critical evidence in kidnapping cases."
+          },
+          "answer": "B",
+          "explanation": "文章第六段指出，尽管我们生活在全面监控的社会（constant cinema of overlapping angles），但人们对于Nancy凭空消失依然感到困惑，这揭示了技术在应对突发罪案时的无力感。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the atmosphere of the interview between Guthrie and Kotb?",
+          "options": {
+            "A": "A chaotic display of raw emotion that disregarded professional journalistic standards.",
+            "B": "A detached, objective investigation into the cold facts of a mysterious disappearance.",
+            "C": "A delicate balance between maintaining professional composure and expressing profound personal grief.",
+            "D": "A highly scripted performance designed to manipulate the audience's political sympathies."
+          },
+          "answer": "C",
+          "explanation": "文章提到她们在谈话中展现出“poise and control”的同时，也会在谈到母亲时流露痛苦，这显示了作为媒体从业者在职业操守与个人悲剧之间的一种微妙平衡。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Why did Savannah Guthrie feel a sense of self-blame regarding her mother's kidnapping?",
+          "options": {
+            "A": "She had encouraged her mother to install the Nest camera, which proved ineffective.",
+            "B": "She feared her own public fame as a celebrity anchor might have made her mother a target.",
+            "C": "She had insisted that her mother move out of the Arizona house against her will.",
+            "D": "She failed to contact her mother on the night the unidentified person was caught on camera."
+          },
+          "answer": "B",
+          "explanation": "文中明确写到Guthrie向兄弟询问“Do you think... because of me?”，暗示她担心自己作为知名主播的身份反而导致了母亲被绑架。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The author concludes that the aesthetics of the \"Today\" show reflect:",
+          "options": {
+            "A": "A strictly secular approach that excludes any form of religious expression.",
+            "B": "A deliberate attempt to alienate viewers who hold traditional moral values.",
+            "C": "A blend of positivity and professional command that echoes an American public Christianity.",
+            "D": "A cynical manipulation of tragedy to boost ratings during the Holy Week."
+          },
+          "answer": "C",
+          "explanation": "文章末尾分析了“Today”节目的美学特征（充满活力的色彩、善意的语言等）与美国公众基督教价值观的重合，认为这种表现形式即使在信仰淡化的时代也依然具有吸引力。"
+        }
+      ]
+    },
+    {
+      "title": "UK and China allow more direct flights",
+      "article_update_date": "04.13.2026",
+      "source_journal": "China Daily",
+      "body_text": "The United Kingdom and China have agreed to raise the limit on the number of direct weekly flights between the two nations to 150 from 100. The UK government said the move was the first of several \"open skies\" deals struck in an effort to increase trade post-Brexit. The deal follows an agreement in October 2016 to raise the limit from 40 to 100. Such services are regulated internationally, typically through bilateral agreements that limit the number and type of flights. Currently, despite the deal allowing up to 100 flights a week, there are around 60. UK Transport Secretary Chris Grayling said the new agreement is an \"important part of preparing Britain\" for its future outside the European Union. \"It just underlines that Britain will do well, regardless of the outcome of the Brexit negotiations,\" Grayling said. Several new services have been set up recently, including a direct route between Manchester and Beijing operated by Hainan Airlines, and China Airlines' renewal of a London-Taipei link. Zheng Lei, director of the Centre for Aviation Research at the University of Surrey, said the UK government may be anticipating continued growth in the number of visitors from China. Between January and June, 115,000 visitors from China arrived in the UK, an increase of 47 percent on the same period in 2016. \"They are possibly expecting more demand,\" Zheng said. \"And China is in the process of negotiating traffic restrictions with countries in continental Europe as well, including France. So, the UK is trying to get ahead and be more proactive.\" Zheng said demand is what will ultimately lead to airlines and airports establishing new routes. \"Eventually, it's down to the airlines to decide whether or not to utilize the new traffic rights,\" he said. \"If there is no demand, the airlines won't operate the route, otherwise they will lose money. Profitability is really the main concern.\" Local authorities in several large UK cities, including Glasgow, Edinburgh, and Birmingham, have lobbied extensively for direct links with China. Denise Hill, head of market strategy at VisitScotland, welcomed the news. \"The relaxation of restrictions on flights between China and the UK is great news and we are confident that, when this results in a reappraisal of the options open to them, airlines will be encouraged by the strong performance delivered by Scotland,\" Hill said.",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary motivation behind the UK's decision to increase the number of direct flights with China?",
+          "options": {
+            "A": "To accommodate the immediate surge in Chinese tourists visiting Scotland.",
+            "B": "To facilitate trade growth as part of the post-Brexit strategy.",
+            "C": "To comply with international regulations imposed by the European Union.",
+            "D": "To force airlines to operate more routes between the two nations."
+          },
+          "answer": "B",
+          "explanation": "文章第二句提到该举措是为在脱欧后增加贸易所达成的一系列开放天空协议的一部分，因此选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to Chris Grayling, the recent aviation deal serves to:",
+          "options": {
+            "A": "Demonstrate Britain's economic resilience regardless of Brexit negotiations.",
+            "B": "Ensure that the UK remains a member of the European Union's aviation market.",
+            "C": "Solve the issue of existing airlines losing money on current routes.",
+            "D": "Prioritize direct links with Taiwan over those with mainland China."
+          },
+          "answer": "A",
+          "explanation": "Grayling的引言明确提到该协议强调了无论脱欧谈判结果如何，英国都能做得很好，对应经济韧性。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does Zheng Lei imply about the UK's proactive approach in negotiating these traffic rights?",
+          "options": {
+            "A": "The UK is trying to prevent China from negotiating with continental Europe.",
+            "B": "The UK is responding to the failure of previous aviation agreements.",
+            "C": "The UK aims to gain a competitive edge over other European countries in attracting Chinese visitors.",
+            "D": "The UK is concerned about the sudden decline in visitor numbers from China."
+          },
+          "answer": "C",
+          "explanation": "Zheng提到中国也在与欧洲大陆国家谈判，英国此举是为了‘get ahead and be more proactive’，即在竞争中抢占先机。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What factor does Zheng Lei identify as the ultimate determinant for the operation of new routes?",
+          "options": {
+            "A": "The pressure applied by local authorities in major UK cities.",
+            "B": "The regulatory framework set by the bilateral agreements.",
+            "C": "The availability of subsidies from the UK government.",
+            "D": "The existence of market demand and potential profitability."
+          },
+          "answer": "D",
+          "explanation": "Zheng指出归根结底取决于需求，航空公司如果不赚钱就不会运营，盈利能力是核心关切。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred from the reactions of local authorities in UK cities?",
+          "options": {
+            "A": "They are skeptical about the economic benefits of direct flights.",
+            "B": "They have been actively advocating for better connectivity with China.",
+            "C": "They believe that the current flight limit is already sufficient.",
+            "D": "They prefer to prioritize tourism over trade in their negotiations."
+          },
+          "answer": "B",
+          "explanation": "文章提到多个大城市的当地政府已经为与中国的直航进行了广泛的游说（lobbied extensively），说明他们持积极推动的态度。"
+        }
+      ]
+    }
+  ]
+}
