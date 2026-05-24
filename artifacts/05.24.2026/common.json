@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.24.2026",
+  "papers": [
+    {
+      "title": "Can countries grow richer by exporting people, not goods?",
+      "article_update_date": "05.06.2026",
+      "source_journal": "Economist",
+      "body_text": "Can countries grow richer by exporting people, not goods? Finance & economics | Free Exchange Can countries grow richer by exporting people, not goods? That depends where those people end up April 30th 2026 MOST OF THE oil in Kerala is pressed from coconuts. Yet the southern Indian state, famed for idyllic backwaters, fragrant cuisine and an easy-going lifestyle, owes much of its prosperity to barrels of the foul-smelling crude that comes bubbling out of the ground in the Persian Gulf and, normally, is shipped through the Strait of Hormuz. Ever since the Middle East oil boom began half a century ago Keralites have been heading there to work, first as cleaners and construction workers, then as clerks, nurses and salespeople. An estimated 1.7m of them live in the Gulf, equal to 5% of the state’s population and close to 11% of its workforce. Gulf oil money has transformed Kerala. K.P. Kannan and K.S. Hari of the Centre for Development Studies, an Indian think-tank, calculate that by the mid-2010s remittances from the region were equivalent to about a quarter of the state’s output, and more than both its value added in manufacturing and its public spending. This has lifted living standards. Consumption per person is nearly three-quarters above the Indian average. Multidimensional poverty, an Indian measure of destitution, afflicts around one in ten Indians but is virtually absent in Kerala. Some economists argue that growing rich by industrialising and exporting industry’s products is harder nowadays than when Europe, Japan, South Korea and, most recently, China pulled it off. For countries like India, seizing a greater export market for manufactured wares in a world already awash with them requires shoving someone else out of the way. When that someone else is China, good luck with that. Could exporting people rather than goods, as Kerala does, provide an alternative path to prosperity? Many poor places rely on emigrants. The World Bank estimates that remittances they send back home account for over a fifth of national income in Honduras, Lebanon, Nepal and Tajikistan. In low- and middle-income countries as a whole, they make up a third of all capital inflows. In Nepal they may have cut poverty rates by 40% between 2001 and 2011. In Mexico they have reduced infant mortality. Remittances’ effect on economic growth, however, is less clear-cut. One study in 2013 of African, Asian and Latin American migrant-sending countries found that a permanent 10% increase in remittances per citizen was associated with a rise of 0.13% in GDP per person. More recent research from 2022 suggested an only slightly less modest effect of 0.66%. In a new paper Charles Kenny of the Centre for Global Development, a think-tank in Washington, finds virtually no relationship between the size of a country’s diaspora and its growth in GDP per person. Emigration can, after all, be both the result of weak growth, which pushes people to leave in the first place, and the cause of economic acceleration. Mr Kenny still believes emigrants can, in some circumstances, be an economic stimulant. Everything depends on the nature of emigration’s spillover effects. These can be positive if they raise average human capital in the sending country and this is harnessed domestically. They can also perpetuate the very problems that lead people to leave. A recent study in the Journal of Economic Perspectives, by Gaurav Khanna of the University of California, San Diego, examines the waves of Asian migration to America. Some of these, Mr Khanna argues, have facilitated “brain circulation” rather than “brain drain”. Lots of Indians, for example, have earned software-engineering degrees in the hope of seizing lucrative opportunities in Silicon Valley. Some won the migration lottery and headed to San Francisco but many more stayed behind. That created a new export industry, able to be delivered not only in person, through migration, but remotely from places like Bangalore, in Karnataka state. India’s IT exports are now worth more than $220bn annually, more than the $135bn the country earns in total from remittances. In Kerala, by contrast, the spillovers look meagre. The state bests the rest of India on literacy and longevity, thanks to a legacy of enlightened princely rule before independence and leftist governments’ heavy public spending on education and health afterwards. But would-be investors are put off by those same governments’ anti-capitalist economic policies and the state’s overweening trade unions. As with IT workers elsewhere in India, Kerala has plenty of health professionals who did not manage to emigrate, but many nurses are on strike demanding higher wages. Businesses struggle to match wage expectations hoisted high by labour-market links to deep-pocketed employers in the Gulf. As a result, companies prefer to set up shop in business-friendlier places like Tamil Nadu next door. Much of Kerala’s remittance windfall is spent on building houses and buying cars, which raises living standards but not productivity. Paying for children’s education, which Gulf money also bankrolls, does make Keralites more productive. So long as local opportunities to harness that productivity remain scarce, however, the brightest graduates will continue to try their luck abroad. Perhaps the biggest drawback of emigration-led growth is that its success rests on factors beyond the sending country’s control. This is true, to a degree, of any economic activity. But it is easier for manufacturers facing tariffs in one market to find a new one than it is for emigrants to move somewhere else when economic or political circumstances in their temporary home change. Again consider Kerala. The number of Keralites in the Gulf has plateaued in recent years as countries there reserve certain jobs for citizens. Their remittances could decline by 20% this year as the knock-on effects of the Iran war hurt the region’s economies. Emigration nearly always benefits emigrants and their families back home. Banking on it for broader growth amid rising fragmentation, protectionism and conflict is perilous. ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/04/30/can-countries-grow-richer-by-exporting-people-not-goods",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Can countries grow richer by exporting people, not goods? That depends _____ where those people end up.",
+          "options": {
+            "A": "at",
+            "B": "on",
+            "C": "to",
+            "D": "by"
+          },
+          "answer": "B",
+          "explanation": "depend on是固定搭配，意为取决于。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Yet the southern Indian state, _____ for idyllic backwaters, owes much of its prosperity to barrels of the foul-smelling crude.",
+          "options": {
+            "A": "blamed",
+            "B": "named",
+            "C": "claimed",
+            "D": "famed"
+          },
+          "answer": "D",
+          "explanation": "famed for意为因...而闻名，符合语境描述Kerala的特点。"
+        },
+        {
+          "q_number": 3,
+          "stem": "An estimated 1.7m of them live in the Gulf, _____ to 5% of the state’s population and close to 11% of its workforce.",
+          "options": {
+            "A": "equivalent",
+            "B": "relevant",
+            "C": "superior",
+            "D": "parallel"
+          },
+          "answer": "A",
+          "explanation": "equivalent to意为等于、相当，修饰前面的数量比例。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Multidimensional poverty, an Indian measure of destitution, _____ around one in ten Indians but is virtually absent in Kerala.",
+          "options": {
+            "A": "sustains",
+            "B": "afflicts",
+            "C": "affords",
+            "D": "attracts"
+          },
+          "answer": "B",
+          "explanation": "afflict意为折磨、使受苦，符合贫困带来的负面影响。"
+        },
+        {
+          "q_number": 5,
+          "stem": "For countries like India, seizing a greater export market for manufactured wares in a world already _____ with them requires shoving someone else out of the way.",
+          "options": {
+            "A": "swayed",
+            "B": "awash",
+            "C": "impaired",
+            "D": "deprived"
+          },
+          "answer": "B",
+          "explanation": "awash with意为充斥着，符合全球制造业竞争激烈的背景。"
+        },
+        {
+          "q_number": 6,
+          "stem": "In low- and middle-income countries as a whole, they make up a third of all capital _____.",
+          "options": {
+            "A": "incomes",
+            "B": "outlooks",
+            "C": "outputs",
+            "D": "inflows"
+          },
+          "answer": "D",
+          "explanation": "capital inflows意为资本流入，是经济学中的固定用语。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Remittances’ effect on economic growth, however, is less _____.",
+          "options": {
+            "A": "distinct",
+            "B": "complex",
+            "C": "clear-cut",
+            "D": "intact"
+          },
+          "answer": "C",
+          "explanation": "clear-cut意为明确的，符合前后文对于汇款对增长作用不明确的陈述。"
+        },
+        {
+          "q_number": 8,
+          "stem": "More recent research from 2022 suggested an only slightly less _____ effect of 0.66%.",
+          "options": {
+            "A": "hostile",
+            "B": "radical",
+            "C": "urgent",
+            "D": "modest"
+          },
+          "answer": "D",
+          "explanation": "modest在此处修饰增长幅度小，符合语境中0.66%的数值描述。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Emigration can, after all, be both the result of weak growth and the _____ of economic acceleration.",
+          "options": {
+            "A": "cause",
+            "B": "verdict",
+            "C": "symptom",
+            "D": "barrier"
+          },
+          "answer": "A",
+          "explanation": "与result相对的通常是cause，即移民既可能是经济疲软的结果，也可能是经济加速的原因。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Everything depends on the nature of emigration’s _____ effects.",
+          "options": {
+            "A": "turnover",
+            "B": "spillover",
+            "C": "takeover",
+            "D": "knockover"
+          },
+          "answer": "B",
+          "explanation": "spillover effects意为外溢效应，指移民带来的连带经济影响。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Some of these, Mr Khanna argues, have facilitated “brain circulation” rather than “brain _____”.",
+          "options": {
+            "A": "gain",
+            "B": "train",
+            "C": "drain",
+            "D": "chain"
+          },
+          "answer": "C",
+          "explanation": "brain drain是固定搭配，意为人才流失。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Lots of Indians, for example, have earned software-engineering degrees in the hope of _____ lucrative opportunities in Silicon Valley.",
+          "options": {
+            "A": "denying",
+            "B": "missing",
+            "C": "releasing",
+            "D": "seizing"
+          },
+          "answer": "D",
+          "explanation": "seizing opportunities意为抓住机会。"
+        },
+        {
+          "q_number": 13,
+          "stem": "In Kerala, by contrast, the spillovers look _____.",
+          "options": {
+            "A": "stable",
+            "B": "mature",
+            "C": "meagre",
+            "D": "vivid"
+          },
+          "answer": "C",
+          "explanation": "meagre意为微薄的，与上文提到的印度其他地区的溢出效应形成对比。"
+        },
+        {
+          "q_number": 14,
+          "stem": "But would-be investors are put off by those same governments’ anti-capitalist economic policies and the state’s _____ trade unions.",
+          "options": {
+            "A": "overhanging",
+            "B": "underlying",
+            "C": "overflowing",
+            "D": "overweening"
+          },
+          "answer": "A",
+          "explanation": "overweening意为傲慢的或过度的，修饰工会的力量强大。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Businesses struggle to match wage expectations _____ high by labour-market links to deep-pocketed employers in the Gulf.",
+          "options": {
+            "A": "raised",
+            "B": "carried",
+            "C": "hoisted",
+            "D": "pressed"
+          },
+          "answer": "C",
+          "explanation": "hoist意为抬高，此处与wage expectations搭配。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Much of Kerala’s remittance windfall is spent on building houses and buying cars, which raises living standards but not _____.",
+          "options": {
+            "A": "productivity",
+            "B": "popularity",
+            "C": "capacity",
+            "D": "activity"
+          },
+          "answer": "C",
+          "explanation": "前文提到消费不直接提升生产力，此处符合语境的逻辑衔接。"
+        },
+        {
+          "q_number": 17,
+          "stem": "So long as local opportunities to harness that productivity remain _____, however, the brightest graduates will continue to try their luck abroad.",
+          "options": {
+            "A": "sparse",
+            "B": "scarce",
+            "C": "plentiful",
+            "D": "abundant"
+          },
+          "answer": "B",
+          "explanation": "scarce意为稀缺的，解释了人才为何外流。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The number of Keralites in the Gulf has _____ in recent years as countries there reserve certain jobs for citizens.",
+          "options": {
+            "A": "declined",
+            "B": "plateaued",
+            "C": "increased",
+            "D": "fluctuated"
+          },
+          "answer": "A",
+          "explanation": "plateaued表示进入平台期，符合语境的减缓趋势。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Their remittances could decline by 20% this year as the _____ effects of the Iran war hurt the region’s economies.",
+          "options": {
+            "A": "side",
+            "B": "knock-on",
+            "C": "dead-end",
+            "D": "take-off"
+          },
+          "answer": "D",
+          "explanation": "knock-on effects指连锁反应。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Banking on it for broader growth amid rising fragmentation, protectionism and conflict is _____.",
+          "options": {
+            "A": "perilous",
+            "B": "prosperous",
+            "C": "cautious",
+            "D": "generous"
+          },
+          "answer": "A",
+          "explanation": "perilous意为危险的，与前文提到的不稳定性相呼应。"
+        }
+      ]
+    },
+    {
+      "title": "Would-be suicide bomber sets off explosion in NYC",
+      "article_update_date": "04.10.2026",
+      "source_journal": "China Daily",
+      "body_text": "Police officers stand guard outside the New York Port Authority Bus Terminal in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies] A would-be suicide bomber set off part of a homemade explosive device in a subway passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan during Monday's morning rush hour, seriously wounding himself and injuring three others, police said. The injuries to two commuters and a Port Authority police officer were all non-life threatening, according to the New York Fire Department. At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist attack, and he said no other devices had been found. The suspect was identified by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He was in serious condition at Bellevue Hospital Center. Ullah acted alone, police said, and the device was reported to have gone off prematurely in the passage just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one of the busiest transit hubs in the country — at 7:20 am, authorities said. Two commuters and a Port Authority police officer suffered minor injuries, officials said. The device was affixed to Ullah's body with Velcro and zip ties, police officials said. The explosion caused commuter chaos at one of the city's key traffic hubs. \"Our lives revolve around the subway,\" the mayor said. \"The choice of New York is always for a reason, because we are beacons of the world. And we show that a society of many background and many faiths can work.\" \"The terrorists want to undermine that,\" he added. \"They yearn to attack New York City.\" \"I'm glad I wasn't there. We were supposed to take a bus out at the time (when the accident happened), so I'm glad we waited,\" said Monica Gannon, who planned to take the bus back to New Jersey at this morning when the explosion happened. \"We are stuck here. Now we are waiting for all this to be over and go back home.\" \"I was evacuated from the terminal after it (the explosion) happened. It was terrible, and I was so scared when I saw some people running,\"said Alicia Carmona. She said she was evacuated from the terminal after the explosion and to wait outside the bus terminal for about two hours. Carmona said she planned to pick up her niece at LaGuardia Airport at around 9 am, but now she couldn't make it. \"I was thinking to take the subway instead, but the nearby subway stations are closed too.\"",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what can be inferred about the perpetrator's attempt?",
+          "options": {
+            "A": "It caused significant casualties among the commuters.",
+            "B": "The device was detonated at the intended location on schedule.",
+            "C": "The suspect acted in coordination with other terrorists.",
+            "D": "The device functioned ahead of the suspect's original plan."
+          },
+          "answer": "D",
+          "explanation": "文章提到“the device was reported to have gone off prematurely”，即装置提前爆炸，这与D选项“装置比预期提前爆炸”意思一致。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does Mayor Bill de Blasio perceive the motive behind the attack?",
+          "options": {
+            "A": "To target the specific transit hub for its economic value.",
+            "B": "To challenge the values of diversity and openness represented by New York.",
+            "C": "To protest the religious background of the city's inhabitants.",
+            "D": "To force the city to upgrade its current security measures."
+          },
+          "answer": "B",
+          "explanation": "市长提到纽约是世界的灯塔，象征着多元背景与信仰的融合，而恐怖分子试图破坏（undermine）这一点，因此B项正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following describes the impact of the explosion on the general public?",
+          "options": {
+            "A": "The city's transit systems were completely paralyzed for the day.",
+            "B": "Most passengers were able to reach their destinations despite minor delays.",
+            "C": "Commuters faced significant disruption and evacuation procedures.",
+            "D": "The public reacted with indifference due to the non-life-threatening injuries."
+          },
+          "answer": "C",
+          "explanation": "文章描述了通勤混乱，乘客被疏散（evacuated），有人因为车站关闭无法去机场，这些都体现了严重的公共交通干扰，故选C。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary function of the details regarding Akayed Ullah's background?",
+          "options": {
+            "A": "To explain the political motivations of his country of origin.",
+            "B": "To highlight the long-term planning of the terrorist organization.",
+            "C": "To identify the suspect and provide context for the investigation.",
+            "D": "To prove that the suspect was a recent immigrant to New York."
+          },
+          "answer": "C",
+          "explanation": "文章列举嫌疑人姓名、年龄、国籍和居住地，主要目的是为了识别（identify）身份，配合后续调查，故C项符合语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the tone of the passengers' accounts in the later part of the article?",
+          "options": {
+            "A": "Detached and analytical.",
+            "B": "Fearful and inconvenienced.",
+            "C": "Defiant and courageous.",
+            "D": "Optimistic and hopeful."
+          },
+          "answer": "B",
+          "explanation": "乘客描述自己感到害怕（scared），并且因为被困和行程取消而感到不便，因此基调是恐惧且受扰的。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "04.30.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the joint statement, what is considered essential for ensuring long-term peace and stability in the Asia-Pacific region?",
+          "options": {
+            "A": "The unilateral control of regional economic affairs by the three nations.",
+            "B": "Maintaining an architecture that is open, inclusive, and based on international law.",
+            "C": "Restricting the influence of other international organizations in Asia.",
+            "D": "Prioritizing military expansion over economic cooperation among the three countries."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确提到：Maintaining regional security and economic architecture that is 'open, inclusive and based on multilateralism and universally recognized principles of international law' is imperative for lasting peace and stability in the region。选项B与原文完全吻合。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary significance of the Russia-India-China trilateral format as mentioned in the text?",
+          "options": {
+            "A": "To create a military alliance to confront external regional threats.",
+            "B": "To serve as a platform for fostering dialogue and practical cooperation in specific areas.",
+            "C": "To replace the existing BRICS and SCO frameworks with a new trilateral structure.",
+            "D": "To monopolize regional development and dictate the economic policies of neighboring nations."
+          },
+          "answer": "B",
+          "explanation": "文章倒数第三段提到：Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries。选项B准确概括了其定位。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How do the three countries view their trilateral cooperation in relation to other nations?",
+          "options": {
+            "A": "It is intended to exclude specific countries from regional economic forums.",
+            "B": "It is designed to counter the diplomatic influence of major Western powers.",
+            "C": "It is not directed against any other country.",
+            "D": "It serves as a confrontational mechanism to maintain regional security."
+          },
+          "answer": "C",
+          "explanation": "文章倒数第三段明确指出：the joint statement said such cooperation is not directed against any other country。选项C是原文的同义表达。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the stated goal regarding the 'second golden decade' of BRICS cooperation?",
+          "options": {
+            "A": "To limit the scope of cooperation strictly to security and political matters.",
+            "B": "To reduce the number of summits hosted by member countries.",
+            "C": "To strengthen cooperation across economic, political, security, and people-to-people fields.",
+            "D": "To focus primarily on the economic success achieved during the Xiamen Summit."
+          },
+          "answer": "C",
+          "explanation": "文章第四段引文提到：strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation。选项C涵盖了所有提到的领域。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best reflects the tone and purpose of the joint statement issued by the three ministers?",
+          "options": {
+            "A": "Critical and cautionary.",
+            "B": "Collaborative and constructive.",
+            "C": "Aggressive and defensive.",
+            "D": "Skeptical and indifferent."
+          },
+          "answer": "B",
+          "explanation": "通读全文，三方重申了共同利益、合作精神（spirit of mutual understanding and trust）以及致力于地区和平与全球繁荣的意愿，因此语调是积极、合作和建设性的。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 11",
+      "article_update_date": "04.06.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Afra Wang The Big Story Jan 20, 2026 6:00 AM You’ve Never Heard of China’s Greatest Sci-Fi Novel Millions of words. Thousands of authors. The Morning Star of Lingao is barely known outside China—but it contains the secret to the country’s modernization and malaise. Photograph: Wu MeiChi Ma Qianzhu was unsatisfied with Chinese progress. An engineer at a large state-owned enterprise, he belonged to a generation that grew up believing engineering is destiny, that China’s future would be built, bolt by bolt, by people like him. Then Ma discovered something extraordinary: a wormhole to the late Ming Dynasty. With more than 500 peers, he commandeered a ship and traveled back in time 400 years, to a preindustrial China wracked by foreign invasion and internal decay. Their mission: trigger an industrial revolution in the past that would, in the future, make modern China great (again). The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . This, strictly speaking, did not happen. It’s the plot of The Morning Star of Lingao (临高启明), a sprawling, collectively written science-fiction web novel that has consumed a corner of the Chinese internet for nearly two decades. It now totals millions of words. It has never been translated into English. Almost no one in the West knows it exists. But I would argue—somewhat less strictly speaking—that the events of the book did happen. That the time travel worked. And that the secret to understanding modern China is all right there, contained within its prophetic, often frightening pages. In 2006, a post went up on SC BBS, China’s earliest military-themed message board: What would you do if you could travel back to the Ming Dynasty with modern knowledge? The question struck a nerve. The Ming Dynasty occupies a painful place in Chinese historical consciousness. It was a period when Chinese civilization entered a long decline, ending in the so-called Great Divergence. Europe embraced discovery, ascent, and construction; China sealed itself off. Joseph Needham’s famous question —“Why did modern science develop in Europe but not in China?”—has haunted modern Chinese intellectual life ever since. The Morning Star of Lingao emerged as a kind of internet-fueled continuation of this historic discourse. As more people found the original post, forum discussions crystallized into serious, collective story-writing. If you could travel back to the Ming Dynasty with modern knowledge, these users decided, well, you’d obviously industrialize before Europe and win modernity. Not everyone quite saw it that way. This was also the moment when China’s internet began producing its first generation of liberal-minded intellectuals, who debated everything in a relatively free online space—air pollution, labor rights, the brutal relocations preceding Beijing’s 2008 Olympic spectacle. I was a teenager coming of age in this internet. I bore witness to the Arab Spring and its Chinese-inspired “Jasmine Revolution.” I devoured Charter 08, a manifesto for political reform and human rights. In 2011, while I was in high school, the renowned blogger Han Han released his pro-democracy trilogy —“On Revolution,” “On Democracy,” “On Freedom.” The Lingao writers had little interest in these values. If the novel didn’t exactly inspire China’s effort to industrialize, it certainly reflected and reinforced it, serving as a kind of sacred text. In 2011, a nationalist economist named Wang Xiaodong coined the term “Industrial Party”—not a literal party (there’s effectively only one in China) but a way to refer to a circle of internet thinkers and influencers writing essays and cheering on plans the state had initiated. As the scholar Li Qiang has observed , the Industrial Party emphasized a pragmatic attitude of “shelving disputes and focusing on development.” The force they celebrated, ostensibly derived from industrial civilization, was actually development itself—progress as ideology, building as salvation. Revolution, democracy, freedom: These were distractions, even obstacles. What mattered was building. What mattered was speed. And perhaps no figure better embodied the Industrial Party’s evolution from internet subculture to influential public voice than the man who inspired the character of Ma Qianzhu—Ma Qianzu. That’s right: the fictional engineer in Lingao is based on a real-life engineer of the same name. (Or nearly: Their names differ by two Chinese characters.) The writing process for the book was extremely decentralized, so attribution is often messy, but there’s a consensus that the real-life Ma was one of the book’s writers. Ma—whose real name is actually Ren Chonghao, but he goes by his pen name—trained as a civil engineer and worked at the Suzhou Planning & Design Research Institute. He poured his own dreams and convictions into his fictional counterpart. Ma’s moment arrived in 2011. On July 23, two high-speed trains collided near Wenzhou, killing 40 people. The accident traumatized the nation for what it seemed to reveal about the costs of China’s breakneck pace of development. A prominent essay captured the mood, its title becoming a rallying cry: “China, Slow Down, Wait for Your People.” The prose read almost like prayer: “China, please stop your flying pace, wait for your people, wait for your soul, wait for your morality, wait for your conscience!” Ma and other Industrial Party voices responded with a counteroffensive. The solution wasn’t to slow down but to double down, they said—to learn from mistakes, to push through the difficult phase when new technologies were still being mastered. And key to their campaign was Lingao itself. The writing of it became a phenomenon across Chinese internet forums in the 2010s: Its open source ethos and collaborative methods deeply appealed to China’s burgeoning tech community. Beyond regular meetups among core contributors, Lingao ’s creation fostered the formation of China’s “keyboard politics”—online communities where users engage in fierce debates about governance, policy, and national direction under the protection of pseudonyms. These conversations became staging grounds for political arguments that couldn’t happen elsewhere, where amateur policy wonks, military enthusiasts, and armchair strategists honed their worldviews. In 2012, the nationalist commentary website Guancha (think of it as China’s Breitbart) was founded, and its complex entanglement with Industrial Party thought and personnel networks demonstrated how far Lingao ’s influence extended beyond mere time-travel fiction. Industrial Party ideology ends up being quite Darwinian. What matters most is the power that flows from industrial capacity. This contributes to what scholars refer to as the party’s “aesthetic.” Fred Gao , a Beijing-based journalist who identifies with the Industrial Party and who briefly worked for Guancha, told me: “These people view industrialization as the highest form of beauty. Building things from nothing—that’s their romanticism.” Of course, the techno-nationalist impulse transcends borders. “Elon Musk is the ultimate Industrial Party figure,” Gao said. Musk’s vision of colonizing Mars, his impatience with regulation, his worship of engineering solutions, his conviction that making physical things matters more than anything else—his “aesthetic has strong resonances with the Chinese Industrial Party,” Gao said. What differs is simply the political system that channels it. Almost nobody, including me, can finish all the chapters of Lingao (to say nothing of the more than 1,400 derivative works ). It’s not just that it’s too long. Reading it is quite painful. The novel’s language and narrative structure are aggressively anti-literary. To write beautifully would be bourgeois , the Industrial Party seemed to believe. Technical descriptions veer into what feels like self-indulgence, an uncomfortable disregard for readers without STEM backgrounds. The book asks questions like: How do you solve energy problems when you can’t drill for oil? How do you begin mechanization without the machine tools to make machine tools? How do you produce nitric acid when you’re starting from literally dirt? From Chapter 22, as the 500 time travelers plan their expedition to colonize Lingao County in Hainan (the southern island in China): “Besides complete equipment sets, we need backup chemical engineering equipment: synthesis towers, absorption towers, decarburization towers, distillation columns, saturated hot water towers, various reaction kettles, pressure-resistant piping, acid pumps, heaters ... I estimate we need 500–600 tons of materials.” “Can’t we produce these ourselves? Our mechanical industry is fairly complete.” “Material problems,” Ji Situi said. “Unless we can quickly produce stainless steel and polyethylene, domestic production of chemical equipment will be difficult within 10 years.” It reminds me of Daniel Defoe’s Robinson Crusoe , published in 1719. In the story, Crusoe reconstructs the distant island’s physicality from first principles. He builds tools, domesticates animals, plants crops, constructs shelter, makes pottery, bakes bread, sews clothes. The novel works like an instruction manual because, just like Lingao , that is the point. Robinson Crusoe is among the first works of fiction to treat industriousness itself as heroic. Yet Lingao gets at something more specific than Defoe’s Enlightenment universalism: It reflects the moral worldview of China during its 21st-century industrial acceleration and nationalism. Consider this passage—the scene when the crew has just time-traveled after 47 chapters of preparation: Behind them, a crimson sun erupts from the horizon, painting the sky red. The South China Sea’s surface glitters with golden light as the dawn of a new world illuminates the time travelers for the first time. On deck, they rise involuntarily, overwhelmed by emotion: I am witnessing history. I am creating history. Intoxicated by this feeling, someone begins singing “Ode to the Motherland”: The five-starred red flag flutters in the wind, Victory songs ring so clear, Wesing of our beloved motherland, From today walking toward prosperity and strength … First one voice, then many, then all. The soaring song pierces the clouds, resounding across the new world. This is the emotional core of Lingao —and of the Industrial Party worldview. The novel never separates technological progress from nationalist revival. Building blast furnaces is patriotism. Engineering is loving your country. The characters in the novel are intoxicated by their mission, and the readers are intoxicated by the fantasy. And perhaps most importantly, the writers are intoxicated by the act of collective world-building itself—the collaborative construction of an alternate Chinese modernity. Between 2000 and the mid-2020s, China’s manufacturing output exploded nearly eightfold. The country became “the world’s factory” not gradually but suddenly, and a feedback loop emerged: The Industrial Party worldview and China’s actual industrialization reinforced each other. Meanwhile, Lingao provided a narrative framework that made China’s development inevitable and righteous. For educated urbanites, especially those with technical backgrounds, it felt like inhabiting science fiction. The Lingao contributors and readers—typically 20- to 40-year-old males in cities, many with STEM careers—were both witnesses to and agents of this transformation. They worked in the factories, the construction firms, the engineering offices. They experienced firsthand what concentrated state resources and marshaled technical expertise could achieve. As Dan Wang argues in his book Breakneck , China has become the quintessential “engineering state.” When Xi Jinping stacks his government with aerospace and defense executives, when he demands manufacturing remain at 28 percent of GDP, when he boasts that China produces something in all UN industrial categories—he’s speaking the Industrial Party gospel. “Productive forces are what fundamentally drive the development of human society,” he said in a May 2024 speech , “and are the final cause of all social and political changes.” Everything else—democracy, rights, culture—is derivative, subordinate, ultimately irrelevant compared to the question of whether you can manufacture advanced semiconductors or build hypersonic missiles. But that first generation of liberal-minded intellectuals—the ones I grew up idolizing—hasn’t given up. In fact, in recent years, cracks have appeared in the Industrial Party’s armor. “Look at Ma Qianzu now,” says Fred Gao. “These past two years, he still talks about industrial systems, but increasingly he’s discussing socialized childcare, how local governments should spend money, local debt problems, reflections on unlimited borrowing. The pure Industrial Party worldview—that building solves everything—can’t address the structural problems China faces now.” It’s not just Ma. One of the original Lingao authors, writing under the pen name “The Boaster,” has largely withdrawn from public discourse. Those close to the project say he’s focused on his day job, occasionally updating the novel but no longer engaging in the debates that once defined the",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the core motivation behind the time-travel mission in 'The Morning Star of Lingao'?",
+          "options": {
+            "A": "To promote democratic reform and political freedom in the Ming Dynasty.",
+            "B": "To escape the constraints of modern life and pursue personal enlightenment.",
+            "C": "To industrialize the past and secure a dominant future for modern China.",
+            "D": "To document the history of the Great Divergence for future generations."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到，这群人的任务是通过在过去触发工业革命，使得现代中国变得伟大。选项C准确概括了其工业化目标与国家主义动机。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest by stating that the novel's language is 'aggressively anti-literary'?",
+          "options": {
+            "A": "It lacks the narrative depth required for traditional science fiction.",
+            "B": "The writers deliberately prioritize technical detail over stylistic beauty.",
+            "C": "The content is intended to challenge the political ideologies of the bourgeois.",
+            "D": "The novel was written by people with no professional writing experience."
+          },
+          "answer": "B",
+          "explanation": "文章提到“To write beautifully would be bourgeois”以及书中充斥着技术细节描述，说明作者刻意牺牲文学性以换取工业纪实感。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The comparison between 'The Morning Star of Lingao' and 'Robinson Crusoe' serves primarily to:",
+          "options": {
+            "A": "Highlight the superiority of Defoe's writing style.",
+            "B": "Illustrate how both works treat industriousness as a heroic pursuit.",
+            "C": "Demonstrate the influence of Western literature on Chinese sci-fi.",
+            "D": "Emphasize the difficulty of colonial survival in both stories."
+          },
+          "answer": "B",
+          "explanation": "文章作者认为《鲁滨逊漂流记》将勤劳本身视为英雄主义，这与《临高启明》对工业化建造的崇拜在本质上具有相似的道德世界观。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the 'Industrial Party' ideology as depicted in the text?",
+          "options": {
+            "A": "It advocates for slow, sustainable growth to ensure social morality.",
+            "B": "It views political and cultural rights as vital for national development.",
+            "C": "It prioritizes rapid technological advancement and construction above all else.",
+            "D": "It seeks to replicate Western political systems to modernize the nation."
+          },
+          "answer": "C",
+          "explanation": "文中指出，工业党认为“革命、民主、自由”是干扰，真正重要的是“建设”和“速度”，即视发展为意识形态本身。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author imply about the current status of the 'Industrial Party' influence?",
+          "options": {
+            "A": "It has become an absolute, unchallenged dogma in modern China.",
+            "B": "It has successfully merged with democratic values to form a new consensus.",
+            "C": "It is facing limitations as it struggles to address contemporary structural issues.",
+            "D": "It has been completely abandoned by its founding members due to state pressure."
+          },
+          "answer": "C",
+          "explanation": "文章最后一段指出，尽管马千嘱等人仍在讨论工业体系，但纯粹的“建设能解决一切”的工业党世界观已无法应对中国当前面临的结构性问题。"
+        }
+      ]
+    }
+  ]
+}
