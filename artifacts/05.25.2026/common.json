@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.25.2026",
+  "papers": [
+    {
+      "title": "Celebrating one of literature’s greatest pessimists",
+      "article_update_date": "05.03.2026",
+      "source_journal": "Economist",
+      "body_text": "Celebrating one of literature’s greatest pessimists Culture | A donkey’s years Celebrating one of literature’s greatest pessimists Why Texans throw a birthday party for Eeyore—and everyone else should, too April 30th 2026 “YOU SEEM so sad,” says Winnie-the-Pooh to Eeyore. In A.A. Milne ’s charming children’s stories—first collected into a book a century ago—the donkey has a gift for finding the cloud in any silver lining. In this particular instance, however, Eeyore is gloomy because it is his birthday and nobody has noticed. Pooh and Piglet try to make amends, but with their usual good-natured incompetence offer subpar presents: a honeypot licked clean of honey and a burst balloon. Austin, Texas, does not much resemble the Hundred Acre Wood. But since 1964 its inhabitants have been trying to make up for Pooh’s and Piglet’s performance. That year a group of literature students at the University of Texas, searching for an excuse to let off steam before their final exams, decided to throw Eeyore a birthday party. Except for a two-year pause for covid-19 , Eeyore has been celebrated ever since, first in a small park, and for the past 52 at the larger Pease District Park. Friends of the Forest, a group of volunteers, runs the event and “everyone is invited” explains the group’s president, Heather Hampton. Admission is free and the local vendors selling food, craft beer and assorted trinkets keep their proceeds. Any tips volunteers receive are donated to local non-profits; Ms Hampton says that Friends of the Forest has given away more than $280,000 over the years. Children can get their faces painted and run wild on a playground while their parents listen to live music and—alas—drum circles. People of all ages show up in costumes or tie-dye. At the centre of the park this year was a small fenced area holding a white donkey for children to pet and feed. The creature seemed a good deal happier than his fictional counterpart. Why should anyone outside Austin care about hippies cheering for a fictional donkey? There are two reasons. First, the event is a reminder that cities, like people, have spirits that persist through superficial changes. Before Austin started attracting tech money and right-leaning celebrities such as the Joes Lonsdale and Rogan, it was a hippie haven. (“Keep Austin Weird” is the city’s unofficial slogan.) Johnny C, a tall man with a white ponytail and beard, has been wishing Eeyore a happy birthday since the late 1970s; he calls the event “an example of the true spirit of Austin, where you can be whoever you want to be.” Second, the event celebrates the best character Milne ever wrote. (Children being read to may delight in Pooh’s enthusiastic silliness, but their parents appreciate Eeyore’s realism.) It also honours the difficult friend that everyone has, or perhaps is. Eeyore is depressive, anhedonic and pessimistic—but also kind, dogged and loyal. Throwing a party in his honour reminds those attending that sometimes everyone needs a little cheering up. ■ For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist , our weekly subscriber-only newsletter This article was downloaded by zlibrary from https://www.economist.com//culture/2026/04/27/celebrating-one-of-literatures-greatest-pessimists",
+      "difficulty_constant": 3.1,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "“YOU SEEM so sad,” says Winnie-the-Pooh to Eeyore. In A.A. Milne ’s charming children’s stories—first collected into a book a century ago—the donkey has a gift for finding the cloud in any silver lining. In this particular instance, however, Eeyore is gloomy because it is his birthday and nobody has noticed. Pooh and Piglet try to make amends, but with their usual good-natured incompetence offer subpar presents: a honeypot licked clean of honey and a burst balloon.",
+          "options": {
+            "A": "Eeyore's perpetual sadness",
+            "B": "the incompetence of his friends",
+            "C": "the lack of attention on his birthday",
+            "D": "the poor quality of the gifts"
+          },
+          "answer": "C",
+          "explanation": "文章开头描述了 Eeyore 感到忧伤的原因是“nobody has noticed”他的生日，因此选项 C 是最直接和准确的原因。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Austin, Texas, does not much resemble the Hundred Acre Wood. But since 1964 its inhabitants have been trying to make up for Pooh’s and Piglet’s performance. That year a group of literature students at the University of Texas, searching for an excuse to let off steam before their final exams, decided to throw Eeyore a birthday party.",
+          "options": {
+            "A": "imitate the Hundred Acre Wood",
+            "B": "celebrate a fictional character",
+            "C": "compensate for the poor gifts",
+            "D": "alleviate pre-exam stress"
+          },
+          "answer": "C",
+          "explanation": "学生们组织 Eeyore 的生日派对，是为了弥补 Pooh 和 Piglet 在故事中送出的不佳礼物，意在“make up for”他们的表现。选项 D 描述了组织派对的动机，但不是直接的“make up for”的含义。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Except for a two-year pause for covid-19 , Eeyore has been celebrated ever since, first in a small park, and for the past 52 at the larger Pease District Park. Friends of the Forest, a group of volunteers, runs the event and “everyone is invited” explains the group’s president, Heather Hampton.",
+          "options": {
+            "A": "continuously",
+            "B": "intermittently",
+            "C": "exclusively",
+            "D": "sporadically"
+          },
+          "answer": "A",
+          "explanation": "文章提到“ever since”以及“for the past 52 years”，表明活动一直在持续进行，除了因疫情中断的两年。因此，“continuously”最符合语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Admission is free and the local vendors selling food, craft beer and assorted trinkets keep their proceeds. Any tips volunteers receive are donated to local non-profits; Ms Hampton says that Friends of the Forest has given away more than $280,000 over the years.",
+          "options": {
+            "A": "profits",
+            "B": "donations",
+            "C": "purchases",
+            "D": "revenue"
+          },
+          "answer": "B",
+          "explanation": "文章指出，志愿者收到的“tips”被捐赠给了当地的非营利组织。Tips 通常指小费或捐赠，与“donations”含义最接近。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Children can get their faces painted and run wild on a playground while their parents listen to live music and—alas—drum circles. People of all ages show up in costumes or tie-dye.",
+          "options": {
+            "A": "happily",
+            "B": "regrettably",
+            "C": "sadly",
+            "D": "unfortunately"
+          },
+          "answer": "D",
+          "explanation": "“Alas”是一个感叹词，表示遗憾或惋惜。在这个语境下，作者用它来描述“drum circles”，暗示这可能不是他认为最理想的音乐形式，带有一丝幽默的无奈。"
+        },
+        {
+          "q_number": 6,
+          "stem": "At the centre of the park this year was a small fenced area holding a white donkey for children to pet and feed. The creature seemed a good deal happier than his fictional counterpart.",
+          "options": {
+            "A": "individual",
+            "B": "representative",
+            "C": "opposite",
+            "D": "model"
+          },
+          "answer": "C",
+          "explanation": "“Counterpart”指对应物或相似物。这里用来对比现实中的驴和虚构的 Eeyore，强调现实中的驴与 Eeyore 的“忧伤”性格形成对比，因此“opposite”最符合。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Why should anyone outside Austin care about hippies cheering for a fictional donkey? There are two reasons. First, the event is a reminder that cities, like people, have spirits that persist through superficial changes.",
+          "options": {
+            "A": "essences",
+            "B": "characteristics",
+            "C": "qualities",
+            "D": "personalities"
+          },
+          "answer": "A",
+          "explanation": "“Spirits”在这里指城市内在的、持久的本质或精神，不会因为表面的变化而改变。选项 C “essences”最贴切地表达了这种深层含义。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Before Austin started attracting tech money and right-leaning celebrities such as the Joes Lonsdale and Rogan, it was a hippie haven. (“Keep Austin Weird” is the city’s unofficial slogan.)",
+          "options": {
+            "A": "prosperous",
+            "B": "modest",
+            "C": "conservative",
+            "D": "vibrant"
+          },
+          "answer": "D",
+          "explanation": "“Haven”意为避难所或乐园。结合上下文“hippie haven”，以及“Keep Austin Weird”的口号，暗示了当时奥斯汀是一个自由、充满活力的文化聚集地。选项 C “vibrant”最能体现这种氛围。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Johnny C, a tall man with a white ponytail and beard, has been wishing Eeyore a happy birthday since the late 1970s; he calls the event “an example of the true spirit of Austin, where you can be whoever you want to be.”",
+          "options": {
+            "A": "identity",
+            "B": "belief",
+            "C": "ambition",
+            "D": "expression"
+          },
+          "answer": "D",
+          "explanation": "“Where you can be whoever you want to be”描述的是一种自由表达自我、不受限制的状态。选项 B “expression”最能概括这种自由自我表达的含义。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Second, the event celebrates the best character Milne ever wrote. (Children being read to may delight in Pooh’s enthusiastic silliness, but their parents appreciate Eeyore’s realism.) It also honours the difficult friend that everyone has, or perhaps is.",
+          "options": {
+            "A": "realism",
+            "B": "optimism",
+            "C": "idealism",
+            "D": "pessimism"
+          },
+          "answer": "A",
+          "explanation": "文章明确指出，家长们欣赏 Eeyore 的“realism”（现实主义），这与 Pooh 的“silliness”（傻气）形成对比。因此，此处应填“realism”。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Eeyore is depressive, anhedonic and pessimistic—but also kind, dogged and loyal. Throwing a party in his honour reminds those attending that sometimes everyone needs a little cheering up.",
+          "options": {
+            "A": "stubborn",
+            "B": "resolute",
+            "C": "determined",
+            "D": "persistent"
+          },
+          "answer": "D",
+          "explanation": "“Dogged”形容一个人坚持不懈、顽强。《考研大纲》词汇中，“persistent”是“dogged”的近义词，表示坚持不懈的。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The party, an annual event in Austin, Texas, celebrates the fictional character Eeyore from A.A. Milne’s children’s stories, who is known for his __________ disposition.",
+          "options": {
+            "A": "optimistic",
+            "B": "melancholy",
+            "C": "cheerful",
+            "D": "enthusiastic"
+          },
+          "answer": "B",
+          "explanation": "文章开头描述 Eeyore 是“literature’s greatest pessimists”，并且“has a gift for finding the cloud in any silver lining”，以及“gloomy”，都指向他悲观、忧郁的性格。故选 C。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The event began in 1964 when a group of University of Texas students decided to throw Eeyore a birthday party as an excuse to __________ before their final exams.",
+          "options": {
+            "A": "study diligently",
+            "B": "let off steam",
+            "C": "celebrate boisterously",
+            "D": "reflect deeply"
+          },
+          "answer": "B",
+          "explanation": "文章提到学生们“searching for an excuse to let off steam before their final exams”，意为在期末考试前找个借口放松一下。因此，选项 C 最符合。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Hosted by Friends of the Forest, a volunteer group, the Eeyore birthday party has become a long-standing tradition, held annually at Pease District Park, except for a brief __________ due to the COVID-19 pandemic.",
+          "options": {
+            "A": "continuation",
+            "B": "interruption",
+            "C": "resumption",
+            "D": "extension"
+          },
+          "answer": "B",
+          "explanation": "文章提到“Except for a two-year pause for covid-19”，这表示活动曾因疫情而暂停。因此，“interruption”（中断）是最恰当的词。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The event ensures that local vendors selling food and crafts can keep their __________, as any tips collected by volunteers are donated to local non-profits.",
+          "options": {
+            "A": "losses",
+            "B": "proceeds",
+            "C": "expenses",
+            "D": "debts"
+          },
+          "answer": "B",
+          "explanation": "文章原文是“local vendors selling food, craft beer and assorted trinkets keep their proceeds”。“Proceeds”指（尤指出售物品或活动的）所得收入，符合语境。"
+        },
+        {
+          "q_number": 16,
+          "stem": "While children enjoy activities like face painting and playing on the playground, adults can listen to live music and, __________ , drum circles.",
+          "options": {
+            "A": "alas",
+            "B": "however",
+            "C": "consequently",
+            "D": "moreover"
+          },
+          "answer": "A",
+          "explanation": "作者在提到“drum circles”时使用了“alas”，这是一个表示遗憾或惋惜的感叹词，暗示作者可能对这种活动有所保留，但又无可奈何。这与前文的“unfortunately”类似。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The presence of a real donkey at the event, offering children a chance to pet and feed it, provides a __________ contrast to the fictional Eeyore.",
+          "options": {
+            "A": "surprising",
+            "B": "subtle",
+            "C": "disappointing",
+            "D": "vivid"
+          },
+          "answer": "D",
+          "explanation": "现实中的驴“seemed a good deal happier than his fictional counterpart”。这种对比是鲜明且生动的，用“vivid”来形容这种对比效果非常恰当。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The article suggests that the Eeyore party serves as a reminder that cities, much like individuals, possess __________ that endure despite superficial transformations.",
+          "options": {
+            "A": "economic policies",
+            "B": "political ideologies",
+            "C": "underlying spirits",
+            "D": "cultural trends"
+          },
+          "answer": "C",
+          "explanation": "文章指出“cities, like people, have spirits that persist through superficial changes”。这里的“spirits”指的是城市内在的、持久的本质或精神。选项 D “underlying spirits”最能表达这个意思。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Austin’s evolution from a “hippie haven” to a city attracting tech money and celebrities is cited as an example of __________ changes.",
+          "options": {
+            "A": "fundamental",
+            "B": "gradual",
+            "C": "superficial",
+            "D": "reversible"
+          },
+          "answer": "C",
+          "explanation": "文章提到城市“spirits that persist through superficial changes”。奥斯汀吸引科技资金和名人被描述为“superficial changes”（表面的变化），与城市内在精神相对。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Ultimately, the Eeyore birthday party celebrates the __________ of a character who, despite his flaws, offers a relatable and enduring perspective on life.",
+          "options": {
+            "A": "profound realism",
+            "B": "unwavering optimism",
+            "C": "childlike innocence",
+            "D": "childish defiance"
+          },
+          "answer": "A",
+          "explanation": "文章对比了 Pooh 的“enthusiastic silliness”和 Eeyore 的“realism”，并指出家长们欣赏 Eeyore 的现实主义。 Eeyore 的性格被描述为 depressive, anhedonic and pessimistic，这些都属于现实主义的范畴，并且“relatable”。"
+        }
+      ]
+    },
+    {
+      "title": "Internal displacements caused by violence or conflict at record high in 2025",
+      "article_update_date": "05.12.2026",
+      "source_journal": "The Guardian",
+      "body_text": "The number of internal displacements triggered by conflict or violence around the world reached a record high in 2025, surpassing the number of disaster-driven internal displacements for the first time. A report published by the Internal Displacement Monitoring Centre (IDMC) shows that by the end of 2025 there were 32.3m conflict-driven internal displacements. That is 60% higher than those recorded the previous year, and – for the first time since data collection began in 2008 – above displacements driven by natural disasters, which reached 29.9m in 2025. Jan Egeland, the secretary general of the Norwegian Refugee Council, described the figures as a “sign of a global collapse” in basic protection of civilians. “Countless families are returning to destroyed homes and disappearing services – or cannot return at all. From DR Congo and Sudan to Iran and Lebanon, we see millions more displaced on top of the previous record numbers driven out of their homes,” he added. Internal displacements refer to each new instance that a person is forced to flee within the borders of their own country. The same person can be displaced several times. The IDMC’s Global Report on Internal Displacement also shows that the number of people displaced – during 2025 or earlier but who still remain displaced – remains high. In total, 82.2 million people were displaced in 2025, the second-highest figure after the historical peak in 2024 of 83.5 million and the first decrease in the number of people forced to flee since data collection began 20 years ago. The total number of internal displacements was 62.2m in 2025. The decline in the number of people displaced is due to people returning in parts of Sudan, the Democratic Republic of the Congo and Syria, and lack of data availability. However, the report highlights the decline in number “should not be mistaken for progress” as behind the numbers “lie hundreds of thousands of forced returns, destroyed infrastructure and deepening social and environmental pressures” that make permanent solutions for people unrealistic. More than 83% of the people displaced in 2025 were forced to flee their homes in their countries because of conflict and violence, with the remainder having left because of natural disasters. Nearly half of all people forced to leave their homes last year because of conflicts were in Sudan, Colombia, Syria, Yemen and Afghanistan. Sudan accounted for the largest number of internally displaced people for the third consecutive year. The record number of conflict-driven displacements is the result of new international conflicts and intensified existing conflicts that have made it impossible for people to return home. In 2025, 46% of internal displacements caused by violence were linked to international armed conflicts, nearly double the figure recorded last year. Iran and the DRC accounted for two-thirds of all conflict-driven internal displacements in 2025. Tracy Lucas, the director of the IDMC, said: “When you’re talking about the displacements themselves – the movements of people – we have to recognise that in some cases, people are continually displaced. They’re not just displaced once, they could be displaced two or three times … Yet the systems meant to protect them are being dismantled.”",
+      "difficulty_constant": 4.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary reason for the record high number of internal displacements in 2025?",
+          "options": {
+            "A": "An increase in natural disasters globally.",
+            "B": "A significant rise in conflict-driven displacements.",
+            "C": "More people returning to destroyed homes.",
+            "D": "The dismantling of protection systems for refugees."
+          },
+          "answer": "B",
+          "explanation": "文章指出，2025年冲突驱动的国内流离失所人数创下历史新高，首次超过了由自然灾害驱动的人数。选项A与文章信息相反。选项C和D是冲突驱动流离失所的后果或原因之一，但B是直接导致纪录高位的主要原因。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the report by the Internal Displacement Monitoring Centre (IDMC) reveal about the relationship between conflict-driven and disaster-driven displacements in 2025?",
+          "options": {
+            "A": "Disaster-driven displacements were significantly higher than conflict-driven ones.",
+            "B": "The number of disaster-driven displacements decreased for the first time.",
+            "C": "Conflict-driven displacements surpassed disaster-driven displacements for the first time.",
+            "D": "Both types of displacements remained stable compared to the previous year."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到，2025年冲突驱动的国内流离失所人数（32.3m）首次超过了自然灾害驱动的人数（29.9m）。选项A与此信息相反。选项B是关于总流离失所人数而非仅灾害驱动的。选项D与文章关于增长的数据不符。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Jan Egeland's statement, “a sign of a global collapse in basic protection of civilians,” suggests that:",
+          "options": {
+            "A": "International aid organizations are failing in their missions.",
+            "B": "There is a widespread breakdown in safeguarding civilians from harm.",
+            "C": "Natural disasters are overwhelming the capacity to protect people.",
+            "D": "Fewer people are choosing to return to their homes."
+          },
+          "answer": "B",
+          "explanation": "Egeland将数据描述为“全球基本保护平民的崩溃”，并提到“无数家庭返回被摧毁的家园和消失的服务”。这表明保护平民的基本机制正在瓦解，即选项B所指的“广泛的保护平民的崩溃”。选项A过于具体，选项C与文章强调的冲突原因不符，选项D是流离失所的结果，而非Egeland评论的核心。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The passage distinguishes between 'internal displacements' and 'people displaced'. What does this distinction imply?",
+          "options": {
+            "A": "Internal displacements count each instance of fleeing, while people displaced counts unique individuals.",
+            "B": "People displaced refers only to those displaced by conflict, not disasters.",
+            "C": "Internal displacements are always permanent, unlike people displaced.",
+            "D": "The number of internal displacements is always lower than the number of people displaced."
+          },
+          "answer": "A",
+          "explanation": "文章解释说，“国内流离失所（internal displacements）是指一个人在本国边界内被迫逃离的每一个新实例。同一个人可能被迁移数次。” 这意味着“internal displacements”计算的是事件次数，而“people displaced”指代的是个体。因此，选项A准确地描述了这种区别。选项B、C、D与文章内容不符。"
+        },
+        {
+          "q_number": 5,
+          "stem": "According to the report, the decrease in the total number of people displaced in 2025 is attributed to several factors, but the report cautions against interpreting this as progress because:",
+          "options": {
+            "A": "The decrease is solely due to improved data collection methods.",
+            "B": "Many of those who returned still face severe challenges and unstable conditions.",
+            "C": "The number of conflict-driven displacements is still rising rapidly.",
+            "D": "International conflicts have completely ceased."
+          },
+          "answer": "B",
+          "explanation": "文章指出，尽管2025年流离失所的总人数有所下降，但报告强调“不应将其误认为是进步”，因为“背后是数十万次的强制遣返、被摧毁的基础设施以及日益加深的社会和环境压力”，使得永久解决方案不切实际。这表明回归的民众仍面临严峻挑战，即选项B所指的情况。选项A、C、D与文章内容不符或不完全准确。"
+        }
+      ]
+    },
+    {
+      "title": "Would-be suicide bomber sets off explosion in NYC",
+      "article_update_date": "04.22.2026",
+      "source_journal": "China Daily",
+      "body_text": "Police officers stand guard outside the New York Port Authority Bus Terminal in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies] A would-be suicide bomber set off part of a homemade explosive device in a subway passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan during Monday's morning rush hour, seriously wounding himself and injuring three others, police said. The injuries to two commuters and a Port Authority police officer were all non-life threatening, according to the New York Fire Department. At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist attack, and he said no other devices had been found. The suspect was identified by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He was in serious condition at Bellevue Hospital Center. Ullah acted alone, police said, and the device was reported to have gone off prematurely in the passage just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one of the busiest transit hubs in the country — at 7:20 am, authorities said. Two commuters and a Port Authority police officer suffered minor injuries, officials said. The device was affixed to Ullah's body with Velcro and zip ties, police officials said. The explosion caused commuter chaos at one of the city's key traffic hubs. \"Our lives revolve around the subway,\" the mayor said. \"The choice of New York is always for a reason, because we are beacons of the world. And we show that a society of many background and many faiths can work.\" \"The terrorists want to undermine that,\" he added. \"They yearn to attack New York City.\" \"I'm glad I wasn't there. We were supposed to take a bus out at the time (when the accident happened), so I'm glad we waited,\" said Monica Gannon, who planned to take the bus back to New Jersey at this morning when the explosion happened. \"We are stuck here. Now we are waiting for all this to be over and go back home.\" \"I was evacuated from the terminal after it (the explosion) happened. It was terrible, and I was so scared when I saw some people running,\"said Alicia Carmona. She said she was evacuated from the terminal after the explosion and to wait outside the bus terminal for about two hours. Carmona said she planned to pick up her niece at LaGuardia Airport at around 9 am, but now she couldn't make it. \"I was thinking to take the subway instead, but the nearby subway stations are closed too.\"",
+      "difficulty_constant": 3.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what was the immediate consequence of the explosion?",
+          "options": {
+            "A": "Serious injuries to multiple commuters and a police officer.",
+            "B": "The arrest of the suspect, Akayed Ullah.",
+            "C": "The discovery of additional explosive devices.",
+            "D": "A complete shutdown of all public transportation in Manhattan."
+          },
+          "answer": "A",
+          "explanation": "文章提到，爆炸“seriously wounding himself and injuring three others” (严重伤到自己并伤及另外三人)，其中三人包括“two commuters and a Port Authority police officer”，并且明确指出“The injuries to two commuters and a Port Authority police officer were all non-life threatening”。选项 A 最准确地描述了这一情况。选项 B 文中提到嫌疑人被身份识别，但并未说明立即被逮捕。选项 C 文中明确指出“he said no other devices had been found”。选项 D 文中只提到部分地铁站关闭，并非所有公共交通都停止。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What can be inferred about the device used in the attack?",
+          "options": {
+            "A": "It was a sophisticated, professionally made bomb.",
+            "B": "It was designed to detonate at a specific, later time.",
+            "C": "It was a homemade explosive device attached to the suspect's body.",
+            "D": "It was intended to cause mass casualties in the subway passage."
+          },
+          "answer": "C",
+          "explanation": "文章明确指出“a would-be suicide bomber set off part of a homemade explosive device” (一名未遂的自杀式炸弹袭击者引爆了一部分自制爆炸装置)，并且“The device was affixed to Ullah's body with Velcro and zip ties” (该装置用尼龙搭扣和扎带固定在 Ullah 身上)。选项 C 准确地反映了这些信息。选项 A 说法不成立，因为是“homemade”。选项 B 文章未提及特定时间设计。选项 D 文章未明确说明其设计的具体意图，只描述了结果。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Mayor Bill de Blasio's statement that \"The choice of New York is always for a reason, because we are beacons of the world. And we show that a society of many background and many faiths can work.\" primarily aims to:",
+          "options": {
+            "A": "Justify the high security measures in New York City.",
+            "B": "Criticize the motivations of terrorist groups.",
+            "C": "Reassure the public about the city's resilience and diversity.",
+            "D": "Explain the economic impact of the attack on the city."
+          },
+          "answer": "C",
+          "explanation": "市长的话“纽约的选择总是有原因的，因为我们是世界的灯塔。我们展示了一个不同背景和信仰的社会如何能够和谐共处”是在攻击发生后说的，目的是为了鼓舞士气，强调纽约的包容性和多元化是其强大之处，并以此对抗恐怖主义想要达到的分裂和恐吓目的。因此，选项 C “Reassure the public about the city's resilience and diversity.” (让公众相信城市的韧性和多样性) 最符合这一意图。选项 B 提到了恐怖分子的意图，但不是市长这番话的主要目的。选项 A 和 D 与市长这番话的内容关联不大。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes Monica Gannon's situation after the explosion?",
+          "options": {
+            "A": "She was injured in the explosion and received immediate medical attention.",
+            "B": "She was able to take her planned bus out of the city on time.",
+            "C": "She had to delay her travel plans due to the incident and its aftermath.",
+            "D": "She witnessed the explosion firsthand and described it as 'terrible'."
+          },
+          "answer": "C",
+          "explanation": "Monica Gannon menyatakan, \"I'm glad I wasn't there. We were supposed to take a bus out at the time (when the accident happened), so I'm glad we waited,\" and \"We are stuck here. Now we are waiting for all this to be over and go back home.\" 这表明她原计划在那时乘坐巴士离开，但由于爆炸事件不得不推迟行程，被困住了。选项 A 与她的陈述不符。选项 B 与她“stuck here”的陈述相矛盾。选项 D 是 Alicia Carmona 的描述，不是 Monica Gannon。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The phrase 'commuter chaos' in the passage refers to:",
+          "options": {
+            "A": "The orderly evacuation of passengers from the terminal.",
+            "B": "Disruption and confusion among people traveling during rush hour.",
+            "C": "A protest organized by commuters against the attack.",
+            "D": "The damage caused to the bus terminal by the explosion."
+          },
+          "answer": "B",
+          "explanation": "文章提到“The explosion caused commuter chaos at one of the city's key traffic hubs.” (爆炸导致了该市一个重要交通枢纽的通勤者混乱)。结合上下文，特别是早高峰时段的爆炸，以及后面乘客被疏散、交通受阻的情况，‘commuter chaos’ 指的是通勤者在早高峰时段因爆炸事件而经历的混乱、无序和行程受阻的状态。选项 B “Disruption and confusion among people traveling during rush hour.” (在高峰时段出行的人们中的混乱和干扰) 最能准确地解释这个短语。选项 A 描述的是有序疏散，与‘chaos’相反。选项 C 和 D 在文中未提及。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 14",
+      "article_update_date": "04.23.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | The Midlife Crisis Comes for Millennial Pop On her first album in eight years, Robyn reckons with motherhood and midlife desire. by Spencer Kornhaber O nce upon the ’90s , a teenage girl named Robin Miriam Carlsson was crowned a pop princess. Her crystalline voice and secretive smile caught the attention of the Swedish record industry, whose producers and songwriters helped her create the swooning global hits “Show Me Love” and “Do You Know (What It Takes).” But Carlsson, first discovered at age 13, realized she didn’t want to be a singing automaton, a mere vessel for the pop machine. She turned down a deal from the U.S. branch of Jive Records, which then set out to find an American version of her—and landed on Britney Spears. By then, Robin Carlsson had become Robyn. A few years later, in 2005, she founded her own label to make her own kind of music. Her new sound combined firm dance beats, campy hip-hop flourishes, and synth riffs that spiraled and tessellated like the instruments in a Bach fugue. Her lyrics declared independence from clingy lovers and assorted social expectations, often through analogies inspired by technology. To simply quote her song titles from 2010’s Body Talk , a now-classic album, she was an “Indestructible” “Fembot” warning, “Don’t Fucking Tell Me What to Do.” Beneath the metallic veneer, though, her songs had the tenderness and precision of a homily. The effect was to make solitude sound sexy, sad, and hopeful at once. The timing had been right for her to liberate herself. The traditional music business was collapsing, as the internet cut into CD sales while letting listeners elevate their own niche idols. Mainstream pop was going maximalist by overloading its production with digital whizbangery; indie rock had risen as a rawer alternative. Robyn split the difference. She expressed a rebellious worldview in a sleek and organized way, like a manifesto in a well-formatted Word doc. That manifesto was one that 21st-century pop culture wanted to hear. Spears had become a cautionary tale: The girl who gave her youth to the record industry ended up losing her legal sovereignty (via the establishment of a conservatorship in 2008 that remained intact until 2021). Robyn did not become nearly as famous, but her emo bangers pointed the way for the likes of Lorde, Ariana Grande, and even Taylor Swift once she started playing with keyboards. Poptimism, the ascendant belief that a genre ruled by formulas and artifice can contain plenty of originality and humanity, made Robyn its mascot. And with time, her outlook on music came to seem like an insight into life itself. Or at least, that’s how many Millennials felt. Though Robyn is Gen X, she captivated my generation of idealists, who were out to upgrade the world that our parents had built and express ourselves in the process. Young adults in the early earbuds age used her songs as fuel for runs, laptop work, Tinder hookups, and the solitary, self-reflective mornings after. We also bopped along to her with our friends. HBO’s Girls cemented her status in a legendary scene : Hannah Horvath carefully drafts a killer tweet in her bedroom, then starts jumping around to Robyn’s defining single, “Dancing on My Own.” Her roommate, back from her yuppie adventuring, walks in and joins the party. The assurance of being yourself and being liked, fulfilling your purpose while climbing life’s rungs, has obvious appeal in youth, before compromises and obligations start to pile too high. But Robyn is now 46 and back with her first album in eight years. She is somehow singing the same song—even if the fable it spins seems more fantastical than ever. Many pop stars mellow into stately eminence in middle age, as Madonna (temporarily) did in her late 30s with 1998’s Ray of Light . Robyn appeared to be trending that way with her last album, 2018’s Honey —a dreamy beatscape that signaled appreciation for the mid-range of life after chasing many highs. Anthemic action was giving way to chill mantras, as if to regulate the ever noisier, ever more distracting world. Robyn performs “Sexistential” on The Late Show With Stephen Colbert in January. (Scott Kowalchyk / CBS) But Sexistential , released in March, pushes in the opposite direction, toward starry-eyed excess and abandon. The cover art shows Robyn screaming and topless. The title track features her rapping the word boner . Echoes of earnest 2000s indie pop, including from Robyn’s own catalog, abound. When she humped the air during a performance on The Late Show With Stephen Colbert in January, much of the internet snickered: Had the coolest girl in pop finally become cringe? Read: Robyn’s Honey : The thrill is gone, and that’s okay Perhaps so—cringe appears to be the fate of anyone older than 25 in the TikTok age. And pop culture has rarely allowed its female stars to grow older without mockery. But Sexistential may discomfit listeners for reasons other than ageism. After Honey , Robyn broke up with her on-and-off partner of more than a decade and then had a son through IVF. To judge by the disorienting sound of this album, middle-aged motherhood for her has been less an experience of setting down roots than of ripping them up. The title song sets her pregnancy saga—scrolling through dating apps amid doctor visits and hormonal spikes—to fast-paced club music while filtering her voice for cartoonish effect. “Blow My Mind” is a cover of her own song from 24 years ago, but this version rewrites lyrics about romantic infatuation into ones about finding your baby to be ridiculously cute. On the final track, “Into the Sun,” distorted bass roars like a rocket engine—evoking her many previous sci-fi references—as Robyn propels herself into the unknown: “Look what I’ve done / So brave and dumb.” The music amplifies both her giddiness and her uncertainty. Sexistential ’s production judders and glitches in ways that call to mind ’80s synth experimentalists such as Art of Noise and the rowdy sample collaging of the Beastie Boys in the ’90s. Its messiness is also in step with 2020s hyperpop—scruffy, topsy-turvy electronic music that seeks to harness, not counteract, modern overstimulation. The wooziest moments sacrifice Robyn’s easy-listening appeal for the sake of surprise. On the album opener, “Really Real,” a shattered-glass sound effect rings out before she sings, “We’re splitting up reality / And I slip out through the crack in between it.” What makes this chaos delightful rather than annoying is Robyn’s unshakable sense of control, grounded in pop principles and thoughtful craft. Sexistential ’s many catchy melodies bounce atop bright, blocky synth lines. Its psychedelic interludes exist to snap back into satisfying rhythms. Its lyrics brim with depersonalized language (“This is where the shared experience ends”), self-help real talk (“Fuck a therapist, it’s not mental / I need philosophy, this shit is existential”), and biological determinism (as in the lead single, “Dopamine”). She’s mapping out the way that even life’s strangest chapters unfold logically. The album, Robyn has said, was partly inspired by hearing André 3000 , of the hip-hop duo Outkast, explain that he’d pivoted to instrumental music because no one wants to hear a 48-year-old man rap about his colonoscopy. In Robyn’s view, the unglamorous milestones of middle age are plenty deserving of pop treatment. Two years ago, a 33-year-old Charli XCX dominated pop culture with a similarly unruly album called Brat . It dwelled on the question of whether Charli would ever give up her hard-partying ways and settle down with kids. Robyn is now arguing that the choice is a false one. That argument is certainly upbeat in its implications—but the sound of Sexistential suggests the limits of maturing hedonistically. As I’ve been playing the album on repeat, savoring its intricate details and humming its candied choruses, I’ve felt a little self-conscious: Sexistential ’s childlike glee raises the specter that Robyn and her listeners still have some growing up to do. But I’ve also felt grateful for how playfully she’s engaging with midlife vertigo. The generation that grew up listening to Robyn is full of people whose blend of careerism and individualism has made them delay or skip marriage and children. Have we compromised too much, or not enough? Is there time for a reset? These sorts of questions are timeless rites of passage at the end of youth. Barreling ahead, Robyn is yet again modeling how to find meaning in the conventional—by doing it our own way. This article appears in the April 2026 print edition with the headline “Robyn Is Still Dancing On Her Own.” This article was downloaded by calibre from https://www.theatlantic.com/magazine/2026/04/robyn-sexistential-album/686065/ | Section menu | Main menu |",
+      "difficulty_constant": 5.7,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what initially led Robyn to reject the early pop music industry's direction?",
+          "options": {
+            "A": "She disliked the producers and songwriters involved.",
+            "B": "She felt pressured to become a 'singing automaton' and a 'vessel for the pop machine'.",
+            "C": "She was offered a deal by Jive Records, which she found unappealing.",
+            "D": "She wanted to pursue a career in indie rock instead of mainstream pop."
+          },
+          "answer": "B",
+          "explanation": "文章提到，Robyn 在 13 岁时被发掘，并取得了全球性的成功。然而，她意识到自己不想成为一个‘歌唱的自动人偶’，‘仅仅是流行音乐机器的一个载体’。这表明她拒绝的原因是她不想被塑造成一个没有自主性的艺人，而不是对合作者、唱片公司或音乐风格的不满。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How did Robyn's music, particularly her album 'Body Talk', challenge societal expectations?",
+          "options": {
+            "A": "By adopting a maximalist production style that overwhelmed listeners.",
+            "B": "By advocating for conformity and traditional gender roles.",
+            "C": "By using technological analogies to declare independence from clingy lovers and social expectations.",
+            "D": "By focusing solely on raw, unpolished indie rock sounds."
+          },
+          "answer": "C",
+          "explanation": "文章指出，Robyn 的新声音‘结合了坚实的舞曲节拍、 campy 的嘻哈风格和像巴赫赋格曲中乐器一样旋转的合成器乐句’。她的歌词‘常常通过受技术启发的类比来宣布独立于粘人的恋人和各种社会期望’。这直接支持了选项 C，而其他选项则与文章内容不符。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The article suggests that Robyn's music appealed to Millennials because:",
+          "options": {
+            "A": "It mirrored the maximalist production trends of mainstream pop.",
+            "B": "It offered a raw, alternative sound distinct from indie rock.",
+            "C": "It resonated with their idealistic desire to upgrade the world and express themselves.",
+            "D": "It was primarily used for nostalgic purposes, recalling the '90s era."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到 Robyn 吸引了‘我们这一代的理想主义者，他们要升级我们父母建立的世界，并在此过程中表达自己’。这与选项 C 的‘理想主义渴望升级世界和表达自我’高度吻合。文章将 Robyn 的音乐描述为分裂了‘主流流行音乐的 the maximalist’和‘独立摇滚的 rawer alternative’，因此 A 和 B 是不准确的。虽然她起源于 90 年代，但文章强调的是她对千禧一代当下愿望的共鸣，而不是纯粹的怀旧。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the central theme of Robyn's latest album, 'Sexistential', as suggested by the article?",
+          "options": {
+            "A": "A mellowing into stately eminence and acceptance of midlife calmness.",
+            "B": "A rejection of pop music in favor of experimental electronic sounds.",
+            "C": "An embrace of starry-eyed excess and abandon in the face of midlife motherhood.",
+            "D": "A cautionary tale about the dangers of fame and the music industry, similar to Britney Spears."
+          },
+          "answer": "C",
+          "explanation": "文章指出，与之前专辑《Honey》‘将 the anthemic action’让位于‘chill mantras’不同，《Sexistential》‘朝着 the starry-eyed excess and abandon’方向发展。文章还提到，这张专辑‘将她的怀孕经历……与快节奏的舞曲结合在一起’，并且‘音乐放大了她的眩晕和不确定性’。这表明专辑的核心是拥抱中年作为母亲所带来的‘excess and abandon’，而不是平静或对行业的警告。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The article implies that Robyn's engagement with the 'unglamorous milestones of middle age' in her music is:",
+          "options": {
+            "A": "An attempt to emulate André 3000's shift to instrumental music.",
+            "B": "A controversial move that risks making her music 'cringe' to younger audiences.",
+            "C": "A validation that these experiences deserve pop treatment, challenging the idea that only youthful themes are suitable.",
+            "D": "A sign that she has finally begun to mature and settle down, contrary to her earlier rebellious image."
+          },
+          "answer": "C",
+          "explanation": "文章引用了 Robyn 的话，她部分受到 André 3000 观点的启发，即‘没有人想听一个 48 岁的男人谈论他的结肠镜检查’。Robyn 的观点是，‘中年不吸引人的里程碑‘‘同样值得获得流行音乐的处理’。这直接支持了选项 C，即这些经历应该被写入流行音乐。虽然文章确实提到了‘cringe’的风险（选项 B），但这只是一个潜在的批评，而不是她行为的核心意图。她并没有模仿 André 3000 的具体做法（选项 A），也没有表明她已经‘成熟和安顿下来’，而是以一种新的方式处理中年（选项 D）。"
+        }
+      ]
+    }
+  ]
+}
