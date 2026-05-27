@@ -1,0 +1,822 @@
+group_update_date: 05.27.2026
+papers:
+- article_update_date: 04.30.2026
+  body_text: 'Scientists equipped Escherichia coli (example pictured) with ribosomes
+    that lacked the amino acid isoleucine.Credit: James Cavallini/Science Photo Library
+    All life on Earth depends on the same molecular alphabet: 20 amino acids that
+    cells string together to make proteins. But now, scientists have reengineered
+    bacteria to run a core part of their cellular machinery with just 19 of those
+    amino acids — a feat akin to rewriting one act of a Shakespearean play without
+    a common letter like ‘R’ while keeping the text intelligible. The work is reported
+    today in Science1. “It’s very exciting that it’s possible,” says Julius Fredens,
+    a synthetic biologist at the National University of Singapore who was not involved
+    in the research. The work offers a blueprint for engineering cells with capabilities
+    beyond those found in nature, the authors say, while also hinting at a simpler
+    past when early life relied on a more limited set of building blocks. Shrinking
+    the script Researchers have long sought to rewrite the genetic code of life, both
+    to expand what cells can do and to probe the basic rules of life. For example,
+    scientists have streamlined DNA by removing sequences that encode the same amino
+    acid as other stretches. But most researchers have left the ‘canonical’ 20 amino
+    acids untouched, because even small changes to a protein’s amino-acid sequence
+    tend to disrupt its function. AI can write genomes — how long until it creates
+    synthetic life? The challenge of subtracting a letter from the vocabulary of proteins
+    intrigued Harris Wang — though his early attempts fell short. A synthetic biologist
+    at Columbia University in New York City, Wang initially tried simply swapping
+    one amino acid — isoleucine — with others that differ slightly in size and shape,
+    but fewer than half of his modified proteins remaining functional. Wang shelved
+    the project for a few years, until a new generation of artificial-intelligence
+    tools began to change what was possible. Systems such as AlphaFold can predict
+    a protein’s 3D structure, and various protein language models can now suggest
+    entirely new amino-acid sequences that fold and function. Crucially for Wang,
+    these tools could point to non-intuitive ways that might allow replacement of
+    isoleucine without undermining protein performance. Still, reworking all 4,000-plus
+    proteins in the bacterium Escherichia coli seemed too daunting a challenge. Instead,
+    Wang chose a more focused, if still ambitious, target: the ribosome. Proving the
+    principle The ribosome — a complex of more than 50 proteins and catalytic RNA
+    — sits at the heart of the cell, translating genetic instructions into proteins.
+    If such a critical system could operate without isoleucine, Wang reasoned, the
+    same approach might extend to the rest of the proteome.'
+  difficulty_constant: 3.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: 文章将用19种氨基酸运行细胞机器比作“没有字母‘R’重写莎士比亚戏剧的一幕”，同时保持文本可理解。A ‘akin to’意为‘类似于’，此处指这种操作的性质如同重写戏剧，选项C
+      ‘analogous to’（类似于）是近义词，表述恰当。B ‘contrary to’（与...相反），D ‘distinct from’（与...不同）均不符语境。
+    options:
+      A: similar
+      B: contrary
+      C: analogous
+      D: distinct
+    q_number: 1
+    stem: 'Scientists equipped Escherichia coli (example pictured) with ribosomes
+      that lacked the amino acid isoleucine. All life on Earth depends on the same
+      molecular alphabet: 20 amino acids that cells string together to make proteins.
+      But now, scientists have reengineered bacteria to run a core part of their cellular
+      machinery with just 19 of those amino acids — a feat akin to rewriting one act
+      of a Shakespearean play without a common letter like ‘R’ while keeping the text
+      intelligible. The work is reported today in Science1.'
+  - answer: A
+    explanation: 作者提到这项工作为“工程化具有自然界以外能力”的细胞提供了蓝图，并暗示了早期生命可能依赖更有限的构建模块的“更简单”的过去。这表明该研究具有超越现有自然能力的‘potential’（潜力）。B、C、D均表示负面含义，与‘exciting’和‘blueprint
+      for capabilities beyond’的积极语境不符。
+    options:
+      A: potential
+      B: limitations
+      C: difficulties
+      D: restrictions
+    q_number: 2
+    stem: “It’s very exciting that it’s possible,” says Julius Fredens, a synthetic
+      biologist at the National University of Singapore who was not involved in the
+      research. The work offers a blueprint for engineering cells with capabilities
+      beyond those found in nature, the authors say, while also hinting at a simpler
+      past when early life relied on a more limited set of building blocks.
+  - answer: B
+    explanation: 文章提到“‘canonical’ 20 amino acids”，‘canonical’在此语境下指‘标准的’、‘公认的’，即生物界公认的20种氨基酸。B‘complex’（复杂的）、C‘unusual’（不寻常的）、D‘variable’（可变的）均不符合‘standard’（标准）的含义。
+    options:
+      A: complex
+      B: standard
+      C: unusual
+      D: variable
+    q_number: 3
+    stem: Shrinking the script Researchers have long sought to rewrite the genetic
+      code of life, both to expand what cells can do and to probe the basic rules
+      of life. For example, scientists have streamlined DNA by removing sequences
+      that encode the same amino acid as other stretches. But most researchers have
+      left the ‘canonical’ 20 amino acids untouched, because even small changes to
+      a protein’s amino-acid sequence tend to disrupt its function.
+  - answer: A
+    explanation: 该句指出，即使对蛋白质的氨基酸序列进行小的改动也‘tend to’（倾向于）‘disrupt’（破坏）其功能。因此，研究者们大多保持‘canonical’
+      20种氨基酸不变。A‘enhance’（增强）、B‘preserve’（保持）、D‘stabilize’（稳定）都与‘disrupt’（破坏）意思相反，不符合语境。
+    options:
+      A: disrupt
+      B: preserve
+      C: enhance
+      D: stabilize
+    q_number: 4
+    stem: But most researchers have left the ‘canonical’ 20 amino acids untouched,
+      because even small changes to a protein’s amino-acid sequence tend to ____ its
+      function.
+  - answer: C
+    explanation: 句子‘though his early attempts fell short’（尽管他早期尝试未能成功）表明Harris Wang的早期尝试是失败的。A‘succeeded’（成功了）、C‘advanced’（进步了）与‘fell
+      short’（未达到预期）意思相反。D‘struggled’（挣扎）虽然有困难的意味，但‘failed’（失败）更直接地表达了‘fell short’的含义。
+    options:
+      A: succeeded
+      B: advanced
+      C: failed
+      D: struggled
+    q_number: 5
+    stem: AI can write genomes — how long until it creates synthetic life? The challenge
+      of subtracting a letter from the vocabulary of proteins intrigued Harris Wang
+      — though his early attempts fell short. A synthetic biologist at Columbia University
+      in New York City, Wang initially tried simply swapping one amino acid — isoleucine
+      — with others that differ slightly in size and shape, but fewer than half of
+      his modified proteins remaining functional.
+  - answer: C
+    explanation: 文章提到，Wang最初尝试将一种氨基酸——异亮氨酸——与其他在大小和形状上‘differ slightly’（略有不同）的氨基酸进行替换，但结果是不到一半的修饰后蛋白质保持功能。这表明这些‘slight’（微小）的差异，尽管替换了氨基酸，但并未导致蛋白质功能发生‘significant’（显著）改变，反而导致功能丧失，说明这些差异是‘minor’（微小的）以至于难以维持蛋白质功能。
+    options:
+      A: crucial
+      B: irrelevant
+      C: minor
+      D: significant
+    q_number: 6
+    stem: A synthetic biologist at Columbia University in New York City, Wang initially
+      tried simply swapping one amino acid — isoleucine — with others that differ
+      slightly in size and shape, but fewer than half of his modified proteins remaining
+      functional.
+  - answer: D
+    explanation: 句子‘might allow replacement of isoleucine without undermining protein
+      performance’（可能允许替换异亮氨酸而不‘undermining’（损害）蛋白质性能）。‘Undermining’意为‘削弱’、‘损害’，在此处指不损害蛋白质性能。A‘hindering’（阻碍）、C‘compromising’（妥协，损害）和D‘threatening’（威胁）虽然在某些语境下可表示负面影响，但‘undermining’最贴切地表达了‘损害性能’的含义。
+    options:
+      A: hindering
+      B: threatening
+      C: compromising
+      D: undermining
+    q_number: 7
+    stem: Wang shelved the project for a few years, until a new generation of artificial-intelligence
+      tools began to change what was possible. Systems such as AlphaFold can predict
+      a protein’s 3D structure, and various protein language models can now suggest
+      entirely new amino-acid sequences that fold and function. Crucially for Wang,
+      these tools could point to non-intuitive ways that might allow replacement of
+      isoleucine without undermining protein performance.
+  - answer: D
+    explanation: ‘Still’（然而）表示转折，说明尽管有了AI工具的帮助，但要重做大肠杆菌中4000多种蛋白质仍然是一个挑战。‘Daunting’意为‘令人生畏的’、‘艰巨的’，符合‘too
+      ___ a challenge’（太___的挑战）的语境。A‘trivial’（琐碎的）、B‘manageable’（可管理的）、C‘modest’（谦虚的，适度的）都与‘challenge’（挑战）的难度不符。
+    options:
+      A: trivial
+      B: manageable
+      C: modest
+      D: daunting
+    q_number: 8
+    stem: Crucially for Wang, these tools could point to non-intuitive ways that might
+      allow replacement of isoleucine without undermining protein performance. Still,
+      reworking all 4,000-plus proteins in the bacterium Escherichia coli seemed too
+      ____ a challenge.
+  - answer: B
+    explanation: 文章描述核糖体‘sits at the heart of the cell’（位于细胞的核心），并且是‘translating genetic
+      instructions into proteins’（翻译遗传指令生成蛋白质）的关键部分。‘Central’（中心的）最能表达‘at the heart
+      of’（核心）的含义。B‘secondary’（次要的）、C‘peripheral’（外围的）、D‘marginal’（边缘的）都与‘heart’（核心）的含义相反。
+    options:
+      A: secondary
+      B: central
+      C: peripheral
+      D: marginal
+    q_number: 9
+    stem: 'Instead, Wang chose a more focused, if still ambitious, target: the ribosome.
+      Proving the principle The ribosome — a complex of more than 50 proteins and
+      catalytic RNA — sits at the heart of the cell, translating genetic instructions
+      into proteins.'
+  - answer: D
+    explanation: 该句描述核糖体的功能是‘translating genetic instructions into proteins’（将遗传指令翻译成蛋白质）。‘Translating’（翻译）是生物学中描述核糖体功能的标准术语。A‘generating’（生成）、B‘synthesizing’（合成）和D‘interpreting’（解释）在描述核糖体功能时不如‘translating’精确和常用。
+    options:
+      A: generating
+      B: synthesizing
+      C: interpreting
+      D: translating
+    q_number: 10
+    stem: Proving the principle The ribosome — a complex of more than 50 proteins
+      and catalytic RNA — sits at the heart of the cell, translating genetic instructions
+      into proteins.
+  - answer: D
+    explanation: Wang的推理是，如果这样一个关键系统（核糖体）可以在没有异亮氨酸的情况下运行，那么同样的方法‘might extend’（可能推广/延伸）到蛋白质组的其他部分。‘Extend’（延伸，推广）符合此处逻辑。B‘contract’（收缩）、C‘confine’（限制）、D‘restrict’（限制）都表示缩小或限制范围，与‘apply
+      to the rest’（应用于其余部分）的含义相反。
+    options:
+      A: restrict
+      B: contract
+      C: confine
+      D: extend
+    q_number: 11
+    stem: If such a critical system could operate without isoleucine, Wang reasoned,
+      the same approach might ____ to the rest of the proteome.
+  - answer: D
+    explanation: '文章开头提到‘All life on Earth depends on the same molecular alphabet:
+      20 amino acids’，说明这20种氨基酸是生命的基础，是‘essential’（必不可少的）构建模块。B‘fundamental’（根本的）虽然接近，但‘essential’更强调其必要性。C‘superficial’（肤浅的）和D‘accessory’（附属的，辅助的）都与‘depends
+      on’（依赖于）的语境不符。'
+    options:
+      A: accessory
+      B: fundamental
+      C: superficial
+      D: essential
+    q_number: 12
+    stem: 'Scientists equipped Escherichia coli (example pictured) with ribosomes
+      that lacked the amino acid isoleucine. All life on Earth depends on the same
+      molecular alphabet: 20 amino acids that cells string together to make proteins.
+      But now, scientists have reengineered bacteria to run a core part of their cellular
+      machinery with just 19 of those amino acids — a feat akin to rewriting one act
+      of a Shakespearean play without a common letter like ‘R’ while keeping the text
+      intelligible.'
+  - answer: A
+    explanation: 文章提到‘20 amino acids that cells string together to make proteins’。‘String
+      together’在这里描述细胞如何将氨基酸连接起来形成蛋白质，‘assemble’（组装，集合）是描述此过程的常用词，可以指将分子单元组合成更大的结构。A‘constructing’（构建）偏向于建造，C‘joining’（连接）和D‘linking’（连接）虽然有连接的含义，但‘assemble’更符合将多个小单元组合成一个整体（蛋白质）的过程。
+    options:
+      A: assembling
+      B: constructing
+      C: joining
+      D: linking
+    q_number: 13
+    stem: 'Scientists equipped Escherichia coli (example pictured) with ribosomes
+      that lacked the amino acid isoleucine. All life on Earth depends on the same
+      molecular alphabet: 20 amino acids that cells string together to make proteins.
+      But now, scientists have reengineered bacteria to run a core part of their cellular
+      machinery with just 19 of those amino acids — a feat akin to rewriting one act
+      of a Shakespearean play without a common letter like ‘R’ while keeping the text
+      intelligible.'
+  - answer: C
+    explanation: 类比中提到‘keeping the text intelligible’（使文本可理解）。‘Intelligible’意为‘可理解的’、‘清晰的’。选项A‘comprehensible’（可理解的）是其近义词，最符合语境。B‘indecipherable’（无法破译的）、C‘incoherent’（不连贯的）、D‘confusing’（令人困惑的）都与‘intelligible’意思相反。
+    options:
+      A: incoherent
+      B: indecipherable
+      C: comprehensible
+      D: confusing
+    q_number: 14
+    stem: But now, scientists have reengineered bacteria to run a core part of their
+      cellular machinery with just 19 of those amino acids — a feat akin to rewriting
+      one act of a Shakespearean play without a common letter like ‘R’ while keeping
+      the text intelligible.
+  - answer: C
+    explanation: 作者提到这项工作提供了‘blueprint for engineering cells with capabilities beyond
+      those found in nature’（工程化具有自然界以外能力细胞的蓝图），这表明该研究有很大的‘potential’（潜力）。B、C、D都表示负面含义（局限、限制、缺点），与‘capabilities
+      beyond those found in nature’的积极语境不符。
+    options:
+      A: constraints
+      B: limitations
+      C: potential
+      D: shortcomings
+    q_number: 15
+    stem: The work offers a blueprint for engineering cells with capabilities beyond
+      those found in nature, the authors say, while also hinting at a simpler past
+      when early life relied on a more limited set of building blocks.
+  - answer: B
+    explanation: 文章提到‘streamlined DNA by removing sequences’（通过移除序列使DNA得到‘streamlined’）。‘Streamline’在此处意为‘简化’，即通过去除冗余或重复的部分来使DNA更有效率。A‘simplify’（简化）是其近义词。B‘complicate’（使复杂化）、C‘elaborate’（详细说明，阐述）和D‘distort’（扭曲）都与‘removing
+      sequences’（移除序列）以达到‘streamlined’（简化）的目的不符。
+    options:
+      A: complicate
+      B: simplify
+      C: elaborate
+      D: distort
+    q_number: 16
+    stem: Researchers have long sought to rewrite the genetic code of life, both to
+      expand what cells can do and to probe the basic rules of life. For example,
+      scientists have streamlined DNA by removing sequences that encode the same amino
+      acid as other stretches.
+  - answer: A
+    explanation: ‘Intrigued’意为‘使...好奇’、‘使...着迷’。这表明Harris Wang对‘subtracting a letter
+      from the vocabulary of proteins’（从蛋白质词汇中减去一个字母）这个挑战感到‘fascinated’（着迷）。B‘bored’（厌倦）、C‘discouraged’（气馁）和D‘confused’（困惑）都与‘intrigued’（着迷）的意思相反。
+    options:
+      A: fascinated
+      B: bored
+      C: discouraged
+      D: confused
+    q_number: 17
+    stem: The challenge of subtracting a letter from the vocabulary of proteins intrigued
+      Harris Wang — though his early attempts fell short. A synthetic biologist at
+      Columbia University in New York City, Wang initially tried simply swapping one
+      amino acid — isoleucine — with others that differ slightly in size and shape,
+      but fewer than half of his modified proteins remaining functional.
+  - answer: B
+    explanation: ‘Crucially for Wang’（对Wang而言至关重要的）表明这些AI工具能够提供他迫切需要的帮助。‘Crucially’意为‘至关重要的’、‘关键的’。B‘critical’（关键的）是其近义词。A‘essential’（必需的）虽然接近，但‘critical’在此语境下更强调其重要性和关键性。C‘insignificant’（不重要的）和D‘peripheral’（外围的）都与‘crucially’的意思相反。
+    options:
+      A: essential
+      B: critical
+      C: insignificant
+      D: peripheral
+    q_number: 18
+    stem: Wang shelved the project for a few years, until a new generation of artificial-intelligence
+      tools began to change what was possible. Systems such as AlphaFold can predict
+      a protein’s 3D structure, and various protein language models can now suggest
+      entirely new amino-acid sequences that fold and function. Crucially for Wang,
+      these tools could point to non-intuitive ways that might allow replacement of
+      isoleucine without undermining protein performance.
+  - answer: B
+    explanation: 文章描述核糖体‘a complex of more than 50 proteins and catalytic RNA’（由50多种蛋白质和催化RNA组成的复杂结构）。‘Complex’（复杂的）直接描述了核糖体的构成。A‘simple’（简单的）、C‘basic’（基本的）和D‘fundamental’（根本的）都与核糖体‘more
+      than 50 proteins and catalytic RNA’的描述不符。
+    options:
+      A: simple
+      B: complex
+      C: basic
+      D: fundamental
+    q_number: 19
+    stem: 'Still, reworking all 4,000-plus proteins in the bacterium Escherichia coli
+      seemed too daunting a challenge. Instead, Wang chose a more focused, if still
+      ambitious, target: the ribosome. Proving the principle The ribosome — a complex
+      of more than 50 proteins and catalytic RNA — sits at the heart of the cell,
+      translating genetic instructions into proteins.'
+  - answer: A
+    explanation: 本节的标题是‘Proving the principle’（证明原理）。核糖体在没有异亮氨酸的情况下运行，是为了‘proving
+      the principle’（证明这一原理的可行性），即证明在没有一种标准氨基酸的情况下，细胞机器的核心部分也能运作。A‘demonstrating’（演示）、B‘illustrating’（说明）和D‘validating’（验证）虽然有相似之处，但‘proving’（证明）最能体现‘证明原理’的含义。
+    options:
+      A: proving
+      B: illustrating
+      C: demonstrating
+      D: validating
+    q_number: 20
+    stem: Proving the principle The ribosome — a complex of more than 50 proteins
+      and catalytic RNA — sits at the heart of the cell, translating genetic instructions
+      into proteins. If such a critical system could operate without isoleucine, Wang
+      reasoned, the same approach might extend to the rest of the proteome.
+  source_journal: Nature
+  title: All life runs on 20 amino acids. These cells run key machinery on just 19
+- article_update_date: 04.13.2026
+  body_text: 'Bye, bye to the Trump trades Finance & economics | Buttonwood Bye, bye
+    to the Trump trades Markets are calling time on many Donald-adjacent bets April
+    9th 2026 WHEN WAS peak Donald Trump? As America braces for midterm elections in
+    November, pinpointing the moment when the president started to turn into a lame
+    duck is becoming something of a parlour game. Was it his decision to strike Iran
+    in late February, entangling America in another messy conflict in the Middle East
+    and sending petrol prices soaring? Or the week before, when the Supreme Court
+    declared many of his wanton tariffs unconstitutional? Or, perhaps, a month before
+    that, when a rare public rebuke from the Federal Reserve defanged a criminal probe
+    into the central bank? Ask the stockmarket and the answer is, in aggregate, much
+    earlier. The share prices of companies that investors expected to benefit from
+    a Trump presidency hit a high in mid-2025, relative to those most associated with
+    his defeated predecessor, Joe Biden. Today a “long Trump, short Biden” basket
+    is 20% below its peak, roughly where it was around the time of the election in
+    November 2024. Some of the picks touched on the big themes of Mr Trump’s campaign,
+    such as bullying of NATO freeloaders (which boosted European armsmakers) or his
+    carbon-cuddling (great for fossil fuels). These are doing relatively well. The
+    president’s threats to invade Greenland and his grumbling over allies’ reluctance
+    to join his Iranian campaign continue to shore up Europe’s defence industry. The
+    war in Iran has pushed up the price of oil—and the profits of American oilmen.
+    Other Trump trades have also performed decently. Fannie Mae and Freddie Mac, government-backed
+    enterprises that offer liquidity to America’s mortgage market, first soared on
+    rumours that Mr Trump is keen on reprivatising them , unwinding the state control
+    in place since the global financial crisis of 2007-09. The pair, which Bill Ackman,
+    a hedge-fund billionaire sympathetic to Mr Trump, recently called “stupidly cheap”
+    and “asymmetry at its best”, are down from their peaks but much higher than they
+    were in November 2024. Where the president’s policies have been muddier, expected
+    winners have often seen limp returns. A case in point is tariffs, Mr Trump’s all-purpose
+    tool of economic and foreign policy. Domestic American manufacturers failed to
+    benefit from reduced overseas competition even before the Supreme Court ruling,
+    partly because of the inconstancy of presidential duty-setting. Occasionally,
+    investors can be right about the policy but wrong about the beneficiary. Private-prison
+    operators like GEO Group or CoreCivic looked poised to mint it thanks to the mass
+    deportations Mr Trump promised. The administration still looks intent on reaching
+    its target of throwing out millions of illegal immigrants, and is pouring money
+    into the effort. But much of the cash is going straight to Immigration and Customs
+    Enforcement and other arms of the government. The chunk making it to the private
+    sector is rather less than the market had been banking on. And then there are
+    the clear losers. The market value of Rumble, which runs a right-wing social network,
+    more than doubled in the months after Mr Trump was elected. It is now back to
+    where it was before election day 2024. More surprising still is the fate of Trump
+    Media & Technology Group (ticker: DJT). It runs Truth Social, the main venue for
+    big presidential announcements, and has dabbled in cryptocurrencies and nuclear
+    fusion. Mr Trump is the majority shareholder (via a trust controlled by one of
+    his sons). DJT peaked well before the 2024 election, and is now down by around
+    80% relative to that. Yet the Trump trade looming over all others is not in the
+    equity market. Rather, it is the bet that American Treasury bonds would fall in
+    price and yields, which move inversely, would jump. Investors expected Mr Trump
+    to blow up the deficit, heat up the American economy and potentially mess with
+    the independence of the Fed. In the months ahead of the election, yields on 30-year
+    Treasuries rose by 0.5 percentage points. In office, the president has done his
+    best to live up to all three expectations. His varying success—stellar at the
+    first, mixed at the second and poor at the third—resulted in disappointment to
+    any investors shorting Treasuries. But then the energy shock from the Iran war
+    pushed up inflation expectations. The yield on 30-year bonds is up by 0.4 percentage
+    points since November 2024. The president is unpredictable—except, it seems, in
+    his ability to depress the value of American debt. ■ Subscribers to The Economist
+    can sign up to our Opinion newsletter , which brings together the best of our
+    leaders, columns, guest essays and reader correspondence. This article was downloaded
+    by zlibrary from https://www.economist.com//finance-and-economics/2026/04/07/bye-bye-to-the-trump-trades'
+  difficulty_constant: 5.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章指出，一些与特朗普竞选主题相关的交易（如欧洲军工和化石燃料）表现相对较好，而另一些交易（如关税和私人监狱运营商）则表现不佳或喜忧参半。选项A过于绝对，选项C与文章“share
+      prices of companies that investors expected to benefit from a Trump presidency
+      hit a high in mid-2025, relative to those most associated with his defeated
+      predecessor, Joe Biden”的表述不符，选项D不准确，因为私人监狱运营商和社交媒体网络（Rumble）并未如预期般表现强劲。
+    options:
+      A: All 'Trump trades' have consistently declined significantly since their peak.
+      B: Trades related to major campaign themes like NATO and fossil fuels have performed
+        well, while others have seen mixed or poor returns.
+      C: The stock market's aggregate performance indicates that 'Trump trades' peaked
+        much later than initially assumed.
+      D: Investments in private-prison operators and social media networks have been
+        the most resilient 'Trump trades'.
+    q_number: 1
+    stem: According to the article, which of the following best characterizes the
+      performance of 'Trump trades' since the peak of Donald Trump's influence?
+  - answer: C
+    explanation: 文章在讨论“什么时候是特朗普政治生涯的顶峰”时，列举了最高法院宣布关税违宪和美联储的公开批评，将这些事件作为“他何时开始变成跛脚鸭”的讨论点，意在说明特朗普政治影响力的可能衰退。选项A、B、D未能准确抓住这些事件作为‘转折点’的含义。
+    options:
+      A: The direct economic policies enacted by the Trump administration.
+      B: The increasing financial stability of the US economy during Trump's term.
+      C: Potential moments when Donald Trump's political influence began to wane.
+      D: The successful implementation of Trump's protectionist trade agenda.
+    q_number: 2
+    stem: 'The article uses the Supreme Court''s ruling on tariffs and the Federal
+      Reserve''s public rebuke as examples to illustrate:'
+  - answer: C
+    explanation: 文章明确提到“Domestic American manufacturers failed to benefit from reduced
+      overseas competition even before the Supreme Court ruling, partly because of
+      the inconstancy of presidential duty-setting.” 这表明政策的不稳定性是主要原因，而非仅仅是最高法院的裁决或外部竞争。
+    options:
+      A: The Supreme Court ruling that declared many tariffs unconstitutional.
+      B: Increased competition from European armsmakers despite the tariffs.
+      C: The inconsistency and unreliability of presidential policy decisions.
+      D: A shift in consumer preference towards foreign-made goods.
+    q_number: 3
+    stem: What is the primary reason cited in the article for the underperformance
+      of 'Trump trades' related to tariffs for domestic American manufacturers?
+  - answer: B
+    explanation: 文章指出，“Fannie Mae and Freddie Mac...first soared on rumours that Mr
+      Trump is keen on reprivatising them”. 这表明私有化的传言是推升其股价的原因。选项A是政府接管的原因，选项C与文章内容不符，选项D是它们的功能，而非股价飙升的原因。
+    options:
+      A: The global financial crisis of 2007-09, which led to government control.
+      B: Rumors of potential privatization under the Trump administration.
+      C: Strong performance in the mortgage market driven by Biden's policies.
+      D: Increased liquidity in the American mortgage market due to government intervention.
+    q_number: 4
+    stem: 'Regarding Fannie Mae and Freddie Mac, the article suggests that their performance
+      was initially boosted by:'
+  - answer: B
+    explanation: 文章提到，“Rather, it is the bet that American Treasury bonds would fall
+      in price and yields, which move inversely, would jump. Investors expected Mr
+      Trump to blow up the deficit, heat up the American economy and potentially mess
+      with the independence of the Fed.... His varying success—stellar at the first,
+      mixed at the second and poor at the third—resulted in disappointment to any
+      investors shorting Treasuries.” 这表明市场预期债券价格下跌、收益率上升（因赤字扩大等），但特朗普在这些方面的实际成效不一，导致做空者失望。虽然伊朗战争推高了通胀预期和收益率，但根本的预期是基于特朗普的经济政策。
+    options:
+      A: The market expected bond prices to rise and yields to fall; the opposite
+        occurred.
+      B: The market expected bond prices to fall and yields to rise due to expected
+        deficit spending; the outcome was mixed.
+      C: The market expected yields to remain stable, but the Iran war caused them
+        to jump.
+      D: The market expected the Fed's independence to be strengthened, leading to
+        lower bond yields, but Trump's actions weakened the Fed.
+    q_number: 5
+    stem: The article identifies the bet on American Treasury bonds as a significant
+      'Trump trade'. What was the market's expectation regarding these bonds, and
+      how did the actual outcome differ?
+  source_journal: Economist
+  title: Bye, bye to the Trump trades
+- article_update_date: 04.19.2026
+  body_text: 'Few people foresaw humanity’s quest for the moon as accurately as the
+    19th-century French author Jules Verne, whose two works –From the Earth to the
+    Moon and Around the Moon – anticipated many of the features of modern lunar exploration.
+    But Verne’s language had never been spoken in deep space until the Canadian astronaut
+    Jeremy Hansen uttered four words during Nasa’s recent Artemis II mission. On day
+    three of the mission, as the Integrity spacecraft hurtled towards the moon, Jeremy
+    Hansen turned to a camera. “Bonjour tout le monde,” he said from nearly 125,000
+    miles away – a greeting with a literal translation that captured the immensity
+    of the journey: hello all of the world. “For the first time in history, our language,
+    the French language, was expressed en route to the moon,” posted a Canadian parliamentarian.
+    “Never had French been spoken from so far away.” Hansen’s decision to speak French,
+    during the mission and at a Nasa press conference on his return to the Earth,
+    came shortly after a linguistic row – and public relations nightmare – for Canada’s
+    flagship airline, that underscored how deeply the language is linked to the country’s
+    politics and culture. View image in fullscreen Artemis II mission astronauts Jeremy
+    Hansen, Christina Koch, Victor Glover and Reid Wiseman at a welcoming ceremony
+    in Houston on 11 April. Photograph: Ronaldo Schemidt/AFP/Getty Images The Air
+    Canada chief Michael Rousseau was forced to resign last month amid a storm of
+    indignation after he spoke just two words of French in a video tribute to two
+    pilots killed in a fatal collision. One of the pilots was a native French speaker,
+    and Air Canada is based in Montreal, and Rousseau’s failure to speak the language
+    – despite having a francophone mother and wife – has been seen as a snub to the
+    80% of Quebec’s population who do. Even Canada’s prime minster waded into the
+    dispute, saying the video showed a “lack of judgment, a lack of compassion”. Weeks
+    later, Mark Carney had nothing but praise for Hansen as the Artemis crew hurtled
+    towards the moon. “Canadians are so proud of you for a number of reasons, of course,
+    but it was incredible to hear you speak French for the first time in space,” he
+    said while speaking French to the astronaut. “Proud of what you’re doing … We’ve
+    all been watching and inspired by what you’re doing.” The conversation between
+    two anglophones – addressing each other in heavily accented French – prompted
+    widespread praise among many Canadians. “Francophones in Canada will celebrate
+    those efforts. Neither of those men speak perfect French. They likely never will.
+    But to see them make that effort publicly and very openly resonates with francophones
+    across the country,” said Stéphanie Chouinard, a professor of political science
+    at Canada’s Royal Military College, the postsecondary institution Hansen attended.
+    “The expectation here is not perfection, it’s effort and respect.” Hansen learned
+    French earlier in school and had to reach a high level of proficiency, in order
+    to graduate from the RMC. He still frequently uses French in public outreach events
+    and often answers questions from Canadians bilingually. For many, Hansen appears
+    to treat French as part of the job of representing Canada and Air Canada’s chief
+    seemed to treat the language as optional. “Aside from firefighters, astronauts
+    are probably the profession that children most look up to. And for Hansen to put
+    himself out there and to make that effort – and to show that it’s always a work
+    in progress – is the best kind of role modeling you can hope for” said Chouinard.
+    “French doesn’t go a long way in the hallways of Nasa. [But] he knows he represents
+    Canada – and sees it as something worth showcasing as important. This speaks volumes.”
+    View image in fullscreen Michael Rousseau, who resigned after the video storm.
+    Photograph: Nick Lachance/Toronto Star/Getty Images Online forums have discussed
+    the astronaut’s heavily accented French, with most agreeing it was impressive.
+    And many flagged the obvious: it was the opposite level of effort to Air Canada’s
+    outgoing CEO. Hansen has spoken publicly about his desire to represent the people
+    who live in Canada as best he can. He has forged close relationships with Indigenous
+    elders to better understand the cultural importance of the 13 moon calendar, shared
+    by the Anishinaabe, Cree and Haudenosaunee cultures, that guides planting, harvesting,
+    hunting and gathering. The Artemis II mission left Earth during Ziisbaakdoke Giizis,
+    which means the sugar marking moon in Anishinaabemowin – a time widely seen as
+    a time of renewal when the maple sap runs. Hansen’s custom patch, which he wore
+    for the mission, was designed by the Anishinaabe artist Henry Guimond. Part of
+    the image shows Artemis launching her arrow with the astronauts, sending them
+    around “Grandmother Moon” who reflects the “cycle of life”. View image in fullscreen
+    Jeremy Hansen’s custom mission patch. Photograph: CSA “Sit with your elders and
+    ask questions,” Hansen said from space. “Every time I’ve listened, I’ve learned
+    amazing things.” Upon return to Earth, the Artemis crew appeared moved by the
+    deeply human experience of leaving the planet. Hansen later said it made him realize
+    humans were “small and powerless – yet powerful together”. Recent developments
+    in artificial intelligence and wearable technology have led some to suggest that
+    learning a second language is no longer important. But the Canadian astronaut’s
+    decision to deliberately speak French, with the world watching reflected the deep
+    cultural component embedded in learning and respecting another language. “Of course,
+    language is a tool of information, exchange and communication. But it’s so much
+    more than that. Anyone who decides to learn to speak another language than their
+    own, realizes the extent to which any language comes with a specific conception
+    of the world and the universe around us,” said Chouinard. “It’s really a way to
+    learn to see the world – our world – through a different lens.”'
+  difficulty_constant: 3.1
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章开头提到，“Few people foresaw humanity’s quest for the moon as accurately
+      as the 19th-century French author Jules Verne, whose two works –From the Earth
+      to the Moon and Around the Moon – anticipated many of the features of modern
+      lunar exploration.” 这直接表明了Jules Verne的作品在预测现代月球探索特征方面的准确性。
+    options:
+      A: They were the first literary works to mention space travel.
+      B: They accurately predicted many aspects of modern moon missions.
+      C: They inspired the naming of the Artemis II mission.
+      D: They were written in French, the language of space exploration.
+    q_number: 1
+    stem: According to the passage, what makes Jules Verne's works significant in
+      the context of lunar exploration?
+  - answer: B
+    explanation: 文章提到，“Michael Rousseau was forced to resign last month amid a storm
+      of indignation after he spoke just two words of French in a video tribute to
+      two pilots killed in a fatal collision. One of the pilots was a native French
+      speaker, and Air Canada is based in Montreal, and Rousseau’s failure to speak
+      the language – despite having a francophone mother and wife – has been seen
+      as a snub to the 80% of Quebec’s population who do.” 这清楚地解释了事件的原因是他仅说了两个法语单词，被视为对讲法语的魁北克人口的怠慢。
+    options:
+      A: He failed to acknowledge the contribution of French pilots.
+      B: He spoke only two words of French during a tribute, which was seen as a snub
+        to Quebec's francophone population.
+      C: He resigned due to his inability to speak French, despite his background.
+      D: His public relations nightmare stemmed from a linguistic row with a Canadian
+        parliamentarian.
+    q_number: 2
+    stem: What is the primary reason for the public relations issue faced by Air Canada's
+      chief, Michael Rousseau?
+  - answer: C
+    explanation: Stéphanie Chouinard stated, “The expectation here is not perfection,
+      it’s effort and respect.” She further elaborated that Hansen's effort to speak
+      French publicly, even with an accent, resonates with francophones and shows
+      respect, which is more valued than perfect fluency. Thus, option C best captures
+      this sentiment.
+    options:
+      A: He spoke perfect French, demonstrating fluency.
+      B: It was a mandatory requirement for all Canadian astronauts.
+      C: His effort and public display of respect for the French language were more
+        important than perfection.
+      D: It showed a greater understanding of NASA's linguistic policies.
+    q_number: 3
+    stem: Why was Jeremy Hansen's decision to speak French in space particularly praised
+      by many Canadians, according to Stéphanie Chouinard?
+  - answer: C
+    explanation: 文章中提到，“He knows he represents Canada – and sees it as something worth
+      showcasing as important.” 并且他“has spoken publicly about his desire to represent
+      the people who live in Canada as best he can” 以及他注重原住民文化。这表明他将代表加拿大视为一个展示国家文化多样性的机会，包括语言和与其他族裔的关系。
+    options:
+      A: A purely technical endeavor focused on mission objectives.
+      B: An opportunity to showcase his personal linguistic skills.
+      C: A role that involves embracing and showcasing the country's cultural diversity,
+        including its languages.
+      D: An obligation to strictly adhere to NASA's communication protocols.
+    q_number: 4
+    stem: 'The passage suggests that Jeremy Hansen views representing Canada as:'
+  - answer: B
+    explanation: 文章结尾引用 Chouinard 的话：“Anyone who decides to learn to speak another
+      language than their own, realizes the extent to which any language comes with
+      a specific conception of the world and the universe around us... It’s really
+      a way to learn to see the world – our world – through a different lens.” 这强调了学习第二语言对于理解世界和不同文化视角的重要性，即使在AI时代也是如此。
+    options:
+      A: It has become obsolete due to advancements in translation technology.
+      B: It remains crucial for understanding different worldviews and cultural perspectives.
+      C: It is only relevant for professional astronauts representing multicultural
+        nations.
+      D: Its importance is diminishing compared to technical skills.
+    q_number: 5
+    stem: What is the author's implied stance on the importance of learning a second
+      language in the age of AI and advanced technology?
+  source_journal: The Guardian
+  title: Canadian astronaut’s bon mots help heal wounds from French language row
+- article_update_date: 04.04.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Brendan I. Koerner The
+    Big Story Sep 16, 2025 6:00 AM One Vigilante, 22 Cell Tower Fires, and a World
+    of Conspiracies Inside the mind of the most prolific anti-5G arsonist in the world—and
+    the incoherent, very online political violence of our era. ILLUSTRATION: JOVANA
+    MUGOŠA As dawn spread over San Antonio on September 9, 2021, almond-colored smoke
+    began to fill the sky above the city’s Far West Side. The plumes were whorling
+    off the top of a 132-foot-tall cell tower that overshadows an office park just
+    north of SeaWorld. At a hotel a mile away, a paramedic snapped a photo of the
+    spectacle and posted it to the r/sanantonio subreddit. “Cell tower on fire around
+    1604 and Culebra,” he wrote. In typical Reddit fashion, the comments section piled
+    up with corny jokes. “Blazing 5G speeds,” quipped one user. “I hope no one inhales
+    those fumes, the Covid transmission via 5G will be a lot more potent that way,”
+    wrote another, in a swipe at the conspiracy theorists who claim that radiation
+    from 5G towers caused the Covid-19 pandemic. The wisecracks went on: “Can you
+    hear me now?” “Free hotspot!” “Great, some hero trying to save us from 5G.” That
+    self-styled hero was actually lurking in the comments. As he followed the thread
+    on his phone, Sean Aaron Smith delighted in the sheer volume of attention the
+    tower fire was receiving, even if most of it dripped with sarcasm. A lean, tattooed—and
+    until recently, entirely apolitical—27-year-old, Smith had come to view 5G as
+    the linchpin of a globalist plot to zombify humanity. To resist that supposed
+    scheme, he’d spent the past five months setting Texas cell towers ablaze. Smith’s
+    crude and quixotic campaign against 5G was precisely the sort of security threat
+    that was fast becoming one of the US government’s top concerns in 2021. Just two
+    weeks after Smith’s fire popped up on Reddit, then FBI director Christopher Wray
+    discussed the latest trends in political violence in a speech marking the 20th
+    anniversary of the 9/11 attacks. “Today, the greatest terrorist threat we face
+    here in the US is from what are, in effect, lone actors,” he said, describing
+    these people as moving “quickly from radicalization to action, often using easily
+    obtainable weapons against soft targets.” And an increasing number of these individuals,
+    Wray stressed, were turning violent after marinating in bizarre conspiracy theories
+    . In the years since Wray first delivered that warning, political violence in
+    the US has continued to evolve much as he foresaw. Numerous recent attacks have
+    been launched by people whose media diets have conditioned them to believe that
+    government oppressors, permissive liberals, or shadowy cabals must be stopped
+    at all costs. “This conspiracy stuff, it’s not coming from HitlerLover4Chan88
+    on Twitter anymore,” says Jonathan Lewis, a research fellow at George Washington
+    University’s Program on Extremism. “It’s coming from a blue check, a gold check,
+    a verified account—someone who, for a lot of people, has legitimacy.” He adds
+    that some of those paranoid influencers are even operating in the halls of power.
+    “You’ve got Groypers running Department of Homeland Security Twitter accounts,”
+    Lewis says. “You’re getting legislative bills being passed about climate modification.”
+    It all started when a videoclip from episode 1,308 of The Joe Rogan Experience
+    popped up in Smith’s Instagram feed. Once convinced that violence is the only
+    moral choice, lone actors are routinely carrying out hit-and-run attacks against
+    pieces of the nation’s technological infrastructure, which remain lightly guarded
+    despite their vast importance. The types of sites being targeted are as varied
+    as the causes that motivate their attackers. In 2022, for example, someone shot
+    up two electrical substations in North Carolina, in a possible far-right effort
+    to disrupt a drag show. Two years later, a Tennessee man was arrested for allegedly
+    plotting to use drones to bomb Nashville’s power grid in hopes of hastening a
+    race war. This past July, a member of a militia group that trafficked in weather-manipulation
+    conspiracy theories allegedly smashed up an Oklahoma radar station. And saboteurs
+    with unknown motives have also been severing fiber-optic cables in both California
+    and Missouri since the early summer. (Gauging the true number of infrastructure
+    attacks has become more difficult since the DHS shuttered its Terrorism and Targeted
+    Violence database in March.) But Smith—who planned and executed his arsons by
+    himself—appears to have been more prolific than any of these other extremists.
+    The blaze north of SeaWorld was the seventh he’d set in 2021; in the seven months
+    that followed, he would burn another 15. I spent the past year talking to Smith
+    at length about the origin and details of his anti-5G crusade. I did so in the
+    hope of learning how and why some desperate souls are being lured into destroying
+    the guts of modern life. Smith grew up in a three-bedroom trailer in northwest
+    San Antonio, the only child of a carpenter and a nurse’s assistant. He entered
+    high school with dreams of making a career in the military, but his life swerved
+    when his father slipped into alcoholism after a construction accident. With his
+    dad lost in the haze of drink and his mother rarely home due to her 12-hour work
+    shifts, Smith searched elsewhere for belonging. He dropped out of high school
+    in the 10th grade to devote himself to a new group of friends whose sole interests
+    were drugs and petty crime. “The attention they gave me inspired a fierce loyalty,”
+    he says. “There’s not much I wouldn’t do for them.” At the age of 18, he went
+    to prison for burglarizing a house while blacked out on Xanax. He would spend
+    the bulk of the next six years behind bars after blowing parole and picking up
+    multiple drug and firearm charges; his father died of cancer while he was locked
+    up. When Smith was paroled from his third prison stint in November 2019, he resolved
+    to make a break with his troubled past. He moved back into his mother’s trailer
+    and landed a cooking job at Golden Corral. He also started a relationship with
+    18-year-old Coley Lane Dupre, a former elite gymnast who’d recently turned rebellious;
+    she had moved next door to Smith after walking out of drug rehab. All was going
+    smoothly until March 2020, when the pandemic shuttered Smith’s restaurant and
+    the gymnastics studio where Dupre coached. Their new lives were forced into suspended
+    animation, leaving the couple to fill the days with getting high and scrolling.
+    During one of those bleary sessions, a videoclip from episode 1,308 of The Joe
+    Rogan Experience , which had originally aired in June 2019, popped up in Smith’s
+    Instagram feed. The clip begins with Rogan pausing to light a joint, which gives
+    his guest—Eddie Bravo, an anvil-headed jiujitsu master known for spouting conspiracies
+    about 9/11 and a flat Earth—the opportunity to pose a question: “What do you think
+    of, um, 5G and all that scare? You think that’s legit?” Rogan pronounces himself
+    “terrified” of the wireless networking technology, which was then starting to
+    become widespread in the US. “How much long-term testing have they done?” he asks,
+    without specifying the potential effects he fears. “Zero?” Bravo then urges Rogan
+    to visit a website that contains the government’s “400-page plan for the world,”
+    a document that he says contains revelations about 5G that will “get your fucking
+    head blown off.” The clip was short on details, but it reminded Smith of a man
+    he’d befriended in prison in 2014. This inmate had been an avid reader of books
+    about magnets and electricity, and he’d often rambled about a sprawling communications
+    “grid” that he said was being built for nefarious reasons. Smith had never paid
+    much attention to these convoluted rants, but the two famous podcasters seemed
+    to be echoing his friend’s concerns. When he plugged queries about 5G into search
+    bars, Smith quickly became alarmed. Social media was awash in posts asserting
+    that 5G towers, which use higher electromagnetic frequencies than their 4G forerunners,
+    had weakened human immune systems, leaving them unable to fend off the Covid-19
+    virus. (Several nations where 5G was not yet available in 2020, such as Iran,
+    were among the most devastated by Covid.) Prominent figures like the actor Woody
+    Harrelson claimed on Insta-gram (falsely) that China was dismantling its 5G towers
+    to curb Covid’s spread. As Smith’s social-media algorithms adjusted to his affinity
+    for these posts, he became aware that arsonists in the United Kingdom had set
+    fire to more than 60 cell towers in the spring of 2020. This spate of violence
+    had been inspired in part by the YouTube sermons of a British pastor and crypto
+    consultant who preached that “the radio frequencies we are being exposed to are
+    killing the people.” (The pastor gained legitimacy by claiming to be a former
+    executive at Vodafone; he had in fact been a salesman for the telecommunications
+    company for less than a year, well before the rollout of 5G.) Smith’s suspicions
+    only deepened when he noticed that his favorite 5G content often vanished within
+    hours of being posted. “If you said anything connecting 5G with Covid, you were
+    censored, Facebook is taking your post down, it was fact-checking you,” he says.
+    “And I’m like, why are they so worried about censoring people on the subject?
+    And that’s kind of what resonated with me.” Smith concluded that powerful forces
+    were concealing the insidious truth about 5G. With no shot at landing another
+    restaurant gig in the midst of the pandemic, Smith backslid into selling drugs
+    as the spring of 2020 wore on. He roamed San Antonio’s eerily deserted streets,
+    delivering cannabis, cocaine, and other intoxicants to customers hunkered down
+    in their homes. During his rounds, he noticed that 5G towers were some of the
+    only structures still being built. He occasionally pulled over to ask construction
+    workers why they were risking illness and death to expand the rollout of 5G. When
+    they told him to scram, he considered their rudeness yet another red flag. When
+    Smith wasn’t out dealing, he was usually alone in the trailer with Dupre—his mother
+    was working even crazier hours than usual at a hospital flooded with Covid patients.
+    The couple would watch videos from InfoWars impresario Alex Jones and the British
+    conspiracy theorist David Icke, the latter of whom is notorious for claiming the
+    world is secretly controlled by reptilian humanoids. These sources were now espousing
+    increasingly dark and elaborate stories about 5G that portrayed the technology
+    as central to a scheme to enslave entire nations. One popular narrative held that
+    governments had unleashed the Covid-19 virus to force people into isolation, thereby
+    giving construction crews the time and space to build out 5G networks. When a
+    vaccine was eventually developed, the radiation from 5G towers would interact
+    with graphene oxide nanomaterials that were integrated into the injections. This
+    would give governments the power to control how their citizens behave or even
+    to annihilate them en masse if they ever revolted. “If 5G continues and reaches
+    where they want to take it,” Icke warned in an April 2020 interview, “human life
+    as we know it is over.” As Smith and Dupre approached the site, they believed
+    they could detect sinister waves of energy wafting through the air. This story,
+    often peddled by people who sold garments or knickknacks that purported to repel
+    5G radiation, made perfect sense to Smith. He’d formerly never had a shred of
+    interest in politics—“My mindset was always, oh, it has nothing to do with me,”
+    he says—but the technophobic content he was now consuming had melted his apathy.
+    “The way that China is right now with the technology and the surveillance, I saw
+    America turning into the same thing eventually,” he says. “Our freedoms deleted,
+    stuff like that.” He made Dupre similarly fearful by showing her several patents
+    that employ the phrase “voice to skull,” which the couple interpreted as evidence
+    that the government could use 5G to implant thoughts in'
+  difficulty_constant: 4.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章明确指出，Smith“had come to view 5G as the linchpin of a globalist plot
+      to zombify humanity”（将5G视为旨在将人类变成僵尸的全球主义阴谋的关键）。虽然其他选项可能包含某些动机的元素，但C选项最准确地概括了他的核心信念和主要驱动力。
+    options:
+      A: To protest against the potential health risks of 5G technology.
+      B: To disrupt the spread of Covid-19, which he believed was linked to 5G.
+      C: To resist a perceived globalist plot to 'zombify' humanity through 5G.
+      D: To gain attention and notoriety for his actions on social media.
+    q_number: 1
+    stem: What was the primary motivation behind Sean Aaron Smith's cell tower fires,
+      according to the article?
+  - answer: B
+    explanation: 文章引用了FBI前局长Christopher Wray的话，他指出“the greatest terrorist threat we
+      face here in the US is from what are, in effect, lone actors”（我们面临的最大恐怖威胁实际上来自孤立的行动者），并且“an
+      increasing number of these individuals... were turning violent after marinating
+      in bizarre conspiracy theories”（越来越多的人在怪诞的阴谋论中浸淫后转向暴力）。同时，Jonathan Lewis也提到“conspiracy
+      stuff... It’s coming from a blue check, a gold check, a verified account”（阴谋论信息正来自经过验证的账户）。这表明在线传播的阴谋论是导致政治暴力上升的重要因素。
+    options:
+      A: The rise of organized extremist groups with clear political agendas.
+      B: Lone actors becoming radicalized by conspiracy theories spread online.
+      C: Foreign interference in domestic political discourse.
+      D: Economic instability leading to widespread public unrest.
+    q_number: 2
+    stem: The article highlights a trend of increasing political violence in the US.
+      Which factor is identified as a significant contributor to this trend?
+  - answer: C
+    explanation: 文章提到“his life swerved when his father slipped into alcoholism after
+      a construction accident”（当他父亲在一次建筑事故后酗酒后，他的人生发生了转变）。这导致了家庭问题的出现，Smith在学校期间也因此离开了高中，转向与不良朋友为伍，并最终走上犯罪道路。虽然其他事件也对他产生了影响，但父亲的酗酒是导致他人生轨迹改变的早期关键事件。
+    options:
+      A: His father's death from cancer while he was incarcerated.
+      B: The closure of his restaurant job due to the pandemic.
+      C: His father's alcoholism following a construction accident.
+      D: His release from prison in November 2019.
+    q_number: 3
+    stem: Which event significantly altered the trajectory of Sean Aaron Smith's life
+      and contributed to his later radicalization?
+  - answer: C
+    explanation: 文章指出，2020年3月，疫情导致Smith的餐厅关闭，Coley Dupre的体操工作室也停业，“Their new lives
+      were forced into suspended animation, leaving the couple to fill the days with
+      getting high and scrolling.”（他们的新生活被迫暂停，导致这对夫妇整天都在吸毒和刷手机）。正是这段期间，他看到了Joe Rogan
+      Experience的视频片段，并开始深入研究5G阴谋论。因此，疫情带来的停滞和隔离为他提供了接触和沉浸于这些理论的时间。
+    options:
+      A: It directly exposed him to anti-5G propaganda through increased online activity.
+      B: It led to job losses and financial hardship, making him more susceptible
+        to extremist ideologies.
+      C: It provided him with more free time and isolation, during which he consumed
+        conspiracy content and his restaurant job was closed.
+      D: It caused him to believe that 5G was a tool for government control, exacerbating
+        his distrust of authorities.
+    q_number: 4
+    stem: According to the text, how did the COVID-19 pandemic indirectly influence
+      Smith's radicalization and actions?
+  - answer: D
+    explanation: 文章提到了多种动机：A选项（5G削弱免疫系统导致Covid-19传播）是Smith的核心信念之一。B选项（加速种族战争）是田纳西男子计划用无人机炸毁纳什维尔电网的动机。C选项（气候改造）被提及为“legislative
+      bills being passed about climate modification”（关于气候改造的立法法案），暗示了相关的阴谋论。然而，文章并未提及有攻击者是为了“阻止疾病通过技术传播”而发动袭击；相反，Smith等人认为5G是传播疾病的媒介。
+    options:
+      A: Belief that 5G radiation weakens human immune systems.
+      B: Desire to hasten a race war by disrupting the power grid.
+      C: Alleged government plans for climate modification.
+      D: Preventing the spread of diseases through technological means.
+    q_number: 5
+    stem: The article mentions several instances of infrastructure attacks motivated
+      by conspiracy theories. Which of the following is NOT presented as a motivation
+      for such attacks in the text?
+  source_journal: Wired
+  title: Chapter 44
