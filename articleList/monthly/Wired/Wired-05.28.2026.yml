@@ -21,7 +21,7 @@ articles:
   is_used: false
   title: Chapter 9
 - id: epub_10
-  is_used: true
+  is_used: false
   title: Chapter 10
 - id: epub_11
   is_used: false
@@ -167,8 +167,8 @@ articles:
 - id: epub_60
   is_used: false
   title: Pause
-capture_date: 05.14.2026
+capture_date: 05.28.2026
 journal_name: Wired
-publish_date: 05.14.2026
+publish_date: 05.28.2026
 source_type: github
 update_frequency: monthly

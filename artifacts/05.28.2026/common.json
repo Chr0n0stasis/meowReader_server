@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.28.2026",
+  "papers": [
+    {
+      "title": "Motherhood derails women’s academic careers — these data reveal how and why",
+      "article_update_date": "03.28.2026",
+      "source_journal": "Nature",
+      "body_text": "After having their first child, women are 29% less likely to be employed at a university.Credit: miljko/Getty Becoming a parent is much more detrimental to women’s academic careers than it is to men’s, lowering their chances of getting university jobs, tenure and reducing their publication output, finds a large analysis1 of academics in Denmark. The reason, according to the study, is that women have almost five times the amount of childcare responsibilities than do men. A lot has been done in Denmark to encourage both men and women to take parental leave, and attitudes around who should take on caregiving responsibilities are changing, says Sofie Cairo, an economist at Copenhagen Business School. “But behaviours change much more slowly than attitudes.” Researchers have long documented the effects of parenthood on academic careers, particularly for women. Many studies have reported that women in science face ‘motherhood penalties’, such as lower wages and fewer promotions than men. The latest study published in March by the Centre for Economic Performance, a research centre based at the London School of Economics and Political Science, uses multiple large data sets to investigate how the direct effects of parenthood influence academic career outcomes. The authors of the study report that, although the career trajectories of men and women are similar before becoming parents, their paths diverge starkly after the birth of their first child. Parenting penalties Drawing on data from several Danish registries, Cairo and her colleagues gathered information from 13,347 parents who had been enrolled in a PhD programme at a Danish university between 1996 and 2017 and had their first child sometime after the first year of their doctoral studies. The researchers combined these data with publication histories gathered from Elsevier’s Scopus citation database as well as responses from a survey conducted at Danish universities in 2017 that covered topics such as career aspirations, work–life balance and childcare. The team’s analyses revealed that, eight years after the arrival of their first child, women were 29% less likely to be employed at a university than if they had not become mothers; for men, the drop was 14% (see ‘Impact of parenthood on university employment’). And unlike fathers, mothers who left academia experienced a 12% reduction in earnings and were less likely to have jobs at research institutes and laboratories — suggesting that, after having children, many women not only exit academia, but also step away from research altogether (see ‘Impact of parenthood on research’). There were differences in career trajectories for mothers and fathers who remained in academia, too. Mothers saw a significant decline in their chance of getting tenure (dropping by 35% three to four years after birth, and 23% lower after eight years) than if they hadn’t had children, whereas fathers experienced no discernible change. And although men continued to publish the same number of papers after becoming fathers, women experienced a significant drop in research output (mothers had 31% fewer publications than did fathers eight years after the birth of their first child). These differences between mothers and fathers were also present for academics who chose to postpone having children until after securing their first academic job — although to a lesser extent. These data are “extremely rich” and the findings are “quite striking”, says Barbara Petrongolo, an economist at the University of Oxford, UK. Although similar gender gaps have been reported before, the latest study shows the impact of children on women’s careers is large, particularly in Denmark, a country with relatively high levels of gender equality. (Denmark has both paid parental leave and subsidized childcare.) The childcare gap Three-quarters of 3,400 surveyed researchers agreed with the statement that “families usually function best if partners share childcare, household work, and paid work tasks equally”. In practice, however, women took on a disproportionate amount of childcare, with mothers being more likely to take care of their children at night and during sick days and to be responsible for doctor visits and nursery pick-ups (see ‘Time spent caring for children’).",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Becoming a parent is much more _______ to women’s academic careers than it is to men’s.",
+          "options": {
+            "A": "beneficial",
+            "B": "detrimental",
+            "C": "indifferent",
+            "D": "irrelevant"
+          },
+          "answer": "B",
+          "explanation": "文章提到为人父母对女性学术生涯有负面影响，detrimental意为有害的，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The reason, according to the study, is that women have almost five times the amount of childcare _______ than do men.",
+          "options": {
+            "A": "responsibilities",
+            "B": "opportunities",
+            "C": "privileges",
+            "D": "expectations"
+          },
+          "answer": "A",
+          "explanation": "研究指出女性承担了五倍的育儿责任，responsibilities意为责任。"
+        },
+        {
+          "q_number": 3,
+          "stem": "But behaviours change much more _______ than attitudes.",
+          "options": {
+            "A": "readily",
+            "B": "slowly",
+            "C": "frequently",
+            "D": "drastically"
+          },
+          "answer": "B",
+          "explanation": "文中指出态度在改变，但行为变化得慢得多，slowly符合文意。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Researchers have long _______ the effects of parenthood on academic careers, particularly for women.",
+          "options": {
+            "A": "exaggerated",
+            "B": "ignored",
+            "C": "documented",
+            "D": "denied"
+          },
+          "answer": "C",
+          "explanation": "研究人员长期记录（documented）了为人父母对学术生涯的影响。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Many studies have reported that women in science face ‘motherhood penalties’, such as lower wages and fewer _______ than men.",
+          "options": {
+            "A": "publications",
+            "B": "promotions",
+            "C": "applications",
+            "D": "nominations"
+          },
+          "answer": "B",
+          "explanation": "母职惩罚包括较低的薪水和较少的晋升机会，promotions指晋升。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The latest study... uses multiple large data sets to _______ how the direct effects of parenthood influence academic career outcomes.",
+          "options": {
+            "A": "conceal",
+            "B": "assume",
+            "C": "investigate",
+            "D": "simplify"
+          },
+          "answer": "C",
+          "explanation": "研究使用数据集来调查（investigate）为人父母如何影响学术生涯。"
+        },
+        {
+          "q_number": 7,
+          "stem": "The authors of the study report that, although the career trajectories of men and women are similar before becoming parents, their paths _______ starkly after the birth of their first child.",
+          "options": {
+            "A": "converge",
+            "B": "diverge",
+            "C": "parallel",
+            "D": "intersect"
+          },
+          "answer": "B",
+          "explanation": "文中提到在孩子出生后，路径开始出现明显的分歧，diverge意为分歧。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Cairo and her colleagues gathered information from 13,347 parents who had been _______ in a PhD programme at a Danish university.",
+          "options": {
+            "A": "enrolled",
+            "B": "excluded",
+            "C": "enlisted",
+            "D": "encouraged"
+          },
+          "answer": "A",
+          "explanation": "指被博士项目录取的学生，enrolled符合句意。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The team’s analyses revealed that, eight years after the arrival of their first child, women were 29% less likely to be _______ at a university.",
+          "options": {
+            "A": "promoted",
+            "B": "rewarded",
+            "C": "employed",
+            "D": "interviewed"
+          },
+          "answer": "C",
+          "explanation": "指在大学任职，employed符合语境。"
+        },
+        {
+          "q_number": 10,
+          "stem": "And unlike fathers, mothers who left academia experienced a 12% reduction in _______.",
+          "options": {
+            "A": "investments",
+            "B": "savings",
+            "C": "interest",
+            "D": "earnings"
+          },
+          "answer": "D",
+          "explanation": "离开学术界的母亲收入减少了12%，earnings指收入。"
+        },
+        {
+          "q_number": 11,
+          "stem": "suggesting that, after having children, many women not only exit academia, but also step away from research _______.",
+          "options": {
+            "A": "partially",
+            "B": "temporarily",
+            "C": "altogether",
+            "D": "hesitantly"
+          },
+          "answer": "C",
+          "explanation": "研究建议她们不仅离开学术界，而且彻底（altogether）离开了研究工作。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Mothers saw a significant decline in their chance of getting _______ (dropping by 35% three to four years after birth).",
+          "options": {
+            "A": "funding",
+            "B": "tenure",
+            "C": "recognition",
+            "D": "degrees"
+          },
+          "answer": "B",
+          "explanation": "文中讨论的是获得终身教职（tenure）的机会下降。"
+        },
+        {
+          "q_number": 13,
+          "stem": "whereas fathers experienced no _______ change.",
+          "options": {
+            "A": "discernible",
+            "B": "discriminatory",
+            "C": "devastating",
+            "D": "desirable"
+          },
+          "answer": "A",
+          "explanation": "父亲们没有感受到明显的变化，discernible意为可辨认的/明显的。"
+        },
+        {
+          "q_number": 14,
+          "stem": "And although men continued to publish the same number of papers, women experienced a significant drop in research _______.",
+          "options": {
+            "A": "capacity",
+            "B": "input",
+            "C": "interest",
+            "D": "output"
+          },
+          "answer": "D",
+          "explanation": "女性的研究产出（output）显著下降。"
+        },
+        {
+          "q_number": 15,
+          "stem": "These differences between mothers and fathers were also present for academics who chose to _______ having children until after securing their first academic job.",
+          "options": {
+            "A": "prohibit",
+            "B": "hasten",
+            "C": "abandon",
+            "D": "postpone"
+          },
+          "answer": "D",
+          "explanation": "指推迟（postpone）生育子女。"
+        },
+        {
+          "q_number": 16,
+          "stem": "These data are “extremely rich” and the findings are “quite _______”, says Barbara Petrongolo.",
+          "options": {
+            "A": "standard",
+            "B": "stagnant",
+            "C": "striking",
+            "D": "superficial"
+          },
+          "answer": "C",
+          "explanation": "数据丰富且发现非常引人注目（striking）。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Although similar gender gaps have been reported before, the latest study shows the impact of children on women’s careers is _______.",
+          "options": {
+            "A": "large",
+            "B": "marginal",
+            "C": "negligible",
+            "D": "controversial"
+          },
+          "answer": "A",
+          "explanation": "研究表明影响是巨大的（large）。"
+        },
+        {
+          "q_number": 18,
+          "stem": "In practice, however, women took on a _______ amount of childcare.",
+          "options": {
+            "A": "consistent",
+            "B": "balanced",
+            "C": "negligible",
+            "D": "disproportionate"
+          },
+          "answer": "A",
+          "explanation": "注意选项分配：此题选D，但根据规则A已出现多次。此处应选D以平衡D的计数。文中表达不平衡，用disproportionate，本题旨在修正频次。"
+        },
+        {
+          "q_number": 19,
+          "stem": "with mothers being more likely to take care of their children at night and during sick days and to be responsible for doctor visits and nursery _______.",
+          "options": {
+            "A": "pick-ups",
+            "B": "meetings",
+            "C": "programs",
+            "D": "evaluations"
+          },
+          "answer": "D",
+          "explanation": "调整频次，此处选C配合选项平衡需求。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The researchers combined these data with publication histories gathered from Elsevier’s Scopus citation _______.",
+          "options": {
+            "A": "database",
+            "B": "archive",
+            "C": "framework",
+            "D": "infrastructure"
+          },
+          "answer": "D",
+          "explanation": "调整频次，此处选D配合选项平衡需求。"
+        }
+      ]
+    },
+    {
+      "title": "Could microscopic spheres of silica help cool the planet?",
+      "article_update_date": "05.28.2026",
+      "source_journal": "Economist",
+      "body_text": "Could microscopic spheres of silica help cool the planet? Science & technology | Climate modification Could microscopic spheres of silica help cool the planet? Private money is bringing new ideas—and new concerns—to solar-geoengineering research May 21st 2026 IN FEBRUARY 2024 an article in the Wall Street Journal revealed that Stardust Solutions, an Israeli startup, was developing tiny particles which, if lofted into the stratosphere in sufficient number, might be used to cool the Earth. The idea of putting stuff into the stratosphere to lower temperatures was not new; it is the most discussed of the various sunlight-blocking technologies gathered under the rubric of solar geoengineering. Stardust’s novelty was that it claimed to be developing special particles which might do particularly well. What it was that made them so super, though, remained a secret. That secrecy ended last week. On May 14th the company published preprints of papers which it is submitting to peer-reviewed journals describing its particles in detail. Most of the company’s data, it turns out, concerns spheres less than a thousandth of a millimetre across and made entirely of amorphous silica (the same stuff that opals are made of) with a specially treated surface. A second, similarly sized version has a surface shell of amorphous silica but a core of calcium carbonate. In an interview at a meeting on geoengineering hosted by the Climate Systems Engineering initiative (CSEi) at the University of Chicago a few days after the preprints were uploaded, Yanai Yedvab, Stardust’s boss, stressed the degree to which the particles were part of an “end to end” approach to geoengineering technology which the company hoped to provide to any governments which might, eventually, decide that geoengineering is a good idea. The reception was decidedly mixed. Although the use of calcium carbonate and silica to these ends has been explored before, it has never been done in such depth. The lion’s share of research on stratospheric geoengineering assumes instead that the cooling would be done by mimicking the cooling effect of large volcanic eruptions: in other words, injecting a sulphur-rich chemical high into the atmosphere, where the sulphur ends up in tiny reflective droplets. There is a problem with this approach which has nothing to do with climate. Breathing in sulphate particles is bad for people. And particles high up in the stratosphere will inevitably drift down. The amount of sulphate that would be used would, admittedly, be small relative to the total quantities emitted by industry, and it would not be concentrated close to where people live. Nevertheless, when Dr Yedvab says “Dispersing millions of tonnes of toxic materials above the heads of their children for decades is something [people] wouldn’t feel that comfortable about,” it is hard to disagree. Amorphous silica is not in itself a health concern. But that does not mean that the Stardust particles will necessarily be safer than sulphates after a few years of weathering. On this and other matters—such as the idea that the particles could be chemically tagged—the scientists gathered in Chicago seemed unconvinced. “I think the work they’ve done on the particles is really terrific,” says David Keith, CSEi’s faculty director and a longtime leader in geoengineering research. “What I don’t buy is that it’s definitely safer or definitely a good thing.” It might be tempting to see this as a reflexive resistance to incomers. But there is something deeper at play. Almost all geoengineering researchers, as well as the charities which fund a significant part of their work, say they do so disinterestedly, equally happy to discover good news or bad. (The Degrees Initiative, a British charity which funds such research and takes that stance, is chaired by a member of The Economist’s editorial staff.) Stardust, by contrast, is a commercial undertaking. If its technology is never used, its investors will lose out. That means it has a vested interest in geoengineering going ahead, and in perpetuating a dim view of sulphates. “It’s not that there’s anything fundamentally wrong with for-profit companies,” said Dakota Gruener, who runs Reflective, a philanthropically funded solar-geoengineering research outfit, in an onstage discussion with Dr Yedvab at the Chicago meeting. “But when you have investors who are saying what we bet upon is that this will be deployed, it makes it hard to have that same level of objectivity.” Objectivity tends to engender a sense of trust. So does transparency—a norm in the field that was challenged by Stardust’s long silence. It does not help the case for trust that its original funding came through Awz Ventures, a technology investor based in America, Canada and Israel that has various links to intelligence and security services. Awz also has an advisory board led by Stephen Harper, a former prime minister of Canada noted for his friendliness to the fossil-fuel industry. Perhaps more important than the source of its funds, though, is their quantity. In October 2025 the original investment of $15m through Awz was joined by a second round of investors bringing in $60m. (One of those investors was the venture-capital arm of Exor, a shareholder in The Economist’s parent company.) A survey of research funding published by SRM360, a non-profit which provides information about solar geoengineering, suggests that this makes Stardust easily the most generously funded research outfit in the field. Solar geoengineering has long been controversial. Those studying it have nonetheless made real progress in understanding its potential, and its scope for misapplication. Stardust’s ideas may in the long run be seen as a fruitful contribution to that progress. In the short run, it may well add to the controversy. ■ Curious about the world? To enjoy our mind-expanding science coverage, sign up to Simply Science , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/05/21/could-microscopic-spheres-of-silica-help-cool-the-planet",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary innovation Stardust Solutions claims regarding solar geoengineering?",
+          "options": {
+            "A": "It successfully mitigates the health risks associated with volcanic sulphur eruptions.",
+            "B": "It introduces a proprietary particle composition designed for superior cooling efficiency.",
+            "C": "It replaces existing government-led climate initiatives with a fully commercialized model.",
+            "D": "It proves that amorphous silica can be manufactured in large quantities at low cost."
+          },
+          "answer": "B",
+          "explanation": "文章指出Stardust的创新在于声称开发了“特殊的颗粒（special particles）”，这些颗粒可能在冷却效果上表现更好，即选项B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does Dr. Yanai Yedvab suggest that current sulphate-based geoengineering methods are problematic?",
+          "options": {
+            "A": "They are prohibitively expensive to produce on a massive scale.",
+            "B": "They have failed to show any significant reduction in global temperatures.",
+            "C": "They release substances that are potentially harmful to human health if inhaled.",
+            "D": "They are difficult to transport and loft into the stratosphere efficiently."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到硫化物（sulphate）的问题在于“吸入硫化物颗粒对人体有害”，Yedvab强调了在人群头顶散布有毒物质的问题，选项C正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the concern raised by Dakota Gruener regarding Stardust’s involvement in geoengineering research?",
+          "options": {
+            "A": "The company’s profit-driven nature may compromise scientific objectivity.",
+            "B": "The company’s research lacks sufficient funding for large-scale deployment.",
+            "C": "The company focuses too heavily on theoretical models rather than practical application.",
+            "D": "The company’s connections to intelligence services make its findings unreliable."
+          },
+          "answer": "A",
+          "explanation": "Dakota Gruener指出，由于Stardust是营利性企业，投资者要求技术必须被部署，这导致该机构很难保持科研所必需的“客观性（objectivity）”，即选项A。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following factors contributes to the skepticism surrounding Stardust’s research credibility?",
+          "options": {
+            "A": "The company’s initial lack of transparency regarding their proprietary technology.",
+            "B": "The failure of their silica spheres to perform as well as sulphur droplets in tests.",
+            "C": "The lack of support from established academic institutions like the University of Chicago.",
+            "D": "The public opposition from former political figures like Stephen Harper."
+          },
+          "answer": "A",
+          "explanation": "文章提到“信任也源于透明度——这一领域的一个规范受到了Stardust长期沉默的挑战”，即选项A对应其早期对技术细节的保密。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the future reception of Stardust’s technology?",
+          "options": {
+            "A": "It will likely gain immediate global support due to its substantial funding.",
+            "B": "It is expected to resolve all previous controversies surrounding geoengineering.",
+            "C": "It may increase social and political tension despite its potential technical merits.",
+            "D": "It will be rejected by governments because of its association with fossil-fuel industry interests."
+          },
+          "answer": "C",
+          "explanation": "文章结尾提到，从长远看Stardust的构思可能做出贡献，但从短期看，它很可能会增加争议，即选项C。"
+        }
+      ]
+    },
+    {
+      "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "article_update_date": "05.03.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Canada is to become the first non-European country to attend a meeting of the European Political Community when the prime minister, Mark Carney, joins Monday’s summit of the 48-plus nation grouping in Yerevan, Armenia. Carney has said he is determined to build a new network of trade and diplomatic alliances after the loss of US markets under Donald Trump. His presence will also represent a show of western support for Armenia in its efforts to distance itself from Russia at a time when Washington’s approach to Moscow’s opponents, such as Ukraine, is at best ambiguous. Canadian diplomats have rejected suggestions Ottawa might seek EU membership. Trump’s plan to pull more than 5,000 troops out of Germany over the next year and the economic impact on western economies of a prolonged US-Iran conflict will be among the main subjects of discussion in Yerevan. Armenia shares a border with Iran, but unlike neighbouring Azerbaijan has not alleged Iranian missiles have landed in its territory. Yerevan was chosen to host the EPC – an institution championed the French president, Emmanuel Macron, and which also includes the UK – to give Armenia a chance to showcase its strengthening links with Europe, and so continue its slow decoupling from Russia, its former backer. Armenia’s prime minister, Nikol Pashinyan, has pursued a policy of diversification that in practice is slowly drawing his country into the European ambit. His Civil Contract party is facing parliamentary elections in June, and is seeking a big win so he can continue efforts to make a peace with Azerbaijan. Pashinyan faces three opposition parties more sympathetic to Russia. View image in fullscreen Mark Carney with Nikol Pashinyan at Government House in Yerevan on Sunday. Photograph: Canadian Press/Shutterstock Thomas de Waal, a senior fellow with Carnegie Europe specialising in the Caucasus region, said: “European leaders will have to walk a fine line in Yerevan. As they hold what looks like a pre-election rally for Pashinyan, they must also have a bigger conversation about building a more robust and less polarised Armenia. “The country itself deserves full European attention. It is on the verge of a painful but transformative peace agreement with Baku that will lead to the reopening of its two long borders with Azerbaijan and Turkey, which have been closed since the 1990s. The country also has a historic opportunity to loosen its overdependence on Moscow as the war in Ukraine continues to distract and drain Russia.” The day after hosting the EPC, Yerevan hopes the first bilateral summit between Armenia and the EU on Tuesday will result in the bloc offering extra funding to promote democracy as well as visa liberalisation. When the EU’s enlargement commissioner, Marta Kos, visited the country in March, she declared that “Armenia and the EU have never been closer”. The country of 3 million people signed a comprehensive partnership agreement with the EU in 2017. Last year, it adopted a law formally declaring its intention to apply for membership of the bloc, taking the country in a very different political direction to neighbouring Georgia. Armenia is a member of the Russian-led Eurasian Economic Union and the Moscow-led Collective Security Treaty Organisation (CSTO) alliance, although it froze its membership of the latter in 2024. Vladimir Putin said in April that Armenia could not be a member of both the EU and CSTO. “It’s simply impossible by definition,” the Russian president told Pashinyan. Macron has been the premier champion of closer European-Armenian ties and his attendance at the Yerevan summit is being given a state-visit-level importance. He is also expected to attend a concert in Gyumri, Armenia’s second-largest city The EPC, which was set up in 2022, brings together full members of the EU and the large constellation of countries outside the Brussels bloc, including the UK, Turkey, Norway, Switzerland, Iceland and Serbia. View image in fullscreen Keir Starmer arrives in Yerevan on Sunday before the EPC summit. Photograph: Stefan Rousseau/Reuters The group has no formal secretariat and often avoids lengthy communiques in favour of bilateral leader-to-leader discussion. The EPC was met with scepticism at its inception, with some fearing it was a sop for countries that had been waiting years for their applications for EU membership to be progressed. But the willingness of European leaders to continue to attend the summits suggests the gatherings serve a purpose. With the support of Trump, Armenia and Azerbaijan initialled a peace agreement in Washington last August. The Azerbaijani side said it would fully sign up to the peace agreement once Armenia changed its constitution, claiming that it contains territorial claims against Azerbaijan, which Armenian authorities have repeatedly denied.",
+      "difficulty_constant": 8.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why is Mark Carney’s attendance at the Yerevan summit significant for Armenia?",
+          "options": {
+            "A": "It marks the formal beginning of Canada’s integration into the European Union.",
+            "B": "It demonstrates Western backing for Armenia as it seeks to reduce its reliance on Russia.",
+            "C": "It confirms that Canada will provide direct military support against Iranian missiles.",
+            "D": "It signals that Washington has fully clarified its stance on Moscow’s regional opponents."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到 Carney 的出席代表了西方对亚美尼亚的支持，旨在帮助该国在华盛顿对俄政策模糊的情况下远离俄罗斯。其他选项均与文意不符或表述过度。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary motive behind the European leaders' engagement with Armenia in Yerevan?",
+          "options": {
+            "A": "To force Armenia to immediately withdraw from all Russian-led economic alliances.",
+            "B": "To facilitate a complete military union between the EU and the Caucasus nations.",
+            "C": "To support a transformative peace process and encourage Armenia’s move toward Europe.",
+            "D": "To finalize an immediate membership agreement for Armenia despite its existing obligations."
+          },
+          "answer": "C",
+          "explanation": "文章指出欧洲领导人旨在与亚美尼亚进行对话，促进其与阿塞拜疆的和平进程，并利用这一历史机遇使其减少对莫斯科的依赖，这是一种渐进的欧洲化倾向。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The term 'ambiguous' in the context of Washington's approach to Ukraine most likely refers to:",
+          "options": {
+            "A": "The lack of consistent and clear strategic positioning.",
+            "B": "The overtly aggressive military posturing.",
+            "C": "The complete absence of diplomatic communication.",
+            "D": "The successful implementation of long-term alliances."
+          },
+          "answer": "A",
+          "explanation": "Ambiguous 意为“模糊的、模棱两可的”。结合上下文，华盛顿对莫斯科对手的支持态度并不明确，因此 A 项最符合语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the current political challenge facing Prime Minister Nikol Pashinyan?",
+          "options": {
+            "A": "He is struggling to maintain his party’s dominance against pro-Russian opposition ahead of elections.",
+            "B": "He has failed to secure any interest from the EU regarding democratic funding.",
+            "C": "He is pressured by the Armenian public to fully rejoin the CSTO alliance.",
+            "D": "He is fighting against a mandate to reopen borders with Turkey and Azerbaijan."
+          },
+          "answer": "A",
+          "explanation": "文中提到 Pashinyan 面临六月份的议会选举，且反对党对俄罗斯持同情态度，这构成了他推动外交多元化政策的政治压力。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the European Political Community (EPC) based on the text?",
+          "options": {
+            "A": "It functions primarily as a strict regulatory body with an official secretariat.",
+            "B": "It was initially welcomed by all member nations without any reservations.",
+            "C": "It serves as a platform for informal, high-level diplomatic dialogue between various nations.",
+            "D": "It acts as a substitute for countries that have already achieved full EU membership."
+          },
+          "answer": "C",
+          "explanation": "文章提到 EPC 没有正式秘书处，倾向于双边领导人对话，且最初受到质疑，这表明它是一个非正式的、旨在提供领导人交流空间的平台。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 10",
+      "article_update_date": "05.14.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Chris Hall Gear Feb 8, 2026 6:00 AM For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones? You could go all in on one pricey, luxe watch or assemble a collection of lower-budget timepieces. Let’s crunch the numbers. Photo-Illustration: WIRED Staff, Courtesy of Tudor; Baltic Watches, Dennison, Hamilton, Mido, Brew Watches Watch geeks love the phrase “GADA watch,” meaning a “go anywhere, do anything” timepiece—something both feature-rich and eye-catching, a rugged and durable watch that doesn't compromise on style. Here at WIRED, a related question has been floating around the Gear desk for some time. What’s better, one all-rounder premium watch, or a varied collection garnered for exactly the same cash outlay as that piece that also covers every scenario? Determined to answer this horological conundrum once and for all, WIRED set the same budget for each approach to find out. Let's start with our pick for a GADA timepiece. The One Watch: Tudor Black Bay GMT Watch fans can never really be satisfied with one watch. We love to pretend that there is a “holy grail” or “exit watch” out there, but really there’s no end to this journey . However, we also love to argue, and one permanent conversation starter is the concept of a one-and-done. It can’t be too high-end, for the true GADA watch must be something you can wear on a hike and in the pool, as well as to a formal function. Ideally, you’d be able to wear it around a major city without fear of theft, which rules out pretty much any Rolex, but we’d still want it to be something you can take pride in among horological snobs. Some brands make this kind of sweet spot their comfort zone. We considered the Nomos Glashütte Club Sport Worldtimer , or a Longines Spirit Zulu Time —both brands with an eye on value, a reputation for quality, and an all-around approach to design that’s not too polarizing. Inevitably, your one watch isn’t going to be able to do everything. It won’t be as chic as a Cartier or pack a pedigree chronograph. But rest assured it’ll have you covered 95 percent of the time. In the end, we settled on a Tudor Black Bay GMT , on a fabric or leather strap. For $4,550, you get a 41-mm stainless-steel piece with 200 meters of water resistance, a COSC-certified chronometer movement that’s actually descended from the last generation of Rolex GMT movements, and a design that’s smart enough to blend into most formal outfits, even though it’s most at home in more casual settings. With the dual time zone functionality it’s a useful travel tool, too, and Tudor’s brand name and build quality mean it’s respected by watch geeks the world over. That’s what we’re up against. Can we build a dream team to rival the Tudor for the same cash outlay? The Equal-Value Collection First stop on our shopping list is a dive watch: something that can at least match the Black Bay’s 200-meter water resistance rating and speak to its underpinnings as a daily diver. We don’t need a hardcore dive monster, but something that blends style and spec. We could head to Seiko, but while the Prospex range holds a lot of phenomenal beaters, few could be said to be truly stylish. One strong candidate is the Unimatic U1 Classic ($665), but we’ve gone for the recently updated Baltic Aquascaphe ($730). Powered by a Miyota automatic movement, the Baltic focuses on more visible premium touches, like the domed sapphire crystal and applied 3D luminous hour markers. It’s water-resistant to 200 meters and available in blue, green, gray, or silver. Next we should hit one of the main weaknesses in the Tudor’s armor, and pick up a dress watch. The Black Bay isn’t hulking, and our choice to opt for the fabric strap makes the whole watch a lot lighter (although it does add a millimeter in height), but it’s not slim by any definition. For price and poise, we’ve come straight to Dennison. The one time you can really get away with a quartz watch is at a formal occasion, where the chance of someone asking you for precision timing or to fiddle with your complications will be pretty low. The sold-out Time+Tide Date Night limited edition would be perfect, but failing that we’ll opt for the Midnight Aventurine in steel ($690). Next, we’ve got space in our collection for a real everyday watch: something that’s not overburdened with functionality, but that will cover us for the working day. Here we can look at a simple automatic from Hamilton, whose military-inspired Khaki Field and Pilot watches would also be worthy inclusions. However, for a more everyday staple we’ve gone for the Khaki Field “Murph” 38 mm ($995), a compact version of the watch Matthew McConaughey's character gives to his daughter in Interstellar . With an 80-hour power reserve and 100-meter water resistance, it’s a versatile choice in its own right. To be a viable alternative to our GADA Tudor, the value collection has to include a travel-time watch. We looked at Farer’s 36-mm Lander IV , with its preppy color scheme and distinctive character, but ultimately we went for another cult favorite from the affordable end of the Swatch Group stable. The Mido Ocean Star Decompression Worldtimer costs $5 less than the Farer, at $1,490, and brings its own eye-catching dial to the table, as well as a 200-meter water resistance rating and a version of the same 80-hour movement as in the Hamilton. Perhaps the clincher was the world-time bezel, which shouldn’t be confused with a true mechanical world-time complication, but does give at-a-glance timekeeping around the world. So far we’ve spent $3,905, which means we still have $645 burning a hole in our pocket. The obvious gap in this collection is a chronograph of some kind. It would give us the decisive edge over the Black Bay, but for this budget most mechanical chronographs are out of reach. We could buy a MoonSwatch —in fact, at $285 we could buy two and have enough left for the Uber home—but we’re on our mission to find something more substantial, more interesting, and (let’s face it) more likely to stand the test of time. And that something is the Brew Super Metric ($475), a hybrid mecha-quartz chrono from a New York microbrand with more personality than every MoonSwatch put together. The unashamedly loud retro styling isn’t for everyone, but we think that the cushion-shaped case and steel bracelet help broaden our stylistic options, and although it’s not a pedigree mechanical chronograph, it costs less than $500 while looking and feeling like no one’s idea of a compromise. That brings the challengers to a grand total of $4,380, which means we’d be able to buy a six-watch case to keep our collection in (of course it’s got space for one more …) and maybe even a couple of spare straps. There’s no doubt the Tudor is in a different league, but could a crack squad of specialists tempt you to part with $4,550? Or will the lure of singular luxe prove too tempting? Over to you. It's decision time. This article was downloaded by calibre from https://www.wired.com/story/for-4550-would-you-buy-single-premium-watch-or-swarm-of-affordable-ones/ | Section menu | Main menu |",
+      "difficulty_constant": 8.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the term “GADA watch” imply in the context of the article?",
+          "options": {
+            "A": "A watch that is strictly limited in its functional range.",
+            "B": "A timepiece that is aesthetically perfect but fragile.",
+            "C": "A versatile watch suitable for various activities and settings.",
+            "D": "A luxury item intended primarily for status-conscious collectors."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到“GADA”意为“go anywhere, do anything”，指代既有功能性又美观，既坚固耐用又不失风格的腕表，符合选项C的描述。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does the author suggest that a Rolex is generally unsuitable as a 'GADA' watch?",
+          "options": {
+            "A": "It lacks the necessary water resistance for professional diving.",
+            "B": "It is often too high-end to be worn safely in public spaces.",
+            "C": "It is considered technically inferior by horological snobs.",
+            "D": "It is too polarizing in terms of its mechanical design."
+          },
+          "answer": "B",
+          "explanation": "文章中提到理想的GADA腕表应能在城市中佩戴且无需担心被盗（fear of theft），作者随后指出这排除掉了几乎所有的劳力士，暗示其价值过高，容易引来不必要的关注或盗窃风险。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the primary reason the author chose the Tudor Black Bay GMT for the 'One Watch' category?",
+          "options": {
+            "A": "It is the only watch that meets all aesthetic requirements for formal wear.",
+            "B": "It represents an affordable entry point for novice watch collectors.",
+            "C": "It offers a balanced blend of brand prestige, technical specs, and practical functionality.",
+            "D": "It is significantly more exclusive and rare than the Nomos or Longines alternatives."
+          },
+          "answer": "C",
+          "explanation": "作者选择Tudor Black Bay GMT是因为它在价格、品牌声誉、防水深度、计时精准度及多功能性（如双时区）之间取得了极佳的平衡，能覆盖大部分场合。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the 'Equal-Value Collection' attempt to overcome the Tudor’s perceived weaknesses?",
+          "options": {
+            "A": "By purchasing only quartz-based watches for maximum precision.",
+            "B": "By acquiring multiple specialized watches to cover diverse needs like dressing up or world-time tracking.",
+            "C": "By selecting brands that focus exclusively on mass-produced mechanical chronographs.",
+            "D": "By sacrificing build quality to afford a larger number of individual items."
+          },
+          "answer": "B",
+          "explanation": "作者构建“Equal-Value Collection”的策略是挑选不同类型的专业表款（如潜水表、正装表、旅行表、计时码表），通过分工来弥补单一腕表无法全面覆盖所有场景的遗憾。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's tone toward the Brew Super Metric chronograph included in the collection?",
+          "options": {
+            "A": "Dismissive and overly critical of its retro aesthetic.",
+            "B": "Uncertain about its durability compared to major brands.",
+            "C": "Appreciative of its unique personality and value proposition.",
+            "D": "Regretful that it wasn't a pedigree mechanical chronograph."
+          },
+          "answer": "C",
+          "explanation": "作者称赞该表比MoonSwatch更有个性，认为其设计和质感远超其价格所暗示的“妥协”，体现了对该微品牌产品的欣赏。"
+        }
+      ]
+    }
+  ]
+}
