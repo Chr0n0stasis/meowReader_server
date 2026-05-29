@@ -1,0 +1,768 @@
+group_update_date: 05.29.2026
+papers:
+- article_update_date: 04.26.2026
+  body_text: 'AI is the new Oracle of Delphi. That’s bad news By Invitation | False
+    prophets AI is the new Oracle of Delphi. That’s bad news Societies urgently need
+    to confront the ethics of prediction, writes Carissa Véliz April 23rd 2026 Prediction
+    is as old as intelligent life. In pre-industrial times, part of what made humans
+    strong despite physical disadvantage was an ability to foresee the behaviour of
+    other animals, which made it easier to hunt them. In the modern world prediction
+    continues to confer an array of competitive advantages: if you run a company,
+    for instance, everything from choosing what businesses to enter or exit to finding
+    the right location for operations depends in part on forecasting. The ai age has
+    brought a boom in prediction. Machine learning—the kind of ai most commonly used
+    in chatbots and decision-making algorithms such as hiring software—is a prediction
+    machine. It uses historical data to fill in blanks, whether it is predicting text
+    or deciding whether someone will be a good employee. “Oracle” is even a technical
+    term in machine learning: a system of perfect prediction. Predictive algorithms
+    are everywhere, opening and closing doors for us: deciding whether we get insurance,
+    or a loan, or an apartment. Law-enforcement agencies use predictive policing tools
+    that flag neighbourhoods or individuals as higher-risk. Predictive algorithms
+    are used in the justice system to inform decisions about bail, sentencing and
+    parole. Streaming platforms and social-media feeds rely on them to curate content.
+    The use of predictive technology to make decisions about people raises ethical
+    questions that humanity has devoted worryingly little time to considering. Giving
+    these questions more thought will lead to better decisions about when prediction
+    should be used, and when it shouldn’t. Predictions are, at best, educated guesses.
+    Often, they are riddled with prejudice; a rich literature is emerging on ai’s
+    predictive biases caused by biased training data or algorithmic design flaws.
+    Verdicts by algorithmic prediction also create Kafkaesque processes in which people
+    cannot contest decisions because they are not based on clearly defined criteria,
+    but rather on black-boxed pattern-matching by a machine. At a deeper level, there
+    is arrogance in social predictions. When we predict people’s future as if we were
+    forecasting the weather, we are treating them as inert objects, not as agents
+    who have a say in their future and can defy their odds. The outputs of predictive
+    ai might sound like a description of the world, but they are “normative”: they
+    implicitly tell us what to do. When a large language model tells me that in the
+    future everyone will be using large language models for their business, it is
+    encouraging me to go out there and fulfill its creators’ vision of the world.
+    In philosophical jargon, predictions are “speech acts”, closer to commands than
+    descriptions. When we give them credence and act accordingly, we are obeying them.
+    That leads to the ethical question of whether there might be things we shouldn’t
+    predict, even if we could. Predictions about human beings have a propensity to
+    bend reality towards themselves. At different times in ancient Rome, authorities
+    banned prophecies about the death of the emperor, for the simple reason that they
+    tended to result in a murdered emperor. An ai predicting a bleak financial future
+    for someone can push that person further into economic disadvantage by denying
+    them credit. A prediction of future disease might push up insurance premiums,
+    making finances tighter and causing health to worsen from stress. It is disquieting
+    that now that we are using prediction more than ever, we have no rules for it.
+    There is not even much public debate about guardrails. Big questions abound. In
+    the context of justice, for instance, should we prefer transparent and contestable
+    criteria to statistical pattern-matching for making decisions? In insurance, is
+    it fair to base premiums increasingly on individualised predictions, which cuts
+    against the pooling-of-risk principle at the heart of the industry? The lack of
+    rules leaves anyone free to use ai to make any kind of prediction about anyone
+    else and act accordingly, without even notifying the subject of the prediction
+    about the prophecies that are influencing their fate. If ai deems someone unemployable,
+    and most companies use similar ais to hire people, that person will not get a
+    job. But it might be that the ai is achieving “accuracy” at the price of creating
+    the reality it is purporting to predict. Even worse, self-fulfilling prophecies
+    act like perfect crimes because they don’t produce error signals. We will never
+    know whether the person who didn’t get a job would have been a great employee
+    because that data doesn’t exist. It is a mistake to think about ai purely in technological
+    terms. It is crucial to consider it from an ethical standpoint, too—not for the
+    sake of intellectualism but because its predictive function has a concrete, and
+    questionable, effect on how humans behave and what they can achieve. Although
+    its methods are vastly different from those of bygone prophesies, the political
+    function ai plays, in dressing up contestable value-laden decisions as facts,
+    is analogous to that of history’s oracles, seers and astrologers. Efforts to predict
+    people’s future go hand in hand with efforts to control it. If we know what someone
+    will do tomorrow, there is a good chance it’s because we are determining their
+    behaviour. Beware of prophets and predictions. Only when we accept that we don’t
+    know what the future holds, and act accordingly, can we be sure to live in a free
+    society. ■ Carissa Véliz is an associate professor of philosophy and ethics at
+    the University of Oxford and the author of “Prophecy: Prediction, Power, and the
+    Fight for the Future, from Ancient Oracles to AI”. This article was downloaded
+    by zlibrary from https://www.economist.com//by-invitation/2026/04/21/ai-is-the-new-oracle-of-delphi-thats-bad-news'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: 根据上下文语境，人类依靠预测动物行为来增强生存能力，foresee意为预见，符合文意。
+    options:
+      A: evaluate
+      B: interfere
+      C: foresee
+      D: resemble
+    q_number: 1
+    stem: Prediction is as old as intelligent life. In pre-industrial times, part
+      of what made humans strong despite physical disadvantage was an ability to ______
+      the behaviour of other animals.
+  - answer: C
+    explanation: confer意为赋予/授予，指预测带来了竞争优势，是固定搭配。
+    options:
+      A: abandon
+      B: sustain
+      C: confer
+      D: conceal
+    q_number: 2
+    stem: In the modern world prediction continues to ______ an array of competitive
+      advantages.
+  - answer: B
+    explanation: 上下文多次提到AI作为预测工具，prediction machine是对前文的概括。
+    options:
+      A: rebellious
+      B: prediction
+      C: conservative
+      D: defensive
+    q_number: 3
+    stem: The AI age has brought a boom in prediction. Machine learning—the kind of
+      AI most commonly used in chatbots and decision-making algorithms—is a ______
+      machine.
+  - answer: A
+    explanation: deciding whether someone will be a good employee是常见表达，指雇员的胜任力。
+    options:
+      A: good
+      B: vague
+      C: suitable
+      D: fragile
+    q_number: 4
+    stem: It uses historical data to fill in blanks, whether it is predicting text
+      or deciding whether someone will be a ______ employee.
+  - answer: C
+    explanation: opening and closing doors是固定搭配，指决定机会的获取与否。
+    options:
+      A: surveying
+      B: dismissing
+      C: opening
+      D: ignoring
+    q_number: 5
+    stem: 'Predictive algorithms are everywhere, ______ and closing doors for us:
+      deciding whether we get insurance, or a loan, or an apartment.'
+  - answer: D
+    explanation: worryingly little time表示投入的时间令人担忧地少，逻辑通顺。
+    options:
+      A: insufficient
+      B: excessive
+      C: abundant
+      D: little
+    q_number: 6
+    stem: The use of predictive technology to make decisions about people raises ethical
+      questions that humanity has devoted worryingly ______ time to considering.
+  - answer: A
+    explanation: algorithmic design flaws即算法设计缺陷，与bias对应。
+    options:
+      A: flaws
+      B: merits
+      C: statures
+      D: rhythms
+    q_number: 7
+    stem: Often, they are riddled with prejudice; a rich literature is emerging on
+      AI’s predictive biases caused by biased training data or algorithmic design
+      ______.
+  - answer: A
+    explanation: contest decisions意为质疑或挑战决策，符合文意。
+    options:
+      A: contest
+      B: witness
+      C: originate
+      D: reconcile
+    q_number: 8
+    stem: Verdicts by algorithmic prediction also create Kafkaesque processes in which
+      people cannot ______ decisions because they are not based on clearly defined
+      criteria.
+  - answer: A
+    explanation: inert意为惰性的、被动的，与后文的agents相对比。
+    options:
+      A: inert
+      B: active
+      C: mobile
+      D: complex
+    q_number: 9
+    stem: At a deeper level, there is arrogance in social predictions. When we predict
+      people’s future as if we were forecasting the weather, we are treating them
+      as ______ objects.
+  - answer: B
+    explanation: tell us what to do是结构，指指令性的规范。
+    options:
+      A: how
+      B: what
+      C: why
+      D: where
+    q_number: 10
+    stem: 'The outputs of predictive AI might sound like a description of the world,
+      but they are “normative”: they implicitly tell us ______ to do.'
+  - answer: D
+    explanation: shouldn't表达伦理建议，指有些事即使能预测也不该预测。
+    options:
+      A: mightn't
+      B: wouldn't
+      C: mustn't
+      D: shouldn't
+    q_number: 11
+    stem: When we give them credence and act accordingly, we are obeying them. That
+      leads to the ethical question of whether there might be things we ______ predict,
+      even if we could.
+  - answer: C
+    explanation: Propensity to bend reality是文章核心概念，指预测改变事实。
+    options:
+      A: bend
+      B: clarify
+      C: ignore
+      D: preserve
+    q_number: 12
+    stem: Predictions about human beings have a propensity to ______ reality towards
+      themselves.
+  - answer: B
+    explanation: denying credit导致经济困难，符合因果关系。
+    options:
+      A: denying
+      B: assessing
+      C: approving
+      D: granting
+    q_number: 13
+    stem: An AI predicting a bleak financial future for someone can push that person
+      further into economic disadvantage by ______ them credit.
+  - answer: D
+    explanation: Guardrails此处意为监管或准则，是关于AI伦理的常用词。
+    options:
+      A: guardrails
+      B: forecasts
+      C: samples
+      D: schedules
+    q_number: 14
+    stem: It is disquieting that now that we are using prediction more than ever,
+      we have no rules for it. There is not even much public debate about ______.
+  - answer: B
+    explanation: cut against意为违背或背道而驰。
+    options:
+      A: against
+      B: towards
+      C: across
+      D: within
+    q_number: 15
+    stem: In insurance, is it fair to base premiums increasingly on individualised
+      predictions, which cuts ______ the pooling-of-risk principle?
+  - answer: D
+    explanation: subject of the prediction指被预测对象。
+    options:
+      A: subject
+      B: beneficiary
+      C: creator
+      D: expert
+    q_number: 16
+    stem: The lack of rules leaves anyone free to use AI to make any kind of prediction
+      about anyone else and act accordingly, without even notifying the ______ of
+      the prediction.
+  - answer: D
+    explanation: error signals指纠错信号，符合科技语境。
+    options:
+      A: error
+      B: hidden
+      C: positive
+      D: signal
+    q_number: 17
+    stem: Even worse, self-fulfilling prophecies act like perfect crimes because they
+      don’t produce ______ signals.
+  - answer: A
+    explanation: crucial意为至关重要的，与前文的警示呼应。
+    options:
+      A: marginal
+      B: crucial
+      C: optional
+      D: trivial
+    q_number: 18
+    stem: It is a mistake to think about AI purely in technological terms. It is ______
+      to consider it from an ethical standpoint, too.
+  - answer: C
+    explanation: analogous to意为与...相似，符合文中对AI与古代预言家的类比。
+    options:
+      A: superior
+      B: opposed
+      C: analogous
+      D: indifferent
+    q_number: 19
+    stem: Although its methods are vastly different from those of bygone prophesies,
+      the political function AI plays is ______ to that of history’s oracles.
+  - answer: B
+    explanation: live in a free society是全文关于人类自主性的结论。
+    options:
+      A: free
+      B: blind
+      C: coded
+      D: rigid
+    q_number: 20
+    stem: Only when we accept that we don’t know what the future holds, and act accordingly,
+      can we be sure to live in a ______ society.
+  source_journal: Economist
+  title: AI is the new Oracle of Delphi. That’s bad news
+- article_update_date: 05.02.2026
+  body_text: 'Can the E.P.A. Survive Lee Zeldin? The Political Scene Can the E.P.A.
+    Survive Lee Zeldin? The agency, which was founded to protect the environment and
+    human health, has cancelled safety regulations, supported coal, and stopped caring
+    about climate change. By Elizabeth Kolbert April 27, 2026 Last summer, more than
+    a hundred and fifty staff members at the Environmental Protection Agency sent
+    a letter to the agency’s head, Lee Zeldin, outlining their concerns about his
+    leadership. Topping the list was Zeldin’s naked partisanship. The administrator
+    often used his official communications to trash Democrats. This “politicized messaging,”
+    the letter said, was undermining trust in the agency. So, too, were Zeldin’s gutting
+    of the E.P.A.’s research division and his tendency to ignore the findings of its
+    scientists. The missive noted that it reflected the staffers’ personal, rather
+    than professional, opinions, and had been written on their own time. It ended
+    by urging Zeldin to “correct course.” “Should you choose to do so, we stand ready
+    to support your efforts,” it said. The employees who signed the letter did not
+    expect it to have much effect. “I thought, Here’s a letter the staff is going
+    to present to the administrator,” one told me. “He’s going to take a look at it
+    and put it in the wastepaper basket. And we will go on with our work.” That’s
+    not how things played out. Zeldin, or at least his deputies, launched the electronic
+    equivalent of a manhunt. In e-mails that were eventually obtained by E&E News
+    , a lawyer at the E.P.A.’s Office of General Counsel told colleagues that the
+    letter to Zeldin raised no ethical concerns, because the signatories were “simply
+    exercising their first amendment right to express their opinions.” Another lawyer
+    in the general counsel’s office warned against any sort of retaliatory action,
+    because “government employee speech is protected.” The agency nonetheless kept
+    up the pressure. It soon announced that it was placing a hundred and forty-four
+    of the signatories on administrative leave. “We have a ZERO tolerance policy for
+    agency bureaucrats unlawfully undermining, sabotaging, and undercutting the agenda
+    of this administration,” Zeldin said in a statement justifying the move. “The
+    will of the American public will not be ignored.” President Donald Trump has referred
+    to Zeldin as “one of the superstars” of his second Administration and, perhaps
+    even more glowingly, as “our secret weapon.” In a little more than a year, Zeldin
+    has transformed the E.P.A. from an agency devoted to protecting human health and
+    the environment into one that, more or less openly, sides with polluters. He has
+    packed the E.P.A.’s upper echelons with former industry lobbyists, scrubbed entire
+    databases of information from its website, and dissolved whole departments. Under
+    his leadership, the agency has ditched a long list of rules that industries had
+    objected to, including regulations aimed at cutting Americans’ exposure to arsenic,
+    a known carcinogen; mercury, a potent neurotoxin; and PM2.5, a form of very fine
+    soot that has been shown to cause asthma and lung disease. The E.P.A. has not
+    only abandoned its own efforts to rein in greenhouse-gas emissions; it has stepped
+    in to prevent states from taking action. It has come out officially, if astonishingly,
+    as pro-coal. In early April, when Trump fired his Attorney General, Pam Bondi,
+    reportedly for failing to prosecute his political enemies with sufficient zeal,
+    rumors began to circulate that the President wanted Zeldin to replace her. (Todd
+    Blanche, who took over as acting Attorney General, can serve in that capacity
+    for up to seven months.) Zeldin’s track record at the E.P.A. makes him, by Trumpian
+    standards, a logical pick. “Zeldin has displayed acrobatic flexibility in bending
+    environmental laws to suit the desires of the White House,” Michael Gerrard, the
+    faculty director of the Sabin Center for Climate Change Law at Columbia University,
+    told me. “He does not only backflips but triple loops.” Christine Todd Whitman,
+    a former New Jersey governor who ran the agency under George W. Bush, said that
+    if Zeldin becomes Attorney General “he’ll do exactly what Trump wants him to do.
+    That’s what he’s done at the E.P.A., irrespective of the damage it’s done.” Zeldin,
+    who is forty-six, is the subject of two adulatory (if slim) biographies, both
+    published in 2024, perhaps with the aid of A.I. One states that his father was
+    a lawyer, the other that he was a doctor. In fact, Zeldin’s father was a private
+    investigator, and his mother taught fourth grade. Zeldin’s parents divorced when
+    he was young, and he spent his elementary-school years shuttling between their
+    homes in Shirley, a working-class town on eastern Long Island. In high school,
+    he joined the Youth and Government club, mostly, he would later joke, “to pick
+    up girls.” Zeldin sped through college at SUNY Albany in three years and through
+    law school, also in Albany, in two. Then he enlisted in the Army. At Fort Huachuca,
+    in Arizona, he worked in military intelligence, and later, as a member of the
+    Judge Advocate General’s Corps, he briefly deployed to Iraq. He remembers Army
+    life fondly. “I was a paratrooper, jumped out of airplanes, did all that stuff,”
+    he said on “New York NOW .” “Four years of very adventurous time.” (Reporters
+    who have looked into the matter have concluded that Zeldin spent most of his active-duty
+    career sitting at a desk.) At the age of twenty-eight, Zeldin made his first run
+    for office. By this point, in 2008, he was married, with twin baby girls, and
+    had moved back to Shirley. He challenged a Democrat named Tim Bishop, who was
+    serving his third term in Congress. Zeldin lost to Bishop by sixteen points, but
+    two years later, buoyed by Tea Party support, he won a seat in the New York State
+    Senate. In 2014, he ran again against Bishop and prevailed. As a new congressman,
+    Zeldin voted mostly along party lines—in favor of repealing Obamacare, for example,
+    and against limiting the sale of assault weapons. His district, which stretched
+    from Smithtown to Montauk, was lined with beaches and wetlands, and, on a local
+    level, he presented as green. “We worked a lot with him on Long Island Sound issues,”
+    Adrienne Esposito, the executive director of Citizens Campaign for the Environment,
+    which is based in Farmingdale, recalled. “We never had any access problem.” National
+    environmental groups, though, generally gave him lousy grades. In 2015, Zeldin
+    received a fourteen-per-cent rating from the League of Conservation Voters, and
+    the following year he got an eight-per-cent rating. “On the issue of the environment,
+    there were two completely different Lee Zeldins,” Steve Israel, a former Democratic
+    congressman who represented a district abutting Zeldin’s, told me. “There was
+    the Lee Zeldin who reliably voted against the environment as both a New York state
+    senator and as a member of Congress. And there was the Lee Zeldin who’d appear
+    at press conferences in his district touting his leadership in protecting the
+    Long Island Sound. He literally could have debated himself.” As is often the case
+    with junior House members, Zeldin struggled to accomplish much. He was the primary
+    sponsor on four bills that got enacted; two were measures to rename Suffolk County
+    post offices. Beyond Long Island, he rarely made news, except when he screwed
+    up. In 2018, the Times reported that he had sent out a campaign mailer with the
+    wrong deadline for absentee ballots. Then, in the fall of 2019, House Democrats
+    launched what would come to be known as Trump’s first impeachment inquiry. (The
+    inquiry was prompted by reports that Trump had tried to pressure the Ukrainian
+    President, Volodymyr Zelensky, into investigating Joe Biden.) Zeldin threw himself
+    into the fight. He spent long hours grilling witnesses at deposition hearings,
+    plotted with Republican colleagues about how best to shield the President, and
+    publicly denounced the proceedings as, among other things, “illegitimate,” a “charade,”
+    a “fairy tale,” a “parody,” and an “abuse of power.” “I’ve sat through EVERY interview
+    so far of this so called ‘impeachment inquiry’ & the President hasn’t done anything
+    to possibly impeach him for,” he tweeted that October. “NOTHING.” Among those
+    who noticed was the President himself. Trump took to retweeting Zeldin’s comments—on
+    one frenzied Saturday morning, nine times in three minutes. Zeldin’s appearances
+    on Fox News began to tick up. On January 6, 2021, just a few hours after the storming
+    of the Capitol, Zeldin spoke to Fox News’ Laura Ingraham, along with another congressman,
+    Darrell Issa, of California. Issa, a fierce Trump supporter, condemned the attack.
+    “Today was a bad day for the President,” he said. Zeldin reserved his criticism
+    for Trump’s critics. “This isn’t just about the President of the United States,”
+    he told Ingraham. “This is about people on the left and their double standards.”
+    That evening, on the floor of the House, Zeldin repeated oft-disproved claims
+    about election irregularities. He was one of a hundred and twenty-five Republicans
+    who voted against certifying the results from both Arizona and Pennsylvania. Later
+    in January, when the House voted to impeach Trump a second time, for inciting
+    the violence at the Capitol, Zeldin once again took to the floor. “Let’s be honest
+    about the double standards that exist inside of this chamber,” he said. “And let’s
+    also be honest that this President did a lot to make America greater than ever.”
+    In the spring of 2021, Zeldin announced that he was running for governor of New
+    York. During the campaign, he disclosed that he’d been diagnosed with early-stage
+    chronic myeloid leukemia the previous year and had achieved full remission. “My
+    health is phenomenal, and I continue to operate at a hundred and ten per cent,”
+    he told reporters. After easily winning the Republican primary, Zeldin faced the
+    incumbent, Kathy Hochul, in the general election. (She had become governor after
+    Andrew Cuomo resigned, in the summer of 2021.) Trump was deeply unpopular in the
+    state—in 2020, he had lost it to Biden by more than twenty points—and Hochul made
+    much of Zeldin’s fealty to the former President. She ran an ad that opened with
+    a clip of Trump praising Zeldin—“Lee fought for me very, very hard”—and ended
+    with the tagline “Lee Zeldin: he’s extreme and dangerous.” Zeldin, for his part,
+    campaigned on crime, which had spiked during the pandemic. He crisscrossed the
+    state, holding press conferences at the sites of break-ins and assaults. In Rochester,
+    he pitched up at a gas station that had recently been robbed, and in the Bronx
+    he spoke at a subway station where someone had been pushed onto the tracks. He
+    pledged that, if elected, he would declare a “crime emergency,” which he said
+    would allow him to suspend several state laws, including one that limits the use
+    of solitary confinement in New York prisons. (“Someone get this man a copy of
+    the state’s constitution please,” Zellnor Myrie, a Democratic state senator from
+    Brooklyn, tweeted.) To the extent that Zeldin campaigned on the environment, he
+    was against it. In 2014, New York had banned fracking for natural gas, out of
+    concern over the impacts on the state’s air and water. Zeldin vowed to lift the
+    ban. In an irony that was hard to miss, his campaign got caught up in a ballot-fraud
+    scandal. Zeldin had sought to run on the Independence Party line in addition to
+    the G.O.P. line, but the state’s Board of Elections found that his petitions to
+    secure the Independence listing included more than ten thousand invalid signatures.
+    Democrats had anticipated an easy victory; in the campaign’s final weeks, though,
+    the polls tightened. Apparently, Zeldin’s tough-on-crime message was resonating.
+    “He knows how to stick to an issue,” one Democratic strategist told me recently.
+    “And, quite frankly, the Governor struggled to answer him.” “Lee is a very skilled
+    politician,” the former New Jersey governor Chris Christie said. “When you think
+    about how tough New York is for Republicans, to come as close as he did tells
+    you a lot.” Hochul’s margin of victory—six points—ended up being the narrowest
+    of any New York gubernatorial candidate in the past thirty years. Out'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章明确提到，员工致信的主要原因是Zeldin的“naked partisanship”（赤裸裸的党派偏见），以及他对研究部门的破坏和对科学家研究结果的忽视。
+    options:
+      A: To protest against his decision to cut funding for the research division.
+      B: To express their professional disagreement with his environmental policies.
+      C: To voice concerns regarding his partisanship and disregard for scientific
+        findings.
+      D: To urge him to resign from his position as the administrator of the agency.
+    q_number: 1
+    stem: According to the passage, why did the E.P.A. staff write a letter to Lee
+      Zeldin?
+  - answer: A
+    explanation: 文章指出，Zeldin不仅没有忽视这封信，反而采取了报复措施，宣布将144名签署该信的员工停职（administrative leave）。
+    options:
+      A: By launching an investigation and putting a large number of signatories on
+        administrative leave.
+      B: By ignoring the letter and continuing their work as if nothing happened.
+      C: By publicly acknowledging the employees' First Amendment rights.
+      D: By firing the legal counsel who defended the employees' right to express
+        their opinions.
+    q_number: 2
+    stem: How did the E.P.A. administration respond to the staff's letter?
+  - answer: D
+    explanation: 此处“triple loops”比喻Zeldin在法律操作上的灵活性与复杂性，旨在说明他极度扭曲环境法以迎合白宫需求，而非真正的技能精湛。
+    options:
+      A: Zeldin possesses remarkable athletic prowess in legal gymnastics.
+      B: Zeldin is highly skilled at navigating complex environmental regulations.
+      C: Zeldin has been extremely efficient in passing new environmental laws.
+      D: Zeldin is adept at distorting environmental laws to satisfy the White House's
+        agenda.
+    q_number: 3
+    stem: What does Michael Gerrard imply by describing Zeldin’s environmental legal
+      actions as 'triple loops'?
+  - answer: C
+    explanation: Steve Israel描述了“两个Zeldin”：一个在国会投票中总是反对环保，另一个在选区新闻发布会上极力宣传自己对当地水域的保护，即“两面派”。
+    options:
+      A: He was considered a green advocate nationally but a polluter in his local
+        district.
+      B: He maintained a consistent pro-environment stance throughout his career.
+      C: He presented himself as an environmental protector locally while voting against
+        environmental protections nationally.
+      D: He successfully convinced both Democrats and Republicans of his environmental
+        commitment.
+    q_number: 4
+    stem: Which of the following best describes Zeldin's dual reputation regarding
+      the environment as presented by Steve Israel?
+  - answer: B
+    explanation: 通篇内容展现了Zeldin从地方议员到E.P.A.负责人，始终表现出极强的党派忠诚度、对政治风向的敏感把握，以及为了迎合上层意愿不惜扭曲政策的行径。
+    options:
+      A: Zeldin is an ineffective politician who only succeeds due to A.I. generated
+        publicity.
+      B: Zeldin is a highly adaptable and loyal political operative who prioritizes
+        partisan alignment over public service.
+      C: Zeldin’s background as a paratrooper significantly influenced his aggressive
+        style in environmental policy.
+      D: Zeldin's defeat in the New York gubernatorial race marked the end of his
+        political influence.
+    q_number: 5
+    stem: What is the primary message conveyed by the author regarding Zeldin's political
+      career?
+  source_journal: New Yorker
+  title: Can the E.P.A. Survive Lee Zeldin?
+- article_update_date: 05.18.2026
+  body_text: 'As night fell over southern Colombia, and a group of children began
+    their weekly Tuesday football match, a drone appeared overhead. The children looked
+    up, and the drone dropped a grenade, its blast killing a 10-year-old boy and injuring
+    12 more civilians. The child’s death, in southern Cauca in 2024, marked the first
+    known time a person in the country had been killed in a weaponised drone attack.
+    He would not be the last. In February 2025, also in Cauca, a drone dropped an
+    explosive near a temporary Médecins Sans Frontières hospital, injuring several
+    health workers. That August in Antioquia, an attack brought down a police helicopter,
+    killing at least eight officers. In October, the house of the mayor of Calamar
+    was hit. In December, a strike on a military base killed seven soldiers and injured
+    30 more. In February 2026, in the mining town of Segovia, a drone dropped a mortar
+    shell on a house, killing a mother and her two sons inside. Earlier this month,
+    a drone packed with explosives was found near Bogotá’s international airport and
+    an adjacent military base. View image in fullscreen A photograph from Colombian
+    police that officers said showed an explosives-laden drone that was found near
+    Bogotá’s main airport. Photograph: Colombia''s National Police Press Office/AFP/Getty
+    Images Drone strikes by armed groups have surged across Colombia since 2023, opening
+    a dangerous new front in the country’s decades-long conflict. Hospitals, schools,
+    police stations, electricity grids and homes have all been struck, and injuries
+    now number in the hundreds. Only one such attack was recorded in 2023, according
+    to Armed Conflict Location and Event Data (ACLED), a leading monitoring organisation.
+    But that figure jumped to 38 in 2024 and 149 in 2025. Colombia’s ministry of defence
+    reported an even steeper rise, recording no attacks in 2023, 61 in 2024 and 333
+    in 2025. Colombia’s conflict has ravaged villages, towns and cities for more than
+    six decades. Fought between guerrillas, paramilitary groups, drug traffickers
+    and state forces, it has left more than 450,000 people dead and displaced millions
+    more. While a 2016 peace deal tempered the fighting and ushered in fragile stability,
+    violence is once again on the rise. Armed groups have expanded their ranks, tightened
+    their grip on drug routes and illegal mining, and sought to fill power vacuums
+    left by demobilised forces. They are also now investing in more sophisticated
+    weaponry – such as drones – a shift experts said was driving a dangerous escalation
+    in the conflict. Colombia drone attack 1 “The old guerrillas tried a thousand
+    times to get missiles and never succeeded,” said Humberto de la Calle, Colombia’s
+    former vice-president, after a wave of drone attacks last summer. “With drones,
+    I think strategically we are at a point where we must stop the ways we are being
+    attacked from the air. This has never happened before in Colombia.” Dissident
+    factions of the Revolutionary Armed Forces of Colombia (Farc) were the first to
+    adopt the technology, analysts said, followed quickly by rival groups like the
+    National Liberation Army (ELN). Fighters typically modify off-the-shelf commercial
+    drones – often costing just a few hundred dollars from China – to carry explosives,
+    with many attacks taking a “kamikaze” form in which the drone itself becomes the
+    weapon. By 2025, it is believed that almost all major armed groups were using
+    militarised drones, with attacks spreading far beyond traditional conflict zones.
+    “What is concerning is not only the very rapid escalation and frequency of their
+    use, but also the geographical spread,” said Tiziano Breda, an ACLED senior analyst.
+    He noted that drones were used in 12 municipalities in 2024 and 41 in 2025. Most
+    drone attacks have targeted police, army patrols and rival armed groups, data
+    shows. In December 2025 alone, ACLED recorded at least four attacks on police
+    stations in Cauca andon the military base in Cesar. Seven further attacks against
+    police and military units were recorded in January 2026, all claimed by ELN and
+    Farc fighters. But their use has increasingly expanded beyond combatants. Between
+    2024 and 2025, ACLED also recorded a sharp rise in drone attacks affecting civilians.
+    In some cases, civilians were caught in the crossfire. During the December attacks
+    on police stations and the military base, at least five civilians were injured.
+    “They drop the explosives on targets with little precision but terrifying effect,”
+    Breda said. In others, civilians appear to have been the targets. When the 10-year-old
+    boy was killed in 2024, army commander Gen Federico Mejia accused fighters from
+    a Farc dissident group of targeting civilians to pressure them “to reject the
+    presence of state military”. View image in fullscreen Colombian soldiers hold
+    anti-drone weapons during an exercise last year promoting the government’s efforts
+    to tackle the use of unmanned aircraft by armed groups. Photograph: Raúl Arboleda/AFP/Getty
+    Images The sound of their buzzing has become a source of terror in many communities.
+    In Putumayo, Indigenous leaders have said that armed actors used drones not only
+    to launch attacks but to intimidate residents, hovering above villages to assert
+    control, according to Human Rights Watch. On a recent reporting trip for the Guardian
+    in Barrancabermeja, a drone followed and monitored this reporter while an interview
+    about illegal armed groups was under way, forcing it to be cut short. Analysts
+    link the spread of drone warfare in Colombia to global conflicts, particularly
+    Ukraine, where the mass use of drones – alongside online footage and returning
+    foreign fighters – has accelerated the circulation of tactics, technical knowledge
+    and supply chains. “This war in Ukraine and the massive use of drones in that
+    context, coupled with the participation of a lot of foreigners in the foreign
+    region, particularly Colombians, sort of helped spread the use of these devices,”
+    Breda said. The device found last Wednesday near Bogotá airport was a fibre optic
+    drone, which is resistant to jamming and has become a feature in Russia’s war
+    against Ukraine. Colombian armed groups’ transnational criminal ties, including
+    links to Mexican and Balkan cartels, have further eased access to equipment and
+    training. Experts said there was also a growing number of reports that children,
+    considered more adept with the technology, were being recruited to operate drones.
+    View image in fullscreen The Colombian government has created specialised military
+    units to fight back against the use of drones by Farc and other groups. Photograph:
+    Raúl Arboleda/AFP/Getty Images Armed groups are also formalising drone units.
+    A commander with one group told news outlet La Silla Vacía last year that it had
+    formed a dedicated unit of drone operators, known as droneros. “Our drone unit
+    is the one we protect most,” he said. The shift is not merely tactical but technological.
+    In July, a Farc faction struck a navy patrol boat with a first-person-view (FPV)
+    drone, which the operator flew directly into the vessel before detonating it.
+    FPV drones are manually guided in real time, enabling precision strikes on moving
+    targets – a development analysts said marked a worrying escalation. The Colombian
+    government has been scrambling to respond, unveiling a multibillion anti-drone
+    “shield”, tightening restrictions on drone imports and creating specialised military
+    units. However, officials have also acknowledged the difficulty in countering
+    drone strikes across a fragmented battlefield. “You can understand that this is
+    arduous, difficult, and costly work. The national army alone has 3,000 platoons
+    deployed nationwide, and being able to equip all our personnel [with anti-drone
+    systems] is complicated,” said army commander Maj Gen Luis Emilio Cardozo last
+    year. The president, Gustavo Petro, admitted to troops that “narco-traffickers
+    have the aerial advantage”. Experts caution that armed groups are moving faster
+    than the state can adapt. “There are reports of armed groups having anti-drone
+    technology already, which would show they are adapting really fast,” said Martina
+    Rapido Ragozzino, a researcher at Human Rights Watch. As drones reshape Colombia’s
+    conflict from above, analysts said that the balance was shifting faster than institutions
+    could respond – leaving civilians increasingly exposed in a war where the frontlines
+    were no longer fixed to the ground.'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章明确提到无人机袭击频率从2023年的单次迅速增加到2025年的149次（ACLED数据），且攻击范围从少数地区扩展到了全国更多城市，表明了频率和地理范围的快速升级。
+    options:
+      A: A gradual decline due to government-imposed import restrictions.
+      B: A strategic shift toward strictly military-to-military confrontations.
+      C: A rapid escalation in both frequency and geographical range.
+      D: A diminishing reliance on commercial technology in favor of custom-made missiles.
+    q_number: 1
+    stem: Which of the following best describes the recent trend of drone usage in
+      the Colombian conflict?
+  - answer: B
+    explanation: 文中指出武装组织利用无人机不仅是为了攻击，更是为了恐吓居民（intimidate residents），通过在村庄上空盘旋来建立控制权，并试图迫使民众拒绝国家军事力量的存在。
+    options:
+      A: To maximize technical precision during complex combat operations.
+      B: To exert psychological pressure and maintain local control.
+      C: To comply with the tactical demands of international cartels.
+      D: To inadvertently injure bystanders while focusing on rival factions.
+    q_number: 2
+    stem: What does the author suggest about the motivation behind using drones against
+      civilians?
+  - answer: D
+    explanation: 分析人士提到乌克兰战争中无人机的大规模使用以及参与其中的外国战士，促进了相关战术、技术知识和供应链在全球范围内的传播，包括对哥伦比亚武装组织的影响。
+    options:
+      A: The emergence of local drone manufacturing hubs.
+      B: The massive influx of state-sponsored anti-drone technology.
+      C: The direct collaboration between government forces and rebel drone operators.
+      D: The diffusion of tactics and knowledge from global conflicts like the war
+        in Ukraine.
+    q_number: 3
+    stem: According to the passage, what is a likely catalyst for the spread of drone
+      warfare in Colombia?
+  - answer: A
+    explanation: 文中解释FPV无人机通过操作员实时手动引导，能对移动目标进行精确打击，这种技术转变被分析师认为是危险的升级，说明了其在战术上的复杂性和威胁性。
+    options:
+      A: It represents a shift toward more complex, manual precision-guided weaponry.
+      B: It marks the end of the reliance on off-the-shelf commercial drones.
+      C: It highlights the government's success in forcing rebels to change tactics.
+      D: It signals a decrease in the lethality of attacks against moving targets.
+    q_number: 4
+    stem: What is the significance of the shift to 'first-person-view (FPV) drones'
+      mentioned in the text?
+  - answer: B
+    explanation: 文中援引专家观点指出，武装组织比国家适应得更快，即使政府出台了数十亿的反无人机‘盾牌’并加强限制，但官员们承认在碎片化的战场上进行防御非常困难且成本高昂。
+    options:
+      A: The anti-drone shield has successfully neutralized most aerial threats.
+      B: Government efforts are struggling to keep pace with the agile adaptation
+        of armed groups.
+      C: Military units have effectively eliminated the threat by controlling all
+        drone imports.
+      D: Officials are confident that their superior aerial resources have reclaimed
+        the advantage.
+    q_number: 5
+    stem: How does the Colombian government’s response to the drone threat appear
+      to be faring?
+  source_journal: The Guardian
+  title: Drones reshape war in Colombia as deaths and injuries mount
+- article_update_date: 05.16.2026
+  body_text: Before the start of the 15th China-Russia-India trilateral meeting, Foreign
+    Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of
+    External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed
+    a range of issues and pledged to implement and strengthen outcomes of BRICS and
+    the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and
+    India agreed to maintain regional security and economic architecture in the Asia-Pacific,
+    according to a joint statement issued on Monday after the 15th trilateral meeting
+    of the foreign ministers of the three countries. Maintaining regional security
+    and economic architecture that is "open, inclusive and based on multilateralism
+    and universally recognized principles of international law" is imperative for
+    lasting peace and stability in the region, the statement said. The three countries
+    emphasized the need for coordination and cooperation in various regional forums
+    and organizations such as the East Asia Summit to maintain regional peace and
+    stability and to promote regional development and prosperity. During the one-day
+    meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian
+    counterpart Sushma Swaraj discussed a wide range of global and regional issues
+    of common concern, according to the statement. The three countries reiterated
+    the importance they attached to cooperation and strategic partnership within BRICS.
+    "We will work together to implement all outcomes of BRICS summits to strengthen
+    cooperation in economic, political, security and people-to-people fields, so as
+    to usher in the second golden decade of BRICS cooperation," said the statement,
+    while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen
+    in September. The three countries also attached special importance to the joint
+    work within the Shanghai Cooperation Organization, saying the SCO is an important
+    instrument in promoting multilateral political, security, economic and people-to-people
+    interaction in the region. Describing the Russia-India-China trilateral format
+    as a platform to foster closer dialogue and practical cooperation in identified
+    areas among the three countries, the joint statement said such cooperation is
+    not directed against any other country. "We wish to strengthen the trilateral
+    dialogue for consultation and coordination on regional and global issues of mutual
+    interest in the spirit of mutual understanding and trust," it said. "Our cooperation
+    is conducive to maintaining international and regional peace and stability, and
+    promoting global economic growth and prosperity," it added. XINHUA
+  difficulty_constant: 7.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: The text states that the three countries aim to maintain an economic
+      architecture that is 'open, inclusive and based on multilateralism' and emphasize
+      the need for coordination to maintain regional peace and stability.
+    options:
+      A: To form a military alliance against other regional powers.
+      B: To dominate the economic architecture of the Asia-Pacific region.
+      C: To promote regional peace, stability, and multilateral cooperation.
+      D: To replace existing international laws with their own framework.
+    q_number: 1
+    stem: According to the passage, what is the primary goal of the trilateral cooperation
+      between China, Russia, and India?
+  - answer: B
+    explanation: 'The text explicitly mentions: ''We will work together to implement
+      all outcomes of BRICS summits to strengthen cooperation in economic, political,
+      security and people-to-people fields''.'
+    options:
+      A: Restructuring the governance of the BRICS organization.
+      B: Implementing outcomes from summits to strengthen multifaceted cooperation.
+      C: Expanding the BRICS membership to include new regional partners.
+      D: Prioritizing security cooperation over economic development.
+    q_number: 2
+    stem: Which of the following is explicitly mentioned as a priority for the three
+      countries concerning BRICS?
+  - answer: D
+    explanation: By stating the cooperation is not directed against any other country,
+      the text clarifies that the partnership is not meant to be a hostile or exclusionary
+      bloc, thus implying it is non-confrontational.
+    options:
+      A: Defensive in nature against common threats.
+      B: Exclusively focused on internal development.
+      C: Open to external military intervention.
+      D: Non-confrontational and inclusive in intent.
+    q_number: 3
+    stem: The phrase 'not directed against any other country' in the text implies
+      that the trilateral cooperation is __________.
+  - answer: B
+    explanation: The text states that the SCO is an 'important instrument in promoting
+      multilateral political, security, economic and people-to-people interaction
+      in the region'.
+    options:
+      A: It serves as the main military arm for the three countries.
+      B: It acts as an important instrument for regional multilateral interaction.
+      C: It is the primary forum for discussing global trade tariffs.
+      D: It serves solely to manage the economic development of Central Asia.
+    q_number: 4
+    stem: What is the significance of the Shanghai Cooperation Organization (SCO)
+      as described in the passage?
+  - answer: A
+    explanation: 'The text explicitly states: ''We wish to strengthen the trilateral
+      dialogue... in the spirit of mutual understanding and trust''.'
+    options:
+      A: Mutual understanding and trust.
+      B: Competitive growth and hegemony.
+      C: Strict adherence to bilateral agreements.
+      D: Isolationism and regional self-sufficiency.
+    q_number: 5
+    stem: Which of the following best summarizes the 'spirit' of the trilateral dialogue
+      mentioned in the statement?
+  source_journal: China Daily
+  title: Chinese, Russian and Indian ministers meet
