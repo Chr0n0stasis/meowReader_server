@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.30.2026",
+  "papers": [
+    {
+      "title": "De novo design of quasisymmetric two-component protein cages",
+      "article_update_date": "05.21.2026",
+      "source_journal": "Nature",
+      "body_text": "We thank D. Juergens for their help with computational design and scripts; F. Praetorius and D. Sahtoe for contributing de-novo-designed LHD heterodimer building blocks; Q. Dowling and W. Sheffler for helpful discussions; S. Gerben for their assistance with protein purification; N. Bethel for their assistance with molecular dynamics simulations; Y. Hsia for their assistance with field flow fractionation; and S. Dickinson and J. Quipse for their help with maintaining and operating the electron microscopes. Molecular graphics and cage models were generated with UCSF ChimeraX. This work was supported by the Defense Threat Reduction Agency (grant no. HDTRA1-19-1-0003 to S.W.) and the Burroughs Wellcome Fund (S.W.); The Audacious Project at the Institute for Protein Design (S.W., A.F., A.J.B., A.B., J.D., A.K., D.B.); a gift from Microsoft (D.C.); the National Science Foundation (grant no. CHE-2226466 to F.D.); the Human Frontiers Science Program (grant no. RGP0061/2019 to F.D.); the Bill and Melinda Gates Foundation (grant no. INV-043758 to C.W., J.D., A.K., A.B. and no. OPP1156262 to A.J.B.); the Howard Hughes Medical Institute (C.W., A.B., A.J.B., D.B.); the National Institutes of Health’s National Institute on Aging (grant no. R01AG063845 to A.B., A.F. A.J.B. and B.H.); Spark Therapeutics/Computational Design of a Half Size Functional (grant no. ABCA4 to K.W.); and The Nordstrom Barrier Institute for Protein Design Directors Fund (B.H.). Crystallographic work was done at the National Synchrotron Light Source II on beamline FMX (17-ID-2). The Center for Bio-Molecular Structure (CBMS) is primarily supported by the NIH-NIGMS through a Center Core P30 Grant (grant no. P30GM133893), and by the DOE Office of Biological and Environmental Research (grant no. KP1607011). NSLS-II is a US DOE Office of Science User Facility (operated under contract no. DE-SC0012704). This publication resulted from data collected using the beamtime obtained through NECAT BAG proposal no. 311950. L.J.H. was funded by NIH (grant nos. R01 GM132447 and R37 CA240765) the NIH Director’s Transformative Research Award (no. TR01 NS127186), a Hypothesis Fund Award and a Research Grant from HFSP (grant no. RGP0016/2022).",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "We ____ D. Juergens for their help with computational design and scripts.",
+          "options": {
+            "A": "blame",
+            "B": "thank",
+            "C": "ignore",
+            "D": "criticize"
+          },
+          "answer": "B",
+          "explanation": "根据上下文语境，作者在列举对研究有帮助的人员，因此是表示感谢。"
+        },
+        {
+          "q_number": 2,
+          "stem": "F. Praetorius and D. Sahtoe contributed ____ de-novo-designed LHD heterodimer building blocks.",
+          "options": {
+            "A": "by",
+            "B": "to",
+            "C": "with",
+            "D": "for"
+          },
+          "answer": "A",
+          "explanation": "contribution by... 表示由某人贡献了某物，符合句法逻辑。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Q. Dowling and W. Sheffler were ____ for helpful discussions.",
+          "options": {
+            "A": "accountable",
+            "B": "acknowledged",
+            "C": "responsible",
+            "D": "avoided"
+          },
+          "answer": "B",
+          "explanation": "在致谢部分，通常使用acknowledged表示对贡献者的承认。"
+        },
+        {
+          "q_number": 4,
+          "stem": "S. Gerben provided their assistance ____ protein purification.",
+          "options": {
+            "A": "at",
+            "B": "in",
+            "C": "with",
+            "D": "on"
+          },
+          "answer": "C",
+          "explanation": "assistance with something是固定搭配，意为在某事上提供帮助。"
+        },
+        {
+          "q_number": 5,
+          "stem": "N. Bethel assisted with molecular ____ simulations.",
+          "options": {
+            "A": "dynamic",
+            "B": "dynamics",
+            "C": "dynamism",
+            "D": "dynamo"
+          },
+          "answer": "B",
+          "explanation": "Molecular dynamics（分子动力学）是专业领域术语。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Y. Hsia provided assistance ____ field flow fractionation.",
+          "options": {
+            "A": "about",
+            "B": "towards",
+            "C": "in",
+            "D": "above"
+          },
+          "answer": "C",
+          "explanation": "assistance in (doing) something指在某项具体工作中提供协助。"
+        },
+        {
+          "q_number": 7,
+          "stem": "S. Dickinson and J. Quipse helped with maintaining and ____ the electron microscopes.",
+          "options": {
+            "A": "operator",
+            "B": "operation",
+            "C": "operated",
+            "D": "operating"
+          },
+          "answer": "D",
+          "explanation": "and连接并列成分，maintain和operate均为动词原形/ing形式。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Molecular graphics and cage models were ____ with UCSF ChimeraX.",
+          "options": {
+            "A": "produced",
+            "B": "invented",
+            "C": "discovered",
+            "D": "generated"
+          },
+          "answer": "D",
+          "explanation": "在计算机辅助设计中，通常使用generate来描述模型的生成。"
+        },
+        {
+          "q_number": 9,
+          "stem": "This work was supported ____ the Defense Threat Reduction Agency.",
+          "options": {
+            "A": "by",
+            "B": "from",
+            "C": "of",
+            "D": "in"
+          },
+          "answer": "A",
+          "explanation": "被动语态中，表示支持者通常用supported by。"
+        },
+        {
+          "q_number": 10,
+          "stem": "____ no. HDTRA1-19-1-0003 to S.W.",
+          "options": {
+            "A": "Grant",
+            "B": "Model",
+            "C": "Script",
+            "D": "Award"
+          },
+          "answer": "A",
+          "explanation": "Grant number是科研项目资助编号的标准用法。"
+        },
+        {
+          "q_number": 11,
+          "stem": "A gift ____ Microsoft (D.C.).",
+          "options": {
+            "A": "from",
+            "B": "as",
+            "C": "for",
+            "D": "with"
+          },
+          "answer": "A",
+          "explanation": "a gift from表示礼物/资助来源于某方。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Crystallographic work was ____ at the National Synchrotron Light Source.",
+          "options": {
+            "A": "taken",
+            "B": "made",
+            "C": "done",
+            "D": "found"
+          },
+          "answer": "C",
+          "explanation": "work was done是标准的被动用法，意为工作被完成。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The center is ____ supported by the NIH-NIGMS.",
+          "options": {
+            "A": "secondly",
+            "B": "hardly",
+            "C": "eventually",
+            "D": "primarily"
+          },
+          "answer": "D",
+          "explanation": "primarily表示主要地，符合机构资助的语境。"
+        },
+        {
+          "q_number": 14,
+          "stem": "NSLS-II is a US DOE Office of Science User ____.",
+          "options": {
+            "A": "Tool",
+            "B": "Facility",
+            "C": "Building",
+            "D": "Machine"
+          },
+          "answer": "B",
+          "explanation": "User facility是科研领域的术语，指大型用户设施。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Operated ____ contract no. DE-SC0012704.",
+          "options": {
+            "A": "behind",
+            "B": "above",
+            "C": "against",
+            "D": "under"
+          },
+          "answer": "D",
+          "explanation": "under contract指在某合同条款下运营。"
+        },
+        {
+          "q_number": 16,
+          "stem": "This publication resulted ____ data collected using the beamtime.",
+          "options": {
+            "A": "in",
+            "B": "to",
+            "C": "from",
+            "D": "on"
+          },
+          "answer": "C",
+          "explanation": "result from表示由...产生/导致。"
+        },
+        {
+          "q_number": 17,
+          "stem": "L.J.H. was ____ by NIH.",
+          "options": {
+            "A": "funding",
+            "B": "fundedly",
+            "C": "funded",
+            "D": "fund"
+          },
+          "answer": "C",
+          "explanation": "被动语态，需要过去分词funded。"
+        },
+        {
+          "q_number": 18,
+          "stem": "NIH Director’s Transformative Research ____.",
+          "options": {
+            "A": "Award",
+            "B": "Task",
+            "C": "Cost",
+            "D": "Gift"
+          },
+          "answer": "B",
+          "explanation": "此处根据上下文需填入研究项目类型，Award符合该术语。"
+        },
+        {
+          "q_number": 19,
+          "stem": "A Hypothesis Fund Award and a Research ____ from HFSP.",
+          "options": {
+            "A": "Grant",
+            "B": "Gift",
+            "C": "Rate",
+            "D": "Price"
+          },
+          "answer": "A",
+          "explanation": "科研资助通常被称为Research Grant。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The work reflects the ____ of multiple organizations.",
+          "options": {
+            "A": "assistance",
+            "B": "presence",
+            "C": "support",
+            "D": "existence"
+          },
+          "answer": "D",
+          "explanation": "此题为结语，指代上述机构的共同存在与贡献。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 229",
+      "article_update_date": "05.23.2026",
+      "source_journal": "Economist",
+      "body_text": "TheEconomist.2026.05.23 The world this week Politics Business The weekly cartoon Leaders SpaceX is capitalism on rocket fuel American growth could be even better Why NATO needs a Plan B How to stop the Ebola outbreak Lessons from the Premier League for Britain’s next premier Letters Do most baristas in Norway have a master’s degree? By Invitation The IPO wave will enshrine the AI gods’ control over the future Briefing SpaceX has initiated the biggest ever public offering United States Even by Trumpian standards, a $1.8bn fund for friends is bad Drained by war with Iran, America is stalling deliveries of arms to Europe America’s sermons are becoming op-eds Democratic primary voters chose a dicey candidate for Georgia governor Europe’s first known language is alive in America’s West Michigan’s Senate primary is a fight over the future of the Democratic Party Leftist populism’s next big test The Americas Donald Trump is pushing towards the end-game in Cuba Months after electing a centrist president, Bolivia boils over Why Brazil’s government is obsessed with vaccines Asia Why Japan and China will struggle to end their feud Is Donald Trump selling out Taiwan? India’s loudest political fight obscures a more urgent one India’s diplomats are hosting the world Overseas Chinese risk losing their oldest institutions China Vladimir Putin’s turn with Xi Jinping How China quietly helps Russia in Ukraine What China can learn from Japan about escaping deflation Middle East & Africa A new Ebola outbreak could be the worst in a decade How to save the safari Is Binyamin Netanyahu facing his last stand? Israel’s economy is booming The mother of the world v the upstart Donald Trump is still looking for a quick fix in Iran Europe Europe’s secret Plan B to replace NATO Who are Europe’s newest troublemakers? Real Madrid’s boss calls an election How Europe is fighting for digital sovereignty Bre-entry may be the next drama to grip the European Union Britain In football, Britain has a world-beating industry Why football attendance is booming outside the Premier League The legal case hanging over Man City and the Premier League Britain’s second-biggest city goes from dysfunctional to worse Labour’s “battle for ideas” is a skirmish over small differences Hate Labour? Vote Labour! International Home-schooling is on the rise around the world Israel the lonely 1843 Dope and glory: inside the Enhanced Games Business AI super-apps are remaking China’s internet Google is dethroning OpenAI as the king of consumer AI Chanel’s creative revival is paying off The strange fate of Hard Rock Cafe How Star Wars went from space opera to soap opera A new mega-deal shows how AI has turned utilities into hot property Can an Italian company disrupt Germany’s broken railway industry? The benefits—and dangers—of optimism Finance & economics How much is Donald Trump costing America’s economy? The insurers on the hook for war in Iran The other China shock Economics lessons from Home Depot Where expat escapees from Dubai end up Investors fear another surge in inflation How should economists treat morality? Science & technology Breakthroughs for batteries could soon make them much better The hantavirus outbreak is a tragedy—and a valuable data source Could microscopic spheres of silica help cool the planet? How well do anabolic steroids work? Culture A blind tasting revolutionised the wine world 50 years ago The unlikely inspiration for North Korea’s first dictator Why the sex in “Rivals” is more than mere titillation Not all Jews believed their future lay in Israel Beware the typo—and other lessons of literary history Gamified novels—known as LitRPG—are a winning format Economic & financial indicators Economic data, commodities and markets Obituary Edith Eger danced for Josef Mengele",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Based on the text, what can be inferred about the current state of SpaceX's corporate standing?",
+          "options": {
+            "A": "It is transitioning into a government-owned defense contractor.",
+            "B": "It has launched a massive public offering of shares.",
+            "C": "It is struggling to maintain its leadership in AI development.",
+            "D": "It has failed to secure funding for its rocket fuel expansion."
+          },
+          "answer": "B",
+          "explanation": "文章Briefing部分明确指出：SpaceX has initiated the biggest ever public offering。选项B准确概括了这一事实。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes the author's tone toward American political dynamics in the 'United States' section?",
+          "options": {
+            "A": "Optimistic and celebratory.",
+            "B": "Neutral and purely descriptive.",
+            "C": "Critical and concerned.",
+            "D": "Indifferent and detached."
+          },
+          "answer": "C",
+          "explanation": "文章使用了诸如“Trumpian standards”、“bad”、“drained”、“dicey candidate”等负面或批判性词汇，表明作者对当前美国政治现状持批判与担忧的态度。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the text suggest about the relationship between China and Russia?",
+          "options": {
+            "A": "China is openly defying Russian policies.",
+            "B": "Russia is actively seeking to learn from China's deflationary experience.",
+            "C": "China is providing discreet assistance to Russia regarding the situation in Ukraine.",
+            "D": "The two nations have officially ended their political cooperation."
+          },
+          "answer": "C",
+          "explanation": "文章提到“How China quietly helps Russia in Ukraine”，这直接支持了选项C的表述，“quietly”对应了“discreet”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary focus of the discussion regarding the 'Premier League' in the 'Britain' section?",
+          "options": {
+            "A": "The historical origins of British football.",
+            "B": "Its status as a globally competitive industry.",
+            "C": "The ethical controversies surrounding its ownership.",
+            "D": "The decline in public attendance at stadiums."
+          },
+          "answer": "B",
+          "explanation": "文章提到“In football, Britain has a world-beating industry”，随后探讨了相关商业运作，说明其重点在于足球作为一项全球领先的产业。"
+        },
+        {
+          "q_number": 5,
+          "stem": "According to the 'Business' section, how is AI affecting the infrastructure sector?",
+          "options": {
+            "A": "It is causing the total collapse of utility companies.",
+            "B": "It is making utility companies highly valuable assets.",
+            "C": "It has forced Italian railways to merge with German firms.",
+            "D": "It has decreased the demand for consumer AI applications."
+          },
+          "answer": "B",
+          "explanation": "文章指出“AI has turned utilities into hot property”，这意味着公用事业公司因AI的发展变得极其热门和有价值，选项B与此一致。"
+        }
+      ]
+    },
+    {
+      "title": "US soldier involved in Maduro raid charged over alleged bets on capture",
+      "article_update_date": "04.24.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A US soldier who played a role in the January capture of Venezuelan president Nicolás Maduro is now in custody after allegedly cashing in over $400,000 on wagers about the politician’s removal from office, federal authorities announced on Thursday. Prosecutors say beginning in early December the soldier, Gannon Ken Van Dyke, was involved in planning for the military operation to capture and depose Maduro. Between early December and early January, Van Dyke allegedly placed 13 bets on Polymarket, a popular prediction market, related to American forces invading Venezuela and taking its head of state. Van Dyke has been charged with commodities and wire fraud in addition to unlawful use of confidential government information for personal gain, according to the Department of Justice (DoJ). He is facing up to 60 years in prison. In the news release, FBI assistant director in charge James C Barnacle Jr rebuked Van Dyke’s alleged betting, calling it a betrayal to his fellow soldiers. “Our men and women in uniform are trusted with classified information in order to accomplish their mission as safely and effectively as possible, and are prohibited from using this highly sensitive information for personal financial gain,” acting attorney general Todd Blanche said in a statement. “This involved a US soldier who allegedly took advantage of his position to profit off of a righteous military operation,” FBI director Kash Patel wrote on social media. “Investigation ongoing.” Polymarket said in a social media statement the company had referred a user trading on classified government information to the DoJ. “Insider trading has no place on Polymarket. Today’s arrest is proof the system works,” the company wrote. The news came a day after three US congressional candidates were fined by a different prediction market site, Kalshi, for placing bets on the outcome of their races. One of the candidates, former reality TV contestant and Virginia Senate hopeful Mark Moran, claimed he placed the wager to prove a point. Kalshi’s sanctions appeared to be a move to appease lawmakers, who have been considering legislation to curtail any government employees who may seek to profit from classified information. Speculation about political insider trading have swirled in recent weeks, after well-timed wagers about the Iran war netted over $1 billion. On Thursday evening in the Oval Office, Donald Trump told reporters he would look into Van Dyke’s arrest. “I don’t know about it … that’s like Pete Rose betting on his own team,” he said, referring to the late and disgraced baseball player, who was banned by Major League Baseball player for gambling. The president has advocated for Rose to be inducted into the sport’s Hall of Fame. When also asked whether he’s concerned about betting markets related to Iran, Trump replied: “The whole world unfortunately has become somewhat of a casino.” “I was never much in favor of it. I don’t like it, conceptually, but it is what it is … it’s a crazy world, it’s a much different world than it was.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary reason for Gannon Ken Van Dyke's arrest by federal authorities?",
+          "options": {
+            "A": "He planned a military operation against Venezuela without authorization.",
+            "B": "He exploited classified information to profit from betting on a government mission.",
+            "C": "He engaged in an unauthorized conversation with foreign media about Maduro.",
+            "D": "He failed to fulfill his duties as a soldier during the capture of a political leader."
+          },
+          "answer": "B",
+          "explanation": "文章指出Van Dyke利用其参与军事行动的保密信息，在预测市场上进行投注以谋取私利，这构成了商品欺诈、电汇欺诈以及滥用政府机密信息。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How did the FBI and the Department of Justice characterize Van Dyke's actions?",
+          "options": {
+            "A": "As a clever use of market fluctuations.",
+            "B": "As a necessary risk for soldiers in the field.",
+            "C": "As a betrayal of the trust placed in military personnel.",
+            "D": "As a minor technical violation of financial regulations."
+          },
+          "answer": "C",
+          "explanation": "FBI助理局长James C Barnacle Jr明确表示Van Dyke的行为是对同袍的背叛（a betrayal to his fellow soldiers），强调了军人对机密信息的忠诚责任。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is true about Polymarket's reaction to the situation?",
+          "options": {
+            "A": "It defended Van Dyke by citing user anonymity.",
+            "B": "It claimed no responsibility for its users' trading activities.",
+            "C": "It actively assisted authorities by referring the user for investigation.",
+            "D": "It blamed the US government for not providing clear trading guidelines."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到Polymarket在声明中表示，该公司已将一名使用机密政府信息进行交易的用户移交给了司法部（DoJ）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Why did Kalshi impose sanctions on congressional candidates?",
+          "options": {
+            "A": "To gain positive publicity from the media.",
+            "B": "To prevent the government from shutting down their platform.",
+            "C": "To force candidates to withdraw from their respective races.",
+            "D": "To show alignment with lawmakers concerned about insider trading."
+          },
+          "answer": "D",
+          "explanation": "文章提到Kalshi的制裁似乎是为了安抚立法者（appease lawmakers），因为立法者正在考虑立法以限制政府雇员利用机密信息获利。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred from Donald Trump's comments regarding the incident?",
+          "options": {
+            "A": "He supports the use of betting markets as a reflection of reality.",
+            "B": "He is indifferent to the impact of gambling on military operations.",
+            "C": "He finds the reliance on betting markets as a troubling sign of the times.",
+            "D": "He thinks Pete Rose and Van Dyke are innocent of their respective charges."
+          },
+          "answer": "C",
+          "explanation": "Trump评论称“整个世界不幸地变成了一个赌场”，并表示“我从不赞成这一点。概念上我不喜欢它，但这就是现实”，表达了他对这种现象的担忧和无奈。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 56",
+      "article_update_date": "05.11.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Lexi Pandell The Big Story Jul 21, 2025 6:00 AM The Next Thing You Smell Could Ruin Your Life Millions of people suffer debilitating reactions in the presence of certain scents and chemicals. One scientist has been struggling for decades to understand why—as she battles the condition herself. Photograph: Amber Gomez After my birth, my mother became allergic to the world. That’s the only way I knew how to put it. So many things could set her off: new carpeting, air fresheners, plastic off-gassing, diesel. Perfumes were among the worst offenders. On top of that, she developed terrible food allergies. The sound of her sniffling became the chorus of my childhood. Some days she couldn’t get out of bed. I’d peek into her darkened room and see her face pinched in discomfort. Her joints ached, her head swam. Doctors suggested that maybe she was depressed or anxious. “Well, you’d be anxious too if you couldn’t lick an envelope, couldn’t pick up your daughter in a car,” she’d reply. She tried allergists, got nowhere. Finally, she found her way to holistic health, whose practitioners told her she had something called multiple chemical sensitivity. As long as people have complained that man-made stuff in their environment causes health problems—migraines and asthma, exhaustion and mood swings—the medical establishment has largely dismissed them. The American Medical Association, World Health Organization, and the American Academy of Asthma, Allergy & Immunology don’t recognize chemical sensitivity as a diagnosis. If they talk about it at all, they tend to dismiss it as psychosomatic, a malady of the neurotic and health-obsessed. Why, these authorities wondered, would people react to minute traces of a huge array of chemicals? And why couldn’t they ever seem to get better? This isn’t some trivial affliction. Roughly a quarter of American adults report some form of chemical sensitivity; it lives alongside chronic pain and fibromyalgia as both evidently real and resistant to mainstream diagnosis or treatment. My mom tried a thousand things—elimination diets, antihistamines, lymphatic massage, antidepressants, acupuncture, red light therapy, saunas, heavy-metal detoxes. Sometimes her symptoms eased, but she never got better. Her illness ruled our lives, dictating what products we bought, what food we ate, where we traveled. I felt there had to be an answer for why this was happening. It didn’t take me long to learn that, if there was one, it’d come from a figure as unassuming as she is provocative: the scientist Claudia Miller. On a warm Texas afternoon, Miller and her affable husband, Bob, lead me through the San Antonio Botanical Garden. A monarch flits by. “I’ve noticed so many fewer butterflies, so many fewer birds, even the last couple of years,” Miller observes. Her raspy voice comes out so quietly that, at times, my recording device fails to pick it up. People are perpetually leaning in close or asking her to repeat herself. At 78, Miller typically uses a cane, but Bob gets the walker out of the car so she can cover more distance. She wears her silver hair in a low side ponytail, fixed in place with a scrunchie. The line between science and wellness has been blurred beyond recognition. WIRED is here to help . With her wide, thin-rimmed glasses, Miller disappears into the scenery, but she’s a particularly visible presence in her field. Now a professor emeritus at the University of Texas Health Science Center at San Antonio, Miller has held several federal appointments, chaired National Institutes of Health meetings, testified before Congress, consulted for the Environmental Protection Agency, authored dozens of papers, and worked with the Canadian, German, Japanese, and Swedish governments. In all this, she has tried to make sense of and raise awareness for chemical intolerance. One patient advocate I interviewed called her “Saint Claudia” for her commitment to overlooked and misunderstood patients. Kristina Baehr, an attorney who defends victims of toxic exposures, told me, “To have experts like Dr. Miller tell them you’re not crazy, this is very real, is very life-giving to people. She’s able to validate their experience with facts, with science.” One such fact, Miller explains, is this: Over the past century, the United States has undergone a chemical revolution. “Fossil fuels, coal, oil, natural gas, their combustion products, and then their synthetic chemical derivatives are mostly new since World War II,” she says. “Plasticizers, forever chemicals, you name it: These are all foreign chemicals.” They’re everywhere you look, in homes and offices, parks and schools. They’re also, Miller believes, making people very sick. In 1997, Miller proposed a career-defining theory of how people succumb to this condition. It came with a technical-sounding name, toxicant-induced loss of tolerance, and a convenient acronym, TILT. You can lose tolerance after one severe exposure, Miller says, or after a series of smaller exposures over time. In either case, a switch is flipped: Suddenly, people are triggered by even tiny amounts of everyday substances—cigarette smoke, antibiotics, gas from their stoves—that never bothered them before. These people become, in a word, TILT-ed. It’s not unlike developing an allergy, when the body labels a substance as dangerous and then reacts accordingly. In 1999, Miller and her colleagues designed the Quick Environmental Exposure and Sensitivity Inventory, or QEESI (pronounced “queasy”), a survey to help doctors and researchers identify chemically intolerant patients. I’ve seen the QEESI cited in papers from 18 countries, but to date, most physicians still don’t know much about it. “It’s very frustrating to try to get these ideas across,” Miller says. The major problem is that, assuming TILT accurately describes the process of becoming chemically intolerant, we don’t know what biological changes occur inside the sensitized body, why so many symptoms crop up, or why one exposed person gets sick while others seem to walk away unscathed. But Miller thinks she’s closer than ever to an answer. At the botanical garden, we approach an orchid exhibit. Sticky heat engulfs us as we enter. Orchids of varying shapes and colors fill the greenhouse, including one with spindly chartreuse petals. “What do you call this?” Miller asks. My plant-ID app comes up empty. So it goes, too, for chemically intolerant patients: The condition defies easy observation. “The world becomes like a torture chamber, and then nobody believes you,” Miller says. “That’s the worst part.” After falling ill, some people become hermits out of fear of exposure, abandoning their friends and family to live in remote areas. For others, nothing can keep them from spinning out of control. My mother knew someone who tried to escape her triggers by moving to the country in a trailer. Eventually, even that became unmanageable, and the woman shot herself in the head. Imagine feeling incredibly sick every time you encounter a cloud of cologne or fresh paint, then being told you’re making it up. I thought about my mom. Sometimes, catering to her needs could feel exhausting. But what must that have been like for her? The thing was, I never doubted her condition—especially after what happened on one bad day. It’s time to tell you the worst thing I have ever done to another person. When I was 10, my parents and I attended a family reunion. The trip was difficult. We fought nonstop. Everyone cried. The photographer hired to capture a family portrait accidentally exposed the film to light, and it was just as well. If we could have wiped the whole week from our minds, we would have. During that ill-fated trip, my aunt gifted me a set of scented lip balms. My mom offered her a tight smile but, once we were alone, told me to toss them out. Instead, I hid them and, soon, weaponized them. After yet another argument, I sneaked into my mom’s room, peeled back her pillow case, and smeared the lip balms directly onto her pillow. Later that night, as she tried to sleep, she kept waking up, sicker and sicker, her head pounding. Finally, her nose helped her uncover what I’d done. She found the telltale smudges. The next day, my dad told me how she’d sobbed and howled, “Why would she do this to me?” It remains, for me, a source of immense guilt. Later, I realized it was also the crumb of proof I needed. This was not all in my mother’s head. I’m at Miller’s condo across the street from the UT Health Science Center, with Miller and two of her collaborators. Her dining room table is lined with household products—a votive candle, a box of matches, body lotion, scented dish detergent. Beside them are chunky gadgets that look like something out of Ghostbusters . These are particulate monitors, which measure down to parts per billion. They need to be hypersensitive, because products like the ones on the table expel tiny molecules, and people with chemical intolerance seem to react to even minuscule doses. It’s akin to someone having an allergic reaction to a bag of peanuts opened on the other end of the airplane. One of her collaborators strikes a single match in front of a sensor. The number on the screen rockets from 0 to almost 500,000 parts per billion. It’s not always about what the nose can detect—though, in this case, sulfur dioxide fills the room. Last year, Miller’s team published research on house calls for nearly 40 people with chemical intolerance. They measured indoor pollution from products like these, as well as other irritants like dust and mold, and performed blood tests for allergies. Then they recommended tossing out scented candles or moving cans of gasoline from an attached garage to a separate storage unit, and gifted the subjects natural cleaning products. They retested the homes several more times over the course of the year. As the indoor pollution decreased, the subjects’ symptoms improved. For years, research like this convinced Miller that there was, indeed, something very wrong with her patients. But, again, that pesky mechanism for disease eluded her. Then she learned more about mast cells. Mast cells are a type of white blood cell that exists in nearly every tissue, including the skin, airways, and gastro-intestinal tract. When they detect something harmful, they can release hundreds of mediators, including histamine, substances that create symptoms like hives or swelling during anaphylactic shock. If the cells become overreactive, releasing too many mediators at the wrong time, a person can end up flushed, dizzy, wheezy, or exhausted. This is called mast cell activation syndrome, or MCAS. When Miller came across a book on the subject by Lawrence Afrin, a hematologist and mast cell disease researcher based in New York, she thought it sounded a lot like chemical intolerance. She called him. Many of his MCAS patients, it turned out, were sensitive to fragrances and medications. In 2021, Miller published what she considers her second eureka moment: a paper, coauthored with Afrin and others, that explains a potential link between TILT and MCAS. The team surveyed MCAS patients and found that those who scored high on MCAS questionnaires scored high on the QEESI. These patient groups also had nearly identical symptom patterns. Had Miller’s patients had mast cell activation syndrome this whole time? MCAS is a tricky disease to diagnose and treat, but it was something. An answer for the scientific community. An answer for her patients. And an answer for herself. Because that’s the other part of this story, the part Miller hasn’t been comfortable talking about until now: She, the condition’s leading researcher, suffers from chemical intolerance too. Miller has difficulty searching her memory about her past. Exact years don’t come back to her, her retellings wander. Attribute it to age or brain fog or both. Still, over hours of conversations and dozens of emails, her story came together. Born in Milwaukee as the only child of a patent attorney and a teacher, Miller was drawn to science from a young age. After earning her BA in molecular biology from the University of Wisconsin–Madison and her",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes the attitude of the mainstream medical establishment toward 'multiple chemical sensitivity'?",
+          "options": {
+            "A": "It is acknowledged as a severe, medically recognized chronic condition.",
+            "B": "It is often disregarded or attributed to psychological factors.",
+            "C": "It is considered a byproduct of excessive exposure to pharmaceutical drugs.",
+            "D": "It is treated as a trivial ailment that disappears without intervention."
+          },
+          "answer": "B",
+          "explanation": "文章中提到：The medical establishment has largely dismissed them... they tend to dismiss it as psychosomatic, a malady of the neurotic and health-obsessed. 这说明主流医学界倾向于将其视为心理因素（psychosomatic）导致的，而非认可其作为一种身体疾病。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the term 'TILT' signify in the context of Claudia Miller’s research?",
+          "options": {
+            "A": "A temporary recovery process after removing chemical triggers.",
+            "B": "A psychological reaction to the fear of being exposed to chemicals.",
+            "C": "A phenomenon where sensitivity is triggered by even minute amounts of substances.",
+            "D": "A specialized technique for diagnosing mast cell activation syndrome."
+          },
+          "answer": "C",
+          "explanation": "根据文中描述：toxicant-induced loss of tolerance, and a convenient acronym, TILT... Suddenly, people are triggered by even tiny amounts of everyday substances... TILT即指机体耐受性丧失，导致患者对极微量的日常物质产生反应。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author mentions the 'scented lip balms' incident to illustrate that ________.",
+          "options": {
+            "A": "her mother was capable of feigning illness to gain sympathy.",
+            "B": "the author was a cruel child who regretted her behavior.",
+            "C": "her mother's condition had an objective, physical basis.",
+            "D": "scents are the primary cause of mast cell activation syndrome."
+          },
+          "answer": "C",
+          "explanation": "作者描述了自己悄悄涂抹唇膏导致母亲出现强烈生理反应，最后得出结论：This was not all in my mother’s head. 这一事件成为了证明其母亲症状客观存在的实证（crumb of proof）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What potential connection does Claudia Miller propose regarding chemical intolerance and MCAS?",
+          "options": {
+            "A": "Chemical intolerance is a direct precursor to developing cancer.",
+            "B": "MCAS patients and chemically intolerant patients share similar symptom patterns.",
+            "C": "MCAS can be completely cured by avoiding household chemical derivatives.",
+            "D": "Chemical intolerance is caused by the absence of white blood cells in patients."
+          },
+          "answer": "B",
+          "explanation": "文章末尾提到：The team surveyed MCAS patients and found that those who scored high on MCAS questionnaires scored high on the QEESI. These patient groups also had nearly identical symptom patterns. 这揭示了二者在临床症状上的高度相似性。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about Claudia Miller's personal struggle with chemical intolerance?",
+          "options": {
+            "A": "She has successfully hid her condition from the medical community to maintain credibility.",
+            "B": "She has intentionally avoided researching the topic because of her own personal bias.",
+            "C": "She understands the patients' suffering both through her professional research and personal experience.",
+            "D": "She believes that her own illness is distinct from the condition she studies in others."
+          },
+          "answer": "C",
+          "explanation": "文章结尾明确指出：She, the condition’s leading researcher, suffers from chemical intolerance too. 这表明她既是该领域的权威研究者，也是该病的患者，能够从双重角度理解病人的痛苦。"
+        }
+      ]
+    }
+  ]
+}
