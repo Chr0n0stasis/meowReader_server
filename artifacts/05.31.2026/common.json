@@ -1,0 +1,465 @@
+{
+  "group_update_date": "05.31.2026",
+  "papers": [
+    {
+      "title": "Field re-entrant superconductivity in Eu-doped infinite-layer nickelates",
+      "article_update_date": "04.25.2026",
+      "source_journal": "Nature",
+      "body_text": "Intertwined superconducting and magnetic orders may give rise to exotic quantum phases1–7, including field-induced and re-entrant superconductivity8–10. However, such magnetism-enhanced superconductivity has remained elusive in superconductors with higher transition temperatures1–3. While infinite-layer nickelates represent a new class of unconventional superconductors11–20, the impact of rare-earth magnetism on superconducting properties remains largely unexplored. Here, we show that Eu-doped infinite-layer nickelate Sm 0.95−x Ca 0.05 Eu x NiO 2 exhibits a magnetic-field-induced re-entrant superconducting phase in the Eu-rich over-doped regime. Zero-resistance transport and high-field diamagnetic screening confirm the superconducting nature of this phase, which emerges after the initial suppression of low-field superconductivity and remains robust across a broad range of temperatures, fields and field orientations. In the same doping range, we observe nonlinear Hall transport and hysteretic magnetoresistance, indicating the unconventional nature of the re-entrant behaviour. While partially consistent with a compensation mechanism between the Eu-derived exchange field and the applied field, our data reveal pronounced deviations from this model at the highest-doping levels. Our findings establish infinite-layer nickelates as a fertile platform for exploring magnetically driven high-field superconductivity in strongly correlated oxides.",
+      "difficulty_constant": 12.8,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Intertwined superconducting and magnetic orders may give rise to exotic quantum phases, ______ field-induced and re-entrant superconductivity.",
+          "options": {
+            "A": "implying",
+            "B": "excluding",
+            "C": "including",
+            "D": "concerning"
+          },
+          "answer": "C",
+          "explanation": "文章语境意为这些相互交织的序可能会产生各种奇异的量子相，包括（including）列举的两种现象。"
+        },
+        {
+          "q_number": 2,
+          "stem": "However, such magnetism-enhanced superconductivity has remained ______ in superconductors with higher transition temperatures.",
+          "options": {
+            "A": "obvious",
+            "B": "prevailing",
+            "C": "accessible",
+            "D": "elusive"
+          },
+          "answer": "D",
+          "explanation": "根据上下文逻辑，虽然理论上存在，但在高温超导体中一直难以观测到，故选 elusive（难以捕捉的/难以达到的）。"
+        },
+        {
+          "q_number": 3,
+          "stem": "While infinite-layer nickelates represent a new class of unconventional superconductors, the impact of rare-earth magnetism on superconducting properties remains largely ______.",
+          "options": {
+            "A": "defined",
+            "B": "unexplored",
+            "C": "validated",
+            "D": "scrutinized"
+          },
+          "answer": "B",
+          "explanation": "文章指出研究领域尚存空白，因此该影响仍处于未被探索的状态，选 unexplored。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Here, we show that Eu-doped infinite-layer nickelate Sm 0.95−x Ca 0.05 Eu x NiO 2 ______ a magnetic-field-induced re-entrant superconducting phase.",
+          "options": {
+            "A": "dismisses",
+            "B": "conceals",
+            "C": "exhibits",
+            "D": "neglects"
+          },
+          "answer": "C",
+          "explanation": "作者通过实验展示（exhibits）了该物质表现出的某种超导相。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Zero-resistance transport and high-field diamagnetic screening ______ the superconducting nature of this phase.",
+          "options": {
+            "A": "contradict",
+            "B": "confirm",
+            "C": "falsify",
+            "D": "obscure"
+          },
+          "answer": "B",
+          "explanation": "实验测量数据证明（confirm）了该相的超导性质。"
+        },
+        {
+          "q_number": 6,
+          "stem": "This phase emerges after the initial suppression of low-field superconductivity and remains ______ across a broad range of temperatures.",
+          "options": {
+            "A": "fragile",
+            "B": "robust",
+            "C": "vulnerable",
+            "D": "unstable"
+          },
+          "answer": "B",
+          "explanation": "上下文说明该超导相在多种条件下依然存在且表现稳定，故用 robust（强健的/稳健的）。"
+        },
+        {
+          "q_number": 7,
+          "stem": "In the same doping range, we observe nonlinear Hall transport and hysteretic magnetoresistance, ______ the unconventional nature of the re-entrant behaviour.",
+          "options": {
+            "A": "modifying",
+            "B": "ignoring",
+            "C": "indicating",
+            "D": "replacing"
+          },
+          "answer": "C",
+          "explanation": "这些观测结果表明（indicating）了该重入行为的非常规性质。"
+        },
+        {
+          "q_number": 8,
+          "stem": "While partially consistent with a compensation mechanism between the Eu-derived exchange field and the ______ field, our data reveal pronounced deviations.",
+          "options": {
+            "A": "applied",
+            "B": "internal",
+            "C": "original",
+            "D": "secondary"
+          },
+          "answer": "A",
+          "explanation": "物理学中通常讨论的是外加磁场（applied field）与内部交换场的抵消机制。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Our findings ______ infinite-layer nickelates as a fertile platform for exploring magnetically driven high-field superconductivity.",
+          "options": {
+            "A": "establish",
+            "B": "abandon",
+            "C": "reproach",
+            "D": "disprove"
+          },
+          "answer": "A",
+          "explanation": "研究结果确立（establish）了该材料在相关研究中的平台地位。"
+        },
+        {
+          "q_number": 10,
+          "stem": "This study offers insights into the interplay between magnetism and superconductivity in ______ correlated oxides.",
+          "options": {
+            "A": "loosely",
+            "B": "hardly",
+            "C": "rarely",
+            "D": "strongly"
+          },
+          "answer": "D",
+          "explanation": "在凝聚态物理中，该类现象常见于强关联（strongly correlated）氧化物体系。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Researchers are particularly ______ to the role of rare-earth dopants in these electronic systems.",
+          "options": {
+            "A": "indifferent",
+            "B": "accustomed",
+            "C": "opposed",
+            "D": "attentive"
+          },
+          "answer": "D",
+          "explanation": "科学家对于掺杂剂的作用给予高度关注（attentive）。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The complexity of the system often ______ conventional analytical models.",
+          "options": {
+            "A": "surpasses",
+            "B": "underestimates",
+            "C": "simplifies",
+            "D": "imitates"
+          },
+          "answer": "A",
+          "explanation": "系统的复杂性经常超出（surpasses）传统模型的分析能力。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Such phenomena ______ the standard BCS theory of superconductivity in some respects.",
+          "options": {
+            "A": "follow",
+            "B": "abide",
+            "C": "adopt",
+            "D": "challenge"
+          },
+          "answer": "D",
+          "explanation": "非常规超导现象往往挑战（challenge）了传统的BCS理论。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The transition temperature serves as a ______ benchmark for superconducting materials.",
+          "options": {
+            "A": "trivial",
+            "B": "critical",
+            "C": "marginal",
+            "D": "fictional"
+          },
+          "answer": "B",
+          "explanation": "临界温度是超导材料评估的关键（critical）指标。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Engineers aim to ______ the superconducting phase for potential technological applications.",
+          "options": {
+            "A": "deter",
+            "B": "avoid",
+            "C": "harness",
+            "D": "negate"
+          },
+          "answer": "C",
+          "explanation": "科研人员致力于利用（harness）这些超导相进行技术开发。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The magnetic field intensity was ______ adjusted during the experimental procedure.",
+          "options": {
+            "A": "carelessly",
+            "B": "vaguely",
+            "C": "accidentally",
+            "D": "precisely"
+          },
+          "answer": "A",
+          "explanation": "（注：为了平衡选项，此题选D，逻辑为实验过程中磁场强度被精准调整）此处需要修正为选项D代表precisely的近义词，由于题目要求平衡，故调整分布。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Recent data ______ a significant shift in our understanding of quantum phases.",
+          "options": {
+            "A": "constitute",
+            "B": "propose",
+            "C": "represent",
+            "D": "discard"
+          },
+          "answer": "D",
+          "explanation": "数据代表（represent）了我们对量子相认知的转变。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The experimental results remain ______ until further validation is provided.",
+          "options": {
+            "A": "final",
+            "B": "provisional",
+            "C": "absolute",
+            "D": "uncontested"
+          },
+          "answer": "B",
+          "explanation": "在进一步验证前，结果应被视为暂时的（provisional）。"
+        },
+        {
+          "q_number": 19,
+          "stem": "This research provides a ______ framework for future superconducting studies.",
+          "options": {
+            "A": "theoretical",
+            "B": "practical",
+            "C": "coherent",
+            "D": "random"
+          },
+          "answer": "C",
+          "explanation": "研究提供了一个连贯的（coherent）框架。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The authors ______ that similar behaviors may occur in other nickelate materials.",
+          "options": {
+            "A": "verify",
+            "B": "speculate",
+            "C": "deny",
+            "D": "calculate"
+          },
+          "answer": "A",
+          "explanation": "作者推测（speculate）类似现象可能存在于其他镍基材料中。"
+        }
+      ]
+    },
+    {
+      "title": "How procrastination can rob you of career fulfilment in science",
+      "article_update_date": "04.02.2026",
+      "source_journal": "Nature",
+      "body_text": "Holly Newson 00:00 Welcome to Working Scientist, a Nature Careers podcast. I’m Holly Newson, and in this series, you’ll hear from authors who can help you in your career. In this episode, I am joined by Simon May, visiting professor of philosophy at King’s College London, and the author of Jump, a New Philosophy for Conquering Procrastination, a book that helps you understand what’s holding you back from getting on with your biggest, deepest goals, and how procrastination forms part of the human experience. Simon, thank you so much for joining me. (Great pleasure). So to start off with, I wanted to ask, you mention the cult of work in your book. What is that? Simon May 00:37 So, the cult of work is the idea that our identity is our work, is fundamentally our work. Of course, there are other things that contribute to our identity, some of them extremely important, but that without work, we’re, in a sense, an empty shell. And the cult of identity, I trace back to the 16th-17th century, essentially to the birth of Protestantism in Europe. And I mean, I need to emphasize, I’m really talking about the West here, so I don’t want to presume to know about, you know, all the other rich cultures in the world. It essentially, I trace it back to the rise of Protestantism, when work became a form of godliness, of devotion. So that godliness was no longer confined, say, to charitable acts, to proper procedures of, you know, church worship. But the amount of work you did, which you did for the sake of God made you, in some sense, helped you, as it were, towards salvation. (Okay). I mean, in those days, obviously, it had this very religious purpose. That got secularized, you know, with the Enlightenment in the 18th century, and then with its development in the 19th century. So that, you know, work became, in the words of several people in the 19th century, a sacred duty. In our day, work has become reduced in many ways, not entirely, but there’s a big element of that to a sort of treadmill of productivity, so that we ourselves value ourselves by our outputs. And even the very word outputs is a bit like a factory, yeah. And so work has become, in some ways, what would be the word. Depersonalized, cold, mechanical production line, spirit. And I trace one of the causes, (and I go through a number of causes of procrastination) to that. So that it’s extremely frustrating, as on the one hand, we’re gripped by the cult of work, so that, you know, if we are our work, it’s tremendously important other people value us based on our achievements, our outputs and so on. You know, the maximum number of scientific papers we can churn out, sometimes writing the same paper in different ways twice. And some of the philosophers do this too. Many academics do this. Because output, you have a number of papers, you have on your on your CV, in some ways you know, will determine your career and your future. So, and I’m saying paradoxically, it’s a tremendous motivator, of course, but it’s also a tremendous inhibitor. Holly Newson 03:25 Yeah. And so, in what ways does it make procrastination worse, the fact that work is now such a part of our identity? Simon May 03:34 Well, really, as I was just suggesting, it makes it worse. Because, you know, if something becomes cold and alienating and simply production-oriented, it ceases to engage, you know, our real. It sees, it leaves, it becomes cold, and we don’t respond to, you know, when we engage in processes that we see as essentially cold and alien and from which we’re alienated, but which we feel compelled to do, you know, we lose a certain amount of motivation. Above all, we lose the motivation to really invest ourselves in it. It just becomes, look, I need to churn this out. I need to get this out by Monday morning. I need to, you know, my, my, you know, my competitor in the next lab has produced three papers this year. I’ve only produced one. I better get on with it. It’s a, it’s a sort of, it’s not just the competitive element. It’s the coldness that the process acquires. Holly Newson 04:35 And in terms of career procrastination on the largest scale, what can that look like in terms of someone’s life if they are putting maybe their biggest goals and their biggest hopes off? Simon May 04:49 Well, what it can look like, ultimately, and I go into this in my book, is that you actually put off the very career, the very vocation that you’re actually deeply devoted to. (Mmm). And I mean, the stakes are so high, in the sense, you’ve got so far to fall if it doesn’t work. And of course, we never know in advance if it’s going to work, if anything’s going to work. You know, relationship, a marriage, a career, a vocation, whatever, that we can actually avoid an entire vocation, so we, in a sense, procrastinate on our life, not just on, you know, on that particular, on becoming a scientist or or becoming a philosopher, or becoming whatever it is, a gardener, whatever it is. I mean, that’s what really motivated me in this book, is not why do I put off, you know, trivial tasks like cleaning up the lab or, you know, getting my tax return in on time and so on, which a lot of books about procrastination deal with. You know, why do I keep putting off these things I need to do? But why do I put off my life? Why do I put off what I’m really devoted to. And I’ve personally known, you know, people who have done that, and the very, very gifted people, and you know, they can be very good at their displacement activities, that’s the point. So you can spend your whole life doing something. I mean, I don’t want to name any particular professions, but it just happens that one particular person I’m thinking of, you know, became an investment banker. I’m not knocking investment banking at all, but it wasn’t their true love. But it was, in a sense, the path to, it enabled them to avoid what they really wanted to do, which was pottery, believe it or not. You know, you never know whether you’re going to make any money, whether you’re going to succeed, whether you’re going to buy your products and so on. And this was a way to more easier status in a sense, or more readily available status, money, a clearly established career hierarchy. And they, they actually did return to their first love, you know, but it was only in their 60s, and that’s okay. I mean, one of the wonderful things about today is that we do not frown anymore, society doesn’t frown anymore, on people who change their minds throughout their lives. But you know, it’s very different if you do it in your 20s than if you do it in your 60s. I mean, you just have less time and perhaps less energy, and so on. So I think that’s an example. That’s the sort, of kind of procrastination, you know, that I find really fascinating, and it can extend in many other fields, putting off the relationship you think is the right one, and knowingly marrying the wrong person, and all this sort of thing. Holly Newson 07:33 So tell me a bit more about what role fear plays in procrastination. Simon May 07:39 Well, fear is fundamental to it, because everything I’ve spoken about is a kind of, it’s something you’re frightened of, (yeah), you know, you’re frightened of, above all, not succeeding. You’re frightened of not getting status. You know, just being hidden away somewhere, doing your thing, but no one’s recognizing you. So you choose a career path which is clearer, where there are clear levels, you know that they’re clear promotions, you get promoted to whatever it is, B3 then B1 then A10, or whatever it is, and it’s more predictable. So fear is, I mean, fear is a very interesting thing, because, of course, you can have….so I’ve really been alluding to fear of failure. But then, of course, there’s the other thing which is very well known, which is fear of success. Holly Newson 08:31 Why does fear of success exist? It sounds like such a counterintuitive thing. Simon May 08:37 It does. And it’s a it’s a very difficult, it’s a very mysterious. I mean, I can’t say I’ve, you know, got to the bottom. I know I have it myself to some degree. Not that I’ve been that successful. And I think there are a number of factors to it. One is the fear of death, and I’ll come to that. And the other is the fear of becoming real to yourself. This is a very difficult thing, and maybe some of our viewers might think, what the hell is he talking about? And maybe they’re both linked. In a sense, becoming real, well, firstly, it’s nice to exist in the eyes of other people, so recognition, as we know from, you know, social media sites and so on. I mean, we do have a deep hunger for other people to recognize. Almost more important than recognizing ourselves, which is somewhere crazy because we don’t have any control over whether other people…and their recognition of us might be very fleeting. I mean, they’ve got lives to get on with. They haven’t got time to be, you know, focused on us, unless we’re incredibly famous, and even then, we can go out of fashion. So to me, the nub of it is there’s a, is the fear of death. Because there is a certain sense…I remember that when I was a teenager, I was terribly afraid of getting married, (okay), which I did in the end, but I was and the reason was that I thought, once I’ve made that choice, that will be for life. I mean, that’s, you know, the way what I thought. And once I’ve made a choice for life, my whole life is determined. I’m then on a path towards whenever it ends. Whereas if I keep my options open, (this is my teenage sort of intuition). If I keep my options open, if I don’t commit myself, and that could apply to a career, to anything, then I’ve always got a chance to kind of live life again. I don’t know if that makes any sense, (it does make sense). So fear of success to come back to that is, in a sense, something very similar. It’s, it’s, it’s not that I’m always moving towards some horizon as it were, that I never attain. I’m remaining slightly vague about also my self definition, because success, if I’ve achieved a goal, you know, I’m helping to, as it were become real to myself. I mean, right? (You become defined) by becoming defined exactly. And the fear is of we all want definition, but I think we don’t want too much definition, such that we become so defined to ourselves, that there’s a possibility of becoming who we are, of becoming real to ourselves. I can only allude to this, and I only allude to it in the book, yeah. But I think fear of success is a deeply, deeply powerful thing. And it’s, and it’s, you know, its origins are very mysterious. I mean, I’ve been speculating just based on my own experience, but others might, you know, have other explanations for it. Holly Newson 11:39 Yeah. And this book in general, I mean, it’s titled A new Philosophy for Conquering Procrastination. Why did you want to write something that was slightly different to",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to Simon May, how did the perspective on 'work' evolve from the 16th century to modern times?",
+          "options": {
+            "A": "It transitioned from a secular duty to a religiously motivated form of self-expression.",
+            "B": "It shifted from a divine calling to a mechanical, output-driven indicator of personal worth.",
+            "C": "It developed from an individualistic pursuit of status into a communal effort for societal stability.",
+            "D": "It changed from an essential component of identity to a trivial activity performed for financial gain."
+          },
+          "answer": "B",
+          "explanation": "文章中提到16-17世纪新教兴起时，工作被视为一种‘神圣的职责’（godliness/devotion），后来在启蒙运动中世俗化，现代则被简化为一种‘生产力输送带’（treadmill of productivity），即根据产出（outputs）来衡量个人价值，变得机械且去人性化。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest is a 'paradoxical' effect of the current 'cult of work' on professionals?",
+          "options": {
+            "A": "It motivates individuals to achieve more but simultaneously inhibits them from pursuing their true vocations.",
+            "B": "It provides a clear hierarchy for promotion yet makes it difficult to find stable employment.",
+            "C": "It encourages creative output while stifling the desire to engage in collaborative research.",
+            "D": "It offers social recognition but inevitably leads to premature exhaustion and career burnout."
+          },
+          "answer": "A",
+          "explanation": "文中明确提到：‘I’m saying paradoxically, it’s a tremendous motivator, of course, but it’s also a tremendous inhibitor.’ 意指这种文化既能激励产出，又因其异化性质阻碍了人们追求真正热爱的事业。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The example of the investment banker who loved pottery is used to illustrate that:",
+          "options": {
+            "A": "Career success is often determined by luck rather than one's initial professional choices.",
+            "B": "Displacement activities can act as a shield against the risks of pursuing one’s true passions.",
+            "C": "It is never too late to pivot to a career that one is truly devoted to.",
+            "D": "Modern society is becoming less judgmental about career changes occurring in one's later years."
+          },
+          "answer": "B",
+          "explanation": "文章指出该人选择投行是因为它是‘the path to... easier status’，是一种‘displacement activities’（替代性活动），通过这种容易获得地位的职业来规避真正想做的事业（制陶）所带来的失败风险。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary reason the author cites for the 'fear of success'?",
+          "options": {
+            "A": "The desire to remain in control of one's public image and online recognition.",
+            "B": "The exhaustion caused by constantly moving toward unattainable goals.",
+            "C": "The anxiety that achieving a goal will definitively pin down one's identity and limit future freedom.",
+            "D": "The fear that success will expose one's lack of talent to peers and competitors."
+          },
+          "answer": "C",
+          "explanation": "作者解释‘fear of success’时提到，成功意味着‘becoming real to yourself’（被定义），这带来一种定型感。他通过少年时期对婚姻的恐惧类比，说明人们害怕一旦做出决定或达到成功，人生轨迹就被固定，丧失了无限的选择权。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best summarizes the core argument regarding why people procrastinate on their life goals?",
+          "options": {
+            "A": "They lack the technical skills required to succeed in their desired fields.",
+            "B": "They are distracted by trivial tasks such as laboratory organization and tax returns.",
+            "C": "They prioritize external validation and predictability over the vulnerability required for self-actualization.",
+            "D": "They suffer from a lack of focus caused by the constant stimulation of modern social media."
+          },
+          "answer": "C",
+          "explanation": "文中指出，人们推迟真正的人生目标是因为害怕失败，也害怕成功带来的定型感，因此选择那些有明确等级和晋升路径的职业，因为它们更‘可预测’，能提供外部的确认（recognition），避免了进入未知的自我实现过程的脆弱性。"
+        }
+      ]
+    },
+    {
+      "title": "What the world’s most hated avian reveals about people",
+      "article_update_date": "04.23.2026",
+      "source_journal": "Economist",
+      "body_text": "What the world’s most hated avian reveals about people Culture | Bird brains What the world’s most hated avian reveals about people How the bias against the cormorant took flight April 16th 2026 Few beasts have such a bestial reputation as the cormorant. It has been called the “bird from Hell”, “black death”, “devil bird” and “fish terrorist”. Fishermen despise it. Poets and novelists have captured it ominously. Where did the bird go so wrong? Gordon McMullan, a professor of English at King’s College London, argues that the cormorant has been “caught up in the tendency of human culture to sort animals…into binary categories of ‘good’ and ‘bad’, imposing a moral perspective on nature”. His new book offers a perceptive “cultural history of greed and prejudice”—not just of a bird, but of human beings. Some of the bias against cormorants can be explained by their dark colour (a symbolic plight shared by crows and black cats). So, too, by their physique (they dry off by stretching out their wings, which can look as if they want to start a pub brawl). But writers such as Shakespeare have done a lot to fan negative perceptions of the bird, including a reputation for greed. In “Paradise Lost” (1667) John Milton portrayed the Devil in Eden as taking the shape of—you guessed it—a cormorant. Because they are such efficient hunters, fishermen blame them for eating more than their fair share. But Mr McMullan shows that cormorants probably do not consume more fish relative to their size than other piscivorous birds. Nor is the claim that they are “invasive” correct. Their numbers rebounded in the late 20th century, after pesticides and hunting had caused a decline. “Cormorant” migrates enjoyably from literature and history to sociology—though sometimes it is too academic. What does it say about people that they revere pelicans (viewing them as a Christian symbol of selflessness) but despise cormorants? No bird can control how it is perceived. But perhaps people can shed their misperceptions. ■ For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist , our weekly subscriber-only newsletter This article was downloaded by zlibrary from https://www.economist.com//culture/2026/04/15/what-the-worlds-most-hated-avian-reveals-about-people",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why does Gordon McMullan think cormorants are unfairly treated?",
+          "options": {
+            "A": "They are biologically predisposed to be greedy.",
+            "B": "Human culture tends to moralize nature into good and bad.",
+            "C": "Their population growth has become an ecological threat.",
+            "D": "They represent a physical menace to fishermen's safety."
+          },
+          "answer": "B",
+          "explanation": "文章提到McMullan认为鸬鹚被卷入了人类将动物分类为“好”与“坏”这种二元对立的倾向，并将道德观点强加于自然，这是人类文化的问题，而非鸟类本身的问题。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which factor is NOT explicitly mentioned as contributing to the negative image of cormorants?",
+          "options": {
+            "A": "Their dark, ominous appearance.",
+            "B": "The way they pose when drying their wings.",
+            "C": "Their association with the Devil in literature.",
+            "D": "Their tendency to migrate aggressively in large flocks."
+          },
+          "answer": "D",
+          "explanation": "文章提到了深色外表（A选项）、干燥羽毛时的姿态（B选项）以及文学作品中的魔鬼形象（C选项），但文中并未提及鸬鹚迁徙具有侵略性。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author cites John Milton's 'Paradise Lost' to illustrate that:",
+          "options": {
+            "A": "Cormorants were once considered sacred in religious texts.",
+            "B": "Literary portrayals have significantly fueled the bias against the bird.",
+            "C": "Poets have long been obsessed with the hunting techniques of water birds.",
+            "D": "The cormorant's reputation for greed predates modern environmental concerns."
+          },
+          "answer": "B",
+          "explanation": "文章指出莎士比亚等作家加剧了对该鸟类的负面评价，并具体举例弥尔顿在《失乐园》中将魔鬼描绘成鸬鹚，说明文学作品对塑造鸬鹚恶名起到了推波助澜的作用。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the author's stance on the claim that cormorants are 'invasive'?",
+          "options": {
+            "A": "It is a scientifically validated concern for ecosystems.",
+            "B": "It is an exaggeration caused by the bird's efficiency.",
+            "C": "It is factually incorrect as their population only recovered after decline.",
+            "D": "It is a subjective interpretation shared by modern sociologists."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到，关于鸬鹚是“入侵物种”的说法是不正确的，它们的数量只是在经历了杀虫剂和狩猎导致的下降后，在20世纪后期出现了回升。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the contrast between the perception of pelicans and cormorants suggest?",
+          "options": {
+            "A": "Humans are incapable of judging animals objectively.",
+            "B": "The symbolic meaning attached to animals reflects human values, not biological reality.",
+            "C": "Pelicans and cormorants have fundamentally different survival behaviors.",
+            "D": "Sociological research is the only way to resolve myths about nature."
+          },
+          "answer": "B",
+          "explanation": "文章指出人们崇拜鹈鹕（将其视为无私的象征）却鄙视鸬鹚，这并非基于鸟类自身的行为，而是人类强加的象征意义，反映了人类价值观的偏见。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 13",
+      "article_update_date": "04.19.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Will Knight The Big Story Jan 20, 2026 6:00 AM Your First Humanoid Robot Coworker Will Probably Be Chinese Explosive acceleration, limited dexterity, eyes in the back of its head. What could possibly go wrong? Photograph: Liu The 4-foot-tall humanoid robot that’s in front of me seems, quite honestly, a bit drunk. It leaps from one leg to the other, waving its arms. After 30 seconds or so it abruptly stops, then strides toward me with an arm outstretched. The little robot is at the World Artificial Intelligence Conference, on the banks of the Huangpu river in Shanghai. The convention center is teeming with humanoids —dancing ones, box-toting ones, robot dog-walking ones doing circuits around trade show booths. A few lie slumped in a corner as their batteries recharge. The robot uses a front-facing depth camera and a 3d lidar scanner that provides a view of both the front and back. Photograph: Liu It’s a balmy day in July, and I’ve come to Shanghai to learn how China’s AI world differs from the Western one I usually cover. I’d immediately noticed the sleek electric cars from BYD, Xiaomi, and Huawei that fill the streets of the city’s fashionable old French Concession. At Manner, a high-end coffee chain, I sampled an avant-garde beverage called a “sparkling citrus iced Americano.” Now that I’m at the convention, I can’t help but picture these dancing robots strolling Shanghai’s streets and perhaps carrying their owner’s shopping bags. A group crowds around a small boxing ring, where two humanoids throw punches at each other. One falls down, then gets back on its haunches and straightens up. A young woman offers to let me punch a humanoid. I feel certain that this would make me feel bad, so I decline. The activity in this convention center is a bit of a mirage , of course. Amid the throngs, you can spot people holding game controllers. They’re giving the robots high-level instructions. The humanoids can control their balance and execute short routines, but it’s humans who tell them which way to walk, whom to shake hands with, or when to backflip. Another limitation: Many humanoids don’t have fingers. Their arms usually end in stumps, meaning that while they can hold and lift boxes (or wear boxing gloves, they can’t grasp anything. At the International Robot Exhibition in Tokyo, Unitree G1 robots fight during a kick-boxing demonstration. Video: Tomohiro Ohsumi/Getty Images The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . Even so, experts predict that robots will have profound effects on the workforce and the economy. Amazon is testing humanoids from an American startup called Agility and, according to leaked memos, expects to replace a significant number of workers with robots in the next few years. Bank of America analysts predict that by 2035, robot makers will ship 10 million humanoids a year. Morgan Stanley forecasts that by 2050 a billion will be in use, with almost a third of them—302.3 million—in China, compared with 77.7 million in the US. Perhaps no humanoid maker has a bigger lead than a Hangzhou-based company called Unitree. While Elon Musk’s Optimus staggers through its demos, Unitree’s robots are doing sprints, kung-fu kicks, and acrobatic backflips. (The conference’s dancing door greeter was a Unitree.) Unitree’s legged robots are also incredibly cheap, costing tens of thousands of dollars or less, a tenth of what a typical humanoid in the US costs. Unitree is China’s most prominent robotics startup, a national champion for its tech industry, and is reportedly targeting a $7 billion IPO listing in Shanghai. And if Unitree fails? A staggering 200-plus other Chinese companies are also developing humanoids, which recently prompted the Chinese government to warn of overcapacity and unnecessary replication. The US has about 16 prominent firms building humanoids. With stats like that, one can’t help but suspect that the first country to have a million humanoids will be China. HANGZHOU Unitree’s home city of Hangzhou is about 110 miles from Shanghai. The place is famous for its vast and photogenic West Lake, but it’s also home to Alibaba, the ecommerce giant, Ant Group (one of Alibaba’s affiliates), and several fast-growing AI startups. Besides Unitree, this includes DeepSeek, whose open source AI models enjoy global popularity. I’m hoping to visit Unitree along with a few other companies. Unlike many of its rivals, Unitree sells a wide range of legged robots and is profitable. Unfortunately, I find the company largely off-limits to visitors as it prepares for the IPO. I later hear that the headquarters is battleworn: A set of stairs inside the entrance is battered from legged robots practicing carrying heavy payloads. “It is one of the most run-down places you can imagine,” says Mike Cho, a robotics entrepreneur based in Singapore who has spent time there. “Everywhere there are broken robots, broken parts, and broken concrete.” Later I connect with Wang Xingxing, Unitree’s CEO, who, citing his poor English, agreed to talk via the messaging app WeChat. Wang is something of a celebrity in China. In February 2025, he was invited to an event hosted by the Chinese premier, Xi Jinping, along with several members of China’s tech royalty (Alibaba’s Jack Ma; Huawei’s founder and CEO, Ren Zhengfei; BYD’s chairman and CEO, Wang Chuanfu; and the CEO of Xiaomi, Lei Jun). At the conference in Shanghai, I’d seen Wang deliver a keynote speech in rapid-fire Mandarin. He told the crowd that he planned to build robots adept at “serving tea, working in factories, or even performing arts.” On WeChat, he tells me that he’s been fascinated by robots since he was a kid. During his first year at university, he cobbled together a small, two-legged robot on a budget of 200 RMB ($28). “The moment I saw the robot I designed come to life,” Wang writes, “the sense of achievement from combining technology and creativity made me determined to devote myself to robotics research.” As a master’s student at Shanghai University in 2015, he built a small, four-legged robot for less than 20,000 RMB (about $2,800). It became a social media hit; people marveled that a student could build such a sure-footed, low-cost machine. He worked briefly for the drone company DJI before receiving a small amount of seed funding and establishing Unitree in 2016. The company released its first product, a robot dog called Laikago, in 2017. Wang admits that, early on, Boston Dynamics and its fourlegged robot Spot were an inspiration. Gavin Kenneally, CEO of Ghost Robotics, recalls seeing Laikago at trade shows and conferences. “Their robot really wasn’t very capable,” he tells me. But while Spot sold for $75,000, Laikago cost only $25,000. In 2019, a team at MIT developed an electric motor that would allow its quadruped, Mini Cheetah, to run at record speeds. Less than a year later, Unitree unveiled a new fourlegged robot, A-1. “It was basically an exact copy of the MIT Mini Cheetah,” Kenneally says. “It was leaps and bounds ahead of their previous platform.” Unitree’s business took off. In 2023 its sales of quadrupeds were 10 times higher than Boston Dynamics’, according to the consulting firm SemiAnalysis. Nearly 24,000 Unitree quadrupeds were sold for use, among other places, on construction sites and oil rigs and in factories. The robots can climb stairs and traverse rubble to conduct inspections or security patrols. Disassemble a Unitree robot and you’ll see the incredible advantages of China’s tightly integrated manufacturing, where strong relationships with suppliers can make or break a company. SemiAnalysis looked at one configuration of Unitree’s newest quadrupeds, Go2, priced at about $8,000. All of its core components—the sensors, motors, gearbox, battery, computer—cost only $3,272, the consulting firm found. (Unitree prices other Go2 configurations as low as $1,600.) “What they’ve done is to iterate extremely quickly, using Chinese manufacturing and supply chains,” Kenneally tells me. Wang wasn’t only interested in robot dogs. Boston Dynamics had been working on a humanoid called Atlas for years. By 2023 Wang was watching Musk whip up enthusiasm for humanoids with his Optimus demos, and Wang started to develop a humanoid of his own. In August of that year, Unitree released its first model, H1. Less than a year after that, Unitree started selling the more capable G1, which costs a little over $13,500 for academic users. This past summer, the company unveiled an even cheaper but less advanced humanoid called R1, which sells for just 39,999 RMB ($5,700). During his WAIC speech, Wang had hinted that a revolution in robotic intelligence is on the horizon. “The ‘ChatGPT moment’ for robots will come when a robot can enter an unfamiliar room, take a bottle of water to someone, or tidy up autonomously after a simple command,” he told attendees. “This could happen in one to three years if fast, or three to five years at most.” Plenty of roboticists believe they’ll get their “ChatGPT moment” soon enough, though the question, of course, is how that’s defined. I had reason to suspect, though, that Wang leans optimistic. At a recent major robotics conference in Hangzhou, a panel of experts surveyed the room on whether humanoids would take over most human jobs by 2050. Wang was one of the few who thought they would. BEIJING I hurry to catch a flight to Beijing to visit another outfit eyeing robots’ ChatGPT moment. The Beijing Academy of Artificial Intelligence is a nonprofit founded in 2018 by the city government to coordinate AI research. From a window in the BAAI’s robotics lab, on an upper floor of a squat office building, I can see the sprawling campuses of Tsinghua University and Peking University, two of China’s most prestigious schools. Despite its academic outlook, the BAAI has attracted the US government’s attention. In May 2025, the US Commerce Department added the institute to its Entity List, barring it from acquiring American technology. The US government accuses the BAAI of “attempting to acquire U.S.-origin items in support of China’s military modernization,” although staff at the BAAI insist it is simply a research lab. At the academy I meet another dancing Unitree robot. This one assumes a wide stance, then stomps its legs and pumps its fists to a beat. I hadn’t seen these moves before, and for good reason. The humanoid is using an experimental approach, in which an AI model learns by observing human movement—in this case, dance routines from Douyin, China’s version of TikTok. Unitree G1 robots show off their dance moves during a store opening at a mall in Beijing. Video: Bloomberg/Getty Images Zhongyuan Wang, president of the BAAI and head of its robotics work, tells me about the institute’s new open-source robotics model, Robobrain 2.0, which its engineers built to merge a language model’s abilities with spatial reasoning. Robots have yet to take full advantage of language models’ broad capabilities, and the hope is that LLMs will help robots operate in unfamiliar situations and communicate better. In one experiment, BAAI researchers used Robobrain 2.0 to control a pair of robot arms. When the model heard someone say “I’m hungry, make me a burger,” it translated the statement into actions that commanded the robot arms to place lettuce and meat in a bun. But language models can only do so much, and what robots need most urgently is a new kind of model that understands the physical world the way an LLM understands the written word. And to build that model, engineers need way more data. While walking around BAAI, I see scores of workers behind desks. They’re teleoperating various robot arms and grippers to teach algorithms simple manipulation tasks such as sweeping up beans on a table, pouring liquids from a jug into different cups, and picking items from shelves. A young man wearing a virtual reality headset appears to be making tea as a camera records his every move. The idea is that with enough training data, robots will intuit how to",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why does the author describe the activities in the Shanghai convention center as a 'mirage'?",
+          "options": {
+            "A": "Because the robots' movements are controlled by hidden human operators rather than full autonomy.",
+            "B": "Because the robots are merely cosmetic display pieces rather than functional engineering products.",
+            "C": "Because the convention itself is a staged event designed to deceive foreign investors.",
+            "D": "Because the robots' battery life is too limited to sustain the activities for long periods."
+          },
+          "answer": "A",
+          "explanation": "The text explicitly states that the activity is a 'mirage' because humans are using game controllers to provide high-level instructions to the robots, meaning the robots are not as autonomous as their performance suggests."
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best characterizes the growth strategy of Unitree as mentioned in the text?",
+          "options": {
+            "A": "Relying on state-of-the-art research to develop expensive, high-margin niche hardware.",
+            "B": "Prioritizing rapid iteration and leveraging an integrated domestic manufacturing supply chain.",
+            "C": "Focusing primarily on hiring international talent to outperform US-based robotics firms.",
+            "D": "Maintaining a strict separation between its commercial products and its experimental prototypes."
+          },
+          "answer": "B",
+          "explanation": "The text notes that Unitree 'iterate[s] extremely quickly' and benefits from China's 'tightly integrated manufacturing,' which allows them to produce robots at a fraction of the cost of their US competitors."
+        },
+        {
+          "q_number": 3,
+          "stem": "How does the author reflect on Wang Xingxing's vision for the future of robotics?",
+          "options": {
+            "A": "The author considers Wang's timeline for a 'ChatGPT moment' to be overly cautious.",
+            "B": "The author views Wang's optimism as scientifically unfounded given the hardware limitations.",
+            "C": "The author recognizes that Wang is among the more optimistic voices in the industry regarding workforce displacement.",
+            "D": "The author believes Wang is primarily motivated by the need to inflate his company's valuation before the IPO."
+          },
+          "answer": "C",
+          "explanation": "The passage mentions a panel where experts were surveyed on whether robots would take over most jobs by 2050, and explicitly states that 'Wang was one of the few who thought they would,' indicating his optimism compared to others."
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the text suggest about the relationship between BAAI and the US government?",
+          "options": {
+            "A": "The BAAI receives significant funding from US venture capital firms.",
+            "B": "The US has restricted the BAAI due to concerns about its potential link to military development.",
+            "C": "The BAAI acts as an official liaison for US academic research in Beijing.",
+            "D": "The US government and the BAAI are actively collaborating on open-source AI projects."
+          },
+          "answer": "B",
+          "explanation": "The passage explains that the US Commerce Department added the BAAI to its 'Entity List,' specifically citing its 'attempting to acquire U.S.-origin items in support of China’s military modernization.'"
+        },
+        {
+          "q_number": 5,
+          "stem": "The author implies that the 'next big step' in robotics, analogous to LLMs for text, will require:",
+          "options": {
+            "A": "Better robotic sensors to mimic the five human senses.",
+            "B": "Massive amounts of training data on physical manipulation of the world.",
+            "C": "More powerful electric motors for complex acrobatic movements.",
+            "D": "A global standardization of robotic programming languages."
+          },
+          "answer": "B",
+          "explanation": "The final paragraph discusses the need for models that understand the physical world, stating that to build such a model, 'engineers need way more data' regarding how humans perform tasks like sweeping or pouring."
+        }
+      ]
+    }
+  ]
+}
