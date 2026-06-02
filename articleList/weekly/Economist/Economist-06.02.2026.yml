@@ -99,7 +99,7 @@ articles:
   is_used: false
   title: America and Iran are getting close to a deal. Or not
 - id: epub_53
-  is_used: true
+  is_used: false
   title: The Gulf war makes devastating oil spills more likely
 - id: epub_54
   is_used: false
@@ -206,8 +206,8 @@ articles:
 - id: epub_209
   is_used: false
   title: Chapter 209
-capture_date: 05.29.2026
+capture_date: 06.02.2026
 journal_name: Economist
-publish_date: 05.29.2026
+publish_date: 06.02.2026
 source_type: github
 update_frequency: weekly
