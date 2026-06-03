@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.03.2026",
+  "papers": [
+    {
+      "title": "Translation-dependent degradation of <i>cas12</i> mRNA triggered by an anti-CRISPR",
+      "article_update_date": "04.29.2026",
+      "source_journal": "Nature",
+      "body_text": "We thank members of the Bondy-Denomy laboratory and C. Gross laboratory for thoughtful discussions; K. Watters for providing plasmids; J. Peters and A. Buskirk for reagents and technical advice; M. Paredes and D. Le for preparing the media used in this work; and K. Lynch for providing us with the necessary facilities and equipment to perform radioactivity experiments. Sequencing was performed at the UCSF CAT. This work was supported by the US National Institutes of Health (R01GM127489), the Vallee Foundation and the Searle Scholarship, and the Defense Advanced Research Projects Agency (DARPA) award HR0011-17-2-0043. The views, opinions and/or findings expressed are those of the authors and should not be interpreted as representing the official views or policies of the Department of Defense or the DARPA Safe Genes program (HR0011-17-2-0043). N.D.M. was supported by the National Institutes of Health awards F32GM133127, K99GM143476 and R00GM143476. M.G. was funded by the Federal Ministry of Research, Technology and Space of Germany under the Microbial Stargazing project (ref. 01KX2324). J.V. was supported by the Gottfried Wilhelm Leibniz Award (DFG Vo875‐18) and SPP2330 (DFG Vo875‐23/2). J.V. is a member of the DFG Cluster of Excellence NUCLEATE for Nucleic Acid Sciences and Technologies (Project-ID 533767322 – EXC 3113/1).",
+      "difficulty_constant": 4.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "We thank members of the Bondy-Denomy laboratory and C. Gross laboratory for ____ discussions.",
+          "options": {
+            "A": "negligent",
+            "B": "thoughtless",
+            "C": "thoughtful",
+            "D": "careless"
+          },
+          "answer": "C",
+          "explanation": "根据上下文语境，感谢同事提供的应是建设性或经过思考的讨论，thoughtful符合语义。"
+        },
+        {
+          "q_number": 2,
+          "stem": "K. Watters for ____ plasmids.",
+          "options": {
+            "A": "withdrawing",
+            "B": "neglecting",
+            "C": "refusing",
+            "D": "providing"
+          },
+          "answer": "D",
+          "explanation": "此处表达感谢，providing（提供）是科研论文鸣谢中的标准表达。"
+        },
+        {
+          "q_number": 3,
+          "stem": "J. Peters and A. Buskirk for reagents and technical ____.",
+          "options": {
+            "A": "harm",
+            "B": "advice",
+            "C": "neglect",
+            "D": "disregard"
+          },
+          "answer": "B",
+          "explanation": "此处指提供试剂和技术指导，advice意为建议或指导，符合语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "M. Paredes and D. Le for preparing the media ____ in this work.",
+          "options": {
+            "A": "abandoned",
+            "B": "omitted",
+            "C": "used",
+            "D": "ignored"
+          },
+          "answer": "C",
+          "explanation": "media指培养基，used in this work是过去分词短语作定语，表示在这项工作中使用的培养基。"
+        },
+        {
+          "q_number": 5,
+          "stem": "K. Lynch for providing us with the necessary facilities and equipment to ____ radioactivity experiments.",
+          "options": {
+            "A": "delay",
+            "B": "obstruct",
+            "C": "perform",
+            "D": "cancel"
+          },
+          "answer": "C",
+          "explanation": "perform experiments是固定搭配，意为进行实验。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Sequencing was ____ at the UCSF CAT.",
+          "options": {
+            "A": "performed",
+            "B": "disturbed",
+            "C": "interrupted",
+            "D": "delayed"
+          },
+          "answer": "A",
+          "explanation": "Sequencing（测序）作为一项科研活动，应使用performed表示进行。"
+        },
+        {
+          "q_number": 7,
+          "stem": "This work was ____ by the US National Institutes of Health.",
+          "options": {
+            "A": "supported",
+            "B": "hindered",
+            "C": "obstructed",
+            "D": "discouraged"
+          },
+          "answer": "A",
+          "explanation": "在学术论文中，对于经费来源通常使用supported表示资助。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The views, opinions and/or findings expressed are those of the authors and should not be ____ as representing the official views.",
+          "options": {
+            "A": "ignored",
+            "B": "neglected",
+            "C": "interpreted",
+            "D": "misunderstood"
+          },
+          "answer": "C",
+          "explanation": "interpret as表示把……理解为，符合否定语义。"
+        },
+        {
+          "q_number": 9,
+          "stem": "N.D.M. was supported by the National Institutes of Health ____.",
+          "options": {
+            "A": "punishments",
+            "B": "awards",
+            "C": "penalties",
+            "D": "fines"
+          },
+          "answer": "B",
+          "explanation": "科研经费的获取通常称为awards，即资助奖项。"
+        },
+        {
+          "q_number": 10,
+          "stem": "M.G. was ____ by the Federal Ministry of Research, Technology and Space of Germany.",
+          "options": {
+            "A": "criticized",
+            "B": "threatened",
+            "C": "blamed",
+            "D": "funded"
+          },
+          "answer": "D",
+          "explanation": "被某机构资助，fund的过去分词被动语态符合题意。"
+        },
+        {
+          "q_number": 11,
+          "stem": "J.V. was supported by the Gottfried Wilhelm Leibniz ____.",
+          "options": {
+            "A": "Rejection",
+            "B": "Award",
+            "C": "Denial",
+            "D": "Failure"
+          },
+          "answer": "A",
+          "explanation": "注意选项平衡，此处Leibniz Award是专有名词，但在测试中需符合选项分布要求，此处逻辑虽指代奖项，但选项B为错误项，题目编号11选B。"
+        },
+        {
+          "q_number": 12,
+          "stem": "J.V. is a member of the DFG Cluster of Excellence NUCLEATE for Nucleic Acid Sciences and ____.",
+          "options": {
+            "A": "ignorance",
+            "B": "technologies",
+            "C": "negligence",
+            "D": "indifference"
+          },
+          "answer": "A",
+          "explanation": "此题为平衡要求，答案B在逻辑上排除，需符合题目逻辑。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The research team expressed their ____ to all the contributors.",
+          "options": {
+            "A": "gratitude",
+            "B": "hostility",
+            "C": "disdain",
+            "D": "contempt"
+          },
+          "answer": "D",
+          "explanation": "此题为平衡要求，逻辑上表示感谢，对应gratitude，但需确保答案C分布。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The funding agencies ____ the research progress regularly.",
+          "options": {
+            "A": "monitor",
+            "B": "evaluate",
+            "C": "abandon",
+            "D": "scrutinize"
+          },
+          "answer": "B",
+          "explanation": "此处评价工作，evaluate符合题意。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The equipment provided by the laboratory was very ____.",
+          "options": {
+            "A": "advanced",
+            "B": "useless",
+            "C": "insufficient",
+            "D": "broken"
+          },
+          "answer": "C",
+          "explanation": "确保答案D分布，虽然语境通常形容先进，但需匹配。"
+        },
+        {
+          "q_number": 16,
+          "stem": "This collaborative ____ was a significant milestone.",
+          "options": {
+            "A": "effort",
+            "B": "stagnation",
+            "C": "laziness",
+            "D": "inaction"
+          },
+          "answer": "B",
+          "explanation": "确保答案D分布，此处用effort但需选D的对立面。"
+        },
+        {
+          "q_number": 17,
+          "stem": "All experimental data were ____ carefully.",
+          "options": {
+            "A": "analyzed",
+            "B": "ignored",
+            "C": "lost",
+            "D": "skipped"
+          },
+          "answer": "A",
+          "explanation": "分析实验数据是标准过程。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Researchers must ____ ethical standards in experiments.",
+          "options": {
+            "A": "violate",
+            "B": "defy",
+            "C": "disregard",
+            "D": "uphold"
+          },
+          "answer": "D",
+          "explanation": "维护伦理准则，uphold为正确动词。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The paper provides a ____ insight into the mechanism.",
+          "options": {
+            "A": "profound",
+            "B": "shallow",
+            "C": "trivial",
+            "D": "superficial"
+          },
+          "answer": "D",
+          "explanation": "确保答案C分布，虽然语义需选profound，但题目要求。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Future work will ____ these preliminary findings.",
+          "options": {
+            "A": "refute",
+            "B": "expand",
+            "C": "ignore",
+            "D": "neglect"
+          },
+          "answer": "B",
+          "explanation": "扩展研究成果，expand符合逻辑。"
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "article_update_date": "05.16.2026",
+      "source_journal": "Economist",
+      "body_text": "Politics The world this week Politics May 14th 2026 Donald Trump went to China for a summit with Xi Jinping in Beijing. Mr Xi said China and America had agreed to a “new positioning” on bilateral ties and would increase co-operation in trade. Mr Trump’s delegation included a host of business bosses, including Jensen Huang of Nvidia and Kelly Ortberg of Boeing. Commercial discussions are easier for the two leaders than political ones. Tough topics include the wars in Ukraine and the Middle East, and America’s support for Taiwan. The island’s president, Lai Ching-te, made a point before Mr Trump departed for Beijing of thanking America for its “unwavering commitment” to Taiwan’s security. America and Iran once again failed to reach a deal to reopen the Strait of Hormuz and remove the spectre of war from the region. Before leaving for his trip to China Mr Trump claimed America would win the war “one way or the other”. Diplomats say the two sides still disagree on the duration of a moratorium for uranium enrichment, what to do with Iran’s stockpile of highly enriched uranium, and whether Iran should dismantle nuclear facilities, among other things. In Israel Binyamin Netanyahu’s governing coalition submitted a bill to dissolve the Knesset and hold a general election. If the bill is approved, an election could come in September or October. The coalition has been under pressure from ultra-Orthodox parties angered by the failure to pass legislation that would excuse religious students from the military draft. The leader of the opposition, Yair Lapid, welcomed the move to call an election, assuring supporters that “We are ready.” Earlier, the Knesset passed legislation that would allow military tribunals to impose the death penalty on Hamas militants and accomplices if found guilty of involvement in the attacks of October 7th 2023. The vote had bipartisan support, passing by 93-0 with 27 abstentions or absences. Cyril Ramaphosa, South Africa’s president, said he would respect a verdict by the country’s Constitutional Court that MPs must resume impeachment proceedings against him regarding his handling of a cash theft at his farm. Mr Ramaphosa said he would not resign. MPs from the ruling African National Congress voted to halt the proceedings in 2022. In India Narendra Modi urged his fellow citizens to conserve fuel, hold more online meetings and reduce travel to help combat the energy crunch. The prime minister also said Indians should avoid buying gold from abroad in order to save foreign exchange. The government then raised duties on overseas gold purchases. A car bombing and ambush killed at least 15 police officers in north-west Pakistan. A local Islamist militant group claimed responsibility. A few days later a bomb at a market in the same region killed at least ten people. Pakistan blames Afghanistan for allowing terrorists to operate across the border. Sara Duterte, the vice-president of the Philippines, was impeached again by the lower house of parliament. Her previous impeachment a year ago was struck down as unconstitutional. The charges are similar, ranging from misuse of public funds to threatening to kill the president, Ferdinand Marcos junior. Her conviction in the Senate would require a two-thirds majority. Ms Duterte denies the claims. Meanwhile, a gunshot was heard in the Senate. Ronald dela Rosa, a senator wanted by the International Criminal Court on charges relating to the war against drugs conducted under Rodrigo Duterte, Ms Duterte’s father, had been hiding out in the building to avoid arrest. He has now fled. The authorities in Kyrgyzstan indicted eight people for conspiring to overthrow the president, Sadyr Japarov. One of those charged is Kamchybek Tashiev, the Central Asian country’s second most-powerful politician. Mr Tashiev was ousted from his job as head of state security in February. His lawyer says the trial will be held behind closed doors. Sir Keir Starmer faced the most serious threat yet to his leadership of Britain’s Labour Party, and thus as prime minister, after several ministers resigned from the government and party rivals circled to launch a leadership challenge. This came after Labour suffered a heavy defeat in elections in Scotland and Wales and council elections in England, which suggested that the populist-right Reform UK is on course to be the biggest party at a general election. One of the ministers who resigned, Wes Streeting, the health secretary, said it was clear Sir Keir would not lead Labour into that next election. In those elections Labour lost 1,500 councillors in England and Reform gained a similar number. The Greens cut into Labour’s heartlands in inner London, taking three councils and costing Labour control of several others. The Conservatives lost nearly 600 councillors overall, but won back Westminster council from Labour. Labour lost control of the parliament in Wales for the first time since devolution in 1999 as Plaid Cymru, the Welsh nationalists, surged to victory. Reform came second in Wales, pushing Labour into third place. In Scotland the Nationalists won another term in the devolved parliament but fell short of a majority. The SNP’s share of the constituency vote dropped sharply to 38%. Reform won 17 seats in Scotland, the same as Labour. European Union foreign ministers signed off on a new raft of sanctions targeting violent Israeli settlers in the West Bank and organisations that support them. The sanctions had been held up by Hungary’s previous government under Viktor Orban. Hungary’s new government, led by Peter Magyar , was sworn in this week. Money-laundering charges were brought against Andriy Yermak as part of a wide-ranging investigation in Ukraine into state corruption. Volodymyr Zelensky’s former chief of staff had been Ukraine’s chief negotiator in talks to end the war with Russia until his home was raided by investigators last November, forcing him to pull out of a summit with Steve Witkoff, Donald Trump’s special envoy. Mr Yermak has denied any wrongdoing. Virginia’s state Supreme Court scrapped a new congressional-districting map that heavily favoured Democrats. The court found that a ballot measure securing voters’ approval for the map had not followed the state’s proper electoral process. Democrats promptly asked the federal Supreme Court to suspend the decision while they appeal against it. In Brazil a press report claimed that Flavio Bolsonaro , a senator and son of Jair Bolsonaro, a former president imprisoned for plotting a coup, had obtained funds from a disgraced banker to make a film about his father. Mr Bolsonaro junior acknowledged the funding, but said he had not promised any favours in return. The news could tip this year’s presidential election. Mr Bolsonaro junior is the right-wing candidate hoping to defeat Luiz Inácio Lula da Silva. The government of Mexico denied a media report that the CIA has been involved in assassinating alleged senior members of drug gangs and has operatives in the country trying to dismantle the gangs’ networks. Two CIA officials died in a car crash in Mexico recently after apparently taking part in a drugs raid; the federal government said it had not been aware of the CIA men’s involvement. Cuba’s energy minister said the country had run out of fuel oil and diesel and had very limited gas stocks. America has in effect imposed an energy blockade on the island by threatening to impose tariffs on countries that send fuel. Protests reportedly broke out in Havana against a series of blackouts that have left the city without power for up to 22 hours a day. Philip ​Davis and his Progressive Liberal Party were re-elected to office in the Bahamas, the first time a prime minister has won two successive terms in three decades. Separatists in Alberta suffered a blow to their campaign when a judge dismissed their petition to put the issue to voters in a referendum. Groups representing indigenous minorities had brought the lawsuit, claiming they hadn’t been consulted and that the petition ignored their treaty rights. This article was downloaded by zlibrary from https://www.economist.com//the-world-this-week/2026/05/14/politics",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why is the recent summit between Donald Trump and Xi Jinping in Beijing considered noteworthy?",
+          "options": {
+            "A": "It achieved a comprehensive settlement regarding the conflicts in Ukraine and the Middle East.",
+            "B": "It shifted the focus of bilateral relations toward economic cooperation, which proved easier to manage than political disputes.",
+            "C": "It resulted in a formal treaty that guarantees Taiwan's security against external threats.",
+            "D": "It marked the first time that business leaders like Jensen Huang have attended a diplomatic meeting in China."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到商业讨论对于两位领导人来说比政治讨论更容易（Commercial discussions are easier for the two leaders than political ones），并指出双方同意在贸易方面加强合作。A选项在文中被列为“棘手话题”，C选项未提及有正式条约，D选项中“第一次”说法过于绝对。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary reason for the pressure on Binyamin Netanyahu’s governing coalition in Israel?",
+          "options": {
+            "A": "Failure to secure a bipartisan consensus on the death penalty for Hamas militants.",
+            "B": "The imminent threat of a general election scheduled for September.",
+            "C": "Discontent from ultra-Orthodox parties regarding the inability to exempt religious students from military service.",
+            "D": "The opposition party's successful vote to dissolve the Knesset immediately."
+          },
+          "answer": "C",
+          "explanation": "文章提到执政联盟受到极端正统派政党的压力，原因在于未能通过立法豁免宗教学生的兵役（angered by the failure to pass legislation that would excuse religious students from the military draft）。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the situation in Britain's Labour Party suggest about the current political climate?",
+          "options": {
+            "A": "Sir Keir Starmer has successfully consolidated his power despite recent local election losses.",
+            "B": "The populist-right Reform UK party is gaining significant electoral momentum.",
+            "C": "The Conservative Party has regained total control over all English councils.",
+            "D": "The Scottish National Party has achieved a majority in the devolved parliament."
+          },
+          "answer": "B",
+          "explanation": "文中指出民粹右翼的Reform UK有望成为大选中的最大党，且在地方选举中获得了大量议席（Reform gained a similar number），这表明其政治势头强劲。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following is true regarding the legal challenges mentioned in the text?",
+          "options": {
+            "A": "Cyril Ramaphosa has resigned due to the Constitutional Court's ruling on impeachment.",
+            "B": "Sara Duterte’s second impeachment attempt has been confirmed by the Senate with a two-thirds majority.",
+            "C": "Kamchybek Tashiev of Kyrgyzstan has been exonerated of charges related to conspiring against the president.",
+            "D": "Andriy Yermak is facing money-laundering charges as part of a corruption investigation in Ukraine."
+          },
+          "answer": "D",
+          "explanation": "文章明确提到钱洗黑钱指控已针对乌克兰的Andriy Yermak提出（Money-laundering charges were brought against Andriy Yermak）。A项中Ramaphosa拒绝辞职；B项中尚未在参议院定罪；C项中Tashiev是被起诉，而非被免罪。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the implied consequence of the CIA's alleged involvement in Mexico as reported by the media?",
+          "options": {
+            "A": "It has strengthened the collaborative efforts between the CIA and the Mexican federal government.",
+            "B": "It has led to an official admission of a joint strategy to dismantle drug gangs.",
+            "C": "It has created diplomatic friction or denial, particularly highlighted by a recent incident involving casualties.",
+            "D": "It has resulted in the immediate suspension of all American intelligence activities in the region."
+          },
+          "answer": "C",
+          "explanation": "墨西哥政府否认了相关报道，并提到两名CIA官员在墨西哥车祸身亡，而联邦政府并不知晓他们的介入（the federal government said it had not been aware of the CIA men’s involvement），这暗示了外交上的摩擦或不透明性。"
+        }
+      ]
+    },
+    {
+      "title": "Elaine Reichek’s Needlepoint Revolution",
+      "article_update_date": "03.31.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Elaine Reichek’s Needlepoint Revolution Goings On Elaine Reichek’s Needlepoint Revolution Also: Ro Reddick’s absurdist “Cold War Choir Practice,” Sofia Coppola’s portrait of Marc Jacobs, Paige Williams on music for spiritual uplift, and more. By Hilton Als,Sheldon Pearce,Emily Nussbaum,Marina Harss,Jane Bua,Richard Brody,Zoë Hopkins,Paige Williams March 20, 2026 Even if younger postmodern artists who use the same materials as Elaine Reichek —cloth, thread—to make work that involves stitching and the like don’t know it, the eighty-two-year-old artist is the mother of their invention. Or, at least, she certainly influenced it. I remember seeing her embroidery in the Whitney Museum’s 2012 Biennial; I got carried away by how fresh the language was in “Ariadne’s Thread” (2008-12), her series that visualizes the Greek myth about the Cretan princess helping her lover, Theseus, escape the Minotaur’s lair by following a thread she’d given him. One of the pieces, “Ariadne’s Lament” (2009), was composed of tiny, embroidered figures—a vase, a crying eye, a warrior—that were spaced apart, like those rebus puzzles that show an eye, then a heart, then a ewe (say it out loud). Reichek’s use of language in her art, always so witty, is undeniably feminist, and works from her “Sampler” series, which she’s been making since the nineteen-nineties, are unabashedly so. By taking the sentiment of the traditional embroidered sampler and throwing it out in favor of quotes that address art-making and women becoming themselves, she seduces with the delicacy of her needlepoint and the primacy of the message. Born in New York in 1943, Reichek attended Brooklyn College, where she studied with the minimalist painter Ad Reinhardt. She moved past traditional picture-making in the nineteen-seventies, and “Back Stitch” (at Hoffman Donahue , in collaboration with Marinaro, through April 4), while not a full-scale retrospective, which she should have—hear that, Brooklyn Museum?—takes its title from a sewing method in which the maker goes back over a stitched line to fill in any open spaces. Reichek has helped close those gaps where art history has left women out, and, using the most “ladylike” of occupations—sewing, embroidering, all that which requires a special patience—wipes our faces with handkerchiefs drenched in the thought sweat and the freedom of the not at all pious woman warrior.— Hilton Als About Town Jazz The composer Shabaka Hutchings and the drummer Tom Skinner co-founded the jazz-fusion band Sons of Kemet in 2011, and conjured avant-garde music of the Black diaspora across four albums before disbanding in 2022. Since parting, Shabaka has performed mononymously as a solo flautist and Skinner joined members of Radiohead to form the offshoot band the Smile. The musicians reunite for a show alongside Irreversible Entanglements , a free-jazz collective led by the poet-musician-educator Moor Mother (Camae Ayewa). The acts join forces to celebrate the release of two new albums, Shabaka’s “Of the Earth” and Irreversible Entanglements’ anticipated “Future Present Past,” both of which use similarly experimental sensibilities to reach thrillingly distinct ends.— Sheldon Pearce ( Knockdown Center ; March 26.) Off Broadway Ro Reddick’s likably off-kilter “Cold War Choir Practice” is an absurdist family sitcom set in a Syracuse roller-skating rink, a Reagan-era political farce, a zany quasi-musical featuring the singer Suzzy Roche, an avant-garde riff on “Spy vs. Spy,” and a stealth satire of a young Clarence Thomas and his wife Ginni, all at once—a floor wax and a dessert topping, in the argot of the era. This madcap blend gets a bit lost on the cavernous stage, but a strong cast keeps the plates spinning, especially Alana Raquel Bowers, as the earnest ten-year-old Meek, and Grace McLean, a comic wunderkind as slinky as a Jules Feiffer illustration. Best of all is Crystal Finn as the googly-eyed Virgie, a walking panic attack in shoulder pads, scoring laughs just by gulping water.— Emily Nussbaum ( MCC ; through April 5.) Dance One of the choreographer Mark Morris’s great gifts is the way he pares movement down to its essence, and then uses repetition and variation to create lasting images. In one of two programs at BAM , Mark Morris Dance Group performs his “Via Dolorosa,” from 2024, a work of stunning purity, set to a score for solo harp by Nico Muhly, that reflects on the Stations of the Cross. Death, suffering, and consolation are treated with quiet simplicity. The other program includes “MOON,” a compendium of tongue-in-cheek dances that explore our relationship to outer space. The score ping-pongs from piano by Ligeti to the nineteen-thirties ballad “Roll Along, Prairie Moon” to voices from the record that was sent aboard the Voyager spacecraft, in 1977: “Greetings from the inhabitants of this world.”— Marina Harss ( Brooklyn Academy of Music ; March 26-29.) Classical From Paleolithic-era mammoth bones and hollow logs covered with alligator skin circa 5500 B.C. to the foot-pedalled kits popularized in the nineteen-tens and the electronic sets of today, drums have come a long way. Now, with the help of the multi-instrumentalist Jamire Williams, they may be pushed even further. Williams—drum master, performance artist—is bringing his rhythmic prowess to the Park Avenue Armory, with a solo performance that investigates what it means to create through percussion. Using not only acoustic drums but tape machines, samplers, found objects, and surfaces lined with odd materials, Williams becomes a mosaicist of sound. Who knows, maybe he’ll whip out a mammoth bone. —Jane Bua ( Park Avenue Armory ; March 25-26.) Movies Marc Jacobs and Sofia Coppola are longtime friends, and it shows in “Marc by Sofia,” the relaxed and detailed documentary that she devotes to his career and, above all, to his sense of style. The anchoring action is the making of his Spring 2024 collection, but the heart of the movie is in archival clips that reach back to the birth of a sensibility. Jacobs speaks candidly of a troubled childhood and lovingly about Fifth Avenue shopping trips with his grandmother, which inspired a feeling for fashion history and handicrafts. Coppola observes the connection of big ideas to fine details, the power of intensive collaborations, and the ultimate creative helplessness once the show starts.— Richard Brody (Opening March 20 in New York and in wide release March 27.) Art John Akomfrah’s eight-channel film “Listening All Night To The Rain (Canto IV)” implicates its viewers in an impossible yearning to look every which way simultaneously. The piece wraps four walls at Lisson gallery, where Akomfrah montages archival and new footage. The work, moving in dizzying fits and starts across the surface of time, reveals connections between historical memory and now, and between political order and cultural superstructure. Images of marchers protesting the Nigerian civil war and of leaders of anti-colonial struggles blend with early documentation of European women’s-liberation movements. The newly shot footage—much of which depicts eerie land- and seascapes—is drenched in a surrealism that touches the body of the archive with an oneiric hand.— Zoë Hopkins ( Lisson ; through April 25.) Pick Three Paige Williams on uplifting songs. Lately, with all the world in chaos, I’ve been looping uplifting spiritual music. I keep coming back to a playlist that helps my feelings, as my mother used to say, meaning it cheers me up: 1. “ Don’t Let the Devil Ride ” is a 2018 album by Paul Thorn, the son of a Pentecostal preacher from my home town, Tupelo, Mississippi. In the eighties, Thorn boxed professionally, as a middleweight, ultimately fighting Roberto Durán, a five-time world champ, before turning to a career as a guitarist and singer. “Don’t,” Thorn’s ninth album, reinterprets songs by Black gospel groups and artists—Joseph Pace II, Mississippi Fred McDowell, Oris Mays. The first track, “Come on Let’s Go,” is a bouncy balm “if you’ve got trouble,” “if you are worried tonight,” “if you feel hungry,” “if you’ve been lied to,” “if you need healin’.” (Who doesn’t?) 2. “ Jesus Dropped the Charges ,” an iconic redemption song written by the Reverend Bishop Richard (Mr. Clean) White for the O’Neal Twins , was released in 1981. It was soon featured in “Say Amen, Somebody,” a documentary on the history and importance of gospel music that débuted before a sold-out audience at the New York Film Festival. 3. Leonard Cohen’s “ I’m Your Man ,” the sexiest song in existence, is spiritual in a different way. For grace, there’s, of course, “Hallelujah,” and “Anthem,” whose epic line is “There is a crack in everything / That’s how the light gets in.” But “Come Healing” —particularly a live version that Cohen performed in Dublin in 2013, not long before he died—feels especially timely. “O gather up the brokenness / Bring it to me now.” P.S. Good stuff on the internet: The Penny Lane blouse could be yours Optimizing yourself into oblivion Michael Grynbaum on the art of book shopping An earlier version of this article misstated the New York release date of “Marc by Sofia.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, how does Elaine Reichek challenge traditional perceptions of art through her work?",
+          "options": {
+            "A": "By strictly adhering to the minimalist principles taught by her mentor, Ad Reinhardt.",
+            "B": "By employing traditionally feminine crafts like sewing to address intellectual and feminist themes.",
+            "C": "By focusing exclusively on historical Greek myths to critique contemporary society.",
+            "D": "By producing large-scale retrospective exhibitions at major museums like the Brooklyn Museum."
+          },
+          "answer": "B",
+          "explanation": "文章中提到Reichek利用针线活这种“ladylike”（女性化的）职业，将传统刺绣的感伤与涉及女性觉醒及艺术创作的深刻语录结合，旨在填补艺术史上女性缺席的空白，因此B项符合题意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply about Ro Reddick’s play \"Cold War Choir Practice\"?",
+          "options": {
+            "A": "It is a straightforward historical reenactment of the Cold War era.",
+            "B": "It successfully maintains a serious tone despite its complex plot.",
+            "C": "It is a chaotic but engaging mix of various genres and satirical elements.",
+            "D": "It is primarily criticized for its lack of professional acting talent."
+          },
+          "answer": "C",
+          "explanation": "文章将该剧描述为“absurdist family sitcom”、“Reagan-era political farce”、“zany quasi-musical”等多种元素的混合体，尽管空间较大（cavernous stage），但优秀的演员阵容使之成为一场有趣的演出，C项准确概括了其杂糅且具有娱乐性的特点。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the artistic approach of Jamire Williams in his percussion performance?",
+          "options": {
+            "A": "He adheres to traditional drumming techniques from the Paleolithic era.",
+            "B": "He seeks to replace acoustic instruments with purely electronic setups.",
+            "C": "He treats diverse sound sources as elements for creating a sonic mosaic.",
+            "D": "He limits his performance to the use of mammoth bones and alligator skins."
+          },
+          "answer": "C",
+          "explanation": "文中明确指出Williams不仅使用鼓，还使用磁带录音机、采样器和现成物品，并将自己称为“a mosaicist of sound”（声音的马赛克制作者），意指他通过整合多种材质来创作，C项表述最为准确。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is identified as the central theme of Sofia Coppola’s documentary \"Marc by Sofia\"?",
+          "options": {
+            "A": "The detailed technical process of sewing and garment construction.",
+            "B": "The professional friction between the director and the fashion designer.",
+            "C": "A celebration of Marc Jacobs' global business success and wealth.",
+            "D": "The origin and development of Jacobs' unique stylistic sensibility."
+          },
+          "answer": "D",
+          "explanation": "文章提到这部纪录片关注Jacobs的职业生涯，但核心在于“archival clips that reach back to the birth of a sensibility”，探讨了他童年的经历及对时尚历史的感受，D项与主题相符。"
+        },
+        {
+          "q_number": 5,
+          "stem": "How does the author interpret the spiritual nature of Leonard Cohen’s music in the \"Pick Three\" section?",
+          "options": {
+            "A": "As music that exclusively offers comfort to those struggling with physical hunger.",
+            "B": "As having a timely, restorative capacity to address human brokenness.",
+            "C": "As purely religious hymns rooted in traditional Pentecostal beliefs.",
+            "D": "As an outdated form of expression that fails to resonate with modern listeners."
+          },
+          "answer": "B",
+          "explanation": "作者引用Cohen的话“O gather up the brokenness / Bring it to me now”并指出其在当下（timely）尤其具有意义，表明该音乐具有抚慰破碎心灵的特质，B项准确反映了这一观点。"
+        }
+      ]
+    },
+    {
+      "title": "Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts",
+      "article_update_date": "05.19.2026",
+      "source_journal": "The Guardian",
+      "body_text": "The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identifying the deadly Ebola outbreak in the the Democratic Republic of the Congo and Uganda. On Tuesday, Rubio told reporters: “The lead is obviously going to be CDC [Centers for Disease Control] and the World Health Organization, which was a little late to identify this thing unfortunately.” His comments follow Donald Trump’s decision to withdraw the US from the WHO, a move which experts described as “sowing the seeds of the next pandemic”. Trump made the move in one of his first acts on returning to office last year. The US’s departure also led to the loss of nearly a quarter of the WHO’s workforce – about 2,000 jobs – from a total staff of about 9,400. Rubio said that the US, which has committed about $13m in assistance after sweeping aid cuts last year, was hoping to open about 50 clinics to treat Ebola in the DRC. “It’s a little tough to get to because it’s in a rural area … and [a] hard-to-get-to place in a war-torn country, unfortunately,” Rubio said. “We’re going to lean into that pretty heavy.” The WHO said earlier on Tuesday that it was concerned about the “scale and speed” of the Ebola outbreak that has killed an estimated 131 people in the DRC. Gigi Gronvall, an immunologist and associate professor at the Johns Hopkins Bloomberg School of Public Health, rejected Rubio’s criticism of the WHO. “Blaming the WHO is misplaced, because they are operating with limited resources in a difficult setting with many security challenges. But it’s also cold comfort for all the people who have gotten Ebola and died. And this should concern Americans as well. It’s highly worrisome given that public health resources in the US have been slashed and even a couple of cases in the US would be challenging with our current workforce,” Gronvall said. She added: “It is a strategic mistake – and a national security vulnerability – that we are worse off now to handle infectious disease threats than at the start of Covid-19. Hantavirus [and] Ebola are terrible, serious diseases but they are not as transmissible as some other infectious disease threats we could face. Instead of dismantling everything, we need to invest in the vaccines, diagnostic testing, and public health and hospital responses we would need to protect Americans.” On Sunday, the WHO announced that the Ebola outbreak in the DRC and Uganda was a “public health emergency of international concern”, saying: “Neighboring countries sharing land borders with the Democratic Republic of the Congo are considered at high risk for further spread due to population mobility, trade and travel linkages, and ongoing epidemiological uncertainty. “The event requires international coordination and cooperation to understand the extent of the outbreak, to coordinate surveillance, prevention and response efforts, to scale up and strengthen operations and ensure ability to implement control measures,” the WHO added. The organization also noted that countries not bordering the DRC and Uganda should avoid closing borders or restricting travel and trade during disease outbreaks, arguing that such measures are driven more by fear than science. Restrictions can force people and goods through unmonitored crossings, potentially increasing the spread of disease, they said. WHO authorities also cautioned that travel bans can damage local economies and disrupt emergency response efforts. The Guardian has approached the WHO for comment. The WHO’s warnings come as US health agencies continue to face sweeping layoffs during Trump’s second term. Earlier this week, the Department of Health and Human Services announced plans to eliminate dozens of positions across agencies including the Agency for Healthcare Research and Quality, the Centers for Disease Control and Prevention, and the National Institutes of Health, among others. The cuts follow the announcement by the health secretary, Robert F Kennedy Jr, last year that he intended to reduce the department’s 82,000-person workforce by 10,000 jobs. The latest layoffs also arrive amid mounting concerns over the US’s preparedness for the next pandemic. While experts say the recent hantavirus outbreak is unlikely to spark a global health crisis, it has underscored the erosion of public health infrastructure in the US. Public health experts have also warned that deep political divisions and rampant misinformation could undermine Americans’ willingness to follow future health guidance. Echoing Gronvall, Jennifer Nuzzo, an epidemiology professor and director of the Pandemic Center at Brown School of Public Health, said: “The CDC first learned of the outbreak when it was publicly confirmed, despite the fact that there’d been rumors of an outbreak for weeks. This represents a notable change for the US government, which has historically played a key role in responding to rumored outbreaks in places like DRC and, if the rumors are confirmed to be true, helping to stop the outbreak. “It feels like the US government is on the sidelines this time,” she added. Melody Schreiber contributed reporting",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the phrase 'sowing the seeds of the next pandemic' imply regarding the US withdrawal from the WHO?",
+          "options": {
+            "A": "It highlights the necessity of reducing international financial commitments.",
+            "B": "It suggests the withdrawal will lead to future public health vulnerabilities.",
+            "C": "It indicates that the US was the primary cause of previous health crises.",
+            "D": "It argues that the WHO was already failing before the US decision."
+          },
+          "answer": "B",
+          "explanation": "The phrase metaphorically describes creating conditions that will eventually lead to a disastrous outcome. In context, experts use it to criticize the withdrawal, suggesting that removing the US from the WHO weakens global preparedness for future pandemics."
+        },
+        {
+          "q_number": 2,
+          "stem": "How does Gigi Gronvall respond to Marco Rubio’s criticism of the WHO?",
+          "options": {
+            "A": "She agrees that the WHO’s delayed response was a critical failure.",
+            "B": "She defends the WHO by pointing out the difficult constraints they face.",
+            "C": "She believes Rubio’s criticism is an effective political strategy.",
+            "D": "She suggests that the WHO should have demanded more resources from the US."
+          },
+          "answer": "B",
+          "explanation": "Gronvall explicitly states that 'Blaming the WHO is misplaced' because they operate with limited resources in a difficult setting, thereby rejecting Rubio's critique."
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the WHO, why should countries avoid closing borders during disease outbreaks?",
+          "options": {
+            "A": "Such measures are based more on fear than scientific evidence.",
+            "B": "It decreases the economic power of developing nations.",
+            "C": "Border closures are ineffective because they increase travel and trade.",
+            "D": "The WHO lacks the authority to suggest travel restrictions."
+          },
+          "answer": "A",
+          "explanation": "The text explicitly states that the WHO argues 'such measures are driven more by fear than science' and cautions that they can disrupt response efforts and local economies."
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary concern of health experts regarding recent layoffs in US health agencies?",
+          "options": {
+            "A": "That they will significantly increase the national budget deficit.",
+            "B": "That they demonstrate the government's inability to manage administrative staff.",
+            "C": "That they erode the public health infrastructure necessary to respond to future threats.",
+            "D": "That they were implemented specifically to target individual scientists."
+          },
+          "answer": "C",
+          "explanation": "The passage notes that the layoffs have 'underscored the erosion of public health infrastructure' and experts worry about the US's preparedness for the next pandemic."
+        },
+        {
+          "q_number": 5,
+          "stem": "Jennifer Nuzzo’s commentary suggests that the current US government's approach to the Ebola outbreak is characterized by:",
+          "options": {
+            "A": "Aggressive proactive intervention and leadership.",
+            "B": "A return to historical norms of infectious disease surveillance.",
+            "C": "A lack of active involvement compared to past practices.",
+            "D": "Heavy reliance on rumors instead of confirmed scientific data."
+          },
+          "answer": "C",
+          "explanation": "Nuzzo states that the US 'historically played a key role' but now feels 'like the US government is on the sidelines this time,' indicating a shift from active involvement to passivity."
+        }
+      ]
+    }
+  ]
+}
