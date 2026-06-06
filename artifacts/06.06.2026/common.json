@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.06.2026",
+  "papers": [
+    {
+      "title": "Peter Magyar takes office pledging to clean up Hungary’s mess",
+      "article_update_date": "05.20.2026",
+      "source_journal": "Economist",
+      "body_text": "Peter Magyar takes office pledging to clean up Hungary’s mess Europe | Big promises Peter Magyar takes office pledging to clean up Hungary’s mess EU funds blocked because of corruption under Viktor Orban are his priority May 14th 2026 MAY 9th WAS a day of symbolism in Budapest. In the morning Peter Magyar was sworn in as prime minister in Hungary’s majestic neo-gothic parliament. For his inauguration he had picked “Europe Day”, which the European Union celebrates as its notional anniversary, to mark Hungary’s renewed commitment to the bloc. Members of parliament sang along to four anthems: the Hungarian one; the Szekely anthem of the Hungarian minority in Romania; “Ode to Joy”, the anthem of the EU; and the unofficial anthem of the Roma, performed by children in white shirts and bow ties. In the afternoon tens of thousands gathered for a “Regime Change” party on Kossuth Square. Mr Magyar thanked the crowd for delivering a Hungary “that is democratic once again”, and promised a “system change” after 16 years of Viktor Orban’s illiberal rule. It is a hugely ambitious project. Mr Magyar must re-establish the rule of law, hold Mr Orban and his corrupt cronies accountable for their deeds and, perhaps most important, repair Hungary’s relationship with the EU. Rebuilding ties with Brussels is particularly urgent. Because of Mr Orban’s violations of the rule of law, the EU has blocked the disbursal of funds amounting to around €18bn ($21bn), nearly 10% of Hungary’s GDP. The biggest pot of aid is from the union’s post-covid recovery plan, which will expire at the end of August. “Magyar is prioritising the two conditions for the receipt of those funds, putting in place an anti-corruption programme and a plan to restore judicial independence,” says Kim Lane Scheppele, an expert on Hungarian law at Princeton University. Mr Magyar made a start by announcing that Hungary will create a programme to recover misappropriated assets, and will join the European Public Prosecutor’s Office, which prosecutes crimes involving the EU’s budget. Judicial independence can be achieved by simply enforcing the laws that Mr Orban refused to, says Ms Lane Scheppele. For example, the Supreme Court must allocate cases randomly; under Mr Orban, cases involving the government were assigned to friendly judges. Mr Orban liked to concentrate power in a few big ministries. Mr Magyar’s cabinet, by contrast, has grown to 16 ministers, mainly experienced outsiders who have not served in government. Anita Orban (no relation of Viktor), a diplomat and energy expert, is the foreign minister. The economy minister is Istvan Kapitany, a former executive at Shell. Romulusz Ruszin-Szendi, the armed forces’ chief of staff until Mr Orban ousted him for his pro-Western views, takes over as defence minister. Perhaps the most popular choice is Zsolt Hegedus, the health minister, whose dance moves amused crowds on election day and at the inauguration party. But Mr Magyar made his first big misstep by announcing he would nominate Marton Mellethei-Barna, his brother-in-law, as justice minister. He may have felt he needed a loyal lieutenant in the post. The move drew accusations of nepotism, and Mr Mellethei-Barna withdrew his candidacy. After Mr Orban’s cronyistic rule, Hungarians have had enough of family connections. ■ To stay on top of the biggest European stories, sign up to Café Europa , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//europe/2026/05/14/peter-magyar-takes-office-pledging-to-clean-up-hungarys-mess",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Peter Magyar takes office ________ to clean up Hungary's mess.",
+          "options": {
+            "A": "refusing",
+            "B": "failing",
+            "C": "pledging",
+            "D": "hesitating"
+          },
+          "answer": "C",
+          "explanation": "根据上下文，Peter Magyar承诺清理匈牙利的混乱局面，pledging意为“承诺”，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "EU funds blocked because of corruption under Viktor Orban are his ________.",
+          "options": {
+            "A": "side-issue",
+            "B": "burden",
+            "C": "priority",
+            "D": "hindrance"
+          },
+          "answer": "C",
+          "explanation": "文章提到恢复欧盟资金是新任总理的当务之急，priority意为“优先事项”，符合语境。"
+        },
+        {
+          "q_number": 3,
+          "stem": "May 9th was a day of ________ in Budapest.",
+          "options": {
+            "A": "confusion",
+            "B": "indifference",
+            "C": "symbolism",
+            "D": "agitation"
+          },
+          "answer": "C",
+          "explanation": "文中提到这一天在布达佩斯具有重要的政治意义，symbolism意为“象征意义”，符合语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "For his inauguration he had ________ “Europe Day” to mark Hungary’s renewed commitment to the bloc.",
+          "options": {
+            "A": "picked",
+            "B": "avoided",
+            "C": "forgotten",
+            "D": "questioned"
+          },
+          "answer": "A",
+          "explanation": "inauguration意为就职典礼，picked意为“挑选”，指选择这一天作为就职日。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Mr Magyar promised a “system change” after 16 years of Viktor Orban’s ________ rule.",
+          "options": {
+            "A": "liberal",
+            "B": "stable",
+            "C": "illiberal",
+            "D": "democratic"
+          },
+          "answer": "C",
+          "explanation": "根据上下文对比，新的民主变革针对的是此前不民主的统治，illiberal意为“非自由主义的”。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Mr Magyar must re-establish the rule of law and hold Mr Orban’s corrupt ________ accountable.",
+          "options": {
+            "A": "mentors",
+            "B": "cronies",
+            "C": "predecessors",
+            "D": "bystanders"
+          },
+          "answer": "B",
+          "explanation": "cronies意为“亲信/同伙”，与腐败语境搭配。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Rebuilding ties with Brussels is particularly ________.",
+          "options": {
+            "A": "urgent",
+            "B": "trivial",
+            "C": "voluntary",
+            "D": "distant"
+          },
+          "answer": "A",
+          "explanation": "由于资金被冻结，修复关系是非常紧迫的，urgent意为“紧急的”。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Because of Mr Orban’s ________ of the rule of law, the EU has blocked the funds.",
+          "options": {
+            "A": "evaluations",
+            "B": "adherence",
+            "C": "celebrations",
+            "D": "violations"
+          },
+          "answer": "D",
+          "explanation": "因为违反法治，欧盟才封锁资金，violations意为“违反”。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The biggest pot of aid will ________ at the end of August.",
+          "options": {
+            "A": "commence",
+            "B": "expire",
+            "C": "expand",
+            "D": "succeed"
+          },
+          "answer": "B",
+          "explanation": "指援助计划在八月底到期，expire意为“期满/过期”。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Magyar is ________ the two conditions for the receipt of those funds.",
+          "options": {
+            "A": "postponing",
+            "B": "ignoring",
+            "C": "challenging",
+            "D": "prioritising"
+          },
+          "answer": "D",
+          "explanation": "Magyar正把获得资金的条件放在优先位置，prioritising意为“优先考虑”。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Mr Magyar made a start by announcing a programme to recover ________ assets.",
+          "options": {
+            "A": "invested",
+            "B": "misappropriated",
+            "C": "donated",
+            "D": "inherited"
+          },
+          "answer": "B",
+          "explanation": "针对腐败，主要是追回被挪用的资产，misappropriated意为“被挪用的”。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Judicial independence can be achieved by simply ________ the laws that Mr Orban refused to.",
+          "options": {
+            "A": "ignoring",
+            "B": "revising",
+            "C": "abolishing",
+            "D": "enforcing"
+          },
+          "answer": "D",
+          "explanation": "实现司法独立在于执行法律，enforcing意为“执行”。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Under Mr Orban, cases were assigned to ________ judges.",
+          "options": {
+            "A": "friendly",
+            "B": "neutral",
+            "C": "hostile",
+            "D": "independent"
+          },
+          "answer": "A",
+          "explanation": "奥尔班时期案件分配给倾向政府的法官，friendly意为“友好的/亲信的”。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Mr Orban liked to ________ power in a few big ministries.",
+          "options": {
+            "A": "concentrate",
+            "B": "decentralize",
+            "C": "distribute",
+            "D": "abandon"
+          },
+          "answer": "A",
+          "explanation": "奥尔班倾向于集权，concentrate意为“集中”。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The cabinet has grown, mainly ________ outsiders who have not served in government.",
+          "options": {
+            "A": "hostile",
+            "B": "incompetent",
+            "C": "experienced",
+            "D": "unreliable"
+          },
+          "answer": "C",
+          "explanation": "虽然是圈外人，但主要是经验丰富的人，experienced意为“有经验的”。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The armed forces’ chief of staff was ________ for his pro-Western views.",
+          "options": {
+            "A": "ousted",
+            "B": "promoted",
+            "C": "appointed",
+            "D": "rewarded"
+          },
+          "answer": "A",
+          "explanation": "因为亲西方观点被解雇，ousted意为“驱逐/罢免”。"
+        },
+        {
+          "q_number": 17,
+          "stem": "But Mr Magyar made his first big ________ by nominating his brother-in-law.",
+          "options": {
+            "A": "achievement",
+            "B": "misstep",
+            "C": "advance",
+            "D": "triumph"
+          },
+          "answer": "B",
+          "explanation": "提名亲戚引发了争议，这被视为一个错误，misstep意为“失误”。"
+        },
+        {
+          "q_number": 18,
+          "stem": "He may have felt he needed a ________ lieutenant in the post.",
+          "options": {
+            "A": "rebellious",
+            "B": "loyal",
+            "C": "distant",
+            "D": "critical"
+          },
+          "answer": "B",
+          "explanation": "他觉得需要一个忠诚的下属，loyal意为“忠诚的”。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The move drew accusations of ________.",
+          "options": {
+            "A": "heroism",
+            "B": "patriotism",
+            "C": "socialism",
+            "D": "nepotism"
+          },
+          "answer": "D",
+          "explanation": "提名亲戚引发了裙带关系的指责，nepotism意为“裙带关系”。"
+        },
+        {
+          "q_number": 20,
+          "stem": "After Mr Orban’s cronyistic rule, Hungarians have had ________ of family connections.",
+          "options": {
+            "A": "hope",
+            "B": "plenty",
+            "C": "pride",
+            "D": "enough"
+          },
+          "answer": "D",
+          "explanation": "民众受够了裙带关系，have had enough of意为“受够了”。"
+        }
+      ]
+    },
+    {
+      "title": "Singing the Knicks’ Praises, with a Dash of Metal",
+      "article_update_date": "05.30.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Singing the Knicks’ Praises, with a Dash of Metal Fandom Dept. Singing the Knicks’ Praises, with a Dash of Metal Doug Berns, a.k.a. DugLust, is a Knicks nut and a modern-day Weird Al, who counts Ben Stiller among his devotees. With the team in the playoffs, he’s busy. By Amanda Petrusich May 21, 2026 Shortly before Game One of the Eastern Conference Finals, in which the New York Knicks hosted the Cleveland Cavaliers, Doug Berns, a thirty-eight-year-old musician who operates under the nom de plume DugLust, was popping in and out of crowded bars near Madison Square Garden, slapping backs and taking pics. Since 2024, Berns has been writing and recording musical recaps of every Knicks game—part postmortems, part devotionals, part roasts—and posting them online. Berns, who was reared on the Upper West Side, has been a Knicks guy since he was five. “I remember watching the ’94 N.B.A. finals with my brother,” he said. “We were supposed to go to bed, but my brother took this little battery-powered radio into our room and we listened to the end. That memory is foundational.” At M.S.G., Berns, who has a flop of chin-length reddish-brown hair, was wearing an Offline Natives shirt featuring the Knicks point guard Jalen Brunson as a red-eyed demon. Berns went to high school (Dalton) and college (Columbia) in the city and never left. Although he plays bass in a handful of groups, including the Big Woozy Band, which does weddings and other events, he did not anticipate getting into the parody-song business, or becoming a mouthpiece for Knicks obsessives. Shit-talking has always been crucial to sports culture; Berns’s version, in which he rewrites the lyrics to beloved pop songs as howling commentary about free throws, is more silly than caustic. “You can be honest about a poor performance without being hurtful,” he said. “I once told a player to use two hands to catch the ball. But he objectively wasn’t. As fans, we have high expectations, we invest a lot, but these are also human beings who work so hard.” He has become an unofficial team mascot—a folk hero in a bespoke jersey and chain. His “Return of the Mack” recap was featured on “The Roommates Show,” a podcast co-hosted by the Knicks guards Josh Hart and Brunson. (Brunson called it “fire.”) Berns does not stick to a single style; he has used tracks from ZZ Top, Shania Twain, Smashing Pumpkins, and Outkast as the basis of his recaps. His lyrics usually focus on particularly compelling bits of gameplay, but sometimes they take on a fan’s desperation. “Why? Why can’t the Knicks just beat the Lakers?” he sang in March, over the chorus of Michael Jackson’s “Human Nature.” He said that, as a kid, he was “sickeningly obsessed with Iron Maiden.” His original Knicks plan was to write a heavy-metal song about each game. The melodrama inherent to metal lends itself to the agony and ecstasy of fandom, but he realized that spoofing an existing track was both easier and more resonant. The Knicks have not won an N.B.A. championship since 1973, and inside the Garden the pre-game atmosphere was vaguely tense. (Sports fandom can be rough on the spirit; “shouting unheard advice in a crowd of unheard advisors,” as Hunter S. Thompson once put it.) Berns got a Diet Pepsi and took his seat. He tries to limit his hollering to preserve his voice for the next morning’s recording session. The first half of the game had its ups and downs. Then it was mostly downs. With less than eight minutes left in the fourth quarter, the Knicks were losing by twenty-two points. A few already heartbroken spectators began to leave. ESPN analytics had Cleveland’s probability of winning at a grim 99.9 per cent. Berns got agitated when people in the stands started chiding a ref, chanting “Fuck Scott Foster!” He grimaced. “They’re fouling,” he said. “You gotta hold your team accountable.” (Earlier, he’d posted a video honoring Foster; it was reposted by Ben Stiller, a courtside regular, who has also appeared in DugLust videos, playing guitar and drums.) Suddenly, the Knicks turned it around, beginning the second-largest fourth-quarter comeback in the past thirty years, and sent the game into overtime. The energy in the Garden felt seismic, trembly. When the Knicks won, Berns was dazed. “That’s the greatest basketball game I’ve ever seen,” he said. He took a victory strut down Eighth Avenue, stopping to pose for selfies with fans. Around six-thirty the next morning, he got to work on his song—a spoof of Chad Kroeger’s “Hero,” a bombastic hard-rocker from 2002—at his home studio in Prospect Lefferts Gardens. He’d been up until three, processing the win. “Jalen Brunson’s the hero who saved us / Hell no, we’re not losing this game,” he bellowed. The urgency of the enterprise keeps Berns from getting precious about the particulars, although he did spend some time perfecting the harmonies on the outro. When the track was finished, at around eleven, he started shooting video. His clips often feature multiple DugLusts, seemingly performing in tandem, an effect he achieves with the Draw Mask feature in Final Cut Pro. He climbed out onto his roof, dragging a tripod and two guitars, and carefully closed the screen so his cats wouldn’t escape. He changed jerseys and sunglasses and angles. He posted the result around 1 P.M. , to cascading likes and comments. The success of the entire project had left him emotional. “You can call me an influencer, you can call me a songwriter, you can call me Weird Al—I don’t give a shit,” he said, his eyes wet. “I just want to be creative. That’s all I’ve ever wanted.” ♦",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the article, what is the primary nature of Doug Berns’s musical recaps?",
+          "options": {
+            "A": "They are purely objective analytical reports of NBA games.",
+            "B": "They are caustic attacks aimed at demoralizing underperforming players.",
+            "C": "They are a blend of critical commentary, personal devotion, and lighthearted parody.",
+            "D": "They are professional recordings produced to secure endorsement deals."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到Berns的音乐回顾是“part postmortems, part devotionals, part roasts”，结合他称自己的方式“more silly than caustic”，选项C准确涵盖了其混合性质。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why did Berns ultimately shift from his original plan of writing original heavy-metal songs?",
+          "options": {
+            "A": "He found that parodying existing popular tracks was more effective and relatable.",
+            "B": "The heavy-metal genre was not suited to the emotional intensity of basketball.",
+            "C": "He lacked the necessary musical training to compose original metal compositions.",
+            "D": "His fan base expressed a strong dislike for his original metal music style."
+          },
+          "answer": "A",
+          "explanation": "文章提到Berns曾计划写重金属歌曲，但意识到“spoofing an existing track was both easier and more resonant”，即现成的曲调更容易引起共鸣。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is implied by the author’s use of Hunter S. Thompson’s quote regarding sports fandom?",
+          "options": {
+            "A": "Fans have an authoritative voice that influences game outcomes.",
+            "B": "The environment of a live sports game can be emotionally taxing and chaotic.",
+            "C": "Professional basketball players rely heavily on advice shouted from the stands.",
+            "D": "Sports fandom is a highly organized activity for those seeking guidance."
+          },
+          "answer": "B",
+          "explanation": "引用该名言是为了衬托麦迪逊花园广场内紧张的气氛，体现作为球迷在群体中喊话这种行为的徒劳感与精神压力，强调了体育迷身份的复杂性。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did Berns demonstrate his accountability as a fan during the Knicks' losing streak in the game?",
+          "options": {
+            "A": "He joined the crowd in chanting insults at the referee Scott Foster.",
+            "B": "He left the arena early when the deficit became insurmountable.",
+            "C": "He criticized the crowd for blaming the referee rather than the team's performance.",
+            "D": "He immediately recorded a video to protest the team's lack of focus."
+          },
+          "answer": "C",
+          "explanation": "文中Berns对于观众针对裁判的咒骂表示不满（grimaced），他认为“You gotta hold your team accountable”，即应当反思球队本身而非迁怒于裁判。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author suggest about Berns's motivation at the end of the passage?",
+          "options": {
+            "A": "He is primarily driven by the desire to become a famous influencer.",
+            "B": "He seeks to replace his current career with a full-time music job.",
+            "C": "He values the act of creation as his ultimate goal, regardless of his title.",
+            "D": "He is desperate for validation from professional athletes like Josh Hart."
+          },
+          "answer": "C",
+          "explanation": "文章结尾Berns明确表示不在乎别人称他为什么（influencer, songwriter, Weird Al），他最看重的是“I just want to be creative”，这揭示了他创作的纯粹驱动力。"
+        }
+      ]
+    },
+    {
+      "title": "Goodbye Graaff-Reinet: South African town’s name change stirs racial tensions",
+      "article_update_date": "04.01.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A South African town is divided over changing its name from the colonial-era Graaff-Reinet to Robert Sobukwe, after the anti-apartheid activist, in a debate that has inflamed racial tensions. Petitions have been signed, rival marches held and a formal letter of complaint sent to the sports, arts and culture minister, Gayton McKenzie, who approved the name change on 6 February. View image in fullscreen A car in the town displays a poster of the Hands Off Graaff-Reinet group. Photograph: Marco Longari/AFP/Getty Images On one side are people who feel a deep attachment to Graaff-Reinet, many regardless of the fact it was named after Cornelis Jacob van de Graaff, the Dutch governor of the Cape Colony when the town was founded in 1786, and his wife, Hester Cornelia Reynet. On the other are those who insist that renaming the town after Sobukwe, who was born and buried there, is a necessary part of the “transformation” of South Africa away from colonialism and white-minority apartheid rule. View image in fullscreen The old train station in the town, whose centre is filled with elegant, white-washed Cape Dutch buildings. Photograph: Marco Longari/AFP/Getty Images Sobukwe left the African National Congress (ANC) liberation movement to found the Pan Africanist Congress in 1959, amid disagreements about the ANC allowing white members. On 21 March 1960, Sobukwe led protests against laws requiring Black people to carry pass books. Police opened fire on a march, killing 69 people in what became known as the Sharpeville massacre. Between 2000 and 2024, more than 1,500 placenames were changed in South Africa, according to an official database. They include more than 400 post offices, 144 rivers and seven airports, while the city of Port Elizabeth became Gqeberha in 2021. The department of sports, arts and culture said in a statement announcing 21 name changes, including Graaff-Reinet: “The mission … [is] to redress, correct and transform the geographical naming system in order to advance restorative justice, including addressing the colonial and apartheid-era naming legacy.” A survey carried out in December 2023 found 83.6% of the town’s residents opposed the name change, including 92.9% of Coloured people, 98.5% of white people and 55% of Black people. A third of Black residents backed the change. Of the 367 randomly selected representative respondents, 54% were Coloured, 27.2% Black and 18.8% white. “Many residents felt that changing the name would erase part of their identity as ‘Graaff-Reinetters’,” the Stellenbosch University geography professor Ronnie Donaldson wrote of his findings. View image in fullscreen Laughton Hoffman said the name Graaff-Reinet had become ‘a benefit for the people and economy of the town’. Photograph: Rachel Savage/The Guardian Laughton Hoffman, who runs a non-profit supporting young people, expressed concern about the name change harming tourism in the town, which has a population of about 51,000 and whose centre is filled with elegant, whitewashed Cape Dutch buildings. “We are not emotional about the Dutch … Out of the grief of the past [the name Graaff-Reinet] became a benefit for the people and for the economy of the town,” said Hoffman, sporting a bright pink “Hands Off Graaff-Reinet” T-shirt. Hoffman is Coloured and Khoi-San – indigenous South Africans who the apartheid government lumped together as Coloured with mixed-race people and the descendants of enslaved people from other parts of Africa, Indonesia and Malaysia. Hoffman said his community had been “oppressed” since the end of apartheid by governments led by the black-dominated ANC. “We have been marginalised for 32 years as a cultural group,” he said. View image in fullscreen A covered-up statue of Robert Sobukwe, outside the closed Robert Mangaliso Sobukwe Museum in the town. Photograph: Rachel Savage/The Guardian Coloured researchers attribute much of this resentment felt by parts of their community to animosity between Coloured and Black communities fostered by apartheid. Coloured people were allowed slightly better houses and jobs, forcing them to distance themselves from Black people to access those benefits. View image in fullscreen Robert Sobukwe. Photograph: Photo 12/Universal Images Group/ Getty Images Meanwhile, Derek Light, a lawyer who wrote the complaint letter demanding that the culture minister McKenzie reverse his decision, argued that the public consultation on the name change did not follow legal procedure. “It was a faux process,” he said. Light, who is white, lamented the tensions the name change had caused in the town. “We were living in peace and harmony,” he said. “It’s not without fault; we also have poverty and unemployment and things like that. But we don’t have racial issues amongst our people.” Black members of the Robert Sobukwe Steering Committee, a group supporting the name change, rejected this. “We have always had racial problems,” said Athe Singeni. “It was very subtle.” Her mother, Nomandla, said they would not be deterred, even after Sobukwe’s grave was vandalised by unknown people earlier this month. “We as Black people, we have a history that has been erased,” she said. “We’ve got leaders who contributed and laid down their lives for the freedom that we enjoy today. It is time to honour them.” Further up the hill in uMasizakhe, a former Black township, a group enjoying home-brewed alcohol expressed their support for the name change. “I’m happy to change this name, Graaff-Reinet,” said Mzoxolo Nkhomo, a 59-year-old jobseeker. “Because Sobukwe is our fighter. Sobukwe made us free.” Across the road, the Robert Mangaliso Sobukwe Museum and Learning Centre was shuttered, a statue of the politician covered up. It had never been officially opened due to family disagreements, said his grandson Mangaliso Tsepo Sobukwe. View image in fullscreen ‘Sobukwe made us free,’ said one of the community members in uMasizakhe township who support the renaming. Photograph: Rachel Savage/The Guardian Placename changes had been instrumentalised by politicians, Sobukwe said. “It is interesting that the ANC would be seen championing the honouring of Sobukwe, because they … [have been] suppressing his legacy.” Sobukwe expected the backlash to the renaming, but added: “Going forward, I’m happy that my grandfather’s been honoured, more than anything else.”",
+      "difficulty_constant": 7.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why is the renaming of Graaff-Reinet a matter of significant controversy?",
+          "options": {
+            "A": "The town residents are primarily concerned with the financial costs of changing administrative records.",
+            "B": "The move triggers a clash between restorative justice initiatives and the preservation of local identity.",
+            "C": "The government failed to consult with the family of Robert Sobukwe before the announcement.",
+            "D": "Most residents argue that the name Graaff-Reinet has become an internationally recognized historical landmark."
+          },
+          "answer": "B",
+          "explanation": "The text explains that supporters view the name change as essential for 'transformation' and 'restorative justice', while opponents, including many Coloured and white residents, feel it erases their identity as 'Graaff-Reinetters' and harms tourism."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply about the Coloured community's perspective in the town?",
+          "options": {
+            "A": "They are unanimously opposed to the ANC's influence due to historical racial segregation.",
+            "B": "They generally support the name change as a way to distance themselves from apartheid legacies.",
+            "C": "They experience complex emotions due to historical marginalization and perceived animosity between them and Black communities.",
+            "D": "They favor the name Sobukwe because he was a prominent figure in their specific cultural lineage."
+          },
+          "answer": "C",
+          "explanation": "The article highlights that Coloured residents feel marginalized by the current government and that historical apartheid policies fostered animosity between them and Black communities, leading to resentment and conflicting views."
+        },
+        {
+          "q_number": 3,
+          "stem": "How does Derek Light justify his opposition to the renaming process?",
+          "options": {
+            "A": "He argues that the town's history is too deeply tied to Dutch heritage to be changed.",
+            "B": "He contends that the public consultation phase was legally flawed and lacked integrity.",
+            "C": "He claims that the town was entirely free of racial tension before the proposal was introduced.",
+            "D": "He believes that Robert Sobukwe's legacy is incompatible with the town's current economic goals."
+          },
+          "answer": "B",
+          "explanation": "Derek Light is explicitly quoted saying, 'It was a faux process,' and argues that the public consultation did not follow legal procedure, which is the basis for his formal complaint."
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the attitude of Robert Sobukwe's grandson, Mangaliso Tsepo Sobukwe, toward the renaming?",
+          "options": {
+            "A": "He is indifferent, as he believes the ANC has long suppressed his grandfather's legacy.",
+            "B": "He is strictly opposed to the renaming because the local museum remains closed.",
+            "C": "He views the renaming as a genuine, non-political act of honor for his ancestor.",
+            "D": "He perceives the ANC's motives as opportunistic, yet finds the recognition of his grandfather meaningful."
+          },
+          "answer": "D",
+          "explanation": "Mangaliso Tsepo Sobukwe points out that the ANC has 'instrumentalised' the name change while simultaneously suppressing his grandfather's legacy, yet he states, 'Going forward, I’m happy that my grandfather’s been honoured.'"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the 'colonial-era naming legacy' as portrayed by the Department of Sports, Arts and Culture?",
+          "options": {
+            "A": "A system that requires immediate and total erasure to ensure national security.",
+            "B": "A historical burden that must be addressed to advance social justice and transformation.",
+            "C": "A neutral administrative record that has been mischaracterized by local political agitators.",
+            "D": "A beneficial economic asset that helps maintain tourism in towns like Graaff-Reinet."
+          },
+          "answer": "B",
+          "explanation": "The department's statement explicitly identifies their mission as to 'redress, correct and transform' the naming system to 'advance restorative justice' and address the legacy of colonialism and apartheid."
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "04.14.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary purpose of the trilateral meeting held in New Delhi according to the text?",
+          "options": {
+            "A": "To formalize a military alliance against external threats.",
+            "B": "To discuss regional security and economic cooperation frameworks.",
+            "C": "To establish a new organization to replace the Shanghai Cooperation Organization.",
+            "D": "To resolve border disputes between the three participating nations."
+          },
+          "answer": "B",
+          "explanation": "The text states that the three countries agreed to maintain regional security and economic architecture and discussed a range of issues, confirming option B."
+        },
+        {
+          "q_number": 2,
+          "stem": "How is the desired regional security and economic architecture characterized in the joint statement?",
+          "options": {
+            "A": "It is described as a closed system for the benefit of the three nations only.",
+            "B": "It is focused primarily on unilateral security measures.",
+            "C": "It is defined as open, inclusive, and based on international law.",
+            "D": "It is intended to prioritize economic prosperity over political stability."
+          },
+          "answer": "C",
+          "explanation": "The text explicitly describes the architecture as 'open, inclusive and based on multilateralism and universally recognized principles of international law'."
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the stated goal regarding the 'second golden decade' of BRICS cooperation?",
+          "options": {
+            "A": "To shift focus away from people-to-people exchanges.",
+            "B": "To limit the scope of cooperation to political and security issues only.",
+            "C": "To strengthen cooperation across economic, political, security, and people-to-people fields.",
+            "D": "To criticize the hosting of the Ninth BRICS Summit in Xiamen."
+          },
+          "answer": "C",
+          "explanation": "The statement quotes a commitment to 'strengthen cooperation in economic, political, security and people-to-people fields' to achieve the second golden decade."
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the joint statement view the cooperation among China, Russia, and India in relation to other countries?",
+          "options": {
+            "A": "It is intended to counteract the influence of other global powers.",
+            "B": "It is explicitly stated as not directed against any other country.",
+            "C": "It is framed as a competitive platform against Western organizations.",
+            "D": "It is designed to isolate specific regions from global economic growth."
+          },
+          "answer": "B",
+          "explanation": "The joint statement explicitly mentions that the trilateral cooperation is 'not directed against any other country'."
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the role of the Shanghai Cooperation Organization (SCO) according to the passage?",
+          "options": {
+            "A": "A secondary platform that is subordinate to the China-Russia-India trilateral format.",
+            "B": "A purely economic instrument for regional trade.",
+            "C": "An important instrument for promoting multilateral interaction in the region.",
+            "D": "An organization focused solely on addressing security threats."
+          },
+          "answer": "C",
+          "explanation": "The text describes the SCO as an 'important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region'."
+        }
+      ]
+    }
+  ]
+}
