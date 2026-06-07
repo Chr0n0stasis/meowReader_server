@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.07.2026",
+  "papers": [
+    {
+      "title": "Immune cells have a surprising role in exercise endurance",
+      "article_update_date": "04.20.2026",
+      "source_journal": "Nature",
+      "body_text": "Endurance and muscle strength might be improved by one function of B cells, which are an important component of the immune system.Credit: Hinterhaus Productions/Getty Immune cells that help to fight off foreign invaders in the body also provide crucial support for muscles during exercise, suggests a mouse study published in Cell on 17 April1. B cells are the ‘security guards’ of the immune system, identifying harmful pathogens and actively producing antibodies to target them, says Peng Jiang, an immunologist at Tsinghua University in Beijing and a co-author on the study. But until now, the cells’ role in metabolism had not been observed. Jiang says this is the first time that a function for these cells that is not associated with the immune system has been described — “a finding completely beyond our initial expectations”, he says. Carolin Daniel, the director of the Helmholtz Munich Institute for Metabolism and Immunology in Munich, Germany, says that there is increasing interest in studying the functions of B and T cells beyond the immune system. The finding that B cells can be crucial intermediaries between the immune system and the organs involved in exercise is an important conceptual advance, she adds. Run, run, run Jiang and his team studied whether there was a connection between the immune system and exercise performance. They tested the endurance of mice that had been genetically modified to have a low B-cell count by getting them to run on a treadmill. The researchers increased the speed at predetermined intervals over a period of about 15 minutes, stopping when the mice became exhausted. They repeated the experiment with another group of mice that they treated with an antibody therapy, which is used in humans to target cancer-causing B cells. The antibodies destroy any B cells that they come across.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Endurance and muscle strength might be improved by one function of B cells, which are an important ____ of the immune system.",
+          "options": {
+            "A": "alternative",
+            "B": "obstacle",
+            "C": "component",
+            "D": "exception"
+          },
+          "answer": "C",
+          "explanation": "B cells are described as part of the immune system, making 'component' the correct term."
+        },
+        {
+          "q_number": 2,
+          "stem": "Immune cells that help to fight off foreign invaders in the body also provide ____ support for muscles during exercise.",
+          "options": {
+            "A": "trivial",
+            "B": "crucial",
+            "C": "secondary",
+            "D": "occasional"
+          },
+          "answer": "B",
+          "explanation": "The text highlights the significance of these cells in exercise performance, thus 'crucial' is the best fit."
+        },
+        {
+          "q_number": 3,
+          "stem": "B cells are the ‘security guards’ of the immune system, identifying harmful pathogens and actively ____ antibodies to target them.",
+          "options": {
+            "A": "withdrawing",
+            "B": "producing",
+            "C": "distributing",
+            "D": "consuming"
+          },
+          "answer": "B",
+          "explanation": "Biologically, B cells are known for 'producing' antibodies to combat pathogens."
+        },
+        {
+          "q_number": 4,
+          "stem": "But until now, the cells’ role in metabolism had not been ____.",
+          "options": {
+            "A": "exaggerated",
+            "B": "neglected",
+            "C": "observed",
+            "D": "misinterpreted"
+          },
+          "answer": "C",
+          "explanation": "The context implies that this function was previously unknown or not seen, so 'observed' is appropriate."
+        },
+        {
+          "q_number": 5,
+          "stem": "Jiang says this is the first time that a function for these cells that is not associated with the immune system has been described — “a finding completely ____ our initial expectations”, he says.",
+          "options": {
+            "A": "below",
+            "B": "beyond",
+            "C": "within",
+            "D": "against"
+          },
+          "answer": "B",
+          "explanation": "The finding was unexpected, so it lies 'beyond' initial expectations."
+        },
+        {
+          "q_number": 6,
+          "stem": "Carolin Daniel says that there is increasing interest in studying the functions of B and T cells ____ the immune system.",
+          "options": {
+            "A": "through",
+            "B": "within",
+            "C": "against",
+            "D": "beyond"
+          },
+          "answer": "D",
+          "explanation": "Researchers are interested in roles outside the typical domain, so 'beyond' is the correct preposition."
+        },
+        {
+          "q_number": 7,
+          "stem": "The finding that B cells can be crucial ____ between the immune system and the organs involved in exercise is an important conceptual advance.",
+          "options": {
+            "A": "intermediaries",
+            "B": "participants",
+            "C": "competitors",
+            "D": "evaluators"
+          },
+          "answer": "A",
+          "explanation": "B cells act as a link or mediator between systems, hence 'intermediaries'."
+        },
+        {
+          "q_number": 8,
+          "stem": "Jiang and his team studied whether there was a connection between the immune system and exercise ____.",
+          "options": {
+            "A": "performance",
+            "B": "frequency",
+            "C": "preference",
+            "D": "persistence"
+          },
+          "answer": "A",
+          "explanation": "The context discusses how well the mice exercise, referring to 'performance'."
+        },
+        {
+          "q_number": 9,
+          "stem": "They tested the endurance of mice that had been genetically ____ to have a low B-cell count by getting them to run on a treadmill.",
+          "options": {
+            "A": "motivated",
+            "B": "matured",
+            "C": "modified",
+            "D": "monitored"
+          },
+          "answer": "C",
+          "explanation": "Mice in experiments are often 'genetically modified' for specific physiological characteristics."
+        },
+        {
+          "q_number": 10,
+          "stem": "The researchers increased the speed at predetermined intervals over a period of about 15 minutes, stopping when the mice became ____.",
+          "options": {
+            "A": "oblivious",
+            "B": "refreshed",
+            "C": "irritated",
+            "D": "exhausted"
+          },
+          "answer": "D",
+          "explanation": "The mice run until they can no longer continue, making 'exhausted' the correct descriptor."
+        },
+        {
+          "q_number": 11,
+          "stem": "They repeated the experiment with another group of mice that they treated with an antibody therapy, which is used in humans to ____ cancer-causing B cells.",
+          "options": {
+            "A": "replicate",
+            "B": "protect",
+            "C": "cultivate",
+            "D": "target"
+          },
+          "answer": "D",
+          "explanation": "Antibody therapies are designed to 'target' specific cells, such as cancer-causing ones."
+        },
+        {
+          "q_number": 12,
+          "stem": "The antibodies destroy any B cells that they come ____.",
+          "options": {
+            "A": "across",
+            "B": "after",
+            "C": "along",
+            "D": "around"
+          },
+          "answer": "A",
+          "explanation": "The phrasal verb 'come across' means to encounter or find."
+        },
+        {
+          "q_number": 13,
+          "stem": "B cells might play a ____ role in regulating metabolic health during physical stress.",
+          "options": {
+            "A": "redundant",
+            "B": "fragile",
+            "C": "superficial",
+            "D": "vital"
+          },
+          "answer": "A",
+          "explanation": "Given the study context, B cells are seen as essential, thus 'vital' is correct."
+        },
+        {
+          "q_number": 14,
+          "stem": "Scientists continue to ____ new insights into how cells interact with distant organs.",
+          "options": {
+            "A": "uncover",
+            "B": "conceal",
+            "C": "discard",
+            "D": "hinder"
+          },
+          "answer": "C",
+          "explanation": "Research aims to 'uncover' new knowledge."
+        },
+        {
+          "q_number": 15,
+          "stem": "The study provides evidence that immune health is ____ linked to physical stamina.",
+          "options": {
+            "A": "intricately",
+            "B": "scarcely",
+            "C": "loosely",
+            "D": "briefly"
+          },
+          "answer": "B",
+          "explanation": "The study implies a deep, complex connection, so 'intricately' fits best."
+        },
+        {
+          "q_number": 16,
+          "stem": "This unexpected link might lead to new treatments for metabolic ____.",
+          "options": {
+            "A": "definitions",
+            "B": "advantages",
+            "C": "schedules",
+            "D": "disorders"
+          },
+          "answer": "A",
+          "explanation": "Medical research often targets 'disorders' or diseases."
+        },
+        {
+          "q_number": 17,
+          "stem": "Future studies will likely ____ the underlying mechanisms in more detail.",
+          "options": {
+            "A": "overlook",
+            "B": "abandon",
+            "C": "investigate",
+            "D": "misjudge"
+          },
+          "answer": "C",
+          "explanation": "Scientists 'investigate' mechanisms to better understand them."
+        },
+        {
+          "q_number": 18,
+          "stem": "The researchers aimed to ____ the hypothesis that B cells affect endurance.",
+          "options": {
+            "A": "challenge",
+            "B": "refuse",
+            "C": "ignore",
+            "D": "verify"
+          },
+          "answer": "D",
+          "explanation": "Scientists conduct experiments to 'verify' their hypotheses."
+        },
+        {
+          "q_number": 19,
+          "stem": "Physical activity has been ____ shown to improve immune function in general.",
+          "options": {
+            "A": "widely",
+            "B": "rarely",
+            "C": "partially",
+            "D": "cautiously"
+          },
+          "answer": "D",
+          "explanation": "It is 'widely' accepted that exercise benefits immunity."
+        },
+        {
+          "q_number": 20,
+          "stem": "The conclusion of the paper emphasizes the ____ of holistic physiological health.",
+          "options": {
+            "A": "importance",
+            "B": "simplicity",
+            "C": "complexity",
+            "D": "irrelevance"
+          },
+          "answer": "B",
+          "explanation": "The significance or 'importance' of health is the standard conclusion."
+        }
+      ]
+    },
+    {
+      "title": "Brazil has a secret weapon against oil shocks",
+      "article_update_date": "03.29.2026",
+      "source_journal": "Economist",
+      "body_text": "Brazil has a secret weapon against oil shocks The Americas | Liquid courage Brazil has a secret weapon against oil shocks Biofuels will help the country fend off the effects of conflict in the Middle East March 26th 2026 Few countries were ready for the oil shock caused by Israel and America’s war with Iran. Brazil was. During the past half-century, the agriculture giant has built the world’s most sophisticated biofuels industry. It is the second-largest producer of ethanol, an alcohol that can be used to power cars, and the third-largest of biodiesel, which fuels heavy vehicles. They are mixed into petrol and diesel, with government-mandated blends of 30% and 15% respectively, among the highest globally. Three-quarters of Brazil’s light vehicles contain technology enabling them to burn anything from pure petrol to the 100% ethanol delivered by ubiquitous álcool pumps. This cuts Brazil’s reliance on foreign fossil fuels and guards against inflamed markets. The at-the-pump price of Brazilian petrol has risen by 10% since the start of the war, and that of diesel by 20%, according to data released on March 20th by the energy regulator. That is painful, but far short of the staggering 30-40% jumps in the United States. Brazil’s fuel duties are relatively low, closer to those in the United States than the high European rates. This means that big increases in the price of oil should lead to big increases in consumers’ costs. One reason they have not is the caution of Petrobras, the state-owned oil company, which refines most of Brazil’s fuel and has tried to swallow additional costs. But the competitiveness of Brazil’s bioenergy is also helping, says Lucas Boacnin of Argus Media, a price-reporting agency. Argus’s data show that the average cost of biodiesel has dropped below that of imported diesel for the first time since 2023. Retail ethanol prices have only nudged up by 2%. The government is reportedly considering increasing the share of ethanol in petrol to 32% and giving biodiesel a tax exemption. It has also launched a three-year study to assess the technical feasibility of permanently raising blend ratios, to 35% for ethanol and 25% for biodiesel. The city of Passo Fundo in the agricultural south is running trials for a novel biofuel to replace diesel in its municipal vehicles. This is not the first time biofuel has shielded Brazil, says Evandro Gussi of Unica, a sugar-cane-ethanol trade group. The original idea was to protect energy independence. The military dictatorship created the first programme, Proálcool, after the 1973 oil crisis. Brazil was then importing 80% of its fuel; the Arab embargo was crippling the economy. Processing excess sugar-cane juice into ethanol was a no-brainer. A decade on, 96% of new cars sold ran on ethanol. As the first “Flex-fuel” cars went on sale in 2003, the government set up a parallel plan to promote biodiesel derived from seeds, mostly soyabeans. Both programmes have benefited from solid presidential support. But few have hugged biofuels as tightly as Luiz Inácio Lula da Silva, Brazil’s current president. Lula, as he is known, sees biofuels as the solution to two problems. First, they bolster the sovereignty of a country which, despite being one of the world’s largest exporters of crude oil, still imports 10% of its petrol and 25% of its diesel. Second, biofuels let Brazil curb its greenhouse-gas emissions without alienating its farmers, who grow biofuel feedstocks. Biofuels cannot wipe away the costs imposed by surging oil prices. If ethanol becomes cheaper than petrol, and Brazilians start pumping more of it, the price of ethanol may rise. High natural-gas prices lead to high fertiliser prices, which may also crimp biofuels. But biofuel producers stand to do well out of the chaos in the Middle East, says Mário Campos of Bioenergia Brasil, a trade association. The seasonality inherent to the business is in their favour. Soyabean harvests begin in January, while the sugar-cane and corn harvests start in April and May. This means the supply of biodiesel and ethanol will soon expand dramatically, lowering prices. The harvests are expected to yield record output, putting further pressure on prices. Other countries have noticed. India and Japan are both working to bless their people’s fuel tanks with Brazilian expertise. ■ Sign up to El Boletín , our subscriber-only newsletter on Latin America, to understand the forces shaping a fascinating and complex region. This article was downloaded by zlibrary from https://www.economist.com//the-americas/2026/03/26/brazil-has-a-secret-weapon-against-oil-shocks",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what is a primary reason Brazil is better insulated against the recent global oil shock than the United States?",
+          "options": {
+            "A": "Brazil has significantly lower fuel duties compared to all other nations.",
+            "B": "The Brazilian government has fully banned the import of foreign fossil fuels.",
+            "C": "Brazil’s widespread use of biofuel blends reduces reliance on imported fossil fuels.",
+            "D": "Petrobras has successfully lowered domestic fuel prices since the conflict began."
+          },
+          "answer": "C",
+          "explanation": "文章提到巴西通过在汽油和柴油中强制混合生物燃料（乙醇和生物柴油），削弱了对外国化石燃料的依赖，从而在市场震荡中具备了保护作用。选项C准确概括了这一机制。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by describing the ethanol program as a 'no-brainer' in the 1970s?",
+          "options": {
+            "A": "The program required minimal technological investment to implement.",
+            "B": "The decision was logically obvious due to the severity of the economic crisis.",
+            "C": "The military dictatorship acted without consulting energy experts.",
+            "D": "The transition to ethanol was universally supported by the global community."
+          },
+          "answer": "B",
+          "explanation": "在1973年石油危机背景下，巴西当时依赖80%的燃料进口，且经济受到严重打击。将过剩的甘蔗汁转化为乙醇是应对危机的直接、明显的选择，故称“no-brainer”。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following does Lula da Silva view as a benefit of promoting biofuels?",
+          "options": {
+            "A": "It allows Brazil to phase out crude oil exports entirely.",
+            "B": "It helps the country meet environmental goals while supporting the agricultural sector.",
+            "C": "It creates a complete independence from international fuel price fluctuations.",
+            "D": "It eliminates the need for future fertilizer imports for soybean farmers."
+          },
+          "answer": "B",
+          "explanation": "文章提到卢拉总统认为生物燃料不仅能增强主权，还能在不疏远农民（种植原料者）的前提下减少温室气体排放，即兼顾环保与农业利益。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the seasonality of harvests influence the outlook for Brazil's biofuel industry?",
+          "options": {
+            "A": "It creates a period of supply scarcity that will likely drive up prices in the summer.",
+            "B": "It restricts the industry's ability to expand production beyond current levels.",
+            "C": "It ensures a staggered supply that helps stabilize or lower prices as harvests proceed.",
+            "D": "It forces the government to rely more heavily on imported diesel during the off-season."
+          },
+          "answer": "C",
+          "explanation": "文章指出，大豆、甘蔗和玉米的收获季节错开，这意味着生物燃料的供应将在接下来的几个月内大幅扩张，从而给价格带来下行压力。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main purpose of the article?",
+          "options": {
+            "A": "To warn against the dangers of relying on biofuels for national energy security.",
+            "B": "To analyze how Brazil's biofuel strategy acts as a buffer against geopolitical energy shocks.",
+            "C": "To argue that Petrobras should increase fuel prices to match European levels.",
+            "D": "To criticize Brazil's military history regarding the implementation of the Proálcool program."
+          },
+          "answer": "B",
+          "explanation": "文章通篇探讨了巴西如何利用生物燃料行业（“秘密武器”）来应对中东冲突带来的石油冲击，通过分析背景、当前表现及未来前景，旨在说明其作为缓冲机制的作用。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 106",
+      "article_update_date": "05.02.2026",
+      "source_journal": "New Yorker",
+      "body_text": "new_yorker.2026.05.04 Goings On Oneohtrix Point Never’s Sense of the Uncanny Cory Doctorow on the High Cost of Living with the Ultra-Rich The Talk of the Town Donald Trump’s Spring Cleaning Reverend Billy Takes On Norman Foster’s New Monolith Medallions, Movement, and Mamdani at <em class=\"small\">MOMA</em> PS1 Patrick Ball’s Path to Broadway and “Becky Shaw” Ellen Burstyn’s Inner Library Reporting & Essays Can the E.P.A. Survive Lee Zeldin? Signed, Sealed, Delivered Donald Trump’s Pardon Economy Attention Must Be Paid Shouts & Murmurs Ava’s Life List Fiction Process of Elimination The Critics The Many Forms of Marcel Duchamp A German Master’s Modernist Epic of Postwar Amnesia and Hypocrisy Briefly Noted The Sqirl Redemption Arc How Long Can Martha Graham’s Dance Revolution Last? “Half Man” Tests the Limits of Brotherly Love Poems Tompkins Square A Theory on the Origin of Language Puzzles & Games The Crossword: Monday, April 27, 2026",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following topics is most likely discussed in the 'Reporting & Essays' section regarding environmental governance?",
+          "options": {
+            "A": "The historical evolution of the E.P.A. during the 20th century.",
+            "B": "The potential challenges the E.P.A. might face under Lee Zeldin's leadership.",
+            "C": "A comprehensive review of international environmental policy shifts.",
+            "D": "The successful implementation of new pollution standards by the agency."
+          },
+          "answer": "B",
+          "explanation": "文章中提到了'Can the E.P.A. Survive Lee Zeldin?'，这直接对应了该章节探讨该机构在特定领导人下可能面临的生存或政策挑战。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The phrase 'The Sqirl Redemption Arc' in the context of the magazine's critics section suggests that:",
+          "options": {
+            "A": "Sqirl is a fictional character undergoing a moral crisis.",
+            "B": "A brand or entity named Sqirl has successfully recovered from a previous negative reputation.",
+            "C": "The author is criticizing the artistic failures of a dance revolution.",
+            "D": "There is a literal scientific discovery being documented regarding squirrel habits."
+          },
+          "answer": "B",
+          "explanation": "Redemption arc（救赎弧线）在文化评论中常指某事物（如餐厅或公司）在经历负面新闻后通过一系列举措重新获得认可的过程。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the primary focus of the piece mentioning Reverend Billy?",
+          "options": {
+            "A": "His participation in a Broadway production of 'Becky Shaw'.",
+            "B": "A critical analysis of his views on Marcel Duchamp.",
+            "C": "His protest or engagement with a new architectural project by Norman Foster.",
+            "D": "His role in the 'Talk of the Town' regarding economic policy."
+          },
+          "answer": "C",
+          "explanation": "文中明确写到'Reverend Billy Takes On Norman Foster’s New Monolith'，表明Billy与Foster的建筑项目存在冲突或评议关系。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The inclusion of 'Process of Elimination' under the category of 'Fiction' implies that this item is likely:",
+          "options": {
+            "A": "A logical puzzle to be solved by the reader.",
+            "B": "A detailed report on judicial sentencing procedures.",
+            "C": "A creative narrative or short story.",
+            "D": "An editorial analysis of political campaign strategies."
+          },
+          "answer": "C",
+          "explanation": "在杂志分类中，Fiction指代文学虚构作品，因此“Process of Elimination”作为该分类下的标题，属于文学创作而非逻辑题或政治分析。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Based on the article list, which of the following themes appears to be a recurring subject in this issue of The New Yorker?",
+          "options": {
+            "A": "Technological advancements in linguistics.",
+            "B": "The complexities of modern dance choreography.",
+            "C": "The political and societal impact of the Donald Trump administration.",
+            "D": "The history of Broadway musicals from the 1950s."
+          },
+          "answer": "C",
+          "explanation": "文章多次提到特朗普相关议题，包括'Donald Trump’s Spring Cleaning'和'Donald Trump’s Pardon Economy'，表明这是该期内容的焦点之一。"
+        }
+      ]
+    },
+    {
+      "title": "Young Chinese-Irish ballroom dancer goes international",
+      "article_update_date": "04.24.2026",
+      "source_journal": "China Daily",
+      "body_text": "Kerry Sui and Francis Carty perform on the dance floor at Blackpool Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a 10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set to compete in Italy and perform on Chinese TV after winning the British juvenile ballroom championship. Kerry and Francis, who is also 10, won the British National Juvenile Ballroom trophy and took first prize last month in the juvenile Latin category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing. She started ballroom and Latin dancing four years ago and was partnered earlier this year with Francis, who lives in the English county of Shropshire. The two were friends before they performed together and Kerry said their friendship is one of the best things about her dancing partnership with Francis. Their hard work, under the guidance of teachers Laura O'Brien and David and Helen Truman, meant Kerry and Francis have seen quite a lot of success. \"When Francis is stressed, I can calm him down, because he hasn't really been in many big competitions, such as the nationals and internationals,\" Kerry said. \"My mum said I have to guide him.\" Francis said Kerry has a positive attitude and described her as always remaining upbeat. And they both have a dance that they like the least: the tango. \"The tango is like an angry dance, you have to be sharp,\" Kerry said. The dancers often visit each other's families and describe their friendship and their teachers' involvement as like being in a big family. She said a visit to China put a strain on the close bonds. \"I was in China for six weeks and there was a dance studio there where I would practice, but I felt lonely,\" Kerry said. Francis described the time they spent apart as \"horrible\". Kerry and Francis were training on Saturday in Wolverhampton, a city in England's West Midlands region, in advance of a competition in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall across parts of the United Kingdom. The pair head to Italy in January for a competition, before jetting off to China to appear on a TV show.",
+      "difficulty_constant": 4.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is unique about Kerry Sui and Francis Carty's partnership?",
+          "options": {
+            "A": "They have been dancing together since they were six years old.",
+            "B": "Their partnership is based on a long-standing friendship that predates their dance collaboration.",
+            "C": "They are both from the same cultural background in Ireland.",
+            "D": "They have never faced any challenges while working with their teachers."
+          },
+          "answer": "B",
+          "explanation": "文章提到“The two were friends before they performed together”，说明他们在成为舞伴之前已经是朋友，这是他们伙伴关系的一大特点。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does Kerry view her role in the partnership when Francis is under pressure?",
+          "options": {
+            "A": "She relies on Francis to make the final decisions.",
+            "B": "She finds his stress levels difficult to handle during competitions.",
+            "C": "She takes on a supportive role to help him remain calm.",
+            "D": "She believes that his lack of experience is an advantage."
+          },
+          "answer": "C",
+          "explanation": "文章引用Kerry的话：“When Francis is stressed, I can calm him down... My mum said I have to guide him.” 说明Kerry在Francis感到压力时负责安抚并引导他。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the reason the dancers dislike the tango?",
+          "options": {
+            "A": "It requires too much physical exertion for their age.",
+            "B": "It is culturally different from the styles they were trained in.",
+            "C": "They feel it lacks the emotional warmth of their other dances.",
+            "D": "It demands a sharp and aggressive performance style that they dislike."
+          },
+          "answer": "D",
+          "explanation": "Kerry解释说：“The tango is like an angry dance, you have to be sharp”，这反映了他们因为其愤怒、尖锐的风格而不喜欢这一舞蹈。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase 'put a strain on' in the passage most likely mean?",
+          "options": {
+            "A": "Strengthened the connection between the two.",
+            "B": "Created difficulty for their relationship.",
+            "C": "Required more physical effort from them.",
+            "D": "Led to a better understanding of their goals."
+          },
+          "answer": "B",
+          "explanation": "文中提到Kerry去中国六周感到孤独，Francis觉得分开的时间很“horrible”，这说明分离状态给他们的紧密关系带来了压力或困难。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the pair's immediate professional plans?",
+          "options": {
+            "A": "They are scheduled to attend an event in Italy following recent weather-related disruptions.",
+            "B": "They have decided to stop competing in the UK due to heavy snowfall.",
+            "C": "They are moving their dance studio base to China permanently.",
+            "D": "They successfully completed their competition in Stoke-on-Trent."
+          },
+          "answer": "A",
+          "explanation": "文章结尾提到原定在Stoke-on-Trent的比赛因降雪取消，但他们接下来的计划是“head to Italy in January for a competition”，说明他们调整了计划并准备参加意大利的比赛。"
+        }
+      ]
+    }
+  ]
+}
