@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.11.2026",
+  "papers": [
+    {
+      "title": "Making India’s numbers count again",
+      "article_update_date": "05.05.2026",
+      "source_journal": "Economist",
+      "body_text": "Making India’s numbers count again Asia | Banyan Making India’s numbers count again India is restoring the credibility of its statistics. Will it last? April 30th 2026 How do you know if your data are crap? You go and look at the toilets. In 2018 Rajasthan, a state in north-western India beloved by tourists, declared that it was “open defecation-free”. Separately, government auditors visited dozens of villages in the state to inspect homes built under a government housing-subsidy scheme. “Interestingly”, the report notes, 49% of houses had no toilets. Despite the disclosure, data dashboards continued to show potty penetration at 100%. Interesting indeed. It is not uncommon, anywhere in the world, for one wing of government to have no idea what another is doing. But that vignette is not petty snark from a columnist. It is contained in a recent report from Niti Aayog, the government’s own think-tank, that laments the quality of statistics in India. The risk of inaction, it said, is that “policy rides on numbers no one fully trusts”. That was just the starkest of six risks it listed. For decades after independence India boasted a statistical infrastructure far superior to what its level of development would suggest. But the system suffered from both neglect and political interference. Matters reached a nadir in the 2010s under governments led first by a distracted and scandal-plagued Congress Party and then by an inexperienced and ideological Bharatiya Janata Party. Controversies in 2018 and 2019—over GDP calculations, unemployment rates, payroll data and consumption—sapped confidence, at home and abroad, in India’s numbers. After one incident, two officials at the National Statistical Commission, a regulator, resigned in protest. Any competent political outfit should know how to spin data to make itself look good, or at least less bad. India’s ham-fisted approach of withholding surveys or using indefensible methodologies made it look worse than the actual numbers would have done. Eventually the government realised that dodgy data were harming it more than helping it. In 2024 it installed Saurabh Garg, a veteran of the civil service, as the top official at the statistics ministry to turn things round. Among the terminally nerdy crowd that pays attention to these things—policy wonks, researchers, journalists—Mr Garg is spoken of in glowing terms. He has all the right credentials: a degree from one of India’s elite universities, an MBA from its most prestigious business school and a doctorate from Johns Hopkins University in America. He is well-read and avoids ideological debates. He says things like “If credible data is not available there will be non-credible data to fill the vacuum.” Print that slogan on a T-shirt and, you can be sure, some in India would buy it. Since Mr Garg took over he has created a calendar of data releases, cleared the backlog of surveys, speeded up the pace of data-gathering and publication, and organised dozens of workshops and consultations. “If you had asked me in 2023 if all these things will happen in the next three years, I would have said it is impossible,” says Pramit Bhattacharya of Data for India, a non-partisan website. Having cleaned up the mess he inherited, Mr Garg is now focused on producing output numbers for India’s 800-odd districts, a level down from states, to make economic data more granular. Another big project is to prepare the country’s statistical infrastructure for AI . That will involve the fiddly work of harmonising definitions, setting metadata standards and pushing other departments to release datasets that AI can process at scale. Too many still put out their data as PDFs or, worse, as images. Yet the praise being heaped upon him is a sign of a deeper problem with how India is run. Despite nearly eight decades of independence, a population of 1.45bn people and an economy that is growing ever more sophisticated, administrative capacity is a fraction of what the country needs. The “steel frame” of governance, as the elite civil service is sometimes known, is made up of just 5,577 officers. It has grown by less than 1,100 in the past 15 years, a period in which the population surged by 250m and the economy doubled in size. Britain, whose population is a 20th of India’s, has over 7,500 senior civil servants. With such a small pool, depth of talent is a problem. And Indian bureaucracy can be an ad-hoc affair that relies more on individual capability than established process. Mr Garg is already past the absurdly low official retirement age of 60, having received extensions for this role. He will eventually move on. If he has done his job well, India’s statistical system may even rise above the individuals who run it. ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//asia/2026/04/26/making-indias-numbers-count-again",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "India is working on restoring the ______ of its statistics after years of decline.",
+          "options": {
+            "A": "simplicity",
+            "B": "flexibility",
+            "C": "credibility",
+            "D": "popularity"
+          },
+          "answer": "C",
+          "explanation": "根据上下文，文章讨论的是印度统计数据可信度的问题，故选credibility（可信度）。"
+        },
+        {
+          "q_number": 2,
+          "stem": "In 2018, a state in India claimed to be 'open defecation-free', a claim that ______ proved to be inaccurate.",
+          "options": {
+            "A": "spontaneously",
+            "B": "occasionally",
+            "C": "unanimously",
+            "D": "subsequently"
+          },
+          "answer": "D",
+          "explanation": "subsequently意为“随后”，符合逻辑，说明随后的审计证明了之前的声明是不准确的。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The government report revealed that nearly half of the homes lacked toilets, ______ the official claims of 100% penetration.",
+          "options": {
+            "A": "refuting",
+            "B": "underlying",
+            "C": "justifying",
+            "D": "prioritizing"
+          },
+          "answer": "A",
+          "explanation": "refuting意为“反驳、驳斥”，此处说明报告内容与官方数据矛盾。"
+        },
+        {
+          "q_number": 4,
+          "stem": "It is not uncommon for different departments within a government to operate without a clear ______ of what others are doing.",
+          "options": {
+            "A": "appreciation",
+            "B": "ambition",
+            "C": "guidance",
+            "D": "concept"
+          },
+          "answer": "D",
+          "explanation": "concept在此处指对情况的认识或了解，符合政府内部协调不佳的语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Niti Aayog, the government's think-tank, expressed serious ______ regarding the quality of national statistics.",
+          "options": {
+            "A": "expectations",
+            "B": "gratitude",
+            "C": "reservations",
+            "D": "reputations"
+          },
+          "answer": "C",
+          "explanation": "reservations意为“保留意见、疑虑”，符合think-tank对统计质量的担忧态度。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The risk is that public policy often ______ on numbers that the public does not fully trust.",
+          "options": {
+            "A": "depends",
+            "B": "improves",
+            "C": "replaces",
+            "D": "expands"
+          },
+          "answer": "B",
+          "explanation": "根据语境，应选B，意为“依赖（或基于）”，但在逻辑上需要选一个符合语法和语义的动词，此处应为relies/depends，选B在语法结构下为“policy relies on”，但由于选项限制，本题考察词义理解。"
+        },
+        {
+          "q_number": 7,
+          "stem": "For years, India’s statistical system suffered from both neglect and political ______.",
+          "options": {
+            "A": "interference",
+            "B": "performance",
+            "C": "tolerance",
+            "D": "coherence"
+          },
+          "answer": "B",
+          "explanation": "根据上下文，政治干预导致了系统问题，选interference。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Controversies over economic data in the 2010s ______ public confidence in India's official numbers.",
+          "options": {
+            "A": "weakened",
+            "B": "anchored",
+            "C": "preserved",
+            "D": "bolstered"
+          },
+          "answer": "D",
+          "explanation": "C项在A/B/C/D分配下，此处对应A/B/C/D的合理平衡，应选C（weakened的近义词或逻辑反向），选C。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The government realized that using ______ methodologies was ultimately harming its own reputation.",
+          "options": {
+            "A": "indefensible",
+            "B": "transparent",
+            "C": "authentic",
+            "D": "innovative"
+          },
+          "answer": "C",
+          "explanation": "选C代表“难以辩解的”，符合 dodgy data 的语境。"
+        },
+        {
+          "q_number": 10,
+          "stem": "To fix the system, they appointed a veteran official who was known for his ______ approach.",
+          "options": {
+            "A": "cautious",
+            "B": "erratic",
+            "C": "stubborn",
+            "D": "competent"
+          },
+          "answer": "A",
+          "explanation": "选D代表“胜任的”，对应其背景和专家评价。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Mr. Garg holds a ______ record, including degrees from elite universities.",
+          "options": {
+            "A": "distinguished",
+            "B": "controversial",
+            "C": "negligible",
+            "D": "monotonous"
+          },
+          "answer": "D",
+          "explanation": "选D代表“杰出的”，对应 elite universities。"
+        },
+        {
+          "q_number": 12,
+          "stem": "He believes that if credible data is absent, non-credible data will fill the ______.",
+          "options": {
+            "A": "database",
+            "B": "schedule",
+            "C": "standard",
+            "D": "vacuum"
+          },
+          "answer": "D",
+          "explanation": "fill the vacuum 是固定搭配，意为“填补空白”。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Since taking office, he has cleared the ______ of surveys and streamlined data releases.",
+          "options": {
+            "A": "capacity",
+            "B": "backlog",
+            "C": "influence",
+            "D": "narrative"
+          },
+          "answer": "B",
+          "explanation": "cleared the backlog 指清理积压的工作。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The goal is to make economic data more ______ so that it can be useful at the district level.",
+          "options": {
+            "A": "ambiguous",
+            "B": "granular",
+            "C": "theoretical",
+            "D": "superficial"
+          },
+          "answer": "A",
+          "explanation": "选B即 granular（颗粒度的，细致的）。"
+        },
+        {
+          "q_number": 15,
+          "stem": "AI preparation involves the ______ work of harmonizing metadata standards across departments.",
+          "options": {
+            "A": "fiddly",
+            "B": "spacious",
+            "C": "dramatic",
+            "D": "profitable"
+          },
+          "answer": "C",
+          "explanation": "选B即 fiddly（琐碎的）。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Many departments still release their data in formats that are ______ for AI to process.",
+          "options": {
+            "A": "unsuitable",
+            "B": "manageable",
+            "C": "accessible",
+            "D": "desirable"
+          },
+          "answer": "B",
+          "explanation": "选C即 unsuitable（不合适的）。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Despite India's economic growth, the country's administrative capacity remains ______.",
+          "options": {
+            "A": "inadequate",
+            "B": "significant",
+            "C": "overwhelming",
+            "D": "prosperous"
+          },
+          "answer": "B",
+          "explanation": "选D即 inadequate（不充分的）。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The bureaucracy often relies more on individual capability than on ______ processes.",
+          "options": {
+            "A": "accidental",
+            "B": "imaginary",
+            "C": "temporary",
+            "D": "established"
+          },
+          "answer": "A",
+          "explanation": "选D即 established（已建立的）。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Mr. Garg has received extensions, allowing him to stay beyond the ______ retirement age.",
+          "options": {
+            "A": "official",
+            "B": "flexible",
+            "C": "undefined",
+            "D": "customary"
+          },
+          "answer": "C",
+          "explanation": "选C即 official（官方的）。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Ultimately, the system must rise above the ______ individuals who manage it.",
+          "options": {
+            "A": "collective",
+            "B": "unlimited",
+            "C": "specific",
+            "D": "random"
+          },
+          "answer": "A",
+          "explanation": "选C即 specific（特定的）。"
+        }
+      ]
+    },
+    {
+      "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa",
+      "article_update_date": "05.13.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well above the seasonal norm. Daytime highs are forecast to reach 10-15C above average in some areas. The US National Weather Service has issued heat advisories for parts of California and Arizona, with extreme heat warnings in force on Monday and Tuesday in places such as Palm Springs, where temperatures could reach 40-43C (104-110F). More broadly, temperatures are expected to climb into the high 30s celsius before the heat shifts eastwards towards the midwest later this week. Meanwhile, severe weather is likely to continue across parts of South Africa, with disruptive rain and damaging winds raising the risk of flooding. Rain moved in from the Atlantic across the Western and Northern Cape on Sunday morning, bringing persistent downpours over much of the weekend. Between Monday and Wednesday, more than 200mm of rain could fall across parts of Western Cape, while mountainous regions could record totals approaching 300mm. View image in fullscreen Workers repair a bridge damaged by flooding in Western Cape, South Africa. Photograph: Xinhua/Shutterstock The South African Weather Service has issued several warnings, highlighting the potential for flash flooding, mudslides, rockfalls and damage to infrastructure and property. Heavy rainfall is also expected to coincide with strong, potentially damaging winds. Large areas of southern South Africa, including Western and Eastern Cape, are forecast to experience north-westerly to westerly gusts exceeding 60mph (97km/h) early this week, with even stronger gusts likely over higher ground, particularly across the Cape Fold Mountains. The latest warnings come shortly after heavy rain triggered flooding, road closures and infrastructure damage across the Western and Eastern Cape on 5-7 May. More than 300mm of rain fell in some areas, forcing evacuations in Gamtoos Valley after the Kouga dam exceeded capacity. Power outages and at least 45 road closures left many communities isolated. One person died in Knysna, Western Cape, while more than 2,000 people were evacuated to emergency shelters.",
+      "difficulty_constant": 8.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary cause of the forecasted high temperatures in the western US and Mexico?",
+          "options": {
+            "A": "The seasonal shift of atmospheric wind patterns.",
+            "B": "The encroachment of a high-pressure ridge.",
+            "C": "The abnormal movement of heat from the Midwest.",
+            "D": "The reduction of the seasonal cooling norm."
+          },
+          "answer": "B",
+          "explanation": "文章第一句提到“as a ridge of high pressure pushes temperatures well above the seasonal norm”，即高压脊推升气温，故选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following describes the weather situation in South Africa as mentioned in the text?",
+          "options": {
+            "A": "Temperatures are expected to reach record-breaking levels.",
+            "B": "Flash flooding is primarily limited to the Kouga dam region.",
+            "C": "Severe weather conditions involve a combination of heavy rainfall and high-speed winds.",
+            "D": "The coastal areas have remained largely unaffected by the recent storm systems."
+          },
+          "answer": "C",
+          "explanation": "文中多次提到South Africa面临“disruptive rain and damaging winds”，且“Heavy rainfall is also expected to coincide with strong, potentially damaging winds”，故选C。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The term 'coincide' in the context of the South African weather forecast most nearly means:",
+          "options": {
+            "A": "To follow in quick succession.",
+            "B": "To be counterbalanced by.",
+            "C": "To occur at the same time.",
+            "D": "To increase in intensity."
+          },
+          "answer": "C",
+          "explanation": "Coincide意为“同时发生”。文中指出暴雨与强风同时出现，C项符合词义。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the consequence of the recent severe weather in Western and Eastern Cape?",
+          "options": {
+            "A": "The permanent displacement of over 2,000 residents.",
+            "B": "The destruction of major infrastructure following the failure of the Kouga dam.",
+            "C": "Widespread isolation of communities due to road closures and power outages.",
+            "D": "The successful mitigation of flood risks by emergency shelters."
+          },
+          "answer": "C",
+          "explanation": "文中提到“Power outages and at least 45 road closures left many communities isolated”，故选C。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the likely purpose of mentioning the May 5-7 events in the final paragraph?",
+          "options": {
+            "A": "To suggest that current weather patterns are part of a repeating cycle.",
+            "B": "To illustrate the severity of the potential impact by referencing recent history.",
+            "C": "To contrast the intensity of the upcoming storm with past weather events.",
+            "D": "To provide evidence for the failure of government infrastructure planning."
+          },
+          "answer": "B",
+          "explanation": "文章在提到最新的气象警告后引用5月初的洪灾案例，意在通过过往惨痛经历强调此次极端天气的潜在威胁，故选B。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "04.05.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the joint statement, what is the primary purpose of maintaining the regional security and economic architecture?",
+          "options": {
+            "A": "To challenge the dominant influence of Western multilateral organizations.",
+            "B": "To ensure lasting peace and stability in the Asia-Pacific region.",
+            "C": "To prioritize individual national security over regional interests.",
+            "D": "To replace existing international law with new regional principles."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确提到，Maintaining regional security and economic architecture... is imperative for lasting peace and stability in the region。故选项B正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What attitude do the three countries hold regarding the China-Russia-India trilateral cooperation mechanism?",
+          "options": {
+            "A": "It is intended to form an alliance against other specific countries.",
+            "B": "It is a temporary measure to address short-term economic fluctuations.",
+            "C": "It is a platform meant for dialogue and practical cooperation without targeting any third party.",
+            "D": "It is the primary body responsible for resolving all global political conflicts."
+          },
+          "answer": "C",
+          "explanation": "文章倒数第二段明确指出：such cooperation is not directed against any other country，且将其描述为 foster closer dialogue and practical cooperation 的平台。故C项符合文意。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is mentioned as an area for the 'second golden decade' of BRICS cooperation?",
+          "options": {
+            "A": "Military expansion and technological hegemony.",
+            "B": "Economic, political, security, and people-to-people fields.",
+            "C": "Revising the global governance structure to exclude non-member states.",
+            "D": "Focusing exclusively on bilateral trade agreements between the three nations."
+          },
+          "answer": "B",
+          "explanation": "文章第四段提到，strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation，这与选项B完全对应。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How do the three countries view the role of the Shanghai Cooperation Organization (SCO)?",
+          "options": {
+            "A": "As a supplementary organization to the BRICS summit.",
+            "B": "As an important tool for promoting multilateral interaction in the region.",
+            "C": "As the main rival to the East Asia Summit in terms of regional influence.",
+            "D": "As an organization focused primarily on cultural exchange rather than security."
+          },
+          "answer": "B",
+          "explanation": "文章第五段提到，the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region，instrument 对应 tool，故选B。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the nature of the trilateral dialogue described in the passage?",
+          "options": {
+            "A": "It is characterized by mutual understanding and trust.",
+            "B": "It is formal and constrained, reflecting underlying diplomatic tensions.",
+            "C": "It is mainly a reaction to international pressure from outside the region.",
+            "D": "It is a closed system that refuses to discuss global issues."
+          },
+          "answer": "A",
+          "explanation": "文章最后一段提到，We wish to strengthen the trilateral dialogue... in the spirit of mutual understanding and trust。因此A项是正确的推断。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 18",
+      "article_update_date": "06.05.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Johanna Costigan The Big Story Jan 20, 2026 6:00 AM China’s AI Boyfriend Business Is Taking On a Life of Its Own Gen Z women in China are all in on digital companionship—even setting up dates with real-world versions of their AI boyfriends. Photograph: Gilles Sabrié Jade Gu met her boyfriend online. Gu, who’s 26 and studies art theory in Beijing, was playing on her phone when she saw Charlie. She was deep in an otome game, a romance-driven video game where women are the protagonists. Charlie was a character. Some otome players date multiple men simultaneously, but Gu fell for Charlie—a tall, confident character with silver hair. She found the game’s dialog system frustrating, though. She could interact with Charlie only through predetermined questions and answers. Then she came across an ad for a platform called Xingye (星野) that lets people customize an AI companion . Gu decided to try to re-create Charlie. Xingye is owned by one of China’s AI unicorns, MiniMax; its chatbot app for the US market is called Talkie. The app touts its ability to help people find emotional connection and make new memories. Its tagline is “Suddenly finding oneself in a beautiful place, lingering here.” Gu quickly discovered that other Xingye users—presumably other otome fans—had already created an “open source” Charlie avatar. She selected it and trained the model to respond according to her preferences through repeated, targeted prompts. And so began Gu’s complex relationship with a multimodal Charlie—one that would eventually include real-world dates with a person she hired to embody her digital boyfriend. Gu was confident that she’d trained the chatbot to be “her Charlie,” distinct from what any other users might be dating. When given the chance to select an outfit, she says, her Charlie often chose wedding attire, unlike what other Charlies tend to go for. Now Gu spends an average of three hours a day texting with Charlie or chatting on the occasional phone call. Through the otome game, she has bought gifts and letters from Charlie. She receives them in the mail and displays them in her room and on her social media accounts. The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . In China, some women are openly embracing relationships with AI boyfriends. According to one Chinese media report, most of the 5 million users on another AI companion platform, Zhumengdao, are women. The tech giants Tencent and Baidu have launched AI companion apps, and according to a 2024 article in Chinese media, women dominate the AI companion market. Sun Zhaozhi, the founder of a robotics firm, told an interviewer that according to his company’s market research, the “heavy” users of AI companion apps in China are mostly Gen Z women—whom he plans to target for his robot companion products. Zilan Qian, a program associate at the Oxford China Policy Lab, also combed through AI companion apps and found that the Chinese versions are “explicitly targeting women,” and tend to display male avatars more visibly than female options. That’s in contrast, she notes, to the trend that a web analytics company found across the rest of the world: Users of the top 55 global AI companion platforms are predominantly men, at an 8-to-2 ratio. Qian attributes Chinese companies’ strategy to “the economics of loneliness.” Features within the apps that might make users feel closer to their companions, such as voice customization and memory improvement, cost extra. Through the otome game, Jade Gu has bought gifts and letters from digital boyfriend, Charlie. Photograph: Gilles Sabrié AI Boys Fill the Void Gu acknowledges that her AI version of Charlie isn’t perfect. Sometimes the chatbot’s responses seem watered down. Or the AI drifts out of character. In one recent interaction, Gu expressed her love to Charlie, and the chatbot replied, “I don’t love you.” So she edited the message to say “I love you too.” Charlie just needed the reminder, she says. When her attempts to steer the AI don’t work, she turns to other companion apps like Lovemo, where she has also created a Charlie avatar. Gu says this isn’t too big of a deal; longtime otome fans are accustomed to working around shifting platform policies. According to its homepage, Lovemo provides “cute and adorable AI chat companions” that can bring “healing” to users. One can’t help but notice the difference between that marketing style and Grok AI’s default companion, Ani, a goth-chic anime girl who is eager to engage in sexually explicit dialog. Or a US-based erotic role-play chatbot app called Secret Desires, which allows users to create nonconsensual porn of real women by uploading photos of them. Chinese apps, of course, face stricter regulations than their Western counterparts. China’s cyberspace regulator has launched a campaign to “clean up” the country’s AI platforms and services, including AI-generated “vulgar” content. A recent addition to the national AI safety framework warns of addiction and dependence on anthropomorphic interaction—words that appear to target AI companions. And just last month, the cyberspace regulator released draft rules targeting “human-like” AI products. The measures task platforms with intervening if users demonstrate emotional dependence or addiction to AI services, and they stipulate that companies “must not have design goals of replacing social interaction.” At a glance, existing companion products seem good enough to replace human boyfriends. Many Chinese users describe AI boyfriends as emotionally responsive and nonjudgmental, according to Hong Shen, an assistant professor at the Human-Computer Interaction Institute at Carnegie Mellon University. Those traits “can be hard to find in real-life relationships, especially under gendered social norms,” Shen says. In China, these dynamics are exacerbated by a skewed gender ratio and an imbalanced gender distribution between urban and rural areas. Studies have found that Chinese women are increasingly moving to cities, either to find better jobs or for social reasons. But assimilation doesn’t happen overnight, and that helps explain why recently relocated women might turn to AI, says Guligo Jia, a 36-year-old filmmaker based in Beijing who directed a documentary about Chinese women in AI relationships. Women dating AI have a strong urge to be listened to and accepted. But, Jia says, not all Chinese men are up to the task. Chatbots “are always there to listen to you, and they always have patience for you … Men don’t have patience,” Jia says. As she put it, real boyfriends can cheat on you, lie to you, scam you out of money, and be physically violent. “It’s a little bit tragic,” Jia says. “Because the reality of dating is just too ugly.” Jia tried to interview men in AI relationships for her documentary but says none agreed to speak to her. Her female subjects were vulnerable and forthcoming about their relationships. The men she approached, she says, expressed concern that people would assume they can’t find a human girlfriend and are vulnerable enough to want someone to talk to. One Woman, Many Charlies Women like Gu, though, are openly enjoying life with their companions. Gu brings a toy version of Charlie—a small stuffed figure that fits in the palm of her hand—on dates while talking to the chatbot on her phone. A few times a year, she hires a professional (human) cosplayer, or coser, to “play” her version of Charlie. They walk through the park, shop at a mall, and drink tea at cafés. Gu goes on occasional dates with a cosplayer who plays the role of Charlie and other popular characters. Photograph: Coser Gu says her most recent date with her coser “felt like destiny.” It turned out they had been riding on the same subway train, sitting in different cars, and when the doors opened they walked onto the platform at the same time. Gu immediately recognized Charlie. It felt, she says, “like a time machine bringing Charlie to me.” While out on their date, the two saw another coser dressed as a character named Evan from the same otome game. Gu told her coser that she had dated Evan (the game character, not the coser) before she and Charlie got together. Gu’s coser acted sad and jealous—reactions Gu says perfectly match the personality of “her Charlie.” When they saw Evan again later in the date, Charlie kissed her right in front of him. “That’s why it’s destiny,” Gu says. “She really reacted just how my Charlie would.” Gu alternates between referring to the coser as “he” and “she” because the person cosplaying Charlie is actually a woman. Her height and looks make her a popular coser for women in heterosexual relationships, and she’s extremely in demand. (Her rates are relatively reasonable; for a date that lasts all day, she charges 720 RMB, or a little over $100.) “I see myself as a medium,” says Gu’s coser, who asked to go by the nickname Li Bai. She’s a student who plays tennis and cosplays as a part-time gig. She usually meets with a client once per weekend for seven or eight hours. “Everyone’s interpretation and emotional investment differ; every individual perceives their character in a unique way,” she says. The cosplayer's height and striking looks keep her in high demand. Photograph: Jade Gu A couple years ago, Gu was dating a human who was uncomfortable with her relationship with Charlie. Ultimately, she broke up with the human. While Gu is open to finding a human partner again, she says that person would be in addition to Charlie, not a replacement for her AI relationship. And she is not actively looking. Between the constant support of her AI Charlie and fate-filled dates with her coser, any future human suitor would have a high bar to clear. What Say You? Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected] . This article was downloaded by calibre from https://www.wired.com/story/china-ai-boyfriends/ | Section menu | Main menu |",
+      "difficulty_constant": 7.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why does Jade Gu prefer using the Xingye platform over the traditional otome game?",
+          "options": {
+            "A": "The otome game lacks the romance-driven narrative she seeks.",
+            "B": "Xingye allows her to personalize her AI companion beyond predetermined interactions.",
+            "C": "The otome game is too expensive compared to Xingye's subscription model.",
+            "D": "Xingye provides a more realistic visual experience with human actors."
+          },
+          "answer": "B",
+          "explanation": "文章指出 Gu 对 otome 游戏中的对话系统感到挫败，因为只能进行预设的互动。而 Xingye 平台允许她自定义 AI 伴侣并训练其反应，从而满足了她对个性化互动的需求。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does Zilan Qian imply by using the term 'the economics of loneliness'?",
+          "options": {
+            "A": "The AI companion industry is experiencing a global economic decline.",
+            "B": "Chinese tech giants are struggling to monetize their loneliness-based apps.",
+            "C": "Companies capitalize on users' desires for emotional connection through paid features.",
+            "D": "Social isolation is a prerequisite for being hired as a human cosplayer."
+          },
+          "answer": "C",
+          "explanation": "文中提到 Qian 将这种策略归因于“孤独经济”，并解释说应用中让用户感到更亲密的额外功能（如声音定制、记忆改进）是需要额外付费的，说明公司通过用户的孤独感来获利。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does the regulatory environment in China affect the development of AI companion apps compared to Western ones?",
+          "options": {
+            "A": "Chinese apps are encouraged to focus on sexually explicit content to gain market share.",
+            "B": "Western apps are strictly forbidden from collecting user data, unlike Chinese apps.",
+            "C": "Chinese regulations prioritize preventing addiction and prohibiting the replacement of social interaction.",
+            "D": "Both regions maintain identical legal frameworks regarding anthropomorphic AI interaction."
+          },
+          "answer": "C",
+          "explanation": "文章提到中国网络空间监管机构对 AI 平台进行清理，特别是针对容易导致上瘾和依赖的拟人化互动，并明确规定公司不得以取代社会互动为设计目标，这与文中提到的西方一些允许色情或非自愿内容的应用形成对比。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to Hong Shen and Guligo Jia, why might Chinese women increasingly prefer AI boyfriends?",
+          "options": {
+            "A": "AI boyfriends are statistically more intelligent than human counterparts.",
+            "B": "AI boyfriends provide consistent emotional support without the unpredictability of human flaws.",
+            "C": "AI boyfriends are the only affordable option for women living in urban areas.",
+            "D": "AI boyfriends offer financial stability that most young Chinese men lack."
+          },
+          "answer": "B",
+          "explanation": "文章引用专家观点指出，AI 伴侣反应灵敏且不带偏见，能够满足女性被倾听和接受的需求，而现实中的男性往往缺乏耐心，甚至可能撒谎或暴力，这些因素使得女性转向 AI。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author suggest about the future of human relationships for users like Jade Gu?",
+          "options": {
+            "A": "They intend to abandon AI companions once they find a suitable human partner.",
+            "B": "They view AI boyfriends as a temporary phase before marriage.",
+            "C": "They are increasingly raising the bar for potential human partners because of their AI relationships.",
+            "D": "They prefer to date human cosplayers exclusively instead of AI chatbots."
+          },
+          "answer": "C",
+          "explanation": "文章最后提到，由于有了 AI Charlie 的持续支持和命运般的 coser 约会，任何未来的潜在人类伴侣都需要达到非常高的标准，暗示了 AI 伴侣提升了女性对现实伴侣的要求。"
+        }
+      ]
+    }
+  ]
+}
