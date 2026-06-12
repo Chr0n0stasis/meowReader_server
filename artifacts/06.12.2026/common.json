@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.12.2026",
+  "papers": [
+    {
+      "title": "Voters say they want young candidates. In practice, they do not",
+      "article_update_date": "05.02.2026",
+      "source_journal": "Economist",
+      "body_text": "Voters say they want young candidates. In practice, they do not United States | Gerontophilia Voters say they want young candidates. In practice, they do not The Massachusetts Senate primary offers a case study April 30th 2026 For those Democrats still recovering from the 2024 election, the Massachusetts Democratic primary is a jumpscare. Ed Markey, who has spent half a century in Congress, will be 86 by the end of his next term if he is re-elected. Mr Markey’s primary challenger, Seth Moulton, meanwhile, credits four tours of duty in the Iraq war as his motivation. The 47-year-old has made age the defining contrast between them. “With everything we learned last election,” he says in an advertisement, “I just don’t believe Senator Markey should be running for another six-year term at 80 years old.” Mr Markey is not alone in his tenacity. Just one-third of the 24 octogenarians up for re-election this year have announced their plans to retire from office (see chart). The race between Messrs Moulton and Markey offers a clear case study of the gap between voters’ stated and revealed preferences. In survey after survey Americans say they want a new generation of leaders. Yet in practice they make exceptions, weighing age against other factors and deciding it matters less than they claim. Voters seem admirably untarnished by ageism. In the most recent polls Mr Markey leads Mr Moulton by a comfortable 16 points. One explanation is path-dependent: voters are often not offered the alternative they might have preferred. Mr Markey’s most compelling potential rival, Ayanna Pressley, a 52-year-old congresswoman whose position on the left of the party would play well in a primary, never mounted a challenge. Polling suggested she would have been competitive. But Mr Markey consolidated support across the party early on, securing endorsements from Elizabeth Warren (aged 76), his fellow Massachusetts senator, and various trade unions. Older incumbents make formidable opponents because they have deeper pockets and more establishment support. Ultimately, Ms Pressley announced she would seek re-election in the House instead. Mr Moulton, a Democrat with progressive views on economic policy but more moderate positions on social issues, has alienated parts of the coalition in the state. In 2024 he told the New York Times he doesn’t want his two daughters “getting run over on the playing field by a male or formerly male athlete”. Massachusetts’ Democratic powerbrokers criticised the remarks and Mr Moulton’s campaign manager resigned. That view, which reflects mainstream opinion, created a difficult path in a primary where to “become well-known and well-liked with young progressives in Massachusetts is the whole ball game”, explains Mary Anne Marsh, a veteran Democratic strategist. No Republican candidate for president has won a single Massachusetts county in 38 years. But the other half of the explanation lies with voters themselves. “Voters’ statement that they want younger candidates is, to some extent, symbolic,” notes John Sides, a political scientist at Vanderbilt University. In a recent YouGov/The Economist survey, 46% of respondents said it is better to nominate a younger candidate. Yet when asked how they would vote in a primary between two candidates they liked equally, just 10% said they would choose the less experienced one, who is in practice likely to be younger. Data from real elections bear this out. In 2024 voters re-elected 95% of incumbents across federal, state and local offices. Even younger Americans don’t feel as one might expect. In the same survey just 29% of those aged 18-29 said they would choose a younger, less experienced candidate over an older, more experienced one. A similar share of those aged 65 years and older said the same. Young Democrats were far more likely to favour youth than their Republican and independent peers, but there is still hardly a consensus. Roughly half of Democrats aged 18 to 29 either expressed no preference or favoured experience over youth. “Age can be a primary concern for voters,” says David Hopkins, a political scientist at Boston College, “if they really see any evidence that the incumbent…has lost so many steps that they’re no longer able to do the work.” In Mr Markey’s case, he adds, “we haven’t seen that yet.” The result is that even a progressive movement animated by calls for generational change, once again finds itself rallying behind an ageing incumbent. ■ Stay on top of American politics with The US in brief, our daily newsletter with fast analysis of the most important political news, and Checks and Balance , a weekly note that examines the state of American democracy and the issues that matter to voters. This article was downloaded by zlibrary from https://www.economist.com//united-states/2026/04/30/voters-say-they-want-young-candidates-in-practice-they-do-not",
+      "difficulty_constant": 8.4,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Voters say they want young candidates. In practice, they do not. The Massachusetts Senate primary offers a ______ study.",
+          "options": {
+            "A": "mental",
+            "B": "field",
+            "C": "case",
+            "D": "random"
+          },
+          "answer": "C",
+          "explanation": "此处指代某种研究案例，case study是常用搭配，意为“案例研究”。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Ed Markey, who has spent half a century in Congress, will be 86 by the end of his next term if he is ______. ",
+          "options": {
+            "A": "resigned",
+            "B": "rejected",
+            "C": "retired",
+            "D": "re-elected"
+          },
+          "answer": "D",
+          "explanation": "根据上下文，Markey是在寻求连任，因此选re-elected。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Mr Markey’s primary challenger, Seth Moulton, meanwhile, ______ four tours of duty in the Iraq war as his motivation.",
+          "options": {
+            "A": "conceals",
+            "B": "refutes",
+            "C": "credits",
+            "D": "ignores"
+          },
+          "answer": "C",
+          "explanation": "credit sth as sth 表示将某事归功于或引用某事作为理由。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The 47-year-old has made age the ______ contrast between them.",
+          "options": {
+            "A": "vague",
+            "B": "static",
+            "C": "minor",
+            "D": "defining"
+          },
+          "answer": "D",
+          "explanation": "defining contrast 意为“决定性的对比”，指年龄差异是两人竞争的核心议题。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Mr Markey is not alone in his ______. Just one-third of the 24 octogenarians up for re-election this year have announced their plans to retire.",
+          "options": {
+            "A": "ambition",
+            "B": "tenacity",
+            "C": "vacillation",
+            "D": "apathy"
+          },
+          "answer": "B",
+          "explanation": "tenacity 指坚持不懈或固执，指代他长期担任公职不愿退位的状态。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The race between Messrs Moulton and Markey offers a clear case study of the gap between voters’ stated and ______ preferences.",
+          "options": {
+            "A": "hypothetical",
+            "B": "revealed",
+            "C": "imaginary",
+            "D": "unseen"
+          },
+          "answer": "B",
+          "explanation": "revealed preferences 是经济学常用术语，指通过实际行为表现出的倾向。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Yet in practice they make exceptions, ______ age against other factors and deciding it matters less than they claim.",
+          "options": {
+            "A": "ignoring",
+            "B": "weighing",
+            "C": "fostering",
+            "D": "discarding"
+          },
+          "answer": "A",
+          "explanation": "weighing against 意为“权衡”，表示选民在考虑候选人时会综合评估。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Voters seem admirably untarnished by ageism. In the most recent polls Mr Markey leads Mr Moulton by a comfortable 16 ______.",
+          "options": {
+            "A": "percent",
+            "B": "points",
+            "C": "numbers",
+            "D": "levels"
+          },
+          "answer": "B",
+          "explanation": "民调中常使用 percentage points，文中简称为 points。"
+        },
+        {
+          "q_number": 9,
+          "stem": "One explanation is path-dependent: voters are often not offered the alternative they might have ______.",
+          "options": {
+            "A": "doubted",
+            "B": "refused",
+            "C": "preferred",
+            "D": "avoided"
+          },
+          "answer": "A",
+          "explanation": "指选民没有得到他们可能更倾向于选择的候选人。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Mr Markey’s most compelling potential rival, Ayanna Pressley, never ______ a challenge.",
+          "options": {
+            "A": "concluded",
+            "B": "reversed",
+            "C": "mounted",
+            "D": "evaluated"
+          },
+          "answer": "C",
+          "explanation": "mount a challenge 是固定搭配，意为“发起挑战”。"
+        },
+        {
+          "q_number": 11,
+          "stem": "But Mr Markey consolidated support across the party early on, ______ endorsements from Elizabeth Warren.",
+          "options": {
+            "A": "distributing",
+            "B": "denying",
+            "C": "securing",
+            "D": "withdrawing"
+          },
+          "answer": "A",
+          "explanation": "securing endorsements 意为“获得支持”，符合语境。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Older incumbents make ______ opponents because they have deeper pockets and more establishment support.",
+          "options": {
+            "A": "formidable",
+            "B": "negligible",
+            "C": "accessible",
+            "D": "incompetent"
+          },
+          "answer": "D",
+          "explanation": "formidable意为“强大的、可怕的”，形容资深候选人难以被击败。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Mr Moulton, a Democrat with progressive views on economic policy, has ______ parts of the coalition in the state.",
+          "options": {
+            "A": "expanded",
+            "B": "united",
+            "C": "represented",
+            "D": "alienated"
+          },
+          "answer": "D",
+          "explanation": "alienated意为“疏远”，符合其因言论引起争议的背景。"
+        },
+        {
+          "q_number": 14,
+          "stem": "That view created a difficult path in a primary where to become well-known and well-liked is the whole ______.",
+          "options": {
+            "A": "strategy",
+            "B": "ball game",
+            "C": "dilemma",
+            "D": "incident"
+          },
+          "answer": "B",
+          "explanation": "whole ball game是习语，指“关键所在”或“核心任务”。"
+        },
+        {
+          "q_number": 15,
+          "stem": "But the other half of the explanation lies with voters themselves. Voters’ statement is, to some extent, ______.",
+          "options": {
+            "A": "accurate",
+            "B": "cynical",
+            "C": "practical",
+            "D": "symbolic"
+          },
+          "answer": "D",
+          "explanation": "文中对比了言论与行为，指出言论往往具有象征意义。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Data from real elections bear this out. In 2024 voters re-elected 95% of ______ across federal, state and local offices.",
+          "options": {
+            "A": "challengers",
+            "B": "opponents",
+            "C": "incumbents",
+            "D": "voters"
+          },
+          "answer": "C",
+          "explanation": "incumbents指在职人员，选民通常更倾向于连任在职官员。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Young Democrats were far more likely to favour youth than their Republican and independent peers, but there is still hardly a ______.",
+          "options": {
+            "A": "dispute",
+            "B": "compromise",
+            "C": "consensus",
+            "D": "prejudice"
+          },
+          "answer": "C",
+          "explanation": "指年轻人内部对于青年候选人的态度并未达成一致（consensus）。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Age can be a primary concern for voters, says David Hopkins, if they really see any ______ that the incumbent has lost steps.",
+          "options": {
+            "A": "evidence",
+            "B": "exaggeration",
+            "C": "opposition",
+            "D": "calculation"
+          },
+          "answer": "A",
+          "explanation": "evidence指“证据”，即看到候选人因高龄无法工作的事实。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The result is that even a progressive movement ______ by calls for generational change finds itself rallying behind an ageing incumbent.",
+          "options": {
+            "A": "animated",
+            "B": "neglected",
+            "C": "obstructed",
+            "D": "hampered"
+          },
+          "answer": "B",
+          "explanation": "animated在这里意为“由……推动/激活”。"
+        },
+        {
+          "q_number": 20,
+          "stem": "This article examines the state of American democracy and the issues that ______ to voters.",
+          "options": {
+            "A": "matter",
+            "B": "resemble",
+            "C": "contribute",
+            "D": "transfer"
+          },
+          "answer": "A",
+          "explanation": "matter to voters意为“对选民很重要”。"
+        }
+      ]
+    },
+    {
+      "title": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+      "article_update_date": "05.26.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in the past eight years, new analysis reveals. Attacks include 1,261 strikes on markets used by families for daily groceries and 863 incidents in which food distribution systems were targeted and workers killed. The analysis looked at the period since UN resolution 2417 unanimously condemned the deliberate starvation of civilians in 2018. It found starvation is being increasingly weaponised with the supply of food routinely targeted in Gaza, Sudan, Lebanon and Haiti among others. Data compiled by Insecurity Insight uncovered 21,403 incidents in 15 countries where food supplies have been deliberately targeted since 2018, when the UN security council unanimously passed a resolution condemning the unlawful denial of humanitarian aid as a tactic of warfare. Researchers discovered 1,909 military strikes on farmland, and another 563 on water infrastructure vital for crops, which affected food security in more than 42 countries and territories. View image in fullscreen The remains of a market at Lankien, Jonglei state, South Sudan, after an airstrike in April 2026. Photograph: Florence Miettaux/The Guardian States with the highest recorded incidents are the occupied Palestinian Territory with 9,013 attacks, followed by Yemen – 1,863 incidents – and Sudan, where food was targeted in 1,605 strikes. One of the most recent attacks in Sudan occurred on Tuesday when a drone struck a busy market, killing 28 people. Witnesses said the main market in the town of Ghubaysh, West Kordofan, appeared to have been deliberately targeted by the military while it was crowded with civilians. Other countries that documented repeated attacks on food supplies include Syria, which saw 1,538 incidents, many attributed to government or Russian military forces before the fall of the Assad regime; and Mali, where 1,415 attacks were recorded as the ruling junta struggled to maintain its grip on power in the west African country. The research, to be released on Monday to coincide with the anniversary of the UN resolution, describes a “marked increase” in attacks on markets, farmland and food distribution systems. View image in fullscreen Fire destroys a livestock market in El Fasher, in Sudan’s North Darfur state, in September 2023 after an attack by the Rapid Support Forces. Photograph: AFP/Getty Images Researchers also found that civilians were frequently targeted as they attempted to obtain food. Between October 2023 and the end of 2025, more than 10,300 people were killed or injured trying to access aid. Christina Wille, director at Insecurity Insight, urged the international community to implement the UN resolution, saying that it had a responsibility “to act upon violations”. She said: “It is not that resolution 2417 has failed, but that member states have failed to implement it, and to demonstrate the political will to prevent those very same actions that the international community claims to oppose.” Wille said that women were disproportionately affected by the weaponisation of hunger. “Women in particular are faced with some of the toughest choices: unreliable access to food might mean travelling longer distances, increasing risks to their safety in volatile contexts. “Women who were primarily carers are forced to become breadwinners, often while reducing their food intake to prioritise their family members. Without enough food, children are unable to play, learn or grow, and the consequences on their development will last a lifetime.” View image in fullscreen Waiting for food rations on the outskirts of Sana’a, Yemen, where prolonged conflict has meant millions of people living with extreme hunger. Photograph: Yahya Arhab/EPA Conflict remains the primary driver of hunger, accounting for more than half of all people facing severe hunger. Last month, UN agencies warned that a growing share of global hunger is becoming entrenched in a small group of conflict-hit countries, with two-thirds of people facing acute food insecurity concentrated in just 10 nations.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary conclusion drawn from the analysis of food-related violence since 2018?",
+          "options": {
+            "A": "UN resolution 2417 has effectively curbed the use of starvation as a weapon.",
+            "B": "Food-related violence has increasingly become a deliberate tactic in modern conflicts.",
+            "C": "Military strikes on farmland are the most frequent form of food-related attacks.",
+            "D": "Global hunger is primarily caused by climate change rather than human conflicts."
+          },
+          "answer": "B",
+          "explanation": "文章开头指出，Hunger is being increasingly exploited as a weapon of war，并提到自2018年联合国决议以来，故意针对食品供应的袭击事件呈上升趋势，故B项正确。A项与文中Wille的观点（决议并未失败，而是成员国未执行）矛盾；C项文中提到的袭击类型繁多，并未明确说农田袭击是最频繁的；D项与文末Conflict remains the primary driver of hunger矛盾。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does Christina Wille suggest that resolution 2417 has not yielded the expected results?",
+          "options": {
+            "A": "The resolution lacks a clear legal framework to define war crimes.",
+            "B": "The resolution is outdated and cannot address modern warfare tactics.",
+            "C": "Member states have demonstrated a lack of political resolve to enforce it.",
+            "D": "The international community is divided on whether food should be a protected asset."
+          },
+          "answer": "C",
+          "explanation": "文中Wille提到：It is not that resolution 2417 has failed, but that member states have failed to implement it, and to demonstrate the political will to prevent those very same actions，意为成员国未能执行且缺乏政治意愿，故选C。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following describes the impact of hunger on women, as highlighted by the author?",
+          "options": {
+            "A": "They are more likely to migrate to safer countries to seek employment.",
+            "B": "They face increased personal risks and sacrifice their own nutritional needs.",
+            "C": "They are the main perpetrators of the violence in volatile contexts.",
+            "D": "They suffer fewer long-term developmental consequences than children."
+          },
+          "answer": "B",
+          "explanation": "文中明确提到Women in particular are faced with some of the toughest choices，包括增加自身安全风险以及为了家人减少食物摄入（sacrificing nutritional needs），故B项符合题意。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The term 'entrenched' in the final paragraph most likely means:",
+          "options": {
+            "A": "Temporarily exacerbated.",
+            "B": "Widely misunderstood.",
+            "C": "Deeply established and difficult to change.",
+            "D": "Gradually declining in severity."
+          },
+          "answer": "C",
+          "explanation": "根据上下文，文章提到全球饥饿问题日益集中在少数冲突国家，且处于一种难以缓解的状态，'entrenched'在此意为“根深蒂固的、难以改变的”，故选C。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main implication of the data provided regarding countries like Gaza, Sudan, and Yemen?",
+          "options": {
+            "A": "These countries are the only ones facing food insecurity globally.",
+            "B": "Military strategies in these regions are shifting towards total economic isolation.",
+            "C": "The weaponization of hunger is a pervasive and recurring feature in these conflict zones.",
+            "D": "These nations are solely responsible for the failure of international humanitarian aid."
+          },
+          "answer": "C",
+          "explanation": "文章通过数据展示了这些国家在过去几年中频繁遭受针对食品系统的袭击，这说明将饥饿作为战争武器在这些区域已经成为一种普遍且反复出现的策略，故选C。A项文中提到42个国家受影响，故A错误；D项文中明确指出是成员国未履行义务，而非这些国家自身责任。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "04.13.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 6.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary goal of the trilateral cooperation between China, Russia, and India?",
+          "options": {
+            "A": "To form an exclusive military alliance against Western powers.",
+            "B": "To uphold regional security and economic frameworks based on multilateralism.",
+            "C": "To replace the Shanghai Cooperation Organization with a new trilateral body.",
+            "D": "To focus exclusively on bilateral trade disputes between the three nations."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确提到，三国同意维护亚太地区基于多边主义和普遍公认国际法原则的开放、包容的区域安全与经济架构。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the significance of the Ninth BRICS Summit mentioned in the text?",
+          "options": {
+            "A": "It marked the end of the first golden decade of BRICS cooperation.",
+            "B": "It was the only forum where the three foreign ministers met.",
+            "C": "It served as a baseline for the future strategic partnership and cooperation.",
+            "D": "It established the Shanghai Cooperation Organization as a subordinate body."
+          },
+          "answer": "C",
+          "explanation": "文章提到三国重申了对金砖国家合作的重视，并承诺落实金砖国家峰会的成果，以开启第二个黄金十年，这表明该峰会是未来合作的基石。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the nature of the Russia-India-China trilateral cooperation, according to the joint statement?",
+          "options": {
+            "A": "It is intended to counteract the influence of other major global powers.",
+            "B": "It is a closed-door forum for discussing sensitive military strategies.",
+            "C": "It acts as a platform for dialogue that does not target any third party.",
+            "D": "It primarily focuses on people-to-people exchanges rather than political issues."
+          },
+          "answer": "C",
+          "explanation": "文中明确指出，这种三方合作并非针对任何其他国家（not directed against any other country），是一个促进对话与实践合作的平台。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The word 'imperative' in the second paragraph is closest in meaning to:",
+          "options": {
+            "A": "Optional",
+            "B": "Insignificant",
+            "C": "Crucial",
+            "D": "Controversial"
+          },
+          "answer": "C",
+          "explanation": "Imperative意为“至关重要的、紧急的”。根据上下文，维护地区安全架构对于持久和平至关重要，故选Crucial。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the attitude of the three countries towards the Shanghai Cooperation Organization (SCO)?",
+          "options": {
+            "A": "They consider it an outdated mechanism needing urgent reform.",
+            "B": "They view it as a vital instrument for regional multilateral interaction.",
+            "C": "They believe its focus on economic issues should be reduced.",
+            "D": "They want to limit its scope to security matters only."
+          },
+          "answer": "B",
+          "explanation": "文章倒数第二段提到，三国特别重视上合组织的工作，认为它是促进地区政治、安全、经济及人文交流的重要工具（important instrument）。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 22",
+      "article_update_date": "05.21.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Jasper Craven The Big Story Jan 8, 2026 6:00 AM True Patriots Are Cashing In on the Apocalypse How two big names in mainstream disaster preparedness helped sell Americans on fear, anxiety, and a new generator. 4Patriots chief engineer Tyler Stapleton demonstrates a 4Patriots Patriot Pure Personal Water Filter Straw by drinking out of a toilet on September 10, 2025, in Lindon, Utah. Photograph: SINNA NASSERI When it comes to prepping, look to the Mormons. It’s right there, in the official name of the religion: To be a “Latter-day Saint”' is explicitly to believe in, and prepare for, the end times. This is why, on a calm morning last September, I arrive just outside Salt Lake City in a place called American Fork and knock on the door of Tyler Stapleton, the chief product engineer for off-grid power products at 4Patriots, one of the biggest companies pushing preparedness into the mainstream. Church members play outsize roles in this multibillion-dollar industry—a global concern where politics and technology collide, with sales fueled by social media and conspiracy theories, in addition to the undeniable rise in world chaos. Stapleton is a bit sheepish but very nice, a nerdy mechanical engineer with degrees from Brigham Young University who lives with his wife and three young children. Inside their tidy home is a big clock, a bright kitchen, and the Book of Mormon on the shelf. After exchanging pleasantries, Stapleton begins showing off new products and prototypes, including a sleek “James Bond-like” solar generator that packs up like a briefcase. All the while, he sticks to the company line, telling me that the typical owner of a 4Patriots power product is not some zealot in camouflage preparing to live in a bunker “for days on end” but rather a family man seeking “energy independence” for the occasional moments when the grid goes down. It’s a well-placed piece of rhetoric, though the line loses some of its luster an hour later, when Tyler lets slip that his childhood home nearby does, indeed, feature a modest bunker, then reluctantly agrees to take us to it. Today, the US government advises every citizen to build a disaster kit and concoct plans for an array of cataclysms. According to a 2023 survey from the Federal Emergency Management Agency, 51 percent of Americans are in some way “prepared for a disaster.” This helps explain why the prepping industry’s market cap is forecast to be nearly $300 billion by the end of the decade. Two of the firms competing for market share have nearly identical names and offer the same basic slate of products: power generators, dehydrated food, and water filtration. There’s Stapleton’s employer, 4Patriots, and its rival, My Patriot Supply. While exact revenue figures are difficult to pin down, officials at My Patriot Supply tell me that, before the pandemic, they rented part of a 45,000-square-foot space; today, the company built and fully utilizes a 428,000-square-foot warehouse not far from Stapleton’s home. These two firms are aggressively jockeying to be the industry’s true patriot prepping company, with one official from My Patriot Supply claiming that 4Patriots is their “archnemesis.” My Patriot Supply is particularly bellicose, deeming the other company and its competitors “ fake patriots ”in a video. Meanwhile, both firms have notched their share of consumer complaints with government and business watchdogs over the years. 4Patriots customers have alleged that the company produces faulty water filters, defective generators, and dubious food. One person said their order was rife with roaches, while another claimed the company's Aztec Chili with Mango made them “can’t leave the bathroom sick” for a week. (According to the Better Business Bureau website, someone associated with 4Patriots replied to this alleged complaint a day later, adding, \"I'm so sorry that you had many issues after consuming the survival food kits.”) In 2016, the company voluntarily recalled a couple thousand generators due to an unforeseen fire hazard, and consumer complaints allege their generators continue to suffer from potentially dangerous electrical defects. (After putting 4Patriots’ 1,800-watt solar generator through lab testing, Consumer Reports rated it 46 out of 100 .) Certainly, recalls and bad reviews are part and parcel of many businesses today, though an explicit part of the pitch from 4Patriots and its competitors is the rock-hard reliability of their goods when disaster strikes. In a comment to WIRED, a 4Patriots official said the company shipped over 5 million products to consumers over the past three years and that it places “product quality and customer safety above all else.” He declined to detail the company’s return or refund rates, asserting that to equate those numbers with “product failure or customer dissatisfaction would be inaccurate.” Video: Sinna Nasseri Stapleton, for his part, is bullish about the current generation of 4Patriots’ generators. We end his house tour in the kitchen, where he volunteers to demonstrate the company’s AlphaCase suitcase-sized generator, a product that is “powerful enough,” he says, to run his refrigerator. As he shimmies it out from a kitchen wall, Stapleton talks excitedly about the incredible advances in battery technology pioneered in recent years by firms like Tesla. “It’s competitive, and that’s a good thing,” Stapleton says. “There’s a lot of people pushing the envelope on what’s possible. And so we are working hard to stay ahead of that.” As the climactic moment arrives, Stapleton unplugs his fridge and hooks it up to the 4Patriots power pack. It buzzes quietly for a few seconds, then emits a beeping sound. At this point, a message shoots up on the screen. “That’s just the overload message,” Stapleton awkwardly explains, adding that “this guy”—meaning his generator, which he had just said would run a refrigerator and which the website claims, too—is “a little bit small for powering fridges.” The garden at Stapleton’s father’s home. Photograph: SINNA NASSERI When, in the mid-1800s, the Mormons first fled west to the Utah Territory, they viewed prepping as a means of survival and autonomy from government persecution. They subsequently formed an off-grid society, with the church operating its own bank, printing its own currency, and directing a militia. In an October 1980 speech before thousands in Salt Lake City, church leader Ezra Taft Benson articulated a far more practical ethic of preparedness. A well-studied farmer, Benson spearheaded the reintroduction of missionary work in Europe following World War II. In his speech, Benson recalled the “terrible physical and social side effects of hunger” he witnessed in the wake of the war, his voice breaking with emotion. “Too often,” he said, “we bask in our comfortable complacency and rationalize that the ravages of war, economic disaster, famine, and earthquake cannot happen here.” Mormons, of course, were not the only group of Americans to worry about the future; Boy Scouts who hope to become Eagles have long needed to earn an Emergency Preparedness Merit Badge. In their 2024 book, Be Prepared: Doomsday Prepping in the United States , Robert E. Kirsch and Emily Ray trace how American prepping has long been wed to consumerism through its alluring pitch to “purchase your way to safety.” Today, America’s roulette wheel of routine calamity includes extreme heat, power grid overload, crop failure, water contamination, climate-change-induced natural disasters, climate-change-induced disease, government shutdowns, political corruption, troops in the streets, fervent militia activity, mass shootings—and, new for 2026, regime change in Latin America. It also seems that every few years an asteroid just barely misses Earth . Final Famine , a book by Teddy Daniels stocked at the My Patriot Supply warehouse in Salt Lake City. Photograph: SINNA NASSERI Founded in 2008, 4Patriots initially focused on food, appealing to people who started stocking emergency rations after the election of Barack Obama. Its unlikely founder is Allen Baler, who has an English degree from Obama’s law school alma mater, Harvard, and a corporate marketing background, traits that My Patriot Supply has spoofed in YouTube content showing a Baler-esque figure in a Harvard half-zip who resorts to “scarcity” tactics and other cynical sales tricks. The face of the firm back then was Frank Bates, a slick pitchman and Vietnam veteran living near Nashville, Tennessee, who wrote about how Obama's policies had hurt his family, his business, and America. He alleged various government plots, including one that the FEMA was hoarding food because “it knows that if you control the food supply, then you control the people.” When the company’s emergency offerings expanded into power supplies, 4Patriots teased the “dirty little secret that President Obama and the big energy monopolies have been trying to bury.” 4Patriots once described its core customer base as “55+ year-old conservatives in ‘red’ states with a strong sense of self-reliance.” Baler first tapped into this constituency in 2011, with an ad buy at a then-fledgling conservative news outlet called Newsmax, a hub, in his words, of “affluent, conservative men who surprisingly like to buy a lot of stuff online.” He subsequently expanded his messaging to The National Review , Glenn Beck’s conservative news network, The Blaze , and then Fox News, which has repeatedly plugged 4Patriots products on air . In 2014, ThinkProgress alleged that Bates wasn’t real. They could find no one in Nashville with his name and background. Then the site discovered his likeness on a stock image site , captioned “friendly man with arms crossed.” 4Patriots denied any deception and, to this day, occasionally features materials signed by the mysterious Mr. Bates. (On its FAQ page, 4Patriots assures longtime customers that Bates is, indeed, real but that he uses a pen name “to protect his privacy.”) In general, 4Patriots has toned things down, presumably to reach other constituencies , like crunchy off-gridders, tailgaters, campers, and people living in hurricane zones or tornado alley. Still, according to Stapleton, the firm’s customer base continues to include “a lot of conservative individuals.” Stapleton in his garage in American Fork, Utah, near Salt Lake City. Photograph: SINNA NASSERI Both of the patriotic prepping companies promote their products through traditional TV ads and active YouTube channels . My Patriot Supply also produces podcast-style content about the various dangers that necessitate a prepping mindset, while its competitor has launched 4Patriots University , a set of preparedness master classes taught weekly by Seth Weller, a wiry former Boy Scout (and scoutmaster), who has been working in preparedness for a quarter-century. Weller insists that his curriculum focuses strictly on developing contingencies and building community support networks, not pushing product. He argues that too many Americans use prepping as a form of “retail therapy,” buying products “to remove that fear” without building the requisite expertise to actually use them. Weller’s long career on the front lines of American prepping has made him a canny diagnostician of the emotional currents fueling the phenomenon. In his estimation, many of his clients have experienced some sort of profound loss, whether it’s heartache, the death of a loved one, or a storm. “It’s not necessarily some major catastrophic event, but it’s something that changed their lives,” he tells me. “And in that process, they realized that this happened because, well, they had a dependency. And then they turn around, like, ‘I don’t ever want to feel that again.’ So, they realize they have to gain some control. They’ve got to gain independence.” When I ask Weller what thrust him into this world, he points not to an earthquake or a flood but to the painful and unexpected loss of his luxury port-a-potty and shower trailer business. He seems genuinely driven to help people secure calm from their anxieties, arguing that it’s interpersonal prepping networks and skills that can best meet this challenge, not simply gear from prepping companies, which, Weller candidly admits, doesn’t always work. Unprompted, Weller invokes a hypothetically wonky generator, bought “under the guise” that it can power a critical household appliance, only for the lights to go out and the consumer to realize that the product “doesn’t work.” Obviously unaware of my prior experience in Stapleton’s kitchen, Weller",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest about the relationship between the Mormon faith and the 'prepping' industry?",
+          "options": {
+            "A": "The Mormon church explicitly mandates its members to invest in commercial preparedness companies.",
+            "B": "The theological belief in the 'end times' aligns with the industry's focus on disaster preparedness.",
+            "C": "The industry relies heavily on Mormon political influence to secure government subsidies.",
+            "D": "Most leading companies in the sector were founded by high-ranking Mormon officials."
+          },
+          "answer": "B",
+          "explanation": "文章开篇提到：“To be a ‘Latter-day Saint’ is explicitly to believe in, and prepare for, the end times.” 这直接呼应了准备末日（prepping）的行业本质，说明宗教教义与行业关注点之间的契合。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best characterizes Tyler Stapleton's demonstration of the AlphaCase generator?",
+          "options": {
+            "A": "It proved the superiority of Tesla battery technology in real-world scenarios.",
+            "B": "It confirmed the company’s claim that the device could reliably power a refrigerator.",
+            "C": "It highlighted a discrepancy between the company's marketing and the product's actual capability.",
+            "D": "It served as a successful promotion that convinced the author of the product's value."
+          },
+          "answer": "C",
+          "explanation": "Stapleton声称该设备能带动冰箱，但实验时出现了“overload message”，且他承认“this guy... is a little bit small for powering fridges”，这揭示了市场宣传与实际性能之间的差距。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does the author mention Seth Weller's critique of 'retail therapy' in the prepping industry?",
+          "options": {
+            "A": "To illustrate that buying gear is a sufficient substitute for gaining actual skills.",
+            "B": "To show how companies like 4Patriots discourage impulsive consumer behavior.",
+            "C": "To highlight the emotional void that consumers try to fill by purchasing products.",
+            "D": "To explain why government watchdogs have begun to regulate the preparedness market."
+          },
+          "answer": "C",
+          "explanation": "Weller认为许多人将购买产品作为一种“retail therapy”，旨在通过购买物品来消除内心的恐惧，反映了消费者试图通过消费填补情感焦虑。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to the passage, what has been a central marketing strategy for firms like 4Patriots?",
+          "options": {
+            "A": "Emphasizing the technological complexity and innovation of their products.",
+            "B": "Tapping into political anxieties and the desire for self-reliance among certain demographics.",
+            "C": "Providing transparent data on product failure and return rates to build trust.",
+            "D": "Partnering with established humanitarian organizations to aid in disaster relief."
+          },
+          "answer": "B",
+          "explanation": "文中多次提到4Patriots通过针对保守派群体（如Newsmax的受众）以及利用对政府或末日的恐惧心理来进行营销，强调“自力更生”的概念。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the implied attitude of the author towards the 'prepping' industry?",
+          "options": {
+            "A": "Skeptical of the companies' claims and concerned about the exploitation of fear.",
+            "B": "Entirely dismissive of the need for individuals to prepare for emergencies.",
+            "C": "Admiring of the entrepreneurial spirit of founders like Allen Baler.",
+            "D": "Indifferent to the ethics of the industry as long as products are sold legally."
+          },
+          "answer": "A",
+          "explanation": "文章详细披露了产品质量问题、虚构发言人（Frank Bates）以及营销中的误导行为（如无法带动冰箱却声称可以），体现了作者对该行业利用恐惧进行盈利的怀疑与审视。"
+        }
+      ]
+    }
+  ]
+}
