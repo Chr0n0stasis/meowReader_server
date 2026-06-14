@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.14.2026",
+  "papers": [
+    {
+      "title": "The size of tropical vegetation gross primary production",
+      "article_update_date": "06.04.2026",
+      "source_journal": "Nature",
+      "body_text": "arising from: Lai, J. et al. Nature https://doi.org/10.1038/s41586-024-08050-3 (2024). Satellite-based optical observations1,2,3 have converged to show average estimates of global contemporary gross primary production (GPP), the photosynthetic assimilation of atmospheric CO 2 by terrestrial vegetation, at 120–140 petagrams of carbon per year (PgC yr−1). This consensus was challenged by a recent modelling study conducted by Lai et al.4 that posits a higher global estimate of 157 ± 8.5 PgC yr−1, revealing a pronounced discrepancy in the tropics where modelled fluxes of 79 PgC yr−1 exceed satellite-derived values by a factor of 1.33–1.85. We show that the global estimate of Lai et al.4 is extrapolated spatially based on a temporal relationship between the ratio of carbonyl sulfide (OCS) to CO 2 fluxes (hereafter, the leaf relative uptake, LRU) and photosynthetically active radiation (PAR) from a single boreal station and also neglects considerable negative influences of vapour pressure deficit (VPD). This finding underscores the need for accounting for both spatial heterogeneity and climatic constraints when upscaling site-level relationship to the global scale, warranting the necessity of a comprehensive worldwide validation for global estimates.",
+      "difficulty_constant": 11.2,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Satellite-based optical observations have converged to show average estimates of global contemporary gross primary production (GPP), the photosynthetic assimilation of atmospheric CO2 by terrestrial vegetation, at 120–140 petagrams of carbon per year. This consensus was ________ by a recent modelling study.",
+          "options": {
+            "A": "confirmed",
+            "B": "supported",
+            "C": "ignored",
+            "D": "challenged"
+          },
+          "answer": "D",
+          "explanation": "上下文显示Lai et al.的研究与之前的共识不同，因此用challenged（质疑）。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The study by Lai et al. posits a higher global estimate of 157 ± 8.5 PgC yr−1, ________ a pronounced discrepancy in the tropics.",
+          "options": {
+            "A": "obscuring",
+            "B": "creating",
+            "C": "revealing",
+            "D": "predicting"
+          },
+          "answer": "C",
+          "explanation": "此处指研究结果显示（revealing）了热带地区存在的显著差异。"
+        },
+        {
+          "q_number": 3,
+          "stem": "In the tropics, modelled fluxes of 79 PgC yr−1 exceed satellite-derived values by a ________ of 1.33–1.85.",
+          "options": {
+            "A": "portion",
+            "B": "range",
+            "C": "factor",
+            "D": "limit"
+          },
+          "answer": "C",
+          "explanation": "数学倍数通常使用factor表示，符合语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "We show that the global estimate of Lai et al. is ________ spatially based on a temporal relationship.",
+          "options": {
+            "A": "integrated",
+            "B": "extrapolated",
+            "C": "calculated",
+            "D": "measured"
+          },
+          "answer": "B",
+          "explanation": "从局部推演到全局，extrapolated（推断、外推）最为贴切。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The relationship is between the ratio of carbonyl sulfide to CO2 fluxes and photosynthetically active radiation from a ________ boreal station.",
+          "options": {
+            "A": "multiple",
+            "B": "various",
+            "C": "distant",
+            "D": "single"
+          },
+          "answer": "D",
+          "explanation": "文中明确指出是基于单一（single）站点的数据。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The model also ________ considerable negative influences of vapour pressure deficit.",
+          "options": {
+            "A": "addresses",
+            "B": "neglects",
+            "C": "emphasizes",
+            "D": "measures"
+          },
+          "answer": "B",
+          "explanation": "作者指出了模型的缺陷，即忽略了（neglects）VPD的负面影响。"
+        },
+        {
+          "q_number": 7,
+          "stem": "This finding underscores the need for accounting for both spatial ________ and climatic constraints.",
+          "options": {
+            "A": "consistency",
+            "B": "uniformity",
+            "C": "heterogeneity",
+            "D": "similarity"
+          },
+          "answer": "C",
+          "explanation": "与气候限制相对，空间上的异质性（heterogeneity）是科学研究中常讨论的变量。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The authors suggest that upscaling site-level relationship to the global scale requires ________.",
+          "options": {
+            "A": "revision",
+            "B": "caution",
+            "C": "abandonment",
+            "D": "validation"
+          },
+          "answer": "A",
+          "explanation": "针对现有模型的缺陷，作者提出需要修正（revision）或更严谨的评估方法。"
+        },
+        {
+          "q_number": 9,
+          "stem": "This study ________ the necessity of a comprehensive worldwide validation for global estimates.",
+          "options": {
+            "A": "warranting",
+            "B": "demonstrating",
+            "C": "refuting",
+            "D": "questioning"
+          },
+          "answer": "A",
+          "explanation": "warranting在此处意为“使……有正当理由”，体现必要性。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The photosynthetic assimilation of atmospheric CO2 ________ the process of terrestrial vegetation.",
+          "options": {
+            "A": "replaces",
+            "B": "characterizes",
+            "C": "stabilizes",
+            "D": "promotes"
+          },
+          "answer": "B",
+          "explanation": "同位语从句解释GPP，assimilation是植被固碳过程的核心特征。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Recent modelling efforts have ________ from satellite-based observations in their final estimates.",
+          "options": {
+            "A": "diverged",
+            "B": "emerged",
+            "C": "benefited",
+            "D": "arisen"
+          },
+          "answer": "A",
+          "explanation": "文章主旨是模型结果与卫星数据有出入，diverged（分歧）符合逻辑。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The discrepancy is especially ________ in the tropics.",
+          "options": {
+            "A": "temporary",
+            "B": "negligible",
+            "C": "obvious",
+            "D": "constant"
+          },
+          "answer": "C",
+          "explanation": "文章提到差异是pronounced（显著的），故选obvious。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The authors provide a ________ analysis of why the previous model failed.",
+          "options": {
+            "A": "critical",
+            "B": "casual",
+            "C": "superficial",
+            "D": "subjective"
+          },
+          "answer": "B",
+          "explanation": "此处需一个形容词修饰分析，基于文章的学术严谨性，critical（批判性的/审慎的）合理。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Scientists must be careful when ________ local data to a broader range.",
+          "options": {
+            "A": "extending",
+            "B": "applying",
+            "C": "restricting",
+            "D": "comparing"
+          },
+          "answer": "B",
+          "explanation": "将局部数据应用（applying）到全局范围是建模常见做法。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The study suggests that current models might be ________ by the lack of diverse data.",
+          "options": {
+            "A": "limited",
+            "B": "advanced",
+            "C": "facilitated",
+            "D": "improved"
+          },
+          "answer": "A",
+          "explanation": "因数据源单一，模型能力受限（limited）。"
+        },
+        {
+          "q_number": 16,
+          "stem": "It is ________ to consider environmental factors beyond just radiation.",
+          "options": {
+            "A": "essential",
+            "B": "optional",
+            "C": "trivial",
+            "D": "secondary"
+          },
+          "answer": "D",
+          "explanation": "作者强调了考虑其他因素的重要性，essential（必要的）最合适。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The atmospheric CO2 levels play a(n) ________ role in global carbon cycles.",
+          "options": {
+            "A": "pivotal",
+            "B": "minor",
+            "C": "unclear",
+            "D": "negligible"
+          },
+          "answer": "D",
+          "explanation": "此处用pivotal（关键的）来强调背景信息。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Scientific research often ________ consensus to advance understanding.",
+          "options": {
+            "A": "maintains",
+            "B": "accepts",
+            "C": "ignores",
+            "D": "questions"
+          },
+          "answer": "A",
+          "explanation": "科学进步往往通过质疑（questions）旧有共识实现。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Reliable estimates ________ on the quality of underlying data.",
+          "options": {
+            "A": "depend",
+            "B": "interfere",
+            "C": "operate",
+            "D": "focus"
+          },
+          "answer": "C",
+          "explanation": "结论的可靠性取决于（depend）底层数据的质量。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Future studies should ________ more complex environmental variables.",
+          "options": {
+            "A": "incorporate",
+            "B": "abandon",
+            "C": "misinterpret",
+            "D": "exclude"
+          },
+          "answer": "D",
+          "explanation": "为解决现有模型缺陷，必须纳入（incorporate）更多复杂变量。"
+        }
+      ]
+    },
+    {
+      "title": "Europe has reduced illegal immigration without goon tactics",
+      "article_update_date": "06.06.2026",
+      "source_journal": "Economist",
+      "body_text": "Europe has reduced illegal immigration without goon tactics Europe | Charlemagne Europe has reduced illegal immigration without goon tactics But that is just the easy half of its migration battle June 4th 2026 Given its oft-proclaimed calling as a peace project, the European Union can sound oddly bellicose when it sets about crafting policy. There are trade and fiscal “bazookas” to blast away crises, “silver bullet” solutions for every problem, and “nuclear options” to be used as a last resort. Yet in the absence of an EU army or even a police force, the pen-wielding Eurocracy rarely gets its hands on anything that looks like an actual weapon. The only exception—tellingly—is the club’s border-patrol agency. For over a decade after it was founded in 2005, Frontex agents wielded little more than whistles and admonishments as they helped national authorities keep out migrants. These days they also carry Glock 9mm handguns, FBI-style. In a union built to make war unthinkable, the first supranational weapon was issued not for defence against armies, but for keeping unarmed people out. Whether because of the Glocks or, more likely, because of a slew of new measures in recent years, irregular migration into the EU has markedly declined of late. Illegal crossings spotted by Frontex are down by more than half over the past couple of years. Demands for asylum in EU countries have also fallen sharply. Though migration can ebb and flow according to unpredictable rhythms—a million-strong influx of Syrians and Afghans arrived in Europe in 2015 and 2016, years after strife in their respective countries had broken out—there is an odd sense of calm about the EU’s external frontier these days. On June 12th a “migration package” of measures originally conceived in the depths of the crisis a decade ago will come into force, tightening border controls and sending irregular migration down further. Perhaps, maybe, conceivably, Europe has cracked the problem of new unwanted arrivals onto its shores. Alas, the politically toxic issue of migrants already in Europe, who are often poorly integrated, remains. Europe can be said to have half-solved one half of its migration problem. Still, for the first time, a mood akin to optimism reigns among interior-ministry types. Illegal migration is the one issue that every EU leader knows can cost them their job if handled poorly. Officials in Brussels have thus worked up tangible ways to throttle unwanted arrivals. The most effective trick is to shower “transit” countries such as Tunisia and Egypt with cash if they prevent migrants from farther afield from travelling onwards to Europe. Such a deal with Turkey helped stem the crisis in 2016; it has since been expanded. The EU now works more closely with places from where migrants originate, even if that means talking to unsavoury regimes such as the Taliban in Afghanistan. Things will get tougher yet for putative migrants. Beginning later this month, anyone who arrives irregularly in the EU with little chance of being granted refugee protection (because they come from countries deemed safe, such as Bangladesh) will be housed in detention camps at the border while their claim is assessed. Those who fail to qualify for asylum—currently a large majority of cases—would once have expected to spend years working in European countries’ shadow economies as they waited to be expelled. No longer. Under a deal reached on June 1st, anyone whose bid for asylum fails might instead end up in “return hubs” in far-flung countries such as Uganda or Uzbekistan while the EU makes arrangements to repatriate them. The hope is that potential migrants choose not to make the trip in the first place. Europe deserves plaudits for stemming arrivals without resorting to the performatively cruel tactics used by immigration-enforcement goons in America. Though the tone around migration is harsher, and many NGOs are horrified by a strategy they say, plausibly, outsources Europe’s problems to unsavoury regimes, the measures are on the whole pretty sensible. Yet plenty of potential pitfalls remain. Schengen, the passport-free travel scheme, has been partially suspended by various countries, including France and Germany, because of fears illegal migrants will roam from one EU country to the next. Nobody knows how well the pact would work if migration were to surge again: return hubs in Africa or Asia, which have yet to be set up, will be able to house only limited numbers of people. Attempts to “externalise” migrant processing, such as the centres Italy opened in Albania in 2024 to handle asylum claims offshore, have become mired in EU courts. Migration continues to poison European politics. But these days it is not mostly because of new arrivals at the borders. Rather, hostility towards immigrants who arrived in the past, whether in 2015 or 1975, has propelled parties of the populist right to the top of the polls in Germany and France, and to power in Italy. Bashing people of foreign descent—most of whom settled in Europe legally or were born there, many of them citizens—has become routine across much of the political spectrum. On May 30th several hundred people attended a “remigration summit” in Portugal, including officials from the xenophobic Alternative for Germany. The idea that descendants of migrants should be encouraged to leave is plainly racist, yet no longer taboo. Jordan Bardella, who is leading the polls for the first round of next year’s French elections, blamed migrants “physically in France but whose souls and hearts lie elsewhere” for a night of rioting following a football match. For such parties, the issue of migration is far too potent to leave behind, even if the number of new arrivals falls. The integration piece of the migration challenge cannot be resolved with guns or pacts. Perhaps, if irregular arrival rates stay low for many years, some of the toxicity might dissipate. It needs to. Europe will require migrants in coming decades to offset its demographic decline. That does not mean opening its borders to anyone who chooses to move there. But it will mean, one day, welcoming some migrants with open arms rather than Glocks. ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//europe/2026/06/04/europe-has-reduced-illegal-immigration-without-goon-tactics",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The author mentions the \"pen-wielding Eurocracy\" to illustrate that:",
+          "options": {
+            "A": "EU officials prefer using diplomacy over physical force.",
+            "B": "The EU lacks the conventional means of military or police enforcement.",
+            "C": "The bureaucracy is responsible for the aggressive rhetoric against migrants.",
+            "D": "EU policies are often drafted with unclear and impractical legal language."
+          },
+          "answer": "B",
+          "explanation": "文章提到“In the absence of an EU army or even a police force, the pen-wielding Eurocracy rarely gets its hands on anything that looks like an actual weapon”，意在说明欧盟缺乏强制执行的实体力量，仅能依赖行政手段（笔），故B项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is implied about the \"Glock 9mm handguns\" carried by Frontex agents?",
+          "options": {
+            "A": "They are purely symbolic tools intended to intimidate refugees.",
+            "B": "They signify a shift from diplomatic to militaristic border control.",
+            "C": "They represent the EU's departure from its identity as a peace-focused project.",
+            "D": "They have been highly effective in physically repelling migrant influxes."
+          },
+          "answer": "C",
+          "explanation": "文章提到欧盟是一个建立在“make war unthinkable”基础上的组织，而现在却配备了“first supranational weapon”，这暗示了欧盟在处理边境问题上的本质转变，违背了其和平项目的初衷，故C项最为贴切。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, why has the EU been successful in reducing new irregular arrivals?",
+          "options": {
+            "A": "The implementation of the 'migration package' has completely sealed all EU borders.",
+            "B": "Economic incentives have been provided to transit countries to curb migration flow.",
+            "C": "Refugees have voluntarily chosen to avoid detention camps by staying in their home countries.",
+            "D": "The EU has strictly enforced international asylum laws against all neighboring nations."
+          },
+          "answer": "B",
+          "explanation": "文中指出“The most effective trick is to shower 'transit' countries such as Tunisia and Egypt with cash if they prevent migrants from farther afield from travelling onwards to Europe”，即通过向中转国提供资金，从而抑制移民继续前往欧洲，故选B。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What concern does the author raise regarding the \"return hubs\" policy?",
+          "options": {
+            "A": "It is unlikely to be implemented due to legal challenges.",
+            "B": "The locations of these hubs are too far away for effective logistics.",
+            "C": "They may not have sufficient capacity to handle a significant surge in migration.",
+            "D": "The cost of operating these facilities will lead to an economic crisis in the EU."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到“return hubs in Africa or Asia, which have yet to be set up, will be able to house only limited numbers of people”，指出了其容量有限的隐忧，故选C。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary message of the passage regarding the future of migration in Europe?",
+          "options": {
+            "A": "The EU's current border policies will permanently solve the migration crisis.",
+            "B": "Political hostility toward established immigrants is a more pressing issue than new arrivals.",
+            "C": "The populist right wing is essential for managing Europe's future demographic decline.",
+            "D": "Europe should prioritize the integration of migrants over its demographic requirements."
+          },
+          "answer": "B",
+          "explanation": "文章后半部分重点讨论了即使新移民减少，针对已在欧洲的移民的敌意已成为政治毒素，且极右翼利用此问题获利，这已超越了边境管制的范畴，故B项准确概括了文末的主旨。"
+        }
+      ]
+    },
+    {
+      "title": "Can Hakeem Jeffries Lead a Democratic Takeover of the House?",
+      "article_update_date": "05.28.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Can Hakeem Jeffries Lead a Democratic Takeover of the House? Profiles Can Hakeem Jeffries Lead a Democratic Takeover of the House? An unprecedented gerrymandering effort led by Donald Trump—and internal divisions among Democrats—has made the Minority Leader’s path to victory harder than ever. By Jason Zengerle May 18, 2026 Earlier this year, Hakeem Jeffries, who represents New York’s Eighth Congressional District, was headed to a meeting with a Democratic donor in Palm Beach when he checked his phone. As the House Minority Leader, Jeffries has spent much of the past eighteen months hopscotching across blue America’s high-income Zip Codes, soliciting campaign contributions in Palo Alto and Palm Desert, Martha’s Vineyard and Greenwich. The evening before, he had headlined a Democratic Party fund-raiser at a lobbyist’s office in Miami. Now, as he was being driven north, in a Capitol Police S.U.V.—a staple of the twenty-four-hour security detail provided to congressional leaders—Jeffries saw that one of his staffers had alerted him to a video on Donald Trump’s Truth Social account. The clip, which promoted various conspiracy theories about the 2020 election, included a depiction of Barack and Michelle Obama as apes. Jeffries, who is the highest-ranking Black elected official in the United States, had criticized Trump for what he once called “a troubling pattern of racially insensitive and outrageous at times behavior.” He’d branded the President a “racial arsonist” and the “birther-in-chief.” At the same time, he had steadfastly refused to call Trump a racist. In 2019, when CNN pressed Jeffries on another remark—he’d dubbed Trump “the grand wizard of 1600 Pennsylvania Avenue”—he replied, “I did not use the word ‘racist’ in any of my comments.” But as Jeffries watched the video from Trump’s feed he seethed. “The guy is so disgusting and out of control in so many different areas,” he told me. “My reaction was visceral.” Anger is not an emotion typically associated with Jeffries. His favorite mantra, one he frequently repeats to colleagues and staffers, is “Calm is an intentional decision.” This has not always endeared him to some Democratic partisans. In the early months of Trump’s second term, when Jeffries held readings in several cities to promote “The ABCs of Democracy”—a children’s book he wrote that contains lessons such as “American values over autocracy,” “benevolence over bigotry,” and “the Constitution over the cult”—he was often greeted by protesters from local progressive groups who chanted “Grow a spine!” and carried signs that read “Jeffries! Be Ruthless” and “Book Tour? NOW?” This past February, after Jeffries asked Democratic members of Congress to sit in “silent defiance” during Trump’s State of the Union address, Stephen Colbert cracked that “silent defiance” was “a bold rebrand of doing jack squat,” adding, “As Martin Luther King once said, ‘Sh-h-h.’ ” Amanda Litman, the head of the liberal group Run for Something, offered a “Godfather” reference, complaining to the Times that Jeffries “is not well suited to being a leader of the opposition—a wartime consigliere.” Jeffries maintains that he and the House Democrats have stood up to Trump plenty. He points to their decision to trigger government shutdowns to protect health-care benefits and to protest the White House’s immigration-enforcement tactics, their multistate campaign to offset Republicans’ gerrymandering efforts, and their repeated use of so-called discharge petitions, which has allowed them to force floor votes on bills opposed by the Republican leadership, including one that led to the release of the Department of Justice’s files on Jeffrey Epstein. “From the standpoint of House Democrats, I certainly think that we’ve proceeded with a level of ruthless intensity,” he told me. Still, Jeffries knew that he needed to strongly condemn Trump’s video. Even Republicans, who usually feigned ignorance about the President’s social-media outbursts, were weighing in. “I do not feel the need to respond to every inflammatory statement made by the White House,” Representative Mike Turner, a Republican from Ohio, wrote on X. “However, the release of images of former President Barack and First Lady Michelle Obama is offensive, heart breaking, and unacceptable. President Trump should apologize.” Jeffries didn’t think that a post on X would suffice—“I wanted to do a direct-to-camera on this,” he said—but he wasn’t about to commandeer the living room of a donor’s Palm Beach mansion. He asked his security detail to take him to a public park. “The question was: Am I just gonna say what I’m really feeling about it?” he recalled. “I decided, you know, I’m not gonna hold back.” Standing beneath a sea-grape tree, his suit jacket buttoned and a wireless lavalier microphone attached to his lapel, Jeffries looked into an aide’s iPhone and said, “Fuck Donald Trump!” Almost immediately, Jeffries began to waver. He instructed staffers back in Washington to bleep the word “fuck.” A few younger aides objected to the self-censorship but didn’t press the point. Jeffries then asked his team to hold off on posting the video until he was done tending to the donor; he wanted to see how things played out. Later that day, when he learned that the White House had claimed that a staffer, not Trump, had “erroneously” made the post, his anger returned. “I think that’s what probably put me over the edge,” he said. He gave his team the green light to post the video on Instagram. The response was immediate. Popular liberal accounts on Bluesky and X—not always the safest spaces for Jeffries—reposted the video. “🚨HUGE: Leader Hakeem Jeffries says ‘FUCK DONALD TRUMP,’ ” @CalltoActivism, which has 1.2 million followers, wrote on X. “His ENTIRE statement is 🔥.” That evening, MS NOW led with the video on its prime-time show “The Weeknight.” When I visited Jeffries in his office at the Capitol six days later, he still seemed to be savoring the moment. “There were pastors and other civil-rights leaders that I ran into that just said, ‘Thank you for saying that, because that’s what we all were feeling,’ ” he told me. Yet, as he sat in a silk-upholstered chair in front of a fireplace, he also couldn’t quite hide some discomfort. Jeffries, who is fifty-five, with hazel eyes and a warm smile, is friendly but guarded; in interviews and even in casual conversation, he speaks in the same studied, staccato style that he uses on the House floor. Discussing the episode, he avoided repeating the phrase “Fuck Donald Trump,” instead referring to “those three words.” “It’s not like I’m gonna adopt the practice of regularly speaking in this way,” he said. Jeffries steepled his hands and let out a small sigh. The praise from the internet was nice. The praise from the pastors was even nicer. But, he said, “I haven’t heard from my mother yet, so I’m a little concerned about that.” As the leader of the minority party in the House of Representatives, a fundamentally majoritarian institution, Jeffries has little ability to get anything done. Speaker Mike Johnson and his fellow-Republicans control the chamber’s agenda, schedule, and procedures—and, as a result, can dictate most of its outcomes. The main thing Jeffries can do as Minority Leader is to help Democrats get back into the majority. Representative Jared Moskowitz, a Florida Democrat, told me, “Hakeem is singularly focussed. I mean, he’s focussed on many things, but he’s literally focussed on one thing—and that’s becoming Speaker.” The other thing Jeffries can do as Minority Leader, which is in service of the first, is to keep the peace within his caucus. “He’s very attuned to different voices and different factions within the Democratic coalition,” Representative Jamie Raskin, a Democrat from Maryland, told me. Jeffries hosts a weekly sit-down, called the Crescendo Meeting, with the heads of nearly a dozen Democratic sub-caucuses, from the Blue Dogs and the progressives to the Black, Hispanic, Asian Pacific American, and women’s caucuses. According to John Leganski, who served as the deputy chief of staff to the former Republican House Speaker Kevin McCarthy, Jeffries once explained to McCarthy, “You have five families, Kevin. I’ve got eleven.” Jeffries is an inveterate texter and typically responds to messages within an hour. “Most people, if you ask them, ‘Do you have a good relationship with Hakeem?,’ they’d say, ‘Yeah, I have a great relationship with Hakeem,’ ” Josh Gottheimer, a Democratic House member from New Jersey, said. “Everybody feels like they’re in the inner circle.” Jeffries told me, “The most important words that I can say to any member of Congress on any given issue are ‘What do you think?’ ” Not every House Democrat is a fan of this approach. “He’s got to listen to people, but then he’s got to say, ‘This is what we should be doing,’ ” one Democratic member told me. Another said, “I think he views his role as entirely oriented around member management, and everything is viewed through the lens of keeping the different caucuses happy with him. I don’t think he’s really here to be a leader. I think he’s here to become Speaker.” Multiple members pointed to an episode from last September, after the assassination of the conservative activist Charlie Kirk. Mike Johnson introduced a ceremonial measure that hailed Kirk as a “courageous American patriot” and called upon “all Americans—regardless of race, party affiliation, or creed—to reject political violence.” But the resolution also described Kirk—who had claimed that “prowling Blacks go around for fun to go target white people” and that “Islam is the sword the left is using to slit the throat of America”—as someone who was known for “engaging in respectful, civil discourse” and “always seeking to elevate truth, foster understanding, and strengthen the Republic.” Jeffries believed that the resolution was designed as a trap for so-called frontline Democrats—two dozen or so vulnerable incumbents who represent purple or red districts. In a caucus meeting a few hours before the measure came to the floor, Jeffries and his leadership team announced that they would vote for the resolution, to provide cover for the frontliners, but that every member should feel free to “vote their conscience.” In the end, ninety-five Democrats voted for the Kirk resolution. The majority of Democrats who opposed it—fifty-eight in total—belonged to the Congressional Black Caucus. As the group explained in a statement after the vote, its members considered the measure “an attempt to legitimize Kirk’s worldview—a worldview that includes ideas many Americans find racist, harmful, and fundamentally un-American.” White progressive Democrats who voted for the resolution felt blindsided by the C.B.C.’s opposition; C.B.C. members felt that Jeffries and his leadership team, by failing to provide specific voting instructions, had hung them out to dry. “They need to say, ‘We understand that it’s a gotcha resolution, so there’s no right answer, but here’s the answer,’ ” one Democrat told me. In a subsequent ninety-minute Zoom call, C.B.C. members vented their frustrations to Jeffries; at least one of them was openly crying. “It became very toxic, volatile, and emotional,” Joyce Beatty, a Democrat from Ohio and a former C.B.C. chair, said. But, she went on, the caucus’s members ultimately felt that Jeffries had understood their concerns: “It takes a stronger and greater leader that can call all those people back together and work through the tears and the emotion and say, ‘I handled it wrong.’ ” Jeffries’s “light touch,” as several members described his leadership style, has also had some success. On February 26th, two days before Trump launched Operation Epic Fury, a joint assault with Israel on Iran, Jeffries announced that he planned to force a vote on a war-powers resolution that would prohibit further military force against the Islamic Republic without congressional approval. The onset of hostilities was enough to persuade around a hundred and eighty Democrats to support the measure. But there were still as many as thirty Democrats, many of them staunch supporters of Israel, who were not yet on board. On March 3rd, Jeffries invited several of the holdouts, including Gottheimer, Debbie Wasserman Schultz, of Florida, and Greg Landsman, of Ohio, to his office for a meeting. Gottheimer and Wasserman Schultz explained why they were still undecided; Landsman laid out",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest about Hakeem Jeffries’ leadership style in the early stages of his tenure?",
+          "options": {
+            "A": "He prioritizes aggressive confrontation over deliberate planning.",
+            "B": "He is perceived by some progressives as overly cautious or lacking intensity.",
+            "C": "He frequently neglects his duties to focus on personal book tours.",
+            "D": "He relies heavily on inflammatory language to rally his base."
+          },
+          "answer": "B",
+          "explanation": "The text mentions that Jeffries' mantra is 'Calm is an intentional decision' and that he faced criticism from progressive groups who chanted 'Grow a spine!' and called him out for not being a 'wartime consigliere,' suggesting he is perceived as too cautious."
+        },
+        {
+          "q_number": 2,
+          "stem": "Why did Jeffries decide to post the video of his profane statement despite initial hesitation?",
+          "options": {
+            "A": "He wanted to signal a permanent shift in his communication style.",
+            "B": "He was pressured by his younger aides to adopt a more aggressive tone.",
+            "C": "He felt provoked by the White House's deflection of responsibility regarding the original offensive post.",
+            "D": "He believed that a public display of anger was necessary to maintain his support among Democratic donors."
+          },
+          "answer": "C",
+          "explanation": "The article states that Jeffries wavered but his anger returned when he learned the White House blamed a staffer for the post, noting: 'I think that’s what probably put me over the edge.'"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is implied by the term 'majoritarian institution' in the context of the House of Representatives?",
+          "options": {
+            "A": "The minority party has equal power to influence legislation.",
+            "B": "The majority party holds the effective power to dictate the legislative agenda.",
+            "C": "Decisions are made strictly through consensus-building across party lines.",
+            "D": "The Speaker of the House is subordinate to the minority leader in procedural matters."
+          },
+          "answer": "B",
+          "explanation": "The text explains that as leader of a 'fundamentally majoritarian institution,' Jeffries has little ability to get things done because the Republicans control the agenda, schedule, and procedures."
+        },
+        {
+          "q_number": 4,
+          "stem": "The episode involving the resolution honoring Charlie Kirk serves to illustrate which aspect of Jeffries’ leadership?",
+          "options": {
+            "A": "His success in maintaining absolute unity across all Democratic sub-caucuses.",
+            "B": "His tendency to prioritize member management and coalition harmony over clear directive guidance.",
+            "C": "His unwavering commitment to the concerns of the Congressional Black Caucus above all others.",
+            "D": "His reliance on Republican allies to push through controversial legislation."
+          },
+          "answer": "B",
+          "explanation": "The Kirk resolution episode highlights the tension between his focus on 'member management' and the frustration of members who felt he should have provided specific instructions rather than letting them 'vote their conscience.'"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary objective of Jeffries’ 'Crescendo Meeting'?",
+          "options": {
+            "A": "To directly challenge the Republican agenda on the House floor.",
+            "B": "To coordinate national campaign fundraising efforts.",
+            "C": "To keep the peace and understand the diverse perspectives within his caucus.",
+            "D": "To finalize voting instructions for the upcoming war-powers resolution."
+          },
+          "answer": "C",
+          "explanation": "The text notes that in his role as Minority Leader, keeping the peace within his caucus is key, and he is 'very attuned to different voices and different factions,' which is facilitated by these weekly meetings."
+        }
+      ]
+    },
+    {
+      "title": "As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?",
+      "article_update_date": "05.20.2026",
+      "source_journal": "The Guardian",
+      "body_text": "To be around the centre of an Ebola outbreak is to become used to the smell of chlorine. At hospitals and government buildings, surfaces are sprayed with it and hands washed in a 0.05% solution that can kill the virus in 60 seconds. Infrared handheld thermometers take temperatures at airports and border crossings. Any indication of a fever prevents passage. Contact-tracing teams crisscross the countryside. From 2018 to 2020, Butembo, in the Democratic Republic of the Congo’s northern Kivu province, was the setting for the largest Ebola outbreak the country had seen. The complexities of the crisis were not confined to the ravages of the virus itself – they were intensified by social, political and economic pressures of an area in the midst of a conflict. As global health officials wrestle with a serious new Ebola outbreak in the DRC, which has shocked the World Health Organization with its speed and scale, the question is what lessons have been learned from previous outbreaks? Ebola, unlike Covid, is not a particularly efficient virus. As it is not airborne it requires physical contact with bodily fluids, including blood and vomit, to spread. That makes it particularly risky for healthcare workers, who need full-body personal protective equipment (PPE) and stringent disinfection processes. Social practices including physical contact with the dead and dying in poor rural communities accelerated the spread in eastern Kivu and Ituri province. View image in fullscreen A poster displaying Ebola emergency contact numbers in a tent at the Busunga border crossing between Uganda and the DRC. Photograph: Badru Katumba/AFP/Getty Images A second critical factor that hampered the response six years ago was the history of political tension between the country’s government in Kinshasa and the Nande ethnic group in eastern Kivu amid an insurgency. The outbreak was exploited by cynical actors during elections, who either suggested Ebola did not exist or had been brought in by outsiders. That, in turn, led to armed attacks, some lethal, on health workers and Ebola clinics, including one in Butembo while the Guardian was visiting. While a new vaccination programme was available during that outbreak, there is no vaccine for the current strain of the Ituri outbreak, which is caused by the Bundibugyo variant of Ebola. It is the least well known of the three forms of the disease and has caused only two outbreaks before – in 2007 and 2012 – which killed about 30% of those infected. Another reason for concern in the current outbreak is the suggestion that the cases may have been missed early on, potentially enabling unrecognised transmission. One key difference from previous major outbreaks in west and central Africa is the speed with which this time the WHO has declared it a public health emergency of international concern (PHEIC). In 2018, the WHO was roundly criticised for delaying for four months before declaring a PHEIC, defined as “an extraordinary event that may constitute a public health risk to other countries through international spread of disease and may require an international coordinated response”. In the current outbreak, a PHEIC was declared within 48 hours, and the WHO’s head, Tedros Adhanom Ghebreyesus, said his concern was so great he had decided to act without an emergency committee meeting. Despite that, Daniela Manno, a clinical epidemiologist at the London School of Hygiene and Tropical Medicine, has warned the current Ituri outbreak shares some of the complicating elements of the 2018 to 2020 outbreak. “First, the number of suspected cases reported before confirmation suggests transmission may have been ongoing for several weeks before the outbreak was formally recognised,” she said. “Second, the outbreak is occurring in a region affected by insecurity, population displacement and high population mobility, all of which can complicate surveillance, contact tracing and delivery of healthcare. “A previous Ebola outbreak affecting North Kivu and Ituri provinces between 2018 and 2020 lasted for nearly two years, with insecurity and community mistrust repeatedly disrupting contact tracing, vaccination and response activities. View image in fullscreen A border health officer at a crossing between Uganda and the DRC checks a traveller’s temperature. Experts say the spread into Uganda probably caused the WHO to act quickly. Photograph: AFP/Getty Images “In addition, the outbreak is now thought to be caused by Bundibugyo virus, a rare Ebola-causing virus for which there are currently no licensed vaccines or therapeutics specifically approved. There are also no vaccines in late-stage clinical development that could be readily deployed during the outbreak. “However, it is important to emphasise that the DRC has extensive experience responding to Ebola outbreaks, and outbreak response capacity is significantly stronger today than it was a decade ago.” Anne Cori, an associate professor in infectious disease modelling at Imperial College London, said the spread of the disease across an international border had probably influenced the quick declaration of an international public health emergency. “A PHEIC is an official declaration made by the WHO under the international health regulations, recognising the international nature of a public health threat. It aims to help mobilise attention and resources, and coordinate response efforts at international level. “The last PHEIC for an Ebola outbreak was declared in July 2019 during the 2018 to 2020 Ebola epidemic in the North Kivu province of the DRC. At the time, the PHEIC was declared a year into the outbreak after it reached the urban area of Goma, threatening to spread internationally to nearby Rwanda. “The current epidemic already comprises confirmed cases across both the DRC and Uganda, which likely influenced the declaration of a PHEIC as its focus is really the international nature of the threat.” Peter Beaumont reported from Butembo for the Guardian in 2019, visiting Ebola treatment centres and vaccination efforts.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the spread of Ebola in eastern Kivu was exacerbated by which of the following factors?",
+          "options": {
+            "A": "The lack of disinfectant solutions in healthcare facilities.",
+            "B": "The efficiency of the virus in airborne transmission.",
+            "C": "Social habits involving interaction with deceased individuals.",
+            "D": "The lack of interest from global health organizations."
+          },
+          "answer": "C",
+          "explanation": "文章提到“Social practices including physical contact with the dead and dying in poor rural communities accelerated the spread in eastern Kivu and Ituri province”，故C项符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is implied about the political climate during the 2018-2020 Ebola outbreak?",
+          "options": {
+            "A": "The government and local groups collaborated to fight the virus.",
+            "B": "Cynical political actors manipulated the public perception of the disease.",
+            "C": "Political tension was unrelated to the outbreak's response.",
+            "D": "Health workers were fully protected by the local insurgent groups."
+          },
+          "answer": "B",
+          "explanation": "文章指出“The outbreak was exploited by cynical actors during elections, who either suggested Ebola did not exist or had been brought in by outsiders”，说明政治操弄干扰了抗疫，故选B。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does the current Ituri outbreak cause particular concern compared to previous ones?",
+          "options": {
+            "A": "It is caused by a variant that lacks specific approved vaccines or therapeutics.",
+            "B": "It has a much higher mortality rate than any other Ebola strain.",
+            "C": "The WHO has refused to declare it a public health emergency.",
+            "D": "Healthcare workers have refused to use personal protective equipment."
+          },
+          "answer": "A",
+          "explanation": "文中明确提到“there are currently no licensed vaccines or therapeutics specifically approved”针对当前Bundibugyo变异毒株，故选A。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What distinguishes the WHO's response in the current outbreak from the 2018-2020 crisis?",
+          "options": {
+            "A": "The WHO waited for the outbreak to hit urban areas before acting.",
+            "B": "The current response was significantly slower due to bureaucratic delays.",
+            "C": "The WHO declared a PHEIC within 48 hours without needing a committee meeting.",
+            "D": "The current declaration was solely based on political pressure from the DRC government."
+          },
+          "answer": "C",
+          "explanation": "文中提到“In the current outbreak, a PHEIC was declared within 48 hours, and the WHO’s head... decided to act without an emergency committee meeting”，故C为正确表述。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following is cited as a reason for the quick declaration of a PHEIC in the current outbreak?",
+          "options": {
+            "A": "The outbreak is limited to a single province in the DRC.",
+            "B": "The disease has already spread across international borders.",
+            "C": "The virus is now known to be efficiently transmitted via air.",
+            "D": "The international community demanded the delay of resources."
+          },
+          "answer": "B",
+          "explanation": "Anne Cori指出“The current epidemic already comprises confirmed cases across both the DRC and Uganda, which likely influenced the declaration of a PHEIC”，表明跨境传播是触发因素，故选B。"
+        }
+      ]
+    }
+  ]
+}
