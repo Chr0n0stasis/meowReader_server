@@ -1,0 +1,19 @@
+articles:
+- article_id: epub_14
+  journal_name: Economist
+  publish_date: 03.31.2026
+  title: Advantage Iran
+- article_id: epub_11
+  journal_name: Wired
+  publish_date: 05.16.2026
+  title: Chapter 11
+- article_id: rss_4_1775070555
+  journal_name: Nature
+  publish_date: 04.01.2026
+  title: Entanglement and electronic coherence in attosecond molecular photoionization
+- article_id: rss_3_1775676258
+  journal_name: Nature
+  publish_date: 04.08.2026
+  title: High-precision calculation of the quark–gluon coupling from lattice QCD
+generate_date: 06.15.2026
+strategy: common

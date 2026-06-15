@@ -1,0 +1,1006 @@
+group_update_date: 06.15.2026
+papers:
+- article_update_date: 04.01.2026
+  body_text: 'Attosecond pulses produced by high-harmonic generation (HHG) consisting
+    of extreme-ultraviolet (XUV) radiation can ionize any conceivable compound, leading
+    to the formation of a bipartite ion–photoelectron system that is entangled whenever
+    the total wavefunction cannot be written as a single direct product: \(|{\varPsi
+    }_{{\rm{total}}}(t)\rangle \, e \) \(|{\varPsi }_{{\rm{ion}}}(t)\rangle \otimes
+    |{\phi }_{{\rm{photoelectron}}}(t)\rangle \). This occurs routinely in ionization
+    experiments with narrowband light sources, in which the ion may be left in different
+    eigenstates, each accompanied by photoelectrons with corresponding, well-defined
+    kinetic energies. Ultrashort pulses excite coherent superpositions of states,
+    creating a path towards observation of their time-resolved dynamics. This concept
+    is taken to the extreme in attosecond science, in which bandwidths spanning several
+    tens of eV permit the coherent excitation of several electronic configurations
+    and the creation of electronic wave packets. Attosecond laser-induced ionization
+    can initiate correlated dynamics of the ion and the photoelectron or in the individual
+    subsystems. In the latter case, examining coherent dynamics in the ion (photoelectron)
+    is only possible if a correlated observation of the accompanying photoelectron
+    (ion) does not enable identification of the ion’s (photoelectron’s) quantum state.
+    This situation may be compared with a multi-slit interference experiment, in which
+    a (partial) observation of the slit through which a quantum particle moves reduces
+    or completely removes the interference pattern on a detector: similarly, the existence
+    of an ‘observer’ holding quantum path information compromises the coherence required
+    for observation of a pump–probe signal (Fig. 1a). In other words, coherent dynamics
+    in the ion or photoelectron subsystem is only possible if it is not compromised
+    by quantum entanglement. Fig. 1: Experimental concept and approach. Full size
+    image a, Time-resolved pump–probe experiments rely on interference, in which each
+    interfering path corresponds to a coherently prepared intermediate state. Observation
+    of the coherent evolution is possible if, and only if, the quantum path cannot
+    be identified. In an entangled ion–photoelectron pair, a photoelectron measurement
+    can provide information on the ionic quantum state, compromising the observation
+    of coherent ionic dynamics. This situation resembles that of the passage of a
+    quantum particle through a pair of slits monitored by two observers (O1 and O2):
+    the modulation depth in the interference pattern is inversely proportional to
+    the overlap between the observations by observers O1 and O2 (see, for example,
+    ref. 39). b, Experimental set-up: a pair of IAPs, created by HHG, and a few-cycle
+    NIR pulse are used to dissociatively ionize H 2 . The left–right asymmetry in
+    the H+ ejection along the XUV/NIR polarization axis is measured using a VMI spectrometer
+    and is used to quantify the electronic coherence in the dissociating H 2 + ion.
+    AF, aluminium filter; BPF, band-pass interference filter; BS, beam splitter; Cam,
+    camera; CW, continuous-wave laser; DM, drilled mirror; EX, extractor; FT, flight
+    tube; NIR, near-infrared laser; PID, proportional-integral-derivative controller;
+    REP, repeller; TM, toroidal mirror; VLG, variable line-space grating. c, Typical
+    VMI measurement: the 3D H+ momentum distribution is obtained by Abel inversion
+    of the measured 2D projection. d, Typical XUV spectra recorded during the experiments,
+    consisting of broad harmonics with a separation of about 3 eV on a continuous
+    background, consistent with the formation of a dominant IAP with a very low intensity
+    of the adjacent XUV pre- or post-pulses. The observed narrow fringe structure
+    depends on the delay between the two IAPs τ XUV–XUV . arb.u., arbitrary units.
+    Building on several early results5,6,9,10,11, recent research aims to achieve
+    a better understanding of the role of quantum entanglement7,8,12,13,14,15,16 and
+    other sources of decoherence17 in attosecond experiments. This includes previous
+    work on H 2 , investigating the relationship between ion–photoelectron entanglement
+    and the occurrence of vibrational coherence7,8, as well as observations of molecular
+    frame asymmetries in the ejection of photoelectrons15. In the former work, vibrational
+    wave packets were formed in H 2 + by ionizing neutral H 2 with a pair of attosecond
+    pulse trains and the degree of entanglement with the accompanying photoelectrons
+    was measured by dissociating the ions, at a variable delay, using a few-cycle
+    NIR pulse. A main objective in attosecond molecular science is, however, the observation
+    of ‘electronic’ coherences in ions formed by attosecond photoionization, commonly
+    referred to as ‘attosecond charge migration’. Its interest arises from the fact
+    that, by eliciting an electronic response on timescales preceding nuclear motion1,18,
+    charge-directed reactivity2, that is, controlled chemistry, may be achieved. Several
+    successful experiments have been reported3,4,19,20. However, the precise role
+    of entanglement and its potential use to control coherent charge dynamics is unknown.
+    Ideally, studies of ion–photoelectron entanglement would use coincident detection
+    of the ions exhibiting electronic coherence together with their corresponding
+    photoelectrons. However, experiments combining the use of isolated attosecond
+    pulses (IAPs) and coincident electron-ion detection have not yet been realized.
+    Therefore, we focus on the dependence of the degree of (1) electronic coherence
+    in an ion and (2) quantum entanglement between the ion and the photoelectron on,
+    first, the delay between a pair of IAPs used to produce the ion and, second, the
+    delay of a co-propagating NIR pulse. We present experiments and theoretical modelling
+    on H 2 , showing how the kinetic energy and—in particular—the orbital angular
+    momentum of the outgoing photoelectron, control the ion–photoelectron entanglement
+    and electronic coherence in the ion. Dissociative ionization by photons below
+    about 35 eV (Fig. 2) induces fragmentation into H+ + H and provides a direct signature
+    of electronic coherence in the ionic subsystem through the phenomenon of electron
+    localization, that is, a laboratory-frame asymmetry in the ejection of the H+
+    fragment ion signifying a preferred localization of the single remaining bound
+    electron. Following dissociation, the two lowest electronic states of H 2 + can
+    be written as $${\psi }_{1{\rm{s}}{\sigma }_{{\rm{g}}}}=\frac{1}{\sqrt{2}}[{\psi
+    }_{1{\rm{s}}}^{{\rm{left}}}+{\psi }_{1{\rm{s}}}^{{\rm{right}}}],\,{\psi }_{2{\rm{p}}{\sigma
+    }_{{\rm{u}}}}=\frac{1}{\sqrt{2}}[{\psi }_{1{\rm{s}}}^{{\rm{left}}}-{\psi }_{1{\rm{s}}}^{{\rm{right}}}]$$
+    (1) in which \({\psi }_{1{\rm{s}}}^{{\rm{left}}}\) and \({\psi }_{1{\rm{s}}}^{{\rm{right}}}\)
+    represent 1s atomic orbitals on the left and right atoms, respectively. Rewriting
+    this to $${\psi }_{1{\rm{s}}}^{{\rm{left}}}=\frac{1}{\sqrt{2}}[{\psi }_{1{\rm{s}}{\sigma
+    }_{{\rm{g}}}}+{\psi }_{2{\rm{p}}{\sigma }_{{\rm{u}}}}],\,{\psi }_{1{\rm{s}}}^{{\rm{right}}}=\frac{1}{\sqrt{2}}[{\psi
+    }_{1{\rm{s}}{\sigma }_{{\rm{g}}}}-{\psi }_{2{\rm{p}}{\sigma }_{{\rm{u}}}}]$$ (2)
+    Fig. 2: Potential curves of H 2 and concept of the experiment. Full size image
+    Left, relevant potential energy curves of the H 2 molecule: the \({{\rm{X}}}^{1}\,{\sum
+    }_{{\rm{g}}}^{+}\) ground state, the 1sσ g and 2pσ u ionization thresholds (that
+    is, the ground and first excited states of the remaining molecular cation H 2
+    +), the Q 1 and Q 2 series of resonant autoionizing states and the double-ionization
+    threshold. The pale grey shaded area represents the ionization continuum and the
+    more intense grey shaded area the double-ionization continuum. A pair of identical
+    approximately 250-attosecond-long XUV pulses with central frequency 25 eV, delayed
+    by τ XUV–XUV , ionize the molecule from the \({{\rm{X}}}^{1}\,{\sum }_{{\rm{g}}}^{+}\)
+    ground state (vertical blue arrow). Right, the spectra of the XUV pulse pair at
+    selected delays are shown. For non-zero τ XUV–XUV , the XUV spectrum is modulated
+    with a frequency \(\Delta {\omega }_{{\rm{XUV}}}=\frac{2{\rm{\pi }}}{{\tau }_{{\rm{XUV}}-{\rm{XUV}}}}\).
+    Owing to the large bandwidth of the XUV pulses, ionization leads to photoelectrons
+    with a wide range of kinetic energies, and nuclear wave packets, represented by
+    orange Gaussian shapes, are launched in the 1sσ g and 2pσ u ionization continua
+    and the Q autoionizing states. The NIR pulse induces transitions between the ionic
+    states and between the Q autoionizing states and the 2pσ u continuum (small red
+    arrows). This creates the possibility to generate a photoelectron wavefunction
+    that is common to the 1sσ g and 2pσ u channels and hence a coherent superposition
+    state of the molecular cation. The efficiency of the latter process depends on
+    τ XUV–XUV . When τ XUV–XUV is an integer multiple of the NIR period, that is,
+    ω NIR = NΔω XUV , pairs of XUV photons differing in energy by the energy of one
+    NIR photon can readily be found, favouring the appearance of electronic coherence
+    in the H 2 + cation. By contrast, when τ XUV–XUV is a half-integer multiple of
+    the NIR period, that is, \({\omega }_{{\rm{N}}{\rm{I}}{\rm{R}}}=\left(N\pm \frac{1}{2}\right)\Delta
+    {\omega }_{{\rm{X}}{\rm{U}}{\rm{V}}}\), this is more difficult. a.u., atomic units.
+    illustrates that asymmetries in the H+ ejection reflect the existence of a coherent
+    superposition of the 1sσ g and 2pσ u states. Electron localization has been observed
+    using strong-field ionization by linearly polarized21 and circularly polarized22
+    laser pulses and in two-colour laser fields15,23,24,25, including our earlier
+    work combining an IAP and a few-cycle NIR field24, without however considering
+    the role of entanglement. A new feature of the present experiment is its use of
+    a phase-locked pair of IAPs. In the experiment (Methods), H 2 was ionized by an
+    IAP pair (hν ≤ 45 eV), with a variable relative delay τ XUV–XUV ∈ ⟨4, 12.5 fs⟩.
+    A 25-fs-long NIR pulse (about 1012 W cm−2) followed the two IAPs after a delay
+    τ XUV–NIR ∈ ⟨3, 15 fs⟩, with τ XUV–NIR defined as the delay between the second
+    IAP and the peak of the NIR pulse (with an uncertainty ±1 fs). H+ fragments were
+    measured using a velocity map imaging (VMI) spectrometer26 and the asymmetry along
+    the common XUV/NIR polarization axis was determined (Methods). In Fig. 3, the
+    H+ fragment asymmetry is shown as a function of τ XUV–NIR and the H+ momentum,
+    for four different τ XUV–XUV . As illustrated in Fig. 2, the slowest H+ fragments
+    (kinetic energy release (KER) ≤ 1 eV) are formed by XUV-only dissociative ionization
+    on the 1sσ g potential energy curve. Intermediate KER values are produced by resonant
+    excitation of the neutral doubly excited Q 1 state followed by autoionization
+    and the highest KER values are mostly produced by dissociation on the 2pσ u potential
+    energy curve, which is reached by either XUV single-photon ionization or NIR ionization
+    of the Q 1 states. Notably, in all four cases shown, the measurement reveals an
+    asymmetry that oscillates as a function of τ XUV–NIR with a momentum-dependent
+    phase, in agreement with the results reported in ref. 24. We note that the use
+    of IAPs is essential for obtaining this result, because ionization by pre- and
+    post-pulses emitted at adjacent NIR half-cycles would reduce or even cancel the
+    observed asymmetry. In Fig. 3, the asymmetry oscillations are very pronounced
+    for τ XUV–XUV = 7 or 10 fs and relatively weak for τ XUV–XUV = 8 or 11 fs. To
+    show this more clearly, a fit of the asymmetry oscillations was performed for
+    each H+ momentum. Momentum-averaged oscillation amplitudes are shown in the middle
+    of Fig. 3, along with a fit for τ XUV–XUV ≥ 6 fs. Smaller τ XUV–XUV were rejected
+    owing to non-negligible interference of the two NIR driver pulses during the HHG
+    process. The average asymmetry amplitude oscillates as a function of τ XUV–XUV
+    with a period equal to the NIR laser optical period T NIR . The decay of the amplitude
+    for increasing τ XUV–XUV is caused by the finite duration of the NIR pulse. We
+    emphasize that, in contrast with ref. 8, the results shown in Fig. 3 are influenced
+    by the existence of entanglement after the combined XUV + NIR interaction (as
+    opposed to the entanglement that is investigated in ref. 8 after the XUV ionization).
+    Fig. 3: Comparison between the experimental and theoretical results. Full size
+    image Top and bottom, normalized difference between the number of H+ fragment
+    ions flying left or right along the XUV/NIR polarization axis as a function of
+    the H+ momentum and the delay τ XUV–NIR between the XUV and NIR lasers, for four
+    different values of τ XUV–XUV , the delay between the two IAPs. The asymmetry
+    is shown on a linear colour scale between −0.15 (dark blue) and +0.15 (dark red).
+    The H+ momentum is given in atomic units. Note that uncertainties in the calibration
+    of the VMI spectrometer introduce an uncertainty of up to 10% in the absolute
+    values shown. For τ XUV–XUV = 7 and 10 fs, a large amplitude of the asymmetry
+    oscillation is observed, whereas for τ XUV–XUV = 8 and 11 fs, the asymmetry oscillates
+    with a greatly reduced amplitude. Middle, average amplitude of the asymmetry oscillations
+    as a function of τ XUV–XUV . The asymmetry amplitude oscillates with a period
+    that corresponds to the optical period of the NIR laser T NIR .'
+  difficulty_constant: 12.8
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: Contextual logic based on the definition provided in the text regarding
+      the wavefunction, where 'entangled' is the correct scientific term for the described
+      state.
+    options:
+      A: stationary
+      B: independent
+      C: entangled
+      D: symmetrical
+    q_number: 1
+    stem: Attosecond pulses produced by high-harmonic generation can ionize any conceivable
+      compound, leading to the formation of a bipartite ion–photoelectron system that
+      is __________ whenever the total wavefunction cannot be written as a single
+      direct product.
+  - answer: C
+    explanation: The text discusses time-resolved processes, making 'dynamics' the
+      appropriate scientific descriptor for moving systems.
+    options:
+      A: invariants
+      B: statics
+      C: dynamics
+      D: equilibria
+    q_number: 2
+    stem: Ultrashort pulses excite coherent superpositions of states, creating a path
+      towards observation of their time-resolved __________, which are essential for
+      understanding quantum behavior.
+  - answer: A
+    explanation: The context implies that 'identification' acts as an observer effect;
+      if identification is enabled, coherence is lost.
+    options:
+      A: enable
+      B: promote
+      C: hinder
+      D: neglect
+    q_number: 3
+    stem: Examining coherent dynamics in the ion is only possible if a correlated
+      observation of the accompanying photoelectron does not __________ identification
+      of the ion’s quantum state.
+  - answer: A
+    explanation: Observation of quantum paths typically 'reduces' or destroys interference
+      patterns according to the measurement postulate.
+    options:
+      A: reduces
+      B: supplements
+      C: enhances
+      D: standardizes
+    q_number: 4
+    stem: This situation may be compared with a multi-slit interference experiment,
+      in which a (partial) observation of the slit through which a quantum particle
+      moves __________ the interference pattern on a detector.
+  - answer: D
+    explanation: Coherence is a necessary condition for observing pump–probe interference
+      signals.
+    options:
+      A: irrelevant
+      B: unnecessary
+      C: rejected
+      D: required
+    q_number: 5
+    stem: Similarly, the existence of an ‘observer’ holding quantum path information
+      compromises the coherence __________ for observation of a pump–probe signal.
+  - answer: D
+    explanation: The term 'intermediate' is standard for states occurring during a
+      pump-probe time evolution.
+    options:
+      A: initial
+      B: dormant
+      C: terminal
+      D: intermediate
+    q_number: 6
+    stem: Time-resolved pump–probe experiments rely on interference, in which each
+      interfering path corresponds to a coherently prepared __________ state.
+  - answer: A
+    explanation: The text explicitly states 'inversely proportional', a standard relationship
+      in quantum measurement theory.
+    options:
+      A: proportionate
+      B: distant
+      C: distinct
+      D: unrelated
+    q_number: 7
+    stem: The modulation depth in the interference pattern is inversely __________
+      to the overlap between the observations by observers O1 and O2.
+  - answer: B
+    explanation: The text focuses on measuring the 'asymmetry' of ion ejection as
+      a signature of coherence.
+    options:
+      A: stability
+      B: asymmetry
+      C: linearity
+      D: consistency
+    q_number: 8
+    stem: A few-cycle NIR pulse is used to dissociatively ionize H2, and the left–right
+      __________ in the H+ ejection is measured to quantify electronic coherence.
+  - answer: B
+    explanation: '''Arbitrary units'' is the standard scientific terminology for ''arb.u.''.'
+    options:
+      A: intervals
+      B: units
+      C: constants
+      D: dimensions
+    q_number: 9
+    stem: The observed narrow fringe structure depends on the delay between the two
+      IAPs, measured in arbitrary __________, as noted in the figure descriptions.
+  - answer: A
+    explanation: The opposite of coherence in quantum systems is 'decoherence', which
+      is the subject of the research.
+    options:
+      A: decoherence
+      B: amplification
+      C: synchronization
+      D: quantization
+    q_number: 10
+    stem: Recent research aims to achieve a better understanding of the role of quantum
+      entanglement and other sources of __________ in attosecond experiments.
+  - answer: C
+    explanation: The phrase 'attosecond charge migration' is a established term of
+      art in the field mentioned in the text.
+    options:
+      A: attraction
+      B: stagnation
+      C: migration
+      D: accumulation
+    q_number: 11
+    stem: A main objective in attosecond molecular science is the observation of electronic
+      coherences, commonly referred to as 'attosecond charge __________'.
+  - answer: C
+    explanation: The text refers to the application of controlling molecular responses
+      as 'controlled chemistry'.
+    options:
+      A: physics
+      B: biology
+      C: chemistry
+      D: thermodynamics
+    q_number: 12
+    stem: Its interest arises from the fact that, by eliciting an electronic response
+      on timescales preceding nuclear motion, controlled __________ may be achieved.
+  - answer: B
+    explanation: The text explicitly states that the role of entanglement in this
+      context remains unknown.
+    options:
+      A: known
+      B: unknown
+      C: proven
+      D: observed
+    q_number: 13
+    stem: However, the precise role of entanglement and its potential use to control
+      coherent charge dynamics is __________.
+  - answer: B
+    explanation: The detection involves the ion and its 'corresponding' photoelectron
+      to study the entanglement.
+    options:
+      A: conflicting
+      B: corresponding
+      C: abundant
+      D: isolated
+    q_number: 14
+    stem: Ideally, studies of ion–photoelectron entanglement would use coincident
+      detection of the ions exhibiting electronic coherence together with their __________
+      photoelectrons.
+  - answer: B
+    explanation: The study aims to demonstrate that these physical quantities act
+      to 'control' the resulting entanglement.
+    options:
+      A: ignore
+      B: control
+      C: obstruct
+      D: simplify
+    q_number: 15
+    stem: We present experiments and theoretical modelling on H2, showing how the
+      kinetic energy and orbital angular momentum of the outgoing photoelectron __________
+      the ion–photoelectron entanglement.
+  - answer: D
+    explanation: The text defines the asymmetry as a signature of 'electron localization'.
+    options:
+      A: excitation
+      B: delocalization
+      C: ionization
+      D: localization
+    q_number: 16
+    stem: Dissociative ionization provides a direct signature of electronic coherence
+      in the ionic subsystem through the phenomenon of electron __________, which
+      indicates a preferred localization of the bound electron.
+  - answer: C
+    explanation: In quantum wave packet dynamics, wave packets are 'launched' into
+      the continuum by pulses.
+    options:
+      A: detected
+      B: restrained
+      C: launched
+      D: analyzed
+    q_number: 17
+    stem: Owing to the large bandwidth of the XUV pulses, ionization leads to photoelectrons
+      with a wide range of kinetic energies, and nuclear wave packets are __________
+      in the ionization continua.
+  - answer: D
+    explanation: Matching the delay to the NIR period is described as 'favouring'
+      the creation of coherence.
+    options:
+      A: terminating
+      B: preventing
+      C: negating
+      D: favouring
+    q_number: 18
+    stem: When the delay is an integer multiple of the NIR period, pairs of XUV photons
+      differing in energy by the energy of one NIR photon can be found, __________
+      the appearance of electronic coherence.
+  - answer: A
+    explanation: The text specifically links the decay of amplitude to the finite
+      'duration' of the NIR pulse.
+    options:
+      A: duration
+      B: influence
+      C: frequency
+      D: intensity
+    q_number: 19
+    stem: The average asymmetry amplitude oscillates as a function of the delay with
+      a period equal to the NIR laser optical period, showing the __________ of the
+      NIR pulse.
+  - answer: D
+    explanation: The authors compare their current results with entanglement previously
+      'investigated' in other papers.
+    options:
+      A: predicted
+      B: forgotten
+      C: abandoned
+      D: investigated
+    q_number: 20
+    stem: We emphasize that the results shown are influenced by the existence of entanglement
+      after the combined interaction, as opposed to the entanglement __________ in
+      previous work.
+  source_journal: Nature
+  title: Entanglement and electronic coherence in attosecond molecular photoionization
+- article_update_date: 04.08.2026
+  body_text: 'At the fundamental level, the strong nuclear force between nucleons
+    arises from quantum chromodynamics (QCD), a quantum field theory formulated in
+    terms of their ‘colour-charged’ elementary constituents, the quarks and gluons.
+    The interaction between these constituents is characterized by being weak at very
+    high energies and short distances, a phenomenon known as asymptotic freedom5,6,
+    whereas, in contrast to the other forces, it is so strong at nuclear distances
+    that thinking of quarks and gluons as individual particles makes no sense at all.
+    We speak of ‘confinement’: fundamental quarks and gluons cannot be directly observed,
+    but instead, only composite ‘colour-neutral’ states, such as protons, neutrons
+    or π-mesons, are observed in experiments. This fact poses several challenges,
+    including the fundamental question of how to determine the strength of the interaction
+    between quarks and gluons at high energy. The quark–gluon coupling, α x (μ), depends
+    on the energy scale, μ, of the interaction and also on its detailed definition,
+    summarized as the ‘scheme’, x. Owing to confinement, we cannot collide quarks
+    with quarks or gluons and determine α x (μ), directly in experiments. Instead,
+    phenomenological estimates of the strong coupling are obtained by examining different
+    processes, such as electron–positron or proton–proton collisions at various energy
+    scales. After decades of theoretical and experimental efforts to parameterize
+    the effects of confinement and to identify observables in which these effects
+    are minimized, significant uncertainties persist. In particular, in determining
+    a world average of α x (μ), notably by the Particle Data Group (PDG), different
+    categories still exhibit uncertainties in the range of 1.5–3% (compare ref. 3
+    and Fig. 5). In fact, in most cases, these are not simply due to the limited precision
+    of the experimental data, but include significant systematic uncertainties originating
+    from the lack of an analytic understanding of confinement. In this situation,
+    we cannot profit much from having more experimental data in reducing the uncertainty
+    in α x (μ). The inaccuracy of α x (μ) limits the potential of current experiments
+    that test the fundamental laws of nature4. Even when all phenomenology extractions
+    of the strong coupling are combined, they lead to an error of about 1%. This uncertainty
+    propagates, for example, into a 2–4% uncertainty in the rate of production of
+    Higgs particles by gluon fusion7 or its decay into gluons8. Furthermore, reducing
+    the current uncertainty in the strong coupling by a factor of 2 turns out to be
+    crucial9 for finding out whether the vacuum of the Standard Model is stable10
+    and to constrain extensions of the Standard Model, which cure the possible instability11,12.
+    A first-principles, robust, free of modelling uncertainties determination of the
+    strong coupling avoids the limitations of extractions from experimental data and
+    will affect ongoing searches for new physics. Here we provide such a determination.
+    We analyse the scale dependence of the strong coupling, as described by its β-function:
+    $$\mu \frac{{\rm{d}}}{{\rm{d}}\mu }{\alpha }_{{\rm{x}}}(\mu )={\beta }_{{\rm{x}}}({\alpha
+    }_{{\rm{x}}}(\mu )),$$ (1) which has an expansion of the form \({\beta }_{{\rm{x}}}({\alpha
+    }_{{\rm{x}}})=-{\beta }_{0}{\alpha }_{{\rm{x}}}^{2}-{\beta }_{1}{\alpha }_{{\rm{x}}}^{3}+{\rm{O}}({\alpha
+    }_{{\rm{x}}}^{4})\), with leading positive coefficients β 0 , β 1 , which are
+    independent of the scheme. This implies that α x (μ) runs with the scale μ, decreasing
+    with increasing μ, with a leading behaviour proportional to 1/ln(μ/Λ x ), as shown
+    in Fig. 1. This phenomenon, known as asymptotic freedom5,6, implies that perturbative
+    series expansions in powers of the strong coupling become accurate at high energies,
+    as shown by the β-function itself. The scheme independence of the leading coefficients,
+    β 0 , β 1 , implies that the asymptotic scale dependence is universal, and the
+    Λ-parameters of different schemes are simply related by exactly calculable constants.
+    Conventionally, we use the modified minimal subtraction scheme13 (\(\overline{{\rm{M}}{\rm{S}}}\))
+    to quote the coupling \({\alpha }_{{\rm{s}}}\equiv {\alpha }_{\overline{{\rm{M}}{\rm{S}}}}\)
+    and \({\Lambda }_{{\rm{Q}}{\rm{C}}{\rm{D}}}\equiv {\Lambda }_{\overline{{\rm{M}}{\rm{S}}}}\).
+    Fig. 1: Scale dependence of the strong coupling. Full size image The strong coupling
+    for a wide range of energy scales, as determined from our result for Λ QCD , is
+    represented by the red band. The data points show the experimental determinations
+    from various processes with their uncertainties as quoted by the PDG3. Knowledge
+    of Λ QCD and the β-function is equivalent to knowing the coupling at any given
+    scale μ. In the \(\overline{{\rm{M}}{\rm{S}}}\) scheme, the expansion coefficients
+    of \({\beta }_{\overline{{\rm{M}}{\rm{S}}}}\) are known up to high order, including
+    β 4 , that is, five-loop order14,15,16,17,18, so that the scale dependence of
+    \({\alpha }_{\overline{{\rm{M}}S}}(\mu )\) can be accurately predicted down to
+    μ of the order of 1 GeV. In this paper, we determine Λ QCD with two independent,
+    dedicated strategies replacing the modelling of confinement by numerical simulations
+    of lattice QCD. Our α s -uncertainty of about 0.5% is due to the finite computational
+    resources and not due to our limited theoretical understanding. (The total cost
+    of our α s -dedicated simulations is 400 million core hours). Combined with \({\beta
+    }_{\overline{{\rm{M}}{\rm{S}}}}\), our determination of the coupling can be compared
+    with experimental estimates at various energies, as shown by the data points in
+    Fig. 1. The new, precise result also provides opportunities for better understanding
+    of how confinement manifests itself in different processes and for extracting
+    more detailed information from the experimental data. The role of lattice QCD
+    The modelling of confinement is entirely by-passed in lattice QCD, a genuinely
+    non-perturbative formulation of QCD on a (Euclidean) space–time lattice with spacing
+    a. Quark and gluon fields are sampled on the lattice points and edges, respectively.
+    If the space–time volume is finite, the number of QCD degrees of freedom is reduced
+    to a finite albeit large number, enabling the numerical evaluation of observables
+    by large-scale computer simulations. Predictions for hadronic observables, such
+    as the mass of the proton, m p , or the leptonic decay width of π-mesons, can
+    be obtained for a given choice of the Lagrangian parameters, the bare quark masses
+    and bare coupling g 0 . To make contact with the natural world, we need to take
+    the continuum limit, a → 0, based on numerical data for a range of a values. This
+    is achieved by simulating lattices with decreasing values of the bare coupling,
+    \({g}_{0}^{2}\to 0\) and thus a → 0, while the bare quark masses are tuned to
+    match the physical values of the chosen experimental inputs. In lattice QCD, confinement
+    is a direct consequence of the simulated nonlinear dynamics of QCD, not of some
+    model. Still, conventional lattice QCD determinations of the strong coupling are
+    typically limited by systematic uncertainties. In a volume large enough to accommodate
+    hadrons, the typical momentum cutoff π/a is 6−15 GeV. This is one order of magnitude
+    below the universal large energy region, in which low-order perturbation theory
+    is accurate. Together with the basic requirement that physical scales have to
+    be well below the cutoff, μ ≪ π/a, a large-volume approach to determine the strong
+    coupling would require lattices with significantly more than 100 million lattice
+    points (the current state of the art), along with computational resources several
+    orders of magnitude beyond what is presently available. Instead, most lattice
+    QCD determinations of α x (μ) make compromises, performing the extraction at intermediate
+    energies with estimates of what is the effect on α x (μ). Different strategies
+    exist, as reported in the FLAG (Flavour Lattice Averaging Group) review19, with
+    estimated precisions of 1–2%. Similar to the phenomenological situation, these
+    uncertainties are not the result of the limited statistics in the computer simulation,
+    but they are limited by our insufficient analytical control over QCD at low energies.
+    A notable increase in precision can only be reached with a dedicated strategy
+    reaching high energy non-perturbatively. This strategy, known as step scaling,
+    was suggested more than 30 years ago20. Then it was tested in a model with one
+    space dimension. The distinguished idea is to use a scheme for the running coupling,
+    in which the energy scale is given by the size of the simulated world, μ = 1/L.
+    Small volumes probe the high-energy regime of QCD, whereas large volumes probe
+    low-energy scales. The energy dependence of the coupling is obtained by simulating
+    pairs of lattices with extents L/a and 2L/a, and a subsequent continuum extrapolation.
+    This relates the values of the coupling separated by a factor of 2 in scale. By
+    iterating this step scaling n times, a scale change of 2n is achieved. For QCD
+    with N f = 3 flavours, the method was developed and applied21,22,23,24 over many
+    years. As of today, this result dominates the world average and is the only determination
+    with negligible perturbative uncertainties. Here, we use this step-scaling approach
+    to not only reach a significant increase in precision but also have better control
+    of the potential remaining systematic effects. We show that the continuum limit
+    is approached smoothly and that the perturbative inclusion of dynamical charm
+    and bottom quark effects is well under control. But most crucially, we complement
+    the step-scaling approach with the ‘decoupling technique’ described in refs. 25,26.
+    In our previous implementation, we had discretization errors linear in am q removed
+    only at one-loop order. In ref. 27, we determined the improvement coefficient
+    non-perturbatively. With this knowledge, we now eliminate the so-far dominating
+    systematic effect. The decoupling strategy is based on the observation that QCD
+    with very heavy quarks can be expanded in the inverse quark mass, and the lowest-order
+    term is the theory without quarks. This observation allows us to relate the QCD
+    coupling and the coupling in a world without quarks. Results from lattice simulations
+    come in units of the lattice spacing a. To express them in physical (energy) units,
+    the units of the lattice spacing a must be established through an experimental
+    input, for example, \(a={\widehat{m}}_{{\rm{p}}}/{m}_{{\rm{p}}}^{\exp }\), where
+    \({\widehat{m}}_{{\rm{p}}}\) is the dimensionless proton mass measured in lattice
+    simulations, and \({m}_{{\rm{p}}}^{\exp }\) is the physical, experimentally measured,
+    one. To minimize the uncertainty from the conversion between lattice and physical
+    units, it is common19 to introduce an intermediate step, by first relating the
+    experimental input to a technical, not experimentally accessible, (length-) scale,
+    \(\sqrt{{t}_{0}}\), derived from the Yang–Mills gradient flow (GF)28. Nominally
+    quite precise values \(\sqrt{{t}_{0}}\) are available from the literature29,30,31,32,33,34,35.
+    They differ by the discretization of QCD, and some results include the heavier
+    charm quark in the simulations. They also use various experimental inputs, from
+    baryon octet masses, the Ω-baryon mass, to leptonic decay rates of pion and/or
+    kaon19 for the overall scale, whereas the physical quark masses are set by the
+    experimental masses of pions and kaons (Fig. 2, top box). Fig. 2: Overview of
+    our computation. Full size image We have colour-coded experimental inputs in red
+    and scale definitions in blue. The flowchart follows the energy scale from top
+    to bottom, starting with hadron masses and meson decay constants as input used
+    to set the scale by different collaborations29,30,31,32,33,34,35,43. This scale
+    is used to reach an energy scale μ dec . From there on two branches describe our
+    two approaches (N f = 3 running and decoupling), to obtain \({\Lambda }_{\overline{{\rm{M}}{\rm{S}}}}^{(3)}\).
+    Our final value, a combination of the result obtained from the two computations
+    and the values of the charm and bottom quark masses19, is then used to determine
+    the strong coupling. Vertical, coloured arrows represent the non-perturbative
+    running, characteristic of our strategy, in different finite-volume schemes. Perturbation
+    theory is a key element in our computation, but it is only used at very high energies
+    (above 70 GeV) or to include the effect of the missing charm and bottom quarks
+    (which induces very small perturbative and non-perturbative uncertainties). As
+    discussed in more detail in the Supplementary information, the values of \(\sqrt{{t}_{0}}\)
+    differ outside of the quoted error bars. A fit to a common value yields s ≡ χ2/dof
+    = 2.8, where dof indicates the degree of freedom. In these situations, the standard
+    PDG procedure stretches all errors by \(\sqrt{s}\). This yields \(\sqrt{{t}_{0}}=0.1434(7)\,\mathrm{fm}\).
+    For a safe estimate, we enlarge the error further such that all precise central
+    values are covered. This yields \(\sqrt{{t}_{0}}=0.1434{(7)}_{{\rm{s}}{\rm{t}}{\rm{a}}{\rm{t}}}{(17)}_{{\rm{r}}{\rm{o}}{\rm{b}}{\rm{u}}{\rm{s}}{\rm{t}}}{(18)}_{{\rm{t}}{\rm{o}}{\rm{t}}}\,\mathrm{fm}\)
+    (see Extended Data Fig. 3 and the Supplementary information for details). The
+    robust error originates from further enlarging the error from the PDG procedure.
+    It'
+  difficulty_constant: 12.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到“Owing to confinement, we cannot collide quarks with quarks
+      or gluons and determine α x (μ), directly in experiments.” 这种禁闭现象导致我们无法直接观察到基本粒子，从而增加了确定强耦合的难度。
+    options:
+      A: The interaction strength is too weak to be measured at high energy levels.
+      B: Quarks and gluons are confined and cannot be observed as individual particles.
+      C: Experimental data are currently restricted by the lack of advanced computing
+        resources.
+      D: The existence of Higgs particles interferes with the observation of gluon
+        fusion.
+    q_number: 1
+    stem: According to the passage, why is it challenging to determine the strong
+      coupling α x (μ) directly from experimental data?
+  - answer: C
+    explanation: 文中指出，“This phenomenon, known as asymptotic freedom... implies that
+      perturbative series expansions in powers of the strong coupling become accurate
+      at high energies”。
+    options:
+      A: The interaction becomes increasingly chaotic and unpredictable.
+      B: The force becomes independent of the energy scale μ.
+      C: The perturbative series expansions of the coupling become more accurate.
+      D: The quarks and gluons begin to manifest as colour-neutral states.
+    q_number: 2
+    stem: What does 'asymptotic freedom' imply regarding the strong nuclear force
+      at high energies?
+  - answer: B
+    explanation: 文章提到为了克服大体积计算资源需求过大的问题，采用了step scaling方法，通过逐步改变尺度（factor of 2）来从低能区扩展到高能区，且该方法具有“negligible
+      perturbative uncertainties”。
+    options:
+      A: It relies on perturbative calculations to simulate low-energy scale behaviors.
+      B: It was developed as a solution to address the limitation of small lattice
+        volumes.
+      C: It relates coupling values by changing the energy scale by a factor of 4.
+      D: It is criticized for having higher perturbative uncertainties than other
+        methods.
+    q_number: 3
+    stem: Which of the following is true about the 'step-scaling' strategy mentioned
+      in the paper?
+  - answer: C
+    explanation: 文中提到，传统晶格QCD模拟的动量截断（momentum cutoff）通常远低于高能区域，无法直接应用微扰理论，导致需要在中间能量进行折中，从而产生系统不确定性。
+    options:
+      A: They focus too much on the mass of the proton rather than quark-gluon interaction.
+      B: They lack sufficient experimental input to match physical values.
+      C: They are limited by the inability to perform calculations at very high energy
+        ranges non-perturbatively.
+      D: They suffer from significant statistical errors due to the finite number
+        of lattice points.
+    q_number: 4
+    stem: 'The author mentions that current lattice QCD determinations of the strong
+      coupling are often compromised because:'
+  - answer: B
+    explanation: 文章总结说，“A first-principles, robust, free of modelling uncertainties
+      determination of the strong coupling... will affect ongoing searches for new
+      physics”，说明其核心贡献在于其鲁棒性和对模型不确定性的规避。
+    options:
+      A: It eliminates the need for any experimental data inputs.
+      B: It provides a robust, model-independent calculation that reduces uncertainty
+        significantly.
+      C: It proves that the Standard Model vacuum is inherently unstable.
+      D: It replaces the need for the XXXXXXXXXX scheme entirely.
+    q_number: 5
+    stem: What is the primary significance of the author’s new determination of the
+      strong coupling?
+  source_journal: Nature
+  title: High-precision calculation of the quark–gluon coupling from lattice QCD
+- article_update_date: 03.31.2026
+  body_text: 'Advantage Iran Leaders | Our cover Advantage Iran A month of bombing
+    has achieved nothing. Will Donald Trump escalate, or talk? March 26th 2026 EVEN
+    BY HIS chaotic standards, Donald Trump has just presided over an unusually wild
+    week in his misguided war on Iran. The president had threatened imminent, punitive
+    bombing of Iran’s civilian energy infrastructure. Though Iran didn’t quail, markets
+    did. So a U-turn followed. Mr Trump said he had become aware of secret proposals
+    for peace talks, and held off. The Pentagon then said it would send some of the
+    82nd Airborne Division. That suggests escalation is still a possibility. Amid
+    such uncertainty, Iran’s regime seems unfazed. Remarkably, it now has a strategic
+    advantage over its opponents. True, the Islamic Republic has suffered dramatic
+    blows. Many of its leaders, and hundreds of civilians, are dead. Its air defences
+    are in pieces; its navy and missile launchers are largely gone. And yet the regime
+    endures. As we warned when this war began, its mere survival counts as a victory
+    of sorts. At home the regime’s grip is not easing, but has if anything been strengthened
+    by the onslaught from America and Israel. The hardline Revolutionary Guards are
+    in control. Domestic opponents, whether ethnic separatists or urban protesters,
+    are deathly quiet. Iran’s stocks of highly enriched uranium, some 400kg, remain
+    untouched, probably still under rubble. Most strikingly, Iran has established
+    a chokehold over the Strait of Hormuz, blocking exports of oil and gas from the
+    Gulf that account for a fifth of the global supply. For decades American military
+    planners have prepared for this obvious risk. But the war has proved both that
+    Iran can strangle the strait, and that it would be agonisingly hard to loosen
+    its grip . Iran’s asymmetric warfare, with missiles, cheap drones and perhaps
+    mines against shipping, is keeping the superpower at bay. Meanwhile, even though
+    its proxies are weaker than before, Iran still has cards to play abroad. Because
+    the Houthis in Yemen have held off shooting missiles at tankers in the Red Sea,
+    some Saudi oil, pumped to the coast and bypassing Hormuz, reaches world markets.
+    A lid remains on global oil prices, though they have still hovered around $100
+    a barrel in recent days. But the Houthis may now be incentivised to demand a high
+    price—such as international recognition of their control over north Yemen—to hold
+    their fire. In Iraq, Shia groups aligned with Iran are turning against Kurds (and
+    Americans). And Hizbullah, Iran’s client in Lebanon, may regain some local legitimacy
+    as a “resistance” outfit, as the country comes under attack from Israel. An Israeli
+    attempt at occupation could intensify that conflict and strengthen the group’s
+    position. In the Gulf, America’s allies did not wish for war, but now fear that
+    a wounded, defiant Iran may emerge as an even bigger threat than before. Their
+    security systems—air defences and costly interceptor rockets—are imperfect. Their
+    economies look hostage to Iranian threats. One option is to go all-in with America
+    on the war. The United Arab Emirates has warned against talks with Tehran, saying
+    that Iran is committing “economic terrorism” in the region. The Saudis reportedly
+    want America to deploy ground troops. Nor is Israel really any safer than before.
+    Binyamin Netanyahu is thrilled by the sustained attack on Iran. Yet Iranian missiles
+    have penetrated Israeli airspace, killing civilians. The nuclear threat from Iran
+    has not been eradicated. Without regime change, the ballistic-missile threat will
+    return, requiring Israel to strike Iran every few months. Most worrying for the
+    Jewish state, its long-standing ties with America may be under strain. The war
+    is already unpopular with most Americans. If casualties mount, petrol prices soar
+    and markets slide, who will they blame? Already some on the Republican right are
+    pointing to Israel. Voters, especially the young, have grown more hostile towards
+    it; pro-Israel lobbyists in America are struggling . In short, for all the power
+    and sophistication of the military onslaught from America and Israel, Iran feels
+    it has the upper hand over Mr Trump. It has shown that it is more capable than
+    America of both inflicting pain and withstanding it. Mr Trump launched his war,
+    unforgivably, without offering a strategic rationale for it. Despite operational
+    successes and his nonsensical claim of having already changed the regime in Tehran,
+    he has yet to win any substantive gains from the fighting. As the political costs
+    mount, Mr Trump will come under growing pressure. His choices are to escalate,
+    or talk. He may be tempted by dramatic escalation, inflicting damage on Iran’s
+    civilian infrastructure and oil industry in the hope of compelling it to reopen
+    the strait. Marines could grab Kharg Island and its oil infrastructure, take slivers
+    of coastal territory or occupy islands inside the strait. That might bring limited
+    military benefit. But none of those gambits looks like a potential knockout blow.
+    Iran could still fire missiles and drones from inside the country, or try to mine
+    the strait. Occupying soldiers would quickly morph into sitting ducks. Mr Trump,
+    having yearned to banish the memory of Jimmy Carter’s military misadventure in
+    Iran in 1980, would risk repeating it. Shifting large-scale resources to the region
+    would leave America’s military forces weaker elsewhere, notably in Asia. The less
+    bad option, therefore, is to seek serious negotiations. Pakistan’s government
+    stands by to mediate. Mr Trump says he has offered a 15-point plan to Iran, though
+    officials in Tehran deny talks are under way. But America has previously entered
+    into negotiations in bad faith, using them as a ruse before attacking. Iran will
+    thus be sceptical. So Mr Trump must agree to a full ceasefire, and compel Israel
+    to abide by it. Talks on reopening the strait and steering Iran away from its
+    nuclear programme will be bitterly difficult. And any eventual deal will be worse
+    than what could have been struck before the war began, because Mr Trump has unwittingly
+    strengthened the hand of hardliners and made clear the leverage they have over
+    the strait. The result is that for now, at least, the advantage lies with Iran.
+    ■ For subscribers only: to see how we design each week’s cover, sign up to our
+    weekly Cover Story newsletter . This article was downloaded by zlibrary from https://www.economist.com//leaders/2026/03/26/advantage-iran'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段提到特朗普的行动不仅混乱(chaotic)，还包括威胁轰炸后的突然转向(U-turn)以及增派军队的可能，这体现了其政策的不确定性和前后矛盾，故B项正确。
+    options:
+      A: It is characterized by a well-coordinated and long-term strategic plan.
+      B: It displays a contradictory and unpredictable pattern of policy-making.
+      C: It has successfully forced Iran to abandon its energy infrastructure projects.
+      D: It prioritizes diplomatic dialogue over military intervention at every stage.
+    q_number: 1
+    stem: According to the first paragraph, what can be inferred about the current
+      US approach toward Iran?
+  - answer: C
+    explanation: 文章指出，尽管伊朗遭受了重大打击，但其政权并未倒台，相反，国内的异见人士变得沉默，强硬派力量得到加强，战争反倒加固了其统治，故C项符合文意。
+    options:
+      A: The regime is losing its domestic grip due to mass protests and separatist
+        movements.
+      B: The regime's survival is primarily attributed to foreign intervention.
+      C: The war has paradoxically solidified the regime's control by suppressing
+        internal dissent.
+      D: The regime's infrastructure remains largely intact despite the heavy bombing.
+    q_number: 2
+    stem: What does the author suggest about the survival of the Iranian regime amidst
+      the war?
+  - answer: C
+    explanation: 文中强调伊朗通过对霍尔木兹海峡的控制(chokehold)，切断了全球五分之一的石油供应，即便美国有军事准备，也难以解除伊朗的这种非对称封锁，体现了伊朗的影响力，故C正确。
+    options:
+      A: It serves as a temporary bargaining chip that Iran is willing to relinquish
+        for sanctions relief.
+      B: It has become a strategic vulnerability that the US military can easily neutralize.
+      C: It demonstrates Iran's ability to exert influence over global markets through
+        asymmetric warfare.
+      D: It acts as a primary route for Iranian oil exports to reach international
+        markets despite sanctions.
+    q_number: 3
+    stem: Which of the following best describes the significance of the Strait of
+      Hormuz in the current conflict?
+  - answer: B
+    explanation: 文章提到战争在美国并不受欢迎，民众开始指责以色列，尤其是共和党右翼，这导致了美国公众对以色列态度的恶化，从而令两国关系紧张，故B正确。
+    options:
+      A: The Israeli government has failed to provide adequate support to American
+        troops.
+      B: The American public is increasingly skeptical of Israel's role in the conflict.
+      C: The war has prevented the US from focusing on its strategic interests in
+        Asia.
+      D: Israel has refused to comply with the ceasefire conditions proposed by Mr.
+        Trump.
+    q_number: 4
+    stem: Why does the author argue that the war might be straining US-Israel relations?
+  - answer: C
+    explanation: 作者分析指出，升级战争并非明智之举，谈判是“较不坏的选择”(less bad option)，但同时也承认由于特朗普的行为，现在的谈判筹码比战争前更差，故C项最为全面准确。
+    options:
+      A: Escalation through ground occupation is the only way to avoid repeating history.
+      B: A full-scale military victory is imminent if further resources are deployed.
+      C: Negotiation is the least damaging path, although it now carries a high political
+        and strategic cost.
+      D: The war should be maintained as is to ensure long-term stability in the Middle
+        East.
+    q_number: 5
+    stem: What is the author's ultimate assessment of Mr. Trump's options to end the
+      conflict?
+  source_journal: Economist
+  title: Advantage Iran
+- article_update_date: 05.16.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Garrett M. Graff The
+    Big Story Jan 25, 2026 1:15 PM Why Minnesota Can’t Do More to Stop ICE Democratic
+    lawmakers have few options that wouldn’t trigger something like civil war. PHOTOGRAPH:
+    Stephen Maturen/GETTY IMAGES America has never seen a moment in modern history
+    like the federal occupation of Minneapolis. Thousands of masked federal officers
+    with uncertain authority are rampaging through the region , assaulting protesters
+    and innocent people, abusing constitutional safeguards , staking out daycares
+    and schools, snatching people off the streets in unmarked vans based on the color
+    of their skin or their accent, and recklessly, relentlessly provoking violent
+    confrontations with civilians—all against the loud, repeatedly expressed wishes
+    of local and state officials . Saturday morning, federal agents—apparently from
+    the Border Patrol— shot and killed a 37-year-old nurse, Alex Pretti , amid a chaotic
+    scuffle in front of a well-known Minneapolis donut store after agents began hassling
+    and shoving him in the street. It was the second time this month that federal
+    agents resorted to deadly force within mere seconds after initiating an encounter
+    with a Minneapolis civilian who never posed a threat to agents. All of this unnecessary
+    violence raises the question: Why can’t elected officials do more to stop this?
+    Apart from the courts, doesn’t Minnesota’s government have cards it can play in
+    the battle against the Trump-led occupation, like calling out the National Guard
+    for a showdown with federal agents? The answer, in its shortest form, is mostly
+    no, due to the basic foundations of American federalism. Over and over, Minneapolis
+    mayor Jacob Frey and Minnesota governor Tim Walz have asked President Donald Trump
+    to call back his operation . On Saturday, they again told the public that they
+    had pleaded with the federal government to reconsider and withdraw the upwards
+    of 3,000 immigration officers, who together nearly outnumber the region’s 10 largest
+    state and local police departments combined. But Walz and Frey haven’t taken overt
+    actions to use state and local governments to actively resist because a key part
+    of federalism in the United States is that a state can’t really resist federal
+    authority or kick out federal law enforcement officials. That principle primarily
+    exists because the federal government is meant to be the “protector” of last resort
+    if local and state officials fail to uphold the rights of ordinary citizens. What’s
+    remarkable, and worrisome, is that Trump today is using that arrangement to punish
+    political opponents based on his own whims, as un-American an action as any president
+    has ever undertaken and one that threatens the very union of the United States.
+    Tension in Minnesota between national officials and state and local elected officials
+    is already sky high—and there’s rising animus between the federal forces and local
+    law enforcement as well. Minneapolis police were quick to condemn the shootings
+    of both Pretti and Renee Nicole Good, who was shot and killed by an Immigration
+    and Customs Enforcement (ICE) agent on January 7. They have also been vocal in
+    recent days about how their own officers have been harassed and even assaulted
+    by immigration agents while off-duty. (“Every one of [the off-duty officers stopped
+    by immigration agents] is a person of color,” one police chief complained .) DHS
+    agents tried to bar local police from the shooting scene on Saturday, forcing
+    them to return with a court order, and this time FBI agents again apparently resisted
+    allowing access. “We’re in uncharted territory here,” the head of the state’s
+    investigation bureau said. A governor also has the state''s National Guard at
+    their disposal, which could hypothetically be deployed to counter ICE''s actions.
+    Yesterday, Minnesota governor Tim Walz announced that he activated them following
+    the shooting, amid a tense series of hours that saw the NBA postpone its evening
+    game in Minneapolis for safety reasons. In a statement whose banality and simplicity
+    underplayed just how stunning it was, the governor’s office said the guard was
+    needed because “local law enforcement resources are stretched thin because of
+    the disruption to public safety caused by thousands of federal immigration agents
+    in our neighborhoods.” So far it seems like Walz’s intent is to use the National
+    Guard and local and state police as more of a buffer between federal forces and
+    Minnesota residents, rather than as a supplement to the street resistance efforts.
+    For now, state and local officials—like those who also suffered from heavy-handed
+    immigration deployments last year, like Los Angeles, Chicago, and elsewhere—are
+    primarily focused on using federal courts for relief. Overnight, a federal judge
+    issued a temporary restraining order to ensure that federal officials didn’t destroy
+    or alter evidence related to Saturday’s shooting. More broadly, Minnesota has
+    a pending lawsuit aimed at blocking the immigration deployments altogether. This
+    restraint is almost certainly intended to prevent even further escalation, driven
+    by President Trump’s apparent eagerness to declare Minnesota in a state of “insurrection”
+    that would allow him to activate and deploy federal troops against its residents.
+    Trump has already launched unprecedented criminal investigations against Walz
+    and Frey, and others, in an apparent bid to create pretexts that could aid the
+    use of the Insurrection Act. The situation is so unprecedented—and the Trump administration’s
+    political incentives so skewed by social media and the president’s own manias—that
+    it’s impossible to understand or predict how the coming days and weeks might unfold.
+    It’s especially unclear how state or local elected leaders might make the situation
+    better for their constituents and neighbors—and, because of the Trump administration’s
+    lawlessness, there are many paths where the situation worsens. President Trump
+    and his Department of Homeland Security in many ways appear to be attempting to
+    provoke an actual showdown between federal forces and local or state authorities.
+    DHS and White House officials have repeatedly labeled protesters exercising their
+    First Amendment rights in Minnesota “domestic terrorists,” and they were quick
+    to smear the victim of Saturday’s shooting; they shut down an investigation of
+    the ICE officer who killed Renee Nicole Good earlier this month and ordered a
+    federal investigation of Good and her spouse instead, leading to the resignation
+    of the FBI agent assigned to the case; at least six federal prosecutors also resigned
+    , refusing to participate in the attempt to scapegoat a victim. In a deeply troubling
+    development, ICE agents have started declaring that people who so much as record
+    them are being entered into a national database as “domestic terrorists.” “Have
+    fun with that,” an ICE officer in Maine was captured joking to a civilian filming
+    him. (That the assault on Minneapolis has little to do with violent crime or immigration
+    issues was underscored Saturday when attorney general Pam Bondi sent state officials
+    a letter saying they’d withdraw the federal forces if Minnesota complied with
+    a Trump request to turn over its voter rolls.) While Walz and Frey’s seeming passivity
+    in the face of an all-out federal attack on their constituents is provoking anger
+    among activists, it may be a case where caution and restraint is the better part
+    of valor. Citizens are already generating massive resistance to the federal presence
+    in Minnesota, and any additional “official” resistance by local or state officials
+    may tip the scales for Trump and bring federal troops into the picture, an escalation
+    that would be surely worse for residents, the state, and the nation at large.
+    Trump has already put some 1,500 federal troops in Alaska on standby to deploy
+    to Minnesota, and all indications are that he’s eager for an excuse to do so.
+    Any such declaration of “insurrection” or deployment of federal troops to further
+    subdue local and state authorities would bring the country the closest it’s been
+    to civil war since, well, the Civil War. A Brief History of Sending In the Troops
+    Under normal circumstances, the use of federal military forces in domestic situations
+    is highly proscribed and limited by two sets of law, the Posse Comitatus Act of
+    1878—which prohibits the use of the military in civilian law enforcement—and the
+    Insurrection Act , a series of statutes that date to 1792 and outline when a president
+    can call out troops to suppress rebellions and domestic violence. Considering
+    how critical a principle it guards, the Insurrection Act is badly antiquated,
+    as recent reform efforts have shown. As national security legal scholar Scott
+    Anderson wrote in 2024, “Few principles of American government are more foundational
+    than the idea that the US military should not be used against Americans, except
+    in the most dire of circumstances. But even fewer foundational principles are
+    so loosely grounded in the law … The fact that past presidents have done so relatively
+    rarely is more a product of long-standing political norms than hard legal limits.”
+    While state National Guard units and federal troops are routinely used to help
+    respond to natural disasters at the request of and in coordination with local
+    and state officials, since Reconstruction presidents have only reluctantly ever
+    sent in federal agents or troops against the wishes of state governments. Even
+    then, it’s in highly limited circumstances, such as defending civil rights and
+    freedoms in moments when state officials refused to do so. (National Guard units
+    usually report to state governors, although they can be federalized by presidential
+    order to report to the commander-in-chief instead—meaning that Trump could always
+    circumvent Walz activating them by putting them under direct Pentagon control
+    anyway.) In fact, while National Guard troops were used repeatedly in the 20th
+    century by governors and presidents to break labor strikes—often brutally—it wasn’t
+    until the Civil Rights movement and the 1960s that federal troops began to play
+    a more routine role in responding to civil disturbances. In 1957, when Arkansas
+    governor Orval Faubus used the state’s National Guard to block the integration
+    of Little Rock Central High School, President Dwight Eisenhower responded by federalizing
+    all 10,000 Arkansas National Guardsmen and deploying troops from the 101st Airborne
+    Division to force the school’s integration and protect the nine Black students
+    attempting to enroll there. The mission was a key learning opportunity for the
+    military, and when the Army manual on “Civil Disturbances” was republished in
+    1958, it had doubled in size and now contained a new section on riot control.
+    In every year of his short presidency, President John F. Kennedy deployed federal
+    marshals or troops against the wishes of state officials as the civil rights movement
+    gained momentum. In 1961, some 400 federal marshals were sent to Alabama to protect
+    the Freedom Riders, and when James Meredith attempted to enroll as the first Black
+    student at the University of Mississippi in 1962, Kennedy sent federal marshals
+    who then faced incredibly violent white protesters. With the marshals under attack,
+    Kennedy deployed first the Mississippi National Guard and then thousands of federal
+    troops as well. (That military operation, codenamed RAPID ROAD, was actually the
+    first and only time during the Cold War that the military activated and used plans
+    it had developed to quell civil disturbances in the wake of a nuclear attack.)
+    Then, in 1963, Kennedy again relied on the National Guard to help with the integration
+    of the University of Alabama, and his successor, Lyndon Johnson, used marshals
+    and the National Guard to protect civil rights marchers in Selma after Alabama
+    state troopers infamously attacked them at the Edmund Pettus Bridge in an incident
+    that came to be known as “Bloody Sunday.” Presidents began using military troops,
+    including the National Guard, more routinely in America’s cities in the 1960s.
+    During summer riots following police brutality in Detroit in 1967, President Johnson
+    ordered elements of the 82nd and 101st Airborne Divisions into the city, and Michigan
+    governor George Romney called up the Michigan National Guard; more than 40 people
+    were killed, more than half by Detroit police. National Guard troops killed 11,
+    including a 4-year-old girl, Tanya Blanding, who died when a Michigan guardsman
+    opened fire with a tank-mounted .50-caliber machine gun on her apartment after
+    wrongly believing a sniper was inside. While troops were used again amid the 1968
+    riots that followed the assassination'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: A
+    explanation: The article explicitly states that a key tenet of American federalism
+      is that a state cannot actively resist federal authority or eject federal law
+      enforcement, making options for local officials limited.
+    options:
+      A: They lack the legal standing to challenge federal authority within the US
+        federalist structure.
+      B: They are afraid of inciting a larger, more violent confrontation with Trump's
+        supporters.
+      C: The federal government has successfully co-opted the local police departments.
+      D: The National Guard is under the direct control of the Department of Homeland
+        Security.
+    q_number: 1
+    stem: According to the article, why are Minneapolis Mayor Jacob Frey and Governor
+      Tim Walz unable to forcibly remove federal agents?
+  - answer: B
+    explanation: The text mentions rising animus, local police condemning shootings
+      by ICE agents, and DHS agents actively barring local police from crime scenes,
+      indicating a breakdown in cooperation.
+    options:
+      A: The DHS is working in close cooperation with state law enforcement agencies.
+      B: There is significant animosity and a lack of coordination between federal
+        and local authorities.
+      C: The DHS is attempting to train local police in new crowd control tactics.
+      D: Local police are actively supporting the federal agents' actions against
+        protesters.
+    q_number: 2
+    stem: What is implied by the author's description of the DHS agents' interactions
+      with local police?
+  - answer: C
+    explanation: The author notes that restraint is likely intended to prevent escalation,
+      as Trump is looking for pretexts to declare a state of 'insurrection' and deploy
+      federal troops.
+    options:
+      A: They hope to negotiate a compromise regarding voter rolls.
+      B: They are prioritizing their own political survival over public safety.
+      C: They fear providing a pretext for President Trump to invoke the Insurrection
+        Act.
+      D: They believe that the federal agents will eventually leave on their own volition.
+    q_number: 3
+    stem: What is the primary motive behind the caution exercised by Governor Walz
+      and Mayor Frey, according to the author?
+  - answer: C
+    explanation: The author quotes scholar Scott Anderson, noting that the idea that
+      the military should not be used against citizens is a foundational principle,
+      but it is 'loosely grounded in the law' and relies more on 'political norms'.
+    options:
+      A: These laws provide robust legal protection against military overreach.
+      B: President Trump has strictly adhered to historical legal precedents.
+      C: Legal limits on domestic troop deployment are more based on norms than ironclad
+        statutes.
+      D: The US military is legally required to intervene in local civil disturbances.
+    q_number: 4
+    stem: 'The author cites the Posse Comitatus Act and the Insurrection Act to illustrate
+      that:'
+  - answer: D
+    explanation: The author uses strong language like 'rampaging,' 'abusing constitutional
+      safeguards,' and 'un-American,' demonstrating deep concern and criticism of
+      the current administration's actions.
+    options:
+      A: Objective and detached.
+      B: Cautiously optimistic.
+      C: Indifferent and cynical.
+      D: Critically concerned.
+    q_number: 5
+    stem: What is the author's tone regarding the federal government's actions in
+      Minneapolis?
+  source_journal: Wired
+  title: Chapter 11
