@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.16.2026",
+  "papers": [
+    {
+      "title": "Mouse eyes photosynthesize after plant-to-animal transplant",
+      "article_update_date": "05.15.2026",
+      "source_journal": "Nature",
+      "body_text": "A chloroplast (green) dotted with the membranous stacks called thylakoid grana (black blocks). Scientists have harnessed grana to induce photosynthesis in mammalian cells.Credit: Biophoto Associates/Science Photo Library Photosynthetic machinery can be harvested from spinach and transplanted into the eyes of mice, where it transforms light into molecules that carry energy and can tame inflammation1. “We are stealing the entire technology that has evolved over millions of years in plants and are able to transplant it into the animal system,” says David Tai Leong, a biologist at the National University of Singapore and co-author of the study. “This is really cool,” says Corey Allard, a cell biologist at Harvard University in Cambridge, Massachusetts. The findings, published today in Cell, suggest that plant-to-animal organelle swaps could lead to fresh biological insights as well as therapeutic applications. “Any effort to do this is necessarily going to look like a party trick at first,” Allard adds. But only by trying the technique and finding out its limitations — such as how long the effects last and which cells can be targeted — can researchers work to build out the use cases, he adds. Spinach smoothies Kuoran Xing, a bionanotechnologist at the National University of Singapore, and his colleagues were inspired to explore the potential of cross-kingdom transplants by the ability of sea slugs to steal photosynthetic machinery from algae. To see whether mammalian cells might be able to pull off a similar feat, Xing first headed to the local supermarket, FairPrice, to buy a range of leafy greens. By blending, filtering and centrifuging these, he isolated the leaves’ chloroplasts, the photosynthetic engines that transform light into energy. He then dunked the chloroplasts into a solution to expose their thylakoid grana, pancake-like stacks that harvest light to power the photosynthetic reactions. Cyber-spinach turns sunlight into sugar Spinach (Spinacia oleraceae) yielded more photosynthetic machinery than did red spinach (Amaranthus tricolor), water spinach (Ipomoea aquatica) or lettuce (Lactuca sativa). The team encapsulated the spinach grana into nanoparticles, which they dubbed LEAFs. In the Petri dish, mammalian cells quickly internalized LEAF particles. Once inside cells, the LEAFs could transform light into chemical energy for several hours, producing the energy-carrying molecules ATP and NADPH. In plants, a second phase of photosynthesis transforms these molecules into carbohydrates — a step that LEAFs do not support. The set of reactions performed by LEAFs is “a limited form of photosynthesis”, Leong says, “But nonetheless it is still photosynthesis.” Eyes on the prize",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Scientists have recently _____ to induce photosynthesis in mammalian cells by using specialized plant structures.",
+          "options": {
+            "A": "harnessed",
+            "B": "abandoned",
+            "C": "neglected",
+            "D": "scrutinized"
+          },
+          "answer": "A",
+          "explanation": "根据文意，科学家利用植物的grana诱导哺乳动物细胞的光合作用，harnessed表示利用、开发，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The harvested machinery is _____ into the eyes of mice, where it functions to produce energy molecules.",
+          "options": {
+            "A": "removed",
+            "B": "destroyed",
+            "C": "transplanted",
+            "D": "isolated"
+          },
+          "answer": "C",
+          "explanation": "将植物组织植入动物体内，transplanted意为移植，是科学术语的正确表达。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Researchers are essentially _____ technology that has evolved over millions of years to benefit animal systems.",
+          "options": {
+            "A": "donating",
+            "B": "stealing",
+            "C": "replacing",
+            "D": "evaluating"
+          },
+          "answer": "B",
+          "explanation": "文中引述David Tai Leong的话，使用stealing一词形象描述了借用植物进化出的复杂机制。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Experts like Corey Allard believe that this pioneering research might lead to _____ biological insights.",
+          "options": {
+            "A": "vague",
+            "B": "redundant",
+            "C": "hostile",
+            "D": "fresh"
+          },
+          "answer": "D",
+          "explanation": "研究成果带来了新的发现，fresh意为新鲜的、新的，符合学术探索的积极语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Though currently resembling a 'party trick,' this technique has significant potential for future _____ applications.",
+          "options": {
+            "A": "mechanical",
+            "B": "hypothetical",
+            "C": "superficial",
+            "D": "therapeutic"
+          },
+          "answer": "D",
+          "explanation": "文中提及该技术可以减轻炎症，therapeutic意为治疗的，符合医疗应用背景。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Researchers aim to determine the limitations of this technique, such as how long the effects _____.",
+          "options": {
+            "A": "persist",
+            "B": "vanish",
+            "C": "fluctuate",
+            "D": "emerge"
+          },
+          "answer": "A",
+          "explanation": "研究需要观察效果持续的时间，persist表示持续，符合逻辑。"
+        },
+        {
+          "q_number": 7,
+          "stem": "The scientists were _____ to explore this field by observing how sea slugs interact with algae.",
+          "options": {
+            "A": "deterred",
+            "B": "inspired",
+            "C": "provoked",
+            "D": "compelled"
+          },
+          "answer": "B",
+          "explanation": "看到海蛞蝓的行为激发了科学家的灵感，inspired表示受到启发。"
+        },
+        {
+          "q_number": 8,
+          "stem": "To prepare the experimental materials, the researchers _____ chloroplasts from various leafy greens.",
+          "options": {
+            "A": "integrated",
+            "B": "isolated",
+            "C": "dispersed",
+            "D": "composed"
+          },
+          "answer": "B",
+          "explanation": "通过离心等步骤从植物叶片中分离出叶绿体，isolated是科学实验的正确动词。"
+        },
+        {
+          "q_number": 9,
+          "stem": "These chloroplasts are considered the photosynthetic _____ that transform light into chemical energy.",
+          "options": {
+            "A": "engines",
+            "B": "byproducts",
+            "C": "barriers",
+            "D": "vessels"
+          },
+          "answer": "A",
+          "explanation": "叶绿体像引擎一样转化能量，engines是此处绝佳的隐喻。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The researcher then _____ the chloroplasts into a solution to further expose the internal grana.",
+          "options": {
+            "A": "filtered",
+            "B": "discarded",
+            "C": "monitored",
+            "D": "dunked"
+          },
+          "answer": "D",
+          "explanation": "文中描述将叶绿体浸入溶液中，dunked意为浸入、泡入。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The grana are described as pancake-like stacks that harvest light to _____ photosynthetic reactions.",
+          "options": {
+            "A": "power",
+            "B": "hinder",
+            "C": "reverse",
+            "D": "bypass"
+          },
+          "answer": "A",
+          "explanation": "光合作用需要能量驱动，power在此处作动词，意为驱动、提供动力。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Different types of greens were tested, and spinach _____ more photosynthetic machinery than other plants.",
+          "options": {
+            "A": "consumed",
+            "B": "withdrew",
+            "C": "yielded",
+            "D": "wasted"
+          },
+          "answer": "C",
+          "explanation": "菠菜产生或提供了一定量的光合机械，yielded在此意为产生、出产。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The team _____ the spinach grana into nanoparticles to facilitate cellular uptake.",
+          "options": {
+            "A": "magnified",
+            "B": "encapsulated",
+            "C": "diluted",
+            "D": "exposed"
+          },
+          "answer": "B",
+          "explanation": "为了包裹grana，使用纳米颗粒，encapsulated意为封装、包裹。"
+        },
+        {
+          "q_number": 14,
+          "stem": "In the Petri dish, mammalian cells were able to _____ the LEAF particles effectively.",
+          "options": {
+            "A": "detected",
+            "B": "exhausted",
+            "C": "internalized",
+            "D": "negated"
+          },
+          "answer": "C",
+          "explanation": "细胞吸收了纳米颗粒，internalized表示内化、吸收进内部。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Once inside the cells, the LEAFs were able to convert light into energy for several _____.",
+          "options": {
+            "A": "decades",
+            "B": "centuries",
+            "C": "hours",
+            "D": "generations"
+          },
+          "answer": "C",
+          "explanation": "实验测量的是细胞器在短时间内的活性，hours符合实验持续时间的合理性。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The energy-carrying molecules produced, such as ATP and NADPH, are _____ byproducts of this process.",
+          "options": {
+            "A": "vital",
+            "B": "insignificant",
+            "C": "unstable",
+            "D": "hazardous"
+          },
+          "answer": "C",
+          "explanation": "根据上下文语境，这些能量分子在转换过程中存在时间限制和不稳定性，unstable符合科学事实。"
+        },
+        {
+          "q_number": 17,
+          "stem": "A second phase of natural photosynthesis turns these molecules into carbohydrates, a step that LEAFs do not _____.",
+          "options": {
+            "A": "support",
+            "B": "interrupt",
+            "C": "complicate",
+            "D": "abandon"
+          },
+          "answer": "A",
+          "explanation": "LEAFs无法完成后续转化，support在此处指代支持这一生理过程。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Despite the limitations, Leong maintains that the process is _____ still photosynthesis.",
+          "options": {
+            "A": "nonetheless",
+            "B": "moreover",
+            "C": "consequently",
+            "D": "likewise"
+          },
+          "answer": "B",
+          "explanation": "即便有限制，这依然是光合作用，nonetheless表示尽管如此，然而。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The researchers continue to have their eyes on the _____, focusing on how to make this application practical.",
+          "options": {
+            "A": "prize",
+            "B": "routine",
+            "C": "blunder",
+            "D": "burden"
+          },
+          "answer": "D",
+          "explanation": "Eyes on the prize是固定搭配，意为关注最终目标或奖励。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Further investigation is required to see which cells can be specifically _____ to optimize therapeutic outcomes.",
+          "options": {
+            "A": "targeted",
+            "B": "avoided",
+            "C": "monitored",
+            "D": "discarded"
+          },
+          "answer": "D",
+          "explanation": "针对特定细胞进行治疗，targeted意为瞄准、针对。"
+        }
+      ]
+    },
+    {
+      "title": "‘Footballers are not superheroes’: we must tackle the mental and physical pressures of elite sport",
+      "article_update_date": "06.12.2026",
+      "source_journal": "Nature",
+      "body_text": "Vincent Gouttebarge raises awareness about mental health in professional football.Credit: Gouttebarge Vincent Gouttebarge played professional football in France and the Netherlands for more than a decade before retiring in 2007 and concentrating on a medical-research career. Familiar with injury during his sporting days, he now works as medical director at the International Federation of Professional Footballers (FIFPRO), which is a players’ union, and as chair of the International Olympic Committee’s Mental Health Working Group, alongside his research at the University of Pretoria and Amsterdam University Medical Centre. As the 2026 men’s football World Cup starts in the United States, Canada and Mexico, he spoke to Nature about what the game’s biggest tournament means for the physical and mental health of the players who compete in it. Can the ‘steroid Olympics’ show the sporting community how to support athletes better? What do you understand from the inside about the health of footballers that is hard to see from the outside? Footballers are not superheroes — they can be exposed to many health conditions. Musculoskeletal injury is well known, but symptoms of mental-health issues are also prevalent. That is why I chose, years after retiring, to look at the mental-health challenges for players both during and after a career in professional football. The World Cup is about to begin. What does it do to players’ mental health? Being selected for a national team and competing at a World Cup is obviously positive. But it depends very much on how the competition goes — whether the person is playing or on the bench, whether the team is winning. You also need to look beyond the competition itself. After the World Cup, players need to be back at their clubs very quickly. If they are lucky, they have one or two weeks off. For many, even that is not feasible. There is no recovery period between two seasons. Is this tight schedule a health problem, not just a performance one? Yes. The match calendar — all the domestic and international competitions — puts a huge burden on the players, not only physically and physiologically, but also emotionally and cognitively. Sports science At the elite level, players are sometimes exposed to two or three games a week, back-to-back, with no day off. In 2024, together with the World Leagues, FIFPRO called on the International Federation of Association Football (FIFA) to reschedule tournaments to give players more recovery time between major competitions. And this is even without talking about the social-media pressure that is now present every day, during the season as well as during holidays. How common are mental-health issues in professional football, and what causes them? What we measure are symptoms: self-reported adverse thoughts, feelings and behaviours. Clinically diagnosing specific disorders for research purposes is not feasible in elite sport because the process is too time-consuming. But from the epidemiological studies I have been conducting since 2012 in professional football and across elite sport, clear patterns can be seen. There are generic stressors that are relevant to the general population — professional footballers have a social life and relationships outside the sport, and they experience the same adverse events as anyone else. But these combine with sport-specific contributing factors. Injury is a major one. Researchers have good evidence for a bidirectional relationship between injury and mental health: poor mental health can predispose an athlete to musculoskeletal injury. And a severe injury that means a long period without training or competition is the most significant adverse life event in an athlete’s career. Unexpected poor performance is another factor. Gouttebarge (right) is a former footballer.Credit: Fred Rotgans (CC BY-SA 4.0) Is there still stigma around mental health in professional football? The stigma is relevant across the general population in many countries, and it is present in football, which is by tradition a conservative sport. I think in Europe we are well on the way to breaking the stigma, but there is still a lot of work to do. If you look at other continents where football is very popular — South America, Africa, parts of Asia — it is still seen as a weakness to speak about mental health. If a player has an ankle injury or a hamstring problem, they speak openly about it at press conferences. But when it comes to depression or anxiety, we are still not there. Players are worried about the reaction of their coach. They fear that if a coach knows they have experienced depression, they will not put them in the starting eleven. I think we need both a bottom-up approach — mental-health literacy programmes and education for players and coaches, for example — and a top-down approach. At national-federation level, medical committees are conventionally composed of sports-medicine physicians, orthopaedic surgeons and cardiologists. But they don’t usually have a mental-health professional. That needs to change. You worked to increase mental-health awareness in professional football. Did it succeed? We developed a programme at FIFPRO in 2018 to educate players. We found that attitudes and behaviour were better after the programme than before. It was not a randomized controlled trial, but it was at least a small piece of evidence that if you invest a little time in mental-health literacy, explaining why mental-health challenges should be on the same level on the agenda as musculoskeletal injury, then you can have real benefits. The Enhanced Games miss the point: science can clean up sport What do you think of the practice of asking players who are out of favour to train separately? It is something I feel very strongly about. We see it a lot in professional football: a new coach arrives, the squad is too large, and certain players are asked to train alone or with the youth team. From a trade-union perspective, this is bad behaviour, because those players have signed contracts with their employer. But it is also a mental-health issue: social support is protective, and deliberately isolating a player from their workplace environment increases their mental-health risks. It would not be acceptable in any other industry, but in professional football, it still happens regularly because of poor leadership at club level.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary concern Vincent Gouttebarge raises regarding the current football schedule?",
+          "options": {
+            "A": "It results in financial losses for clubs due to fewer training days.",
+            "B": "It places an excessive burden on players, leading to physical and mental health issues.",
+            "C": "It prevents players from participating in social activities outside their sport.",
+            "D": "It forces coaches to select players based on outdated medical criteria."
+          },
+          "answer": "B",
+          "explanation": "文章中提到match calendar给球员带来了巨大的生理和心理压力，提到这种日程安排不仅仅是表现问题，更是健康问题，即选项B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest about the relationship between injury and mental health in elite sports?",
+          "options": {
+            "A": "Physical injuries are the sole cause of mental health disorders in players.",
+            "B": "Mental health issues only occur after a player has suffered a career-ending injury.",
+            "C": "There is a reciprocal connection, where mental health can influence physical injury risk.",
+            "D": "Physical recovery time is no longer considered necessary by modern sports medicine."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到“bidirectional relationship”，即双向关系，心理健康状况差可能导致肌肉骨骼损伤，而严重损伤也会影响心理健康。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does Gouttebarge argue that the stigma around mental health persists in football?",
+          "options": {
+            "A": "Because players feel that disclosing mental issues might jeopardize their career prospects.",
+            "B": "Because medical committees are dominated by mental health experts who are too strict.",
+            "C": "Because the general population has successfully eliminated all mental health prejudices.",
+            "D": "Because there is a lack of high-quality epidemiological data on mental health."
+          },
+          "answer": "A",
+          "explanation": "文章提到球员担心教练如果知道他们有抑郁症，就不会让他们进入首发阵容，即担心职业前景。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following is cited as a 'mental-health issue' in the context of club management?",
+          "options": {
+            "A": "The lack of investment in modern training facilities for youth players.",
+            "B": "The requirement for players to undergo random drug testing.",
+            "C": "The practice of isolating players from the main squad for training.",
+            "D": "The competition between different international national federations."
+          },
+          "answer": "C",
+          "explanation": "文章末尾提到将球员隔离在工作环境之外（训练单飞）是一种糟糕的行为，且由于缺乏社会支持，会增加球员的心理健康风险。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's attitude toward the current approach to mental health in professional football?",
+          "options": {
+            "A": "Optimistic, as the problem has been largely solved by international leagues.",
+            "B": "Indifferent, as it is outside the scope of a professional medical director.",
+            "C": "Critical, yet constructive, advocating for systemic changes and education.",
+            "D": "Skeptical, as he believes mental health cannot be measured in sports."
+          },
+          "answer": "C",
+          "explanation": "作者虽然指出了足球运动中保守的文化和存在的偏见，但也提出了解决方案（如自下而上和自上而下的方法），说明其态度是批判且具有建设性的。"
+        }
+      ]
+    },
+    {
+      "title": "Viktor Orban is bashing Ukraine for votes",
+      "article_update_date": "04.15.2026",
+      "source_journal": "Economist",
+      "body_text": "Viktor Orban is bashing Ukraine for votes Europe | Budapest’s bogeyman Viktor Orban is bashing Ukraine for votes Hungary’s election poisons relations between Hungary and its neighbour April 9th 2026 In Transcarpathia, the corner of western Ukraine home to the country’s ethnic-Hungarian minority, enthusiasm for Hungary’s general election on April 12th is mixed. “Viktor Orban is our hero,” says a visibly drunken middle-aged man, a pair of boxing gloves hanging around his neck, outside a supermarket in Syurte, a village near the border. Others are more sober. At a café in Uzhhorod, the region’s main hub, Andrea, another ethnic Hungarian, says she has had enough of the Hungarian prime minister and his anti-Ukrainian propaganda. “I can’t watch Hungarian TV anymore,” she says. Support for Mr Orban runs high among ethnic Hungarians in Romania, Serbia, Slovakia and Ukraine. More than 90% of votes cast abroad in the elections of 2022 went to his party, Fidesz. Since 2010 the party has doled out hundreds of millions of euros for schools, pensions and cultural centres, and offered more than 1m passports to Hungarians abroad. That explains why Transcarpathia’s Hungarians back Mr Orban—despite, not because of, his hostility to Ukraine, a local journalist says. The skies over Uzhhorod are clear of drones, but even here Russia’s invasion is present. Photos of more than 220 local conscripts killed in action crowd a wall opposite the city’s main church. Outside the train station commuters observe a moment of silence for the war dead. Of the roughly 120,000 Hungarians who lived in Transcarpathia before the war less than half remain, according to estimates. Many families moved across the border when Russia invaded and never returned. Most of the homes in Syurte are empty. On Uzhhorod’s streets, lined with blossoming cherry trees, one hears hardly any Hungarian spoken. Those who remain are being drawn into a diplomatic conflict between Ukraine and Hungary. In March Hungary’s foreign minister, Peter Szijjarto, accused Ukraine of targeting ethnic Hungarians for conscription. Days later he travelled to Moscow, where Vladimir Putin allowed him to return home with two ethnic-Hungarian soldiers who had fought for Ukraine and were captured by Russia. One later appeared at a Fidesz rally and called for the death of Volodymyr Zelensky, Ukraine’s president. The worsening relations seem to be part of Mr Orban’s electoral strategy. He has put Ukraine at the heart of his campaign, accusing the country and its European allies of seeking to drag Hungary into the war. On April 5th, after Serbian police discovered explosives near a pipeline that transports Russian gas to Hungary, Mr Orban blamed Ukraine. Ukraine denies any involvement; a spokesperson speculated it was a Russian false-flag operation. Serbia said it had no evidence implicating Ukraine. On April 7th Mr Orban got an assist from America’s vice-president, J.D. Vance, who flew to Budapest to stump for him. Following his host’s playbook, Mr Vance accused Ukraine of interfering in Hungary’s election. Hungary’s leader is also blocking €90bn ($103bn) in European Union loans to Ukraine. He accuses the country of postponing repairs of another pipeline, the Druzhba, which carries Russian oil to Hungary through Ukraine, and which Ukraine says was damaged in a Russian attack earlier this year. Ukraine is not blameless. It has denied EU inspectors access to the damaged Druzhba. Last month Mr Zelensky suggested that if Hungary did not unblock the loan, he might provide Mr Orban’s address to Ukraine’s security forces “so that they could speak to him in their own language”. He later waved it off as a joke. Hungarians in Transcarpathia want no part of the dispute between the governments. “People here have lived on good terms with their neighbours for centuries,” says Robert Troyak, an ethnic Hungarian entrepreneur from Uzhhorod. But politicians do not make it easy: “It’s like living between two fires.” ■ To stay on top of the biggest European stories, sign up to Café Europa , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//europe/2026/04/09/viktor-orban-is-bashing-ukraine-for-votes",
+      "difficulty_constant": 8.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why do many ethnic Hungarians in Transcarpathia support Viktor Orban despite his hostile stance toward Ukraine?",
+          "options": {
+            "A": "They believe his anti-Ukrainian propaganda is essential for their national identity.",
+            "B": "They are coerced by local authorities who threaten to withhold pensions and services.",
+            "C": "Orban has provided substantial financial support and citizenship opportunities for years.",
+            "D": "They fear that the Ukrainian government intends to revoke their ethnic status."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到，自2010年起，欧尔班的政党为境外的匈牙利人提供了数亿欧元的学校、养老金和文化中心资助，并授予了超过100万本护照，这是尽管他对抗乌克兰，但外喀尔巴阡的匈牙利人仍支持他的主要原因。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'the skies over Uzhhorod are clear of drones' imply in the second paragraph?",
+          "options": {
+            "A": "The city has been completely shielded by advanced defense systems.",
+            "B": "The region is geographically isolated from the direct kinetic conflict of the war.",
+            "C": "Russian forces have deliberately avoided targeting this specific city.",
+            "D": "The absence of drones indicates that the war has ceased to affect the population."
+          },
+          "answer": "B",
+          "explanation": "该句暗示外喀尔巴阡地区虽然感受到战争的影响（如阵亡士兵照片、人口减少），但在地理位置上并未直接遭受无人机袭击，处于一种战争边缘的状态。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How did Viktor Orban utilize the incident regarding the two captured ethnic-Hungarian soldiers?",
+          "options": {
+            "A": "He used it as diplomatic leverage to negotiate a peace treaty with Zelensky.",
+            "B": "He presented it as proof of Ukraine's mismanagement of its own ethnic minorities.",
+            "C": "He integrated one soldier into his political campaign to discredit the Ukrainian president.",
+            "D": "He demanded an official apology from Putin for the soldiers' capture."
+          },
+          "answer": "C",
+          "explanation": "文中指出，普京将两名被俘士兵交还给匈牙利后，其中一人出现在欧尔班所属党派（Fidesz）的集会上，并呼吁杀死泽连斯基，这直接配合了欧尔班的选举策略。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the current state of the relationship between Hungary and Ukraine regarding the Druzhba pipeline?",
+          "options": {
+            "A": "Both nations have agreed to a joint repair project overseen by EU inspectors.",
+            "B": "Ukraine has intentionally sabotaged the pipeline to pressure Hungary into political submission.",
+            "C": "The conflict is exacerbated by mutual accusations of obstruction and lack of transparency.",
+            "D": "Hungary has completely abandoned reliance on Russian oil, rendering the pipeline irrelevant."
+          },
+          "answer": "C",
+          "explanation": "文章提到欧尔班指责乌克兰推迟维修，而乌克兰则拒绝欧盟检查员进入现场，且乌克兰本身也并非无过错，双方在管道问题上互相指责，陷入僵局。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary concern of local residents like Robert Troyak regarding the current political climate?",
+          "options": {
+            "A": "They are afraid of being caught in the crossfire of escalating diplomatic tensions.",
+            "B": "They wish for more aggressive intervention by the European Union in their region.",
+            "C": "They are concerned that the local cherry blossom season will be ruined by the war.",
+            "D": "They want to relocate permanently to Hungary to escape the deteriorating conditions."
+          },
+          "answer": "A",
+          "explanation": "Robert Troyak提到这里的民众几个世纪以来一直与邻居和睦相处，但目前的政客让生活变得艰难，这就像是“生活在两火之间”，表达了对身处两国博弈夹缝中的无奈和担忧。"
+        }
+      ]
+    },
+    {
+      "title": "New Directors, New Films",
+      "article_update_date": "04.13.2026",
+      "source_journal": "New Yorker",
+      "body_text": "New Directors, New Films Goings On New Directors, New Films Also: Zendaya and Robert Pattinson in “The Drama,” Michael Schulman on spring fabulosity, Rachel Syme on the latest in trenchcoats, and more. By Richard Brody,Marina Harss,Dan Stahl,Sheldon Pearce,Jane Bua,Michael Schulman,Rachel Syme April 03, 2026 This year’s edition of the New Directors/New Films series , an annual collaboration between MOMA and Film at Lincoln Center that began in 1972, highlights a diverse array of movies with invigorating approaches to narrative form—foremost, “Variations on a Theme,” the second feature by the South African filmmakers Jason Jacobs and Devon Delmar, which weaves together multiple story lines in its hour-and-five-minute span. The film is set in a mountain village where an elderly woman named Hettie (Hettie Farmer) lives alone on a small farm, tending her flock of goats with increasing difficulty. The village’s Black residents, including Hettie, are energized by a promising but tangled effort to redress a long-standing injustice—the unequal compensation received by Black South African soldiers in the Second World War. Meanwhile, a man obsessively seeks buried treasure beneath his home. The life of the rural region is framed in airy and luminous wide-screen images that recur with a lyrical vision of vast arcs of time amid dramatic social change. A simple setup gives rise to quiet complexity in the Tibetan American director Tenzin Phuntsog’s first dramatic feature, “Next Life,” set in an unnamed American suburb (filmed largely in his parents’ house, in California). There, an old Tibetan man (Tsewang Migyur Khangsar) requests a Tibetan doctor to tend to his ever more troubling ailments. As the patient weakens, he hopes to visit Tibet once more, prompting his son (Tenzin Phurpatsang) to seek out a visa for him from a Chinese consulate; meanwhile, the family turn toward their religious traditions, which Phuntsog strikingly and movingly embodies in poised and serene images of a rare, modest, yet exalted spirituality. Pete Ohs’s modernist melodrama “Erupcja” stars Charli XCX as a young woman who, while vacationing in Warsaw with her boyfriend (Will Madden), reconnects with an old friend (Lena Góra). The two women’s powerful, mysterious bond is sketched in sharp yet subtle dramatic strokes that are all the more thrilling for their breathless rapidity. It will be released in theatres on April 17; its festival screenings are an enticement to the aptly impatient.— Richard Brody About Town Classical Much has been said about opera recently—that it’s out of touch, that it’s a dying art, that it doesn’t have enough Ping-Pong in it. No matter what we’re willing to admit, there’s a reason why this is a prevailing perception, so how do we rise to the challenge of changing it? The Met’s latest attempt is by putting on “Innocence,” the final opera by the late Finnish composer Kaija Saariaho, which tells a story of grief and trauma after a devastating school shooting. Told in two time lines, one near-present and one past, with a libretto by Sofi Oksanen and Aleksi Barrière, “Innocence” dissects the personal impact of gun violence, taking on a tragically common occurrence. One can imagine more irrelevant things.— Jane Bua ( The Metropolitan Opera ; select dates April 6-29.) Off Broadway Cannibalism, rape, a severed tongue and hands, filicide . . . Quentin Tarantino has nothing on Shakespeare. In the Bard’s early tragedy “Titus Andronicus,” acts of revenge pile up like so many bodies. The bloodletting begins with Titus (Patrick Page), a Roman general who returns from a victorious campaign against the Goths, carting along their deposed queen, Tamora (Francesca Faridany), and her three sons, one of whom is executed to avenge Titus’s own sons slain in battle. It’s a credit to the director, Jesse Berger (for Red Bull Theatre), that he doesn’t shy away from the play’s gore, especially vivid against the set’s ghostly columns, whose sleekness aligns with the neofascist chic of the costumes. It’s a credit to the agile cast that they find humor in the gallows.— Dan Stahl ( Pershing Square Signature Center ; through April 19.) Pop Soul The 2021 album “Skin” introduced the bruised songcraft of the British singer-songwriter Joy Crookes to the wider world. After several EPs and a nomination for Rising Star at the 2020 Brit Awards, she met the moment with a soulful pop sound, smuggling in references to her London upbringing, as the child of Bangladeshi and Irish immigrants, and meditating on the awakenings of young adulthood. “Skin,” shortlisted for the Mercury Prize, cultivated a lithe, jazzy voice that eased through the hushed rhythms of mellow R. & B. production, and her follow-up, “Juniper,” from September, is just as subtle but even more refined, its sonic acuity mirroring its clarity of thought.— Sheldon Pearce (Irving Plaza; April 13.) Off Broadway In his twenties, the title character of Chekhov’s “Ivanov,” played by Zachary Desmond, was filled with passion and purpose. Now, at thirty-five, he’s a self-loathing, debt-ridden farmer who bemoans “a lethargy in my soul.” His disaffection baffles his acquaintances and pains his tubercular wife (a superb Quinn Jackson), whose doctor (Lambert Tamin) has only contempt for her husband’s agonizing. To convey Ivanov’s world-weariness without wearying the audience is a challenge that Michael DeFilippis’s production doesn’t always meet—despite its well-acted, artfully designed, energetic staging of Paul Schmidt’s resonant translation. There’s a built-in repetitiveness to the material, not unlike the thought patterns of depression itself, that constitutes a Russian rebuke to myopic American optimism: sometimes it doesn’t get better.— Dan Stahl ( West End Theatre ; through April 12.) Dance A century ago, the choreographer Martha Graham cobbled together an evening of original works at a Broadway theatre, her first. Could she have known then that it was the start of a momentous career? The troupe she created, Martha Graham Dance Company, has survived, despite tall odds. In its centenary season, it performs three of Graham’s most well-known dances, all about love: “Appalachian Spring” (1944), with its spacious score by Copland, is about hopeful, expansive love; “Diversion of Angels” (1948), about different facets of love and its twin, passion; and “Night Journey” (1947), inspired by the Oedipus myth, chronicles love (and lust) gone horribly wrong.— Marina Harss ( New York City Center ; April 8-12.) Movies “The Drama,” the writer and director Kristoffer Borgli’s earnest story of love forged and fraying, is set in Boston and spans about two years in the lives of Charlie (Robert Pattinson) and Emma (Zendaya); not even these stars’ vibrant and thoughtful performances can rescue the film from ridicule. During a wine-drenched evening, the soon to be married couple, along with two friends (Alana Haim and Mamoudou Athie), confess the worst thing they’ve ever done; one such admission puts the wedding at risk, as well as friendships and even professional standing. Borgli offers a childish view of romance, leaping from acquaintance to engagement with no substance in between, and the fancy editing scheme of flashbacks and leaps ahead merely calls attention to the underlying void.— Richard Brody (In wide release.) Pick Three Michael Schulman on spring fabulosity. 1. “The Rocky Horror Show”—the louche sci-fi musical that went from underground stage sensation in London to cult movie and queer touchstone—returns to Broadway, directed by Sam Pinkleton (“Oh, Mary!”) and starring Luke Evans, Stephanie Hsu, Juliette Lewis, and Rachel Dratch. In anticip-p-pation, I suggest streaming the documentary “Strange Journey,” which came out last year, for the film’s fiftieth anniversary. It’s directed by Linus O’Brien, the son of Richard O’Brien, the British New Zealander who wrote the show (and played Riff Raff) and then went on a gender odyssey. 2. If your idea of heaven is flipping through a 1982 issue of Interview, good news: Library180, a chic, by-appointment magazine reference library, now occupies a bright room on the twenty-sixth floor of an office building on Maiden Lane. Created by Nikki Igol and Steven Chaiken, who worked together at the fashion magazine V in the early two-thousands, the place is stocked with vintage issues of Paper, Vogue, and more. Through a red chain-link curtain is a back room containing the likes of Screw, Al Goldstein’s erotic tabloid from the sixties and seventies. 3. Julio Torres, one of the most original minds in comedy, wrote surreal sketches for “Saturday Night Live” before unveiling his brilliant 2019 HBO special, “My Favorite Shapes,” in which he sat at a conveyor belt in futuristic silver garb and narrated the inner lives of objects that rolled by. He’s back on HBO with a companion piece, “Color Theories.” Using a synesthetic logic all his own, Torres explains why Dwayne (the Rock) Johnson is orange, Catholicism is purple, and navy blue is the nefarious color that secretly runs the world. On and Off the Avenue Spring in the trenches. Springtime, at least in New York City, is, in this writer’s humble opinion, somewhat overrated. Sure, it has its pleasures: the vibrant return of window-box buttercups, the reopening of the Central Park boathouse, the ornate millinery of the Fifth Avenue Easter Bonnet Festival, the Brooklyn Botanic Garden’s “Cherry Watch” live map tracking exactly when each Sakura blossom blooms, the thrift stalls at the Hester Street Fair, the annual New York Botanical Garden Orchid Show, the renewed chance to drink a cold beer at a baseball game. But, mostly, city dwellers are deprived of the true glories of the season. We aren’t watching chicks hatch or witnessing the miracle of foaling or plucking clumps of wild ramps from the earth. Instead, we continue traipsing through concrete, burdened with utter confusion about what, exactly, to wear: spring is a time of meteorological fakeouts; one day it will be balmy, the next frigid. Or, mornings are crisp and call for bundling up, but dress in too many layers and you’ll overheat by noon. Rain, April’s rude house guest, visits erratically and unannounced. So, what to put on? One timeless solution is the trenchcoat, a relic of the First World War, which has, over the last century, become the go-to topper for sensible urbanites during these mercurial months: blocking wind and moisture without ever feeling too heavy makes it the ideal garment for unpredictable conditions. The original trenchcoat, designed by Thomas Burberry for the British Army, was made of Burberry-invented waterproof gabardine. Now you can find trenches (or at least trench- ish coats) in nearly every material under the sun—crêpe, suède, twill, jacquard, Gore-Tex. What makes a trench a trench? Some say it’s the cut; traditional trenches are long and double-breasted, with epaulettes, a waist belt, and storm flaps. But these days, trenches come in all shapes: cropped, batwing, even backless. The classic Burberry trench ($2,995) is khaki, but modern trenches adhere to no set color rules. Perhaps the definition is more spiritual than fixed. If it looks like a trench and feels like a trench, then it must be one. The market is teeming with options, but a few that caught my eye this season include the Riva from the Frankie Shop ($495), a streamlined tan number with an unexpected shoulder detail; the Lana from Apparis ($325), a playful approach in sheer leopard-print organza, and, for those in a splurge-y mood, the Aspen from Aligne ($849), in smooth green leather the shade of a Castelvetrano olive. I’m still no spring evangelist, but to stroll through the park in a new coat? It’s enough to make you feel reborn. — Rachel Syme P.S. Good stuff on the internet: A collection of obsolete sounds On the fiction of siblings All-too-real fake cover art",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest about the opera 'Innocence' in the context of the current public perception of the art form?",
+          "options": {
+            "A": "It represents a desperate attempt to include popular trends like Ping-Pong.",
+            "B": "It is criticized for being an irrelevant art form that ignores modern tragedies.",
+            "C": "It serves as a thematic counterpoint to the belief that opera is out of touch with contemporary life.",
+            "D": "It is unlikely to change the prevailing negative perception of opera among younger audiences."
+          },
+          "answer": "C",
+          "explanation": "The text mentions that critics claim opera is 'out of touch' and a 'dying art.' By presenting 'Innocence'—a story about a school shooting—as the Met's latest attempt to address these criticisms, the author implies that the opera is meant to show the art form's relevance to modern, difficult subjects, thereby challenging the idea that it is irrelevant."
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, what is a notable characteristic of Michael DeFilippis's production of 'Ivanov'?",
+          "options": {
+            "A": "It successfully minimizes the repetitive nature of the original play.",
+            "B": "It portrays Ivanov's world-weariness in a way that exhausts the audience.",
+            "C": "It fails to fully resolve the tension between the play's repetition and its dramatic impact.",
+            "D": "It presents a positive outlook on life that contradicts the Russian themes."
+          },
+          "answer": "C",
+          "explanation": "The text states: 'To convey Ivanov’s world-weariness without wearying the audience is a challenge that Michael DeFilippis’s production doesn’t always meet.' This implies a failure to balance the material's inherent repetitive nature with audience engagement."
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the author of the 'Spring in the trenches' section imply about the necessity of wearing a trenchcoat in New York City?",
+          "options": {
+            "A": "It is a superficial trend driven by high-end fashion houses like Burberry.",
+            "B": "It is a practical response to the unpredictable and fluctuating weather conditions of spring.",
+            "C": "It is a mandatory aesthetic choice for urbanites who wish to appear professional.",
+            "D": "It is an outdated practice that fails to protect against the city's sudden rainstorms."
+          },
+          "answer": "B",
+          "explanation": "The author describes spring as a time of 'meteorological fakeouts' and unpredictable temperatures. The trenchcoat is identified as the 'go-to topper' because it blocks wind and moisture without being too heavy, making it ideal for these 'unpredictable conditions.'"
+        },
+        {
+          "q_number": 4,
+          "stem": "How is the film 'The Drama' evaluated by Richard Brody?",
+          "options": {
+            "A": "As a masterpiece of modern narrative structure and editing.",
+            "B": "As a realistic portrayal of the complexities of modern engagement.",
+            "C": "As a work whose technical style highlights a fundamental lack of narrative depth.",
+            "D": "As an earnest and moving exploration of long-term romantic commitment."
+          },
+          "answer": "C",
+          "explanation": "Brody notes that the film has a 'childish view of romance' and that its 'fancy editing scheme... merely calls attention to the underlying void,' indicating that the technical choices serve to highlight the film's lack of substance."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the implied significance of the 'ghostly columns' and 'neofascist chic' costumes in the production of 'Titus Andronicus'?",
+          "options": {
+            "A": "They create a stark, visual contrast that emphasizes the play's violent gore.",
+            "B": "They demonstrate the director's lack of interest in historical accuracy.",
+            "C": "They suggest that the play is an allegory for modern political movements.",
+            "D": "They indicate that the director intended to downplay the play's tragic elements."
+          },
+          "answer": "A",
+          "explanation": "The text notes that the director doesn't shy away from the play's gore and that it appears 'especially vivid against the set’s ghostly columns, whose sleekness aligns with the neofascist chic of the costumes.' This suggests these design choices serve to heighten the visual impact of the violence."
+        }
+      ]
+    }
+  ]
+}
