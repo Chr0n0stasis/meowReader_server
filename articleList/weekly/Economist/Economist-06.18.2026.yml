@@ -216,7 +216,7 @@ articles:
   is_used: false
   title: Who should win the World Cup?
 - id: epub_100
-  is_used: true
+  is_used: false
   title: The most hated countries at the FIFA World Cup
 - id: epub_101
   is_used: false
@@ -236,8 +236,8 @@ articles:
 - id: epub_234
   is_used: false
   title: Chapter 234
-capture_date: 06.17.2026
+capture_date: 06.18.2026
 journal_name: Economist
-publish_date: 06.17.2026
+publish_date: 06.18.2026
 source_type: github
 update_frequency: weekly

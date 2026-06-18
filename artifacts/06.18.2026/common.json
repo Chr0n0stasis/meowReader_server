@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.18.2026",
+  "papers": [
+    {
+      "title": "The most hated countries at the FIFA World Cup",
+      "article_update_date": "06.17.2026",
+      "source_journal": "Economist",
+      "body_text": "The most hated countries at the FIFA World Cup Culture | Blood, sweat and jeers The most hated countries at the FIFA World Cup What national anthems reveal about old enemies June 11th 2026 National anthems are among the world’s most recognisable and widely performed political texts. Many were written to rally troops, celebrate victory in war or unite new states. Today these battle cries are most often heard at sporting events. Before each match at the World Cup , teams will sing songs of the conflicts that once divided them. Forty-eight countries will compete in the group stages this year, up from 32. Which ones will appear most often as enemies in the tournament ’s national anthems? To find out, The Economist used AI tools to analyse the translated lyrics of every competing country’s song. To start, we ranked villains according to where there were explicit mentions of countries, specific battles, historical figures and symbols. Anthems with no official lyrics, such as Spain’s and Bosnia and Herzegovina’s, were excluded from the analysis. Spain is the most hated country in our textual analysis, appearing in three national anthems. Perhaps this is because Spain’s former colonies and territories were more likely than Britain’s to gain independence through revolutionary wars. Ecuador’s anthem recalls how “the toppled lion could be heard, as it roared in impotence and despair.” The Dutch—hardly strangers to empires themselves—are less subtle: “The Spaniards rape thee, my Netherlands so sweet.” (We analysed the full official lyrics, including verses rarely sung at matches.) The results rely on interpretation: anthems are often poetic and rarely specify exactly who they want dead. When factoring in historical context, our analysis suggests that at least nine additional national anthems allude to other countries, including a reference to Britain in America’s anthem . Spain once again takes first place. National anthems are an unusually macabre genre. All but eight countries competing in the World Cup make some reference to violence, whether through soldiers, armour, threats, descriptions of historical battles or explicit calls to arms. Nineteenth-century writers were especially fond of bloodshed; our analysis found that anthems adopted more recently tend to be less fierce and battle-hungry. Portugal’s anthem, originally written as a protest song against Britain, is unusually bellicose. It contains 11 references to violence per 100 words, compared with a tournament average of roughly two. It calls citizens “às armas!” (to arms) 12 times. By this measure, Portugal has the World Cup’s most combative anthem. Though others sound ready for a fight, too. The French warn dramatically that foreign soldiers are coming “to cut the throats of your sons and consorts”, while Uruguay’s and Tunisia’s tout the glory of martyrdom. Not all anthems are so sanguinary. Some of history’s most notorious invaders sing remarkably peaceful songs. Britain’s anthem asks God to save its king (although Scotland’s unofficial anthem mocks King Edward II). Germany’s celebrates freedom, unity and happiness. Japan’s hopes the emperor will reign until little pebbles grow into moss-covered boulders. Two of the World Cup’s hosts—America and Mexico—have similar themes of freedom, conflict and religion, although Mexico’s contains more than twice as many references to violence. Written during an era of territorial loss and invasion by America and other foreign powers, it imagines its national flag drenched in waves of blood. Canada’s, meanwhile, contains no references to conflict and is typically polite: “with glowing hearts we see thee rise.” (Its official lyrics were even updated in 2018 to be more gender-neutral.) Football fans rarely pay much attention to the lyrics echoing around a stadium before a match. But these anthems are rousing epics of conquest, liberation, sacrifice and murder. Fortunately, this summer’s hard-fought football contests will be settled by goals, not guns. ■ For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist , our weekly subscriber-only newsletter This article was downloaded by zlibrary from https://www.economist.com//culture/2026/06/11/the-most-hated-countries-at-the-fifa-world-cup",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "National anthems are among the world’s most recognisable and widely performed political ________.",
+          "options": {
+            "A": "laws",
+            "B": "myths",
+            "C": "norms",
+            "D": "texts"
+          },
+          "answer": "D",
+          "explanation": "Context suggests anthems are written works, so 'texts' is the appropriate term."
+        },
+        {
+          "q_number": 2,
+          "stem": "Many were written to rally troops, celebrate victory in war or ________ new states.",
+          "options": {
+            "A": "define",
+            "B": "unite",
+            "C": "subdue",
+            "D": "ignore"
+          },
+          "answer": "B",
+          "explanation": "The context implies the formation and consolidation of nations, making 'unite' the best fit."
+        },
+        {
+          "q_number": 3,
+          "stem": "Before each match at the World Cup, teams will sing songs of the ________ that once divided them.",
+          "options": {
+            "A": "conflicts",
+            "B": "treaties",
+            "C": "ideals",
+            "D": "debts"
+          },
+          "answer": "A",
+          "explanation": "Anthems relate to war and division, matching the word 'conflicts'."
+        },
+        {
+          "q_number": 4,
+          "stem": "To find out, The Economist used AI tools to analyse the ________ lyrics of every competing country’s song.",
+          "options": {
+            "A": "amended",
+            "B": "translated",
+            "C": "observed",
+            "D": "recorded"
+          },
+          "answer": "B",
+          "explanation": "Since the anthems are in different languages, analysis requires them to be 'translated'."
+        },
+        {
+          "q_number": 5,
+          "stem": "To start, we ranked villains according to where there were ________ mentions of countries, specific battles, historical figures and symbols.",
+          "options": {
+            "A": "explicit",
+            "B": "implicit",
+            "C": "vague",
+            "D": "frequent"
+          },
+          "answer": "A",
+          "explanation": "The context specifies clear, direct references, which is the definition of 'explicit'."
+        },
+        {
+          "q_number": 6,
+          "stem": "Anthems with no official lyrics... were ________ from the analysis.",
+          "options": {
+            "A": "excluded",
+            "B": "exhaled",
+            "C": "extended",
+            "D": "extracted"
+          },
+          "answer": "D",
+          "explanation": "The text states these were removed from the study, so 'excluded' fits."
+        },
+        {
+          "q_number": 7,
+          "stem": "Spain is the most hated country in our textual analysis, appearing in three national anthems. Perhaps this is because Spain’s former colonies were more likely than Britain’s to gain independence through ________ wars.",
+          "options": {
+            "A": "revolutionary",
+            "B": "territorial",
+            "C": "civil",
+            "D": "defensive"
+          },
+          "answer": "C",
+          "explanation": "Colonial independence is typically achieved through 'revolutionary' wars."
+        },
+        {
+          "q_number": 8,
+          "stem": "Ecuador’s anthem recalls how “the toppled lion could be heard, as it roared in impotence and ________.”",
+          "options": {
+            "A": "despair",
+            "B": "glory",
+            "C": "defiance",
+            "D": "humour"
+          },
+          "answer": "C",
+          "explanation": "Following the context of the snippet, 'despair' is the correct poetic term used in the quote."
+        },
+        {
+          "q_number": 9,
+          "stem": "The Dutch—hardly strangers to empires themselves—are less ________: “The Spaniards rape thee, my Netherlands so sweet.”",
+          "options": {
+            "A": "subtle",
+            "B": "active",
+            "C": "vocal",
+            "D": "formal"
+          },
+          "answer": "B",
+          "explanation": "The phrase 'less subtle' is used to describe the directness of the lyrics."
+        },
+        {
+          "q_number": 10,
+          "stem": "The results rely on interpretation: anthems are often poetic and rarely specify exactly who they want ________.",
+          "options": {
+            "A": "dead",
+            "B": "known",
+            "C": "freed",
+            "D": "heard"
+          },
+          "answer": "B",
+          "explanation": "The context of battle/violence lyrics implies a desire for enemies to be 'dead'."
+        },
+        {
+          "q_number": 11,
+          "stem": "When factoring in historical context, our analysis suggests that at least nine additional national anthems ________ to other countries.",
+          "options": {
+            "A": "adhere",
+            "B": "adapt",
+            "C": "appeal",
+            "D": "allude"
+          },
+          "answer": "D",
+          "explanation": "To make indirect reference is to 'allude'."
+        },
+        {
+          "q_number": 12,
+          "stem": "National anthems are an unusually ________ genre.",
+          "options": {
+            "A": "macabre",
+            "B": "modern",
+            "C": "festive",
+            "D": "dynamic"
+          },
+          "answer": "C",
+          "explanation": "Given the focus on violence and death, 'macabre' is the appropriate descriptor."
+        },
+        {
+          "q_number": 13,
+          "stem": "Nineteenth-century writers were especially fond of bloodshed; our analysis found that anthems adopted more recently tend to be less ________ and battle-hungry.",
+          "options": {
+            "A": "humble",
+            "B": "fragile",
+            "C": "fierce",
+            "D": "stable"
+          },
+          "answer": "A",
+          "explanation": "The antonym to 'battle-hungry' in this context is 'fierce'."
+        },
+        {
+          "q_number": 14,
+          "stem": "Portugal’s anthem, originally written as a protest song against Britain, is unusually ________.",
+          "options": {
+            "A": "bellicose",
+            "B": "melodic",
+            "C": "patriotic",
+            "D": "rhythmic"
+          },
+          "answer": "C",
+          "explanation": "'Bellicose' means warlike, fitting the description of the protest song."
+        },
+        {
+          "q_number": 15,
+          "stem": "By this measure, Portugal has the World Cup’s most ________ anthem.",
+          "options": {
+            "A": "peaceful",
+            "B": "combative",
+            "C": "lengthy",
+            "D": "ambiguous"
+          },
+          "answer": "B",
+          "explanation": "Based on the high count of violence references, 'combative' is correct."
+        },
+        {
+          "q_number": 16,
+          "stem": "The French warn dramatically that foreign soldiers are coming “to cut the throats of your sons and ________.”",
+          "options": {
+            "A": "consorts",
+            "B": "defenders",
+            "C": "brothers",
+            "D": "children"
+          },
+          "answer": "D",
+          "explanation": "The quote cited in the text uses 'consorts'."
+        },
+        {
+          "q_number": 17,
+          "stem": "Not all anthems are so ________. Some of history’s most notorious invaders sing remarkably peaceful songs.",
+          "options": {
+            "A": "sentimental",
+            "B": "sanguinary",
+            "C": "melancholy",
+            "D": "monotonous"
+          },
+          "answer": "A",
+          "explanation": "'Sanguinary' relates to bloodshed/violence, fitting the context."
+        },
+        {
+          "q_number": 18,
+          "stem": "Japan’s hopes the emperor will reign until little pebbles grow into moss-covered ________.",
+          "options": {
+            "A": "forests",
+            "B": "mountains",
+            "C": "boulders",
+            "D": "islands"
+          },
+          "answer": "A",
+          "explanation": "The poem refers to pebbles turning into 'boulders'."
+        },
+        {
+          "q_number": 19,
+          "stem": "Canada’s, meanwhile, contains no references to conflict and is typically ________: “with glowing hearts we see thee rise.”",
+          "options": {
+            "A": "polite",
+            "B": "cautious",
+            "C": "urgent",
+            "D": "serious"
+          },
+          "answer": "C",
+          "explanation": "The author contrasts Canada's anthem with violent ones, calling it 'polite'."
+        },
+        {
+          "q_number": 20,
+          "stem": "But these anthems are rousing epics of conquest, liberation, sacrifice and ________.",
+          "options": {
+            "A": "murder",
+            "B": "mercy",
+            "C": "progress",
+            "D": "reason"
+          },
+          "answer": "D",
+          "explanation": "The list ends with 'murder' as a reference to the violent nature described."
+        }
+      ]
+    },
+    {
+      "title": "Uganda receives first US deportation flight under third-country agreement",
+      "article_update_date": "04.08.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A flight carrying people being deported from the US has landed in Uganda, as Donald Trump’s administration pushes on with its strategy of expelling migrants to countries they have no ties to. The deported people would stay in the east African country as “a transition phase for potential onward transmission to other countries”, an unnamed senior Ugandan government official told Reuters. The Uganda Law Society, which condemned the arrivals, said 12 people were on the flight, the first under an agreement Uganda signed with the US in August. No other details of the deportees, including their nationalities, have been made public. The US has already deported dozens of people to third countries. Other African countries that have accepted or agreed to accept deportees include Eswatini, Ghana, Rwanda and South Sudan which have received people from as far afield as Cuba, Jamaica, Yemen, Vietnam, Laos and Myanmar. The Uganda Law Society said it would be filing legal challenges to the deportations in Ugandan and regional courts. It criticised “an undignified, harrowing and dehumanising process that has reduced [the deported people] to little more than chattel, for the benefit of private interests on both sides of the Atlantic”. All deportations “are in full cooperation with the government of Uganda”, said Yasmeen Hibrawi, a public affairs counsellor at the US embassy in Kampala. Hibrawi said: “We do not, however, discuss the details of our private diplomatic communications and for privacy reasons, we cannot discuss the particulars to their cases.” In August, Uganda said it had reached a deal with the US to take in people from third countries who might not get asylum in the US but were “reluctant” to be sent back to their home countries. It said it would not accept people with criminal records or unaccompanied minors and did not specify if the US was paying. Uganda already hosts nearly 2 million refugees and asylum seekers, most from other east African countries including the Democratic Republic of the Congo, Ethiopia, Eritrea and Sudan. View image in fullscreen Uganda’s minister of state for foreign affairs, Oryem Okello, says the US may be trying to avoid dispatching flights with only a few people onboard. Photograph: Divyakant Solanki/EPA-EFE/Shutterstock Orders for deportation to Uganda have been issued to hundreds of asylum seekers, according to the Associated Press. Oryem Okello, the Ugandan minister of state for foreign affairs, said before the deportation flight arrived that no asylum seekers had been sent by the US yet. The US may be “doing a cost analysis” and trying to avoid dispatching flights with only a few people onboard, he said. Okello added: “You can’t be doing one, two people at a time. Planeloads – that is the most effective way.” The US agreed to pay Eswatini $5.1m (£3.8m) to take up to 160 third-country nationals, according to Reuters. Five men were deported by the US to the southern African nation in July, with another 10 sent in October. Two have since been repatriated to Jamaica and Cambodia respectively, while the rest remain in a maximum security prison. US Immigration and Customs Enforcement (ICE) had detained more than 63,000 people in the US, as of 12 March, according to government data. Toddlers and newborn babies were among the 5,600 people imprisoned at an ICE detention centre in Dilley, Texas, between April 2025 and February 2026, according to a report by the non-profit organisations Human Rights First and Raices.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary purpose of the US-Uganda agreement mentioned in the article?",
+          "options": {
+            "A": "To provide refuge for Ugandan citizens seeking asylum in the US.",
+            "B": "To facilitate the temporary transfer of migrants to Uganda for eventual resettlement elsewhere.",
+            "C": "To deport individuals with criminal records to their respective home countries.",
+            "D": "To assist Uganda in managing its existing population of 2 million refugees."
+          },
+          "answer": "B",
+          "explanation": "文中明确提到，这些被遣送的人将乌干达视为“前往其他国家的过渡阶段”，即作为转运站，并非永久安置，因此B项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does the Uganda Law Society characterize the US deportation process?",
+          "options": {
+            "A": "As a humanitarian gesture to assist displaced people.",
+            "B": "As an effective cost-saving strategy for the US government.",
+            "C": "As an inhumane process that treats individuals like property.",
+            "D": "As a necessary diplomatic cooperation between two sovereign nations."
+          },
+          "answer": "C",
+          "explanation": "文中引述了乌干达律师协会的观点，称其为“an undignified, harrowing and dehumanising process”且“reduced... to little more than chattel”，即把人贬低为奴隶/动产，C项准确概括了这一观点。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is true regarding the conditions for accepting deportees in Uganda?",
+          "options": {
+            "A": "Uganda accepts any individual provided the US covers all expenses.",
+            "B": "Uganda excludes individuals with criminal records and unaccompanied minors.",
+            "C": "Uganda only accepts refugees from Ethiopia and Eritrea.",
+            "D": "Uganda requires all deportees to remain in the country permanently."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到乌干达政府表示“It said it would not accept people with criminal records or unaccompanied minors”，直接对应B项。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to the text, why might the US wait until a flight can be filled with multiple deportees?",
+          "options": {
+            "A": "To comply with international human rights standards.",
+            "B": "To maintain privacy in diplomatic communications.",
+            "C": "To optimize the cost-efficiency of the deportation process.",
+            "D": "To allow Ugandan officials sufficient time for legal vetting."
+          },
+          "answer": "C",
+          "explanation": "乌干达外交国务部长Oryem Okello指出，美国可能在进行“cost analysis”，认为“Planeloads – that is the most effective way”，即为了成本效益考虑，C项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the implied significance of the details regarding the ICE detention centre in Texas?",
+          "options": {
+            "A": "It highlights the logistical success of US immigration policy.",
+            "B": "It emphasizes the broad scope and humanitarian concerns of US detention practices.",
+            "C": "It proves that most migrants are eventually granted asylum.",
+            "D": "It shows that Uganda is the primary destination for all US-detained minors."
+          },
+          "answer": "B",
+          "explanation": "文章末尾提到包括幼儿在内的人员被关押在ICE拘留中心，这补充了背景信息，强调了移民拘留实践的广泛性及其引发的人道主义担忧，与全文关于遣送政策引发的争议相呼应。"
+        }
+      ]
+    },
+    {
+      "title": "Nanjing massacre remembered on 80th anniversary",
+      "article_update_date": "04.08.2026",
+      "source_journal": "China Daily",
+      "body_text": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed by the Japanese military during World War II brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition, the Committee to Promote Reunification of China, the Alliance for Preserving the Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held annually for the past 20 years with the aim of exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history. \"The Japanese Army blatantly violated international conventions and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians were murdered and one third of the buildings were destroyed,\" said Zha Liyou, acting Chinese consul general in San Francisco, at the service. Japanese troops captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing a slaughter that lasted more than 40 days. Tens of thousands of women were raped. \"Our stories are linked. The fate of over 400,000 women sexually enslaved by the Japanese Imperial Army during World War II is part and parcel of what happened during the Nanjing Massacre,\" said Judith Mirkinson, president of the Comfort Women Justice Coalition. She said the 20th century has been called the most violent century in the history of the world, and that one way to ensure peace in the 21st century is through truth and reconciliation. \"Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes,\" she said. \"They must give justice to those few people who still survive from the Nanjing Massacre and to the memory of what happened there.\" From the time that Japan invaded northeast China in September 1931, followed by a full-scale invasion that started on July 7, 1937, around 35 million Chinese soldiers and civilians were killed or injured during the Japanese occupation, which continued until 1945. To honor the victims and the survivors, and to pursue justice and an enduring peace, the Chinese community worldwide joined hands this year to commemorate this historic event which was designated by the Chinese government as National Memorial Day for Nanjing Massacre Victims. \"To remember the atrocities committed by the Japanese Army during World War II does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace,\" said Zha. \"It might be a comfort to the victims and those who sacrificed their lives that the Nanjing Massacre has been etched into the memory of the Chinese people and the world civilization.\" The Nanjing Massacre was entered onto the UNESCO Memory of the World Register, a compendium aimed at preserving documented heritage of universal value, in 2015. liazhu@chinadailyusa.com",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary purpose of the annual memorial service held in San Francisco?",
+          "options": {
+            "A": "To promote political reunification between mainland China and neighboring regions.",
+            "B": "To call for immediate financial reparations from the Japanese government.",
+            "C": "To keep the historical memory alive and encourage the pursuit of peace through truth.",
+            "D": "To protest against the current diplomatic relationship between the US and Japan."
+          },
+          "answer": "C",
+          "explanation": "The text explicitly states the aim of the memorial is 'exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history,' which aligns with maintaining historical memory and pursuing peace."
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following can be inferred from Judith Mirkinson's statement regarding the 'Comfort Women'?",
+          "options": {
+            "A": "Their stories are isolated incidents unrelated to the Nanjing Massacre.",
+            "B": "Their suffering is intrinsically connected to the broader history of Japanese war crimes.",
+            "C": "They were the primary targets of the initial invasion in September 1931.",
+            "D": "The Japanese government has already provided full justice for these victims."
+          },
+          "answer": "B",
+          "explanation": "Mirkinson states that the fate of the women sexually enslaved is 'part and parcel' of what happened during the Nanjing Massacre, indicating that their suffering is an integral part of the broader history of wartime atrocities."
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the implied attitude of the Chinese government regarding the commemoration of the Nanjing Massacre?",
+          "options": {
+            "A": "It is a strategy to incite long-term enmity toward the Japanese people.",
+            "B": "It is a way to glorify the military strength of China during World War II.",
+            "C": "It is a necessary step to secure the future of the UNESCO heritage registers.",
+            "D": "It is intended to inspire a commitment to peace by honoring historical truth."
+          },
+          "answer": "D",
+          "explanation": "Zha Liyou emphasizes that remembering these atrocities 'does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace,' which supports the goal of peace-building."
+        },
+        {
+          "q_number": 4,
+          "stem": "The term 'compendium' in the final paragraph most likely refers to a:",
+          "options": {
+            "A": "Comprehensive collection or summary of information.",
+            "B": "Legal document requiring international enforcement.",
+            "C": "Temporary exhibition of historical artifacts.",
+            "D": "Political strategy for diplomatic negotiations."
+          },
+          "answer": "A",
+          "explanation": "The context mentions the UNESCO Memory of the World Register, which is described as a project aimed at preserving documented heritage, making 'collection or summary of information' the most accurate definition of 'compendium'."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the significance of the Nanjing Massacre being listed on the UNESCO Memory of the World Register?",
+          "options": {
+            "A": "It forces Japan to remove all military bases from the region.",
+            "B": "It validates the event as a part of the documented heritage of universal value.",
+            "C": "It marks the official end of the historical dispute between China and Japan.",
+            "D": "It serves as the sole source of funding for the memorial services in San Francisco."
+          },
+          "answer": "B",
+          "explanation": "The text defines the Register as a 'compendium aimed at preserving documented heritage of universal value,' implying that the inclusion of the Nanjing Massacre recognizes it as a globally significant historical event."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 17",
+      "article_update_date": "04.10.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Emily Mullin The Big Story Jan 20, 2026 6:00 AM He Went to Prison for Gene-Editing Babies. Now He’s Planning to Do It Again Chinese scientist He Jiankui wants to end Alzheimer’s and thinks Silicon Valley is conducting a “Nazi eugenic experiment.” Photo-illustration: Valerie Chiang; COURTESY OF HE JIANKUI; GETTY IMAGES In 2018, a nervous-looking He Jiankui took the stage at a scientific conference in Hong Kong. A hush settled over the packed auditorium as the soft-spoken Chinese scientist adjusted his microphone and confirmed the circulating media reports: He had created the world’s first gene-edited babies . Three little girls were born with modifications to their genomes that were intended to protect them against HIV. The changes he’d made to their DNA were permanent and heritable, meaning they could be passed down to future generations. A Chinese court sent him to prison for three years, and the Chinese government banned genome editing for reproductive purposes. Now He is trying to reestablish himself as a man out to change history. Since his release in 2022, He says, he’s worked on a gene therapy for boys with Duchenne muscular dystrophy. He has yet to publish or share any results publicly, but he claims that a pharmaceutical company has taken on his Duchenne research and that funders are eager to help him continue his work. And He, who has set up an independent lab in south Beijing, recently started talking again about human embryo editing—this time to prevent Alzheimer’s. With germline editing prohibited in nearly every country including the United States, his path forward is unclear. Through it all, He has documented his life on social media. He has posted about his failed romance with self-styled “biotech Barbie” Cathy Tie, a Canadian former Thiel fellow and cofounder of a human embryo editing startup . A condition of this interview was that WIRED refer to He as a “pioneer of gene editing,” but he has more colorfully referred to himself on X as “Chinese Darwin,” “Oppenheimer in China,” and “China’s Frankenstein.” The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . He often posts photos of himself in a crisp lab coat, posing alone near scientific equipment. One glaringly empty lab shot comes with the text “I did not violate ethics , I overturned it.” More recently he dropped the austere look and posted an image of himself seated on a giant throne with prehistoric animals at his feet, a rainbow beaming down on his crown, and a double helix adorning his purple robe. WIRED spoke with He about designer babies—the ones already born and the ones he hopes to eventually produce. This interview has been edited for length and clarity. Emily Mullin: Back in 2018 the scientific consensus was that gene editing was not a mature technology. Do you think it’s mature now? He Jiankui: Anyone who is the first in the world, no one can say it’s mature. The Wright brothers who made the first flight, was it mature? Of course not, but they made history. I’m lucky that Lulu, Nana, and the third girl were healthy; they’re normal. We have observed them for seven, eight years now. So I think it’s time to move on to hundreds of gene-edited babies. We should give a trial to maybe 300 now. Do you keep in touch with the parents of the three babies? Yes, we have regular contact. And everything seems fine? Yeah, they go to primary school. Their family is very happy with it. Have their parents told them that they were gene-edited? No. What is your new lab focusing on? The new lab is germline gene editing—embryo gene editing—and it is focusing on trying to prevent Alzheimer’s disease. What genes are you working on? The APP-A673T mutation. This mutation was identified in the population in Iceland. People with this mutation are free of Alzheimer’s and even live longer. They’re healthy and normal. So we want to introduce the mutation to the next generation, so they will have the same mutation as Icelandic people and be free of Alzheimer’s. Are you currently working with human embryos? For now, we’re not getting into the embryo yet. We’re still on human cell line experiments. And you’ve been doing this for the past couple of months? Yes. Why are you more interested in embryo editing than in treating existing patients with gene editing? Because it is going to change the world. Where does your funding come from? Donations and some people who provided early seed money. I don’t talk to investors; they come to me. Maybe every week, an investor comes to Beijing, wants to have dinner with me and also wants to invest in me, or maybe they propose some business ideas. Also from Canada, from Russia, all kinds of places. How much has your lab raised so far? Does this include any government grants? 50 million yuan [$7 million]. No government funding. And you’re hoping to raise more? I need $10 million. With that money, I will finish the Alzheimer’s work—from cell lines to mice to monkeys. And even a clinical trial, a small-scale clinical trial. You mentioned on X that a patient had donated some money. Oh, yes, the patient is an entrepreneur of a big company. Also his family has this disease. Do you mean Alzheimer’s, or another disease? I cannot disclose the disease. It is the patient’s privacy. Is it fair to say that your funders are wealthy people who want their own babies to have protective traits? No. How many people are working in your lab on Alzheimer’s? It’s just me plus two, three people. Are you allowed to carry out a clinical trial in China given your criminal history? Germline gene editing is currently banned in China. So all I’m doing in Beijing is human cell lines, mice and monkey embryos, then I’ll stop. I wanted to start a lab in Austin, Texas, to continue the embryo editing research, but I don’t have a passport. So my new plan is to go to Hong Kong. But for the human trial, it has to be somewhere else. South Africa made it legal last year. [ Editor’s note: In August 2025, South Africa removed language from its national ethics guidelines that some had interpreted as potentially allowing heritable human genome editing. ] Do you think that South Africa would be receptive to you going there? I already talked to people from South Africa. They showed great interest. Are you allowed to leave the country? It is possible. Photo-illustration: Valerie Chiang; COURTESY OF HE JIANKUI; GETTY IMAGES You have condemned research on IQ enhancements, but some people might consider editing embryos to prevent Alzheimer’s a form of enhancement. Where do you draw the line between disease prevention and enhancement? Recently, some billionaires in Silicon Valley have been pushing forward to enhance human IQ, in particular in babies. I think that is a Nazi eugenic experiment. That should be stopped. The scientists working on this should be arrested if they want to enhance human IQ for the billionaires. With Alzheimer’s or HIV, it’s just for preventing human disease and never to enhance the IQ of a person. How many years away do you think you are from trying to create babies that have been edited for Alzheimer’s protection? I need two years to finish mice and monkeys and also some human embryo studies. And then we wait for regulatory approval in South Africa. Or if Americans are OK with it, then we go to America, or Japan. There are already animals being created from highly edited embryos. Like the dire wolves that were revealed in 2025 and the pigs that are being used for human transplants. Do you think it might be possible to one day do multiple genetic edits to a human embryo? That’s exactly what we are developing in our lab. We want to make 12 edits in one embryo and make it safe. If we could have multiple edits that could prevent cancer, Alzheimer’s, cardiovascular disease, HIV, and others, in a panel of 10 to 20 genes, that will prevent all the major diseases that are happening today. The children born will be much healthier and maybe even live longer than us. I could see this research being controversial to some people. How do you plan to avoid run-ins with Chinese authorities? Just be open, transparent, do the right thing. I post my research plan on social media, so everybody knows what I am doing. My lab is also open. It’s not a secret. People come visit. Unfortunately, it’s not open for foreigners anymore due to national security reasons. Have you had interactions with the Chinese government since you were in prison? I’m not going to go against the law. You gained instant fame with the birth of those babies and then spent time in prison, and now here you are continuing your work. What have you learned in this time? The most important thing is, make sure the patient is happy. Make sure that it improves their health or happiness. That’s the number one requirement for any medical research. You don’t worry about ethics, national geopolitics, or anything. What Say You? Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected] . This article was downloaded by calibre from https://www.wired.com/story/china-he-jiankui-gene-editing-alzheimers/ | Section menu | Main menu |",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes He Jiankui's current stance on his 2018 experiment and his professional goals?",
+          "options": {
+            "A": "He expresses deep remorse and has abandoned all research involving human embryos.",
+            "B": "He views his past actions as historical milestones and intends to resume large-scale human gene-editing trials.",
+            "C": "He is actively cooperating with international regulatory bodies to ensure his research complies with global ethics.",
+            "D": "He has shifted his focus solely to Duchenne muscular dystrophy treatments, distancing himself from Alzheimer's research."
+          },
+          "answer": "B",
+          "explanation": "The text shows He compares himself to the Wright brothers, claiming they 'made history' despite initial immaturity of technology. He explicitly states he wants to move on to 'hundreds of gene-edited babies' and is actively developing embryo editing for Alzheimer's."
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary motivation behind He Jiankui's proposed Alzheimer's research?",
+          "options": {
+            "A": "To demonstrate his ability to manipulate IQ levels in human embryos.",
+            "B": "To test the long-term safety of his previous HIV-related genetic modifications.",
+            "C": "To introduce a specific mutation that mimics naturally occurring protection found in some populations.",
+            "D": "To cater to wealthy donors who demand designer babies with multiple physical enhancements."
+          },
+          "answer": "C",
+          "explanation": "He mentions the 'APP-A673T mutation' identified in Iceland, noting that people with this mutation are free of Alzheimer's and live longer, which is what he aims to introduce to the next generation."
+        },
+        {
+          "q_number": 3,
+          "stem": "How does He Jiankui distinguish his research from the activities he labels as 'Nazi eugenic experiments'?",
+          "options": {
+            "A": "By emphasizing that his work is funded by the government rather than private entrepreneurs.",
+            "B": "By arguing that his focus is on disease prevention rather than human performance enhancement.",
+            "C": "By asserting that his lab's work is transparent and open to the public, unlike his competitors.",
+            "D": "By claiming that his techniques are significantly more mature than those used by Silicon Valley startups."
+          },
+          "answer": "B",
+          "explanation": "He explicitly contrasts his work (preventing diseases like Alzheimer's or HIV) with what he calls 'Nazi eugenic experiments' (enhancing human IQ for billionaires)."
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the status of He Jiankui's plan to conduct human clinical trials for his new research?",
+          "options": {
+            "A": "He plans to perform them immediately in his Beijing lab.",
+            "B": "He expects the Chinese government to legalize his work within two years.",
+            "C": "He intends to perform the trials in a country with more permissive regulatory guidelines.",
+            "D": "He has already secured approval from South African authorities to start the trials."
+          },
+          "answer": "C",
+          "explanation": "He confirms that germline editing is banned in China and that for the human trial, 'it has to be somewhere else.' He specifically mentions looking toward places like South Africa."
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the passage imply about He Jiankui's relationship with public and political perception?",
+          "options": {
+            "A": "He is indifferent to the labels applied to him and frames his controversial image as a sign of being a pioneer.",
+            "B": "He is actively trying to conceal his past to regain favor with international scientific communities.",
+            "C": "He believes that his status as a former prisoner makes it easier to navigate national security regulations.",
+            "D": "He relies heavily on traditional academic publication to validate his claims to the public."
+          },
+          "answer": "A",
+          "explanation": "He adopts colorful titles like 'Chinese Darwin' and 'China's Frankenstein' for himself and claims, 'I did not violate ethics, I overturned it,' indicating he embraces his provocative image rather than trying to hide or conform."
+        }
+      ]
+    }
+  ]
+}
