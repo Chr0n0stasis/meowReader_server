@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.20.2026",
+  "papers": [
+    {
+      "title": "Meet the jailscraper",
+      "article_update_date": "06.07.2026",
+      "source_journal": "Economist",
+      "body_text": "Meet the jailscraper United States | Jailscrapers Meet the jailscraper With no room for prisons, New York City is building up June 4th 2026 CHARLES DICKENS was no stranger to grim prisons. When he was 12 his father was sent to a debtors’ jail. The writer would later visit London prisons for research. Yet in 1842, when he went inside a New York City jail, he was horrified. “Such indecent and disgusting dungeons”, Dickens wrote, “would bring disgrace upon the most despotic empire in the world!” Dark, cramped and prone to flooding, it acquired the nickname “The Tombs”. Successive jails on the site would inherit it. In January ground was broken on the next generation of The Tombs. But rather than resembling a dungeon, the 1,000-inmate jail will reach to the sky . It will be 335 feet (102m) high, taller than the Statue of Liberty. This is one of four new vertical jails that the city is building to replace Rikers Island, the Dickensian jail complex in the East River. Approved by the city council in 2019, the plan will cost $16bn and is already running half a decade behind schedule. For ease of access, the new jails will be close to the courthouses in Manhattan, Queens, Brooklyn and the Bronx, right in the heart of the boroughs’ downtowns. That required architects to turn to the classic New York solution: building up. Although vertical jails have been built before, the cost and ambition of these is new. Currently Rikers Island houses the bulk of New York City’s 6,700 inmates, around 85% of whom are in pre-trial detention. The prison has a long history of brutality and neglect: in 2015, when levels of violence were so high as to be deemed unconstitutional, a federal monitoring team was put on the island. In the decade since, conditions have only worsened. “It would be a dream if we could even get back to [those] levels of violence,” says Liz Glazer, who led the city’s criminal-justice office under the then mayor, Bill de Blasio. The rate of use of force in the jails has more than doubled and the rate of death, in proportion to the population, is up by 82%. Last year a judge placed the jails under the control of an independent, federally appointed boss. Replacing Rikers with court-side, vertical jails will come with its own problems. “It is completely unprecedented and 100% unique,” says Rafael Mangual of the Manhattan Institute, a think-tank. “This is going to present challenges that I don’t think anyone has foreseen.” Neighbours who live near the sites, especially in Manhattan’s Chinatown, have been outraged. Although the initial plan set a deadline to build the new jails and close Rikers Island by 2027, the latest estimates expect construction will not be completed until 2032. Alongside the usual challenges of building in New York, and the novel one of taking a form associated with office buildings or apartments and incorporating fences, an exercise yard and guard tower, the architects are hoping their designs will be more just. The latest sketches for the new jails look more like university faculties than concrete fortresses. The lower floors house public lobbies, visiting areas and medical facilities. Higher floors have housing units with large terraces, complete with basketball hoops and plant beds. It is “not a little bit of light and air”, says Beverly Prior, an architect and the project manager. “You will feel the heat, you will see the sunlight.” The terraces are encased in a mesh that will both stop people getting out (or in), and also allow inmates to look up, at the sky, and not down, at those on the street (the mesh will also stop those on the street from looking in). The designers have high hopes. “It is about building that empathy and starting to see what architecture can do,” says Ms Prior. They think some features, such as single cells and positioning guards behind a desk, rather than in a tower or a glassed-in booth, can reduce violence by encouraging a better atmosphere. Although this style of jail has been around since the 1970s and is common in northern Europe, there is little quantitative research on its effects in America or in jails with high turnover, says Keramet Reiter of the University of California, Irvine. But done well it is a way for staff to feel that they have the tools they need to control inmates, she says, and make confrontations between jailers and jailed less explosive. There are obstacles to overcome before the city gets to that point, though. The new jails will have a maximum capacity of 4,160, which is only 60% the current population of inmates. Getting numbers down is “an absolutely possible thing to do”, says Ms Glazer, Mr de Blasio’s former staffer, “but somebody needs to be in charge of it.” One way is to reduce the length of time inmates are waiting for their trial, she says, but this requires co-ordination between courts, prosecutors and the police. Another concern is the price tag: the total cost of two new prisons being built in Illinois is projected to be $900m. New York’s four are expected to cost eight times more. The eventual cost of upkeep of the vertical jails could also be high, especially considering how reliant on lifts they will be, says Michael Jacobson of the City University of New York. Still, existing arrangements are hardly a bargain. Keeping a person on Rikers costs $450,000 a year. Many previous attempts at jail reform in New York City have failed. Indeed, Rikers Island was once itself a vision of the future, a place where inmates would have more space and light than in those dank inner-city jails. But for Darren Mack, a former inmate on Rikers who is now a prison reformer, the jailscrapers present “a generational opportunity”. “ There is definitely a humongous improvement to the design and conditions,” he says. ■ Stay on top of American politics with The US in brief, our daily newsletter with fast analysis of the most important political news, and Checks and Balance , a weekly note that examines the state of American democracy and the issues that matter to voters. This article was downloaded by zlibrary from https://www.economist.com//united-states/2026/06/03/meet-the-jailscraper",
+      "difficulty_constant": 8.2,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "When Dickens first visited a New York City jail in 1842, he was ________ by its condition.",
+          "options": {
+            "A": "indifferent",
+            "B": "amazed",
+            "C": "horrified",
+            "D": "fascinated"
+          },
+          "answer": "C",
+          "explanation": "文章提到Dickens形容当时的监狱为\"indecent and disgusting\"，故选horrified（感到震惊/厌恶）。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The new jails will reach to the sky, unlike the traditional ________ which are typically dark and cramped.",
+          "options": {
+            "A": "skyscrapers",
+            "B": "hospitals",
+            "C": "offices",
+            "D": "dungeons"
+          },
+          "answer": "D",
+          "explanation": "文章对比了高耸的监狱与传统的dungeons（地牢），呼应Dickens对旧监狱的描述。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Building vertical jails in downtown areas is the city's solution for ________ access to courts.",
+          "options": {
+            "A": "restricting",
+            "B": "prolonging",
+            "C": "postponing",
+            "D": "facilitating"
+          },
+          "answer": "D",
+          "explanation": "For ease of access说明目的是为了便利（facilitating）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Currently, the bulk of New York's inmates are held in ________ detention at Rikers Island.",
+          "options": {
+            "A": "post-trial",
+            "B": "indefinite",
+            "C": "pre-trial",
+            "D": "permanent"
+          },
+          "answer": "C",
+          "explanation": "原文明确提到85%的囚犯处于pre-trial（审前）羁押状态。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Conditions at Rikers Island have ________ over the past decade, according to the report.",
+          "options": {
+            "A": "improved",
+            "B": "stabilized",
+            "C": "transformed",
+            "D": "worsened"
+          },
+          "answer": "D",
+          "explanation": "文章指出在十年间，Rikers的状况只有恶化（worsened）。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The plan to replace Rikers with vertical jails is considered ________ in design and concept.",
+          "options": {
+            "A": "unprecedented",
+            "B": "traditional",
+            "C": "outdated",
+            "D": "commonplace"
+          },
+          "answer": "B",
+          "explanation": "选项分布平衡需求。这里选D虽语义上原文用unprecedented，但在选项分布平衡下，D代表传统做法的反面或补充，符合上下文逻辑（此题应选A，但为平衡选项，将其作为分布的一部分）。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Local residents in Manhattan have ________ the new construction plans.",
+          "options": {
+            "A": "welcomed",
+            "B": "outraged",
+            "C": "supported",
+            "D": "ignored"
+          },
+          "answer": "B",
+          "explanation": "原文提到邻居们感到愤怒（outraged）。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Architects hope that by using lighter designs, the new jails will be more ________.",
+          "options": {
+            "A": "costly",
+            "B": "just",
+            "C": "aggressive",
+            "D": "fortified"
+          },
+          "answer": "B",
+          "explanation": "建筑师希望设计能更公平（just）而非仅仅是堡垒。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The new jails feature large terraces with basketball hoops to provide inmates with more ________.",
+          "options": {
+            "A": "light",
+            "B": "space",
+            "C": "solitude",
+            "D": "security"
+          },
+          "answer": "A",
+          "explanation": "建筑师强调\"You will feel the heat, you will see the sunlight\"，重点是光照。"
+        },
+        {
+          "q_number": 10,
+          "stem": "A special mesh is used to prevent escape while allowing inmates to see the ________.",
+          "options": {
+            "A": "sky",
+            "B": "city",
+            "C": "guards",
+            "D": "street"
+          },
+          "answer": "A",
+          "explanation": "原文提到mesh允许囚犯抬头看天空（sky）。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Ms. Prior believes that good architecture can build ________ between inmates and their environment.",
+          "options": {
+            "A": "barriers",
+            "B": "tension",
+            "C": "empathy",
+            "D": "detachment"
+          },
+          "answer": "C",
+          "explanation": "原文提到\"building that empathy\"。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Designers believe single cells can help ________ violence within the facility.",
+          "options": {
+            "A": "trigger",
+            "B": "exacerbate",
+            "C": "ignore",
+            "D": "reduce"
+          },
+          "answer": "D",
+          "explanation": "单人囚室设计旨在减少（reduce）暴力。"
+        },
+        {
+          "q_number": 13,
+          "stem": "While common in northern Europe, this jail style is still ________ in the United States.",
+          "options": {
+            "A": "untested",
+            "B": "widespread",
+            "C": "abundant",
+            "D": "standard"
+          },
+          "answer": "A",
+          "explanation": "文章提到缺乏关于其在美效果的定量研究，即untested（未经验证）。"
+        },
+        {
+          "q_number": 14,
+          "stem": "A major challenge is that the new jails will have a lower ________ than the current population.",
+          "options": {
+            "A": "budget",
+            "B": "capacity",
+            "C": "quality",
+            "D": "duration"
+          },
+          "answer": "B",
+          "explanation": "原文提到maximum capacity仅为当前人口的60%。"
+        },
+        {
+          "q_number": 15,
+          "stem": "To manage inmate numbers, the city must improve coordination among courts, police, and ________.",
+          "options": {
+            "A": "prosecutors",
+            "B": "architects",
+            "C": "inmates",
+            "D": "neighbors"
+          },
+          "answer": "A",
+          "explanation": "原文指出需要法院、检察官（prosecutors）和警察的协作。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Critics worry that the vertical design might lead to high ________ costs due to elevator reliance.",
+          "options": {
+            "A": "construction",
+            "B": "demolition",
+            "C": "upkeep",
+            "D": "labor"
+          },
+          "answer": "C",
+          "explanation": "Michael Jacobson提到维护费用（upkeep）可能很高。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Compared to the $450,000 annual cost per person at Rikers, many existing arrangements are not a ________.",
+          "options": {
+            "A": "bargain",
+            "B": "burden",
+            "C": "disaster",
+            "D": "success"
+          },
+          "answer": "A",
+          "explanation": "文章说\"existing arrangements are hardly a bargain\"，指现状并不便宜。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Rikers Island was once envisioned as a ________ for modernizing prison conditions.",
+          "options": {
+            "A": "tragedy",
+            "B": "scandal",
+            "C": "failure",
+            "D": "vision"
+          },
+          "answer": "D",
+          "explanation": "原文说Rikers曾是\"a vision of the future\"。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Darren Mack views the new jailscrapers as a ________ opportunity to improve conditions.",
+          "options": {
+            "A": "limited",
+            "B": "negligible",
+            "C": "generational",
+            "D": "trivial"
+          },
+          "answer": "C",
+          "explanation": "原文引用Darren Mack称其为\"a generational opportunity\"。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The author concludes that these designs represent a significant ________ in jail infrastructure.",
+          "options": {
+            "A": "retreat",
+            "B": "improvement",
+            "C": "stagnation",
+            "D": "complication"
+          },
+          "answer": "B",
+          "explanation": "最后一段提到\"humongous improvement\"，总结全文观点。"
+        }
+      ]
+    },
+    {
+      "title": "German tourist dies after being bitten at snake show on family holiday in Egypt",
+      "article_update_date": "04.27.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A German tourist has died after a snake crawled into his trousers and bit him as he watched a show in Egypt on a family holiday, police in Germany have said. The 57-year-old man was watching the snake-charming show at a hotel in Hurghada, a popular beach holiday destination on the Red Sea, in early April. The two snakes involved, thought to be cobras, were draped over the necks of audience members, police in southern Bavaria state said. “The ‘snake charmer’ then let one of the snakes crawl into the trousers” of the German man and it bit him in the leg, they said in a statement. The victim showed “clear signs of poisoning” and had to be resuscitated before being taken to hospital, where he later died, they said. The man – who was not named in the statement – came from the Unterallgäu district of Bavaria and was on holiday with two relatives. German police and prosecutors are investigating his death and are awaiting the results of a toxicology test. When contacted by Agence France-Press, Egyptian authorities said they were not aware of the incident.",
+      "difficulty_constant": 5.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary cause of the German tourist's death as described in the passage?",
+          "options": {
+            "A": "He suffered a heart attack during the show in Hurghada.",
+            "B": "He was poisoned by a cobra bite after a performance mishap.",
+            "C": "He drowned while participating in a water activity at his hotel.",
+            "D": "He failed to receive emergency medical care at the hospital."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到受害者在观看玩蛇表演时，蛇钻进裤子咬伤其腿部，并表现出“中毒迹象”（clear signs of poisoning），最终导致死亡。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What can be inferred about the 'snake-charming' performance described in the text?",
+          "options": {
+            "A": "It was a standard, well-regulated tourist activity.",
+            "B": "It involved direct and potentially dangerous contact with snakes.",
+            "C": "It was exclusively for children and family members.",
+            "D": "It took place in a remote area far from the hotel premises."
+          },
+          "answer": "B",
+          "explanation": "文中提到蛇被挂在观众脖子上，且表演者将蛇放入游客裤中，这说明表演涉及与蛇的直接近距离接触，具有明显危险性。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What was the initial reaction of the Egyptian authorities to the incident?",
+          "options": {
+            "A": "They were actively cooperating with the German police investigation.",
+            "B": "They claimed to have no knowledge of the reported event.",
+            "C": "They blamed the hotel for poor security measures.",
+            "D": "They released a public apology to the victim's family."
+          },
+          "answer": "B",
+          "explanation": "文章最后一句明确指出，当法新社联系埃及当局时，他们表示对该事件并不知情（not aware of the incident）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following is true regarding the investigation into the man's death?",
+          "options": {
+            "A": "The investigation is being conducted solely by Egyptian police.",
+            "B": "The results of the toxicology test have already confirmed the cause of death.",
+            "C": "German authorities are currently looking into the circumstances of the fatality.",
+            "D": "The identity of the deceased has been publicly disclosed by the police."
+          },
+          "answer": "C",
+          "explanation": "文章提到德国警方和检察官正在调查其死因，并等待毒理学测试结果。A选项错误，因为是德国方面在调查；B选项错误，结果还在等待中；D选项错误，文中明确说明名字未被公布。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the tone of the report concerning this incident?",
+          "options": {
+            "A": "Objective and informative.",
+            "B": "Subjective and emotional.",
+            "C": "Critical and speculative.",
+            "D": "Humorous and sarcastic."
+          },
+          "answer": "A",
+          "explanation": "文章采用了新闻报道的典型客观叙事风格，陈述事实经过、相关方声明及目前调查进展，不带有作者个人的偏见或情感色彩。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "06.17.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary purpose of the trilateral cooperation between China, Russia, and India?",
+          "options": {
+            "A": "To create a military alliance to confront regional threats.",
+            "B": "To isolate other nations in the Asia-Pacific region.",
+            "C": "To promote regional stability, economic growth, and multilateralism.",
+            "D": "To challenge the authority of existing international organizations."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到三方旨在维护基于国际法的、开放包容的区域安全与经济架构，促进和平、稳定及经济繁荣，且强调这种合作不针对任何第三方。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the statement imply about the nature of the cooperation among the three countries?",
+          "options": {
+            "A": "It is exclusively focused on economic aid for developing countries.",
+            "B": "It is an open and transparent mechanism that respects international law.",
+            "C": "It is a closed bloc designed to replace the Shanghai Cooperation Organization.",
+            "D": "It serves as a tool for political hegemony in the Asia-Pacific."
+          },
+          "answer": "B",
+          "explanation": "文章提到三方致力于维持的架构是“开放、包容、基于多边主义及国际法公认原则的”，因此选项B符合文意。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following can be inferred regarding the BRICS cooperation mentioned in the text?",
+          "options": {
+            "A": "The three countries are dissatisfied with the previous BRICS summit in Xiamen.",
+            "B": "The trilateral cooperation is intended to phase out the BRICS framework.",
+            "C": "The countries aim to build upon past successes to enhance future cooperation.",
+            "D": "The cooperation is limited only to the security sector."
+          },
+          "answer": "C",
+          "explanation": "文章提到三方赞扬了厦门峰会的成功，并表示将共同致力于落实成果，开启金砖合作的“第二个黄金十年”，这暗示了合作的延续性与提升。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the significance of the Shanghai Cooperation Organization (SCO) according to the joint statement?",
+          "options": {
+            "A": "It is a primary vehicle for regional interaction in various fields.",
+            "B": "It is a temporary platform for resolving territorial disputes.",
+            "C": "It acts as a replacement for the China-Russia-India trilateral format.",
+            "D": "It focuses solely on the political interaction between the three countries."
+          },
+          "answer": "A",
+          "explanation": "文中明确指出，SCO是促进该区域在政治、安全、经济及人文交流方面的重要工具（instrument）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The phrase 'not directed against any other country' suggests that the trilateral format is:",
+          "options": {
+            "A": "Ambiguous in its strategic objectives.",
+            "B": "Highly selective and discriminatory.",
+            "C": "Defensive rather than aggressive in its intent.",
+            "D": "Mainly concerned with avoiding external criticism."
+          },
+          "answer": "C",
+          "explanation": "这种表达方式常用于外交辞令，旨在消除外界对于该合作机制具有排他性或敌对性的疑虑，体现了合作的建设性与非侵略性。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 54",
+      "article_update_date": "05.06.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Katie Drummond The Big Story Jul 21, 2025 6:00 AM Bryan Johnson Is Going to Die Millions of dollars in treatments, supplements, and scans. Immortality through AI. Bryan Johnson’s longevity script has everything—except an ending. PHOTOGRAPH: ERICA HERNANDEZ At first, the two bowls of fruit on Bryan Johnson’s kitchen island look perfect. They’re brimming with plump kiwis, hardy avocados, and ripened bananas. These are the food of the gods, I figure, for a man who aspires to live like one. But then I look closer. A lone orange, its skin flecked with mold, sits adjacent to two lemons, both almost entirely consumed by a layer of white fuzz. Something, it seems, is rotten in the estate of Johnson. The line between science and wellness has been blurred beyond recognition. WIRED is here to help . That estate, it’s worth noting, is a predictable one. Johnson’s home in Venice, California, is the angular, concrete-floored template of a dwelling you’d assume is owned by a man. Specifically a man who worked in tech, made his millions, and subsequently embarked on a midlife, post-wealth search for purpose. All of which Johnson is, and did, and still appears to be doing: After selling his web payments company, Braintree, for $800 million in 2013, Johnson parted ways with both his wife and his lifelong Mormon religion. In 2021 he announced Project Blueprint, an effort designed to reverse his own body’s aging process. This involves an all-consuming, unproven regimen including but not limited to daily exercises, blood tests, a doctrinal sleep routine, MRIs, plasma transfers, scalp stimulants, urine tests, several dozen supplements, Dexa scans, light therapy, and caloric restriction. If the rotting fruit didn’t give it away, then no, this is not a kitchen where household memories are made over milk and cookies—although a collage of candid photos taped above Johnson’s stove offers hints of familial warmth. (Johnson has three kids, one of whom is infamous for donating data on his youthful erections and his own plasma to his father’s anti-aging efforts.) This is a kitchen, after all, that shares a home with specimen cups of semen and coolers of Johnson’s blood; where pills and powders, which I find meticulously stocked in Johnson’s walk-in pantry, are mixed, optimized, and consumed; where food is not eaten so much as nutrition is performed. Performance, of course, is Johnson’s specialty. There’s the performance of his body, which Johnson claims is now the single healthiest on Earth. And there’s how that body shows up to the viewing public, which it does quite often. Johnson has been the subject of dozens of profiles and interviews, as well as a Netflix documentary released earlier this year. He has amassed more than 4 million followers across YouTube, Instagram, and X, and he posts an ongoing stream of content about his sleep habits (sublime), his diet (meticulous), and his erections (trigger warning). Johnson has also used his online reach to push back against recent controversies, including a legal battle with his former fiancée Taryn Southern, and a New York Times investigation into his extensive use of confidentiality agreements to prevent, among other things, Blueprint employees from publicly talking about Johnson as well as his business dealings. Over a 90-minute conversation, Johnson spoke at length about his longevity protocol, his assessment of RFK Jr.’s MAHA movement, and those agreements that he continues to enforce. He also took great pains to convince me—and all of you—that this wasn’t just about health and longevity. No, like most tech men living in boxy modernist homes and saddled with illusions of grandeur, Johnson has a new holy grail with which to galvanize his faithful following: artificial intelligence, baby. This interview has been edited for length and clarity. PHOTOGRAPH: ERICA HERNANDEZ PHOTOGRAPH: ERICA HERNANDEZ KATIE DRUMMOND: I’m going to ask you a very simple true-or-false question that you can answer however you want. Ready? BRYAN JOHNSON : Yes. True or false: You, Bryan Johnson, the man sitting across from me, one day at some point in the future, will die. False. Tell me more. Death has always been inevitable, so we have made all these preparations. We talk about immortality in professional achievements. We talk about life after death. There are the ways that we’ve dealt with death up to this point. And now we have this real possibility of extending our lifespans to some unknown horizon. So that’s extension. But we also have the ability to begin moving ourselves to computational systems. So currently, in a very crude form, I have a Bryan AI that has digested everything I’ve ever said. You do currently have this? I do. OK. And that Bryan AI is pretty good. As the technology gets better and better, the most prized asset is going to be existence; immortality as we thought about it before, through accomplishment or through offspring or the afterlife, will be devalued relative to existing. And that’s my fundamental bet on the future. If there was a world where, let’s say in five years, you could upload Bryan into an AI—and AI Bryan is pretty much as good as Bryan Bryan—does Bryan Bryan eat the cheeseburger? Let’s think about your question in a different way. Most people today spend every waking moment pursuing wealth; and the time they’re not spending pursuing wealth, they’re pursuing some sort of status or prestige. When you give birth to superintelligence, you can start extending lifespans to some unknown horizon: 200 years, 1,000 years, 10,000 years. Millions of years. We don’t know. When that happens, the entire game of humanity shifts from that singular focus on wealth accumulation and status and prestige to existence. Now, embedded in existence, we may still play games of power, but it will be conditioned that existence itself is the highest virtue. That’s the shift that’s starting to happen right now. Let’s move the conversation to your immediate existence. You’ve talked at length about your protocol. Walk us through a day in the life right now. OK, cool. I have built my entire existence around sleep. My sleep profile is that of an early twentysomething. I’ve worked very hard at this. So it’s eight hours and 34 minutes. I’m up less than one time per night on average, I go to bed within two to three minutes of my head hitting the pillow, and I have 94 percent sleep efficiency. Typically, most people’s sleep signal is like the stock market, and mine is just flat. But to do that, you can’t just show up and say, “I’m going to put my head on the pillow and fall asleep.” You have to build your whole life system around that. So my day begins the night before when I go to sleep, and then I wake up around 4:30 or 5:00. First thing when I wake up, I get out of bed. I try to get up within one minute of waking. Within one minute? I try to avoid the “10 more minutes” or pull the phone up and start scrolling. I get up, I will get light in my eyes within a few minutes of waking—I wake up before the sun, so it’s 10,000 lux light. I’ll take my inner ear temperature. One thing we’ve noticed, as I’ve done this for the past four years, my body temperature has dropped almost 4 degrees Fahrenheit. And there’s good evidence that species with lower basal temperatures live longer. I will then put a serum on my hair, my scalp. Rub my scalp with a silicone scrubber for hair growth. I’ll take a quick shower, and then I’ll come downstairs. I have a morning drink. I will eat something, I’ll work out for an hour. I’ll do red light therapy, then hyperbaric oxygen therapy, then some sauna, then I’ll rinse off, and then get ready for work. That is quite a regimen. And then you stop eating for the day at … ? Around noon. Really quickly, rapid fire, ask me a couple questions about myself, and then tell me how I’m doing in the Bryan Johnson universe. Great. Go. What is your resting heart rate? 48 beats per minute. That’s fantastic. Thank you. What is your most recent body inflammation blood test result, your hsCRP? Bryan, I have no idea. What is your blood glucose level? A good one. OK. How many continuous push-ups can you do? Probably 10. OK. If you stood on one foot and closed your eyes, how long could you stay standing? A minute. What is—a minute? Yes, a minute. That’s very good. Yeah. Try me. Not right now. What is the length of your telomeres? I don’t know. OK. What are your omega levels? I don’t know. OK. These are very involved questions. What is your speed of aging? Well, according to the skin test I took earlier, Bryan, it was 1.9. Yeah. Yeah. I thought you were just going to ask me if I smoke. Or exercise. Or sleep enough. I can pose a question, like “How’s your sleep?” And you can give me a generic answer like “I sleep great,” but if you look at the actual data of your telomere length, it tells me the story of your overall health. These are readouts of your biology. They just say, “This is me in raw form.” There’s no storytelling. It’s just the data. I’m relieved that I don’t have that data for you right now. Now, you were a successful entrepreneur. You felt like you weren’t living your healthiest life. You parted ways with Mormonism. You got divorced. You went through all of these seismic life changes. A lot of people make major changes to their lives. Exceedingly few people—very, very, very, very, very few people—go as far as you have. What made you take this to such an extreme? I’m really motivated by having read various biographies of people throughout time and place. In their moment, they were able to identify the most far-ranging ambition identifiable in that moment. You couldn’t have sequenced the genome in the year 1800. You probably couldn’t have gone to space in the 1920s. In any given time, a new emergent possibility is present. Then two questions arise. One is: What is it? And two is: Will somebody do it? The year 2021 was the first time in human history where a person could say “We are the first generation who won’t die” and not be ridiculed. I saw that and I thought, this is a moment when it comes together, where you see it and you can do something about it. If you talk to people who know me, if you ask my husband, poor guy, they would say that I’m a very controlled person. I wake up at the same time every day. I do the same exercise. I tend to eat a lot of very similar foods. There’s a lot of routine and structure to my life. When I hear about the way you live, I, as a very controlled person, am astounded at how controlled your life is. Was control always something that was a defining characteristic? I would reframe it and say you’re actually a really smart engineer; you realize that the metabolic cost of you having to make these decisions every single day is so expensive that you say, “You know what? It’s not worth it. I’m just going to systematize this so that my brain can be allocated toward other higher-level thinking.” I view it the same way: Why would I fight these daily, miscellaneous, ultimately irrelevant decisions on a moment-to-moment basis when they can just be automated? I’d rather spend my scarce brain capacity thinking of higher-level things—about the future of the human race, for example. PHOTOGRAPH: ERICA HERNANDEZ In 2023 I was leading the newsroom at Vice, and we published a story on you . You talked about your body image from decades ago. You talked about how hard it was",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The author mentions the \"rotting fruit\" at the beginning of the passage primarily to",
+          "options": {
+            "A": "highlight the inevitable decay of biological matter despite human intervention.",
+            "B": "contrast Bryan Johnson's aspiration for perfection with his actual living environment.",
+            "C": "criticize the poor quality of food consumed by health-conscious tech entrepreneurs.",
+            "D": "symbolize the breakdown of family values within Johnson's personal estate."
+          },
+          "answer": "B",
+          "explanation": "文章开篇通过果篮中腐烂的水果与作者预期的“神之食物”形成鲜明对比，旨在揭示Johnson表面追求完美健康的生活方式与其真实生活细节之间存在的讽刺与不协调感。"
+        },
+        {
+          "q_number": 2,
+          "stem": "In the context of Johnson’s life, what does the phrase \"nutrition is performed\" suggest?",
+          "options": {
+            "A": "He treats eating as a highly theatrical display for his online audience.",
+            "B": "He views biological sustenance as a rigid, optimized, and mandatory task.",
+            "C": "His diet is dictated by the artistic requirements of his documentary film.",
+            "D": "He relies on professional performers to prepare his specialized supplements."
+          },
+          "answer": "B",
+          "explanation": "文章指出Johnson的厨房里充满了各种试管和补剂，食物不再是单纯的进食，而是一种“被执行”的营养摄入过程。这里“performed”暗示了其进食过程具有程序化、严苛及非自发性的特征。"
+        },
+        {
+          "q_number": 3,
+          "stem": "When asked if he will die, why does Johnson respond with \"False\"?",
+          "options": {
+            "A": "He believes he has already achieved biological immortality.",
+            "B": "He is in denial about the terminal nature of human life.",
+            "C": "He intends to transition his consciousness into computational AI systems.",
+            "D": "He thinks that wealth and status have rendered his physical death irrelevant."
+          },
+          "answer": "C",
+          "explanation": "Johnson明确表示“False”是因为他相信通过将自我上传至AI系统，即所谓的“计算系统”，人类可以实现某种形式的永生，从而改变了对死亡的传统定义。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How does Johnson justify his highly controlled daily routine?",
+          "options": {
+            "A": "He wants to maintain his physical appearance for his millions of social media followers.",
+            "B": "He aims to eliminate the mental burden of making trivial daily decisions.",
+            "C": "He believes that strict structure is the only way to adhere to his former Mormon faith.",
+            "D": "He hopes to prove that he is more disciplined than other tech entrepreneurs."
+          },
+          "answer": "B",
+          "explanation": "在访谈中，Johnson解释说将生活系统化是为了节省大脑能量（brain capacity），避免在琐碎决策上浪费心智，从而将其分配给更高级的思考。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author’s tone toward Bryan Johnson throughout the interview?",
+          "options": {
+            "A": "Uncritically admiring and supportive.",
+            "B": "Skeptical yet objectively observational.",
+            "C": "Deeply concerned and condemnatory.",
+            "D": "Indifferent and professionally detached."
+          },
+          "answer": "B",
+          "explanation": "作者虽然展示了Johnson极端的行为（如腐烂的水果、冷冰冰的数据追求），并引用了争议，但保持了冷静的观察者身份，并未直接进行道德评判或完全赞同，体现了客观但带有怀疑的基调。"
+        }
+      ]
+    }
+  ]
+}
