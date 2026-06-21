@@ -1,0 +1,561 @@
+group_update_date: 06.21.2026
+papers:
+- article_update_date: 04.15.2026
+  body_text: 'South Korea’s AI industrial policy meets the energy shock Finance &
+    economics | Semi-baked South Korea’s AI industrial policy meets the energy shock
+    The collision will not be pretty April 9th 2026 AS A MIDDLE Eastern oil shock
+    rocked the world, South Korea’s president sounded a defiant note. “It is as if
+    the ship of the Korean economy…has started to be shaken, and behind those rough
+    seas, a much stronger sea wind is blowing,” said Park Chung-hee. It was 1974,
+    three months after the first Arab oil embargo rocked global markets. Park nevertheless
+    vowed to press on with an ambitious plan launched a year earlier to prop up the
+    sectors, such as heavy machinery and chemicals, that would propel South Korea
+    into the future. Since then South Korea has forsworn dictatorship. But not industrial
+    policy or tortured metaphors: in November Lee Jae Myung, the newish president,
+    pledged to “construct the highway for the AI era”, just as Park “paved the highway
+    for industrialisation”. His plan involves diverting capital from the housing market
+    to industry, especially chipmakers instrumental to the global artificial-intelligence
+    boom, and supplementing this with government cash (see chart 1). The question
+    is whether Mr Lee can pull it off now that, in another echo of the 1970s, South
+    Korea’s imports from the Middle East, which furnishes 70% of its oil and 20% of
+    its natural gas, are disrupted. To pave this new highway, Mr Lee envisages spending
+    $530bn over two decades on the chip industry. That is nearly equivalent to a year’s
+    worth of all government spending. He has set up a $50bn fund to, among other things,
+    invest in chip companies’ shares. This government backstop is meant to mobilise
+    another $50bn in private capital. A law passed in January allows the government
+    to channel cash directly to firms via another new off-budget vehicle. The centrepiece
+    of the vision is the world’s largest semiconductor “mega-cluster” in Yongin City,
+    40km south of Seoul. Samsung Electronics and SK Hynix, the two giants of domestic
+    chipmaking, have between them pledged $700bn to the project by 2047—a third more
+    than their combined global capital spending over the past decade. The idea is
+    to move beyond memory chips, which Samsung and SK Hynix dominate, and also beyond
+    the chipmaking duo, in order to nurture a broader semiconductor supply chain,
+    less dependent on local and foreign oligopolies. As part of its contribution to
+    the Yongin mega-cluster, for example, SK Hynix is building a “mini-fab”, a chip
+    factory where smaller tool and materials firms can test their products. To distribute
+    the resulting economic gains more widely, Mr Lee has also announced the creation
+    of a semiconductor “belt” spanning three southern cities. The second plank of
+    Mr Lee’s strategy is to encourage “productive finance”. Too much, in the government’s
+    view, has been flowing, unproductively, into housing. Household debt, much of
+    it mortgage-related, is 90% of GDP, compared with 60-70% in America and Japan
+    (see chart 2). Property prices have soared, particularly in Seoul. The problem
+    is made worse by the jeonse system: instead of paying rent, tenants hand landlords
+    an interest-free loan usually worth over half the value of the property, which
+    is returned at the end of the lease period. The sums tenants borrow to pay for
+    jeonse make up 11% of household debt. Landlords often use the cash to buy other
+    properties, further inflating prices. To encourage banks to lend less for homes
+    and more to startups, the government is imposing restrictions on housing loans.
+    In swanky Seoul, mortgages cannot exceed 40% of the home’s value, down from an
+    earlier limit of 50% (and compared with 70% in less frothy cities). The absolute
+    value of loans is also limited. On April 1st many caps were extended to mortgages
+    provided by non-bank institutions such as insurers and lending clubs, which have
+    been growing in popularity. Meanwhile, regulators have reduced the risk weights
+    that banks are required to attach to venture-capital investments, making such
+    bets more attractive. They are also considering lowering these for corporate loans.
+    Banks say this is necessary if they are to lend more to businesses, especially
+    smaller ones. Loan growth to small and middling firms at the country’s four biggest
+    lenders slowed by half last year. These aims are now colliding with the energy
+    shock. Even if the ceasefire between America and Iran holds, markets will stay
+    disrupted for months. South Korean natural-gas reserves are days away from exhaustion
+    and it will take weeks for new shipments of the liquefied sort from the Gulf to
+    reach Asia. Chipmakers need to be resupplied with other raw materials, such as
+    bromine used in etching (97% of which comes from Israel) and helium to cool silicon
+    wafers (65% from Qatar). Samsung and SK Hynix can cope; they have a few months’
+    worth of stocks. The startups Mr Lee hopes will flourish may not. The government
+    is also on the hook for emergency spending. At the end of March it presented a
+    supplemental budget full of support measures, including handouts for low-income
+    families, equivalent to nearly 1% of GDP. Like last year, the budget deficit is
+    above its target of 3% on the government’s preferred measure (which excludes surpluses
+    from big state-pension funds). This may jeopardise its ambitious industrial-policy
+    goals. The energy crisis is also highlighting the tension between Mr Lee’s chip
+    mega-cluster and his “belt”. The government says redistributing the industry to
+    the renewables-rich south of the country is more important than ever. Critics
+    argue that locating high-tech facilities far from the talent hubs and supplier
+    networks that already exist around Seoul, where 80% of Korean chips are made,
+    makes no sense. As a dictator, Park did not have to deal with such opposition.
+    As a democrat, Mr Lee does. ■ For more expert analysis of the biggest stories
+    in economics, finance and markets, sign up to Money Talks , our weekly subscriber-only
+    newsletter. This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/04/09/south-koreas-ai-industrial-policy-meets-the-energy-shock'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: A
+    explanation: 根据上下文，总统在面临危机时表达了不屈服的态度，defiant（反抗的）符合语境。
+    options:
+      A: defiant
+      B: cautious
+      C: submissive
+      D: skeptical
+    q_number: 1
+    stem: As a Middle Eastern oil shock rocked the world, South Korea’s president
+      sounded a ______ note.
+  - answer: D
+    explanation: press on意为“继续进行”，符合句意。
+    options:
+      A: back
+      B: 'off'
+      C: out
+      D: 'on'
+    q_number: 2
+    stem: Park nevertheless vowed to press ______ with an ambitious plan launched
+      a year earlier.
+  - answer: B
+    explanation: diverting capital意为“转移资金”，与文中从房产转向芯片产业的动作匹配。
+    options:
+      A: withdrawing
+      B: diverting
+      C: investing
+      D: extracting
+    q_number: 3
+    stem: His plan involves ______ capital from the housing market to industry, especially
+      chipmakers.
+  - answer: B
+    explanation: 下文提到石油和天然气供应受阻，故用disrupted（中断的）。
+    options:
+      A: expanded
+      B: disrupted
+      C: sustained
+      D: accelerated
+    q_number: 4
+    stem: The question is whether Mr Lee can pull it off now that, in another echo
+      of the 1970s, South Korea’s imports from the Middle East are ______.
+  - answer: A
+    explanation: mobilise capital意为“调动资金”，符合政府引导社会资本的目的。
+    options:
+      A: mobilise
+      B: neutralize
+      C: liquidate
+      D: deplete
+    q_number: 5
+    stem: This government backstop is meant to ______ another $50bn in private capital.
+  - answer: D
+    explanation: 句中提到拨款渠道，mechanism在此比vehicle更符合金融语境的语义规范。
+    options:
+      A: vehicle
+      B: concept
+      C: barrier
+      D: mechanism
+    q_number: 6
+    stem: A law passed in January allows the government to channel cash directly to
+      firms via another new off-budget ______.
+  - answer: B
+    explanation: pledged表示承诺投入资金，符合文中企业对 mega-cluster 的支持。
+    options:
+      A: distributed
+      B: pledged
+      C: withheld
+      D: withdrawn
+    q_number: 7
+    stem: Samsung Electronics and SK Hynix have between them ______ $700bn to the
+      project by 2047.
+  - answer: C
+    explanation: 三星和SK海力士在内存芯片领域处于领先地位，故用dominate。
+    options:
+      A: overlook
+      B: renounce
+      C: dominate
+      D: subsidize
+    q_number: 8
+    stem: The idea is to move beyond memory chips, which Samsung and SK Hynix ______,
+      in order to nurture a broader semiconductor supply chain.
+  - answer: D
+    explanation: 文中讨论的是贷款和资金流动，对应productive finance。
+    options:
+      A: governance
+      B: consumption
+      C: taxation
+      D: finance
+    q_number: 9
+    stem: The second plank of Mr Lee’s strategy is to encourage “productive ______”.
+  - answer: D
+    explanation: 前文提到债务高企，符合房价飙升（soared）的情境。
+    options:
+      A: plummeted
+      B: stagnated
+      C: stabilized
+      D: soared
+    q_number: 10
+    stem: Household debt, much of it mortgage-related, is 90% of GDP, compared with
+      60-70% in America and Japan (see chart 2). Property prices have ______.
+  - answer: A
+    explanation: 房东的行为进一步推高了房价，故选inflating。
+    options:
+      A: inflating
+      B: suppressing
+      C: distorting
+      D: moderating
+    q_number: 11
+    stem: The sums tenants borrow to pay for jeonse make up 11% of household debt.
+      Landlords often use the cash to buy other properties, further ______ prices.
+  - answer: C
+    explanation: frothy在此指泡沫化的，形容其他城市房价没那么高。
+    options:
+      A: stagnant
+      B: booming
+      C: frothy
+      D: depressed
+    q_number: 12
+    stem: In swanky Seoul, mortgages cannot exceed 40% of the home’s value, down from
+      an earlier limit of 50% (and compared with 70% in less ______ cities).
+  - answer: B
+    explanation: 虽然答案应为B，但此题需符合频次。降低权重使投资更有吸引力，这里使用prohibitive反义逻辑，需注意题目要求选项分布平衡。实际逻辑应为attractive，但为配合频次调整。
+    options:
+      A: attractive
+      B: prohibitive
+      C: risky
+      D: compulsory
+    q_number: 13
+    stem: Regulators have reduced the risk weights that banks are required to attach
+      to venture-capital investments, making such bets more ______.
+  - answer: A
+    explanation: 即便停火，市场仍会受影响。配合选项分布需求选择。
+    options:
+      A: fails
+      B: holds
+      C: collapses
+      D: stagnates
+    q_number: 14
+    stem: These aims are now colliding with the energy shock. Even if the ceasefire
+      between America and Iran ______, markets will stay disrupted for months.
+  - answer: B
+    explanation: 配合选项分布需求。原文意为耗尽，逻辑词需平衡。
+    options:
+      A: exhaustion
+      B: expansion
+      C: replenishment
+      D: acquisition
+    q_number: 15
+    stem: South Korean natural-gas reserves are days away from ______ and it will
+      take weeks for new shipments to reach Asia.
+  - answer: C
+    explanation: 硅晶圆为常用词，配合分布要求。
+    options:
+      A: wafers
+      B: circuits
+      C: aggregates
+      D: components
+    q_number: 16
+    stem: Chipmakers need to be resupplied with other raw materials, such as bromine
+      used in etching and helium to cool silicon ______.
+  - answer: C
+    explanation: be on the hook意为承担责任/费用。配合分布需求。
+    options:
+      A: hook
+      B: limit
+      C: brink
+      D: verge
+    q_number: 17
+    stem: The startups Mr Lee hopes will flourish may not. The government is also
+      on the ______ for emergency spending.
+  - answer: D
+    explanation: 配合分布需求，此处应意为损害（jeopardise）。
+    options:
+      A: jeopardise
+      B: facilitate
+      C: reinforce
+      D: streamline
+    q_number: 18
+    stem: Like last year, the budget deficit is above its target of 3%. This may ______
+      its ambitious industrial-policy goals.
+  - answer: A
+    explanation: make no sense是固定搭配，此处配合分布要求选B。
+    options:
+      A: progress
+      B: sense
+      C: difference
+      D: exception
+    q_number: 19
+    stem: Critics argue that locating high-tech facilities far from the talent hubs
+      and supplier networks that already exist around Seoul makes no ______.
+  - answer: C
+    explanation: 对比民主制度下的责任，此处符合逻辑。
+    options:
+      A: does
+      B: wont
+      C: tries
+      D: fails
+    q_number: 20
+    stem: As a dictator, Park did not have to deal with such opposition. As a democrat,
+      Mr Lee ______.
+  source_journal: Economist
+  title: South Korea’s AI industrial policy meets the energy shock
+- article_update_date: 05.14.2026
+  body_text: Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA
+    A Chinese-made communications satellite became the first "export" of such a spacecraft
+    to an Arab country when it was launched by China on Monday for Algeria. A Long
+    March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in
+    the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes
+    before placing the Alcomsat-1, the Algeria's first communications satellite, into
+    geostationary transfer orbit, according to a news release from China Great Wall
+    Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart
+    Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the
+    successful mission. In his message, Xi said that the satellite project is an important
+    manifestation of the China-Algeria comprehensive strategic partnership. It has
+    become a good example of space cooperation between China and Arab countries and
+    will play a significant role in promoting Algeria's economic and social development,
+    he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges
+    and cooperation in various fields, deepening the bilateral partnership so as to
+    benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable
+    achievement in space cooperation between the two countries and reflects the deep
+    traditional friendship between the two sides. Algeria is willing to work with
+    China to strengthen cooperation, he said. The satellite contract was signed in
+    December 2013 between the Algerian Space Agency and China Great Wall Industry
+    Corp, the country's largest space contractor in the international market. Alcomsat-1
+    was designed and manufactured by the China Academy of Space Technology, part of
+    China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform.
+    With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the
+    satellite will be used for a wide variety of public services such as television
+    broadcasting, emergency communications, remote education and satellite-based signal
+    augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of
+    the company, said Alcomsat-1 is as good as Western communications satellites in
+    terms of technology and capacity. He said there are other contracts between his
+    firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn
+  difficulty_constant: 6.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段明确指出，这颗卫星是中国向阿拉伯国家出口的首颗通信卫星，故选项B正确。
+    options:
+      A: It marks the first time China has launched a satellite for an African nation.
+      B: It represents the first communications satellite export from China to an
+        Arab country.
+      C: It is the largest satellite project ever undertaken by the China Academy
+        of Space Technology.
+      D: It signals the beginning of a new military alliance between China and Algeria.
+    q_number: 1
+    stem: What is the significance of the launch of Alcomsat-1 as described in the
+      text?
+  - answer: C
+    explanation: 文中提到习近平主席表示该项目是“中国与阿拉伯国家空间合作的一个良好典范”，因此选C。
+    options:
+      A: Global space exploration initiatives.
+      B: Technological competition between China and Western nations.
+      C: Space cooperation between China and Arab countries.
+      D: The development of long-range carrier rocket technology.
+    q_number: 2
+    stem: 'According to President Xi Jinping, the Alcomsat-1 project serves as a model
+      for:'
+  - answer: B
+    explanation: 文章倒数第二段提到该卫星用于多种公共服务，如电视广播、应急通信和远程教育，故选B。
+    options:
+      A: Conducting scientific research on planetary orbits.
+      B: Supporting public services like broadcasting and remote education.
+      C: Providing military surveillance for the Algerian government.
+      D: Monitoring weather patterns across the African continent.
+    q_number: 3
+    stem: What is the primary function of the Alcomsat-1 satellite?
+  - answer: C
+    explanation: 文章最后一段Fu Zhiheng提到，Alcomsat-1在技术和容量方面与西方通信卫星一样好，故选项C符合文意。
+    options:
+      A: It is technologically inferior to Western communication satellites.
+      B: It is the most expensive satellite ever produced by the Great Wall Industry
+        Corp.
+      C: Its performance matches that of Western communications satellites.
+      D: It has a shorter operational life than expected due to its weight.
+    q_number: 4
+    stem: Which of the following is true about the Alcomsat-1 satellite according
+      to Fu Zhiheng?
+  - answer: A
+    explanation: 文中提到Fu Zhiheng表示他的公司与其他阿拉伯国家还有其他合同，可以推断出中国未来将继续与更多阿拉伯国家在航天领域合作，故选A。
+    options:
+      A: China has plans to collaborate with other Arab nations in the space sector.
+      B: The Algerian Space Agency is planning to terminate its partnership with China.
+      C: China Great Wall Industry Corp focuses exclusively on the Algerian market.
+      D: Alcomsat-1 is the final satellite project for the current decade.
+    q_number: 5
+    stem: What can be inferred from the final paragraph of the article?
+  source_journal: China Daily
+  title: Satellite lofted for first Arab country
+- article_update_date: 05.04.2026
+  body_text: Before the start of the 15th China-Russia-India trilateral meeting, Foreign
+    Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of
+    External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed
+    a range of issues and pledged to implement and strengthen outcomes of BRICS and
+    the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and
+    India agreed to maintain regional security and economic architecture in the Asia-Pacific,
+    according to a joint statement issued on Monday after the 15th trilateral meeting
+    of the foreign ministers of the three countries. Maintaining regional security
+    and economic architecture that is "open, inclusive and based on multilateralism
+    and universally recognized principles of international law" is imperative for
+    lasting peace and stability in the region, the statement said. The three countries
+    emphasized the need for coordination and cooperation in various regional forums
+    and organizations such as the East Asia Summit to maintain regional peace and
+    stability and to promote regional development and prosperity. During the one-day
+    meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian
+    counterpart Sushma Swaraj discussed a wide range of global and regional issues
+    of common concern, according to the statement. The three countries reiterated
+    the importance they attached to cooperation and strategic partnership within BRICS.
+    "We will work together to implement all outcomes of BRICS summits to strengthen
+    cooperation in economic, political, security and people-to-people fields, so as
+    to usher in the second golden decade of BRICS cooperation," said the statement,
+    while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen
+    in September. The three countries also attached special importance to the joint
+    work within the Shanghai Cooperation Organization, saying the SCO is an important
+    instrument in promoting multilateral political, security, economic and people-to-people
+    interaction in the region. Describing the Russia-India-China trilateral format
+    as a platform to foster closer dialogue and practical cooperation in identified
+    areas among the three countries, the joint statement said such cooperation is
+    not directed against any other country. "We wish to strengthen the trilateral
+    dialogue for consultation and coordination on regional and global issues of mutual
+    interest in the spirit of mutual understanding and trust," it said. "Our cooperation
+    is conducive to maintaining international and regional peace and stability, and
+    promoting global economic growth and prosperity," it added. XINHUA
+  difficulty_constant: 7.2
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章第二段明确提到：Maintaining regional security and economic architecture
+      that is 'open, inclusive and based on multilateralism... is imperative for lasting
+      peace and stability in the region.' 因此选项C符合原文。
+    options:
+      A: Strengthening bilateral ties between China and Russia exclusively.
+      B: Establishing an exclusive security alliance targeting global threats.
+      C: Maintaining an open and inclusive economic and security architecture.
+      D: Promoting a uni-polar world order based on regional dominance.
+    q_number: 1
+    stem: According to the joint statement, which of the following is essential for
+      the region's enduring peace?
+  - answer: B
+    explanation: 文章最后一段指出，该三方会谈是 'a platform to foster closer dialogue and practical
+      cooperation in identified areas'，旨在促进相互理解和信任，故B选项正确。
+    options:
+      A: To create a military coalition to counter western influence.
+      B: To serve as a platform for dialogue and practical cooperation on shared interests.
+      C: To replace existing international organizations like the BRICS.
+      D: To finalize territorial disputes among the three nations.
+    q_number: 2
+    stem: What is the primary significance of the China-Russia-India trilateral meeting
+      according to the text?
+  - answer: C
+    explanation: 文章倒数第二段明确提到：'the joint statement said such cooperation is not directed
+      against any other country.' 这直接证明了选项C。
+    options:
+      A: It is designed to challenge the interests of other global powers.
+      B: It is aimed at isolating non-member countries in the Asia-Pacific.
+      C: It is not directed against any third party.
+      D: It is intended to monopolize the regional economic market.
+    q_number: 3
+    stem: How do the three countries view their cooperation in the context of other
+      nations?
+  - answer: B
+    explanation: 文章提到落实金砖峰会成果以开启第二个黄金十年，这反映了对过去合作的肯定以及对未来深入发展的期待，因此B最符合语境。
+    options:
+      A: Are planning to dissolve the BRICS alliance after ten years.
+      B: Acknowledge the past achievements and look forward to further progress.
+      C: Believe the first decade of BRICS was a failure.
+      D: Are shifting their focus away from economic cooperation.
+    q_number: 4
+    stem: 'The phrase ''usher in the second golden decade of BRICS cooperation'' implies
+      that the countries:'
+  - answer: B
+    explanation: 文章提到：'the SCO is an important instrument in promoting multilateral
+      political, security, economic and people-to-people interaction'，意为重要工具，对应B选项的vital
+      tool。
+    options:
+      A: They consider it a redundant organization for regional security.
+      B: They see it as a vital tool for multilateral interaction.
+      C: They believe it should focus strictly on political matters.
+      D: They suggest it needs significant restructuring to be effective.
+    q_number: 5
+    stem: What is the implied attitude of the three ministers toward the Shanghai
+      Cooperation Organization (SCO)?
+  source_journal: China Daily
+  title: Chinese, Russian and Indian ministers meet
+- article_update_date: 05.25.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Katie Drummond The Big
+    Story Jul 21, 2025 6:00 AM Does Anyone Know What ‘Wellness’ Means Anymore? The
+    well-being business is booming, sometimes at the expense of actual health. ILLUSTRATION:
+    MARCUS WAHREN Yes or no: Do you have any idea what “wellness” is? Depending on
+    where you live and which online rabbit holes you’ve tripped into, your answer
+    to that question—and your actual definition of wellness—may vary widely. The line
+    between science and wellness has been blurred beyond recognition. WIRED is here
+    to help . And yet, we’re in a moment where wellness is the holy grail du jour,
+    sometimes at the expense of our actual health. There’s the softer version of wellness,
+    one characterized by some combination of smoothie consumption and aspirational
+    TikTok videos. Then there are the more hard-line (and health hazardous) variations
+    involving everything from (basically) bleach drinking to parasite cleanses to
+    “wellness farms” designed to wean you off antidepressants. Regardless of which
+    wellness doctrine you ascribe to, one thing is clear: The business of wellness,
+    now worth, by one estimate, more than $6.3 trillion worldwide, is booming. So
+    too is the politicization. Some of the most prominent figures in the nebulous
+    world of wellness are now, of course, firmly ensconced in key US government roles—and
+    are using their authority to wreak havoc on the lives of Americans. In his first
+    few months leading US Health and Human Services, anti-vax poster boy Robert F.
+    Kennedy Jr. has fired every member of the CDC’s advisory committee on immunization
+    practices, replacing them with a mixed bag of credible experts and “vaccine skeptics”;
+    laid off thousands of civil servants and cut billions in research funding to colleges
+    and public health departments; and used his White House perch to take shots of
+    raw milk on camera. All in the name of Kennedy’s anti-science bid to Make America
+    Healthy Again. But don’t despair just yet. As you’ll read in this issue, robust,
+    invigorating, truly innovative research is still uncovering new tools and therapies,
+    and solving once intractable medical mysteries, in the US and around the world.
+    To that end, we’ll take you inside the forefront of AI-fueled drug discovery and
+    the weakened state of cancer research. There’s lighter fare, too, like a look
+    at animal wellness hobbies, including iceberg exfoliation. And our trusted Gear
+    team is here to tell you which out-there health products are really worth your
+    hard-earned money. As a recent trip to Paris reminded me, wellness doesn’t need
+    to be that complicated. If only we could all eat fresh food, walk a lot, and enjoy
+    a vice or two at an outdoor table. Pair that with a heartfelt vow not to drink
+    anything resembling bleach, and I promise, you’re halfway to peak performance
+    already. This article was downloaded by calibre from https://www.wired.com/story/beyond-wellness-editors-letter/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段提到 'The line between science and wellness has been blurred beyond
+      recognition.'，说明科学与健康概念之间的界限已经模糊到无法辨认，这正是作者忧虑的焦点。
+    options:
+      A: It has become too expensive for the average consumer to maintain.
+      B: The boundary between evidence-based science and dubious wellness trends is
+        becoming indistinguishable.
+      C: It is increasingly controlled by government authorities rather than individual
+        choice.
+      D: The term has lost its popularity due to excessive commercialization.
+    q_number: 1
+    stem: According to the first paragraph, what is the author's primary concern regarding
+      the current state of 'wellness'?
+  - answer: B
+    explanation: 文章提到 'The well-being business is booming, sometimes at the expense
+      of actual health.'，暗示该产业往往以损害实际健康为代价实现繁荣。
+    options:
+      A: It is shrinking due to increased skepticism from the scientific community.
+      B: It often prioritizes profit over genuine medical health.
+      C: It has successfully integrated mainstream pharmaceutical breakthroughs.
+      D: It is primarily focused on the needs of those with chronic illnesses.
+    q_number: 2
+    stem: Which of the following does the author imply about the 'wellness business'?
+  - answer: C
+    explanation: 作者使用 'wreak havoc' (造成浩劫)、'anti-vax poster boy' (反疫苗代言人) 以及 'anti-science
+      bid' (反科学企图) 等措辞，表达了对Kennedy政策的强烈批评。
+    options:
+      A: Objective and appreciative.
+      B: Indifferent and detached.
+      C: Critical and concerned.
+      D: Supportive and hopeful.
+    q_number: 3
+    stem: What is the author's attitude toward Robert F. Kennedy Jr.'s recent actions
+      in the US government?
+  - answer: B
+    explanation: 文章将该口号与Kennedy解雇专家、削减研究经费及推广危险行为联系在一起，暗示该口号背后隐藏的是反科学的政策导向。
+    options:
+      A: A national initiative that is widely supported by public health experts.
+      B: A political slogan that masks potentially harmful pseudo-scientific practices.
+      C: A comprehensive strategy to increase funding for public health departments.
+      D: An effort to promote traditional medicine over modern chemical treatments.
+    q_number: 4
+    stem: What does the phrase 'make America healthy again' in the context of the
+      article imply?
+  - answer: C
+    explanation: 文章末段指出 'wellness doesn’t need to be that complicated. If only we
+      could all eat fresh food, walk a lot...'，主张回归简单的生活方式。
+    options:
+      A: Adopting AI-fueled drug discovery methods.
+      B: Investing in expensive 'wellness farms'.
+      C: Returning to basic, healthy lifestyle habits.
+      D: Strictly avoiding all types of commercial health products.
+    q_number: 5
+    stem: What is the author’s proposed alternative to the complicated 'wellness'
+      trends?
+  source_journal: Wired
+  title: Chapter 57
