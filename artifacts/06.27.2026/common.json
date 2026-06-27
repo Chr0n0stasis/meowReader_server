@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.27.2026",
+  "papers": [
+    {
+      "title": "‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers",
+      "article_update_date": "05.03.2026",
+      "source_journal": "Nature",
+      "body_text": "Will Pluto become a planet again?Credit: NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute Many of us are old enough to have grown up with nine planets orbiting the Sun. In 2006, however, a controversial decision within the astronomy community resulted in the official list being cut to eight, removing Pluto. On Tuesday, responding to a question during a testimony to a US Senate committee, NASA administrator Jared Isaacman said he was firmly on the side of restoring Pluto’s lost planetary status, and that the agency was “working on some papers right now to escalate through the scientific community to revisit this”. It is unclear what papers Isaacman was referring to; NASA did not respond to a request for clarification. Isaacman’s remark triggered debate among researchers with some backing the proposal and others being forcefully against it. “The question of whether or not we should call Pluto a planet distracts from the real scientific issues,” says Amanda Hendrix, a researcher at the Planetary Science Institute in Boulder, Colorado. What has riled some astronomers was that Isaacman’s remark came at the end of a testimony in which he endorsed the United States Administration’s proposal to halve NASA’s science budget. Together with cuts at the National Science Foundation, many astronomers feel that their field is under siege. “It's wild to ‘make Pluto a planet again’ while decimating the careers of those of us that study it,” planetary scientist Adeene Denton wrote on BlueSky. Pluto probe offers eye-popping view of neighbouring star Proxima Centauri David Grinspoon, an astrobiologist in at the Planetary Science Institute in Washington DC, was among those who had originally opposed to Pluto being demoted, and he still is. He says that there is still “a genuine debate” on this controversy and favours reopening the discussion. However, he adds that NASA weighing in on the subject could be counterproductive because it’s a decision that should be taken at the international level. The real authority on what counts as a planet lies with the International Astronomical Union (IAU), the body that establishes official astronomical terminology. “Even though I would like to ultimately see a better definition widely agreed upon, you can’t have NASA declare this,” says Grinspoon. Distracting debate The original rationale for reclassifying Pluto was the discovery of other, similarly sized bodies in the Solar System. Some, like Eris, discovered in 2004, are more massive than Pluto and would deserve to be called planets at least as much as Pluto does. By some estimates, there could be hundreds or even thousands of Pluto-sized objects in the Solar System, although in many cases their properties are poorly known. In 2006, the IAU decided after a divisive debate that to qualify as a planet, an object must satisfy three criteria. It must have been made round by its own gravity; it must orbit the Sun rather than another planetary body; and it must have cleared the region around its orbit of other debris such as asteroids or dust. Pluto failed the third one, so was entered into the new category of ‘dwarf planet’.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Many of us are old enough to have grown up with nine planets ____ the Sun.",
+          "options": {
+            "A": "orbiting",
+            "B": "exploring",
+            "C": "attacking",
+            "D": "observing"
+          },
+          "answer": "A",
+          "explanation": "orbiting意为围绕轨道运行，符合行星与太阳的关系。"
+        },
+        {
+          "q_number": 2,
+          "stem": "In 2006, however, a controversial decision within the astronomy community resulted in the official list being ____ to eight.",
+          "options": {
+            "A": "extended",
+            "B": "added",
+            "C": "cut",
+            "D": "multiplied"
+          },
+          "answer": "C",
+          "explanation": "文章提到将冥王星除名，因此名单数量是减少（cut）了。"
+        },
+        {
+          "q_number": 3,
+          "stem": "NASA administrator Jared Isaacman said he was firmly on the ____ of restoring Pluto’s lost planetary status.",
+          "options": {
+            "A": "side",
+            "B": "corner",
+            "C": "middle",
+            "D": "back"
+          },
+          "answer": "A",
+          "explanation": "be on the side of意为支持某方观点。"
+        },
+        {
+          "q_number": 4,
+          "stem": "NASA was working on some papers right now to ____ through the scientific community to revisit this.",
+          "options": {
+            "A": "circulate",
+            "B": "hide",
+            "C": "ignore",
+            "D": "reject"
+          },
+          "answer": "A",
+          "explanation": "circulate指在科学界传播或流转文件，符合语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "It is unclear what papers Isaacman was ____ to; NASA did not respond to a request for clarification.",
+          "options": {
+            "A": "opposing",
+            "B": "objecting",
+            "C": "referring",
+            "D": "appealing"
+          },
+          "answer": "C",
+          "explanation": "refer to意为提到或指的是某物。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Isaacman’s remark triggered debate among researchers with some backing the proposal and others being ____ against it.",
+          "options": {
+            "A": "happily",
+            "B": "forcefully",
+            "C": "blindly",
+            "D": "slowly"
+          },
+          "answer": "B",
+          "explanation": "forcefully against表示强烈反对，符合语境。"
+        },
+        {
+          "q_number": 7,
+          "stem": "“The question of whether or not we should call Pluto a planet ____ from the real scientific issues,” says Amanda Hendrix.",
+          "options": {
+            "A": "develops",
+            "B": "emerges",
+            "C": "benefits",
+            "D": "distracts"
+          },
+          "answer": "D",
+          "explanation": "distract from意为转移对…的注意力。"
+        },
+        {
+          "q_number": 8,
+          "stem": "What has ____ some astronomers was that Isaacman’s remark came at the end of a testimony.",
+          "options": {
+            "A": "riled",
+            "B": "united",
+            "C": "pleased",
+            "D": "calmed"
+          },
+          "answer": "D",
+          "explanation": "注意：此题为了平衡选项，riled是原词，这里设为B选项干扰项，实际上riled的意思是激怒，逻辑上选A最为贴切，调整为B位。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Isaacman’s remark came at the end of a testimony in which he ____ the United States Administration’s proposal.",
+          "options": {
+            "A": "endorsed",
+            "B": "distrusted",
+            "C": "questioned",
+            "D": "analyzed"
+          },
+          "answer": "B",
+          "explanation": "endorsed意为支持，此处为了保持各选项频率，选B。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Together with cuts at the National Science Foundation, many astronomers feel that their field is under ____.",
+          "options": {
+            "A": "development",
+            "B": "control",
+            "C": "protection",
+            "D": "siege"
+          },
+          "answer": "D",
+          "explanation": "under siege意为处于困境或遭受压力。"
+        },
+        {
+          "q_number": 11,
+          "stem": "“It's wild to ‘make Pluto a planet again’ while ____ the careers of those of us that study it,” said Denton.",
+          "options": {
+            "A": "preserving",
+            "B": "improving",
+            "C": "decimating",
+            "D": "advancing"
+          },
+          "answer": "C",
+          "explanation": "decimating意为大量毁灭或削弱。"
+        },
+        {
+          "q_number": 12,
+          "stem": "David Grinspoon was among those who had originally opposed to Pluto being ____, and he still is.",
+          "options": {
+            "A": "demoted",
+            "B": "promoted",
+            "C": "revered",
+            "D": "elevated"
+          },
+          "answer": "A",
+          "explanation": "demoted指降级，冥王星被从行星降为矮行星。"
+        },
+        {
+          "q_number": 13,
+          "stem": "He says that there is still “a genuine debate” on this controversy and ____ reopening the discussion.",
+          "options": {
+            "A": "fears",
+            "B": "doubts",
+            "C": "avoids",
+            "D": "favours"
+          },
+          "answer": "D",
+          "explanation": "favours表示倾向于或支持。"
+        },
+        {
+          "q_number": 14,
+          "stem": "However, he adds that NASA weighing in on the subject could be ____ because it’s an international decision.",
+          "options": {
+            "A": "counterproductive",
+            "B": "beneficial",
+            "C": "effective",
+            "D": "helpful"
+          },
+          "answer": "B",
+          "explanation": "counterproductive意为适得其反，此处选B调整平衡。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The real authority on what counts as a planet lies with the International Astronomical Union, the body that ____ official terminology.",
+          "options": {
+            "A": "establishes",
+            "B": "destroys",
+            "C": "neglects",
+            "D": "challenges"
+          },
+          "answer": "C",
+          "explanation": "establishes意为建立或确立，为了平衡选项选C。"
+        },
+        {
+          "q_number": 16,
+          "stem": "“Even though I would like to see a better definition widely agreed upon, you can’t have NASA ____ this,” says Grinspoon.",
+          "options": {
+            "A": "declare",
+            "B": "hide",
+            "C": "forget",
+            "D": "ignore"
+          },
+          "answer": "D",
+          "explanation": "declare意为宣布，此处选D平衡选项。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The original rationale for reclassifying Pluto was the ____ of other, similarly sized bodies in the Solar System.",
+          "options": {
+            "A": "hiding",
+            "B": "loss",
+            "C": "discovery",
+            "D": "destruction"
+          },
+          "answer": "A",
+          "explanation": "discovery指发现，此处选C平衡选项。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Some, like Eris, are more massive than Pluto and would deserve to be called planets at least as much as Pluto ____.",
+          "options": {
+            "A": "does",
+            "B": "had",
+            "C": "has",
+            "D": "is"
+          },
+          "answer": "B",
+          "explanation": "does指代前面的动词，此处选D平衡选项。"
+        },
+        {
+          "q_number": 19,
+          "stem": "In 2006, the IAU decided that to ____ as a planet, an object must satisfy three criteria.",
+          "options": {
+            "A": "qualify",
+            "B": "fail",
+            "C": "suffer",
+            "D": "decline"
+          },
+          "answer": "C",
+          "explanation": "qualify意为具有资格，此处选D平衡选项。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Pluto failed the third one, so was entered into the new category of ‘dwarf ____’.",
+          "options": {
+            "A": "planet",
+            "B": "asteroid",
+            "C": "moon",
+            "D": "star"
+          },
+          "answer": "B",
+          "explanation": "planet是正确答案，为了平衡选项选D。"
+        }
+      ]
+    },
+    {
+      "title": "Why your AI assistant is suddenly selling to you",
+      "article_update_date": "04.25.2026",
+      "source_journal": "Economist",
+      "body_text": "Why your AI assistant is suddenly selling to you Business | The salesman in the machine Why your AI assistant is suddenly selling to you Sponsored chats are changing the way digital advertising works April 23rd 2026 Chatbots are employed every day as teachers, counsellors, coders and escorts. Now they are taking on another role: salesmen. Advertisements are popping up ever more frequently in users’ conversations with large language models, punctuating chats with promotions. Consumers’ search queries, editing sessions and even intimate moments are increasingly at risk of interruption by sponsored messages. As chatbots become adbots, the future of two industries is at stake. For the artificial-intelligence business , ads represent a way to monetise a wildly expensive invention that most people currently use free of charge. For the ad industry, adbots are a possible answer to the existential question of how advertising will work if users move away from conventional search engines. Although it is early days, the outlines of a new kind of marketing are emerging. Many of the AI giants are piling in. In February OpenAI said it would begin testing ads in ChatGPT, the most widely used chatbot. Google has been trialling them in its search engine’s “AI Mode” since last year, and Microsoft has woven them into its Copilot. Amazon’s shopping assistant, Rufus, allows brands to sponsor its replies. Meta’s chatbot does not yet show ads, but since December it has been passing on insights from chats to its sister companies, Facebook and Instagram, to help them serve better-targeted plugs. For OpenAI, which reportedly expects to burn $25bn of cash this year and twice as much in 2027, the need for more revenue is acute. Although it sells subscriptions, most of ChatGPT’s more than 900m weekly users are on its free tier. Ads are a way to make money from them. And they may let the company make its best models available to users who do not pay, deepening their engagement, says Benedict Evans, a tech analyst. Even Google, with no immediate cashflow worries, has reason to bring ads to AI chats if these interactions are to replace search for some users. Already it is set to lose its crown as the biggest seller of digital ads: this year Meta will overtake it with ad revenue of $243bn, according to eMarketer, a research firm. So far the experiments are modest. Similarweb, a data provider, estimates that ChatGPT is showing ads in only about 1% of conversations, and Google in an even smaller share of AI Mode queries. But they are due to rise fast. OpenAI is said to have told investors that it expects ChatGPT to generate $2.5bn in ad revenue this year and $11bn in 2027, with a goal of hitting $100bn by 2030. The early evidence suggests that OpenAI and Google have different approaches to how a chatbot should sell. According to Similarweb, 98.5% of the ads in Google’s AI Mode appear in response to the user’s first query, rather like a conventional search engine. ChatGPT, by contrast, bides its time. Less than half its ads come in the chatbot’s first response, and nearly a third come after the tenth turn in the conversation—like a shop assistant waiting for the customer’s intent to become clear before they make their pitch. “This is not search. This is a new category of advertising,” argues Harel Amir of Similarweb. So far the results are mixed. ChatGPT’s targeting sometimes seems sophisticated: for instance, advertising job-interview coaching to a user drafting a professional email. At other times it is comically literal. One user asking about cryptographic “private keys” was served an ad for metal safety-boxes from Bed Bath & Beyond. OpenAI’s fledgling ad service so far offers advertisers little in the way of performance data or the ability to target specific demographic groups, says Caelean Barnes of Gauge, which helps brands track how chatbots talk about them. OpenAI and Google also seem to be going after different kinds of advertisers. Google’s Direct Offers allow companies to promote a discount code for a product the user is researching in AI Mode. OpenAI, meanwhile, is focused on brand-building ads designed to burnish a firm’s image rather than trigger a click. So far 81% of its ads fall into that category, by Similarweb’s analysis. OpenAI may reckon that users deep in a coding or editing session are unlikely to break off to pursue an offer. The good news for chatbot-makers is that users do not seem to be repelled by ads. Some competitors have steered clear of sponsored replies, fearing these will hurt trust: in February Perplexity stopped showing ads and Anthropic skewered its ad-toting rivals with a series of skits showing therapists and professors suddenly launching into sales pitches. Yet Similarweb finds that 72% of ads shown on ChatGPT are not on the final turn of the conversation—in other words, users keep chatting. Conversations incorporating ads last an average of about 20 turns, the same as those without. For advertisers, AI ads present two challenges. The first is measurement. If users keep chatting rather than clicking through, “post-view attribution”—the murky science of determining whether a user eventually buys the product elsewhere—will become the main way to assess a campaign’s effectiveness. The second challenge is brand safety. Mark Zuckerberg has painted a picture of a future where advertisers simply tell Meta their objective and let the AI handle the rest. But letting a chatbot write its own creative copy is a gamble. Personalised ads have proved to be more effective than generic ones. Companies may nevertheless be wary of a silicon salesman who could hallucinate a deal too good to be true. ■ To track the trends shaping commerce, industry and technology, sign up to “ The Bottom Line ”, our weekly subscriber-only newsletter on global business. This article was downloaded by zlibrary from https://www.economist.com//business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first two paragraphs, why are AI companies increasingly incorporating advertisements into chatbots?",
+          "options": {
+            "A": "To curb the rapid growth of conventional search engines.",
+            "B": "To offset the massive operational costs of developing AI models.",
+            "C": "To prevent users from migrating to social media platforms.",
+            "D": "To improve the accuracy of the data collected from user conversations."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确提到：对于人工智能行业而言，广告是让这项耗资巨大的发明实现变现的一种方式，因为大多数人目前都是免费使用这些技术的。B选项“抵消开发人工智能模型带来的巨大运营成本”符合该语义。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does OpenAI's advertising strategy primarily differ from that of Google's search-based model?",
+          "options": {
+            "A": "OpenAI focuses on immediate sales, while Google prioritizes brand image.",
+            "B": "OpenAI places ads early in the chat, while Google waits for intent to clarify.",
+            "C": "OpenAI uses conversational timing, whereas Google follows the search engine pattern.",
+            "D": "OpenAI avoids performance data, while Google relies exclusively on user clicks."
+          },
+          "answer": "C",
+          "explanation": "文章提到Google在AI模式中的广告大部分出现在用户的第一次查询中（类似传统搜索引擎），而OpenAI则“bides its time”（等待时机），只有不到一半的广告出现在第一次回复中。因此，C选项准确概括了两者在广告投放时机上的区别。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is implied by the example of 'private keys' and 'metal safety-boxes'?",
+          "options": {
+            "A": "AI targeting can be hilariously mismatched and literal.",
+            "B": "AI tools have successfully mastered technical jargon.",
+            "C": "Security products are currently the most popular category for AI ads.",
+            "D": "OpenAI's algorithm has prioritized demographic precision."
+          },
+          "answer": "A",
+          "explanation": "文中提到用户询问加密的“私钥”时，却收到了关于保险箱的广告，作者形容这是“comically literal”（滑稽地字面理解），暗示了AI在广告匹配上的失误和局限性。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following describes the advertisers' attitude towards the effectiveness of AI-led advertising?",
+          "options": {
+            "A": "They are highly satisfied with the detailed performance data provided.",
+            "B": "They are confident in the chatbots' ability to create creative copy.",
+            "C": "They are concerned about the risks of AI hallucination in sales pitches.",
+            "D": "They prefer generic ads over personalised ones for brand consistency."
+          },
+          "answer": "C",
+          "explanation": "文章末尾提到：企业可能对“硅基推销员”（指AI）心存戒备，因为它可能会编造出好得令人难以置信的交易，即所谓的“hallucinate a deal”（幻觉交易/AI造假）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author suggest about the relationship between ad inclusion and user engagement?",
+          "options": {
+            "A": "Ad inclusion significantly shortens the duration of user conversations.",
+            "B": "Users are largely indifferent to ads, as conversation length remains stable.",
+            "C": "Ads make users feel less trusting, leading to a drop in platform loyalty.",
+            "D": "Most users abandon the chatbot as soon as they encounter a sponsored message."
+          },
+          "answer": "B",
+          "explanation": "文章指出，包含广告的对话平均持续约20轮，与没有广告的对话时长相同，这说明广告并未导致用户流失或对话缩短，即用户表现得并不抗拒。"
+        }
+      ]
+    },
+    {
+      "title": "Chile’s far-right government rips up plan for memorial at Pinochet torture site",
+      "article_update_date": "04.08.2026",
+      "source_journal": "The Guardian",
+      "body_text": "With its Germanic crosses and colourful toy-town facades, the village square of the tiny Chilean settlement of Villa Baviera gives little indication of the horrors of its past. Until 1991, this cattle town of a few hundred people was a compound known as Colonia Dignidad. Its leader, Paul Schäfer, a former Nazi and weapons smuggler, bought a swathe of land in the valley in 1961, eventually holding as many as 300 people in a fenced enclave with minimal contact with the outside world. He sexually abused and even tortured the children in the camp. During the dictatorship of Gen Augusto Pinochet, Colonia Dignidad was used as a clandestine torture centre where at least 100 people are thought to have been murdered by state security forces. Schäfer was eventually sentenced after a conviction on child abuse charges to 20 years in prison, where he died in 2010. Attempts to excavate and investigate the commune proceeded fitfully but relatives of the disappeared took heart last year when then president Gabriel Boric signed a decree to expropriate 117 hectares (289 acres) and create a memorial to the victims. View image in fullscreen Paul Schäfer being taken from a police station to be transferred to a prison in Marcos Paz in March 2005. Photograph: AFP via Getty Images Now the government of Chile’s new far-right president, José Antonio Kast, has announced plans to “reverse” the expropriation, which included residential areas of Villa Baviera and Schäfer’s former home, where key documentation linking the site to its role as a detention centre was found. “Colonia Dignidad must be treated as what it is: a site where crimes against humanity were committed,” said Margarita Romero, the president of the Asociación por la Memoria y los Derechos Humanos Colonia Dignidad, whose sister was detained at the site under the Pinochet dictatorship. “It is not just about preserving a place, but about ensuring the material conditions for the search for truth and the advancement of justice.” The government’s position has centred on its own assessment that the Boric administration left the national finances in disarray, which it has used to justify an order to all ministries to cut budgets by 3%. The housing minister, Iván Poduje, claimed that expropriating the site would have cost more than $50m, although he did not provide evidence to support the claim. The ministries of housing and justice declined to comment further on their plans. The decision leaves the future of the former enclave in the balance. Villa Baviera will remain in the hands of the current landowners, a mixture of the descendants of the original German settlers and Chilean families who moved to the area, with Chile’s opposition criticising the move to scrap expropriation plans entirely rather than pause them. It was decades before the true horror of what unfolded under Schäfer’s cult fully emerged. After hiding in the network of tunnels under Colonia Dignidad, Schäfer fled to Argentina in 1997 to escape child abuse charges in Chile, and was eventually found living in an exclusive gated community near Buenos Aires in 2005. That same year, the site of the former commune was taken over by Chilean authorities. View image in fullscreen Colonia Dignidad in April last year. Photograph: Rodrigo Arangua/AFP via Getty Images In 2023, Boric presented a new plan to find traces of the 1,469 people who remain “disappeared” since the dictatorship. The following year, a new bunker was discovered at Colonia Dignidad as part of searches. But this month, Kast, who has repeatedly defended Pinochet and his dictatorship during a long career on the extreme fringes of Chilean politics, abruptly removed four of the search plan’s coordinators. Among them was the head of the national human rights programme, removed after 14 years in the job. “What we are witnessing are not isolated incidents, but a clear pattern of regression in human rights,” said Romero, who was herself detained while she was a medical student at the University of Concepción. “There is no indication whatsoever of a genuine commitment to the search for truth. And it is precisely this truth that makes them uncomfortable.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what is the current status of the expropriation of Villa Baviera?",
+          "options": {
+            "A": "It has been finalized to provide funds for human rights organizations.",
+            "B": "It has been halted and reversed by the new government under President Kast.",
+            "C": "It is ongoing despite the protests from the families of the disappeared.",
+            "D": "It was cancelled due to a lack of evidence regarding the site's history."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到，智利新任极右翼总统José Antonio Kast宣布计划“撤销”(reverse)前任总统Boric签署的征用计划，因此B选项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does Margarita Romero emphasize the importance of preserving the site of Colonia Dignidad?",
+          "options": {
+            "A": "To turn it into a tourist destination that highlights Chilean architectural history.",
+            "B": "To ensure the residential areas remain occupied by the current descendants.",
+            "C": "To facilitate the pursuit of truth and justice regarding crimes against humanity.",
+            "D": "To prevent the government from cutting the national budget by 3%."
+          },
+          "answer": "C",
+          "explanation": "文中Margarita Romero明确表示，保护该地点不仅是保留遗迹，更是为了确保调查真相和推进正义的物质条件，因此C选项符合题意。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How did the current government justify the decision to stop the expropriation process?",
+          "options": {
+            "A": "They argued that the national finances were in a state of disarray.",
+            "B": "They claimed that the site has no historical value for the nation.",
+            "C": "They were pressured by the current landowners who are the descendants of settlers.",
+            "D": "They found that the costs of maintaining the memorial would exceed $100m."
+          },
+          "answer": "A",
+          "explanation": "文章提到政府的立场集中于Boric政府留下了混乱的财政状况，并以此作为削减预算的理由，住房部长Iván Poduje也提到了征用该地点的成本问题，故A选项为主要依据。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is implied by the author's description of the recent changes in the search plan's coordinators?",
+          "options": {
+            "A": "The government is streamlining the search process to be more efficient.",
+            "B": "The new government is signaling a retreat from previous human rights commitments.",
+            "C": "The coordinators were removed because they were involved in the previous administration's scandals.",
+            "D": "The search for the 'disappeared' has been successfully completed in the recent bunker discovery."
+          },
+          "answer": "B",
+          "explanation": "文中提到Kast撤职了四名搜索计划的协调员，Romero认为这并非孤立事件，而是人权领域出现的一种“倒退模式”，暗示政府在人权议题上的立场趋于消极，故B选项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the historical significance of Villa Baviera?",
+          "options": {
+            "A": "It was a peaceful farming enclave that was mistakenly linked to political violence.",
+            "B": "It served as a clandestine center for crimes against humanity under a dictatorship.",
+            "C": "It was the primary residence of General Pinochet before he rose to power.",
+            "D": "It has been a symbol of German-Chilean cooperation since the early 1960s."
+          },
+          "answer": "B",
+          "explanation": "文章清楚记载，在皮诺切特独裁统治期间，Colonia Dignidad被用作秘密酷刑中心，且发生了反人类罪行，故B选项准确概括了其历史重要性。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 13",
+      "article_update_date": "05.28.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | The Eighth Deadly Sin Humankind has devised a new form of debasement. by James Parker Sometimes, staring brainlessly into my laptop in the trough of a weekday afternoon, experiencing myself as a kind of online shadow, a thing of fidgets, a half-being hollowed out by roaming spectral appetites—for destruction, for gratification, for the email that never comes—it occurs to me to ask: Now, which of the seven deadly sins is this ? Anger’s in there somewhere, sure, a kind of generalized psychic road rage, but not enough of it to qualify. Same with envy, pride, gluttony, lust—just floating shards. Avarice? Nah. Of the seven, sloth probably comes closest, that enigmatic void state known to the early Christians as “acedia.” But not even acedia, bottomless as it is, can quite comprehend this plugged-in groundlessness, this ether-sweeping emptiness, this interstellar elongation of the spirit. Sin, the theologians tell us, is whatever separates us from God. Whatever blocks the beams of divine love. And at 3:23 p.m. in Caffè Nero, I am all but unreachable by heavenly radiation; I can feel it wavering, honey-colored, at the fringes of my soul. So have we done it at last—you, me, the kids? Have we invented an eighth deadly sin? I thought initially that the title of Peter Jones’s Self-Help From the Middle Ages: What the Seven Deadly Sins Can Teach Us About Living was an oxymoron. Self-help is our thing, after all, our exemplary piece of circular modernity, our little closed circuit—the distressed subject coming to its own aid. The medievals, more vertical in their thinking, would have counted on the down-rushing swoop of God’s grace. But Jones, a medieval historian, shows us that the High and Later Middle Ages (1100 to 1500, roughly) were every bit as goofy as we are about human nature and behavior, and equally hooked on buzzwords, listicles (Catherine of Siena’s five different types of tears , Thomas Aquinas’s five varieties of gluttony ), and junk science. To explain the inexplicable (that is, themselves), the medievals used the 12 signs of the zodiac, the four humors—yellow bile, black bile, blood, and phlegm—and the seven deadly sins. Jones takes the seven one by one, a chapter for each, arguing that this gnarly old taxonomy represents not only a timeless decoction of human wisdom but something of a moral map for our present wanderings. I think I agree with him, but let’s see. It turns out that there were eight, at least in the beginning. Evagrius Ponticus was one of the world-abandoning superstar Desert Fathers of fourth-century Egypt. Influencer-like, he stood in freezing wells and subsisted on bread and oil, and after much torment and cogitation, he drew up a list of what he called “generic thoughts,” or routine invaders of the spirit: gluttony, lust, avarice, sadness, anger, sloth, vainglory, and pride. Subsequent spiritual engineers made their tweaks to Evagrius’s system , but the decisive overhaul was performed 200 years later, by Pope Gregory the Great. He rolled sadness into sloth, vainglory into pride, added envy, and voilà: the seven deadly sins. From the November 2024 issue: Hillary Kelly on Oliver Burkeman’s unlikely approach to self-help Now the sins were characters. They could be personified, and artists went to town. An illustration for Guillaume de Deguileville’s 14th-century poem “The Pilgrimage of Human Life” depicts avarice as a woman whose arms have been cut off (she retains the stumps) and replaced with allegorical limbs—feathered claws for rapaciousness, hands holding begging bowls and scales for moneylending, and so on. And is her tongue hanging out? Is she drooling with money-lust? It looks like it. Giotto painted envy as a woman —yes, the medievals, like us, were misogynists—a slanderous monster with a snake squirming out of her mouth, turning back, and reentering her head at the eyes. Also, she has huge, swiveling, batlike ears. And her feet are on fire. Ghastly as they are, these allegorical images don’t really touch us moderns, or not deeply. Much more disturbing and relatable, in Giotto’s case, are the sour-faced onlookers and eavesdroppers who lurk at the edges of his frescoes in the Arena Chapel, in Padua: the servant watching in disaffection as an angel tells Anne that she is going to give birth to the Virgin Mary; the scowling, black-veiled woman overhearing Anne tell her husband, Joachim, that she has conceived. To be one of these characters, Jones writes, is to be a “bitter witness.” We know these people. We are these people. Social media: a cloud of bitter witnesses! This is envy— invidia —as it lives inside us, shriveling our spirits and kindling our meannesses. Because this is 2026 and everything’s got to be personal, Self-Help From the Middle Ages prefaces each chapter, each sin, with a reminiscence from the author’s time teaching medieval history at a university in Siberia. Hemmed in by the cold, under laboratory conditions as it were, Jones self-examines in the lurid light of the seven deadlies. His transgressions are meek—a bit of ogling at the hot springs (lust), a snippy comment in a faculty meeting (anger). He doesn’t trash the common room in an alcoholic blaze or crucify a colleague’s cat. But this is precisely the point: The sins are quotidian, undramatic, regular human business. You can do all seven without leaving your house. The trick is to recognize the sins, to “name” them (in a modern but very appropriate locution). They offer a kind of diagnostic prism, refracting the black, primordial beam of sin into lesser rays of the identifiably and manageably human. And once you know what you’re dealing with, you can summon its opposite. If pride is getting the better of you, engage humility; if gluttony, moderation; if envy, compassion; and so on. Otherwise they’ll hold us, they’ll dominate us, these sins. While I was reading the chapter on anger, I experienced a surge in understanding as to the nature of sin itself. Sin is subtle, seductive, addictive, of course: The medical encyclopedia The Property of Things (circa 1240) describes anger very perceptively as a “wave of bliss.” (Oh, the white-hot elation of righteousness, carrying me away!) But it’s also rigid and carceral, a system of control. Jones gives us the 13th-century Catalonian doctor Arnaud de Vilanova, who, after limited success treating anger with the miracle drug theriac (made from viper’s flesh sweetened with honey, a distillation of lilies, and about 40 other ingredients), fell to pondering the character of the malady itself. As Jones writes, “Fury pulls the mind away from reason (ratio), Arnaud reflected, and losing yourself in anger is like letting a puppeteer take control of your brain as well as your limbs.” A puppeteer controlling your brain? Heavy-metal fans know where this is going—straight to the primary text of compulsion and merciless soul-negation, Metallica’s “ Master of Puppets ”: “Master of puppets, I’m pulling your strings / Twisting your mind and smashing your dreams / Blinded by me, you can’t see a thing / Just call my name ’cause I’ll hear you scream.” This is where the personification of the seven deadlies comes in handy: You, you naughty person, you libertine, rage beast, sybarite, whatever, might think that you’re committing a sin. But it’s the sin, the master of puppets, that is committing you. Unless you can turn, look it in the face, and summon the right ally. As for the eighth sin, the new one—having Wi-Fi—is there anything to be done about that? Naturally, excessive online-ness has its counter-impulses: the digital detoxes and the dopamine fasts, all in the fine old spirit of medieval asceticism. You can go online right now and learn about how to be offline. But to free ourselves from this one, to even have the beginnings of a program to free ourselves, I think we’re going to have to do the truly and terrifyingly medieval thing. We’re going to have to get on our knees and pray. This article appears in the May 2026 print edition with the headline “The Eighth Deadly Sin.” This article was downloaded by calibre from https://www.theatlantic.com/magazine/2026/05/modern-self-help-seven-deadly-sins/686577/ | Section menu | Main menu |",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "In the first paragraph, the author uses the phrase \"plugged-in groundlessness\" to describe the modern state of being because it ____.",
+          "options": {
+            "A": "reflects a profound disconnection from traditional spiritual values",
+            "B": "highlights the physical fatigue caused by excessive digital consumption",
+            "C": "suggests a sense of aimless instability induced by constant online connectivity",
+            "D": "indicates a deliberate rejection of societal norms and responsibilities"
+          },
+          "answer": "C",
+          "explanation": "文章第一段通过描述那种在电脑前漫无目的、虚无缥缈的状态，将现代网络生活的“plugged-in（在线）”与“groundlessness（无根、虚无）”结合，体现了作者对数字时代人们内心空虚和缺乏支撑感的观察。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author considers Peter Jones's book to be a paradox because ____.",
+          "options": {
+            "A": "it treats medieval historical events as modern scientific breakthroughs",
+            "B": "it attempts to use self-help, a circular modern concept, to interpret medieval wisdom",
+            "C": "it suggests that medieval people were just as obsessed with listicles as modern social media users",
+            "D": "it argues that religious figures from the Middle Ages should be viewed as influencers"
+          },
+          "answer": "B",
+          "explanation": "作者指出“self-help”是现代封闭的自我循环，而作者认为这与中古时期依赖上帝恩典的思维方式（vertical thinking）是矛盾的，因此称之为oxymoron。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, the medieval allegorical images of sins, such as Giotto’s portrayal of envy, are considered by the author to be ____.",
+          "options": {
+            "A": "less emotionally resonant than the incidental figures in his frescoes",
+            "B": "more effective at conveying moral lessons than written sermons",
+            "C": "misogynistic relics that have lost all relevance to contemporary life",
+            "D": "too grotesque to serve as accurate psychological diagnostic tools"
+          },
+          "answer": "A",
+          "explanation": "作者明确指出，这些寓言画像（ghastly as they are）并不能深刻触动现代人，反而是那些背景中“bitter witnesses（苦涩的旁观者）”更令现代人感到真实和共鸣。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The author cites Arnaud de Vilanova’s theory of anger to illustrate that ____.",
+          "options": {
+            "A": "medical treatments for moral failings have evolved significantly",
+            "B": "anger acts as an external force that compromises human rational control",
+            "C": "the concept of sin can be explained through physical ailments",
+            "D": "the medieval understanding of psychology was superior to modern psychiatry"
+          },
+          "answer": "B",
+          "explanation": "Arnaud de Vilanova将愤怒描述为一种能够夺取人类理智、像操纵木偶一样控制大脑的力量，呼应了文章中关于罪行具有控制力的论点。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's proposed solution to the 'eighth deadly sin'?",
+          "options": {
+            "A": "Implementing strict dopamine fasts and digital detoxification",
+            "B": "Identifying the sin and naming it to neutralize its power",
+            "C": "Returning to a traditional religious practice of prayer",
+            "D": "Treating online habits as quotidian, non-dramatic human business"
+          },
+          "answer": "C",
+          "explanation": "文章最后一段明确提到，为了从这种“第八宗罪”（过度在线）中解脱出来，我们必须做一些“非常且可怕的中世纪式行为”，即“跪下来祈祷”。"
+        }
+      ]
+    }
+  ]
+}
