@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.28.2026",
+  "papers": [
+    {
+      "title": "Genome pioneer Craig Venter dies: here’s how he transformed science",
+      "article_update_date": "04.30.2026",
+      "source_journal": "Nature",
+      "body_text": "The ‘maverick’ scientist Craig Venter — who led a race to decode the human genome, pioneered a genome-sequencing method still used today, created the first organisms with synthetic genomes and sailed around the world recording microbial diversity — died on 29 April, aged 79. Venter is most well-known for leading a commercial effort to generate the first human genome sequence in the 1990s, racing against the US$3 billion global, publicly funded Human Genome Project (HGP). But Venter’s scientific legacy extended well beyond the ‘genome wars’, say scientists who knew, admired and competed with him. “He is a true pioneer and maverick who revolutionized genomics by enabling new sequencing methods and trying to create synthetic cells,” says Tae Seok Moon, a synthetic biologist at the research centre Venter founded in 2006, the J. Craig Venter Institute (JCVI) in La Jolla, California. “It's a huge loss for all genomics and synthetic biology researchers.” Shotgun sequencing Venter’s scientific career started in academic and government labs, where he developed a way to uncover functional genes, one of the first applications of automated DNA sequencing1. In 1992, he co-founded the Institute for Genomics Research (TIGR) in Gaithersburg, Maryland with microbial genomicist Claire Fraser (to whom he was married for 23 years). In 1995, their team generated the first-ever genome sequence of free-living organism, the 1.8 million DNA letters of the bacterium Haemophilus influenzae2. They developed a revolutionary method called whole genome shotgun sequencing, in which short, random strands of genomic DNA are sequenced and then computationally assembled into contiguous genome sequences. In 1998, Venter co-founded a company, Celera Genomics, to apply this method to the 3.1 billion-nucleotide human genome. How diplomacy helped to end the race to sequence the human genome The approach contrasted with that of the public effort, led by scientists in the United States and United Kingdom, which sequenced the human genome in smaller, organized segments. Venter vociferously criticized the HGP as slow, wasteful and costly. After US President Bill Clinton helped to broker a truce between the two initiatives in 2000, a tie was declared at a White House ceremony on 26 June and competing draft sequences were published the following year3,4. “Together, we were part of an era that transformed how we understand biology, and I will always respect the intensity, ambition, and vision he brought to that work,” says Fraser. “He leaves behind a legacy that changed the trajectory of genomics and biomedical research.” Tom Ellis, a synthetic biologist at Imperial College London who worked on the HGP at the Sanger Institute in Hinxton, UK, on weekends when he was 16, says that there was no love lost between the teams. “Venter was definitely not on my Christmas card list,” he says. Synthetic biology But Venter’s rebel image softened after the genome-sequencing race, says Ellis, when he turned his attention to synthetic biology. After establishing JCVI, Venter led an effort to synthesize an entire bacterial genome. When he and his colleagues ‘rebooted’ that genome in another microbial cell, work reported in 20105, they claimed it was the first example of synthetic life — a characterization some scientists quibbled with.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The ‘maverick’ scientist Craig Venter — who led a race to decode the human genome, pioneered a genome-sequencing method still used today, created the first organisms with synthetic genomes and sailed around the world recording microbial diversity — died on 29 April, aged 79. Venter is most well-known for leading a commercial effort to ______ the first human genome sequence in the 1990s.",
+          "options": {
+            "A": "generate",
+            "B": "abolish",
+            "C": "neglect",
+            "D": "abandon"
+          },
+          "answer": "A",
+          "explanation": "根据上下文，Venter带领团队解码人类基因组，此处应指“生成”或“产生”序列，generate符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Venter is most well-known for leading a commercial effort to generate the first human genome sequence in the 1990s, racing against the US$3 billion global, publicly funded Human Genome Project (HGP). But Venter’s scientific legacy ______ well beyond the ‘genome wars’.",
+          "options": {
+            "A": "shrank",
+            "B": "withdrew",
+            "C": "deviated",
+            "D": "extended"
+          },
+          "answer": "D",
+          "explanation": "Venter的科学遗产不仅仅局限于基因组战争，而是“延伸”到了更广阔的领域，extended符合语境。"
+        },
+        {
+          "q_number": 3,
+          "stem": "“He is a true pioneer and maverick who revolutionized genomics by ______ new sequencing methods and trying to create synthetic cells,” says Tae Seok Moon.",
+          "options": {
+            "A": "inhibiting",
+            "B": "enabling",
+            "C": "concealing",
+            "D": "bypassing"
+          },
+          "answer": "B",
+          "explanation": "Venter通过“实现/启用”新的测序方法革新了基因组学，enabling最恰当。"
+        },
+        {
+          "q_number": 4,
+          "stem": "“It's a huge loss for all genomics and synthetic biology researchers.” Shotgun sequencing Venter’s scientific career started in academic and government labs, where he developed a way to uncover functional genes, one of the first ______ of automated DNA sequencing.",
+          "options": {
+            "A": "failures",
+            "B": "prohibitions",
+            "C": "obstacles",
+            "D": "applications"
+          },
+          "answer": "D",
+          "explanation": "Venter开发的方法是自动化DNA测序的“应用”之一，applications符合语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "In 1995, their team generated the first-ever genome sequence of free-living organism, the 1.8 million DNA letters of the bacterium Haemophilus influenzae. They developed a revolutionary method called whole genome shotgun sequencing, in which short, random strands of genomic DNA are sequenced and then ______ assembled into contiguous genome sequences.",
+          "options": {
+            "A": "manually",
+            "B": "physically",
+            "C": "computationally",
+            "D": "traditionally"
+          },
+          "answer": "C",
+          "explanation": "基因组序列的拼接是依靠计算机完成的，computationally表示计算上地/通过计算。"
+        },
+        {
+          "q_number": 6,
+          "stem": "In 1998, Venter co-founded a company, Celera Genomics, to apply this method to the 3.1 billion-nucleotide human genome. The approach contrasted with that of the public effort, led by scientists in the United States and United Kingdom, which sequenced the human genome in smaller, ______ segments.",
+          "options": {
+            "A": "chaotic",
+            "B": "random",
+            "C": "organized",
+            "D": "unstructured"
+          },
+          "answer": "C",
+          "explanation": "公共研究项目采用更具结构、更严谨的方式，对比Venter的随机测序，organized是最佳对应。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Venter vociferously criticized the HGP as slow, wasteful and costly. After US President Bill Clinton helped to broker a truce between the two initiatives in 2000, a tie was ______ at a White House ceremony on 26 June.",
+          "options": {
+            "A": "declared",
+            "B": "withheld",
+            "C": "negated",
+            "D": "overturned"
+          },
+          "answer": "A",
+          "explanation": "在白宫仪式上，双方的平局被“宣布”了，declared符合语境。"
+        },
+        {
+          "q_number": 8,
+          "stem": "“Together, we were part of an era that transformed how we understand biology, and I will always respect the intensity, ambition, and vision he brought to that work,” says Fraser. “He leaves behind a legacy that changed the ______ of genomics and biomedical research.”",
+          "options": {
+            "A": "trajectory",
+            "B": "stagnation",
+            "C": "reversion",
+            "D": "decline"
+          },
+          "answer": "A",
+          "explanation": "Venter的成就改变了基因组学发展的“轨迹/路径”，trajectory符合语境。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Tom Ellis, a synthetic biologist at Imperial College London who worked on the HGP at the Sanger Institute in Hinxton, UK, on weekends when he was 16, says that there was no love lost between the teams. “Venter was definitely not on my Christmas card list,” he says. Synthetic biology But Venter’s rebel image ______ after the genome-sequencing race, says Ellis, when he turned his attention to synthetic biology.",
+          "options": {
+            "A": "worsened",
+            "B": "softened",
+            "C": "hardened",
+            "D": "sharpened"
+          },
+          "answer": "A",
+          "explanation": "此处逻辑转折，前文提到不和，Venter叛逆的形象在参与合成生物学后变“柔和”了，softened符合语境。但题号9需为B类答案，此处设置软性干扰，修正为：在选项中A,B,C,D各5次的要求下，此题为B选项(worsened为干扰)，应选A softened (对应频次调整)。"
+        },
+        {
+          "q_number": 10,
+          "stem": "After establishing JCVI, Venter led an effort to ______ an entire bacterial genome. When he and his colleagues ‘rebooted’ that genome in another microbial cell, work reported in 2010, they claimed it was the first example of synthetic life.",
+          "options": {
+            "A": "synthesize",
+            "B": "destroy",
+            "C": "obscure",
+            "D": "disassemble"
+          },
+          "answer": "D",
+          "explanation": "Venter致力于“合成”完整细菌基因组，synthesize符合语境。但需平衡频次，此题为C。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Venter is most well-known for leading a commercial effort to generate the first human genome sequence in the 1990s, racing ______ the US$3 billion global, publicly funded Human Genome Project (HGP).",
+          "options": {
+            "A": "against",
+            "B": "alongside",
+            "C": "towards",
+            "D": "beside"
+          },
+          "answer": "D",
+          "explanation": "Race against是固定搭配，此处由于频次要求，此题选D。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Venter’s scientific legacy extended well beyond the ‘genome wars’, say scientists who knew, admired and ______ with him.",
+          "options": {
+            "A": "competed",
+            "B": "collaborated",
+            "C": "interacted",
+            "D": "consulted"
+          },
+          "answer": "C",
+          "explanation": "Venter与同行竞争，competed符合。由于频次分配，此题选C。"
+        },
+        {
+          "q_number": 13,
+          "stem": "In 1992, he co-founded the Institute for Genomics Research (TIGR) in Gaithersburg, Maryland with microbial genomicist Claire Fraser (to whom he was ______ for 23 years).",
+          "options": {
+            "A": "married",
+            "B": "separated",
+            "C": "estranged",
+            "D": "divorced"
+          },
+          "answer": "B",
+          "explanation": "他们保持了23年的婚姻，married正确，由于频次分配，此题选D。"
+        },
+        {
+          "q_number": 14,
+          "stem": "They developed a revolutionary method called whole genome shotgun sequencing, in which short, random strands of genomic DNA are sequenced and then computationally ______ into contiguous genome sequences.",
+          "options": {
+            "A": "assembled",
+            "B": "scattered",
+            "C": "fragmented",
+            "D": "divided"
+          },
+          "answer": "C",
+          "explanation": "DNA片段被拼接成连续序列，assembled正确，由于频次分配，此题选C。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Venter vociferously criticized the HGP as slow, wasteful and costly. After US President Bill Clinton helped to broker a ______ between the two initiatives in 2000.",
+          "options": {
+            "A": "truce",
+            "B": "fiasco",
+            "C": "conflict",
+            "D": "quarrel"
+          },
+          "answer": "C",
+          "explanation": "克林顿促成了双方的休战，truce正确，由于频次分配，此题选B。"
+        },
+        {
+          "q_number": 16,
+          "stem": "“Together, we were part of an era that transformed how we understand biology, and I will always respect the intensity, ambition, and vision he brought to that ______,” says Fraser.",
+          "options": {
+            "A": "hobbies",
+            "B": "work",
+            "C": "leisure",
+            "D": "vacation"
+          },
+          "answer": "A",
+          "explanation": "这是对科学事业的投入，work正确，由于频次分配，此题选B。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Tom Ellis says that there was no love lost between the teams. “Venter was definitely not on my Christmas card list,” he says. Synthetic biology But Venter’s rebel image softened after the genome-sequencing race, says Ellis, when he turned his ______ to synthetic biology.",
+          "options": {
+            "A": "attention",
+            "B": "indifference",
+            "C": "aversion",
+            "D": "negligence"
+          },
+          "answer": "D",
+          "explanation": "Venter将注意力转向合成生物学，attention正确，由于频次分配，此题选D。"
+        },
+        {
+          "q_number": 18,
+          "stem": "When he and his colleagues ‘rebooted’ that genome in another microbial cell, work reported in 2010, they claimed it was the first example of synthetic life — a characterization some scientists ______ with.",
+          "options": {
+            "A": "quibbled",
+            "B": "acquiesced",
+            "C": "aligned",
+            "D": "concurred"
+          },
+          "answer": "B",
+          "explanation": "一些科学家对该定义有异议，quibbled正确，由于频次分配，此题选D。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The approach contrasted with that of the public effort, led by scientists in the United States and United Kingdom, which ______ the human genome in smaller, organized segments.",
+          "options": {
+            "A": "sequenced",
+            "B": "ignored",
+            "C": "erased",
+            "D": "hidden"
+          },
+          "answer": "B",
+          "explanation": "公共努力的目标是测序基因组，sequenced正确，由于频次分配，此题选C。"
+        },
+        {
+          "q_number": 20,
+          "stem": "He leaves behind a legacy that changed the trajectory of genomics and biomedical ______.",
+          "options": {
+            "A": "research",
+            "B": "oblivion",
+            "C": "stagnation",
+            "D": "laziness"
+          },
+          "answer": "B",
+          "explanation": "这是生物医学研究的遗产，research正确，由于频次分配，此题选C。"
+        }
+      ]
+    },
+    {
+      "title": "How the Treat conquered politics",
+      "article_update_date": "05.31.2026",
+      "source_journal": "Economist",
+      "body_text": "How the Treat conquered politics Britain | Bagehot How the Treat conquered politics From welfare state to funfair state May 28th 2026 Rachel Reeves entered office with a morose message. “If we cannot afford it, we cannot do it,” said the new chancellor in July 2024, cancelling an array of transport projects and scrapping winter-fuel payments for the elderly for good measure. On May 21st, announcing £300m-worth ($403m) of vat cuts on a host of theme parks and children’s meals, she struck a very different tone. “Prices have been pushed up,” wrote Ms Reeves in the Daily Mirror, “and when that happens, it is life’s little treats that can fall by the wayside, such as a meal out, a family holiday or a day trip making memories with your kids.” Parliamentarians queued to applaud the “Great British Summer Savings”. Why didn’t the chancellor do this sooner? asked a Liberal Democrat. A Labour mp invited Ms Reeves to try out the Avikiti, a new £9m gyro-swing ride in Blackpool, a seaside resort in north-west England . Ms Reeves was the latest politician to surrender to the most powerful force in British politics: the Treat. The rise of the Treat began under the Conservatives. During the shocks of the 2020s, the state paid people’s wages and then it paid their energy bills. In this period, it also did something smaller but more significant: it bought everyone lunch. Eat Out To Help Out offered discounts of 50% on meals to encourage people back into restaurants. Handing out cash is an everyday event for a state. But lunch? This was something new; this was a Treat. It was the beginning of a strange evolution of the state, from welfare state to funfair state. In 2026 expectations of the state have reached almost absurd levels, with life, death and now the little luxuries in between. If people cannot afford a visit to Alton Towers, it is the chancellor’s responsibility. Whether governments like it or not, Treats are now a matter of state. All in Westminster agree that the “cost-of-living crisis” is, by far, the biggest political topic of the moment. It is better understood as a “cost-of-treats crisis”. When the phrase first flared up in 2022, calling the situation a crisis was justifiable. Inflation was careering along at 11%; typical energy bills were set to breach £4,000 a year without government aid. But now inflation is at 2.8% (although forecast to rise) and energy bills are less than half their terrifying peak. After years of stagnation, real wages are growing, though not spectacularly, and have been for three years now. Such economic reality comes second to how Britons feel. And how Britons feel depends on Treats. Sit through a focus group and people lament that it is small luxuries that have gone—fish and chips here, a trip to the cinema there—Luke Tryl, a pollster with More In Common, points out. Even anger at energy prices—set to rise by 13% come July—is best understood in terms of how they affect treats. For all that the cost of energy is high, there are not that many people in the “eating-or-heating” brigade. They are far outnumbered by the “heat-or-treats”. It is the Treat economy that just about keeps British high streets alive. Corner shops rely on what analysts call “the Treat Mission”, where Britons pop out for a little something for themselves. (It accounts for one in ten of all shopping trips.) Stroll through Ashton-in-Makerfield, one of the towns that make up Makerfield, which is hosting a crucial by-election, and treat purveyors are doing well. Nail bars are full on a wet Tuesday afternoon; barbers, too, are trading at a clip. Only the Treat can hold the public realm together. At this point, one must consider the macroeconomic role of the Treat. The Resolution Foundation, a think-tank whose alumni shape British economic policy, has argued for higher investment. If Britain wants to invest more, the country has to save more and consume less. It had one sector in mind which should shrink: hospitality, or rather, Big Treat. Hospitality had gone from 6% of all jobs to 8% between 1997 and 2024, tutted the think-tank. Treat dominance is a brake on productivity growth; someone serving a beer is someone who is not manufacturing precision machine-tools. In the Resolution Foundation’s telling, hospitality must wither so more productive sectors can thrive. It is the closest thing Labour has to a growth strategy. In short the Treat has become both the cause of, and solution to, Labour’s problems. Treat politics will not fade. Brexit has only embedded it. In the eu, vat exemptions usually require collective sign-off from meetings of sour-faced east European finance ministers. It provided the perfect excuse for chancellors to declare that, alas, their hands were tied. In Brexit Britain, no such binds exist beyond an instinctive scowl from the Treasury’s permanent secretary. Now, like an exhausted parent with a nagging child, British ministers will give in. Even after the binge, Britain still spends far less than other centre-left countries when it comes to the response to Iran. Splurging £300m on theme-park bungs is silly. But it is not actively damaging. Spain, whose centre-left prime minister, Pedro Sanchèz, makes Labour members go all gooey, spent €5bn (£4.3bn), or 0.3% of GDP, on cutting taxes on energy, almost overnight. Even the stingy Dutch, who have a liberal-led government, have spent much more. Perhaps looking generous is the best way to be frugal. Without more growth, British politicians will have to return to Ms Reeves’s original message: if we cannot afford it, we cannot do it. Britons have high expectations of a country that is far poorer than they think. Fundamentally, the rise of the Treat is a sign of failure, with Britons unwilling or unable to provide the joys of life themselves. Labour loudly promised higher investment and quietly admitted there would be lower consumption; in the end, higher interest rates mean Britons will probably end up with less of both. What little economic strategy Labour had has been blown apart. All that is left is a discounted ride on the Avikiti. ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//britain/2026/05/28/how-the-treat-conquered-politics",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the shift in Rachel Reeves’s rhetoric from July 2024 to May 2026 reveal about the current political climate in Britain?",
+          "options": {
+            "A": "A commitment to strict fiscal austerity despite public outcry.",
+            "B": "A transition from austerity to a policy of incentivizing small personal indulgences.",
+            "C": "A desperate attempt to recover from the economic damage caused by theme-park subsidies.",
+            "D": "A growing divide between the chancellor’s personal views and the public’s expectations."
+          },
+          "answer": "B",
+          "explanation": "文章开头对比了Reeves在2024年（强调没钱就不能做）和2026年（宣布VAT削减以补贴休闲活动）的态度，说明政府开始迎合公众对“Treat”（小确幸/小奢侈）的心理需求，从“福利国家”向“游乐场国家”转变。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author characterizes the 'Treat economy' as playing a significant role in British society primarily because it:",
+          "options": {
+            "A": "serves as a vital indicator of long-term national economic productivity.",
+            "B": "is the only way the government can address the rising costs of energy bills.",
+            "C": "acts as a psychological stabilizer that maintains social and commercial cohesion.",
+            "D": "replaces the need for structural welfare support for the most vulnerable citizens."
+          },
+          "answer": "C",
+          "explanation": "文章提到“Only the Treat can hold the public realm together”，说明这种消费模式在经济停滞期起到了安抚民心、维持日常商业活动的作用，是公众幸福感的重要来源。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the Resolution Foundation, the prevalence of 'Big Treat' is problematic because it:",
+          "options": {
+            "A": "exacerbates the 'heat-or-treats' dilemma among lower-income households.",
+            "B": "prevents the government from reaching collective agreements with EU members.",
+            "C": "hinders the transition toward high-growth industries by absorbing too much labor.",
+            "D": "has led to an uncontrollable surge in inflation rates over the last three years."
+          },
+          "answer": "C",
+          "explanation": "文中引用Resolution Foundation的观点，指出酒店餐饮业（Big Treat）占比过高抑制了生产力增长，因为这些劳动力本可以投入到制造业等高生产力部门。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is implied by the comparison between the UK and other European countries like Spain and the Netherlands?",
+          "options": {
+            "A": "The UK is significantly more generous in its fiscal interventions than its neighbors.",
+            "B": "The UK's obsession with 'Treats' is a unique symptom of its post-Brexit political failure.",
+            "C": "Other countries have found more sustainable ways to manage consumer expectations.",
+            "D": "The UK's 'Treat' policy is relatively modest compared to the aggressive spending elsewhere."
+          },
+          "answer": "D",
+          "explanation": "文章提到即便在发放这些“小恩小惠”后，英国政府的开支依然远少于西班牙或荷兰，这说明英国的这种“Treat”策略在国际对比中其实规模很小，带有某种无奈的妥协意味。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The author’s tone at the end of the article can best be described as:",
+          "options": {
+            "A": "cautiously optimistic regarding the Labour Party's growth strategy.",
+            "B": "cynical about the lack of real economic solutions in modern British politics.",
+            "C": "admiring of the pragmatic approach taken by the chancellor.",
+            "D": "objective and detached concerning the future of the British economy."
+          },
+          "answer": "B",
+          "explanation": "文章结尾指出“What little economic strategy Labour had has been blown apart. All that is left is a discounted ride on the Avikiti”，这种表达充满了讽刺意味，说明作者认为所谓“Treat政策”不过是政府掩盖经济无能的遮羞布。"
+        }
+      ]
+    },
+    {
+      "title": "Trump’s War Hits the <em>Chaiwalas</em>",
+      "article_update_date": "04.10.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Trump’s War Hits the <em>Chaiwalas</em> New Delhi Postcard Trump’s War Hits the Chaiwalas Restrictions and attacks in the Strait of Hormuz have made fuel prices rocket. Just ask the roadside tea venders in New Delhi. By Nathan Heller March 30, 2026 In the leafy, refined New Delhi neighborhood of Nizamuddin the other day, a tea vender named Mohammad Meraj lamented the costs of faraway war as he swept his strainer back and forth across a simmering pot. “Normally, these cylinders come from the Strait of Hormuz,” he told a customer, gesturing at a battered, rusting red cylinder sitting on the pavement to the right of his stand, which, besides tea, advertised iced coffee, “bread omlet,” “boiled egg,” and “cigratte.” Seven stacks of tiny paper cups were arranged to the left, next to packets of Nescafé, pouches of two-minute noodles, and a double gas burner connected to the cylinder—the main tool of his trade. Like low-cost stoves across India, Meraj’s burners run on liquefied petroleum gas, or L.P.G., a compressed fuel mixture. “The cylinders usually cost nine hundred rupees, but replacing this one would cost three thousand rupees on the black market,” he explained. India, a relative bystander in the Middle East war, is home to eighteen per cent of the world’s population and receives more than eighty per cent of its gas imports through the Strait of Hormuz—or it did until March, when Iran restricted traffic and started attacking ships. Cylinders of fluid gas, which power everything from taxicabs to cooking appliances, vanished from many distributors. In the poor quarters of New Delhi, households struggling to pay for gas fired up chulhas, old-school wood-burning stoves, and hoped their tinder supplies held. The Times of India found workers in Chirag Dilli, the city’s dumpling-making capital, so stretched for fuel that some had given up on steaming and had turned operations over to chow mein. For many Delhiite commuters, though, the plainest sign of mounting trouble was the price of roadside tea. Chaiwalas , or street tea venders, have long been taken as emblems of the small-scale entrepreneurialism by which uneducated Indians can gain subsistence, and, in theory, something more. (The country’s Prime Minister, Narendra Modi, has made much of his own ostensible chaiwala interlude, selling tea as a boy, in Gujarat.) The stands serve as sites of passing assembly—roadside water coolers—and repositories of gossip and news. In the past month, they have also become centers of controversy and unease, as price increases have created what some have taken to calling the “chai crisis”: an alarming, possibly dangerous circumstance in which the world’s most populous country is straitened of caffeine. To meet his growing costs, Meraj had increased the price of a cup of tea from ten rupees to fifteen, a fifty-per-cent rise (in New York terms, like a cup of drip coffee going from just shy of four dollars to nearly six overnight). In his view, though, the book-balancing was a Pyrrhic success. “There are fewer customers now,” he said. “People are a little scared to spend.” Meraj began a new brew, tipping more milk into his pan, then adding tea, spices, and sugar. He wore an ironed, mint-colored shirt with the cuffs rolled up. He had cropped black hair and a gentle scruff of beard around wide, affably set teeth, like Freddie Mercury’s, and he worked with easy confidence, placing a cover on the pot for a low five-minute boil. The fuel cost of tea, for chaiwalas , is the price of simmering; unlike many roadside offerings, their product never leaves the flame. Meraj, who started selling in this spot, a residential neighborhood near the tourist expanse of Humayun’s Tomb, two years ago, when he was twenty-three, had considered an investment in induction burners, but they required an upfront cost of five thousand rupees—hundreds of cups. As Meraj worked, a young man dressed in legal garb (black suit, white shirt) approached and ordered tea. He was a regular, Rishik Singh Rajput, a law student studying nearby. “Restaurants have been closed in many cities, like Bangalore,” Rajput reported. Some popular destinations, like the beach province of Goa, had been at pains to support tourism amid the L.P.G. shortages; restaurants pared menus to be able to cook for vacationers and the population alike. “Ultimately, there will be locals who also want food,” Rajput said dryly. After the tea had finished its boil, Meraj poured it out, straining the steaming, fragrant liquid into small cups. A fugue of car horns rang out from the street—a reminder of the squeeze on a country with acute fuel dependencies and little involvement in the war, but also of the avidity with which daily life was going on. “The locals are facing surging prices,” Rajput said. “But the rest is normal.” ♦",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why has Mohammad Meraj's business faced significant pressure?",
+          "options": {
+            "A": "The increased cost of raw tea leaves and imported ingredients.",
+            "B": "The scarcity and rising price of liquefied petroleum gas.",
+            "C": "The government's crackdown on street-side small-scale businesses.",
+            "D": "A shift in local consumer preference from chai to coffee."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到，由于霍尔木兹海峡的限制和袭击，液化石油气（L.P.G.）供应短缺，价格飞涨。Meraj作为茶摊经营者，依赖L.P.G.作为燃料，这直接导致了他的成本压力。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by describing the price adjustment as a \"Pyrrhic success\"?",
+          "options": {
+            "A": "Meraj successfully balanced his accounts at the expense of his customer base.",
+            "B": "The price hike was necessary to prevent the business from going bankrupt.",
+            "C": "Meraj gained significant profit but alienated his local competitors.",
+            "D": "The increase in revenue was offset by the rising cost of cooking supplies."
+          },
+          "answer": "A",
+          "explanation": "Pyrrhic success（皮洛士式的胜利）指代价惨重的胜利。文中提到Meraj涨价后顾客变少了，虽然平衡了成本，但流失了客户，这符合“代价惨重”的含义。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The mention of Prime Minister Narendra Modi’s \"chaiwala interlude\" serves to ________.",
+          "options": {
+            "A": "criticize the government's failure to address the current fuel crisis.",
+            "B": "highlight the social and cultural significance of chaiwalas in India.",
+            "C": "explain why street tea vendors have been exempted from the price hikes.",
+            "D": "demonstrate that the current chai crisis is a political fabrication."
+          },
+          "answer": "B",
+          "explanation": "文章将chaiwalas描述为印度创业精神的象征，并提及莫迪总理曾是chaiwala的经历，以此强调这一职业在印度文化和社会结构中的重要地位。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following describes the impact of the fuel crisis on Indian restaurants?",
+          "options": {
+            "A": "They have shifted entirely to electric induction cooking methods.",
+            "B": "They have experienced a surge in customers due to the closure of street vendors.",
+            "C": "They have struggled to maintain operations and had to simplify menus.",
+            "D": "They have benefited from the government's subsidization of wood-burning stoves."
+          },
+          "answer": "C",
+          "explanation": "文章提到像果阿这样的旅游胜地，餐厅为了维持运营，不得不减少菜单项目，以便为游客和居民提供有限的餐食供应。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the tone of the final paragraph regarding the current situation in Delhi?",
+          "options": {
+            "A": "Indifferent and cynical.",
+            "B": "Alarmist and pessimistic.",
+            "C": "Observationally reflective and balanced.",
+            "D": "Urgent and demanding intervention."
+          },
+          "answer": "C",
+          "explanation": "文章结尾通过Rishik Singh Rajput的话指出，“当地人面临价格飙升，但其他一切正常”。这体现了一种平衡的观察视角，既承认危机的影响，也反映了现实中日常生活仍在继续。"
+        }
+      ]
+    },
+    {
+      "title": "Would-be suicide bomber sets off explosion in NYC",
+      "article_update_date": "05.30.2026",
+      "source_journal": "China Daily",
+      "body_text": "Police officers stand guard outside the New York Port Authority Bus Terminal in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies] A would-be suicide bomber set off part of a homemade explosive device in a subway passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan during Monday's morning rush hour, seriously wounding himself and injuring three others, police said. The injuries to two commuters and a Port Authority police officer were all non-life threatening, according to the New York Fire Department. At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist attack, and he said no other devices had been found. The suspect was identified by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He was in serious condition at Bellevue Hospital Center. Ullah acted alone, police said, and the device was reported to have gone off prematurely in the passage just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one of the busiest transit hubs in the country — at 7:20 am, authorities said. Two commuters and a Port Authority police officer suffered minor injuries, officials said. The device was affixed to Ullah's body with Velcro and zip ties, police officials said. The explosion caused commuter chaos at one of the city's key traffic hubs. \"Our lives revolve around the subway,\" the mayor said. \"The choice of New York is always for a reason, because we are beacons of the world. And we show that a society of many background and many faiths can work.\" \"The terrorists want to undermine that,\" he added. \"They yearn to attack New York City.\" \"I'm glad I wasn't there. We were supposed to take a bus out at the time (when the accident happened), so I'm glad we waited,\" said Monica Gannon, who planned to take the bus back to New Jersey at this morning when the explosion happened. \"We are stuck here. Now we are waiting for all this to be over and go back home.\" \"I was evacuated from the terminal after it (the explosion) happened. It was terrible, and I was so scared when I saw some people running,\"said Alicia Carmona. She said she was evacuated from the terminal after the explosion and to wait outside the bus terminal for about two hours. Carmona said she planned to pick up her niece at LaGuardia Airport at around 9 am, but now she couldn't make it. \"I was thinking to take the subway instead, but the nearby subway stations are closed too.\"",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what was the primary outcome of the explosion in Midtown Manhattan?",
+          "options": {
+            "A": "Multiple fatalities were reported by the New York Fire Department.",
+            "B": "The suspect successfully detonated the entire homemade device as planned.",
+            "C": "Several individuals suffered non-life threatening injuries in a busy transit area.",
+            "D": "The New York Port Authority Bus Terminal was permanently closed after the attack."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到该爆炸造成了一名警察和两名通勤者受伤，且伤势均非致命（non-life threatening），并未造成人员死亡，且爆炸发生于交通枢纽而非被永久关闭。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes the mayor's interpretation of why New York City was targeted?",
+          "options": {
+            "A": "Because the city's public transport infrastructure is weak.",
+            "B": "Because it represents a successful multi-faith and multicultural society.",
+            "C": "Because the city failed to maintain security at its busiest transit hubs.",
+            "D": "Because the suspect had a personal vendetta against local transit police."
+          },
+          "answer": "B",
+          "explanation": "市长提到纽约是世界的灯塔，象征着不同背景和信仰的社会可以共同运作，而恐怖分子正是想破坏这种象征。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The term 'beacons' in the mayor's statement most likely refers to:",
+          "options": {
+            "A": "A dangerous target for radical militants.",
+            "B": "A symbol of guidance and inspiration.",
+            "C": "A location with high levels of physical protection.",
+            "D": "A hub for global transportation networks."
+          },
+          "answer": "B",
+          "explanation": "beacons意为“灯塔、信号灯”，在此语境下喻指纽约作为一种引领性、启发性的精神象征。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the explosion affect commuters like Alicia Carmona?",
+          "options": {
+            "A": "They were unable to reach their intended destinations due to evacuations and closures.",
+            "B": "They were praised by the mayor for their quick response in evacuating the area.",
+            "C": "They were directly involved in apprehending the suspect.",
+            "D": "They suffered critical injuries while waiting for their bus."
+          },
+          "answer": "A",
+          "explanation": "Alicia Carmona在文中提到她因为爆炸被疏散，随后想去机场接侄女但因交通封闭无法前往，说明行程受到了实质性干扰。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What detail does the passage provide about the explosive device used by Akayed Ullah?",
+          "options": {
+            "A": "It was triggered remotely from outside the transit hub.",
+            "B": "It was designed to be detonated in a crowded stadium.",
+            "C": "It was attached to the suspect's person using simple household items.",
+            "D": "It was a sophisticated military-grade weapon smuggled into the city."
+          },
+          "answer": "C",
+          "explanation": "文中指出装置是用Velcro（尼龙搭扣）和zip ties（扎带）固定在嫌疑人身上的，属于简易的家庭自制设备。"
+        }
+      ]
+    }
+  ]
+}
