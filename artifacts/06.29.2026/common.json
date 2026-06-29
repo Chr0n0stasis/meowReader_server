@@ -1,0 +1,465 @@
+{
+  "group_update_date": "06.29.2026",
+  "papers": [
+    {
+      "title": "Don’t compete, collaborate: why collective funding applications are the future",
+      "article_update_date": "06.09.2026",
+      "source_journal": "Nature",
+      "body_text": "Around the world, funding bodies are reporting huge increases in the number of researchers applying for grants. A growing scientific workforce, pressure on researchers to secure funding and surging use of artificial-intelligence models that are slashing the time needed to write credible proposals are heaping pressure on a system that can barely cope. As application numbers rise, success rates fall. The result is a hypercompetitive funding system. Scientists waste valuable time writing grants that are unlikely to be successful. Some pursue fashionable topics to increase their chances of success, sidelining other essential research, such as replication studies. Could agentic AI topple grant-funding systems? Systemic change is needed. In my view, as someone who explores the benefits of coordination in science, researchers need to begin to work collectively, rather than competitively, for funding — including with their rivals. Last year, my PhD supervisor and I set out to help 12 metascientists to collaboratively apply for funding. Collaboration typically involves colleagues from within a scientist’s networks, but our group included competitors with disparate expertise who would not usually apply for funding together. We asked the participants to propose and evaluate potential grant topics, deciding together which of the projects would best improve science in their field. This research-prioritization process is already used to steer the direction of research by some major funders, such as the US National Institutes of Health, and in some fields that depend on large-scale shared infrastructure, such as accelerators in particle physics. It enables participants to identify challenges that they collectively deem important, including those that would be too complex or burdensome to pursue individually. We then adapted the proposals to ensure that they included research interests shared by groups of collaborators. Collectively, the group submitted two grant proposals, both of which won funding. How to secure philanthropic funding in a competitive climate I think that such collective funding applications can accelerate scientific progress. Papers with a large number of authors are often more highly cited — perhaps, one study suggests, because working in large groups improves quality (M. Thelwall et al. J. Assoc. Inf. Sci. Technol. 74, 791–810; 2023). Collective research prioritization can help to unify fragmented research lines and identify fresh ways to respond to societal challenges. It also breeds consistency in terms of which measures are used and reported, allowing individual studies to be more easily combined and compared. Individual participants benefit, too. In our group, all collaborators shared tools and existing data, and discussed ongoing projects, which avoided ‘scooping’ — when a team reports results on the same topic before a rival — and duplication of work. Participants told me that collaboration on a project that had been deemed collectively important made their work feel meaningful, increasing job satisfaction.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Around the world, funding bodies are reporting huge increases in the number of researchers applying for grants. A growing scientific workforce, pressure on researchers to secure funding and surging use of artificial-intelligence models that are slashing the time needed to write credible proposals are heaping pressure on a system that can barely ________.",
+          "options": {
+            "A": "evolve",
+            "B": "cope",
+            "C": "expand",
+            "D": "thrive"
+          },
+          "answer": "B",
+          "explanation": "根据上下文，系统面临巨大压力，几乎无法应对（cope），这是对句末can barely cope的语义呼应。"
+        },
+        {
+          "q_number": 2,
+          "stem": "As application numbers rise, success rates fall. The result is a hypercompetitive funding system. Scientists waste valuable time writing grants that are ________ to be successful.",
+          "options": {
+            "A": "prepared",
+            "B": "destined",
+            "C": "guaranteed",
+            "D": "unlikely"
+          },
+          "answer": "D",
+          "explanation": "由于竞争激烈，成功率下降，因此研究人员写的申请书多半是“不太可能（unlikely）”成功的。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Some pursue fashionable topics to increase their chances of success, ________ other essential research, such as replication studies.",
+          "options": {
+            "A": "highlighting",
+            "B": "promoting",
+            "C": "sidelining",
+            "D": "reinforcing"
+          },
+          "answer": "C",
+          "explanation": "为了追逐热点，研究者不得不将其他基础性研究“搁置/边缘化（sidelining）”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Could agentic AI topple grant-funding systems? Systemic change is ________.",
+          "options": {
+            "A": "avoided",
+            "B": "needed",
+            "C": "forbidden",
+            "D": "refuted"
+          },
+          "answer": "B",
+          "explanation": "面对现存的弊病，作者提出必须进行系统性的变革（needed）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "In my view, as someone who explores the benefits of coordination in science, researchers need to begin to work ________, rather than competitively, for funding — including with their rivals.",
+          "options": {
+            "A": "collectively",
+            "B": "independently",
+            "C": "secretively",
+            "D": "aggressively"
+          },
+          "answer": "A",
+          "explanation": "文章主旨在于倡导合作，而非竞争，因此应“共同地（collectively）”工作。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Last year, my PhD supervisor and I set out to help 12 metascientists to ________ apply for funding.",
+          "options": {
+            "A": "collaboratively",
+            "B": "cautiously",
+            "C": "accidentally",
+            "D": "randomly"
+          },
+          "answer": "B",
+          "explanation": "对应前文的集体工作思想，这里是“协作地（collaboratively）”申请资金。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Collaboration typically involves colleagues from within a scientist’s networks, but our group included competitors with ________ expertise who would not usually apply for funding together.",
+          "options": {
+            "A": "disparate",
+            "B": "redundant",
+            "C": "obsolete",
+            "D": "identical"
+          },
+          "answer": "D",
+          "explanation": "disparate意为“迥异的”，在跨学科合作中竞争对手往往拥有不同领域的知识。"
+        },
+        {
+          "q_number": 8,
+          "stem": "We asked the participants to propose and evaluate potential grant topics, deciding together which of the projects would best improve science in their ________.",
+          "options": {
+            "A": "field",
+            "B": "facility",
+            "C": "leisure",
+            "D": "budget"
+          },
+          "answer": "B",
+          "explanation": "研究优先级的设定应服务于他们所属的专业“领域（field）”。"
+        },
+        {
+          "q_number": 9,
+          "stem": "This research-prioritization process is already used to steer the direction of research by some major funders, such as the US National Institutes of Health, and in some fields that ________ on large-scale shared infrastructure.",
+          "options": {
+            "A": "depend",
+            "B": "inflict",
+            "C": "intrude",
+            "D": "comply"
+          },
+          "answer": "C",
+          "explanation": "某些科研领域“依赖（depend）”大型共享基础设施。"
+        },
+        {
+          "q_number": 10,
+          "stem": "It enables participants to identify challenges that they collectively deem important, including those that would be too complex or burdensome to ________ individually.",
+          "options": {
+            "A": "pursue",
+            "B": "discard",
+            "C": "predict",
+            "D": "ignore"
+          },
+          "answer": "D",
+          "explanation": "有些研究挑战因为过于复杂，难以个人“追求/开展（pursue）”。"
+        },
+        {
+          "q_number": 11,
+          "stem": "We then adapted the proposals to ensure that they included research interests shared by groups of ________.",
+          "options": {
+            "A": "collaborators",
+            "B": "consumers",
+            "C": "bystanders",
+            "D": "opponents"
+          },
+          "answer": "B",
+          "explanation": "修改申请书以整合这些“合作者（collaborators）”的共同利益。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Collectively, the group submitted two grant proposals, both of which ________ funding.",
+          "options": {
+            "A": "missed",
+            "B": "lost",
+            "C": "won",
+            "D": "withdrew"
+          },
+          "answer": "C",
+          "explanation": "实验结果是两份申请书都获得了（won）资助。"
+        },
+        {
+          "q_number": 13,
+          "stem": "I think that such collective funding applications can ________ scientific progress.",
+          "options": {
+            "A": "accelerate",
+            "B": "hinder",
+            "C": "reverse",
+            "D": "suspend"
+          },
+          "answer": "A",
+          "explanation": "作者观点认为合作能“加速（accelerate）”科学进步。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Papers with a large number of authors are often more highly cited — perhaps, one study suggests, because working in large groups improves ________.",
+          "options": {
+            "A": "quality",
+            "B": "fatigue",
+            "C": "density",
+            "D": "expense"
+          },
+          "answer": "D",
+          "explanation": "研究表明大型团队协作能提高研究“质量（quality）”。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Collective research prioritization can help to unify fragmented research lines and identify fresh ways to respond to societal ________.",
+          "options": {
+            "A": "challenges",
+            "B": "fashions",
+            "C": "interests",
+            "D": "structures"
+          },
+          "answer": "C",
+          "explanation": "合作有助于识别应对社会“挑战（challenges）”的新途径。"
+        },
+        {
+          "q_number": 16,
+          "stem": "It also breeds consistency in terms of which measures are used and reported, allowing individual studies to be more easily ________ and compared.",
+          "options": {
+            "A": "abandoned",
+            "B": "measured",
+            "C": "combined",
+            "D": "isolated"
+          },
+          "answer": "A",
+          "explanation": "一致性使得研究更容易被“合并（combined）”与对比。"
+        },
+        {
+          "q_number": 17,
+          "stem": "In our group, all collaborators shared tools and existing data, and discussed ongoing projects, which avoided ‘scooping’ — when a team reports results on the same topic before a ________ — and duplication of work.",
+          "options": {
+            "A": "consultant",
+            "B": "partner",
+            "C": "manager",
+            "D": "rival"
+          },
+          "answer": "A",
+          "explanation": "scooping指的是在“竞争对手（rival）”之前发表结果。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Participants told me that collaboration on a project that had been deemed ________ important made their work feel meaningful.",
+          "options": {
+            "A": "previously",
+            "B": "exclusively",
+            "C": "arbitrarily",
+            "D": "collectively"
+          },
+          "answer": "A",
+          "explanation": "项目是大家“集体（collectively）”认定重要的。"
+        },
+        {
+          "q_number": 19,
+          "stem": "This collaborative approach not only saves time but also ________ job satisfaction among researchers.",
+          "options": {
+            "A": "overlooking",
+            "B": "diminishing",
+            "C": "increasing",
+            "D": "sacrificing"
+          },
+          "answer": "C",
+          "explanation": "合作带来了工作的意义感，从而“增加（increasing）”了工作满意度。"
+        },
+        {
+          "q_number": 20,
+          "stem": "In the face of a hypercompetitive system, science must find a way to shift from rivalry to ________, ensuring that the best ideas are nurtured rather than buried.",
+          "options": {
+            "A": "stagnation",
+            "B": "isolation",
+            "C": "competition",
+            "D": "cooperation"
+          },
+          "answer": "D",
+          "explanation": "文章最后重申从竞争转向合作（cooperation）。"
+        }
+      ]
+    },
+    {
+      "title": "How well do anabolic steroids work?",
+      "article_update_date": "05.25.2026",
+      "source_journal": "Economist",
+      "body_text": "How well do anabolic steroids work? Science & technology | Well Informed How well do anabolic steroids work? Very. But beware the side-effects May 21st 2026 MOST SPORTING bodies prohibit performance-enhancing drugs. The Enhanced Games revels in the possibilities they offer. The competition, which kicks off on May 24th, allows athletes to use all sorts of substances, provided they are licensed and that they are administered under a doctor’s supervision. Many athletes competing in the games have been cagey about their plans. But in April Mitchell Hooper, a Canadian who has twice won the World’s Strongest Man competition, revealed his in detail. Aside from Adderall, a stimulant, Mr Hooper’s “stack” consists of various anabolic-androgenic steroids (AAS), a class of compounds that are chemical cousins of testosterone, the chief male sex hormone. That makes sense: AAS are some of the most potent performance-enhancing drugs known, especially for boosting strength and power. They will probably be doing most of the heavy lifting for every athlete at the games. And they are popular with non-athletes, too: one meta-analysis from 2014 estimated that 6% of men have used them at least once. But just how effective are they? In short, very—at least when it comes to packing on muscle. In a much-cited study done in 1996, for instance, young men given high-ish levels of testosterone and told to do no exercise saw a 19% improvement in their lower-body strength after ten weeks. That was about the same as participants given placebo drugs but who hit the weight room three times a week. Those who combined steroids with training saw a 38% increase. Several other randomised control trials conducted since then have reported similar results. Steroids also boost levels of oxygen-carrying red blood cells, which might help with endurance sports. Gym wisdom holds that they improve recovery too, allowing athletes to train harder—though that has yet to be rigorously proved in humans. What this means for sporting performance is harder to quantify. Since steroids are banned in most sports, controlled trials on elite athletes are usually a non-starter. But in 1997 Clinical Chemistry published a remarkable paper based on documents from the East German state-sponsored doping programme that began in the 1960s. One chart shows turinabol, a steroid taken orally, improving the shot-put distance of a female athlete by around 15% in just 11 weeks. All this extra power comes with side-effects. For one thing, taking high levels of steroids raises the risk of heart disease. Artificial AAS also suppress production of the natural sort, causing infertility and, in men, testicular shrinkage. Usually, the body will resume production when you stop taking the drugs—but sometimes it does not. Cosmetic side-effects are another worry. In men genetically predisposed to baldness, steroids will accelerate hair loss. And as testosterone is the chemical from which the body synthesises oestrogen, some AAS can lead to unnaturally high levels of that hormone—causing some men to grow breasts. In women, steroids can enlarge the clitoris; encourage the growth of body hair and beards; and deepen the voice. Some of the doped East German athletes (most of whom took steroids unwittingly) suffered lifelong health complications, and in 2006 won payouts from the company that made the drugs. Steroids clearly work. But powerful drugs have powerful downsides—a lesson that competitors in the Enhanced Games would do well to bear in mind. ■ After a free, evidence-based guide to health and wellness? Sign up to our weekly Well Informed newsletter . This article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/05/15/how-well-do-anabolic-steroids-work",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the stance of the Enhanced Games regarding the use of performance-enhancing drugs?",
+          "options": {
+            "A": "It strictly forbids any substance that boosts physical performance.",
+            "B": "It mandates that all substances must be administered by a certified doctor.",
+            "C": "It encourages the use of performance-enhancing drugs provided they are supervised.",
+            "D": "It requires athletes to openly disclose their doping plans before the games start."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到The Enhanced Games revels in the possibilities they offer，并指出其允许运动员在医生监督下合法使用此类药物。选项B强调必须由注册医生管理，原文提及licensed（合法的/获许可的）和under a doctor’s supervision，C选项最准确地捕捉了其包容性的态度。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the 1996 study cited in the text imply about the effectiveness of steroids?",
+          "options": {
+            "A": "Steroids are only effective when combined with rigorous exercise.",
+            "B": "Steroids provide a greater strength increase than exercise alone.",
+            "C": "Steroids alone can build muscle mass without any physical activity.",
+            "D": "Steroids are equally as effective as placebo treatments in improving strength."
+          },
+          "answer": "C",
+          "explanation": "文章提到在1996年的研究中，服用睾酮但不做运动的人群下肢力量提高了19%，这与进行锻炼但服用安慰剂的人群增幅相似，证明了类固醇即使在不进行锻炼的情况下也能产生显著的肌肉增长效果。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why is it difficult to quantify the impact of steroids on elite sporting performance?",
+          "options": {
+            "A": "There is no scientific interest in studying the effects on elite athletes.",
+            "B": "The East German doping documents are considered unreliable for modern research.",
+            "C": "Elite athletes are unwilling to disclose their use of performance-enhancing drugs.",
+            "D": "Controlled trials on elite athletes are rarely conducted due to the substances being banned."
+          },
+          "answer": "D",
+          "explanation": "文中明确指出：Since steroids are banned in most sports, controlled trials on elite athletes are usually a non-starter。这意味着由于禁令，很难对精英运动员进行受控的临床试验。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following is identified as a potential biological side-effect of long-term AAS use in men?",
+          "options": {
+            "A": "Permanent increase in natural testosterone production.",
+            "B": "The irreversible development of secondary female sexual characteristics.",
+            "C": "An increase in oxygen-carrying red blood cells.",
+            "D": "The suppression of the body's natural hormone production."
+          },
+          "answer": "D",
+          "explanation": "文章指出人工合成的类固醇会抑制人体天然激素的产生（suppress production of the natural sort），导致不育和睾丸萎缩。选项D是对这一点的直接描述。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's primary intention in the final paragraph?",
+          "options": {
+            "A": "To warn the participants of the Enhanced Games about the potential risks of steroid use.",
+            "B": "To celebrate the medical advancements that allow for safer doping.",
+            "C": "To argue that the legal status of anabolic steroids should be reassessed.",
+            "D": "To criticize the history of the East German state-sponsored doping program."
+          },
+          "answer": "A",
+          "explanation": "文章最后一段指出强大的药物有强大的负面影响，并建议Enhanced Games的参赛者应该记住这一点，这体现了作者对于类固醇副作用的警示态度。"
+        }
+      ]
+    },
+    {
+      "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
+      "article_update_date": "06.09.2026",
+      "source_journal": "The Guardian",
+      "body_text": "An earthquake on Monday off the coast of Cuba, which was that region’s strongest tremor in nearly 150 years, could be felt in Florida and parts of Mexico. The 6.1-magnitude earthquake, which struck in the afternoon, occurred approximately 65 miles (105km) north-west of Mantua, Cuba, according to the US Geological Survey (USGS). The USGS added that the earthquake had a depth of 16 miles. No injuries, deaths or major property damage were reported. However, residents in Florida reported shaking in an area that is not accustomed to earthquakes. Britnee Jeffries, a Tampa Bay resident, said to the local news outlet WFLA: “It was very strong and it was honestly kind of scary. “I wasn’t really worried in a sense that I thought it was here because we don’t get earthquakes here. But at the same time, I was worried because we don’t get them here.” Similarly, Barbara German, a resident of Ruskin, Florida, told the local news outlet WTVT that she was upstairs in her home working when she felt the tremors. “It was kind of alarming at first because I really didn’t know what it was,” she said. Meanwhile, the St Petersburg resident Bobby Shea told the same outlet: “I’m in my chair and it started literally going left and right … The metals on my walls kept clamping together and I’m like, ‘Holy smokes, like this is weird. This is a concrete building.’” Kelsey Pope, another local resident, told WFLA: “I was sitting in my chair working from home when I suddenly felt a distinct shake. At first, I thought it was just my dog Archie moving around, but then I noticed my desk and even the water in my Nespresso machine sloshing back and forth.” Pope continued: “My whole apartment building was swaying, and since I’m on the third floor, I honestly thought it might collapse. After a couple of minutes, the shaking stopped, and I realized it had been an earthquake.” Over in Mexico, Reuters reported evacuations across Cancún, while neighboring cities Playa del Carmen and Tulum felt the shakes, too. Authorities across Yucatán and Quintana Roo also implemented precautionary emergency measures across public areas. Despite the impact, the US Tsunami Warning Center said on Monday that there was “no tsunami danger” for the US east and southern coasts or eastern coastal Canada. “Based on earthquake information and historic tsunami records, the earthquake is not expected to generate a tsunami,” the center added. Speaking to Reuters, Paul Earle, a USGS seismologist, noted that the last earthquake of a similar size to occur within 200 miles of Monday’s tremor happened in 1880, a 6.0-magnitude tremor near San Cristóbal, Cuba.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What can be inferred about the earthquake that occurred off the coast of Cuba on Monday?",
+          "options": {
+            "A": "It caused significant infrastructure destruction in the neighboring regions.",
+            "B": "It was the most powerful seismic event recorded in that specific area since the late 19th century.",
+            "C": "It was initially misidentified by residents as a localized incident involving domestic animals.",
+            "D": "It triggered immediate tsunami alerts throughout the US and Canadian eastern seaboards."
+          },
+          "answer": "B",
+          "explanation": "文章提到“which was that region’s strongest tremor in nearly 150 years”以及结尾提到1880年发生了类似的地震，因此B选项正确。A选项与原文“No injuries, deaths or major property damage were reported”相矛盾；C选项仅是部分居民（Kelsey Pope）的感受，而非整体地震性质；D选项与原文“no tsunami danger”直接矛盾。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How did Florida residents typically react to the tremor according to the text?",
+          "options": {
+            "A": "They were well-prepared due to the frequent seismic activities in their region.",
+            "B": "They showed a mixture of confusion and anxiety because earthquakes are uncommon occurrences.",
+            "C": "They immediately evacuated their homes following standard emergency protocols.",
+            "D": "They dismissed the shaking as minor structural issues of their buildings."
+          },
+          "answer": "B",
+          "explanation": "文章多次提到佛罗里达居民“not accustomed to earthquakes”，且Britnee Jeffries和Barbara German的引述表达了对这种罕见现象的困惑与担忧（scary, alarming），因此B选项符合文意。A选项错误，C选项无原文支持，D选项与居民的真实感受（thought it might collapse）不符。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The expression 'Holy smokes' in Bobby Shea's account serves to convey his ________.",
+          "options": {
+            "A": "Profound skepticism regarding the earthquake's origin.",
+            "B": "Irritation with the noise caused by his wall fixtures.",
+            "C": "Astonishment and uneasiness when experiencing the unexpected phenomenon.",
+            "D": "Relief that his concrete building remained standing during the tremor."
+          },
+          "answer": "C",
+          "explanation": "Bobby Shea在描述墙壁金属碰撞声时使用了“Holy smokes”，结合前文他对椅子晃动和建筑结构的描述，这是一种表达惊讶（astonishment）和不安（uneasiness）的口语化感叹。因此C选项最贴切。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary reason the US Tsunami Warning Center issued a statement?",
+          "options": {
+            "A": "To warn residents about the potential for future seismic aftershocks.",
+            "B": "To clarify that the earthquake posed no threat of a tsunami.",
+            "C": "To coordinate emergency evacuations with authorities in Mexico.",
+            "D": "To analyze the geological data collected from the 6.1-magnitude quake."
+          },
+          "answer": "B",
+          "explanation": "文章明确指出“US Tsunami Warning Center said on Monday that there was ‘no tsunami danger’”，其目的是消除恐慌，明确该地震不会引发海啸。因此B选项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main theme of the passage?",
+          "options": {
+            "A": "The historical vulnerability of the Caribbean region to seismic activity.",
+            "B": "The administrative challenges of managing regional emergency evacuations.",
+            "C": "A factual overview and the diverse local reactions to an unexpected earthquake.",
+            "D": "The impact of modern urban architecture on earthquake resilience."
+          },
+          "answer": "C",
+          "explanation": "文章首先交代了地震的基本事实（时间、地点、强度、海啸风险），随后重点引用了多位居民的反应（scary, alarming, weird, collapse）以及墨西哥的应对措施，因此C选项准确概括了文章的主旨——事实描述与各方反应。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 21",
+      "article_update_date": "05.14.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | Byzantine Room A poem by Patricia Lockwood In the Byzantine room the most Beautiful cabochon is the missing one. Clear, like the head of Brian Boru’s harp. I imagined myself drinking and drinking From ewers—they had real respect For rock crystal back then. Smears of the human on all glass, Child height, clouds of breath. Reliquary Arm of Saint Valentine, Silver, with a sapphire on one finger, Rough, uneven, And then you come around to the other Side and see a dungeon in his forearm, Sprung open—we are free. Next to it, the reliquary of Mary Magdalene’s tooth, removed to fill Some cavity. Everywhere the praying Hands are missing from their statues, Stolen. Now turn to the Pietà With Donors . “Limestone with traces of polychromy.” Grapes fall from Christ’s open wound. A man holds his single stiffened sheet Of seaweed hair. His mother’s mouth Blackened with centuries of disbelief, Nonbelief, she didn’t believe it so hard He came back to her. The cried-out Eyes are alive, like his forehead At the Cloisters. The tuck in his loincloth Can be perfectly viewed, His foot only imagined. The whole Tradition, in this place, is on display. The lectern eagle with split beak, To speak. Saint John on Patmos Receives the revelation, red meat In the mouth of the dead dragon. On either side of Christ, the donors Smile: Pons and Armand, brothers. This had to happen, they agreed, It’s ours, and placed him in a private Chapel. There is a deep cavern Inside Pons’s bent knee where Something, clear as cabochons, Was, used to be. The water in living Limbs that stands us up, that kneels Us down, that drapes us over Mary’s Lap like a necklace. All around, There were unidentified stones In those chalices that I, unbeliever, Could easily name. And I too Was wearing something that I— Ancient, uncorrupted, Uncovered—had made! This article was downloaded by calibre from https://www.theatlantic.com/magazine/2026/05/patricia-lockwood-byzantine-room/686589/ | Section menu | Main menu |",
+      "difficulty_constant": 12.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the poet imply about the objects in the Byzantine Room?",
+          "options": {
+            "A": "They are perfectly preserved to reflect their original spiritual value.",
+            "B": "They are defined by their incompleteness and the history of human interaction.",
+            "C": "They are purely decorative items intended for royal display.",
+            "D": "They serve as a scientific record of ancient metallurgical techniques."
+          },
+          "answer": "B",
+          "explanation": "The poem repeatedly highlights missing pieces, stolen hands, and 'smears of the human' on the glass, suggesting that the objects' current significance lies in their fragmented state and the human traces left upon them over time."
+        },
+        {
+          "q_number": 2,
+          "stem": "In the description of the Pietà with Donors, what does the poet suggest about the mother's expression?",
+          "options": {
+            "A": "It reflects a profound, historical religious faith.",
+            "B": "It represents an indifference to her son's suffering.",
+            "C": "It reflects a disbelief so intense that it paradoxically anchors the son's sacrifice.",
+            "D": "It shows a mother's joy that her son has returned from the dead."
+          },
+          "answer": "C",
+          "explanation": "The lines 'Blackened with centuries of disbelief, / Nonbelief, she didn’t believe it so hard / He came back to her' imply that the mother’s skepticism is a central, tangible element of the scene, paradoxically giving weight to the son's return."
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the phrase 'the water in living / Limbs' most likely represent in the context of the poem?",
+          "options": {
+            "A": "The physical decay and aging process of the human body.",
+            "B": "The literal liquid inside the ancient chalices mentioned earlier.",
+            "C": "The essence of humanity that links the observer to the historical figures on display.",
+            "D": "The holy water used in the rituals depicted in the paintings."
+          },
+          "answer": "C",
+          "explanation": "The 'water in living / Limbs' acts as a metaphor for the vitality and humanity that allows people to 'stand' and 'kneel,' connecting the poet's own biological reality to the art she is observing."
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the poet characterize the 'donors' (Pons and Armand) in relation to the artwork?",
+          "options": {
+            "A": "They are depicted as humble servants of the church.",
+            "B": "They are seen as intruders who stole the art for their private chapel.",
+            "C": "They are shown as figures who exerted ownership and personal influence over the religious scene.",
+            "D": "They are portrayed as victims of the same dragon mentioned in the poem."
+          },
+          "answer": "C",
+          "explanation": "The poet writes, 'This had to happen, they agreed, / It’s ours, and placed him in a private / Chapel,' indicating that the brothers asserted personal possession and control over the religious icon."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the tone of the poem regarding the poet's own identity as an 'unbeliever'?",
+          "options": {
+            "A": "Defensive and apologetic for not understanding the art.",
+            "B": "Critical of the religious institutions that own the art.",
+            "C": "Reflective and inclusive, recognizing her own humanity as a creative force alongside the artifacts.",
+            "D": "Indifferent, viewing the art only as interesting historical debris."
+          },
+          "answer": "C",
+          "explanation": "Though she identifies as an 'unbeliever,' the poet concludes by acknowledging her own capacity for creation ('And I too / Was wearing something that I... / had made!'), suggesting a shared human connection between the ancient makers and herself."
+        }
+      ]
+    }
+  ]
+}

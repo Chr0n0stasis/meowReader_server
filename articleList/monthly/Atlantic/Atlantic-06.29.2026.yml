@@ -6,20 +6,20 @@ articles:
   is_used: false
   title: Chapter 5
 - id: epub_6
-  is_used: true
-  title: Chapter 6
-- id: epub_7
   is_used: false
-  title: Chapter 7
+  title: Chapter 6
+- id: epub_8
+  is_used: false
+  title: Chapter 8
 - id: epub_9
   is_used: false
   title: Chapter 9
 - id: epub_10
   is_used: false
   title: Chapter 10
-- id: epub_11
+- id: epub_12
   is_used: false
-  title: Chapter 11
+  title: Chapter 12
 - id: epub_13
   is_used: false
   title: Chapter 13
@@ -36,10 +36,10 @@ articles:
   is_used: false
   title: Chapter 18
 - id: epub_21
-  is_used: true
+  is_used: false
   title: Chapter 21
-capture_date: 05.14.2026
+capture_date: 06.29.2026
 journal_name: Atlantic
-publish_date: 05.14.2026
+publish_date: 06.29.2026
 source_type: github
 update_frequency: monthly
