@@ -115,7 +115,7 @@ articles:
   is_used: false
   title: Why Germany’s cities are going broke
 - id: epub_58
-  is_used: true
+  is_used: false
   title: Peter Magyar is trying to fire up Hungarian democracy
 - id: epub_59
   is_used: false
@@ -225,8 +225,8 @@ articles:
 - id: epub_241
   is_used: false
   title: Chapter 241
-capture_date: 06.27.2026
+capture_date: 06.30.2026
 journal_name: Economist
-publish_date: 06.27.2026
+publish_date: 06.30.2026
 source_type: github
 update_frequency: weekly
