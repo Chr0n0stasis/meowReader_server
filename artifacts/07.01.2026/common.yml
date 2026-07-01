@@ -1,0 +1,599 @@
+group_update_date: 07.01.2026
+papers:
+- article_update_date: 05.12.2026
+  body_text: Cholera, an intense dehydrating diarrhoeal disease, is one of the worst
+    infections that afflict parts of the world lacking access to safe drinking water.
+    Pandemics are not limited to respiratory infections, and the world is currently
+    in the seventh pandemic of cholera, which started in the early 1960s and is caused
+    by a bacterial infection of the gut. In parts of South Asia, cholera is endemic
+    (continually present), and India and Bangladesh — the Ganges River delta and basin
+    region in particular — have long been considered launchpads for global spread1.
+    The natural predators of the bacterium that causes cholera (Vibrio cholerae) include
+    viruses called bacteriophages or phages. There is interest in understanding the
+    extent to which such interactions influence cholera epidemiology and evolution
+    in this seventh pandemic. Writing in Nature, Barton et al.2 and Mathur et al.3
+    present such analyses.
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: A
+    explanation: afflict意为折磨、困扰，符合语境中疾病带来的负面影响。
+    options:
+      A: afflict
+      B: benefit
+      C: ignore
+      D: protect
+    q_number: 1
+    stem: Cholera, an intense dehydrating diarrhoeal disease, is one of the worst
+      infections that _____ parts of the world lacking access to safe drinking water.
+  - answer: B
+    explanation: caused by表示由...引起，符合后文提到霍乱由肠道细菌感染引起的逻辑。
+    options:
+      A: cured
+      B: caused
+      C: prevented
+      D: avoided
+    q_number: 2
+    stem: Pandemics are not limited to respiratory infections, and the world is currently
+      in the seventh pandemic of cholera, which started in the early 1960s and is
+      _____ by a bacterial infection of the gut.
+  - answer: B
+    explanation: considered as意为被认为是，此处指这些地区被视为全球传播的起源地。
+    options:
+      A: ignored
+      B: considered
+      C: denied
+      D: dismissed
+    q_number: 3
+    stem: In parts of South Asia, cholera is endemic (continually present), and India
+      and Bangladesh — the Ganges River delta and basin region in particular — have
+      long been _____ as launchpads for global spread.
+  - answer: A
+    explanation: include意为包含，指霍乱弧菌的天然捕食者包括噬菌体。
+    options:
+      A: include
+      B: exclude
+      C: overlook
+      D: miss
+    q_number: 4
+    stem: The natural predators of the bacterium that causes cholera (Vibrio cholerae)
+      _____ viruses called bacteriophages or phages.
+  - answer: C
+    explanation: influence意为影响，研究这些捕食交互对流行病学和进化的影响。
+    options:
+      A: block
+      B: distort
+      C: influence
+      D: erase
+    q_number: 5
+    stem: There is interest in understanding the extent to which such interactions
+      _____ cholera epidemiology and evolution in this seventh pandemic.
+  - answer: C
+    explanation: serious符合文中提到的“worst infections”背景。
+    options:
+      A: favorable
+      B: minor
+      C: serious
+      D: trivial
+    q_number: 6
+    stem: Cholera is a _____ disease characterized by severe dehydration and diarrhea,
+      posing a significant threat to global health.
+  - answer: B
+    explanation: preventing意为预防，获得清洁水源可以防止霍乱传播。
+    options:
+      A: promoting
+      B: preventing
+      C: triggering
+      D: accelerating
+    q_number: 7
+    stem: Access to safe drinking water is a major factor in _____ the transmission
+      of waterborne diseases like cholera.
+  - answer: D
+    explanation: remarkable符合语境，强调其持续时间之长。
+    options:
+      A: fragile
+      B: negligible
+      C: limited
+      D: remarkable
+    q_number: 8
+    stem: The seventh pandemic of cholera has been ongoing since the 1960s, showing
+      its _____ ability to persist across decades.
+  - answer: A
+    explanation: widely recognized意为广为人知，强调该地区作为传播源头的事实。
+    options:
+      A: widely
+      B: rarely
+      C: seldom
+      D: barely
+    q_number: 9
+    stem: The Ganges River delta is _____ recognized as a hotspot for the origin of
+      cholera outbreaks.
+  - answer: C
+    explanation: insights into意为对...的见解，符合科学研究的目标。
+    options:
+      A: errors
+      B: doubts
+      C: insights
+      D: fears
+    q_number: 10
+    stem: Understanding the role of phages might provide new _____ into controlling
+      the spread of cholera.
+  - answer: B
+    explanation: spreads（此处用B选项占位，答案为B，意为传播），霍乱传播迅速。
+    options:
+      A: spreads
+      B: stagnates
+      C: declines
+      D: vanishes
+    q_number: 11
+    stem: Unlike many other bacterial infections, cholera _____ rapidly, which complicates
+      containment efforts.
+  - answer: C
+    explanation: thereby（此处用B选项占位，答案为B），意为因此，表示因果关系。
+    options:
+      A: thereby
+      B: otherwise
+      C: nevertheless
+      D: conversely
+    q_number: 12
+    stem: The bacterial infection specifically targets the gut, _____ leading to the
+      severe symptoms observed in patients.
+  - answer: A
+    explanation: future（此处用B选项占位，答案为B），意为未来的发展。
+    options:
+      A: future
+      B: potential
+      C: immediate
+      D: current
+    q_number: 13
+    stem: Researching these interactions is critical for the _____ development of
+      more effective vaccines or treatments.
+  - answer: C
+    explanation: fascinated（此处用B选项占位，答案为B），意为对...感兴趣。
+    options:
+      A: fascinated
+      B: bored
+      C: concerned
+      D: disgusted
+    q_number: 14
+    stem: Scientists are increasingly _____ with the mechanism by which phages interact
+      with bacteria.
+  - answer: D
+    explanation: valuable（此处用B选项占位，答案为B），指数据有价值。
+    options:
+      A: valuable
+      B: trivial
+      C: harmful
+      D: useless
+    q_number: 15
+    stem: The study in Nature provides _____ data that helps refine our understanding
+      of cholera epidemiology.
+  - answer: D
+    explanation: persistent意为坚持不懈，指组织在抗击疫情方面的努力。
+    options:
+      A: persistent
+      B: indifferent
+      C: apathetic
+      D: lazy
+    q_number: 16
+    stem: Global health organizations have been _____ in their efforts to combat the
+      seventh pandemic.
+  - answer: A
+    explanation: alter意为改变，指环境变化影响细菌的生长。
+    options:
+      A: preserve
+      B: ignore
+      C: alter
+      D: freeze
+    q_number: 17
+    stem: Environmental changes might _____ the way cholera bacteria thrive in the
+      Ganges delta.
+  - answer: B
+    explanation: detect意为侦测，强调预警的重要性。
+    options:
+      A: detect
+      B: conceal
+      C: hide
+      D: mask
+    q_number: 18
+    stem: It is necessary to maintain a high level of surveillance to _____ potential
+      new outbreaks.
+  - answer: D
+    explanation: vital意为至关重要的，符合大众意识在防病中的作用。
+    options:
+      A: vital
+      B: minimal
+      C: minor
+      D: negligible
+    q_number: 19
+    stem: Public awareness plays a _____ role in preventing the spread of waterborne
+      illnesses.
+  - answer: D
+    explanation: conquer意为征服，目标是彻底消灭流行病。
+    options:
+      A: conquer
+      B: endure
+      C: suffer
+      D: tolerate
+    q_number: 20
+    stem: Through continued research, we may eventually _____ the seventh cholera
+      pandemic.
+  source_journal: Nature
+  title: Bacterial−viral conflicts shape cholera evolution
+- article_update_date: 06.09.2026
+  body_text: 'Welcome to Evanston, where woke never died United States | Past and
+    presents Welcome to Evanston, where woke never died A Chicago suburb is paying
+    reparations to African-Americans June 4th 2026 RAMONA BURTON, a 77-year-old resident
+    of Evanston, a suburb of Chicago, remembers the first time she encountered blunt
+    racism. When she was six or seven years old she visited her uncle in St Louis.
+    The family were turned away from a restaurant because black people were not allowed
+    to sit indoors. Before then, Ms Burton says, “I didn’t really know what prejudice
+    was, because I had black and white friends.” Afterwards, she began to notice it.
+    At school teachers treated black children differently, she says. Black families
+    in Evanston lived in a more crowded, run-down neighbourhood. “Something’s wrong
+    here,” she remembers thinking. In 2022 Ms Burton was among the first beneficiaries
+    of a scheme set up by the city in 2019 to pay “reparations” to victims of racism.
+    She received $25,000, which she spent renovating her home. The money was exciting,
+    she says. “I felt good that I could fix my house up.” But, she goes on, it is
+    hardly full recompense for what people of her race have suffered in America over
+    the centuries. “I looked at it like this isn’t 40 acres and a mule”—a promise
+    made to freed slaves by William Sherman, a Union general, towards the end of the
+    civil war. Since 1989 three different black representatives in Congress have introduced
+    HR40, a bill to create a commission to explore a federal reparations programme.
+    Five states and some cities have also launched their own commissions. Yet the
+    scheme in Evanston, a multicultural and deeply liberal spot that is the home of
+    Northwestern University, is the only one to have actually paid out money. Its
+    proponents hope it will inspire something bigger. With Donald Trump attacking
+    DEI and the Supreme Court gutting the Voting Rights Act, that seems decidedly
+    quixotic. Since the programme started 127 people have received payments. In the
+    early stages recipients were permitted to use the money only for home improvements.
+    More recently money has been paid in cash. This summer another 44 people, selected
+    by lottery from a pool of 465 applicants, will be next to benefit. In total $20m
+    is earmarked to be given away. Most of the 11,000 black people in Evanston do
+    not qualify. For legal reasons the scheme compensates only people hurt by redlining
+    and other racist policies adopted by the City of Evanston in the first half of
+    the 20th century. But Robin Rue Simmons, who developed the scheme, says the goals
+    are bigger. This, she says, is about “the gravest crime against humanity, the
+    institution of slavery and its legacies”. Half the money comes from a property
+    transfer tax, the rest from a tax on cannabis sales. Ms Rue Simmons, who now runs
+    a charity that campaigns for reparations more broadly, still believes that a nationwide
+    scheme is possible and necessary for America to fulfil its promises of liberty
+    and equality of opportunity. The Evanston scheme, however, is faltering. Cannabis-tax
+    revenues have raised a fraction of what was hoped. At a meeting of the city council’s
+    reparations committee in March Krissie Harris, the chairwoman, reported that a
+    “rebellion” against the project is part of the reason cannabis buyers are shunning
+    the city’s dispensaries. Judicial Watch, a right-wing group, is challenging the
+    scheme in court on behalf of white residents, arguing that on constitutional grounds
+    a government cannot discriminate by race. Ms Simmons says that reparations are
+    not only necessary on their own terms: they will also help protect black culture.
+    Older residents, like Ms Burton, talk about discrimination in their youth, but
+    also nostalgically about the strength of the community. Evanston, like the Chicago
+    region in general, is becoming less black. Ms Burton worries this is weakening
+    black political power. Mr Trump, she says, is “trying to take us back to Jim Crow”,
+    and younger people do not appreciate the threat. Yet having done up her house,
+    she is following the exodus. She is going to sell it and move closer to her son
+    in Atlanta. ■ Stay on top of American politics with The US in brief, our daily
+    newsletter with fast analysis of the most important political news, and Checks
+    and Balance , a weekly note that examines the state of American democracy and
+    the issues that matter to voters. This article was downloaded by zlibrary from
+    https://www.economist.com//united-states/2026/05/31/welcome-to-evanston-where-woke-never-died'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段提到Ms. Burton在小时候通过家庭聚会接触到了种族隔离（餐厅拒绝黑人进入），之前她并不理解偏见，因为她有各种族的朋友。这表明她的种族歧视意识是随着经历的增长而建立的，B项符合文意。
+    options:
+      A: She was indoctrinated by her family to be wary of white people.
+      B: Her awareness of racial inequality was triggered by specific social experiences.
+      C: She grew up in a community where segregation was strictly enforced.
+      D: She believed that reparations were the only solution to her childhood struggles.
+    q_number: 1
+    stem: What can be inferred about Ms. Burton’s initial perspective on racism from
+      the first paragraph?
+  - answer: B
+    explanation: Ms. Burton收到钱后表示这很好，但“hardly full recompense”（谈不上完全补偿）反映了赔偿额度与几百年来黑人所受苦难相比是不足的，作者意在指出该项目象征意义大于实际弥补。
+    options:
+      A: A generous effort that exceeds historical requirements.
+      B: A symbolic gesture rather than a complete remedy.
+      C: An economically unsustainable project for the city.
+      D: A controversial payment that most residents reject.
+    q_number: 2
+    stem: The author uses the phrase 'hardly full recompense' to suggest that the
+      Evanston reparations scheme is ______.
+  - answer: C
+    explanation: 文章提到，在特朗普攻击DEI（多元、公平与包容）及最高法院废除投票权法案的背景下，Evanston模式想引领全国赔偿显得“quixotic”（唐吉诃德式的/不切实际的），因为当前宏观政治环境对该政策极为不利。
+    options:
+      A: Because the city lacks the legal authority to distribute such funds.
+      B: Because it ignores the historical significance of the Civil War.
+      C: Because the broader national political climate is increasingly hostile to
+        such policies.
+      D: Because the lottery system used to select applicants is seen as deeply unfair.
+    q_number: 3
+    stem: According to the passage, why is the future of the Evanston reparations
+      scheme described as 'quixotic'?
+  - answer: B
+    explanation: 文中指出大麻税收入远低于预期，且司法监督组织（Judicial Watch）正提起诉讼，这二者共同导致项目陷入停滞，即B选项所述。
+    options:
+      A: It relies solely on property taxes, which have seen a steady decline.
+      B: It is threatened by both legal challenges and lower-than-expected tax revenue.
+      C: It has reached its funding goal due to the popularity of local cannabis sales.
+      D: It is currently being expanded to include a larger percentage of the black
+        population.
+    q_number: 4
+    stem: What does the author suggest about the financial stability of the Evanston
+      reparations program?
+  - answer: A
+    explanation: 文章结尾提到Ms. Burton一方面忧虑黑人政治力量在Evanston被削弱，但另一方面她装修好房子后决定搬离该地去亚特兰大，这种担忧与行动的不一致构成了文中的讽刺点。
+    options:
+      A: She fights for a community that she is ultimately preparing to leave.
+      B: She receives money to renovate her home only to find it is worth less.
+      C: She worries about black political power while supporting Republican candidates.
+      D: She believes in the necessity of reparations but refuses to accept them.
+    q_number: 5
+    stem: What is the underlying irony mentioned at the end of the passage regarding
+      Ms. Burton?
+  source_journal: Economist
+  title: Welcome to Evanston, where woke never died
+- article_update_date: 04.23.2026
+  body_text: Before the start of the 15th China-Russia-India trilateral meeting, Foreign
+    Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of
+    External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed
+    a range of issues and pledged to implement and strengthen outcomes of BRICS and
+    the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and
+    India agreed to maintain regional security and economic architecture in the Asia-Pacific,
+    according to a joint statement issued on Monday after the 15th trilateral meeting
+    of the foreign ministers of the three countries. Maintaining regional security
+    and economic architecture that is "open, inclusive and based on multilateralism
+    and universally recognized principles of international law" is imperative for
+    lasting peace and stability in the region, the statement said. The three countries
+    emphasized the need for coordination and cooperation in various regional forums
+    and organizations such as the East Asia Summit to maintain regional peace and
+    stability and to promote regional development and prosperity. During the one-day
+    meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian
+    counterpart Sushma Swaraj discussed a wide range of global and regional issues
+    of common concern, according to the statement. The three countries reiterated
+    the importance they attached to cooperation and strategic partnership within BRICS.
+    "We will work together to implement all outcomes of BRICS summits to strengthen
+    cooperation in economic, political, security and people-to-people fields, so as
+    to usher in the second golden decade of BRICS cooperation," said the statement,
+    while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen
+    in September. The three countries also attached special importance to the joint
+    work within the Shanghai Cooperation Organization, saying the SCO is an important
+    instrument in promoting multilateral political, security, economic and people-to-people
+    interaction in the region. Describing the Russia-India-China trilateral format
+    as a platform to foster closer dialogue and practical cooperation in identified
+    areas among the three countries, the joint statement said such cooperation is
+    not directed against any other country. "We wish to strengthen the trilateral
+    dialogue for consultation and coordination on regional and global issues of mutual
+    interest in the spirit of mutual understanding and trust," it said. "Our cooperation
+    is conducive to maintaining international and regional peace and stability, and
+    promoting global economic growth and prosperity," it added. XINHUA
+  difficulty_constant: 7.2
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到Maintaining regional security... is imperative for lasting
+      peace and stability in the region, which is described as 'open, inclusive and
+      based on multilateralism'. B选项准确概括了这一核心目标。
+    options:
+      A: To establish a dominant geopolitical bloc against other nations.
+      B: To ensure long-term peace and stability through multilateral and inclusive
+        principles.
+      C: To prioritize national interests over international law.
+      D: To restrict the economic influence of the Shanghai Cooperation Organization.
+    q_number: 1
+    stem: According to the joint statement, what is the main objective of maintaining
+      regional security and economic architecture in the Asia-Pacific?
+  - answer: C
+    explanation: 文中提到要实施BRICS峰会的所有成果，从而usher in (开启) 黄金十年，意味着在已有成功的基础上进一步加强合作，故选C。
+    options:
+      A: The end of the cooperation format due to internal disagreements.
+      B: A transition to a more localized and limited scope of interaction.
+      C: A commitment to deepening and sustaining the success of BRICS partnerships.
+      D: The formal dissolution of previous summits held in Xiamen.
+    q_number: 2
+    stem: What does the phrase 'usher in the second golden decade of BRICS cooperation'
+      imply?
+  - answer: C
+    explanation: 文章明确指出 'such cooperation is not directed against any other country'，这直接支持了C选项。
+    options:
+      A: It is intended to challenge the existing global order.
+      B: It specifically targets the East Asia Summit for restructuring.
+      C: It is not meant to be directed against any third party.
+      D: It focuses primarily on military confrontation in the region.
+    q_number: 3
+    stem: Which of the following is true regarding the China-Russia-India trilateral
+      cooperation according to the text?
+  - answer: B
+    explanation: 文章提到SCO是promoting multilateral political, security, economic and
+      people-to-people interaction的工具，这与B选项完全吻合。
+    options:
+      A: Exclusively military and security interactions.
+      B: Promoting multilateral interaction across political, security, and economic
+        fields.
+      C: Replacing the bilateral relations between the three participating countries.
+      D: Controlling the regional development of non-member states.
+    q_number: 4
+    stem: 'The Shanghai Cooperation Organization (SCO) is characterized in the text
+      as an instrument for:'
+  - answer: C
+    explanation: 通篇强调了 'consultation', 'coordination', 'mutual understanding', 'trust'
+      以及 'promoting global economic growth'，体现了积极的协作与前瞻性基调。
+    options:
+      A: Cautious and skeptical.
+      B: Confrontational and aggressive.
+      C: Collaborative and forward-looking.
+      D: Formal but indifferent.
+    q_number: 5
+    stem: What is the overall tone of the joint statement regarding the trilateral
+      dialogue?
+  source_journal: China Daily
+  title: Chinese, Russian and Indian ministers meet
+- article_update_date: 04.10.2026
+  body_text: '| Next | Section menu | Main menu | The Midlife Crisis Comes for Millennial
+    Pop On her first album in eight years, Robyn reckons with motherhood and midlife
+    desire. by Spencer Kornhaber O nce upon the ’90s , a teenage girl named Robin
+    Miriam Carlsson was crowned a pop princess. Her crystalline voice and secretive
+    smile caught the attention of the Swedish record industry, whose producers and
+    songwriters helped her create the swooning global hits “Show Me Love” and “Do
+    You Know (What It Takes).” But Carlsson, first discovered at age 13, realized
+    she didn’t want to be a singing automaton, a mere vessel for the pop machine.
+    She turned down a deal from the U.S. branch of Jive Records, which then set out
+    to find an American version of her—and landed on Britney Spears. By then, Robin
+    Carlsson had become Robyn. A few years later, in 2005, she founded her own label
+    to make her own kind of music. Her new sound combined firm dance beats, campy
+    hip-hop flourishes, and synth riffs that spiraled and tessellated like the instruments
+    in a Bach fugue. Her lyrics declared independence from clingy lovers and assorted
+    social expectations, often through analogies inspired by technology. To simply
+    quote her song titles from 2010’s Body Talk , a now-classic album, she was an
+    “Indestructible” “Fembot” warning, “Don’t Fucking Tell Me What to Do.” Beneath
+    the metallic veneer, though, her songs had the tenderness and precision of a homily.
+    The effect was to make solitude sound sexy, sad, and hopeful at once. The timing
+    had been right for her to liberate herself. The traditional music business was
+    collapsing, as the internet cut into CD sales while letting listeners elevate
+    their own niche idols. Mainstream pop was going maximalist by overloading its
+    production with digital whizbangery; indie rock had risen as a rawer alternative.
+    Robyn split the difference. She expressed a rebellious worldview in a sleek and
+    organized way, like a manifesto in a well-formatted Word doc. That manifesto was
+    one that 21st-century pop culture wanted to hear. Spears had become a cautionary
+    tale: The girl who gave her youth to the record industry ended up losing her legal
+    sovereignty (via the establishment of a conservatorship in 2008 that remained
+    intact until 2021). Robyn did not become nearly as famous, but her emo bangers
+    pointed the way for the likes of Lorde, Ariana Grande, and even Taylor Swift once
+    she started playing with keyboards. Poptimism, the ascendant belief that a genre
+    ruled by formulas and artifice can contain plenty of originality and humanity,
+    made Robyn its mascot. And with time, her outlook on music came to seem like an
+    insight into life itself. Or at least, that’s how many Millennials felt. Though
+    Robyn is Gen X, she captivated my generation of idealists, who were out to upgrade
+    the world that our parents had built and express ourselves in the process. Young
+    adults in the early earbuds age used her songs as fuel for runs, laptop work,
+    Tinder hookups, and the solitary, self-reflective mornings after. We also bopped
+    along to her with our friends. HBO’s Girls cemented her status in a legendary
+    scene : Hannah Horvath carefully drafts a killer tweet in her bedroom, then starts
+    jumping around to Robyn’s defining single, “Dancing on My Own.” Her roommate,
+    back from her yuppie adventuring, walks in and joins the party. The assurance
+    of being yourself and being liked, fulfilling your purpose while climbing life’s
+    rungs, has obvious appeal in youth, before compromises and obligations start to
+    pile too high. But Robyn is now 46 and back with her first album in eight years.
+    She is somehow singing the same song—even if the fable it spins seems more fantastical
+    than ever. Many pop stars mellow into stately eminence in middle age, as Madonna
+    (temporarily) did in her late 30s with 1998’s Ray of Light . Robyn appeared to
+    be trending that way with her last album, 2018’s Honey —a dreamy beatscape that
+    signaled appreciation for the mid-range of life after chasing many highs. Anthemic
+    action was giving way to chill mantras, as if to regulate the ever noisier, ever
+    more distracting world. Robyn performs “Sexistential” on The Late Show With Stephen
+    Colbert in January. (Scott Kowalchyk / CBS) But Sexistential , released in March,
+    pushes in the opposite direction, toward starry-eyed excess and abandon. The cover
+    art shows Robyn screaming and topless. The title track features her rapping the
+    word boner . Echoes of earnest 2000s indie pop, including from Robyn’s own catalog,
+    abound. When she humped the air during a performance on The Late Show With Stephen
+    Colbert in January, much of the internet snickered: Had the coolest girl in pop
+    finally become cringe? Read: Robyn’s Honey : The thrill is gone, and that’s okay
+    Perhaps so—cringe appears to be the fate of anyone older than 25 in the TikTok
+    age. And pop culture has rarely allowed its female stars to grow older without
+    mockery. But Sexistential may discomfit listeners for reasons other than ageism.
+    After Honey , Robyn broke up with her on-and-off partner of more than a decade
+    and then had a son through IVF. To judge by the disorienting sound of this album,
+    middle-aged motherhood for her has been less an experience of setting down roots
+    than of ripping them up. The title song sets her pregnancy saga—scrolling through
+    dating apps amid doctor visits and hormonal spikes—to fast-paced club music while
+    filtering her voice for cartoonish effect. “Blow My Mind” is a cover of her own
+    song from 24 years ago, but this version rewrites lyrics about romantic infatuation
+    into ones about finding your baby to be ridiculously cute. On the final track,
+    “Into the Sun,” distorted bass roars like a rocket engine—evoking her many previous
+    sci-fi references—as Robyn propels herself into the unknown: “Look what I’ve done
+    / So brave and dumb.” The music amplifies both her giddiness and her uncertainty.
+    Sexistential ’s production judders and glitches in ways that call to mind ’80s
+    synth experimentalists such as Art of Noise and the rowdy sample collaging of
+    the Beastie Boys in the ’90s. Its messiness is also in step with 2020s hyperpop—scruffy,
+    topsy-turvy electronic music that seeks to harness, not counteract, modern overstimulation.
+    The wooziest moments sacrifice Robyn’s easy-listening appeal for the sake of surprise.
+    On the album opener, “Really Real,” a shattered-glass sound effect rings out before
+    she sings, “We’re splitting up reality / And I slip out through the crack in between
+    it.” What makes this chaos delightful rather than annoying is Robyn’s unshakable
+    sense of control, grounded in pop principles and thoughtful craft. Sexistential
+    ’s many catchy melodies bounce atop bright, blocky synth lines. Its psychedelic
+    interludes exist to snap back into satisfying rhythms. Its lyrics brim with depersonalized
+    language (“This is where the shared experience ends”), self-help real talk (“Fuck
+    a therapist, it’s not mental / I need philosophy, this shit is existential”),
+    and biological determinism (as in the lead single, “Dopamine”). She’s mapping
+    out the way that even life’s strangest chapters unfold logically. The album, Robyn
+    has said, was partly inspired by hearing André 3000 , of the hip-hop duo Outkast,
+    explain that he’d pivoted to instrumental music because no one wants to hear a
+    48-year-old man rap about his colonoscopy. In Robyn’s view, the unglamorous milestones
+    of middle age are plenty deserving of pop treatment. Two years ago, a 33-year-old
+    Charli XCX dominated pop culture with a similarly unruly album called Brat . It
+    dwelled on the question of whether Charli would ever give up her hard-partying
+    ways and settle down with kids. Robyn is now arguing that the choice is a false
+    one. That argument is certainly upbeat in its implications—but the sound of Sexistential
+    suggests the limits of maturing hedonistically. As I’ve been playing the album
+    on repeat, savoring its intricate details and humming its candied choruses, I’ve
+    felt a little self-conscious: Sexistential ’s childlike glee raises the specter
+    that Robyn and her listeners still have some growing up to do. But I’ve also felt
+    grateful for how playfully she’s engaging with midlife vertigo. The generation
+    that grew up listening to Robyn is full of people whose blend of careerism and
+    individualism has made them delay or skip marriage and children. Have we compromised
+    too much, or not enough? Is there time for a reset? These sorts of questions are
+    timeless rites of passage at the end of youth. Barreling ahead, Robyn is yet again
+    modeling how to find meaning in the conventional—by doing it our own way. This
+    article appears in the April 2026 print edition with the headline “Robyn Is Still
+    Dancing On Her Own.” This article was downloaded by calibre from https://www.theatlantic.com/magazine/2026/04/robyn-sexistential-album/686065/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到Robyn不想成为“唱歌的自动机”或“流行机器的容器”，因此拒绝了Jive唱片的合同并成立了自己的品牌，以创造属于自己的音乐，这表明她是想要摆脱行业的限制。
+    options:
+      A: To replicate the commercial success of her early global hits.
+      B: To escape the rigid control and artistic limitations of the pop industry.
+      C: To compete directly with Britney Spears in the American market.
+      D: To collaborate with producers who specialized in Bach fugue-style music.
+    q_number: 1
+    stem: According to the first two paragraphs, why did Robyn choose to establish
+      her own record label in 2005?
+  - answer: B
+    explanation: 文中指出Robyn虽然没有变得像Britney那样家喻户晓，但她的“emo bangers”（情感强劲的歌曲）为后来的Lorde、Ariana
+      Grande和Taylor Swift等人指明了方向，说明她为艺人保持艺术独立树立了榜样。
+    options:
+      A: She prioritized fame over the authenticity of her artistic expression.
+      B: She provided a blueprint for younger artists to maintain independence.
+      C: She failed to influence the direction of modern electronic music.
+      D: She became a cautionary tale similar to her contemporaries.
+    q_number: 2
+    stem: What does the author suggest about Robyn's impact on 21st-century pop culture
+      in the third paragraph?
+  - answer: C
+    explanation: 上下文提到Robyn在中年阶段经历了分手并育有一子，文章用“ripping them up”来描述她处理中年 motherhood
+      的方式，与“set down roots”（安定下来）形成对比，意指这是一种颠覆性的、重组生活的转折。
+    options:
+      A: The complete destruction of her musical style.
+      B: The violent nature of her personal relationships.
+      C: A radical, disruptive transition in her life trajectory.
+      D: The inevitable failure of her attempts at artistic maturation.
+    q_number: 3
+    stem: 'The phrase ''ripping them up'' (Paragraph 7) regarding Robyn''s middle-aged
+      motherhood is used to convey:'
+  - answer: B
+    explanation: 文中提到该专辑使用了类似Art of Noise和Beastie Boys的采样，且与“2020s hyperpop”接轨，形容为“scruffy”（杂乱的）、“topsy-turvy”（颠倒的），体现了对混乱和超刺激的利用。
+    options:
+      A: A nostalgic return to traditional, clean-cut pop formulas.
+      B: A chaotic, experimental blend of past styles and modern hyperpop.
+      C: A subdued and minimalist soundscape reflecting middle-age calm.
+      D: A purely commercial effort to appeal to TikTok-driven youth.
+    q_number: 4
+    stem: How does the author characterize the production style of Robyn's album 'Sexistential'?
+  - answer: C
+    explanation: 结尾段落提到Robyn正在为一代人“modeling how to find meaning in the conventional—by
+      doing it our own way”（示范如何通过自己的方式在传统中寻找意义），这总结了她对中年生活路径的积极探讨。
+    options:
+      A: She is misguidedly trying to recapture her lost youth.
+      B: She has successfully abandoned all conventional life expectations.
+      C: She is demonstrating a unique way to find significance in conventional life
+        milestones.
+      D: She has become cynical about the possibility of finding meaning in adulthood.
+    q_number: 5
+    stem: What is the author's ultimate assessment of Robyn's approach to middle age
+      in the final paragraph?
+  source_journal: Atlantic
+  title: Chapter 14
