@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.03.2026",
+  "papers": [
+    {
+      "title": "Britain’s youngsters are increasingly out of work",
+      "article_update_date": "03.26.2026",
+      "source_journal": "Economist",
+      "body_text": "Britain’s youngsters are increasingly out of work Britain | Not so NEET Britain’s youngsters are increasingly out of work The government’s fixes fall short March 19th 2026 The British did not have much to boast about in the 2010s. Wages and growth were stagnant; the country’s international reputation lay in tatters after the Brexit vote in 2016. But Britons could at least console themselves on one matter. Whereas many young continental Europeans were languishing on street corners—youth unemployment in Spain peaked at 56%—British school-leavers were largely spared. At the post-crash nadir, only one in five young people was unemployed. That crumb of comfort was taken away last summer, when youth unemployment in Britain overtook the EU average for the first time this millennium. The rate has climbed from 9% in 2022 to 16% now (see chart 1). This has swelled the ranks of the nearly 1m people aged 16-24 who are not in education, employment or training, or NEETs in the jargon. Pat McFadden, the work and pensions secretary, announced plans to tackle the issue on March 16th. His flagship policy involves paying employers a £3,000 ($4,000) bung to hire young people who have been on benefits for six months. Mr McFadden’s commitment is welcome but his solutions are inadequate. Two distinct problems drive worklessness and they need different remedies. The first is the more recent surge in youth unemployment—people actively seeking work but unable to find it. The culprit is a shortage of jobs. Britain’s economy is weak, with low consumer spending hitting retail and hospitality hard. Young people are especially exposed: over 40% of employed 16- to 24-year-olds work in those industries, against just 16% of over-25s. When shops and pubs started to shed staff, the young were the ones who suffered. The government has made matters worse. In a victory for siloed thinking, Labour simultaneously increased payroll taxes, strengthened employment rights and concentrated minimum-wage increases on young people. The minimum wage for a 21-year-old will reach £12.71 an hour in April 2026, up from £8.20 in April 2020. While each measure might have been manageable alone, their combined effect has throttled employer demand. The arithmetic is stark. A 21-year-old working three days a week on minimum wage will cost an employer £17,500 a year in April 2026, over £4,000 more than in April 2020 in real terms. Against that backdrop, the government’s proposed subsidy, estimated to help a narrow subgroup of 150,000 NEETs, can be only a partial fix. More worrying is the second driver of high worklessness: the large inactive population of youngsters who are not even seeking a job. Nearly three-fifths of NEETs are economically inactive. Historically a major reason for this was women looking after children. But as teenage motherhood plummeted in recent decades, there has been a remarkable drop-off in people not working because they were caring for kids. This success has been thwarted by a countervailing trend: young Britons are getting sicker. The share of inactive NEETs citing ill health has nearly tripled over the past two decades (see chart 2). Today almost half report a disability, with mental-health conditions and learning difficulties to the fore. Getting this group into work needs more than a £3,000 bribe to employers. The government knows it and has appointed Alan Milburn, a former minister, to examine what more can be done. Mr Milburn will need to tackle the benefits system, where disabled people are paid more than others but are often left with little support to find jobs. He must also probe what the government can do about the underlying causes of poor mental health among teenagers, whether poor sleep, social isolation or too much screen time. But many of the things putting youngsters with health conditions off work afflict all teenagers. The system fails them on many fronts. Britain’s post-school landscape is a maze of poorly understood technical qualifications. Local authorities often lose track of where youngsters go, letting many NEETs slip through the net. Apprenticeship opportunities are increasingly taken up by older people: over half of starts are now by people aged above 25. This has left young people with fewer good options. The complexity of what lies behind Britain’s youth worklessness means that the government cannot solve it with one NEET trick. It must act on all fronts. It should ease up on minimum-wage rises for young people, at least until employers’ demand for workers recovers. It needs to reform both the benefits and education systems so that nobody falls through the gaps. And it should double down on its recent efforts to focus apprenticeships on young people, for whom such schemes achieve the most good. Do all that, and Britons might have something to boast about once more to their continental cousins. ■ For more expert analysis of the biggest stories in Britain, sign up to Blighty, our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//britain/2026/03/19/britains-youngsters-are-increasingly-out-of-work",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Britain’s youngsters are increasingly out of work. The government’s fixes fall ____.",
+          "options": {
+            "A": "behind",
+            "B": "flat",
+            "C": "short",
+            "D": "through"
+          },
+          "answer": "C",
+          "explanation": "fall short 固定搭配，意为“达不到预期/效果不佳”。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The British did not have much to boast about in the 2010s. Wages and growth were ____.",
+          "options": {
+            "A": "soaring",
+            "B": "stagnant",
+            "C": "robust",
+            "D": "transient"
+          },
+          "answer": "B",
+          "explanation": "根据上下文，英国经济表现不佳，工资和增长停滞（stagnant）。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Whereas many young continental Europeans were languishing on street corners, British school-leavers were largely ____.",
+          "options": {
+            "A": "ignored",
+            "B": "spared",
+            "C": "condemned",
+            "D": "exposed"
+          },
+          "answer": "B",
+          "explanation": "spared 在此处意为“免遭（失业之苦）”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "At the post-crash nadir, only one in five young people was unemployed. That ____ of comfort was taken away.",
+          "options": {
+            "A": "shred",
+            "B": "crumb",
+            "C": "glimmer",
+            "D": "pillar"
+          },
+          "answer": "B",
+          "explanation": "a crumb of comfort 是固定短语，指“一点点安慰”。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The rate has climbed from 9% in 2022 to 16% now. This has ____ the ranks of the nearly 1m people.",
+          "options": {
+            "A": "depleted",
+            "B": "integrated",
+            "C": "narrowed",
+            "D": "swelled"
+          },
+          "answer": "D",
+          "explanation": "swelled the ranks 指“扩大了……的队伍/人数”。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Mr McFadden’s commitment is welcome but his solutions are ____.",
+          "options": {
+            "A": "inadequate",
+            "B": "elaborate",
+            "C": "innovative",
+            "D": "compelling"
+          },
+          "answer": "A",
+          "explanation": "转折词 but 引导相反语义，故选“不充分的”。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Two distinct problems drive worklessness and they need different ____.",
+          "options": {
+            "A": "symptoms",
+            "B": "remedies",
+            "C": "schedules",
+            "D": "consequences"
+          },
+          "answer": "B",
+          "explanation": "面对问题（problems）需要的是解决方案（remedies）。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The ____ is a shortage of jobs.",
+          "options": {
+            "A": "guardian",
+            "B": "pioneer",
+            "C": "culprit",
+            "D": "advocate"
+          },
+          "answer": "C",
+          "explanation": "culprit 在此处指“罪魁祸首/核心原因”。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Young people are especially ____: over 40% of employed 16- to 24-year-olds work in those industries.",
+          "options": {
+            "A": "protected",
+            "B": "exposed",
+            "C": "isolated",
+            "D": "privileged"
+          },
+          "answer": "B",
+          "explanation": "exposed 在此语境下指在经济波动中“面临风险/脆弱的”。"
+        },
+        {
+          "q_number": 10,
+          "stem": "When shops and pubs started to shed staff, the young were the ones who ____.",
+          "options": {
+            "A": "triumphed",
+            "B": "benefited",
+            "C": "prospered",
+            "D": "suffered"
+          },
+          "answer": "D",
+          "explanation": "根据上下文，裁员对年轻人造成了打击（suffered）。"
+        },
+        {
+          "q_number": 11,
+          "stem": "In a victory for siloed thinking, Labour simultaneously increased payroll taxes, ____ employment rights.",
+          "options": {
+            "A": "strengthened",
+            "B": "compromised",
+            "C": "undermined",
+            "D": "abandoned"
+          },
+          "answer": "A",
+          "explanation": "strengthened 语义与提高税收并列，指政策的叠加影响。"
+        },
+        {
+          "q_number": 12,
+          "stem": "While each measure might have been manageable alone, their combined effect has ____ employer demand.",
+          "options": {
+            "A": "boosted",
+            "B": "rejuvenated",
+            "C": "throttled",
+            "D": "stimulated"
+          },
+          "answer": "C",
+          "explanation": "throttled 指“抑制/扼杀”，符合负面效果语境。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The arithmetic is ____. A 21-year-old... will cost an employer £17,500 a year.",
+          "options": {
+            "A": "vague",
+            "B": "dubious",
+            "C": "stark",
+            "D": "obscure"
+          },
+          "answer": "C",
+          "explanation": "stark 在此意为“严峻的/明显的”。"
+        },
+        {
+          "q_number": 14,
+          "stem": "This success has been ____ by a countervailing trend: young Britons are getting sicker.",
+          "options": {
+            "A": "endorsed",
+            "B": "facilitated",
+            "C": "thwarted",
+            "D": "accelerated"
+          },
+          "answer": "C",
+          "explanation": "thwarted 意为“阻碍/挫败”。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The share of inactive NEETs citing ill health has nearly ____ over the past two decades.",
+          "options": {
+            "A": "stagnated",
+            "B": "plummeted",
+            "C": "halved",
+            "D": "tripled"
+          },
+          "answer": "D",
+          "explanation": "根据文章第三段，健康不佳导致的非经济活动人口比例 tripled（翻了三倍）。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Today almost half report a disability, with mental-health conditions and learning difficulties to the ____.",
+          "options": {
+            "A": "fore",
+            "B": "surface",
+            "C": "bottom",
+            "D": "verge"
+          },
+          "answer": "A",
+          "explanation": "to the fore 是固定搭配，意为“显著/突出”。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Getting this group into work needs more than a £3,000 ____ to employers.",
+          "options": {
+            "A": "premium",
+            "B": "bonus",
+            "C": "subsidy",
+            "D": "bribe"
+          },
+          "answer": "D",
+          "explanation": "文中此处用 bribe（贿赂）一词带有批判性色彩，与上下文呼应。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Many of the things putting youngsters with health conditions off work ____ all teenagers.",
+          "options": {
+            "A": "benefit",
+            "B": "comfort",
+            "C": "exempt",
+            "D": "afflict"
+          },
+          "answer": "D",
+          "explanation": "afflict 意为“折磨/困扰”。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Local authorities often lose track of where youngsters go, letting many NEETs ____ through the net.",
+          "options": {
+            "A": "fall",
+            "B": "slip",
+            "C": "break",
+            "D": "pass"
+          },
+          "answer": "A",
+          "explanation": "fall through the net 固定搭配，意为“漏网/被忽视”。"
+        },
+        {
+          "q_number": 20,
+          "stem": "It should ease up on minimum-wage rises for young people, at least until employers’ ____ for workers recovers.",
+          "options": {
+            "A": "demand",
+            "B": "capacity",
+            "C": "enthusiasm",
+            "D": "supply"
+          },
+          "answer": "A",
+          "explanation": "demand for workers 是经济学中的固定表达，指“用工需求”。"
+        }
+      ]
+    },
+    {
+      "title": "Fears of resurgence in Somali piracy after three vessels hijacked in a week",
+      "article_update_date": "04.28.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Three vessels have been hijacked off the coast of Somalia in the past week, raising fears of a resurgence in piracy around the Horn of Africa, and adding to the woes of the global shipping industry. The merchant vessel Sward was taken over on 26 April, a day after a dhow was seized. These followed the 21 April hijacking of Honour 25, a motor tanker carrying 18,000 barrels of oil, according to the Maritime Security Centre Indian Ocean (MSCIO), the tracking service of the EU’s naval force. “All incidents remain ongoing …,” the MSCIO said in a statement on Monday. “Vessels operating in the area are strongly advised to maintain heightened vigilance … particularly within 150NM [nautical miles] of the Somali coast between Mogadishu and Hafun where feasible.” Piracy around Somalia jumped in the late 2000s, peaking in 2011 with 212 attacks, according to EU naval force data. Pirates became more audacious, raiding ships as far as 2,270 miles off the Somali coast in the Indian Ocean. An international naval coalition then stemmed the tide of attacks, cutting them to just a handful each year from 2014. However, incidents began to rise again in 2023. Global shipping is already reeling from the near-total closure of the strait of Hormuz by Iran and attacks by the Iranian-backed Yemeni Houthi rebels around the narrow Bab el Mandeb strait. Ships have to sail through the straits to exit the Red Sea, one of the world’s busiest shipping routes, with many then heading around the Horn of Africa. Sward is a cement carrier that left the port of Suez in Egypt on 13 April. It was en route to Mombasa, Kenya, when it was captured by pirates about 6 nautical miles (11km) from the Somali port town of Garacad. The ship had 17 crew members, 15 from Syria and two from India, according to three security officials from the autonomous Somali region of Puntland. View image in fullscreen The motor tanker Honour 25 was hijacked on 21 April. Photograph: EU naval force Operation Atalanta After the hijacking, shortly after 8pm on Sunday, the pirates steered the ship towards the coast and anchored it in a remote area near Garacad. Six armed men and an unarmed interpreter fluent in English and Arabic then boarded the ship. “He’s not only speaking with the crew but also dealing with the owner of the ship,” one of the security officials said. A second official said: “The interpreter is in charge.” By Tuesday morning, four more armed men had boarded Sward, bringing the total number of pirates on board to 20, according to the officials. Jethro Norman, a senior researcher with the Danish Institute for International Studies, said pirates had taken advantage of international navies diverting resources towards the Red Sea to combat the Houthi attacks, and Puntland’s Emirati-backed security forces being stretched. Norman said: “Pirate networks are testing the waters again and they are better equipped than the last generation. GPS, satellite communications and hijacked dhow motherships let them operate hundreds of miles offshore.” A third Puntland security official said that a shipment of khat, a narcotic stimulant widely used in the Horn of Africa, was taken out in a small boat to the pirates on the cement carrier on Tuesday morning. It had been driven about 150 miles from the inland city of Galkayo on Monday, suggesting the pirates have a network on land and are potentially preparing for a long siege at sea.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary implication of the recent hijacking incidents off the coast of Somalia?",
+          "options": {
+            "A": "The global shipping industry has successfully eradicated piracy in the Horn of Africa.",
+            "B": "The resurgence of piracy is further straining an already burdened global shipping sector.",
+            "C": "International naval coalitions have increased their presence to record levels in Somali waters.",
+            "D": "The Yemeni Houthi rebels have officially allied with Somali pirates to disrupt trade."
+          },
+          "answer": "B",
+          "explanation": "文章第一段提到，索马里海域近期发生的劫持事件加剧了全球航运业的困境（adding to the woes of the global shipping industry），这与B选项含义一致。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to Jethro Norman, why have pirate activities seen a recent increase?",
+          "options": {
+            "A": "International navies have completely withdrawn from the Somali coast.",
+            "B": "Pirates have abandoned their traditional dhow motherships for more advanced technology.",
+            "C": "Pirates are exploiting the shifting focus of international navies and local security resource constraints.",
+            "D": "The demand for illegal narcotics like khat has plummeted, forcing pirates to find new revenue."
+          },
+          "answer": "C",
+          "explanation": "文章提到Jethro Norman指出，海盗利用了国际海军将资源转向红海以应对胡塞武装攻击，且邦特兰地区的安保力量薄弱（stretched）这一时机。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is indicated by the delivery of khat to the hijacked vessel?",
+          "options": {
+            "A": "The pirates intend to sell the narcotics to the ship's crew.",
+            "B": "The hijacking is likely planned as a protracted standoff rather than a short-term theft.",
+            "C": "The pirates are suffering from supply shortages due to the blockade by Puntland forces.",
+            "D": "The Somali port town of Garacad has officially sanctioned the pirates' activities."
+          },
+          "answer": "B",
+          "explanation": "文中提到这种麻醉剂通过陆路被运往船上，暗示海盗拥有陆地网络，并且可能正在为长期的海上对峙（long siege at sea）做准备。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The phrase 'reeling from' in the context of global shipping implies that the industry is:",
+          "options": {
+            "A": "Profiting significantly from recent geopolitical tensions.",
+            "B": "Adapting efficiently to new maritime security protocols.",
+            "C": "Suffering from severe disruption or negative impacts.",
+            "D": "Expanding its routes into the Indian Ocean to avoid the Red Sea."
+          },
+          "answer": "C",
+          "explanation": "reeling from 指因某事而处于困境或遭受重创，结合上文描述的霍尔木兹海峡关闭及胡塞武装袭击，体现了航运业正遭受严重打击。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the role of the interpreter on the Sward suggest about the pirates?",
+          "options": {
+            "A": "They are acting as independent mercenaries for foreign powers.",
+            "B": "They lack the basic communication skills required for hijacking.",
+            "C": "They are becoming more organized and methodical in their operations.",
+            "D": "They are prioritizing the safety and well-being of the ship's crew."
+          },
+          "answer": "C",
+          "explanation": "文中描述海盗使用专业的英语和阿拉伯语翻译官与船员及船主沟通，且翻译官在指挥行动，这表明他们不仅装备升级，且组织性和执行手段更趋于系统化。"
+        }
+      ]
+    },
+    {
+      "title": "Satellite lofted for first Arab country",
+      "article_update_date": "06.20.2026",
+      "source_journal": "China Daily",
+      "body_text": "Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria. A Long March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes before placing the Alcomsat-1, the Algeria's first communications satellite, into geostationary transfer orbit, according to a news release from China Great Wall Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the successful mission. In his message, Xi said that the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership. It has become a good example of space cooperation between China and Arab countries and will play a significant role in promoting Algeria's economic and social development, he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges and cooperation in various fields, deepening the bilateral partnership so as to benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable achievement in space cooperation between the two countries and reflects the deep traditional friendship between the two sides. Algeria is willing to work with China to strengthen cooperation, he said. The satellite contract was signed in December 2013 between the Algerian Space Agency and China Great Wall Industry Corp, the country's largest space contractor in the international market. Alcomsat-1 was designed and manufactured by the China Academy of Space Technology, part of China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform. With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the satellite will be used for a wide variety of public services such as television broadcasting, emergency communications, remote education and satellite-based signal augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of the company, said Alcomsat-1 is as good as Western communications satellites in terms of technology and capacity. He said there are other contracts between his firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn",
+      "difficulty_constant": 5.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary significance of the Alcomsat-1 launch mentioned in the text?",
+          "options": {
+            "A": "It marks China's first attempt at launching a satellite for a foreign nation.",
+            "B": "It represents the first communications satellite exported by China to an Arab country.",
+            "C": "It is the first time a Long March 3B rocket has been used for an international mission.",
+            "D": "It signals the start of a new space cooperation treaty between China and Africa."
+          },
+          "answer": "B",
+          "explanation": "文章第一段明确指出：A Chinese-made communications satellite became the first 'export' of such a spacecraft to an Arab country。故选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How did President Xi Jinping describe the significance of the Alcomsat-1 project?",
+          "options": {
+            "A": "As a purely commercial endeavor to boost China's aerospace profits.",
+            "B": "As a strategic initiative to monitor geopolitical activities in the region.",
+            "C": "As an important manifestation of the China-Algeria comprehensive strategic partnership.",
+            "D": "As a technological testbed for future Sino-Arab joint defense systems."
+          },
+          "answer": "C",
+          "explanation": "文中第四段明确引用习近平主席的话：the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, what is the main purpose of the Alcomsat-1 satellite?",
+          "options": {
+            "A": "To conduct scientific research on space weather and solar activity.",
+            "B": "To assist with military reconnaissance and surveillance in North Africa.",
+            "C": "To provide public services such as broadcasting and remote education.",
+            "D": "To replace outdated satellites currently orbiting over Algeria."
+          },
+          "answer": "C",
+          "explanation": "文章倒数第二段提到：the satellite will be used for a wide variety of public services such as television broadcasting, emergency communications, remote education..."
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred about the technical quality of the Alcomsat-1?",
+          "options": {
+            "A": "It is considered inferior to Western satellites but cheaper to produce.",
+            "B": "It is on par with Western communication satellites in terms of technology and capacity.",
+            "C": "It is a prototype that requires further testing before widespread use.",
+            "D": "It is a highly specialized model built solely for emergency communication."
+          },
+          "answer": "B",
+          "explanation": "文章最后一段Fu Zhiheng的话：Alcomsat-1 is as good as Western communications satellites in terms of technology and capacity。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the tone of the article regarding the collaboration between China and Algeria?",
+          "options": {
+            "A": "Objective and informative.",
+            "B": "Critical and skeptical.",
+            "C": "Humorous and ironic.",
+            "D": "Indifferent and detached."
+          },
+          "answer": "A",
+          "explanation": "文章通过客观陈述事实、引用领导人言论以及引用企业高管评价，整体呈现出客观且新闻报道式的风格。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 20",
+      "article_update_date": "06.09.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Olivia Cheng The Big Story Jan 20, 2026 6:00 AM She Was Given Up by Her Chinese Parents—and Spent 14 Years Trying to Find a Way Back More and more Chinese adoptees in the US are trying to reunite with their birth parents. For Youxue, it took more than a decade, and a remarkable coincidence. ILLUSTRATION: DADU SHIN A girl is found on a street in Ma’Anshan, China, in May 1993. Her paternal grandfather, the story goes, set her down and walked away. No explanation. It’s unclear how long she’s been outside when somebody arrives and takes her to the orphanage. A white woman adopts the girl and brings her to America in August 1994. She gives her an English name. In spring 2010, when Youxue (her Chinese name) was a high school sophomore in Dallas, Texas, she decided to start searching for her birth parents. She knew it wouldn’t be easy. Given the international nature of her adoption and the under-the-table circumstances in which most Chinese children were relinquished, there was a strong likelihood she would never find them. But her adoptive mother was supportive and found a “searcher” through Yahoo groups, one of the first forums where adoptees connected online. In China, the searcher plastered posters of Youxue and her information in high-traffic areas of Ma’Anshan, in Anhui Province, and went to the police station that was listed in Youxue’s certification of abandonment. There, the searcher was able to access records and find a short note that Youxue had apparently been left with. In September, several families came forward. One of them seemed like a potential match. They had an older daughter and a younger son. Looking at photographs, Youxue thought she could see a resemblance. For the maternity DNA test, she sent off a cotton swab with buccal cells from the inside of her cheek, along with a few strands of hair. The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . In November, she received a text from her adoptive mother that the DNA results had come back positive. There was a match! She wanted to tell all her friends and family; she felt whole. She started taking Mandarin lessons and texting with her birth parents. They said they loved each other and couldn’t wait to meet. But when she was on spring break in 2011, Youxue’s birth father told her that her birthday was September 11, 1994. This was impossible. Youxue had already been adopted by then. Thinking it was a mistake, Youxue replied, but he insisted: Mother knows birth date. After checking with the DNA company, Youxue found out they had emailed her someone else’s results. This was not her biological family. Devastated, Youxue deleted all of her messages with the family and all of her photographs of them. She knew she would regret it, and that they could even be useful for another adoptee, but she couldn’t bear to hold onto them anymore. To want something is to expose yourself to pain, and choosing to search means opening yourself to heartbreak. Meanwhile, in a small village in China’s Anhui Province, a mother asked her adult daughter and teenage son to help her search for her two relinquished daughters. She had long wanted to look for them, but she spoke only her local dialect and had little access to technology. With no formal education, she didn’t know where to begin, and nobody was sure how to help. Decades earlier, the conditions that shaped this family’s life were set in motion by China’s one-child policy. The government’s population control program, enacted in the late 1970s, turned family planning into state-mandated decisions about which children were allowed to exist. In the ’80s, rural parents were allowed to have a second child only if the first was a daughter. Families who violated the policy received large fines and other penalties, sometimes sterilization and physical violence. Today, there are more than 82,000 Chinese adoptees in the United States , most adopted between 1999 and 2016. More than 60 percent of the children adopted in that period were girls . The majority of adoptive parents are white, wealthy, and well educated. Because child abandonment is illegal in China, very little documentation connects Chinese adoptees with their birth families. In the summer of 2011, only a few months after the false match, Youxue and her adoptive mother traveled to China to try searching again. Through a friend who had been adopted from the same orphanage and was now reunited with his birth family, they found another searcher who, along with a local radio personality, had helped make a successful reunion in the past. With access to police records and the short note the first searcher found, they finally had more context to move forward. In Ma’Anshan, Youxue did newspaper interviews, online news interviews, and even a television interview that ran on all the local buses. She was searching for families that had relinquished a daughter between August 1993 and January 3, 1994, because her orphanage documents stated she was likely born around that time. She did blood tests. That summer, one family matched everything. Both parents had her blood type. They even knew what was on the note left with the baby; they said they had written that note years earlier in a moment of desperation. With a news crew in tow, Youxue and her adoptive mother caravaned to the family’s house in a neighboring township. Nobody could stop crying. But the second Youxue saw the mother step out of her house, she knew something wasn’t right. They looked nothing alike. Youxue had long suspected her paperwork wasn’t accurate. In 1994, when her mother adopted her, she was tall for her age. The documents listed her as a seven-month-old. She’d had developmental delays, common for children in orphanages who are malnourished, but even accounting for those, she was likely older than her papers showed. She’d also had more teeth than a seven-month-old normally would. Now she knew: The note, the police records, the photographs—all of it had to be somebody else’s. In 1993, a girl was left on the stoop of a police station in Ma’Anshan, but it wasn’t Youxue. That girl, hopefully still alive, may have Youxue’s papers, because Youxue has hers. Youxue continued her search. All that she had known about the circumstances of her birth was incorrect. The only thing she could be certain of was the orphanage her mother had adopted her from. In the fall of 2012, Youxue’s new searcher reached out again and said that somebody had seen her footage and wanted her to be on the Chinese TV show Wait for Me , which tries to connect missing children with family members. Later that year, she appeared on the show, the first non-Chinese citizen to be featured. One family eventually came forward, but they were eliminated based on blood type. Even though Youxue continued learning Chinese, her hope began to falter. Years passed. By 2020, as Covid-19 outbreaks swept across China, Youxue couldn’t escape the fact that her birth parents were getting older and that perhaps time had run out. A woman in Anhui Province saw one of Youxue’s online interviews, but she didn’t recognize her. She scrolled past, unaware that the woman on her screen was her niece. Her sister, Youxue’s mother, had been searching for Youxue for a long time. In recent years, a growing number of Chinese American adoptees have begun looking for their birth families, many for the first time as adults. Empowered by consumer DNA tests like 23andMe and AncestryDNA, they are finding relatives in ways that would have been impossible a decade ago. One woman I talked to located her birth parents within days of uploading her DNA. Another, Alyse, discovered a cousin, also adopted and living in the United States, after finding a 14 percent genetic match. When they first met over FaceTime, the two sat in silence, studying each other’s faces. “Actually seeing each other was really surreal,” Alyse told me. Like many adoptees now rediscovering relatives across continents, their conversation turned from family history to the eerie parallels of their lives. Both were pursuing doctorates; both filled their free time with art: knitting, crocheting, painting. The similarities felt like proof of some phantom thread that had always connected them. Every year, technology narrows the distance between international adoptees and their biological families. Created in 2009, China’s National Reunion Database allows anybody to go to a police station and submit their DNA to try to find their family members. In 2016, China launched the Reunion System, which includes mapping technology and assistance from Chinese social media giants like Douyin to post information that could help children and families find each other. Similar to Amber Alert, the Reunion System uses nearly 30 mobile apps and media outlets to disseminate information to peoples’ phones . China also set up free blood collection sites across the country. These new efforts reflect the government’s desire to resolve high-profile abduction cases and demonstrate responsiveness to a crisis that has drawn international scrutiny. In April 2024, Youxue heard about the National Reunion Database during a virtual GED Match Day, an online event that helps people consolidate their DNA files in a single place. The fact that the National Reunion Database was new to Youxue underscores how little-known it remains outside of China. The next month, with instructions from the Nanchang Project, a nonprofit that helps Chinese adoptees find their birth families, Youxue mailed her DNA sample to the database. Youxue received confirmation that her DNA had arrived in China on July 14. Forty-eight hours later, a remarkable coincidence: A woman in Anhui Province submitted her DNA to the National Reunion Database too. On August 20, Youxue received a congratulatory email from one of the Nanchang Project volunteers. Youxue had a definitive match with two parents. At first, she couldn’t believe it. The last company had sent her a false match. But matching with both parents offered a new level of certainty. A volunteer at the Nanchang Project told Youxue the names of the parents. The next morning, she received an Instagram message from an account she didn’t recognize. It was a message from a friend of her first cousin in China. In April 2025, Youxue and her adoptive mother flew to Shanghai. Her biological older sister met them at the airport with her husband and young child. Earlier, over texts, her sister had asked Youxue to give her child—Youxue’s biological nephew—an English name. Youxue chose Henry. Crying and holding two massive bouquets of flowers, her sister hugged her while her brother-in-law held the sign “Welcome to China.” They spent the next day walking around Shanghai and talking. Youxue has two older sisters and one younger brother. Her family kept the eldest daughter and relinquished the second and then the third—Youxue. Nobody has been able to track down the second-eldest daughter; her fate remains unknown. Youxue’s family had been pressured by Youxue’s grandparents to have a son, and the family planning office in their region was strict. Her real birth date is eight months off from what the documents said. Youxue has the same skin and lines across her cheeks as her mother, and she looks just like her brother and father. They have the same smile. After a few days in Shanghai, her sister’s family drove them to her family’s village, where her parents still lived. Youxue hadn’t been from Ma’Anshan after all, but a poorer village in nearby Wuhu. Relinquished children were often left in higher-trafficked cities where they had a better chance of being found. Her parents and her brother met them outside a hotel. Her father, red-faced and sobbing, wore a blue polo and her mother a red velour tracksuit. They held each other. They hugged her adoptive mother. Youxue later told me that her father cries more easily than her",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest about Youxue’s first attempt to find her birth parents?",
+          "options": {
+            "A": "It was hindered by a lack of support from her adoptive family.",
+            "B": "It was based on inaccurate documentation and false DNA results.",
+            "C": "It was purposefully sabotaged by local police authorities.",
+            "D": "It failed primarily because the orphanage refused to provide records."
+          },
+          "answer": "B",
+          "explanation": "文章提到，Youxue第一次DNA检测结果是由DNA公司误发给他人的，且她后续意识到孤儿院文件中的年龄和出生日期存在误差，表明她的第一次搜寻是基于错误信息和虚假匹配的。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The phrase 'phantom thread' in the fourth paragraph most likely refers to:",
+          "options": {
+            "A": "The mysterious digital footprints left by Chinese adoptees.",
+            "B": "The legal loopholes created by the one-child policy.",
+            "C": "The invisible, inherent connection between biological relatives.",
+            "D": "The fabricated stories used to simplify the adoption process."
+          },
+          "answer": "C",
+          "explanation": "文中描述两个领养子女在面谈中发现彼此有很多相似之处（如职业、爱好），这些相似感被比作“phantom thread”（幽灵线），意指血缘带来的那种难以言喻的隐形纽带。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does the author mention the 'Reunion System' in the text?",
+          "options": {
+            "A": "To illustrate the government’s shift toward technology-driven family reunification.",
+            "B": "To criticize the lack of privacy protection in Chinese digital databases.",
+            "C": "To explain the historical causes of child abandonment in the 1970s.",
+            "D": "To show how international NGOs have replaced local police in search efforts."
+          },
+          "answer": "A",
+          "explanation": "文章指出中国推出的“Reunion System”整合了地图技术和社交媒体，旨在解决人口拐卖和帮助寻找失散儿童，反映了政府利用新技术应对社会问题的倾向。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the outcome of Youxue's search?",
+          "options": {
+            "A": "She was finally reunited with her family after verifying their identity via the National Reunion Database.",
+            "B": "She discovered that her birth family had intentionally hidden her records to protect her.",
+            "C": "She gave up her search in 2020 due to the complications caused by the global pandemic.",
+            "D": "She found out that she had been part of a systematic international adoption fraud."
+          },
+          "answer": "A",
+          "explanation": "文章最后部分明确写道，Youxue通过国家寻亲数据库提交DNA，最终在2025年成功与生父生母及兄弟姐妹团聚，并确认了其身份。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the abandonment of children like Youxue in the 1990s?",
+          "options": {
+            "A": "It was primarily a result of parents' indifference toward their children.",
+            "B": "It was often a desperate response to strict population control measures.",
+            "C": "It was encouraged by local governments to promote international adoption.",
+            "D": "It was a rare occurrence limited to only the poorest provinces of China."
+          },
+          "answer": "B",
+          "explanation": "文中提到，家庭被计划生育政策所迫，且因为想要儿子，导致农村家庭在违反政策时面临重罚，迫使他们做出放弃女儿的无奈决定。"
+        }
+      ]
+    }
+  ]
+}
