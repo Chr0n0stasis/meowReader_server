@@ -1,0 +1,465 @@
+group_update_date: 07.04.2026
+papers:
+- article_update_date: 06.29.2026
+  body_text: In some unconventional superconductors, time-reversal symmetry can be
+    broken in addition to the gauge symmetry1, resulting in superconductivities that
+    can be enhanced or induced by magnetic fields2. However, field-enhanced superconductors
+    are more vulnerable to impurities than Bardeen-Cooper-Schrieffer counterparts3.
+    Crystalline rhombohedral multilayer graphene is a promising platform to explore
+    them due to its superior material quality and gate-tunable strong correlation
+    effects4,5. Here we report transport measurements of rhombohedral tetralayer and
+    pentalayer graphene, demonstrating a spectrum of clean-limit superconductivities.
+    We found three different types of field-enhanced and field-induced superconductivities
+    in the pentalayer. They are all robust against an in-plane field up to 8.5 Tesla,
+    exceeding the Pauli limit by tens of times. Compared to Bernal bilayer graphene
+    showing only in-plane field-enhancement6, pentalayer graphene features superconductors
+    enhanced by out-of-plane as well as in-plane fields. They also reside at much
+    lower gate electric fields owing to the intrinsically flatter band dispersion—facilitating
+    their study and further engineering. Additionally, we observed that proximitized
+    spin-orbit coupling (SOC) generates multiple new superconductors without introducing
+    additional disorder effects. Our work establishes a new family of magnetic field-boosted
+    superconductors in rhombohedral graphene. Utilizing the high accessibility with
+    moderate gate voltages, this will pave the way for realizing non-Abelian quasiparticles
+    through interfacial engineering7 in the extreme clean limit, in that proximitized
+    SOC leads to topological states8 and maintains the ultrahigh quality of crystalline
+    graphene.
+  difficulty_constant: 12.8
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: 上下文指出时间反转对称性在非常规超导体中是被破坏的，broken符合语境。
+    options:
+      A: ignored
+      B: retained
+      C: restored
+      D: broken
+    q_number: 1
+    stem: In some unconventional superconductors, time-reversal symmetry can be _____
+      in addition to the gauge symmetry.
+  - answer: B
+    explanation: 根据后文field-enhanced，此处应填入增强，即enhanced。
+    options:
+      A: neglected
+      B: enhanced
+      C: diminished
+      D: abolished
+    q_number: 2
+    stem: These superconductivities can be _____ or induced by magnetic fields.
+  - answer: A
+    explanation: vulnerable意为易受伤害的，符合材料科学中超导体对杂质敏感的语境。
+    options:
+      A: vulnerable
+      B: resistant
+      C: indifferent
+      D: impervious
+    q_number: 3
+    stem: However, field-enhanced superconductors are more _____ to impurities than
+      Bardeen-Cooper-Schrieffer counterparts.
+  - answer: D
+    explanation: 石墨烯被视为探索超导现象的实验基础，即平台(platform)。
+    options:
+      A: barrier
+      B: obstacle
+      C: limitation
+      D: platform
+    q_number: 4
+    stem: Crystalline rhombohedral multilayer graphene is a promising _____ to explore
+      them due to its superior material quality.
+  - answer: D
+    explanation: 强关联(correlation)效应是凝聚态物理中的专业术语。
+    options:
+      A: insulation
+      B: repulsion
+      C: dissipation
+      D: correlation
+    q_number: 5
+    stem: It is also chosen due to its gate-tunable strong _____ effects.
+  - answer: B
+    explanation: 实验报告通常涉及具体的测量数据(measurements)。
+    options:
+      A: theories
+      B: measurements
+      C: hypotheses
+      D: speculations
+    q_number: 6
+    stem: Here we report transport _____ of rhombohedral tetralayer and pentalayer
+      graphene.
+  - answer: A
+    explanation: spectrum在此处指代一系列或广泛的范围。
+    options:
+      A: spectrum
+      B: shortage
+      C: deficit
+      D: scarcity
+    q_number: 7
+    stem: The study demonstrates a _____ of clean-limit superconductivities.
+  - answer: D
+    explanation: 前文明确提到了研究对象为pentalayer石墨烯。
+    options:
+      A: lattice
+      B: molecule
+      C: vacuum
+      D: pentalayer
+    q_number: 8
+    stem: 'We found three different types of field-enhanced and field-induced superconductivities
+      in the _____. '
+  - answer: A
+    explanation: robust意为强健的，指代超导性在磁场下依然稳定。
+    options:
+      A: robust
+      B: vague
+      C: fragile
+      D: tenuous
+    q_number: 9
+    stem: They are all _____ against an in-plane field up to 8.5 Tesla.
+  - answer: C
+    explanation: exceeds意为超过，符合描述磁场强度突破极限的语境。
+    options:
+      A: surpasses
+      B: undermines
+      C: exceeds
+      D: obscures
+    q_number: 10
+    stem: The magnetic field strength _____ the Pauli limit by tens of times.
+  - answer: B
+    explanation: features意为以...为特色，符合语境。
+    options:
+      A: lacks
+      B: features
+      C: conceals
+      D: discards
+    q_number: 11
+    stem: Compared to Bernal bilayer graphene showing only in-plane field-enhancement,
+      pentalayer graphene _____ superconductors enhanced by out-of-plane fields.
+  - answer: C
+    explanation: owing to意为由于，是标准的因果逻辑衔接词。
+    options:
+      A: leading
+      B: contributing
+      C: owing
+      D: resultant
+    q_number: 12
+    stem: They also reside at much lower gate electric fields _____ to the intrinsically
+      flatter band dispersion.
+  - answer: B
+    explanation: flatter band利于研究，故使用facilitating(促进)。
+    options:
+      A: hindering
+      B: facilitating
+      C: complicating
+      D: obstructing
+    q_number: 13
+    stem: The flatter band dispersion is _____ to their study and further engineering.
+  - answer: A
+    explanation: SOC产生了新的超导体，故用generates。
+    options:
+      A: generates
+      B: destroys
+      C: terminates
+      D: neutralizes
+    q_number: 14
+    stem: Additionally, we observed that proximitized spin-orbit coupling (SOC) _____
+      multiple new superconductors.
+  - answer: C
+    explanation: 物理实验中通常强调不引入额外的杂乱(disorder)。
+    options:
+      A: stability
+      B: coherence
+      C: disorder
+      D: order
+    q_number: 15
+    stem: This occurs without introducing additional _____ effects.
+  - answer: A
+    explanation: family在这里指代一类或一系列发现。
+    options:
+      A: family
+      B: division
+      C: fraction
+      D: segment
+    q_number: 16
+    stem: Our work establishes a new _____ of magnetic field-boosted superconductors.
+  - answer: D
+    explanation: accessibility指实验条件容易达到，符合gate voltages的语境。
+    options:
+      A: inflexibility
+      B: incompatibility
+      C: unpredictability
+      D: accessibility
+    q_number: 17
+    stem: Utilizing the high _____ with moderate gate voltages...
+  - answer: C
+    explanation: pave the way是一个固定搭配，意为铺平道路。
+    options:
+      A: block
+      B: bar
+      C: pave
+      D: clog
+    q_number: 18
+    stem: This will _____ the way for realizing non-Abelian quasiparticles.
+  - answer: C
+    explanation: interfacial engineering(界面工程)是材料科学术语。
+    options:
+      A: external
+      B: superficial
+      C: interfacial
+      D: tangential
+    q_number: 19
+    stem: This is possible through _____ engineering in the extreme clean limit.
+  - answer: B
+    explanation: SOC导致了拓扑态且保持了石墨烯的高质量，故选maintains。
+    options:
+      A: diminishes
+      B: maintains
+      C: wastes
+      D: dampens
+    q_number: 20
+    stem: Proximitized SOC leads to topological states and _____ the ultrahigh quality
+      of crystalline graphene.
+  source_journal: Nature
+  title: Family of magnetic field-boosted superconductors in rhombohedral graphene
+- article_update_date: 04.02.2026
+  body_text: 'Christine Lagarde’s sober tone on the Gulf war energy shock Finance
+    & economics | Navigating a Trumpian world Christine Lagarde’s sober tone on the
+    Gulf war energy shock Our interview with the ECB’s president March 26th 2026 THE
+    RISKS from the Iran war, says Christine Lagarde, are being underestimated. Amid
+    what the International Energy Agency calls the biggest energy shock ever, the
+    president of the European Central Bank says expectations of a swift return to
+    normal may be “overly optimistic”. “We are facing a real shock…probably beyond
+    what we can imagine at the moment.” Speaking to The Economist at the ECB’s headquarters
+    for “The Insider” , our video show, on March 25th, Ms Lagarde gave a sober view
+    of the risks to the world economy. The bank’s technical experts believe “too much
+    has already been damaged”, she said, and that there is “no way” the Gulf’s lost
+    energy supply can be restored within months. The disruption may last “years”.
+    The danger, she argued, is that the consequences will emerge only gradually, leading
+    to a “delayed assessment” of how serious the crisis is. That struck a more pessimistic
+    tone than a speech Ms Lagarde gave earlier the same day, when she said it was
+    “too early to say” which scenario for the energy shock would unfold. Still, on
+    monetary policy, she said the ECB was “well positioned to respond”. She is more
+    concerned about government budgets. “There is not as much fiscal space” as in
+    2022-23, when countries spent 2.5% of GDP or more to cushion energy costs after
+    Russia’s invasion of Ukraine. Any support this time should be “tailored, targeted
+    and temporary”. Policymakers should be mindful of how “broad a blanket” they deploy,
+    and focus on low-income households. On America’s role in the global system, Ms
+    Lagarde was notably more critical. Asked whether countries could come together
+    in a global crisis, she quipped: “I can assure you that the central-bank community
+    will get together,” pointedly omitting finance ministers. She noted that during
+    the financial crisis of 2007-09 the G20 co-ordinated a global response. “Can you
+    imagine that happening now? The G20 is under US leadership. I’ll say no more.”
+    She detects echoes of the 1920s, when America turned inward. Yet she is only partially
+    a “Carneyist”—agreeing with Mark Carney, Canada’s prime minister, that the old
+    order is breaking down, but resisting the idea that it must be rebuilt from scratch.
+    Multilateral institutions such as the IMF, World Bank and World Trade Organisation,
+    she said, can still be repaired—even if America’s “dominance” within them must
+    diminish. As with a snake shedding its skin, it is possible to “extract from the
+    old skin a new animal”. In that world, Ms Lagarde argued, Europe still has a central
+    role to play. “Europe-bashing is vastly excessive,” she said, suggesting that
+    disappointment reflects high expectations. The continent, once a “dream” and a
+    “promise”, has been a “brutal success” in securing peace. Yet some of the successes
+    she cited, such as the Erasmus student-exchange programme, seem underwhelming.
+    She acknowledges that Europe must do more. Her priorities, she insists, are clear:
+    a true single market; deeper, more efficient capital markets—“you need the money”—to
+    lift weak productivity and innovation; a digital euro to support integration.
+    However, the recently proposed “28th regime”, a unified rule book, “lacks ambition”.
+    But achieving any of this will require political cohesion, which is complicated
+    by the rise of populist nationalism. Ms Lagarde brushed aside suggestions from
+    figures such as Jordan Bardella, of France’s National Rally, that the ECB could
+    tailor policy to individual countries. There is “no chance in the world” of that.
+    The deeper risk, she suggested, is political. Europeans “will have to decide again
+    whether they’re together or not”. Europe’s shared commitments to the rule of law,
+    democracy and common values are under strain. “Where we massively failed,” she
+    said, is in neglecting distribution, leaving large parts of society feeling left
+    behind. If that is not fixed, Europe’s economic agenda may matter less than its
+    political survival. ■ For more expert analysis of the biggest stories in economics,
+    finance and markets, sign up to Money Talks , our weekly subscriber-only newsletter.
+    This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/03/26/christine-lagardes-sober-tone-on-the-gulf-war-energy-shock'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到Ms. Lagarde认为当前的能源危机被低估了（underestimated），且该危机的后果将是渐进式显现的（emerge
+      only gradually），导致评估滞后（delayed assessment）。
+    options:
+      A: The immediate collapse of global financial institutions.
+      B: The underestimation of the long-term, gradual impact of the crisis.
+      C: The inability of the European Central Bank to adjust monetary policy.
+      D: The lack of support from international energy agencies.
+    q_number: 1
+    stem: According to the passage, what is Ms. Lagarde’s primary concern regarding
+      the current energy shock?
+  - answer: C
+    explanation: 文章指出由于各国当前的财政空间（fiscal space）不如2022-23年，政府必须在提供支持时更加谨慎，需集中于低收入家庭，即财政支持应是精准且受限的。
+    options:
+      A: Governments must increase spending to match the 2022-23 levels.
+      B: Energy subsidies should be provided indiscriminately to all citizens.
+      C: Fiscal policies must be precise and limited due to constrained budgets.
+      D: The ECB should take over fiscal responsibilities from national governments.
+    q_number: 2
+    stem: What does Ms. Lagarde imply by stating that support measures should be "tailored,
+      targeted and temporary"?
+  - answer: B
+    explanation: 当被问及全球协作时，Lagarde暗示G20在美方领导下已难以达成共识，并特意省略了财政部长，只提及央行间的合作，暗示政治层面的协作受阻。
+    options:
+      A: She believes the G20 is still an effective platform for crisis resolution.
+      B: She implies that the G20 is paralyzed by US leadership and internal divisions.
+      C: She suggests that finance ministers are successfully leading global efforts.
+      D: She claims the central-bank community has been replaced by the G20.
+    q_number: 3
+    stem: How does Ms. Lagarde characterize the current state of global coordination,
+      specifically regarding the G20?
+  - answer: D
+    explanation: 文中提到Lagarde认为多边机构仍可修复（can still be repaired），即便这意味着美国在其中的支配地位（dominance）必须削弱。
+    options:
+      A: They must be completely dismantled to prevent a return to 1920s-style isolationism.
+      B: They are beyond repair and need to be replaced by regional organizations.
+      C: They should function exactly as they did in the past without any changes.
+      D: They can be reformed and revitalized even with a reduction in US dominance.
+    q_number: 4
+    stem: What is Ms. Lagarde’s stance on the future of multilateral institutions
+      like the IMF and World Bank?
+  - answer: C
+    explanation: 文中明确指出欧洲失败的地方在于忽视了财富分配（neglecting distribution），导致社会大部分群体感到被抛弃，这若不解决，欧洲的经济议程将次于其政治生存问题。
+    options:
+      A: The excessive focus on Erasmus exchange programs.
+      B: The lack of ambition in the digital euro initiative.
+      C: The failure to address social inequality and political distribution.
+      D: The refusal of France’s National Rally to cooperate with the ECB.
+    q_number: 5
+    stem: Which of the following does Ms. Lagarde identify as a fundamental threat
+      to Europe's long-term survival?
+  source_journal: Economist
+  title: Christine Lagarde’s sober tone on the Gulf war energy shock
+- article_update_date: 04.13.2026
+  body_text: 'Pope Leo XIV has arrived in Algeria for the first papal visit to the
+    country, calling for peace on the opening stop of a tour of Africa that signals
+    the continent’s growing importance to the Catholic church. The 11-day trip, which
+    will include stops in Cameroon, Angola and Equatorial Guinea, is the longest by
+    Pope Leo since being elected to the papacy in May last year. The choice to visit
+    Africa sends a powerful signal that the continent is one of the church’s top priorities,
+    according to academics and theologians. Adriaan van Klinken, a professor of religion
+    and African studies at the University of Leeds, said this reflected shifting demographics,
+    with Africa home to one of the fastest-growing Catholic populations and accounting
+    for about 20% of Catholics worldwide. By contrast, the Catholic population in
+    western Europe is in decline. “Africa is the site of vitality, of growth, of the
+    future of the church,” Van Klinken said. In the last year alone, 14 new dioceses
+    have been created across Africa, with the Catholic population growing by 7 million,
+    according to John Pontifex, from the Catholic charity Aid to the Church in Need
+    UK. “A focus on Africa this early on in Pope Leo’s pontificate no doubt reflects
+    a sense that in terms of Catholicism this is a continent that is coming of age,”
+    he said. The pope, on arrival at Algiers international airport on Monday, was
+    welcomed by Algeria’s president, Abdelmadjid Tebboune. He was later taken to the
+    Maqam Echahid, a monument that commemorates those who died in the 1954-62 Algerian
+    war for independence against French colonial rule. Father Peter Claver Kogh, the
+    rector of the Basilica of Our Lady of Africa in Algiers, described the visit as
+    a moment to strengthen bonds between Christian and Muslim communities, and solidify
+    “the desire to have a climate of peace and tolerance among these two religions”.
+    He added: “That is what the world needs now – a world of fraternal living and
+    living in harmony. That will be the utmost importance of this visit for Christians
+    and Muslims who are here, and all those who desire to live in peace and harmony.”
+    View image in fullscreen Pope Leo visits the Great Mosque Of Algiers with the
+    mosque’s rector, Mohammed al-Mamoun al-Qasimi al-Hassani. Photograph: Guglielmo
+    Mangiapane/Reuters For Austen Ivereigh, a biographer of Pope Francis, the trip
+    signals continuity with his predecessor’s priorities. In 2019, Francis broke new
+    ground with the joint “human fraternity” document signed with leading Muslim figures.
+    “Leo will want to continue that all-important alliance in building a new world
+    order of peace,” Ivereigh said. Pontifex said the trip was not just about interfaith
+    relations, but also a sign that the pope remained committed to freedom of religion
+    and belief. “His visit comes at a time when religious freedom in Algeria, be it
+    for Christians, Ahmadi Muslims and more liberal Muslims, has declined in recent
+    years, according to our research.” The trip has also been viewed as an opportunity
+    to spotlight communities with long histories of injustice and exploitation who
+    are often overlooked by the west. Lucy Esipila, the regional coordinator for Caritas
+    Africa, said she believed the pope’s visit would have a profound impact on Catholic
+    communities in the region. “At a time when many African nations continue to face
+    conflict, debt burdens, and widening inequalities, this apostolic journey is a
+    powerful expression of synodality, of ‘walking together’ as a global church that
+    listens to voices from the peripheries.” Algeria is the only Muslim-majority country
+    on the pope’s tour. While its Catholic population is relatively small, the country
+    holds particular significance for Pope Leo as the birthplace of Saint Augustine.
+    Leo is the first pontiff from the Augustinian order, a theological tradition that
+    emphasises a commitment to “live together in harmony”. Prof Anna Rowlands, the
+    holder of the St Hilda chair in Catholic social thought and practice at Durham
+    University, said: “Starting his visit in Algeria shows the other side of African
+    Christianity that Leo is also deeply attuned to: its ancient legacy.” North Africa
+    was home to some of the earliest Christian communities before the arrival of Islam
+    and remains central to the church’s intellectual and theological heritage. Rowlands
+    added that as the former head of the Augustinian order, Pope Leo, then Friar Robert
+    Prevost, travelled frequently to African communities. “The church in Africa is
+    well known to him – probably better known than to any pope in the modern era.”
+    The decision to make these African countries the focus of his longest trip so
+    far as pope comes alongside his decision not to visit the US. “That’s the unspoken
+    part of this,” said Dr Miles Pattenden, a historian of the Catholic church at
+    the University of Oxford. Pope Leo not only declined an invitation to the US,
+    Pattenden said, but on 4 July, American independence day, he will be making a
+    visit to the Italian island of Lampedusa, which is the place of arrival for many
+    Africans making the perilous journey across the Mediterranean. “He’s sending an
+    extremely powerful message, which President Trump obviously understands, and that
+    may explain some of his bombastic criticisms of the pope over the past few days,”
+    Pattenden said. That contrast appears to speak directly to the communities Leo
+    is seeking to reach. “It’s a feeling of joy,” Father Kogh said of hearing Leo
+    address the people of Algeria. “I’m so glad to have heard that message, because
+    it was what I was expecting: a message of peace, and a call to coexistence and
+    living in fraternity. So my joy redoubles.”'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章第三段明确提到，选择访问非洲发出了一个强有力的信号，即非洲是教会的首要任务之一（one of the church’s top
+      priorities），原因在于非洲拥有世界上增长最快的天主教人口。
+    options:
+      A: It highlights the historical decline of the church in western Europe.
+      B: It marks the first time a pope has visited the continent of Africa.
+      C: It acknowledges Africa's status as a top priority due to its growing Catholic
+        population.
+      D: It demonstrates a shift in the church's focus away from its traditional theological
+        roots.
+    q_number: 1
+    stem: According to the text, why is Pope Leo's choice to visit Africa considered
+      a "powerful signal" by academics?
+  - answer: B
+    explanation: 文章倒数第五段提到，阿尔及利亚对教皇利奥有特殊意义，因为它是圣奥古斯丁的诞生地，而利奥正是来自奥古斯丁教派。
+    options:
+      A: Algeria is the center of the largest Catholic community in North Africa.
+      B: It is the birthplace of Saint Augustine, whose theological order the Pope
+        belonged to.
+      C: The Pope aims to rectify historical injustices committed during French colonial
+        rule.
+      D: It serves as a base to influence liberal Muslims in the region.
+    q_number: 2
+    stem: What is the primary significance of Pope Leo's visit to Algeria in the context
+      of his own background?
+  - answer: D
+    explanation: 文章最后一段指出，教皇拒绝了美国邀请，转而访问兰佩杜萨岛（移民抵达地），这与他向美国传递的信息形成鲜明对比，体现了对边缘群体的关注而非对西方强权的侧重。
+    options:
+      A: As a strategic diplomatic move to strengthen US-Italian relations.
+      B: As a criticism of the US government's recent economic policies.
+      C: As an attempt to distance the church from the influence of global political
+        leaders.
+      D: As a clear contrast in priorities by focusing on the plight of migrants rather
+        than Western power.
+    q_number: 3
+    stem: How does the author characterize the 'unspoken' message regarding the Pope's
+      decision to visit Lampedusa instead of the US?
+  - answer: B
+    explanation: 文章第八段提到“synodality”被定义为“walking together”（共同行走），即作为全球教会倾听来自边缘地区的声音，强调协同与包容。
+    options:
+      A: A rigid hierarchical structure that dictates church policies from the center.
+      B: An approach of collective engagement and listening to marginalized voices.
+      C: A focus on solving the debt burdens of African nations through financial
+        aid.
+      D: The historical expansion of Catholic doctrine across the African continent.
+    q_number: 4
+    stem: What does the term 'synodality' imply in Lucy Esipila’s view regarding the
+      church?
+  - answer: C
+    explanation: 文中多次提到教皇此行的目的，包括促进宗教间的和解、和平、包容以及人类友爱（fraternal living），特别是强调基督徒与穆斯林之间的和谐。
+    options:
+      A: To promote political change in Muslim-majority countries.
+      B: To increase the number of dioceses across the globe.
+      C: To foster harmony, peace, and fraternal living between different faiths.
+      D: To replace traditional theological practices with modern social thought.
+    q_number: 5
+    stem: Which of the following best describes the core objective of the Pope’s trip
+      as described by religious figures mentioned in the text?
+  source_journal: The Guardian
+  title: Pope Leo visits Algeria in sign of Africa’s growing importance to Catholic
+    church
