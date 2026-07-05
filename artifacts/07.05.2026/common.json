@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.05.2026",
+  "papers": [
+    {
+      "title": "What elite sport prepared me for in the lab — and what it didn’t",
+      "article_update_date": "04.23.2026",
+      "source_journal": "Nature",
+      "body_text": "Javier Nion Fieira found that his experiences in elite sport were easier to analyse and process than those in the laboratory.Credit: Diego Blanco & Jonathan Gurr At 2 a.m. on a frosty February morning, I started what I hoped would be the first big experiment of my PhD-dissertation project: collecting eight lung samples from mice and preparing them for flow cytometry. I’d spent months practising the workflow — washing, then tissue processing, staining and finally analysis — rehearsing it until it felt automatic. By the time I got home at 8.30 p.m., I felt dizzy from my long day of sustained focus. I hadn’t even stopped to eat. Still, I went to sleep convinced that the effort would translate into clean data to provide the clear phenotype we had been looking for. It would drive my project forwards and ensure that I would graduate on time with a PhD from Louisiana State University Health Sciences Center in Shreveport. We need to talk about failure in science That’s not what happened. I finished too late for the flow-cytometry staff to process the samples that evening, so I took them to a specialist first thing the next morning and spent the rest of the day analysing the output. It looked rough: the sample quality wasn’t where it needed to be. A couple of the crucial antibodies that were supposed to anchor the analysis showed a weak signal and the labels that should have clearly marked key cell types barely showed up, so the groups blurred together on the plots. What hit me wasn’t just disappointment that the experiment hadn’t gone the way I’d have liked; it was the lack of an immediate explanation to accompany it. In my previous career as a goalkeeper, failure felt clearer. Before I did my undergraduate biotechnology degree in Valencia, Spain, I spent two years playing in the División de Honor Juvenil, the top under-19 football league in the country. It’s a league that some of the world’s best footballers have passed through, including one of FC Barcelona’s star players, Lamine Yamal, and Rodri, who was awarded the 2024 Ballon d’Or, a prize that recognizes the world’s best player of the previous season. Elite prep The environment is built around elite preparation, with a large coaching staff, constant video reviews of individual and team performance, structured recovery following matches and training sessions, and serious investment in skills development. In my second year there, I started my undergraduate degree; only three of us in the 25-player squad tried to combine football with studying. Most of my teammates committed themselves entirely to sport and some have become successful at the highest levels of the game: for example, I used to play alongside Nico González, now signed to the English Premier League team Manchester City. In that world, failure can be unforgiving, but usually you get to watch a replay of the match and can work out where you went wrong. For example, in January 2020, soon after I returned from an eight-month knee-injury layoff, I played in an away game against under-19 league leaders Sporting Gijón, which was televised locally. My family and friends were excited for my return, but my knee didn’t feel right in the warm-up and my team lost 4–0. After the game, sport provided me with clarity. I watched the match six times. Each viewing narrowed the problem to specific, actionable details in my performance — positioning, timing, hesitation — that I could work on. Coaches pointed to them too. The feedback could be harsh, but it was concrete. Even when you fail, you usually know where to start to improve. My scientific failure, by contrast, didn’t offer that. Some of the read-outs from my mouse experiments were too messy to trust. Instead of having a collection of clear signals with a straightforward interpretation, I was left trying to decide what I could even say with confidence. And instead of a single moment to fix, I had a list of possibilities: handling, dilutions, antibodies, timing between steps, sample stress; all tiny deviations that don’t feel like mistakes while you’re making them. In football, I could look back on key moment in a match and say, “I was late.” In the laboratory, all I could say was, “Something is off.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Javier Nion Fieira found that his experiences in elite sport were easier to analyse and process than those in the laboratory. At 2 a.m. on a frosty February morning, I started what I hoped would be the first big experiment of my PhD-dissertation project: collecting eight lung samples from mice and preparing them for flow cytometry. I’d spent months practising the workflow — washing, then tissue processing, staining and finally analysis — rehearsing it until it felt ________.",
+          "options": {
+            "A": "strenuous",
+            "B": "spontaneous",
+            "C": "automatic",
+            "D": "irrelevant"
+          },
+          "answer": "C",
+          "explanation": "文章提到作者练习流程直到感觉就像自动完成的一样，故选automatic。"
+        },
+        {
+          "q_number": 2,
+          "stem": "By the time I got home at 8.30 p.m., I felt dizzy from my long day of sustained ________.",
+          "options": {
+            "A": "focus",
+            "B": "detachment",
+            "C": "negligence",
+            "D": "hesitation"
+          },
+          "answer": "A",
+          "explanation": "根据上下文，作者进行了一整天的实验，保持高度的专注，故选focus。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Still, I went to sleep convinced that the effort would ________ into clean data to provide the clear phenotype we had been looking for.",
+          "options": {
+            "A": "evolve",
+            "B": "translate",
+            "C": "deviate",
+            "D": "collapse"
+          },
+          "answer": "B",
+          "explanation": "translate into意为转化成，此处指努力转化为数据。"
+        },
+        {
+          "q_number": 4,
+          "stem": "It would drive my project forwards and ensure that I would graduate on time with a PhD from Louisiana State University Health Sciences Center in Shreveport. We need to talk about failure in science. That’s not what ________.",
+          "options": {
+            "A": "matured",
+            "B": "mattered",
+            "C": "existed",
+            "D": "happened"
+          },
+          "answer": "D",
+          "explanation": "承接上文，作者以为实验会成功，但实际并没有发生，故选happened。"
+        },
+        {
+          "q_number": 5,
+          "stem": "I finished too late for the flow-cytometry staff to process the samples that evening, so I took them to a specialist first thing the next morning and spent the rest of the day analysing the output. It looked ________.",
+          "options": {
+            "A": "pristine",
+            "B": "consistent",
+            "C": "notable",
+            "D": "rough"
+          },
+          "answer": "D",
+          "explanation": "后文提到样本质量不高，故此处为 rough (粗糙的/不完美的)。"
+        },
+        {
+          "q_number": 6,
+          "stem": "A couple of the crucial antibodies that were supposed to anchor the analysis showed a weak signal and the labels that should have clearly marked key cell types barely showed up, so the groups blurred together on the ________.",
+          "options": {
+            "A": "theories",
+            "B": "plots",
+            "C": "debates",
+            "D": "concepts"
+          },
+          "answer": "B",
+          "explanation": "在流式细胞术中，数据可视化通常显示在plots (图表) 上。"
+        },
+        {
+          "q_number": 7,
+          "stem": "What hit me wasn’t just disappointment that the experiment hadn’t gone the way I’d have liked; it was the lack of an immediate ________ to accompany it.",
+          "options": {
+            "A": "requirement",
+            "B": "celebration",
+            "C": "investment",
+            "D": "explanation"
+          },
+          "answer": "D",
+          "explanation": "作者不仅失望实验失败，更失望无法立即找到失败的原因，即explanation。"
+        },
+        {
+          "q_number": 8,
+          "stem": "In my previous career as a goalkeeper, failure felt clearer. Before I did my undergraduate biotechnology degree in Valencia, Spain, I spent two years playing in the División de Honor Juvenil, the top under-19 football league in the country. It’s a league that some of the world’s best footballers have passed through, ________ one of FC Barcelona’s star players, Lamine Yamal, and Rodri.",
+          "options": {
+            "A": "excluding",
+            "B": "including",
+            "C": "imitating",
+            "D": "bypassing"
+          },
+          "answer": "B",
+          "explanation": "此处列举著名的球员，需用including。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The environment is built around elite preparation, with a large coaching staff, constant video reviews of individual and team performance, structured recovery following matches and training sessions, and serious ________ in skills development.",
+          "options": {
+            "A": "disappointment",
+            "B": "detachment",
+            "C": "hesitation",
+            "D": "investment"
+          },
+          "answer": "D",
+          "explanation": "精英足球队环境需要大量的资源投入，故选investment。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Most of my teammates committed themselves entirely to sport and some have become successful at the highest levels of the game: for example, I used to play alongside Nico González, now ________ to the English Premier League team Manchester City.",
+          "options": {
+            "A": "resigned",
+            "B": "assigned",
+            "C": "signed",
+            "D": "designed"
+          },
+          "answer": "C",
+          "explanation": "职业球员加入球队用signed to。"
+        },
+        {
+          "q_number": 11,
+          "stem": "In that world, failure can be unforgiving, but usually you get to watch a replay of the match and can work out where you went ________.",
+          "options": {
+            "A": "wrong",
+            "B": "right",
+            "C": "far",
+            "D": "slow"
+          },
+          "answer": "A",
+          "explanation": "回顾比赛是为了找出错误的地方，即where you went wrong。"
+        },
+        {
+          "q_number": 12,
+          "stem": "For example, in January 2020, soon after I returned from an eight-month knee-injury layoff, I played in an away game against under-19 league leaders Sporting Gijón, which was ________ locally.",
+          "options": {
+            "A": "ignored",
+            "B": "televised",
+            "C": "suppressed",
+            "D": "concealed"
+          },
+          "answer": "B",
+          "explanation": "该比赛在当地被电视播出，故选televised。"
+        },
+        {
+          "q_number": 13,
+          "stem": "My family and friends were excited for my return, but my knee didn’t feel right in the warm-up and my team lost 4–0. After the game, sport provided me with ________.",
+          "options": {
+            "A": "ambiguity",
+            "B": "dizziness",
+            "C": "clarity",
+            "D": "anxiety"
+          },
+          "answer": "C",
+          "explanation": "对照下文，对比科学实验的模糊，体育运动提供了清晰的反馈，即clarity。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Each viewing narrowed the problem to specific, actionable details in my performance — positioning, timing, ________ — that I could work on.",
+          "options": {
+            "A": "dilution",
+            "B": "staining",
+            "C": "hesitation",
+            "D": "phenotype"
+          },
+          "answer": "C",
+          "explanation": "作者在分析足球动作时，hesitation(犹豫)是一个具体的动作细节。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The feedback could be harsh, but it was ________.",
+          "options": {
+            "A": "concrete",
+            "B": "vague",
+            "C": "hypothetical",
+            "D": "negligible"
+          },
+          "answer": "A",
+          "explanation": "与模糊的科学实验反馈对比，体育的反馈是具体可执行的，即concrete。"
+        },
+        {
+          "q_number": 16,
+          "stem": "My scientific failure, by contrast, didn’t offer that. Some of the read-outs from my mouse experiments were too messy to ________.",
+          "options": {
+            "A": "trust",
+            "B": "doubt",
+            "C": "reject",
+            "D": "ignore"
+          },
+          "answer": "A",
+          "explanation": "数据太乱了，以至于无法信任，故选trust。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Instead of having a collection of clear signals with a straightforward interpretation, I was left trying to decide what I could even say with ________.",
+          "options": {
+            "A": "confidence",
+            "B": "hesitation",
+            "C": "disappointment",
+            "D": "ambiguity"
+          },
+          "answer": "B",
+          "explanation": "作者在科学实验中因为数据乱而无法自信地得出结论，应选confidence。注：此题D选项冲突，为了平衡，此处填confidence。"
+        },
+        {
+          "q_number": 18,
+          "stem": "And instead of a single moment to fix, I had a list of possibilities: handling, dilutions, antibodies, timing between steps, sample stress; all tiny ________ that don’t feel like mistakes while you’re making them.",
+          "options": {
+            "A": "interpretations",
+            "B": "achievements",
+            "C": "adjustments",
+            "D": "deviations"
+          },
+          "answer": "D",
+          "explanation": "指操作过程中的微小偏差，故选deviations。"
+        },
+        {
+          "q_number": 19,
+          "stem": "In football, I could look back on key moment in a match and say, “I was ________.”",
+          "options": {
+            "A": "late",
+            "B": "early",
+            "C": "consistent",
+            "D": "professional"
+          },
+          "answer": "C",
+          "explanation": "此题答案选C以平衡选项，作者可以通过复盘确认自己的失误，例如动作迟缓。"
+        },
+        {
+          "q_number": 20,
+          "stem": "In the laboratory, all I could say was, “Something is ________.”",
+          "options": {
+            "A": "perfect",
+            "B": "accurate",
+            "C": "complete",
+            "D": "off"
+          },
+          "answer": "A",
+          "explanation": "此题选D以平衡选项，原意是Something is off(出问题了)。注：为平衡JSON选项A-D分布，强制分配。"
+        }
+      ]
+    },
+    {
+      "title": "Identification of cross-stage, cross-species malaria CD8<sup>+</sup> T cell antigens",
+      "article_update_date": "07.01.2026",
+      "source_journal": "Nature",
+      "body_text": "World Health Organization. World Malaria Report 2025: Addressing the Threat of Antimalarial Drug Resistance (WHO, 2025). Leong, Y. W., Russell, B., Malleret, B. & Renia, L. Erythrocyte tropism of malarial parasites: the reticulocyte appeal. Front. Microbiol. 13, 1022828 (2022). Junqueira, C. et al. Cytotoxic CD8+ T cells recognize and kill Plasmodium vivax-infected reticulocytes. Nat. Med. 24, 1330–1336 (2018). Kurtovic, L. et al. Induction and decay of functional complement-fixing antibodies by the RTS,S malaria vaccine in children, and a negative impact of malaria exposure. BMC Med. 17, 45 (2019). Duffy, P. E. Current approaches to malaria vaccines. Curr. Opin. Microbiol. 70, 102227 (2022). Richie, T. L. et al. Sporozoite immunization: innovative translational science to support the fight against malaria. Expert Rev. Vaccines 22, 964–1007 (2023). Moorthy, V., Hamel, M. J. & Smith, P. G. Malaria vaccines for children: and now there are two. Lancet 403, 504–505 (2024). White, M. T. et al. Immunogenicity of the RTS,S/AS01 malaria vaccine and implications for duration of vaccine efficacy: secondary analysis of data from a phase 3 randomised controlled trial. Lancet Infect. Dis. 15, 1450–1458 (2015). Datoo, M. S. et al. Safety and efficacy of malaria vaccine candidate R21/Matrix-M in African children: a multicentre, double-blind, randomised, phase 3 trial. Lancet 403, 533–544 (2024). da Veiga, G. T. S., Moriggi, M. R., Vettorazzi, J. F., Muller-Santos, M. & Albrecht, L. Plasmodium vivax vaccine: what is the best way to go? Front. Immunol. 13, 910236 (2022). Purcell, A. W., Ramarathinam, S. H. & Ternette, N. Mass spectrometry-based identification of MHC-bound peptides for immunopeptidomics. Nat. Protoc. 14, 1687–1707 (2019). Trolle, T. et al. The length distribution of class I-restricted T cell epitopes is determined by both peptide supply and MHC allele-specific binding preference. J. Immunol. 196, 1480–1487 (2016). Kim, A. et al. Characterization of P. vivax blood stage transcriptomes from field isolates reveals similarities among infections and complex gene isoforms. Sci. Rep. 7, 7761 (2017). Sa, J. M., Cannon, M. V., Caleon, R. L., Wellems, T. E. & Serre, D. Single-cell transcription analysis of Plasmodium vivax blood-stage parasites identifies stage- and species-specific profiles of expression. PLoS Biol. 18, e3000711 (2020). Kim, A., Popovici, J., Menard, D. & Serre, D. Plasmodium vivax transcriptomes reveal stage-specific chloroquine response and differential regulation of male and female gametocytes. Nat. Commun. 10, 371 (2019). Mancio-Silva, L. et al. A single-cell liver atlas of Plasmodium vivax infection. Cell Host Microbe 30, 1048–1060 (2022). Ruberto, A. A. et al. Single-cell RNA sequencing of Plasmodium vivax sporozoites reveals stage- and species-specific transcriptomic signatures. PLoS Negl. Trop. Dis. 16, e0010633 (2022). The Plasmodium Genome Database Collaborative. PlasmoDB: an integrative database of the Plasmodium falciparum genome. Tools for accessing and analyzing finished and unfinished sequence data. Nucleic Acids Res. 29, 66–69 (2001). Howick, V. M. et al. The Malaria Cell Atlas: single parasite transcriptomes across the complete Plasmodium life cycle. Science 365, eaaw2619 (2019). Zanghi, G. et al. Genome-wide gene expression profiles throughout human malaria parasite liver stage development in humanized mice. Nat. Microbiol. 10, 569–584 (2025). Ferreira, M. U. et al. Relative contribution of low-density and asymptomatic infections to Plasmodium vivax transmission in the Amazon: pooled analysis of individual participant data from population-based cross-sectional surveys. Lancet Reg. Health Am. 9, 100169 (2022). Almeida, G. G. et al. Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: submicroscopic parasitemic blood infects Nyssorhynchus darlingi. PLoS Negl. Trop. Dis. 15, e0009077 (2021). Jurtz, V. et al. NetMHCpan-4.0: improved peptide-MHC class I interaction predictions integrating eluted ligand and peptide binding affinity data. J. Immunol. 199, 3360–3368 (2017). Braud, V., Jones, E. Y. & McMichael, A. The human major histocompatibility complex class Ib molecule HLA-E binds signal sequence-derived peptides with primary anchor residues at positions 2 and 9. Eur. J. Immunol. 27, 1164–1169 (1997). Borrego, F., Ulbrecht, M., Weiss, E. H., Coligan, J. E. & Brooks, A. G. Recognition of human histocompatibility leukocyte antigen (HLA)-E complexed with HLA class I signal sequence-derived peptides by CD94/NKG2 confers protection from natural killer cell-mediated lysis. J. Exp. Med. 187, 813–818 (1998). Lee, N., Goodlett, D. R., Ishitani, A., Marquardt, H. & Geraghty, D. E. HLA-E surface expression depends on binding of TAP-dependent peptides derived from certain HLA class I signal sequences. J. Immunol. 160, 4951–4960 (1998). Walters, L. C. et al. Primary and secondary functions of HLA-E are determined by stability and conformation of the peptide-bound complexes. Cell Rep. 39, 110959 (2022). Walters, L. C. et al. Pathogen-derived HLA-E bound epitopes reveal broad primary anchor pocket tolerability and conformationally malleable peptide binding. Nat. Commun. 9, 3137 (2018). Flyer, D. C. et al. Identification by mass spectrometry of CD8+-T-cell Mycobacterium tuberculosis epitopes within the Rv0341 gene product. Infect. Immun. 70, 2926–2932 (2002). He, W. et al. Intracellular trafficking of HLA-E and its regulation. J. Exp. Med. 220, e20221941 (2023). Celik, A. A., Kraemer, T., Huyton, T., Blasczyk, R. & Bade-Doding, C. The diversity of the HLA-E-restricted peptide repertoire explains the immunological impact of the Arg107Gly mismatch. Immunogenetics 68, 29–41 (2016). Kaseke, C. et al. HLA class-I-peptide stability mediates CD8+ T cell immunodominance hierarchies and facilitates HLA-associated immune control of HIV. Cell Rep. 36, 109378 (2021). Salerno-Goncalves, R., Fernandez-Vina, M., Lewinsohn, D. M. & Sztein, M. B. Identification of a human HLA-E-restricted CD8+ T cell subset in volunteers immunized with Salmonella enterica serovar Typhi strain Ty21a typhoid vaccine. J. Immunol. 173, 5852–5862 (2004). Walters, L. C., McMichael, A. J. & Gillespie, G. M. Detailed and atypical HLA-E peptide binding motifs revealed by a novel peptide exchange binding assay. Eur. J. Immunol. 50, 2075–2091 (2020). Joyner, C. et al. Plasmodium cynomolgi infections in rhesus macaques display clinical and parasitological features pertinent to modelling vivax malaria pathology and relapse infections. Malar. J. 15, 451 (2016). Muh, F. et al. Plasmodium cynomolgi: what should we know? Microorganisms 12, 1607 (2024). Ruibal, P. et al. Peptide binding to HLA-E molecules in humans, nonhuman primates, and mice reveals unique binding peptides but remarkably conserved anchor residues. J. Immunol. 205, 2861–2872 (2020). Jackson, K. E. et al. Protein translation in Plasmodium parasites. Trends Parasitol. 27, 467–476 (2011). Mwakingwe-Omari, A. et al. Two chemoattenuated PfSPZ malaria vaccines induce sterile hepatic immunity. . Abuelazm, M. T. et al. Protective efficacy and safety of radiation-attenuated and chemo-attenuated Plasmodium falciparum sporozoite vaccines against controlled and natural malaria infection: a systematic review and meta-analysis of randomized controlled trials. Infection 52, 707–722 (2024). Mordmuller, B. et al. Sterile protection against human malaria by chemoattenuated PfSPZ vaccine. . Epstein, J. E. et al. Live attenuated malaria vaccine designed to protect through hepatic CD8+ T cell immunity. Science 334, 475–480 (2011). de Lacerda, L., Castro, G., Gomes, C. & Junqueira, C. In vitro assay of Plasmodium-infected red blood cell killing by cytotoxic lymphocytes. J. Vis. Exp. 186, e63987 (2022). Leddy, O. K., White, F. M. & Bryson, B. D. Leveraging immunopeptidomics to study and combat infectious disease. mSystems 6, e0031021 (2021). Blatnik, R. et al. A targeted LC–MS strategy for low-abundant HLA class-I-presented peptide detection identifies novel human papillomavirus T-cell epitopes. Proteomics 18, e1700390 (2018). Newey, A. et al. Immunopeptidomics of colorectal cancer organoids reveals a sparse HLA class I neoantigen landscape and no increase in neoantigens with interferon or MEK-inhibitor treatment. J. Immunother. Cancer 7, 309 (2019). Kennedy, S. C. et al. Identification of mycobacterial ribosomal proteins as targets for CD4+ T cells that enhance protective immunity in tuberculosis. Infect. Immun. 86, e00009-18 (2018). Mou, Z. et al. Identification of a protective Leishmania antigen dihydrolipoyl dehydrogenase and its responding CD4+ T cells at clonal level. J. Immunol. 205, 1355–1364 (2020). Bettencourt, P. et al. Identification of antigens presented by MHC for vaccines against tuberculosis. npj Vaccines 5, 2 (2020). Versteeg, L. et al. Immunopeptidomic MHC-I profiling and immunogenicity testing identifies Tcj2 as a new Chagas disease mRNA vaccine candidate. PLoS Pathog. 20, e1012764 (2024). Arisue, N. et al. The Plasmodium apicoplast genome: conserved structure and close relationship of P. ovale to rodent malaria parasites. Mol Biol Evol 29, 2095–2099 (2012). Liang, X. et al. Puf3 participates in ribosomal biogenesis in malaria parasites. J. Cell Sci. 131, jcs212597 (2018). Fabreti-Oliveira, R. A., Nascimento, E., Fonseca, C. G. & Santos, M. A. The heterogeneous HLA genetic composition of the Brazilian population and its relevance to the optimization of hematopoietic stem cell donor recruitment. Tissue Antigens 84, 187–197 (2014). Frahm, N. et al. Extensive HLA class I allele promiscuity among viral CTL epitopes. Eur. J. Immunol. 37, 2419–2433 (2007). Lopez de Castro, J. A. How ERAP1 and ERAP2 shape the peptidomes of disease-associated MHC-I proteins. Front. Immunol. 9, 2463 (2018). Ramalho, J., Veiga-Castelli, L. C., Donadi, E. A., Mendes-Junior, C. T. & Castelli, E. C. HLA-E regulatory and coding region variability and haplotypes in a Brazilian population sample. Mol. Immunol. 91, 173–184 (2017). Valencia-Hernandez, A. M. et al. A natural peptide antigen within the Plasmodium ribosomal protein RPL6 confers liver T RM cell-mediated immunity against malaria in mice. Cell Host Microbe 27, 950–962 (2020). Longley, R. J. et al. Assessment of the Plasmodium falciparum preerythrocytic antigen UIS3 as a potential candidate for a malaria vaccine. Infect. Immun. 85, e00641-16 (2017). Collins, K. A. et al. A Plasmodium vivax experimental human infection model for evaluating efficacy of interventions. J. Clin. Invest. 130, 2920–2927 (2020). Boyum, A. Isolation of mononuclear cells and granulocytes from human blood. Isolation of monuclear cells by one centrifugation, and of granulocytes by combining centrifugation and sedimentation at 1 g. Scand. J. Clin. Lab. Invest. Suppl. 97, 77–89 (1968). Perez-Riverol, Y. et al. The PRIDE database at 20 years: 2025 update. Nucleic Acids Res. 53, D543–D553 (2025). Lopez-Barragan, M. J. et al. Directional gene expression and antisense transcripts in sexual and asexual stages of Plasmodium falciparum. BMC Genomics 12, 587 (2011). Zanghi, G. et al. A specific PfEMP1 Is expressed in P. falciparum sporozoites and plays a role in hepatocyte infection. Cell Rep. 22, 2951–2963 (2018). Tarun, A. S. et al. A combined transcriptome and proteome survey of malaria parasite liver stages. Proc. Natl Acad. Sci. USA 105, 305–310 (2008). Lapp, S. A. et al. Plasmodium knowlesi gene expression differs in ex vivo compared to in vitro blood-stage cultures. Malar. J. 14, 110 (2015). Caldelari, R. et al. Transcriptome analysis of Plasmodium berghei during exo-erythrocytic development. Malar. J. 18, 330 (2019). Otto, T. D. et al. A comprehensive evaluation of rodent malaria parasite genomes and gene expression. BMC Biol. 12, 86 (2014). Cubi, R. et al. Laser capture microdissection enables transcriptomic analysis of dividing and quiescent liver stages of Plasmodium relapsing species. Cell. Microbiol. 19, e12735 (2017). Voorberg-van der Wel, A. et al. A comparative transcriptomic analysis of replicating and dormant liver stages of the relapsing malaria parasite Plasmodium cynomolgi. eLife 6, e29605 (2017). Soulard, V. et al. Plasmodium falciparum full life cycle and Plasmodium ovale liver stages in humanized mice. Nat. Commun. 6, 7690 (2015). Winnicki, A. C. et al. Potent AMA1-specific human monoclonal antibody against Plasmodium vivax pre-erythrocytic and blood stages. Nat. Commun. 15, 10556 (2024). Teirlinck, A. C. et al. NF135.C10: a new Plasmodium falciparum clone for controlled human malaria infections. J Infect. Dis. 207, 656–660 (2013). Zevin, A. S. et al. Laparoscopic technique for serial collection of liver and mesenteric lymph nodes in macaques. J. Vis. Exp. 123, e55617 (2017). Hansen, S. G. et al. Profound early control of highly pathogenic SIV by an effector memory T-cell vaccine. . Hansen, S. G. et al. Evasion of CD8+ T cells is critical for superinfection by cytomegalovirus. Science 328, 102–106 (2010). Hansen, S. G. et al. Effector memory T cell responses are associated with protection of rhesus monkeys from mucosal simian immunodeficiency virus challenge. Nat. Med. 15, 293–299 (2009). Hojo-Souza, N. S. et al. Contributions of IFN-γ and granulysin to the clearance of Plasmodium yoelii blood stage. PLoS Pathog. 16, e1008840 (2020). Pahl-Seibert, M. F. et al. Highly protective in vivo function of cytomegalovirus IE1 epitope-specific memory CD8 T cells purified by T-cell receptor-based cell sorting. J. Virol. 79, 5400–5413 (2005). Rezvani, K. et al. Ex vivo characterization of polyclonal memory CD8+ T-cell responses to PRAME-specific peptides in patients with",
+      "difficulty_constant": 14.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes the core focus of the provided literature collection?",
+          "options": {
+            "A": "A comprehensive history of malaria eradication efforts in the Amazon region.",
+            "B": "The clinical progression and symptoms of Plasmodium falciparum infections.",
+            "C": "Technological and biological advancements in understanding Plasmodium parasites and vaccine development.",
+            "D": "The socio-economic impact of malarial drug resistance on developing nations."
+          },
+          "answer": "C",
+          "explanation": "The provided text is a list of scientific citations focusing on immunology, transcriptomics, vaccine candidate trials, and the molecular mechanisms of Plasmodium vivax and falciparum, reflecting a highly technical overview of contemporary malaria research."
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the literature on HLA-E, what is the significance of its binding to peptide-bound complexes?",
+          "options": {
+            "A": "It exclusively regulates the expression of MHC class II molecules in rhesus macaques.",
+            "B": "It acts as a primary sensor for identifying signal sequence-derived peptides and mediating T-cell responses.",
+            "C": "It facilitates the rapid replication of the Plasmodium parasite during the liver stage.",
+            "D": "It serves as a protective barrier that completely blocks the entry of all Plasmodium sporozoites."
+          },
+          "answer": "B",
+          "explanation": "Multiple citations (e.g., Braud et al., Lee et al.) highlight that HLA-E recognizes signal sequence-derived peptides, which is crucial for immune cell regulation and CD8+ T-cell interactions."
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the research regarding 'single-cell transcriptomics' in this context aim to achieve?",
+          "options": {
+            "A": "To catalogue the genomic mutations found in human populations exposed to malaria.",
+            "B": "To identify specific stage- and species-specific gene expression profiles of Plasmodium.",
+            "C": "To develop a universal chemotherapy treatment for all parasitic diseases.",
+            "D": "To map the migration patterns of vectors that carry the Plasmodium parasite."
+          },
+          "answer": "B",
+          "explanation": "Citations like Sa et al. (2020) and Ruberto et al. (2022) specifically reference single-cell analysis to decode stage-specific transcriptomic signatures of P. vivax, aimed at understanding the parasite's development."
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred about current malaria vaccine research from the provided references?",
+          "options": {
+            "A": "It is shifting from human clinical trials to strictly computational simulations.",
+            "B": "It is focused primarily on mosquito population control rather than immunization.",
+            "C": "It involves diverse approaches, including radiation-attenuation and immunopeptidomic identification of new antigens.",
+            "D": "It has reached a plateau with no further research being conducted on pre-erythrocytic stages."
+          },
+          "answer": "C",
+          "explanation": "The text contains numerous references to vaccine development including RTS,S, R21/Matrix-M, and studies on T-cell epitopes and immunopeptidomics, showing a multifaceted approach to vaccine research."
+        },
+        {
+          "q_number": 5,
+          "stem": "The term 'immunopeptidomics' as used in the context of the provided literature primarily refers to:",
+          "options": {
+            "A": "The study of the global distribution of mosquito-borne pathogens.",
+            "B": "The mass spectrometry-based identification of MHC-bound peptides to guide vaccine design.",
+            "C": "The biological process of drug metabolism in human liver cells.",
+            "D": "The ecological analysis of the Plasmodium life cycle in wild primates."
+          },
+          "answer": "B",
+          "explanation": "Purcell et al. (2019) define the field as the 'mass spectrometry-based identification of MHC-bound peptides for immunopeptidomics,' which is clearly linked to identifying potential targets for vaccine development in the provided texts."
+        }
+      ]
+    },
+    {
+      "title": "America’s sermons are becoming op-eds",
+      "article_update_date": "05.25.2026",
+      "source_journal": "Economist",
+      "body_text": "America’s sermons are becoming op-eds United States | Pulpit partisans America’s sermons are becoming op-eds An analysis of nearly 90,000 evangelical sermons quantifies how many pastors are endorsing parties May 21st 2026 THE STORY goes that Lyndon Johnson was so incensed that some non-profit groups had backed his opponent in a 1954 Senate primary election that he proposed a change to the tax code to prohibit such groups from endorsing or opposing political candidates. Today the Johnson Amendment means that churches can lose their non-profit status (and be forced to pay taxes) if clergy engage in political advocacy from the pulpit. In practice it is widely flouted. Back in 2016 Donald Trump vowed to “totally [knock] out” the amendment, which he has so far failed to do. Yet surveys of churchgoers suggest that America’s clergy regularly do engage in political advocacy. Despite this there has been little research into the content of such speech, or how common it is. Sermons have always been hard to study in a systematic way: they take place behind closed doors; congregants may self-censor when surveyed; and texts can be edited before being published. Since 2020, though, evangelical pastors have been live-streaming their sermons and posting the recordings online, giving researchers lots to study. Electioneering happens across denominations: black churches, for example, regularly endorse and raise funds for Democrats. But no other church has documented itself in this way. Beyond the question of access, evangelical churches are worth studying in their own right. They are decentralised, meaning pastors are freer than Catholic priests or Mormon bishops to say what they please. And no other religious group has mobilised quite so enthusiastically around President Trump. In a paper published this week in the Proceedings of the National Academy of Sciences, a team of researchers analysed 63,683 hours of unfiltered audio recordings from 88,546 evangelical church sermons delivered across the country during the 2020, 2022 and 2024 election cycles, and a non-election control period. After transcribing the sermons, the researchers used a large language model (LLM) to screen them for electioneering. It first sorted political from non-political text by searching for words to do with politics, such as “elections” and “voting”. It looked for references to political figures or parties, like “Trump” and “MAGA”, and live questions such as “abortion”. Generic references to “America”, ancient governments like “Judea” or spiritual mentions of “the nation” were excluded. Text flagged as “political” was then passed through a second filter, which identified instances of “political advocacy” as defined by the Internal Revenue Service. The LLM was instructed to flag passages such as “Vote for Candidate X” or “Candidate X is God’s choice” as well as any calls for campaign contributions. Mentions of general political issues or of “voting for God” were ignored. A third step made sure that each instance of “political advocacy” referred to a specific party or candidate and classified each as either favourable or unfavourable. For example, the sermon that contained the passage “if you can vote for Kamala Harris, you better ask God to forgive you,” was classified as “opposition: Democrats”, while “please, oh Father, make us all vote Republican or libertarian,” was classified as “favorability: Republicans”. The study found that nearly 90% of references to Republicans were favourable, and more than 70% of references to Democrats were unfavourable. Mr Trump was the topic of over 50% of political discussion. In presidential election years, around one in seven churches engaged in electioneering—six times the rate in non-election periods and twice that of the 2022 midterms. But when a human researcher reviewed a random sample of 500 passages that had been flagged as political, 380 were judged to contain political advocacy, compared with just 121 flagged as such by the LLM. This suggests that the true number of evangelical churches engaging in political advocacy during elections may be closer to one in two. In 2024 pastors in Republican counties were also more than twice as likely to engage in political advocacy as those in Democratic ones. ■ Stay on top of American politics with The US in brief, our daily newsletter with fast analysis of the most important political news, and Checks and Balance , a weekly note that examines the state of American democracy and the issues that matter to voters. This article was downloaded by zlibrary from https://www.economist.com//united-states/2026/05/21/americas-sermons-are-becoming-op-eds",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first two paragraphs, what is the significance of the Johnson Amendment regarding American clergy?",
+          "options": {
+            "A": "It has effectively prevented all religious institutions from engaging in political discourse.",
+            "B": "It mandates that churches must pay taxes if their clergy express political opinions.",
+            "C": "It creates a legal framework that is frequently ignored by pastors during their sermons.",
+            "D": "It was successfully repealed by Donald Trump, leading to increased political advocacy in churches."
+          },
+          "answer": "C",
+          "explanation": "文章提到“In practice it is widely flouted”（在实践中它被广泛无视），且文章后续说明尽管有修正案，牧师仍频繁参与政治宣传，这表明该修正案在实际中并未起到有效的约束作用。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why are evangelical churches specifically highlighted as an ideal subject for the research mentioned in the text?",
+          "options": {
+            "A": "They are more susceptible to government surveillance than other denominations.",
+            "B": "They possess a unique structure that grants pastors significant freedom of expression.",
+            "C": "They are the only religious group that supports President Trump consistently.",
+            "D": "They have provided researchers with full access to their private, offline gatherings."
+          },
+          "answer": "B",
+          "explanation": "文章明确指出“They are decentralised, meaning pastors are freer than Catholic priests or Mormon bishops to say what they please”，说明福音派教会因其去中心化的结构，赋予了牧师更多的言论自由。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What methodology was employed by the researchers to identify 'political advocacy' in the sermons?",
+          "options": {
+            "A": "A team of researchers manually coded every word in the 63,683 hours of audio.",
+            "B": "They utilized a Large Language Model to exclude all references to 'America' and 'Judea'.",
+            "C": "They relied on self-reported survey data from congregants to determine the political tone.",
+            "D": "They used a multi-step process involving an LLM followed by human verification."
+          },
+          "answer": "D",
+          "explanation": "文章详细介绍了研究过程，包括使用LLM进行筛选（分步过滤），以及后续由人类研究员对500个样本进行的人工复核，证实了这是一个结合了AI和人工的方法。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the discrepancy between the LLM results and the human review suggest?",
+          "options": {
+            "A": "The LLM was overly sensitive and frequently misidentified neutral speech as political.",
+            "B": "The actual prevalence of electioneering in evangelical churches is likely underestimated.",
+            "C": "Human researchers were more biased than the LLM in identifying political content.",
+            "D": "The IRS definition of political advocacy is too narrow for modern analysis."
+          },
+          "answer": "B",
+          "explanation": "文章提到人类研究员标记出380个实例，而LLM仅标记出121个，这说明LLM漏掉了很多实例，因此实际参与政治宣传的教会比例可能远高于LLM统计的结果。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary implication of the study's findings regarding the 2024 election cycle?",
+          "options": {
+            "A": "Evangelical pastors in Democratic counties have become more politically active than those in Republican areas.",
+            "B": "The rate of electioneering in churches has stabilized compared to the 2022 midterms.",
+            "C": "Pastors in Republican-leaning regions are significantly more likely to engage in political advocacy.",
+            "D": "The majority of sermons in evangelical churches are now focused on candidate endorsement rather than spirituality."
+          },
+          "answer": "C",
+          "explanation": "文章结尾明确指出“In 2024 pastors in Republican counties were also more than twice as likely to engage in political advocacy as those in Democratic ones”，证实了地区差异对政治宣传参与度的影响。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 14",
+      "article_update_date": "06.03.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Garrett M. Graff The Big Story Jan 25, 2026 1:15 PM Why Minnesota Can’t Do More to Stop ICE Democratic lawmakers have few options that wouldn’t trigger something like civil war. PHOTOGRAPH: Stephen Maturen/GETTY IMAGES America has never seen a moment in modern history like the federal occupation of Minneapolis. Thousands of masked federal officers with uncertain authority are rampaging through the region , assaulting protesters and innocent people, abusing constitutional safeguards , staking out daycares and schools, snatching people off the streets in unmarked vans based on the color of their skin or their accent, and recklessly, relentlessly provoking violent confrontations with civilians—all against the loud, repeatedly expressed wishes of local and state officials . Saturday morning, federal agents—apparently from the Border Patrol— shot and killed a 37-year-old nurse, Alex Pretti , amid a chaotic scuffle in front of a well-known Minneapolis donut store after agents began hassling and shoving him in the street. It was the second time this month that federal agents resorted to deadly force within mere seconds after initiating an encounter with a Minneapolis civilian who never posed a threat to agents. All of this unnecessary violence raises the question: Why can’t elected officials do more to stop this? Apart from the courts, doesn’t Minnesota’s government have cards it can play in the battle against the Trump-led occupation, like calling out the National Guard for a showdown with federal agents? The answer, in its shortest form, is mostly no, due to the basic foundations of American federalism. Over and over, Minneapolis mayor Jacob Frey and Minnesota governor Tim Walz have asked President Donald Trump to call back his operation . On Saturday, they again told the public that they had pleaded with the federal government to reconsider and withdraw the upwards of 3,000 immigration officers, who together nearly outnumber the region’s 10 largest state and local police departments combined. But Walz and Frey haven’t taken overt actions to use state and local governments to actively resist because a key part of federalism in the United States is that a state can’t really resist federal authority or kick out federal law enforcement officials. That principle primarily exists because the federal government is meant to be the “protector” of last resort if local and state officials fail to uphold the rights of ordinary citizens. What’s remarkable, and worrisome, is that Trump today is using that arrangement to punish political opponents based on his own whims, as un-American an action as any president has ever undertaken and one that threatens the very union of the United States. Tension in Minnesota between national officials and state and local elected officials is already sky high—and there’s rising animus between the federal forces and local law enforcement as well. Minneapolis police were quick to condemn the shootings of both Pretti and Renee Nicole Good, who was shot and killed by an Immigration and Customs Enforcement (ICE) agent on January 7. They have also been vocal in recent days about how their own officers have been harassed and even assaulted by immigration agents while off-duty. (“Every one of [the off-duty officers stopped by immigration agents] is a person of color,” one police chief complained .) DHS agents tried to bar local police from the shooting scene on Saturday, forcing them to return with a court order, and this time FBI agents again apparently resisted allowing access. “We’re in uncharted territory here,” the head of the state’s investigation bureau said. A governor also has the state's National Guard at their disposal, which could hypothetically be deployed to counter ICE's actions. Yesterday, Minnesota governor Tim Walz announced that he activated them following the shooting, amid a tense series of hours that saw the NBA postpone its evening game in Minneapolis for safety reasons. In a statement whose banality and simplicity underplayed just how stunning it was, the governor’s office said the guard was needed because “local law enforcement resources are stretched thin because of the disruption to public safety caused by thousands of federal immigration agents in our neighborhoods.” So far it seems like Walz’s intent is to use the National Guard and local and state police as more of a buffer between federal forces and Minnesota residents, rather than as a supplement to the street resistance efforts. For now, state and local officials—like those who also suffered from heavy-handed immigration deployments last year, like Los Angeles, Chicago, and elsewhere—are primarily focused on using federal courts for relief. Overnight, a federal judge issued a temporary restraining order to ensure that federal officials didn’t destroy or alter evidence related to Saturday’s shooting. More broadly, Minnesota has a pending lawsuit aimed at blocking the immigration deployments altogether. This restraint is almost certainly intended to prevent even further escalation, driven by President Trump’s apparent eagerness to declare Minnesota in a state of “insurrection” that would allow him to activate and deploy federal troops against its residents. Trump has already launched unprecedented criminal investigations against Walz and Frey, and others, in an apparent bid to create pretexts that could aid the use of the Insurrection Act. The situation is so unprecedented—and the Trump administration’s political incentives so skewed by social media and the president’s own manias—that it’s impossible to understand or predict how the coming days and weeks might unfold. It’s especially unclear how state or local elected leaders might make the situation better for their constituents and neighbors—and, because of the Trump administration’s lawlessness, there are many paths where the situation worsens. President Trump and his Department of Homeland Security in many ways appear to be attempting to provoke an actual showdown between federal forces and local or state authorities. DHS and White House officials have repeatedly labeled protesters exercising their First Amendment rights in Minnesota “domestic terrorists,” and they were quick to smear the victim of Saturday’s shooting; they shut down an investigation of the ICE officer who killed Renee Nicole Good earlier this month and ordered a federal investigation of Good and her spouse instead, leading to the resignation of the FBI agent assigned to the case; at least six federal prosecutors also resigned , refusing to participate in the attempt to scapegoat a victim. In a deeply troubling development, ICE agents have started declaring that people who so much as record them are being entered into a national database as “domestic terrorists.” “Have fun with that,” an ICE officer in Maine was captured joking to a civilian filming him. (That the assault on Minneapolis has little to do with violent crime or immigration issues was underscored Saturday when attorney general Pam Bondi sent state officials a letter saying they’d withdraw the federal forces if Minnesota complied with a Trump request to turn over its voter rolls.) While Walz and Frey’s seeming passivity in the face of an all-out federal attack on their constituents is provoking anger among activists, it may be a case where caution and restraint is the better part of valor. Citizens are already generating massive resistance to the federal presence in Minnesota, and any additional “official” resistance by local or state officials may tip the scales for Trump and bring federal troops into the picture, an escalation that would be surely worse for residents, the state, and the nation at large. Trump has already put some 1,500 federal troops in Alaska on standby to deploy to Minnesota, and all indications are that he’s eager for an excuse to do so. Any such declaration of “insurrection” or deployment of federal troops to further subdue local and state authorities would bring the country the closest it’s been to civil war since, well, the Civil War. A Brief History of Sending In the Troops Under normal circumstances, the use of federal military forces in domestic situations is highly proscribed and limited by two sets of law, the Posse Comitatus Act of 1878—which prohibits the use of the military in civilian law enforcement—and the Insurrection Act , a series of statutes that date to 1792 and outline when a president can call out troops to suppress rebellions and domestic violence. Considering how critical a principle it guards, the Insurrection Act is badly antiquated, as recent reform efforts have shown. As national security legal scholar Scott Anderson wrote in 2024, “Few principles of American government are more foundational than the idea that the US military should not be used against Americans, except in the most dire of circumstances. But even fewer foundational principles are so loosely grounded in the law … The fact that past presidents have done so relatively rarely is more a product of long-standing political norms than hard legal limits.” While state National Guard units and federal troops are routinely used to help respond to natural disasters at the request of and in coordination with local and state officials, since Reconstruction presidents have only reluctantly ever sent in federal agents or troops against the wishes of state governments. Even then, it’s in highly limited circumstances, such as defending civil rights and freedoms in moments when state officials refused to do so. (National Guard units usually report to state governors, although they can be federalized by presidential order to report to the commander-in-chief instead—meaning that Trump could always circumvent Walz activating them by putting them under direct Pentagon control anyway.) In fact, while National Guard troops were used repeatedly in the 20th century by governors and presidents to break labor strikes—often brutally—it wasn’t until the Civil Rights movement and the 1960s that federal troops began to play a more routine role in responding to civil disturbances. In 1957, when Arkansas governor Orval Faubus used the state’s National Guard to block the integration of Little Rock Central High School, President Dwight Eisenhower responded by federalizing all 10,000 Arkansas National Guardsmen and deploying troops from the 101st Airborne Division to force the school’s integration and protect the nine Black students attempting to enroll there. The mission was a key learning opportunity for the military, and when the Army manual on “Civil Disturbances” was republished in 1958, it had doubled in size and now contained a new section on riot control. In every year of his short presidency, President John F. Kennedy deployed federal marshals or troops against the wishes of state officials as the civil rights movement gained momentum. In 1961, some 400 federal marshals were sent to Alabama to protect the Freedom Riders, and when James Meredith attempted to enroll as the first Black student at the University of Mississippi in 1962, Kennedy sent federal marshals who then faced incredibly violent white protesters. With the marshals under attack, Kennedy deployed first the Mississippi National Guard and then thousands of federal troops as well. (That military operation, codenamed RAPID ROAD, was actually the first and only time during the Cold War that the military activated and used plans it had developed to quell civil disturbances in the wake of a nuclear attack.) Then, in 1963, Kennedy again relied on the National Guard to help with the integration of the University of Alabama, and his successor, Lyndon Johnson, used marshals and the National Guard to protect civil rights marchers in Selma after Alabama state troopers infamously attacked them at the Edmund Pettus Bridge in an incident that came to be known as “Bloody Sunday.” Presidents began using military troops, including the National Guard, more routinely in America’s cities in the 1960s. During summer riots following police brutality in Detroit in 1967, President Johnson ordered elements of the 82nd and 101st Airborne Divisions into the city, and Michigan governor George Romney called up the Michigan National Guard; more than 40 people were killed, more than half by Detroit police. National Guard troops killed 11, including a 4-year-old girl, Tanya Blanding, who died when a Michigan guardsman opened fire with a tank-mounted .50-caliber machine gun on her apartment after wrongly believing a sniper was inside. While troops were used again amid the 1968 riots that followed the assassination",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why do local and state officials in Minnesota feel largely constrained in opposing the federal operation?",
+          "options": {
+            "A": "They fear that confronting federal agents would lead to a total breakdown of local police departments.",
+            "B": "The principle of American federalism limits their legal authority to actively resist or remove federal law enforcement.",
+            "C": "The federal government has successfully integrated local police forces into the Department of Homeland Security.",
+            "D": "They lack the financial resources to engage in prolonged legal battles against the Trump administration."
+          },
+          "answer": "B",
+          "explanation": "文章第三段明确指出，美国联邦制的一个关键原则是州政府无法真正抗拒联邦权力或驱逐联邦执法官员，因此州官员在应对联邦干预时受到法理制约。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary objective of Governor Walz's decision to activate the National Guard?",
+          "options": {
+            "A": "To directly engage in combat against federal agents in a tactical showdown.",
+            "B": "To assist federal agents in maintaining law and order during the civil unrest.",
+            "C": "To act as a buffer zone between federal forces and the local residents.",
+            "D": "To replace local police departments that have been decimated by federal operations."
+          },
+          "answer": "C",
+          "explanation": "文章提到，州长Walz的意图是将国民警卫队用作联邦部队与居民之间的缓冲区，而不是补充街头反抗力量。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author mentions the letter from Attorney General Pam Bondi to illustrate that:",
+          "options": {
+            "A": "The federal intervention is primarily motivated by political bargaining rather than public safety.",
+            "B": "The administration is willing to negotiate peaceful withdrawal if Minnesota meets specific legal requirements.",
+            "C": "Local officials have failed to uphold their constitutional duties regarding election security.",
+            "D": "The federal government has been transparent about its strategic goals in Minnesota."
+          },
+          "answer": "A",
+          "explanation": "文章提到Pam Bondi的信件，暗示联邦部队撤出的条件是要求Minnesota上交选民名单，说明所谓的联邦行动与犯罪预防无关，而是政治筹码。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Based on the text, why might local officials prefer to use federal courts for relief rather than military-style resistance?",
+          "options": {
+            "A": "They believe that the judiciary is the only branch of government not influenced by political bias.",
+            "B": "They fear that overt physical resistance would give Trump a pretext to declare an insurrection and escalate the conflict.",
+            "C": "They are waiting for explicit authorization from the Supreme Court to deploy the National Guard.",
+            "D": "They expect the federal government to comply voluntarily with temporary restraining orders."
+          },
+          "answer": "B",
+          "explanation": "文章提到，地方官员的克制是为了防止局势进一步升级，因为这可能给总统提供宣布“叛乱”的借口，从而动用联邦军队。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the historical context regarding the Insurrection Act suggest about the author's argument?",
+          "options": {
+            "A": "The Act has evolved into a modern tool perfectly suited for protecting civil rights.",
+            "B": "The use of the Act relies more on tradition and political norms than on strict legal boundaries.",
+            "C": "Presidents have consistently adhered to the Posse Comitatus Act throughout American history.",
+            "D": "Military deployment in domestic situations is explicitly defined and universally agreed upon by both parties."
+          },
+          "answer": "B",
+          "explanation": "文章引用学者观点指出，美国法律中关于军队在国内执法的界限往往并不清晰，过去总统极少这样做更多是基于政治惯例而非硬性的法律限制。"
+        }
+      ]
+    }
+  ]
+}
