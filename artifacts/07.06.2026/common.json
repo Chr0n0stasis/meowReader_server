@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.06.2026",
+  "papers": [
+    {
+      "title": "Waiving sanctions on Iranian oil is a huge concession by America",
+      "article_update_date": "06.29.2026",
+      "source_journal": "Economist",
+      "body_text": "Waiving sanctions on Iranian oil is a huge concession by America Finance & economics | Cancelled penalty Waiving sanctions on Iranian oil is a huge concession by America It will enrich an adversary June 25th 2026 IRAN’S FOOTBALLERS are having an unexpectedly good World Cup. On June 21st they held Belgium, ranked ninth in the world, to a draw in Los Angeles, leaving them within reach of the knockout stages. Over in Switzerland, Iranian diplomats are scoring even bigger successes. On June 22nd the Treasury Department up-ended four decades of American policy by issuing a sanctions waiver permitting the production, sale and delivery of Iranian petroleum for 60 days. The move will bring instant relief to the Iranian regime, and it could over time make Iran rich again. America banned its firms from buying Iranian oil in 1980 in response to the hostage crisis in its embassy in Tehran the previous year. That embargo was supplemented in the early 2010s by “secondary” sanctions exposing other buyers to American penalties. Those were suspended under Barack Obama’s nuclear deal of 2015, then reimposed, in harsher form, when Donald Trump tore up the pact three years later. The latest waiver goes much further than any previous relief. An earlier one, issued by Mr Trump while war between the countries raged, covered only Iranian oil already loaded on ships. Licences granted to third countries under Mr Obama required them to cut purchases, which drove exports down from 2.5m barrels per day (b/d) in 2011 to 1.5m in 2012. Even Mr Obama’s nuclear deal lifted only secondary sanctions. Mr Trump’s new licence imposes no such constraints. American refiners may now buy Iranian petroleum directly, pay for it in dollars and receive it from blacklisted tankers—rolling back, temporarily, the original embargo from 1980. Why be so generous when talks have so far yielded no Iranian concessions? One transparent motive is to keep negotiations alive—and the Strait of Hormuz open—despite rising tensions over Israel’s continued attacks in Lebanon. Beyond that, says Michelle Brouhard of Kpler, a data firm, who also advises America’s energy department, the administration hopes the move will push oil prices down, stop China getting cheap Iranian crude and deter Iran from closing the strait. In reality it will make a marginal difference at best. One reason is that Iranian crude already flowed more freely after America lifted its blockade of Iran’s ports in mid-June. Exports of oil went from nearly nothing in May to 1.5m b/d, notes David Wech of Vortexa, another data firm (see chart). Loadings from Kharg island, Iran’s main export terminal, have risen, too. Iran still has some way to go before it reaches the monthly average of 2m b/d recorded before the war. But the price of Brent crude, the global benchmark, which has barely moved since Mr Trump’s concession was announced, suggests that markets were pricing in a surge in Iranian shipments even before the waiver was announced. For exports to rise much more, and prices to come down further, Iran must find new buyers for its oil. In recent years nearly all of its barrels have gone to small “teapot” refineries in north-eastern China. They are “quite excited” about the prospect of purchases with less need for costly efforts to conceal them, says Tom Reed of Argus Media, a price-reporting agency. However, the teapots cannot easily increase their purchases; Iranian crude is now priced on a par with Omani and Emirati oil, limiting the incentive to binge. For other buyers to come forward, their bankers, insurers and compliance officers must first have confidence that they can do business with Iran for longer than 60 days—and that Mr Trump will not suddenly revoke his waiver. They still face European and British sanctions, which remain in place. And they must consider the reputational risk of putting money directly into the Iranian regime’s pocket, says Amrita Sen of Energy Aspects, a consultancy. These obstacles will put off many potential customers. India, which once bought lots of oil from Iran, might take some. Japan and South Korea—regular buyers as recently as the late 2010s—may start coming back if the current arrangement lasts a few weeks, says Nader Itayim of Argus. Western purchases probably will not revive before a permanent deal is sealed. As for keeping Hormuz open, the sanctions relief looks unlikely to achieve the clarity America hopes for. Days after Mr Trump signed the preliminary deal with his Iranian counterpart on June 17th, Iran declared the strait closed again. Non-Iranian traffic—which had begun rising after the signing—immediately paused, even as Iranian shipments increased. It now appears to be rising again, but so are tensions between America and Iran. In the longer run fears linger that Iran will seek to impose a toll on Hormuz crossings, which would constrict traffic. On June 22nd it said it would “administer” the waterway and set up a “telephone hotline” to co-ordinate the passage of ships. In other words, the sanctions waiver so far looks ineffective from America’s perspective. For Iran, it is a boon: it hastens the recovery of exports and, by freeing up space in its nearly full storage, enables curbed production to restart. By reducing friction in logistics and payments, it lets Iran’s oil firms—and the regime—earn a little more on every barrel they sell. If the licence is renewed indefinitely, as some experts expect, Iran would attract a bigger and more diverse group of buyers. Add in billions of dollars a year in transit fees, the return of unfrozen assets and Mr Trump’s promised $300bn reparation fund, and Iran could become one of the Gulf’s richest states within a decade, without having conceded much on its nuclear programme or its support for troublesome proxies, says a big trader familiar with the region. Mr Trump may face domestic opposition to what would be near-total capitulation. But the odds of such an outcome are steadily rising. ■ For more expert analysis of the biggest stories in economics, finance and markets, sign up to Money Talks , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The Treasury Department's decision is described as a major ______ of established American policy.",
+          "options": {
+            "A": "clarification",
+            "B": "continuation",
+            "C": "justification",
+            "D": "departure"
+          },
+          "answer": "D",
+          "explanation": "Context indicates the policy was 'up-ended', suggesting a significant change or departure from past norms."
+        },
+        {
+          "q_number": 2,
+          "stem": "The sanctions on Iranian oil were originally ______ to address the hostage crisis in 1980.",
+          "options": {
+            "A": "mitigated",
+            "B": "instituted",
+            "C": "evaluated",
+            "D": "replicated"
+          },
+          "answer": "B",
+          "explanation": "To institute means to set up or establish; sanctions were put in place in response to the crisis."
+        },
+        {
+          "q_number": 3,
+          "stem": "The previous embargo was ______ by secondary sanctions that targeted international buyers.",
+          "options": {
+            "A": "abandoned",
+            "B": "replaced",
+            "C": "strengthened",
+            "D": "obfuscated"
+          },
+          "answer": "C",
+          "explanation": "Secondary sanctions were added to extend the reach of the embargo, effectively strengthening the policy."
+        },
+        {
+          "q_number": 4,
+          "stem": "The latest waiver is notably more ______ than previous attempts at sanctions relief.",
+          "options": {
+            "A": "restrictive",
+            "B": "lenient",
+            "C": "redundant",
+            "D": "temporary"
+          },
+          "answer": "B",
+          "explanation": "The text states the waiver 'goes much further' than prior relief, implying greater leniency."
+        },
+        {
+          "q_number": 5,
+          "stem": "Critics argue that such a generous move offers ______ despite no Iranian concessions.",
+          "options": {
+            "A": "consequences",
+            "B": "confrontation",
+            "C": "concessions",
+            "D": "consolation"
+          },
+          "answer": "C",
+          "explanation": "A 'concession' is a thing that is granted, especially in response to demands, fitting the context of US-Iran talks."
+        },
+        {
+          "q_number": 6,
+          "stem": "One primary goal of the US administration is to ______ oil prices from rising further.",
+          "options": {
+            "A": "dampen",
+            "B": "inflate",
+            "C": "stabilize",
+            "D": "ignore"
+          },
+          "answer": "A",
+          "explanation": "The US hopes to 'push oil prices down', which corresponds to dampening or reducing them."
+        },
+        {
+          "q_number": 7,
+          "stem": "The actual impact of the current waiver is likely to be ______ at best.",
+          "options": {
+            "A": "catastrophic",
+            "B": "profound",
+            "C": "marginal",
+            "D": "unavoidable"
+          },
+          "answer": "C",
+          "explanation": "The text explicitly states it will make a 'marginal difference', meaning small or insignificant."
+        },
+        {
+          "q_number": 8,
+          "stem": "The market had already ______ a surge in Iranian shipments before the official announcement.",
+          "options": {
+            "A": "discounted",
+            "B": "ignored",
+            "C": "overestimated",
+            "D": "priced in"
+          },
+          "answer": "D",
+          "explanation": "Markets 'price in' expected news, meaning they adjust asset prices based on future expectations."
+        },
+        {
+          "q_number": 9,
+          "stem": "Small Chinese refineries are ______ about the prospect of purchasing Iranian oil with fewer hurdles.",
+          "options": {
+            "A": "cautious",
+            "B": "skeptical",
+            "C": "indifferent",
+            "D": "enthusiastic"
+          },
+          "answer": "D",
+          "explanation": "The text uses the term 'quite excited', which is synonymous with being enthusiastic."
+        },
+        {
+          "q_number": 10,
+          "stem": "Increasing purchases is difficult because Iranian oil is now priced ______ with competitors like Omani oil.",
+          "options": {
+            "A": "above average",
+            "B": "at a discount",
+            "C": "on a par",
+            "D": "out of reach"
+          },
+          "answer": "C",
+          "explanation": "To be 'on a par' means to be equal in status or price to another item."
+        },
+        {
+          "q_number": 11,
+          "stem": "Potential buyers remain worried that the US might ______ the waiver suddenly.",
+          "options": {
+            "A": "revoke",
+            "B": "enforce",
+            "C": "expand",
+            "D": "prolong"
+          },
+          "answer": "A",
+          "explanation": "To revoke is to officially cancel or take back a decision or permit."
+        },
+        {
+          "q_number": 12,
+          "stem": "Companies must consider the ______ risk of associating with the Iranian regime.",
+          "options": {
+            "A": "financial",
+            "B": "environmental",
+            "C": "operational",
+            "D": "reputational"
+          },
+          "answer": "D",
+          "explanation": "The text explicitly mentions 'reputational risk' regarding putting money into the Iranian regime's pocket."
+        },
+        {
+          "q_number": 13,
+          "stem": "These obstacles will likely ______ many potential customers from doing business with Iran.",
+          "options": {
+            "A": "dissuade",
+            "B": "attract",
+            "C": "persuade",
+            "D": "enable"
+          },
+          "answer": "A",
+          "explanation": "To dissuade means to persuade someone not to take a particular course of action."
+        },
+        {
+          "q_number": 14,
+          "stem": "A permanent deal is unlikely to be reached until conditions ______.",
+          "options": {
+            "A": "degenerate",
+            "B": "stabilize",
+            "C": "stagnate",
+            "D": "evaporate"
+          },
+          "answer": "B",
+          "explanation": "Stabilize implies reaching a condition where a permanent agreement becomes feasible."
+        },
+        {
+          "q_number": 15,
+          "stem": "The sanctions relief seems unlikely to achieve the ______ America desires regarding the strait.",
+          "options": {
+            "A": "clarity",
+            "B": "confusion",
+            "C": "complexity",
+            "D": "hostility"
+          },
+          "answer": "A",
+          "explanation": "The text mentions the US hopes for 'clarity' in terms of keeping the strait open."
+        },
+        {
+          "q_number": 16,
+          "stem": "In the long run, there are fears that Iran will ______ a toll on international shipping.",
+          "options": {
+            "A": "abolish",
+            "B": "implement",
+            "C": "subsidize",
+            "D": "calculate"
+          },
+          "answer": "B",
+          "explanation": "To implement (or impose) a toll fits the context of Iran potentially controlling the waterway."
+        },
+        {
+          "q_number": 17,
+          "stem": "For Iran, the sanctions waiver is a significant ______ that aids their economic recovery.",
+          "options": {
+            "A": "blunder",
+            "B": "barrier",
+            "C": "burden",
+            "D": "boon"
+          },
+          "answer": "D",
+          "explanation": "A boon is a thing that is helpful or beneficial."
+        },
+        {
+          "q_number": 18,
+          "stem": "Reducing friction in logistics enables Iran's oil firms to ______ their production.",
+          "options": {
+            "A": "suspend",
+            "B": "restart",
+            "C": "curtail",
+            "D": "abandon"
+          },
+          "answer": "B",
+          "explanation": "The text mentions enabling 'curbed production to restart'."
+        },
+        {
+          "q_number": 19,
+          "stem": "Mr. Trump may face domestic ______ regarding this potential total capitulation.",
+          "options": {
+            "A": "opposition",
+            "B": "apathy",
+            "C": "agreement",
+            "D": "support"
+          },
+          "answer": "A",
+          "explanation": "Domestic opposition is the standard political reaction to controversial international concessions."
+        },
+        {
+          "q_number": 20,
+          "stem": "Despite these challenges, the probability of such an outcome is ______ rising.",
+          "options": {
+            "A": "never",
+            "B": "barely",
+            "C": "steadily",
+            "D": "rarely"
+          },
+          "answer": "C",
+          "explanation": "Steadily describes a constant and continuous rate of increase."
+        }
+      ]
+    },
+    {
+      "title": "Ecologies of Perception",
+      "article_update_date": "06.03.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Ecologies of Perception Poems Ecologies of Perception By Terrance Hayes May 25, 2026 On a day so hot not even the housefly watching you can move, you notice its eyeballs almost favor the shiny black domes that cover airport security cameras. The housefly’s compound eyeballs look like headlights wearing prescription Coke-bottle goggles in a violent heat. When your fingernail scrapes a lash or flake of ash the size of a fat fly’s wing from your eye, it’s multiplied several thousand times in the housefly’s eyes. The blackfly breeds in streams & rivers during the dog days of summer, but cannot survive on sadness like the housefly. Bubbles of good & bad air flare in individual hexagonal lenses known as ommatidia. Each ommatidium functions like an eye, but none sees spectrums of red or yellow. To the fly you are myriad mosaics of ultraviolet, gray, blue & green trichromatic visions scraping something from your eye: a tear of oil or sweat in some ommatidia, a bud, a bead of mucus or blindness in others, a pearly, blurry larva recalling the housefly’s first dog days on earth. When it’s this hot, you may also contend with the horsefly, which is what you almost think the housefly is when you look at it. The fangs of horseflies tear the ears of the dog days. The sores shine on the ears of the dogs like diamonds. Dog days swarm the earth. Houseflies rise like small planes orbiting an inflamed, flammable planet. Houseflies rise out of maggots like fragments & figments & scabs & clouds of ash. Praise be to the one housefly that does not flee, the wind at bay gone violent. You cannot shoo the climate. You are multitudinous outlandish landscapes, which is to say, you are more than otherworldly scraping & scratching the flake or lash itching your eye in the eyes of the fly. You cannot shoo the fly.",
+      "difficulty_constant": 11.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the housefly's compound eyeballs are metaphorically compared to airport security cameras because of their ______.",
+          "options": {
+            "A": "ability to record movements with mechanical precision",
+            "B": "shiny, dark, and dome-like appearance",
+            "C": "capacity to detect spectrums of infrared light",
+            "D": "role in monitoring human behavior in extreme heat"
+          },
+          "answer": "B",
+          "explanation": "文章第一段提到“you notice its eyeballs almost favor the shiny black domes that cover airport security cameras”，这直接对应了苍蝇复眼外形闪亮且呈拱形的特征。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author implies that compared to the blackfly, the housefly's existence is characterized by ______.",
+          "options": {
+            "A": "a unique ability to endure and thrive on emotional suffering",
+            "B": "a biological reliance on ultraviolet vision to survive",
+            "C": "a greater resistance to the extreme temperatures of the dog days",
+            "D": "a cyclical life pattern tied to the movement of small planes"
+          },
+          "answer": "A",
+          "explanation": "文章提到“but cannot survive on sadness like the housefly”，暗示了家蝇（housefly）具有一种以“悲伤”为生的隐喻属性，这是黑蝇所不具备的。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the phrase 'myriad mosaics' suggest about the fly's perception of the human observer?",
+          "options": {
+            "A": "The fly perceives the human as a fragmented and multicolored entity.",
+            "B": "The fly sees the human as an object of pity within a bleak landscape.",
+            "C": "The fly views the human through a lens of artistic and historical patterns.",
+            "D": "The fly fails to recognize the human due to the lack of red and yellow spectrums."
+          },
+          "answer": "A",
+          "explanation": "文章提到 fly 将人类视为“myriad mosaics of ultraviolet, gray, blue & green”，说明在苍蝇的多重复眼中，人类形象被分解为多种色彩和碎块。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The mention of 'dog days' throughout the passage serves primarily to ______.",
+          "options": {
+            "A": "highlight the seasonal migration patterns of various fly species",
+            "B": "establish a stifling and oppressive atmospheric setting for the poem",
+            "C": "symbolize the cruelty of nature toward domesticated animals",
+            "D": "contrast the biological behaviors of horseflies and houseflies"
+          },
+          "answer": "B",
+          "explanation": "“Dog days”指酷热的三伏天，文章反复使用该词并配合高温描述，旨在营造一种令人窒息、压抑的物理和心理环境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The final sentence 'You cannot shoo the climate' implies that ______.",
+          "options": {
+            "A": "human attempts to modify the environment are ultimately futile",
+            "B": "the insects are an inescapable part of the global ecological crisis",
+            "C": "climate change is a persistent threat that mirrors the behavior of flies",
+            "D": "the speaker has accepted the inevitability of the heat and its companions"
+          },
+          "answer": "A",
+          "explanation": "“Shoo”意为驱赶，作者通过“你无法驱赶气候”这一隐喻，表达了人类在宏大的环境力量或不可逆的生态变化面前的无力感。"
+        }
+      ]
+    },
+    {
+      "title": "Nigeria takes its place on world stage in quest to become regional superpower",
+      "article_update_date": "03.27.2026",
+      "source_journal": "The Guardian",
+      "body_text": "“There are chapters in our shared history that I know have left some painful marks,” King Charles said during a state banquet to welcome the Nigerian president, Bola Tinubu, to the UK, in a year in which the monarch is expected to come under renewed pressure to make a formal apology for transatlantic slavery and colonialism. But while demands grow from African and Caribbean nations for the UK to further reparative justice, Nigeria and the UK are looking to the future of global trade. Tinubu’s state visit last week is being celebrated as a return to the world stage for Africa’s largest economy. Tinubu is the first Nigerian president to receive a UK state visit in 37 years, and only the second African leader in history to be received at Windsor Castle, after Liberia’s William Tubman in 1962. This new chapter in the two countries’ relationship, which is rooted in colonial history, promises to help the UK’s ailing steel industry while furthering Nigeria’s ambition to become a regional superpower. At the state banquet, the king told Tinubu: “The many dynamic connections between our two nations have deep roots and yet I do not pretend that those roots are without a shadow … I do not seek to offer words that dissolve the past, for no words can. “But I do believe, as I know you believe, Mr President, that history is not merely a record of what was done to us: it is a lesson in how we go forward together to continue building a future rooted in hope and growth for all, and worthy of those who bore the pains of the past.” A deal in which the UK guarantees a £746m loan to refurbish two of Nigeria’s trading ports is one way cooperation between Nigeria and the UK can build a new future, independent of the debate about reparative justice. The issue of reparations is expected be discussed at the Commonwealth heads of government meeting this year. Nigeria also wants to diversify global partnerships and shift from its economic dependency on oil. It aims to be the dominant maritime hub for west and central Africa, which is rich in strategic mineral resources and has huge potential for consumer market growth. However, Lagos’s seaports are creaking – which is where UK financing comes in. As part of the ports deal, Nigeria will direct at least £236m in contracts to British suppliers, including £70m for the loss-making British Steel, which the UK government took control of last year. View image in fullscreen Bola Tinubu and Keir Starmer in Downing Street during Tinubu’s state visit to the UK. Nigeria is seeking to diversify its global partnerships and shift from its economic dependence on oil. Photograph: Kin Cheung/PA In one of its biggest-ever contracts, British Steel will supply 120,000 tonnes of steel billets to Nigeria. Meanwhile, cooperation, investment and partnerships in the fintech, creative and higher education sectors have been announced. Nigeria’s Zenith Bank is opening a Manchester branch, while the Fidelity Bank and fintech companies LemFi, Kuda and Moniepoint are expanding their UK operations. There will also be state cooperation on customs and irregular migration. Nigeria and the EU are also strengthening ties. At the banquet, King Charles said the UK was “blessed that so many people of Nigerian heritage … are now at the heart of British life through excelling at the highest levels” . About 270,000 people, or 0.5% of the population of England and Wales, recorded their ethnic group as Nigerian in the last census. Among the guests at the banquet were the England rugby captain Maro Itoje and his wife, Mimi, the Olympic 400m gold medallist Christine Ohuruogu, the former Lioness and football pundit Eni Aluko, and the UK’s first black female Michelin-starred chef, Adejoké Bakare. View image in fullscreen At the banquet, King Charles said the UK was ‘blessed that so many people of Nigerian heritage … are now at the heart of British life through excelling at the highest levels’. Photograph: Aaron Chown/PA For the first time in living memory, canapes were provided before the dinner to offer sustenance to Muslim guests who were unable to take part in iftar – the breaking of their fast – at sunset. Tinubu is the first Muslim leader to make a state visit to the UK during Ramadan since 1928. A prayer room was also set up in the castle for guests breaking their fast, and a mocktail offered that took inspiration from the classic Nigerian drink, the Chapman – usually a mix of Sprite, Fanta, cucumber, grenadine syrup andangostura aromatic bitters. The royal household’s version, called crimson bloom, used zobo, a popular west African beverage made of dried hibiscus flowers – known as sorrel in the Caribbean – mixed with English rose soda, a homemade hibiscus and ginger syrup, lemon and a hint of spice. At the banquet, the king quoted Hausa, Igbo and Yoruba proverbs, toasted in pidgin and described Nigeria as “an economic powerhouse, a cultural force and an influential diplomatic voice”. View image in fullscreen King Charles delivering his speech at the state banquet. Bola Tinubu’s state visit and the agreements that followed were welcomed in Nigeria as a vote of confidence for the country. Photograph: Yui Mok/PA But while the visit and the agreements that followed were welcomed in Nigeria as a vote of confidence for the country’s status and investability, the Nigerian government faces pressure to prove the country is getting a good deal. Analysts want to see the deals fully materialise and for the government to ensure foreign investment does not leave the country in a dependent, indebted position – or disadvantage domestic industry – and lead to growth across society. Nigerian officials say the conditions are attractive, but after a history of African nations being exploited through western debt, a £746m British loan will invite some domestic scepticism. Britain colonised Nigeria over 100 years, beginning with the annexation of Lagos in 1860. Nigerians trained in the UK in law, medicine, administration and technology after independence in 196o, growing what had been a small, prewar community of students, pioneering professionals, and seamen. Tens of thousands of Nigerian soldiers fought in first and second world war campaigns. The Royal Niger Company – later absorbed into the consumer goods company Unilever – was central to colonisation in the late 19th and 20th centuries. Palm oil harvested by Nigerian workers was essential for soap and lubricating Britain’s industrial machinery. Finished cotton wax-print material was exported from Manchester to Nigeria in the colonial era and still influences styles today. Cotton was at the heart of the most painful era in a relationship between nations defined all too often by extraction. An estimated 3.5 million enslaved people were shipped from Nigeria to the Americas to grow cash crops such as cotton, coffee, sugar and tobacco during the transatlantic trade alone. The British multinational company Shell finally divested from its onshore Nigerian oil operation last year, almost 90 years after it obtained a licence. The Benin bronzes, thousands of treasures looted by the British military in 1897, are at the centre of restitution campaigns. Nigeria-UK trade grew 11.4% to £8.1bn in the past year, with the UK £3.4bn in surplus. Nonetheless, the visit of Tinubu and the first lady, Oluremi Tinubu, highlighted the strategic importance of Nigeria after domestic overhauls intended to stabilise the Nigerian economy in an evolving global order.",
+      "difficulty_constant": 8.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary significance of President Tinubu’s recent state visit to the UK?",
+          "options": {
+            "A": "It marks the formal resolution of all historical tensions between the UK and Nigeria.",
+            "B": "It serves as a symbol of Nigeria's re-emergence on the global stage and a strategic shift in economic partnership.",
+            "C": "It is primarily an attempt to secure an apology from the monarch for the era of transatlantic slavery.",
+            "D": "It signals the total abandonment of Nigeria’s historical dependency on oil as a primary export."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到这次访问被视为非洲最大经济体重返世界舞台的标志，重点在于两国寻求未来全球贸易合作，而非仅仅是为了解决历史争端。选项C虽然提到了赔偿问题，但那并非访问的主要目的；选项D过于绝对，因为尼日利亚的目标是多元化合作伙伴关系，而非立即完全放弃石油依赖。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does King Charles’s statement about the 'roots' of the UK-Nigeria relationship imply?",
+          "options": {
+            "A": "The monarch believes the historical shadow should be ignored for the sake of future cooperation.",
+            "B": "The British government intends to issue a formal apology for colonial actions during the visit.",
+            "C": "A balanced acknowledgement of historical pain and a forward-looking commitment to mutual growth.",
+            "D": "The monarch suggests that the colonial legacy is the sole foundation for the countries' present ties."
+          },
+          "answer": "C",
+          "explanation": "国王明确表示他并不假装这些根源没有阴影，但他强调历史不仅是过去的记录，更是共同前进、构建未来希望与增长的课程，体现了承认痛苦历史与着眼未来的平衡态度。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How is the UK's financial agreement with Nigeria intended to benefit both parties?",
+          "options": {
+            "A": "It focuses solely on the growth of the Nigerian fintech sector.",
+            "B": "It provides a loan to Nigeria while ensuring British industries receive substantial supply contracts.",
+            "C": "It eliminates the need for further debate regarding reparative justice in the Commonwealth.",
+            "D": "It aims to directly replace the oil revenue that Nigeria has lost due to international sanctions."
+          },
+          "answer": "B",
+          "explanation": "文中指出该贷款协议中包含尼日利亚将至少2.36亿英镑的合同交给英国供应商的条款（例如为英国钢铁公司供货），这体现了双向受益的商业逻辑。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred from the mention of the banquet arrangements for Muslim guests?",
+          "options": {
+            "A": "The UK royal household is attempting to modernize its traditional diplomatic etiquette.",
+            "B": "King Charles seeks to emphasize the growing influence of the Nigerian diaspora in the UK.",
+            "C": "It highlights the diplomatic sensitivity and inclusivity displayed by the hosts toward the visiting leader.",
+            "D": "The inclusion of specific drinks and prayer rooms is a legal requirement under the Commonwealth protocol."
+          },
+          "answer": "C",
+          "explanation": "文章详细描述了为斋月期间无法参加晚宴的穆斯林客人提供的特殊服务，说明了王室在外交礼仪中对来访领导人宗教信仰的尊重与灵活性。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the concern raised by analysts regarding the recent UK-Nigeria economic agreements?",
+          "options": {
+            "A": "They fear that the investment might lead to increased debt and continued economic exploitation.",
+            "B": "They worry that Nigerian officials were not transparent about the terms of the loan.",
+            "C": "They believe that the agreements lack sufficient support from the British public.",
+            "D": "They argue that the deals prioritize short-term political gains over long-term industrial stability."
+          },
+          "answer": "A",
+          "explanation": "文章提到分析人士担心外资投入可能让尼日利亚处于依赖或负债的境地，并提到在非洲国家被西方债务剥削的历史背景下，这种贷款引起了国内怀疑。"
+        }
+      ]
+    },
+    {
+      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
+      "article_update_date": "05.30.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke out just after midnight at Utumishi girls academy in Gilgil, Nakuru county, about 76 miles north-west of Nairobi, police said. The education minister, Julius Migos Ogamba, told reporters that 79 other students were injured, although 71 of them have already been discharged from hospital. Ogamba said: “Investigations are ongoing, but the ... cause of the fire is not yet identified.” Students at the school are between 15 and 18, and about 220 girls were sleeping in the dormitory when the fire started on the building’s second floor. Doors on that floor were initially locked and some girls died while jumping out of the windows, a first responder said. Multiple survivors told first responders that a student had lit a mattress with a match, the first responder told Reuters. They did not know what the student’s motive may have been. The tragedy is the latest fatal fire at a school in Kenya in recent years. In 2024, 21 boys were killed at a boarding school in central Kenya when a fire tore through their dormitory, while in 2017 nine girls died in a blaze at a school in Kibera, the largest slum in Nairobi. View image in fullscreen An injured Utumishi academy student is carried to safety. Photograph: Andrew Kasuku/AP In 2016, there were about 120 incidents of students setting fire to their sleeping quarters, many in protest at strict discipline and bad conditions. A 2022 report by the country’s auditor general found that most state secondary schools were not prepared to deal with fires. The Kenyan Red Cross said on X that the blaze in Gilgil was reported at about 3.30am on Thursday. “Several students have been evacuated and are receiving treatment in various hospitals,” it said. “A multi-agency response involving the county fire brigade, county disaster response teams, @PoliceKE and Kenya Red Cross remains ongoing.” Dozens of parents gathered at the school on Thursday morning, frantically searching for news of their children. Some injured students were carried out of the school by police officers, while others limped. Wambui Nderitu told the BBC her niece had survived the fire but broken her leg. She added: “Some of those at the top floor had to jump out, that’s why they are injured.” Kenya’s president, William Ruto, said his “heart and prayers” were with the girls’ families. “No words can truly ease the pain of losing young lives filled with promise, hope and dreams for the future,” he said in a social media post. “As a nation, we mourn with the parents, guardians, teachers and fellow students who are enduring this unimaginable tragedy. “Our immediate attention is focused on the rescue of those affected, the treatment of the injured, and support for their families, while investigations continue into the cause of the fire.”",
+      "difficulty_constant": 4.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the current status of the investigation into the school fire?",
+          "options": {
+            "A": "The cause has been traced to faulty electrical wiring in the dormitory.",
+            "B": "Authorities have concluded that the fire was started by a specific student.",
+            "C": "Investigations are in progress, but the cause remains undetermined.",
+            "D": "The education minister has confirmed that the fire was a result of arson."
+          },
+          "answer": "C",
+          "explanation": "文章中提到教育部长Julius Migos Ogamba表示：Investigations are ongoing, but the ... cause of the fire is not yet identified. 因此选项C符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why did some students sustain injuries while trying to escape the building?",
+          "options": {
+            "A": "They were trapped by the locked doors on the second floor.",
+            "B": "The fire spread too rapidly for them to reach the exits.",
+            "C": "They were trampled by other students in the panic.",
+            "D": "The dormitory lacked basic fire safety equipment."
+          },
+          "answer": "A",
+          "explanation": "文中明确指出：Doors on that floor were initially locked and some girls died while jumping out of the windows。说明上锁的门迫使学生不得不跳窗逃生导致受伤。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is implied about the history of school fires in Kenya based on the text?",
+          "options": {
+            "A": "They are exclusively caused by natural disasters or accidents.",
+            "B": "The Kenyan government has successfully prevented such incidents since 2016.",
+            "C": "Such tragedies occur periodically and are sometimes linked to student unrest.",
+            "D": "Student protests against discipline are the only reason for school fires."
+          },
+          "answer": "C",
+          "explanation": "文章提到2017年和2024年均发生过重大伤亡火灾，且2016年有大量因抗议纪律而纵火的案例，说明这类悲剧具有周期性且与学生不满情绪有关。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What did the 2022 auditor general's report highlight regarding Kenyan schools?",
+          "options": {
+            "A": "Most secondary schools failed to implement strict disciplinary measures.",
+            "B": "Public secondary schools were largely unprepared for potential fire incidents.",
+            "C": "The government provided insufficient funding for fire safety upgrades.",
+            "D": "Student sleeping quarters were overcrowded and unsanitary."
+          },
+          "answer": "B",
+          "explanation": "文中引用2022年审计长报告：A 2022 report by the country’s auditor general found that most state secondary schools were not prepared to deal with fires."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary tone of the passage?",
+          "options": {
+            "A": "Objective and journalistic",
+            "B": "Critically condemnatory",
+            "C": "Optimistically speculative",
+            "D": "Indifferently analytical"
+          },
+          "answer": "A",
+          "explanation": "文章通过客观陈述事实、引用官方表态和幸存者描述，保持了新闻报道中立、客观的语调，没有表达强烈的主观情绪或抨击。"
+        }
+      ]
+    }
+  ]
+}
