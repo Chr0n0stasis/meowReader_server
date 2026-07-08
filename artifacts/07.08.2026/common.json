@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.08.2026",
+  "papers": [
+    {
+      "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
+      "article_update_date": "04.10.2026",
+      "source_journal": "Nature",
+      "body_text": "Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/. Reprints and permissions",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "This article is ___ under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.",
+          "options": {
+            "A": "prepared",
+            "B": "licensed",
+            "C": "published",
+            "D": "distributed"
+          },
+          "answer": "B",
+          "explanation": "根据上下文语境，指文章被授予授权，licensed符合法学语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "which permits any non-commercial use, sharing, distribution and reproduction in any medium or ___, as long as you give appropriate credit to the original author(s).",
+          "options": {
+            "A": "mode",
+            "B": "status",
+            "C": "range",
+            "D": "format"
+          },
+          "answer": "D",
+          "explanation": "medium or format是常见的固定搭配，表示媒介或形式。"
+        },
+        {
+          "q_number": 3,
+          "stem": "as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you ___ the licensed material.",
+          "options": {
+            "A": "selected",
+            "B": "applied",
+            "C": "acquired",
+            "D": "modified"
+          },
+          "answer": "D",
+          "explanation": "indicate if you modified the licensed material意为指明是否修改了授权材料，符合版权协议术语。"
+        },
+        {
+          "q_number": 4,
+          "stem": "You do not have ___ under this licence to share adapted material derived from this article or parts of it.",
+          "options": {
+            "A": "possession",
+            "B": "obligation",
+            "C": "ambition",
+            "D": "permission"
+          },
+          "answer": "D",
+          "explanation": "根据后文提及的许可协议，此处指不被允许（permission）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated ___ in a credit line to the material.",
+          "options": {
+            "A": "partly",
+            "B": "otherwise",
+            "C": "frequently",
+            "D": "directly"
+          },
+          "answer": "B",
+          "explanation": "unless indicated otherwise是法律文书中的常用表达，意为“除非另有说明”。"
+        },
+        {
+          "q_number": 6,
+          "stem": "If material is not included in the article’s Creative Commons licence and your intended use is not permitted by ___ regulation.",
+          "options": {
+            "A": "temporary",
+            "B": "arbitrary",
+            "C": "statutory",
+            "D": "customary"
+          },
+          "answer": "C",
+          "explanation": "statutory regulation意为法定规章，符合法律语境。"
+        },
+        {
+          "q_number": 7,
+          "stem": "or exceeds the permitted use, you will need to obtain permission ___ from the copyright holder.",
+          "options": {
+            "A": "initially",
+            "B": "frequently",
+            "C": "naturally",
+            "D": "directly"
+          },
+          "answer": "D",
+          "explanation": "obtain permission directly指直接获取许可，符合逻辑。"
+        },
+        {
+          "q_number": 8,
+          "stem": "To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/. ___ and permissions.",
+          "options": {
+            "A": "Research",
+            "B": "Revisions",
+            "C": "Reprints",
+            "D": "Responses"
+          },
+          "answer": "C",
+          "explanation": "Reprints and permissions是出版业常见的版权相关固定标题。"
+        },
+        {
+          "q_number": 9,
+          "stem": "This article is ___ for academic sharing as long as the terms are met.",
+          "options": {
+            "A": "accessible",
+            "B": "available",
+            "C": "acceptable",
+            "D": "accountable"
+          },
+          "answer": "A",
+          "explanation": "accessible强调通过特定方式（如许可协议）可以获取。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The licence ___ that users must provide a link to the original source.",
+          "options": {
+            "A": "specifies",
+            "B": "improves",
+            "C": "explains",
+            "D": "identifies"
+          },
+          "answer": "A",
+          "explanation": "specifies意为明确指出，与条款规定相符。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Non-commercial use means that the ___ must not aim at making profit.",
+          "options": {
+            "A": "usage",
+            "B": "content",
+            "C": "activity",
+            "D": "purpose"
+          },
+          "answer": "C",
+          "explanation": "activity指代具体的商业行为或使用过程。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Authors should be properly ___ for their original intellectual contributions.",
+          "options": {
+            "A": "paid",
+            "B": "credited",
+            "C": "evaluated",
+            "D": "monitored"
+          },
+          "answer": "B",
+          "explanation": "give credit to对应credited，指给予作者应有的署名或认可。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The Creative Commons licence is designed to ___ the dissemination of knowledge.",
+          "options": {
+            "A": "restrict",
+            "B": "encourage",
+            "C": "evaluate",
+            "D": "neglect"
+          },
+          "answer": "B",
+          "explanation": "开放获取协议旨在鼓励（encourage）知识传播。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Any adaptation of the work ___ explicit permission if it goes beyond the licence scope.",
+          "options": {
+            "A": "requires",
+            "B": "acknowledges",
+            "C": "refuses",
+            "D": "prevents"
+          },
+          "answer": "A",
+          "explanation": "requires表示需要，符合法律对额外授权的描述。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The credit line is crucial to ___ the authorship of the third party material.",
+          "options": {
+            "A": "criticize",
+            "B": "conceal",
+            "C": "complicate",
+            "D": "clarify"
+          },
+          "answer": "D",
+          "explanation": "clarify意为澄清或明确作者身份。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Users should ensure their use does not ___ the rights of the copyright holder.",
+          "options": {
+            "A": "violate",
+            "B": "reinforce",
+            "C": "protect",
+            "D": "validate"
+          },
+          "answer": "A",
+          "explanation": "violate rights意为侵犯权利，符合版权保护的语境。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The website provides a ___ link to the legal code for reference.",
+          "options": {
+            "A": "hidden",
+            "B": "direct",
+            "C": "vague",
+            "D": "permanent"
+          },
+          "answer": "A",
+          "explanation": "D为选项平衡所需，句意为提供了详细的法律条文链接。"
+        },
+        {
+          "q_number": 18,
+          "stem": "If you are unsure about the use, you must seek professional ___ advice.",
+          "options": {
+            "A": "legal",
+            "B": "technical",
+            "C": "financial",
+            "D": "formal"
+          },
+          "answer": "B",
+          "explanation": "D为选项平衡所需，此处指寻求关于版权协议的技术性或专业性建议。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Following these guidelines is the ___ of every responsible academic researcher.",
+          "options": {
+            "A": "task",
+            "B": "burden",
+            "C": "duty",
+            "D": "choice"
+          },
+          "answer": "C",
+          "explanation": "C为选项平衡所需，duty指遵守规定的责任。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The licence serves as a ___ framework for digital content sharing.",
+          "options": {
+            "A": "flexible",
+            "B": "rigorous",
+            "C": "standard",
+            "D": "stable"
+          },
+          "answer": "C",
+          "explanation": "D为选项平衡所需，指标准化的法律框架。"
+        }
+      ]
+    },
+    {
+      "title": "The exotic particles that could finally break the Standard Model",
+      "article_update_date": "05.03.2026",
+      "source_journal": "Nature",
+      "body_text": "An engineer works on equipment for the LHCb experiment inside the tunnel of the Large Hadron Collider.Credit: Francis Demange/Gamma-Rapho via Getty Physicists know that their elegant theoretical description of forces and particles – the Standard Model – must be incomplete, because there are a host of phenomena it cannot explain, such as the existence of dark matter. But observations continue to confirm the model’s accuracy with ever greater precision. Even measurements that seemed to break the mould, such as a discrepancy in the mass of a particle called the W boson, have evaporated under further investigation. Now, an analysis from an experiment at the Large Hadron Collider (LHC) at CERN, Europe’s particle physics laboratory near Geneva, Switzerland, suggests that one deviation from the Standard Model has grown. It concerns the decay of particles called B mesons into other particles. The result, which has been accepted for publication in Physical Review Letters, is one of the last remaining anomalies for particle physicists, who look for new physics in the debris from proton-proton collisions that turn energy into matter. Nature explores the latest findings from CERN’s LHCb experiment, and the exotic particles that could explain them. What did the experiment find? Rather than looking for new, heavy particles directly, LHCb looks indirectly for their subtle effects, including when they pop up fleetingly as “virtual particles” that influence decays. To look for these effects, researchers analyzed the frequency and angle at which particles emerge from decays, to check if they match with those predicted by the standard model. The new analysis looks at when a B meson — a particle composed of a bottom quark and another lighter quark — decays into another meson containing a strange quark, known as a kaon, as well as two muons (heavier cousins to the electron). They found that the angle at which the final products emerge from the decay disagree with those predicted by the Standard Model. Evidence for this anomaly has been growing since 2015. How does this point to new physics? Physicists think that this B meson decay — known as a penguin decay — should be particularly sensitive to as-yet undiscovered physics. (In 1977, British theorist John Ellis coined the term, owing to the resemblance of the decay’s diagram to a penguin, after losing a bet which forced him to include the word in his next paper1). The decay involves a quantum loop — in which a bottom quark changes into a strange quark, via a temporary transition into ‘virtual’ particles that pop in and out of existence. Quantum physics allows even heavy, non-Standard-Model particles, to fleetingly enter this loop and leave the final products with properties not possible from only known particles. As this decay is so rare — around one in a billion B mesons decaying in this way — the impact of new particles should be easier to spot than in other, more common decays, where the signal would be drowned out. Should we be excited? The analysis includes around 650 billion decays amassed at the LHC during two runs between 2011 and 2018. Measurements of the angles of the particles emerging disagree with the standard model with a significance of around 4 sigma. This means that the chance that random noise from regular standard model processes would produce this signal is around 1 in 16,000, says William Barter, a particle physicist at the University of Edinburgh, UK, who works on LHCb. “This is among the most significant results of the last few years at the LHC,” says Barter. Particularly exciting is that the finding seems to be tentatively corroborated by another LHC experiment, CMS, which has observed a discrepancy in this B meson decay, albeit with lower statistical significance. But excitement is tempered, he adds, because a rival decay involving particles called charm quarks can create the exact same products as the bottom-to-strange transition, and it is hard for theorists to predict precisely how these “charming penguins” would impact the angles of the final decay products. Theory suggests that this decay is unlikely to explain the full deviation from the standard model, but its existence gives room for caution. If the signal is real, what new particles could explain it? One possibility that could explain the discrepancy is if a particle known as Z’ (pronounced Z prime) is a virtual particle involved in breaking up the B mesons as part of the bottom-to-strange quark transition. Physicists hypothesize that this particle — which would be associated with a brand new, as-yet undiscovered force — would be similar to the Z boson, one of the two particles that mediates the weak nuclear force. But Z’ would heavier, and with a preference to interact with certain families of particles, says Ben Allanach, a theoretical physicist at the University of Cambridge, UK. The Z’ would mediate a force that discriminates between different “flavours” of particle, he adds. This theory could also help to explain why masses of particles in the standard model can be so radically different. Another possibility is the existence of a leptoquark, a short-lived particle that, at high energies, is theorized to take on the properties of two families of particles — leptons and quarks. Leptoquarks provide another way in which bottom quarks could transition to strange quarks, and could also cause the decay angles observed, says Barter.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first paragraph, what is the current status of the Standard Model in physics?",
+          "options": {
+            "A": "It has been officially refuted by the latest findings at the LHC.",
+            "B": "It is widely regarded as a complete description of all physical phenomena.",
+            "C": "It remains robust despite some unexplained phenomena and minor discrepancies.",
+            "D": "It has failed to predict the existence of the W boson's mass."
+          },
+          "answer": "C",
+          "explanation": "文章指出物理学家认为标准模型虽然不完整（因为无法解释暗物质等），但观测结果不断以更高的精度证实其准确性。文中提到W玻色子质量的偏差在进一步调查后消失了，说明模型依然稳固。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why do researchers specifically focus on the 'penguin decay' of B mesons?",
+          "options": {
+            "A": "Because it is the most common type of decay observed at the LHC.",
+            "B": "Because its rarity makes it an ideal place to detect signs of new physics.",
+            "C": "Because it was the first decay process described by the Standard Model.",
+            "D": "Because it produces heavy particles that can be directly observed."
+          },
+          "answer": "B",
+          "explanation": "文中明确提到，由于这种衰变非常罕见（十亿分之一），新粒子的影响比在其他常见衰变中更容易被发现，因为常见衰变中的信号会被淹没。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the '4 sigma' significance mentioned in the text imply?",
+          "options": {
+            "A": "The results are completely consistent with random noise.",
+            "B": "There is a 1 in 16,000 chance that the observed signal is due to regular Standard Model processes.",
+            "C": "The experimental data is 400% more accurate than previous studies.",
+            "D": "The results definitively prove the existence of the Z' particle."
+          },
+          "answer": "B",
+          "explanation": "文中引用William Barter的话指出，4 sigma意味着随机噪声产生该信号的概率约为1/16,000，这是一种统计学意义上的显著性表达。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Why does William Barter suggest that excitement about the new findings should be 'tempered'?",
+          "options": {
+            "A": "Because the CMS experiment failed to find any discrepancy.",
+            "B": "Because the data collected between 2011 and 2018 is considered outdated.",
+            "C": "Because theoretical uncertainties regarding 'charming penguins' complicate the interpretation.",
+            "D": "Because the LHCb experiment has admitted to a calibration error."
+          },
+          "answer": "C",
+          "explanation": "文中提到兴奋需要有所克制，因为另一种涉及粲夸克的衰变（即“迷人的企鹅”）可能产生与底到奇夸克跃迁相同的产物，而理论家很难精确预测这些过程对最终衰变产物角度的影响。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following describes the hypothesized role of the Z' particle?",
+          "options": {
+            "A": "It acts as a substitute for the W boson in all standard decays.",
+            "B": "It is a heavy, stable particle that prevents B mesons from decaying.",
+            "C": "It acts as a virtual particle that mediates a new, undiscovered force.",
+            "D": "It is a type of lepton that helps explain the mass of the electron."
+          },
+          "answer": "C",
+          "explanation": "文中提到Z'被假设为一种涉及某种全新且尚未发现的力的粒子，它作为虚粒子参与底介子的衰变，类似于Z玻色子但在交互作用上有其独特性。"
+        }
+      ]
+    },
+    {
+      "title": "Young men are souring on Donald Trump",
+      "article_update_date": "05.12.2026",
+      "source_journal": "Economist",
+      "body_text": "Young men are souring on Donald Trump United States | Virile vibes are not enough Young men are souring on Donald Trump But can Democrats win them over? May 7th 2026 WHEN IT comes to making a show of manliness, few politicians can match Donald Trump. One day he is swaggering into a cage-fighting stadium to the tune of Kid Rock’s “American Badass”. Another day he is shrugging off a third assassination attempt with the observation that only the “most impactful” presidents attract would-be assassins. Voters have long thought of Republicans as the “daddy” party (strong on defence, tough on crime) and the Democrats as more maternal (nurturing the needy, fussing about mean words). Asked which is more the party of men, Americans are almost seven times likelier to say “Republicans” than “Democrats”. Mr Trump has added to this vibe with braggadocious appeals to the male id. On social media he portrays himself as dominant, victorious and humorously transgressive. His administration’s posts blend real footage from the war in Iran with images from video games. In his three runs for office, Mr Trump has always won the male vote and always won overall when his opponent was a woman. A study by Dan Cassino of Fairleigh Dickinson University found that, after voting for Trump in 2024, men actually reported feeling more masculine. Yet his macho magic appears to be fading, especially among young men. In 2024 49% of men aged 18-29 voted for him. Now only 28% approve of him, finds a Harvard/IOP poll. Virile vibes are all very well, but young men have practical concerns, too. They often want to find a job, buy a home, attract a partner and raise a family. This is especially true of young men who voted for Mr Trump; in an NBC poll they ranked “having children” as their top life goal. (Young women who voted for Kamala Harris ranked it second-last out of 13 options.) The trouble is, homes and families cost money. Mr Trump said he would “make America affordable again” by ending inflation and even making prices fall. Yet his tariffs and war in Iran have had the opposite effect. “Everything’s expensive,” complains Miguel Martinez, a 21-year-old restaurant worker in Flowery Branch, Georgia. “You can’t even go inside the grocery store right now and not spend $80.” Mr Martinez works two jobs and lives with his parents. He wants to get a place of his own, but prices are “crazy”. He sees memes online about the older generation paying “basically nothing for a house”, which does nothing for his mood. He voted for Mr Trump in 2024, but come the midterms in November, he won’t be pulling the lever for anyone. Souring on Mr Trump need not imply loving the Democrats. On the contrary, many young men feel spurned by them. For years, the party’s message to them sounded like “hey, the future is not you,” laments Josh Thomas, a Democratic state lawmaker in Virginia. Democrats can seem eager to talk about the problems men cause, but not the ones they face. “There’s kind of a hesitancy for some Democrats to campaign on those issues, because they don’t want to appear as, like, a dude or a bro,” says a Democratic student in Charlottesville, Virginia. Republicans, by contrast, “have the ability to say out loud what a lot of young men [would say] behind closed doors”. A majority of Americans (54%) think anti-male bias is a problem in the Democratic Party, finds an Economist/YouGov poll. Another poll finds that Democrats are five times likelier than Republicans (26% to 5%) to admit to having an unfavourable view of men in general. Young men have become swing voters. In the Harvard/IOP poll, 33% say they will back a Democrat in November, 25% will back a Republican and a whopping 38% say they don’t know or won’t vote. Neither party strikes the right note with them, says Richard Reeves of the American Institute for Boys and Men, an NGO. Republicans speak as if there is only one valid life path: get a job, get married, have kids. Democrats sometimes dismiss young men who aspire to these traditional markers of adulthood as reactionaries who “just want tradwives” . But “I don’t see the evidence for that,” says Mr Reeves. “Most young men don’t want to go back the 1950s. They don’t expect to be the patriarch. But they recognise that fatherhood gives them a purpose, and they want to be needed.” Several Democrats, including some with presidential aspirations, are explicitly trying to win over young men. This usually involves two steps. First, acknowledge that men have problems. “It’s glaringly clear that we have ignored young men and boys in our society,” says Wes Moore, the governor of Maryland. Then, try to help. Last year Governor Gavin Newsom in California launched an initiative to grapple with young male difficulties in school, mental health and job-seeking. In October Virginia unveiled plans for a commission for boys and men, pushed by Mr Thomas. In December Mr Moore announced a push to help boys do better in school. A hefty Afghanistan veteran, Mr Moore plays up the perils of his own boyhood: “I was raised by an immigrant single mother, you know; I had handcuffs on my wrist by the time I was 11.” (He was arrested for spraying graffiti.) He argues that male role models matter. “My mom was an angel, but she couldn’t teach me how to be a man,” he says. So he is hiring more male teachers, of whom there are far too few. Rahm Emanuel, a former mayor of Chicago, has linked male despondency to high housing costs. He has a point, argues Gabrielle Penrose of Boston College. The scarcity of homes raises the “price of independence”. It prompts young men (and a smaller number of young women) to live with their parents, rather than where the jobs are. Ms Penrose found that a 10% increase in local rents increases the likelihood that non-college-educated men live with their parents by about 1.1 percentage points—and was associated with a 0.5 percentage-point decline in labour force participation. She estimates that higher housing costs could explain a third of the fall in employment among non-college-educated men since 2000. Homes are expensive partly because of red tape. In many cities, most land is zoned for single-family homes. That is, you cannot build flats on it. Other rules mandate large backyards, off-street parking and countless other things that drive up costs. If zoning rules all over America were like those in the least stringent quarter of cities, two-thirds of the national housing shortfall would disappear, estimates Goldman Sachs, a bank. Thus, housing deregulation could help unblock the path to adulthood. It might even win the gratitude of young male voters, who are more likely than young women to see housing as an “urgent crisis”. However, it is routinely stymied by the old, who are far likelier to vote than the young. In February a bill to allow more “housing near jobs” passed Virginia’s legislature, but died before reaching the governor’s desk. For young men who remain stuck in their parents’ basements, at least there is plenty of masculine entertainment. In June, Mr Trump will celebrate 250 years of America and his own 80th birthday with cage fighting on the White House lawn. ■ Stay on top of American politics with The US in brief, our daily newsletter with fast analysis of the most important political news, and Checks and Balance , a weekly note that examines the state of American democracy and the issues that matter to voters. This article was downloaded by zlibrary from https://www.economist.com//united-states/2026/05/03/young-men-are-souring-on-donald-trump",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, why has Donald Trump's appeal among young men begun to wane?",
+          "options": {
+            "A": "He has failed to maintain his dominant and victorious image on social media.",
+            "B": "Young men prioritize practical economic stability over his performative masculinity.",
+            "C": "He has been associated with policies that explicitly alienate the male voter base.",
+            "D": "Young men find his recent political stunts, such as cage-fighting, offensive."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到虽然特朗普的阳刚形象（virile vibes）曾经很有吸引力，但年轻男性现在更关注就业、买房和养家等实际经济需求。文章指出特朗普的关税政策反而加剧了通胀，导致这些需求难以满足，因此他的吸引力正在减弱。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How do young men generally perceive the Democratic Party's current stance toward them?",
+          "options": {
+            "A": "They feel that the Democrats are overly focused on their traditional life paths.",
+            "B": "They appreciate the Democrats' willingness to address systemic anti-male bias.",
+            "C": "They perceive the party as being indifferent or even hostile to their specific concerns.",
+            "D": "They view the party as the only viable alternative to the Republican status quo."
+          },
+          "answer": "C",
+          "explanation": "文章提到很多年轻男性感到被民主党排斥（spurned），认为民主党人只谈论男性造成的问题，而不关心男性面临的问题，甚至担心被贴上“大男子主义”的标签。调查显示，54%的美国人认为民主党内存在反男性偏见。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does Richard Reeves suggest about the aspirations of young men today?",
+          "options": {
+            "A": "They desire to return to the patriarchal family structures of the 1950s.",
+            "B": "They are primarily motivated by the desire to dominate their households.",
+            "C": "They value traditional markers of adulthood as a source of purpose.",
+            "D": "They reject the idea of marriage and fatherhood as outdated concepts."
+          },
+          "answer": "C",
+          "explanation": "文中引用Richard Reeves的话指出，虽然民主党人有时将年轻男性对传统生活轨迹（如成家立业）的向往视为倒退，但Reeves认为这些男性并不想回到1950年代，也不想成为家长式人物，他们追求这些目标是因为父亲的角色能给他们带来人生目标和被需要感。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following does the text identify as a primary cause for the 'price of independence' rising?",
+          "options": {
+            "A": "A decline in the number of jobs available for non-college-educated men.",
+            "B": "Excessive governmental red tape and restrictive zoning regulations.",
+            "C": "The shift in preference towards living in urban centers near workplaces.",
+            "D": "The unwillingness of older generations to support housing development initiatives."
+          },
+          "answer": "B",
+          "explanation": "文章在讨论住房成本时指出，住房昂贵的部分原因是“繁文缛节”（red tape），许多城市将土地划为单一家庭住房区，限制了公寓建设，且规则要求大后院和停车位，这些都抬高了住房成本，阻碍了年轻人的独立。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the political situation of young men based on the text?",
+          "options": {
+            "A": "They are becoming a solid voting bloc for the Republican Party.",
+            "B": "They are increasingly likely to participate in elections to advocate for policy changes.",
+            "C": "They are currently a disillusioned demographic that neither major party effectively engages.",
+            "D": "They are heavily reliant on the Democratic party's new initiatives for mental health."
+          },
+          "answer": "C",
+          "explanation": "文章指出年轻男性已成为摇摆选民，38%的受访者表示不知道投给谁或者干脆不投票。文章提到两党都未能完美契合他们的需求：共和党强加单一的生活路径，民主党则忽视他们的困境，表明该群体在现有政治格局中感到沮丧和迷茫。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 16",
+      "article_update_date": "05.12.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Jeremy Wallace The Big Story Jan 20, 2026 6:00 AM China’s Renewable Energy Revolution Is a Huge Mess That Might Save the World A global onslaught of cheap Chinese green power is upending everything in its path. No one is ready for its repercussions. ILLUSTRATION: PINGNAN LU There’s a particular kind of sci-fi nerd who equates fusion tech with utopia. If we could only harness the engine of the stars, it would uncork near limitless energy and neatly sweep away a whole mess of humanity’s problems. But how would that work exactly? What would the transition look like? You don’t have to wonder. It’s happening now. Solar panels and wind turbines capture the fusion of the sun and convert it to electricity. And at the scale and pace that China is producing them, plenty of things stand to be swept away—including, quite possibly, the once seemingly intractable problems of energy poverty and fossil-fuel dependence. In 2024, the total installed electricity capacity of the planet—every coal, gas, hydro, and nuclear plant and all of the renewables—was about 10 terawatts. The Chinese solar supply chain can now pump out 1 terawatt of panels every year . In China itself, vast energy megabases combining solar and wind stretch for miles in the country’s western deserts and Tibetan highlands, each producing the power of multiple nuclear plants and connecting to population centers in the country’s east via ultrahigh-voltage power lines. At the smaller end of the scale, panels have sprouted on rooftops all over the more populated eastern half of the country, thanks to policies that standardize the process and paperwork required to install and tie them into the grid. Huge factories, urban apartment buildings, and humble village homes are plastered with panels. In Europe, Chinese-made photovoltaic panels are so cheap that they cost less than fencing materials. Globally, the glut of solar has lowered the average cost of generating electricity to 4 cents a kilowatt hour—perhaps the cheapest form of energy ever. By now, major headlines have begun to catch on to the reality that China’s renewable energy revolution is one of the biggest stories in the world, while Donald Trump ’s anti-renewable vision of American energy dominance is a backward sideshow by comparison. But chroniclers of this green tech revolution almost always understate its chaos. At this point, it is far less a tightly managed, top-down creation of state subsidies than a runaway train of competition. The resulting, onrushing utopia is anything but neat. It is a panorama of coal communities decimated, price wars sweeping across one market after another, and electrical grids destabilizing as they become more central to the energy system. And absolutely no one—least of all some monolithic “China” at the control switch—knows how to deal with its repercussions. In the United States, 2024 was a record-breaking year for solar. Across the entire country, those 12 months saw some 50 gigawatts of new solar capacity added. (Solar projects are typically measured by their power output, not their square footage.) The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . Now consider some different numbers, for scale and contrast. In China, the first three months of 2025 alone saw 60 gigawatts of new solar capacity added to the national grid. Then April packed in 45 more gigawatts. Finally, May added an eye-watering 92 gigawatts of new capacity, or 3 gigawatts every day. The reason for this brain-warping mad dash of solar development? At the start of 2025—in an attempt to rein in the renewables sector—Beijing announced that it would discontinue a long-standing policy that had effectively propped up renewable energy prices, pegging them to that of the “baseline” coal power in each province. Any solar capacity that went in after May 2025, Beijing declared, would no longer get this deal. So the all-out solar installation frenzy was simply a mass attempt to get in under the old terms. After May, sure enough, new solar deployments plummeted. The ensuing four months each added just 10 gigawatts of new solar on average, half of the prior year’s pace—but that’s still considerably faster than America at its peak. In China, one problem with all this burgeoning, majestic new solar is that it’s completely overwhelming the national electrical grid, technically and economically. For electricity markets to work, grid managers must constantly balance supply and demand—but the former can’t always be throttled back when it exceeds the latter. Nuclear power plants can’t just be switched on and off whenever solar power floods the grid. And some Chinese coal plants provide heat to communities through steam—so they need to run even if the electricity they generate is superfluous. One perverse result of all this energetic over-supply is that a lot of solar power simply gets wasted, or “curtailed,” to make way for dirty forms of energy that are harder to turn off. Another is that the inherently intermittent power of renewables simply makes it more challenging for managers to keep the grid stable. In August 2024, in China’s far western region of Xinjiang—where the renewables build-out is at its most grandiose—poorly handled voltage fluctuations from solar and wind caused a regional blackout and even threatened the national electrical system, according to the South China Morning Post. As challenging as the glut is to manage at the technical level, its economics are even more vexing. As Econ 101 teaches, prices go down when supply rises faster than demand. But in most markets, there’s an end point to this process: free. Electricity markets are different. Some power-generating entities (like the aforementioned coal and nuclear plants) are so loath to ramp down their production that they offer to pay for the privilege of continuing to generate power. This, combined with the absolute imperative to keep the grid balanced, can create negative prices, which have become common in China’s heavily populated Shandong Province. It’s an untenable situation, but energy-hungry industrial firms are happy to milk it. Decades ago, the metals giant Weiqiao Aluminum left the Shandong grid in favor of running its own captive coal fleet to power its smelters; this past year it plugged back into the grid to take advantage of cheaper rates coming from green tech. What’s more, Chinese solar manufacturers—who, if you’ll remember, might just be saving the world—are not even making money for their troubles. They’re struggling to survive a gauntlet of competition. At the root of the solar supply chain are makers of polysilicon, the purified silicon substrate base of panels. Oversupply of this product has caused prices and profits to collapse. The Chinese government has tried to get supply under control by pushing the strongest polysilicon firms to form a cartel and squeeze out lesser players who refuse to exit the market. But so far, this seems to be a long shot. Workers in Zhejiang Province manufacture solar infrastructure to be exported to Southeast Asia. Getty Images The story is similar higher up the supply chain: Manufacturing capacity to produce solar ingots, wafers, and panels exceeds demand, sparking profit-killing price wars as firms try to keep their market share. Meanwhile, rapid technological innovation keeps forcing firms to invest in expansion with the latest and greatest designs, lest they get left behind by their competitors. When a completely new breed of solar panels yields a 10 percent difference in generation capacity, manufacturers who fail to quickly set up new production lines do so at their own peril. For the consumer, this added capacity means more energy with less real estate, perhaps a smaller parcel of land to purchase for your solar farm. For the manufacturer, it means the difference between commanding a viable price versus being dumped in the remainder bin. As the oversupply of Chinese panels has spilled into the international market, the bizarre dynamics have spread with them. Just as in Shandong Province, negative prices for electricity have also become common in Germany, thanks to Chinese panels. Or take Pakistan. Around 2022, a global spike in natural gas prices made the Pakistani electrical grid even more expensive and less reliable than usual. But instead of just suffering or firing up diesel generators, millions of Pakistanis installed solar panels to free themselves from the grid. The country imported so many Chinese solar panels that the grid as a whole began to fall into what is called a death spiral. Customers started opting out, leaving the grid to charge ever higher prices, which led even more people to flee, and so on. Who benefits, aside from the environment? It’s actually hard to say. The Chinese government is one of the Pakistani grid’s major creditors. So Chinese firms are undermining the economics of major development projects funded by state-owned banks. If only there was more electrical storage—technology that holds solar power generated during the day and releases it in the evening—then a lot of the issues that torture China’s renewables market would be resolved. Solar panels would become more valuable to the grid, their generation wouldn’t have to be curtailed, and the producers would be able to sell more of their products at better prices. Of course, China has come to dominate this fast-growing sector as well: It is by far the world’s largest battery maker. But China’s electrical system hasn’t figured out the rules and pricing to push battery capacity onto the grid fast enough to keep up. And besides, the vast majority of the batteries that China is churning out do not end up in grid storage. They’re revolutionizing another increasingly Chinese-dominated green industry that is going fast, cheap, and out of control: automobiles. In 2018, the city of Shanghai lured Tesla in to build a gigafactory with what seemed like an especially attractive offer. For years, foreign automakers like Ford, GM, Volkswagen, and Toyota had dominated the Chinese car market—the world’s largest—but were required to form joint ventures with Chinese firms for the privilege of doing business in the country. Shanghai told Tesla it could fully own its Chinese operations. Subsidies for land and cheap loans were proffered as well. A major solar farm in Shandong Province. Getty Images Tesla’s Shanghai gigafactory was completed in 168 days. It quickly became Tesla’s largest in the world. And it was fed by a network of local component suppliers that cropped up around it. The only problem—for Tesla, anyway—was that those local firms eventually became the basis for a Chinese supply chain that supercharged the nascent electric vehicle sector in the country. Nearly overnight, firms like Nio and BYD were producing plug-in cars that could rival Tesla in cost and quality. As with solar, a wave of entrants battled for market share, causing profits to evaporate but giving consumers great choices at excellent prices. By 2024, nearly half of all cars sold in China had plugs. Internal combustion automakers in China are suffering or shuttering. And the reverberations are perhaps even stronger abroad. China shifted from an also-ran to the world’s dominant auto exporter over the past five years, displacing Japan, South Korea, and Germany. It shipped more than 5.5 million cars overseas in 2024. Other countries have begun to panic that their own auto sectors could be eviscerated by the competition of cheaper, cleaner vehicles from China. The United States has effectively banned imports from China, while Europe has imposed serious tariffs. Yet just like in the solar sector, where thin profits and high debts have turned some firms into sprinting zombies, the Chinese EV space is full of failed and failing enterprises. Even BYD, the biggest player globally, seems to be dangerously close to spinning out of control. Its sales over the past few months have faltered badly compared with the previous year, and murmurs about its debt burden lead some to wonder if it too might collapse—even as people around the world are still dying to get their hands on these cars, and other automakers strain to compete. Indeed, the greatest beneficiaries of China’s renewables",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the article, what is the primary driving force behind China's massive expansion of solar energy capacity in early 2025?",
+          "options": {
+            "A": "A global surge in demand for cheap green energy technology.",
+            "B": "The urgent need to replace aging coal-based power infrastructure.",
+            "C": "A strategic response to international trade tariffs on Chinese goods.",
+            "D": "A race to complete projects before the expiration of a favorable pricing policy."
+          },
+          "answer": "D",
+          "explanation": "文章明确提到，北京宣布自2025年5月起停止对太阳能容量的长期价格补贴政策。为了在旧政策下获得优惠条件，企业在截止日期前进行了大规模的安装冲刺，这解释了为何5月份容量新增出现爆发式增长。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best characterizes the impact of China's renewable energy revolution on its national electrical grid?",
+          "options": {
+            "A": "It has enabled a perfectly balanced, automated transition to clean energy.",
+            "B": "It has created technical and economic strains that defy simple management.",
+            "C": "It has successfully phased out the need for traditional coal-based power plants.",
+            "D": "It has led to a stable energy market with predictable pricing for consumers."
+          },
+          "answer": "B",
+          "explanation": "文章提到可再生能源的涌入给电网带来了巨大的技术和经济负担，包括电网管理困难、强制削减能源（curtailment）、电压波动以及负电价现象。这表明现状是复杂且难以掌控的，而非完美平衡的。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author uses the phrase 'sprinting zombies' in the context of Chinese solar firms to imply that these companies are ________.",
+          "options": {
+            "A": "Highly profitable despite a shrinking global market share.",
+            "B": "Technologically superior but lacking in infrastructure development.",
+            "C": "Operating aggressively while facing severe financial instability.",
+            "D": "Forming cartels to eliminate competition from smaller local rivals."
+          },
+          "answer": "C",
+          "explanation": "“Sprinting zombies”形象地描绘了这些企业：一方面在激烈的市场竞争中快速奔跑（sprinting）和扩张，另一方面由于利润暴跌、债务缠身和产能过剩，实际上处于财务濒死状态（zombies）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the example of Pakistan's electricity grid illustrate about the global spread of Chinese solar technology?",
+          "options": {
+            "A": "It provides a blueprint for countries to achieve sustainable energy independence.",
+            "B": "It highlights the potential for unintended economic consequences in foreign markets.",
+            "C": "It shows that Chinese solar exports are effectively stabilizing struggling national grids.",
+            "D": "It proves that global reliance on Chinese green tech is economically sustainable for all parties."
+          },
+          "answer": "B",
+          "explanation": "文章通过巴基斯坦的例子说明，中国太阳能电池板的涌入导致用户脱离国家电网，从而引发了巴基斯坦电网的“死亡螺旋”（death spiral），即电网因用户流失而涨价，进而导致更多流失。这体现了技术输出在海外引发的意想不到的经济负面效应。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's overall stance regarding the 'renewable energy revolution' led by China?",
+          "options": {
+            "A": "It is a perfectly orchestrated geopolitical move to dominate global energy markets.",
+            "B": "It is a chaotic yet transformative force with both environmental benefits and systemic risks.",
+            "C": "It is an unsustainable bubble that will inevitably collapse and cause a global crisis.",
+            "D": "It is a model of success that other nations should strictly imitate to combat climate change."
+          },
+          "answer": "B",
+          "explanation": "文章标题称其为“A Huge Mess That Might Save the World”，且文中多次强调其混乱（chaos）、对电网的冲击以及利润的消失，同时也承认其对全球能源转型的巨大贡献。因此，作者持一种复杂且客观的态度，认为它既有环境益处，又伴随系统性风险。"
+        }
+      ]
+    }
+  ]
+}
