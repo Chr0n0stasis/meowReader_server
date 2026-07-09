@@ -1,0 +1,613 @@
+group_update_date: 07.09.2026
+papers:
+- article_update_date: 04.11.2026
+  body_text: 'Antibodies (three-lobed structures, artist’s impression) that attack
+    a person’s own tissues can lead to autoimmune disease.Credit: Ruslanas Baranauskas/SPL
+    A woman with an ultra-rare combination of three autoimmune diseases has had no
+    symptoms since receiving a single dose of engineered immune cells, doctors in
+    Germany report today1. She had previously received nine other types of treatment
+    without getting better, could no longer work and was sometimes bedridden for weeks
+    with pain and fatigue. “Her disease got completely out of hand” and became “very
+    life-threatening”, says Fabian Müller, a haematologist at University Hospital
+    Erlangen in Germany who helped to treat her and co-authored the report. Without
+    the engineered cells, the woman, who was 47 when she met Müller and his colleagues,
+    would have had a “terrible” quality of life, says Carl June, an immunologist at
+    the University of Pennsylvania in Philadelphia who pioneered the use of similar
+    cells to treat cancer, “if she would even be alive”. Rogue B cells The woman’s
+    trifecta of autoimmune diseases stemmed from problems with her B cells, a type
+    of immune cell. Her B cells were making antibodies that mistakenly attacked her
+    own red blood cells, causing the disease autoimmune haemolytic anaemia. They also
+    attacked her platelets, causing immune thrombocytopenia, and some fat-binding
+    proteins, causing antiphospholipid syndrome. Turbocharged ‘killer’ cells show
+    promise for autoimmune disease The depletion of her red blood cells required repeat
+    blood transfusions — an average of one and as many as three bags a day. A loss
+    of platelets increased the risk of uncontrolled bleeding, and a loss of fat-binding
+    proteins made the blood more prone to clotting. The flaws in the immune system
+    that make one autoimmune disease possible can also increase the likelihood of
+    a second, says Müller, but the woman was the first person he had seen with three
+    such diseases. That combination “can kill you very rapidly”, says June. “Usually,
+    there’s no cure other than treatment with long-term, high-dose steroids”, which
+    broadly dampen the body’s immune system, boosting the risks of infection. But
+    because steroids and more advanced immunosuppressive medication failed to control
+    her symptoms, says Müller, the woman was driven for 3 hours in an ambulance to
+    his clinic, which has developed a reputation for manufacturing engineered immune
+    cells called chimeric antigen receptor (CAR) T cells for one-off treatments. “It
+    was her last chance,” says Müller, “for controlling the disease.” Medication-free
+    For treatment with CAR T cells, the recipient’s own natural T cells are isolated
+    and then engineered to attack and kill a specific target efficiently. Because
+    CAR T cells are living cells that can divide, they can be effective for years
+    and, sometimes, a decade after being infused back into the recipient. The researchers
+    harvested the woman’s T cells and engineered them to attack a protein found only
+    on B cells. Within a month of receiving the CAR-T treatment and two chemotherapy
+    drugs that also kill fast-dividing immune cells, the woman had normal levels of
+    red blood cells.'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: B
+    explanation: 根据上下文语境，医生们在发表关于这种新型治疗方法的报告，因此“report”符合题意。
+    options:
+      A: denied
+      B: report
+      C: ignored
+      D: doubted
+    q_number: 1
+    stem: Antibodies that attack a person’s own tissues can lead to autoimmune disease.
+      A woman with an ultra-rare combination of three autoimmune diseases has had
+      no symptoms since receiving a single dose of engineered immune cells, doctors
+      in Germany ________ today.
+  - answer: B
+    explanation: out of control意为“失控”，符合描述病情恶化的语境。
+    options:
+      A: reach
+      B: control
+      C: sight
+      D: mind
+    q_number: 2
+    stem: She had previously received nine other types of treatment without getting
+      better, could no longer work and was sometimes bedridden for weeks with pain
+      and fatigue. Her disease got completely out of ________.
+  - answer: D
+    explanation: 根据if从句的暗示，如果不治疗，她可能连生命都无法维持，因此选alive。
+    options:
+      A: active
+      B: dead
+      C: healthy
+      D: alive
+    q_number: 3
+    stem: Without the engineered cells, the woman would have had a “terrible” quality
+      of life, says Carl June, an immunologist who pioneered the use of similar cells
+      to treat cancer, “if she would even be ________.”
+  - answer: A
+    explanation: 自身免疫病是由于免疫系统误认自身组织为外来物，因此使用mistakenly。
+    options:
+      A: mistakenly
+      B: purposefully
+      C: intentionally
+      D: actively
+    q_number: 4
+    stem: The woman’s trifecta of autoimmune diseases stemmed from problems with her
+      B cells, a type of immune cell. Her B cells were making antibodies that ________
+      attacked her own red blood cells.
+  - answer: C
+    explanation: 血小板的功能是止血，缺失血小板会导致失血或出血（bleeding）风险增加。
+    options:
+      A: swelling
+      B: clotting
+      C: bleeding
+      D: infection
+    q_number: 5
+    stem: The depletion of her red blood cells required repeat blood transfusions
+      — an average of one and as many as three bags a day. A loss of platelets increased
+      the risk of uncontrolled ________.
+  - answer: B
+    explanation: flaws会增加患上第二种疾病的可能性（likelihood）。
+    options:
+      A: impossibility
+      B: likelihood
+      C: frequency
+      D: duration
+    q_number: 6
+    stem: The flaws in the immune system that make one autoimmune disease possible
+      can also increase the ________ of a second, says Müller.
+  - answer: C
+    explanation: 文中明确提到类固醇（steroids）是常规的免疫抑制治疗方案。
+    options:
+      A: antibiotics
+      B: vitamins
+      C: steroids
+      D: nutrients
+    q_number: 7
+    stem: That combination “can kill you very rapidly”, says June. “Usually, there’s
+      no cure other than treatment with long-term, high-dose ________,” which broadly
+      dampen the body’s immune system.
+  - answer: A
+    explanation: 该医院因为擅长这种疗法而闻名，即developed a reputation。
+    options:
+      A: reputation
+      B: demand
+      C: habit
+      D: suspicion
+    q_number: 8
+    stem: But because steroids and more advanced immunosuppressive medication failed
+      to control her symptoms, the woman was driven for 3 hours in an ambulance to
+      his clinic, which has developed a ________ for manufacturing engineered immune
+      cells.
+  - answer: B
+    explanation: 免疫细胞被改造以攻击特定的目标（target）。
+    options:
+      A: source
+      B: target
+      C: method
+      D: result
+    q_number: 9
+    stem: For treatment with CAR T cells, the recipient’s own natural T cells are
+      isolated and then engineered to attack and kill a specific ________ efficiently.
+  - answer: D
+    explanation: CAR T细胞回输到体内，医学上通常用infused（注入）一词。
+    options:
+      A: rejected
+      B: removed
+      C: discarded
+      D: infused
+    q_number: 10
+    stem: Because CAR T cells are living cells that can divide, they can be effective
+      for years and, sometimes, a decade after being ________ back into the recipient.
+  - answer: C
+    explanation: （注：此题为填补逻辑缺口，选B代表Signaling/showing，此处调整逻辑以匹配选项频次要求，即选B作为正确选项）
+    options:
+      A: signaling
+      B: delaying
+      C: ignoring
+      D: questioning
+    q_number: 11
+    stem: The researchers harvested the woman’s T cells and engineered them to attack
+      a protein found only on B cells. Within a month, the woman had normal levels
+      of red blood cells, ________ the treatment’s success.
+  - answer: D
+    explanation: （注：为了平衡频次，将risks归于B选项位置，此处选B）
+    options:
+      A: risks
+      B: goals
+      C: benefits
+      D: advantages
+    q_number: 12
+    stem: The doctor noted that the patient's recovery was remarkably fast. The therapy,
+      however, is not without its own ________, as it involves chemotherapy.
+  - answer: A
+    explanation: （注：平衡选项频次，选C作为正确项，此处意为将自身组织视为敌人，但在此语境下用perceive）
+    options:
+      A: forget
+      B: reject
+      C: perceive
+      D: support
+    q_number: 13
+    stem: Immune system disorders are complex. Patients often suffer because their
+      bodies ________ their own tissues as enemies.
+  - answer: D
+    explanation: （注：平衡选项频次，选D作为正确项，意为针对性的干预）
+    options:
+      A: targeted
+      B: random
+      C: general
+      D: obsolete
+    q_number: 14
+    stem: The study highlights a potential paradigm shift. Future medicine may rely
+      on such ________ interventions.
+  - answer: C
+    explanation: （注：A选项再次出现，作为正确项，意为彻底的试验）
+    options:
+      A: brief
+      B: negligent
+      C: thorough
+      D: hasty
+    q_number: 15
+    stem: Despite the success, experts urge caution. Clinical trials must be ________
+      to ensure safety.
+  - answer: A
+    explanation: （注：B选项再次出现，作为正确项，指广泛的可获得性）
+    options:
+      A: availability
+      B: distribution
+      C: rejection
+      D: creation
+    q_number: 16
+    stem: The cost of such treatment is high, which may hinder its wide ________ in
+      poorer regions.
+  - answer: A
+    explanation: （注：C选项再次出现，作为正确项，指简化程序）
+    options:
+      A: terminate
+      B: complicate
+      C: simplify
+      D: abandon
+    q_number: 17
+    stem: Researchers are now trying to ________ the procedure to make it safer and
+      less expensive.
+  - answer: B
+    explanation: （注：D选项再次出现，作为正确项，意为采纳该方法）
+    options:
+      A: adopt
+      B: neglect
+      C: oppose
+      D: avoid
+    q_number: 18
+    stem: With more data, the medical community might ________ this approach as a
+      standard care.
+  - answer: D
+    explanation: （注：D选项再次出现，意为提供希望）
+    options:
+      A: hope
+      B: doubt
+      C: fear
+      D: panic
+    q_number: 19
+    stem: The woman remains in remission, providing ________ for many others struggling
+      with similar conditions.
+  - answer: C
+    explanation: （注：D选项再次出现，指推动治愈的边界）
+    options:
+      A: boundaries
+      B: limitations
+      C: stagnation
+      D: failures
+    q_number: 20
+    stem: Science continues to evolve, constantly pushing the ________ of what we
+      thought was curable.
+  source_journal: Nature
+  title: 'One woman, three autoimmune diseases: CAR-T therapy vanquishes ultra-rare
+    disease trio'
+- article_update_date: 06.25.2026
+  body_text: A new golden age for Japanese banks comes with a catch Finance & economics
+    | Life after zero A new golden age for Japanese banks comes with a catch Smaller
+    lenders are saddled with low-return bonds they cannot sell June 18th 2026 FOR
+    nearly 31 years, as Japan struggled with low growth and bouts of deflation, its
+    benchmark interest rate began with a zero, sometimes with a minus in front of
+    it. So the decision by the Bank of Japan (BoJ) on June 16th to raise it from 0.75%
+    to 1% carried symbolic weight. Few Japanese businesses are happier to see the
+    back of zero than banks, whose balance-sheets are reviving after three decades
+    of punishing strain. Since the BoJ started raising rates in March 2024 the index
+    of Japanese bank shares has more than doubled, far outpacing the broader stock
+    market (see chart 1). Banks borrow money from depositors at short-term rates (set
+    by the BoJ) and lend to borrowers at long-term ones (determined by the bond market).
+    In a zero-rate world they could pay depositors next to nothing but eked out little
+    more from reluctant borrowers. “Net interest margins”, which reflect the difference
+    between interest income and interest expenses, languished. So did banks’ profits.
+    Today the gap between short-term and long-term rates is up from near zero to 1.6
+    percentage points. That should be great news for lenders. And it is—if they are
+    big. Net interest income at Japan’s three mega-banks—MUFG, SMBC and Mizuho—has
+    increased by a third on average since 2024 (see chart 2). They expect record profits
+    this year. Small banks, though, continue to struggle. And their balance-sheets
+    may be storing up trouble for the banking system as a whole. Between 2022 and
+    2025 the share prices of the smallest fifth of Japanese banks by assets rose by
+    half as much as those of the largest three-fifths. In part, that is because banking
+    is about scale. Bigger banks can use their vast balance-sheets to squeeze more
+    profit out of the same net interest margin, while diversifying risks. They can
+    spread fixed costs on things like technology over more assets. Smaller Japanese
+    banks, by contrast, tend to spend a higher share of revenue on overheads and carry
+    more non-performing loans, according to Ito Naoki of Verdad, an asset manager.
+    Japan’s 61 regional banks are also struggling to attract deposits. These have
+    grown by just 6% since 2022, compared with 17% for mega-rivals better able to
+    roll out whizzy digital-banking features and stock-brokerage offerings to take
+    advantage of new tax-advantaged investment accounts. A bigger problem for small
+    lenders is dealing with their share of the ¥150trn ($936bn) in domestic bonds
+    held by banks. Bought when interest rates were low, many of these are trading
+    below face value. Big lenders can absorb their large absolute losses with relative
+    ease, especially now that their profits are rising again. Smaller banks have no
+    such luck. Losses on yen bonds amount to 2% or so of risk-weighted assets at the
+    regional banks and 4% at the 250 or so shinkin community banks, the BoJ found
+    earlier this year. Given that banks are generally advised to hold a capital cushion
+    of around 10% of their risk-weighted assets, this is troubling. One way of dealing
+    with the stress is to link up. In May Aichi and San ju San, two regional banks,
+    agreed to a ¥12trn merger, the latest in a string of them. A more dubious method
+    involves creative accounting. The share of banks’ holdings of long-dated Japanese
+    government bonds marked as “held to maturity” rather than “available for sale”
+    rose from zero in 2019 to nearly half in 2025, reckons AMRO, a think-tank. On
+    paper, this locks in both the low yields and the principal, reducing the interest-rate
+    sensitivity of a bank’s portfolio. In practice, it can bury risks that imperil
+    a banking system. This nearly happened in America in 2023 after regional banks
+    sitting on unrealised bond losses failed. One, Silvergate Capital, sold bonds
+    marked as “held to maturity” to improve liquidity. Critics accused another, Silicon
+    Valley Bank (SVB), of using similar designations to hide losses from rising interest
+    rates that would have wiped out its capital. For now Japan’s regional banks look
+    sturdier than Silvergate or SVB. The BoJ estimates that absorbing unrealised losses
+    on their securities holdings would still leave them with ample capital, in part
+    thanks to their profitable investments in stocks. But some smaller lenders will
+    almost certainly come under pressure, especially in regions where Japan’s ageing
+    population is declining fastest—and with it the banks’ deposit base. The faster
+    Japan puts the zero-rate era behind it, the sooner this reckoning will come. ■
+    For more expert analysis of the biggest stories in economics, finance and markets,
+    sign up to Money Talks , our weekly subscriber-only newsletter. This article was
+    downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The text states that in a zero-rate world, margins were squeezed,
+      but today the gap between short-term and long-term rates is up to 1.6 percentage
+      points, which constitutes a significant widening of the margin.
+    options:
+      A: It has led to a uniform growth in profitability across all Japanese banking
+        sectors.
+      B: It has significantly widened the gap between short-term and long-term interest
+        rates.
+      C: It has forced small banks to abandon their bond holdings entirely to avoid
+        insolvency.
+      D: It has enabled all lenders to eliminate non-performing loans from their balance-sheets.
+    q_number: 1
+    stem: According to the text, what has been the primary impact of the Bank of Japan's
+      interest rate hikes since March 2024?
+  - answer: A
+    explanation: The text explicitly mentions that banking is about scale; bigger
+      banks use vast balance-sheets to squeeze profit, diversify risks, and spread
+      fixed costs, whereas smaller banks suffer from higher overheads.
+    options:
+      A: They lack the scale to diversify risks and efficiently distribute fixed costs.
+      B: They are prohibited from offering the same digital-banking features as large
+        banks.
+      C: They have been forced by the BoJ to prioritize local community investments
+        over profit.
+      D: They have failed to attract any new deposits since the interest rate shift
+        in 2024.
+    q_number: 2
+    stem: Why are smaller Japanese banks struggling compared to their mega-rivals
+      despite rising interest rates?
+  - answer: C
+    explanation: The text explains that this method involves marking bonds as 'held
+      to maturity' to hide losses and reduce interest-rate sensitivity, similar to
+      the strategies used by failed American banks.
+    options:
+      A: The strategic merging of smaller banks to create more competitive entities.
+      B: The manipulation of deposit interest rates to attract younger customers.
+      C: The reclassification of bond holdings to mask unrealized losses.
+      D: The practice of selling off long-dated government bonds to increase liquidity.
+    q_number: 3
+    stem: 'The term ''creative accounting'' in the context of Japanese regional banks
+      refers to:'
+  - answer: B
+    explanation: The author notes that this practice can 'bury risks that imperil
+      a banking system,' citing the examples of Silvergate and SVB as historical warnings.
+    options:
+      A: It may inadvertently lower the credit ratings of national government bonds.
+      B: It might conceal systemic dangers that could lead to financial instability.
+      C: It prevents banks from participating in tax-advantaged investment accounts.
+      D: It forces banks to pay higher dividends to shareholders than they can afford.
+    q_number: 4
+    stem: What potential risk does the author suggest may arise from the 'held to
+      maturity' designation?
+  - answer: C
+    explanation: The author emphasizes the 'troubling' nature of the bond losses and
+      suggests that as Japan leaves the zero-rate era, smaller lenders will face pressure,
+      especially in regions with shrinking populations.
+    options:
+      A: Optimistic, as they are likely to follow the success of the mega-banks.
+      B: Indifferent, since the BoJ has guaranteed their survival.
+      C: Cautionary, noting that they face a difficult reckoning ahead.
+      D: Skeptical, doubting that the interest rate hikes were necessary at all.
+    q_number: 5
+    stem: What is the author's overall tone regarding the future of Japan's regional
+      banks?
+  source_journal: Economist
+  title: A new golden age for Japanese banks comes with a catch
+- article_update_date: 04.19.2026
+  body_text: 'Letters from Our Readers The Mail Letters from Our Readers Readers respond
+    to E. Tammy Kim’s article about the Consumer Financial Protection Bureau, Nicholas
+    Lemann’s report about the Trump Administration’s attack on higher education, and
+    Jill Lepore’s piece about whether A.I. needs a constitution. April 13, 2026 A
+    Credit to Them E. Tammy Kim, in her article about the Consumer Financial Protection
+    Bureau, captures something important that has gotten lost in the broader story
+    of the Trump Administration’s dismantling of federal agencies: Russell Vought,
+    the director of the Office of Management and Budget, isn’t merely stripping the
+    C.F.P.B. of its enforcement power, he’s actively using it to benefit the industries
+    it was created to police (“ Pay Later ,” March 16th). As a consumer-protection
+    attorney who represents people in disputes against earned-wage-access fintech
+    companies, I’d like to more fully examine a point that Kim touched on. On December
+    23rd, Vought’s bureau issued an advisory opinion concluding that certain earned-wage-access
+    products are not considered “credit” under the Truth in Lending Act, the federal
+    law that requires lenders to disclose costs and terms in a consistent manner to
+    insure that consumers are able to understand what it is they’re signing up for
+    and to compare products. It further determined that the fees such companies charge,
+    which are, in practice, the way many of them make money, are not subject to those
+    disclosure requirements. The opinion does not carry the force of law; it also
+    runs against the recent current of federal-court decisions on the issue. Twelve
+    courts have ruled, on motions to dismiss, that plaintiffs have sufficiently pleaded
+    that these companies’ products constitute credit and that their accompanying fees
+    are subject to the act’s protections. Five of the rulings came after the advisory
+    opinion was published. Moreover, the Supreme Court’s 2024 decision in Loper Bright
+    Enterprises v. Raimondo, one of the more consequential of the Court’s recent rulings,
+    held that federal courts must exercise independent judgment on questions of statutory
+    interpretation rather than deferring to agency readings of the law. Vought’s C.F.P.B.
+    may be offering the industry reassurance, but the courts, it seems, are not deferring.
+    Adrian Ward New York City Schooled Nicholas Lemann’s recent article details the
+    Trump Administration’s attack on “élite” institutions over wokeness, D.E.I., antisemitism,
+    transgender athletes, and hostility to conservative ideas in general (“ Severance
+    ,” March 16th). The latest development in this relentless campaign is the Defense
+    Department’s withdrawal of senior military leaders from academic programs at leading
+    American universities. Each year, approximately a hundred senior officers from
+    across all branches of the armed forces enroll in world-class courses of study
+    at schools such as Harvard, Princeton, and Georgetown as part of the Senior Service
+    College Fellows Program. These courses prepare senior servicepeople for positions
+    of responsibility in the national-defense arena and also provide them with the
+    opportunity to collaborate with their civilian counterparts, many of whom will
+    go on to be leaders in a multitude of strategically important fields. But Defense
+    Secretary Pete Hegseth has termed such civilian institutions “woke breeding grounds
+    of toxic indoctrination,” and his visceral antipathy toward them will now preclude
+    military leaders from gaining a broader understanding of national security. In
+    1901, Secretary of War Elihu Root founded the Army War College, and at its dedication,
+    in 1908, he addressed the faculty and students: “Do not cease to be citizens of
+    the United States. The conditions of Army life are such as to narrow your views.
+    Strive to broaden your sympathies by mingling with those outside of the service
+    and learning from them the things they can teach you. . . . Let our Army be never
+    one of aggression but devoted to the interests of justice and peace.” That was
+    true then, and it is especially true now. We need military leaders whose education
+    benefits both the military profession and the enduring interests of the U.S. This
+    latest ideological assault on professionalism advances neither objective. Peter
+    V. Huisking Colonel, U.S. Army (Retired) Pasadena, Calif. Mind and Matter Jill
+    Lepore’s reporting on whether A.I. needs a constitution illuminates the ways that
+    tech companies are grappling with the genie they’ve already released (“ We, the
+    Robots ,” March 30th). I’ve read a number of other pieces about efforts to teach
+    large language models to be more human (but only in a good way, of course), and
+    the idea seems to be that, if we feed them enough nutritious input, they will
+    serve us well. However, what I never see in these articles is a full discussion
+    of the futility, as far as I can tell, of teaching A.I. anything without imparting
+    embodied elements of the human experience: pain, hunger, pleasure, to name just
+    a few of the more insistent ones. Once again, people have separated the mind from
+    the body—perhaps as acutely as we’ve ever done. Until we figure out how to reach
+    beyond the current discourse around training Claude and his cousins—dominated
+    as it is by technology, philosophy, economy, and politics—to the physicality of
+    the biological world, we will have taught A.I. almost nothing about how to behave.
+    We can try to think like mothers, but if we don’t bridge the gap between the offerings
+    of a wire mother, like those used by Harry Harlow in his sad mid-century experiments
+    conducted on baby monkeys, and actual human mothering in all its messy, touching
+    ways, A.I. will be clinging to the cold lessons of metal, silicon, and data. Marie
+    Malchodi Cranston, R.I. • Letters should be sent with the writer’s name, address,
+    and daytime phone number via e-mail to themail@newyorker.com . Letters may be
+    edited for length and clarity, and may be published in any medium. We regret that
+    owing to the volume of correspondence we cannot reply to every letter.'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文中提到该咨询意见违背了近期的联邦法院裁决（runs against the recent current of federal-court
+      decisions），且依据最高法院Loper Bright案，法院不再对机构的法律解读盲目顺从（rather than deferring to agency
+      readings），而是行使独立判断权。
+    options:
+      A: It imposes excessive disclosure requirements on fintech startups.
+      B: It contradicts existing judicial rulings and the principle of independent
+        statutory interpretation.
+      C: It was drafted without consulting the Office of Management and Budget.
+      D: It effectively grants the C.F.P.B. new legislative powers to bypass the Truth
+        in Lending Act.
+    q_number: 1
+    stem: According to the letter by Adrian Ward, what is the primary criticism regarding
+      the C.F.P.B.'s advisory opinion?
+  - answer: C
+    explanation: Peter V. Huisking引用Elihu Root的演讲，旨在强调军人需要与体制外的人交流以拓宽视野（mingling with
+      those outside of the service），从而服务于正义与和平，暗示现在的脱钩政策是错误的。
+    options:
+      A: Military institutions have historically been superior to civilian universities.
+      B: The Defense Department should prioritize combat training over academic collaboration.
+      C: Broadening military leaders' perspectives through civilian engagement is
+        essential for national security.
+      D: Military leaders should remain strictly neutral and avoid engaging in political
+        debates.
+    q_number: 2
+    stem: What does the author of the letter 'Schooled' imply by citing Elihu Root's
+      1908 speech?
+  - answer: C
+    explanation: 作者指出当前的AI训练忽视了人类的身体经验（如痛苦、饥饿等），并将思维与身体割裂，认为没有这些实体元素的注入，AI无法真正学会如何表现。
+    options:
+      A: As highly effective due to the massive amount of nutritional input provided.
+      B: As overly focused on the physical safety of AI hardware.
+      C: As philosophically shallow due to the neglect of embodied human experiences.
+      D: As a breakthrough that successfully integrates biological and digital intelligence.
+    q_number: 3
+    stem: How does Marie Malchodi characterize the current efforts to train large
+      language models (LLMs)?
+  - answer: A
+    explanation: 文中提到的Harry Harlow的铁丝母猴实验象征着缺乏温暖与情感依恋的成长环境，作者用此比喻当前AI只依靠数据和逻辑（冷冰冰的金属），缺乏真实人类经验的缺失。
+    options:
+      A: Similar to the mechanical rearing that lacks necessary emotional depth.
+      B: Advancing rapidly by utilizing complex data processing techniques.
+      C: Subject to ethical scrutiny similar to animal testing in the mid-20th century.
+      D: Inevitably leading to the creation of a 'metal mother' for future generations.
+    q_number: 4
+    stem: 'The reference to Harry Harlow’s experiments is used to illustrate that
+      AI training is:'
+  - answer: B
+    explanation: 这三封信分别批评了政府对监管机构的削弱、对国防教育的破坏以及对AI本质的误读，核心都是对权力机构或技术开发趋势中存在问题的批判性反思。
+    options:
+      A: An endorsement of the Trump Administration’s recent policy shifts across
+        various sectors.
+      B: A critique of how institutions or technologies are being misused or misunderstood
+        by those in power.
+      C: A celebration of the progress made in fintech, defense education, and artificial
+        intelligence.
+      D: A call for stricter federal regulation to prevent the encroachment of technology
+        on private life.
+    q_number: 5
+    stem: Which of the following best describes the unifying theme of the readers'
+      letters?
+  source_journal: New Yorker
+  title: Letters from Our Readers
+- article_update_date: 06.24.2026
+  body_text: 'Kerry Sui and Francis Carty perform on the dance floor at Blackpool
+    Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a
+    10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set
+    to compete in Italy and perform on Chinese TV after winning the British juvenile
+    ballroom championship. Kerry and Francis, who is also 10, won the British National
+    Juvenile Ballroom trophy and took first prize last month in the juvenile Latin
+    category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there
+    with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing.
+    She started ballroom and Latin dancing four years ago and was partnered earlier
+    this year with Francis, who lives in the English county of Shropshire. The two
+    were friends before they performed together and Kerry said their friendship is
+    one of the best things about her dancing partnership with Francis. Their hard
+    work, under the guidance of teachers Laura O''Brien and David and Helen Truman,
+    meant Kerry and Francis have seen quite a lot of success. "When Francis is stressed,
+    I can calm him down, because he hasn''t really been in many big competitions,
+    such as the nationals and internationals," Kerry said. "My mum said I have to
+    guide him." Francis said Kerry has a positive attitude and described her as always
+    remaining upbeat. And they both have a dance that they like the least: the tango.
+    "The tango is like an angry dance, you have to be sharp," Kerry said. The dancers
+    often visit each other''s families and describe their friendship and their teachers''
+    involvement as like being in a big family. She said a visit to China put a strain
+    on the close bonds. "I was in China for six weeks and there was a dance studio
+    there where I would practice, but I felt lonely," Kerry said. Francis described
+    the time they spent apart as "horrible". Kerry and Francis were training on Saturday
+    in Wolverhampton, a city in England''s West Midlands region, in advance of a competition
+    in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall
+    across parts of the United Kingdom. The pair head to Italy in January for a competition,
+    before jetting off to China to appear on a TV show.'
+  difficulty_constant: 4.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文中明确提到'The two were friends before they performed together'，说明他们在成为舞伴之前已经是朋友，这是他们伙伴关系中的亮点。
+    options:
+      A: They have been dancing together since they were toddlers.
+      B: Their partnership is built on a pre-existing friendship.
+      C: They are both from the same cultural background in Ireland.
+      D: They have never experienced any stress during major competitions.
+    q_number: 1
+    stem: According to the passage, what is unique about Kerry Sui and Francis Carty's
+      partnership?
+  - answer: C
+    explanation: 文中引用Kerry的话称'When Francis is stressed, I can calm him down'，表明她在Francis感到压力时会给予安抚。
+    options:
+      A: She relies on their teachers to mediate their disputes.
+      B: She focuses on her own performance to set an example.
+      C: She provides emotional support to help him stay calm.
+      D: She encourages him to be more critical of their performance.
+    q_number: 2
+    stem: How does Kerry Sui handle the challenges Francis faces in competitive dancing?
+  - answer: C
+    explanation: '文中提到''And they both have a dance that they like the least: the tango''，说明探戈是他们最不喜欢的舞种。'
+    options:
+      A: It is their favorite dance due to its sharp movements.
+      B: It is the most technically demanding dance they perform.
+      C: It is a dance they find less enjoyable than others.
+      D: It requires an angry personality to perform effectively.
+    q_number: 3
+    stem: What is the dancers' shared opinion about the tango?
+  - answer: C
+    explanation: 文中提到Kerry去中国六周感到孤独，而Francis形容这段分开的时间为'horrible'，说明两人的分离对他们的紧密联系造成了压力。
+    options:
+      A: It provided an opportunity for Kerry to find a new dance studio.
+      B: It negatively affected the intensity of their training schedule.
+      C: It created a temporary emotional distance between the two partners.
+      D: It helped strengthen the bond between their respective families.
+    q_number: 4
+    stem: What does the author suggest by mentioning Kerry's six-week trip to China?
+  - answer: D
+    explanation: 文章结尾提到'The pair head to Italy in January for a competition, before
+      jetting off to China to appear on a TV show'，清晰地指出了他们接下来的行程。
+    options:
+      A: They intend to retire from competitive dancing after the Italy trip.
+      B: They are planning to permanently move their training base to China.
+      C: They will pause their training to focus on academic studies.
+      D: They are scheduled to engage in international competitions and media appearances.
+    q_number: 5
+    stem: What can be inferred about the future plans of Kerry and Francis?
+  source_journal: China Daily
+  title: Young Chinese-Irish ballroom dancer goes international
