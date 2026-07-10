@@ -1,0 +1,793 @@
+group_update_date: 07.10.2026
+papers:
+- article_update_date: 06.09.2026
+  body_text: 'The Bacillus Calmette–Guérin vaccine, often given to infants in countries
+    with high rates of tuberculosis, is also being tested as a treatment for diabetes,
+    Alzheimer’s disease and other conditions.Credit: Nikolay Doycinov/AFP via Getty
+    A century-old vaccine against tuberculosis helps to regulate blood sugar in people
+    with certain types of diabetes, such that they can reduce their insulin use, according
+    to the results of a phase II clinical trial. The finding adds support for the
+    once-controversial hypothesis that vaccines made with living but weakened pathogens
+    can protect against both their target disease and off-target ones. Hope for diabetes:
+    CRISPR-edited cells pump out insulin in a person – and evade immune detection
+    The trial vaccine — called the Bacillus Calmette–Guérin (BCG) vaccine, after the
+    two researchers who developed it — is derived from a weakened form of the bacterium
+    that causes tuberculosis in cows. In the 1920s, studies found that the shot reduced
+    mortality in children by protecting them from not just tuberculosis, but other
+    deadly infections, too. Fast-forward to today, and it has been approved by the
+    US Food and Drug Administration (FDA) to treat bladder cancer and is even being
+    investigated against conditions such as Alzheimer’s disease. Its broader benefits
+    are “no longer a fluke”, says Denise Faustman, a medical researcher at the Massachusetts
+    General Hospital in Boston who ran the diabetes trial. The results, presented
+    by Faustman at the American Diabetes Association meeting on 7 June in New Orleans,
+    Louisiana, demonstrate yet another ability of the BCG vaccine: it helps to regulate
+    blood sugar in people with autoimmune diabetes conditions. The immune systems
+    of people with these diseases, which include type 1 diabetes, attack β-cells in
+    the pancreas that produce insulin. Faustman and her colleagues studied two groups:
+    people with ‘juvenile onset’ type 1 diabetes, which begins when a person is 21
+    or younger, and those with latent autoimmune diabetes in adults (LADA), which
+    usually occurs at age 30 and above. In both groups, the BCG vaccine meaningfully
+    reduced insulin use. “This opens your eyes to a whole new way to think about people
+    with diabetes, and getting good blood-sugar control without a new device or new
+    machine,” Faustman says. In pursuit of answers Some of the first strong hints
+    that the BCG vaccine could help with diabetes come from studies in mice. One,
+    reported in 19901, showed that the BCG shot could prevent or suppress type 1 diabetes
+    in young mice that had been bred to develop the condition. ‘Universal vaccine’
+    protects mice against multiple pathogens Faustman and her colleagues enrolled
+    95 people with LADA in their trial; 68 of them received six BCG shots over a five-year
+    period, and the others received placebo jabs. The BCG vaccine did not lower blood
+    sugar levels measurably, but it did decrease insulin use by an average of almost
+    3% over the trial timeframe. Importantly, insulin use in the placebo group increased
+    by an average of 22% over that period. This suggests that the vaccine’s stimulation
+    of the immune system is somehow protecting β-cells in people with LADA, preventing
+    them from deteriorating as quickly as those in people in the placebo group. “The
+    importance of this study is that they demonstrate that, by activating the immune
+    system with the vaccine, they are able to downregulate the autoimmunity,” says
+    Åke Lernmark a diabetes researcher at Lund University in Sweden. “The data in
+    LADA are very nicely in line with those old [mouse] studies,” says immunologist
+    Mihai Netea at Radboud University in Nijmegen, the Netherlands. “I find this very
+    exciting and interesting.”'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: Context suggests it is being tested, 'evaluated' matches the scientific
+      testing context.
+    options:
+      A: restricted
+      B: discarded
+      C: evaluated
+      D: ignored
+    q_number: 1
+    stem: The Bacillus Calmette–Guérin (BCG) vaccine, typically administered to infants,
+      is now being ________ as a treatment for various conditions beyond its original
+      purpose.
+  - answer: B
+    explanation: The text explicitly states the vaccine helps to regulate blood sugar.
+    options:
+      A: magnify
+      B: regulate
+      C: abandon
+      D: submerge
+    q_number: 2
+    stem: A century-old vaccine, initially for tuberculosis, helps to ________ blood
+      sugar levels in specific diabetes patients.
+  - answer: D
+    explanation: The text refers to the protection against diseases other than the
+      target as 'off-target'.
+    options:
+      A: irrelevant
+      B: imaginary
+      C: dormant
+      D: off-target
+    q_number: 3
+    stem: The finding supports a once-controversial hypothesis that vaccines can provide
+      protection against both target diseases and ________ ones.
+  - answer: B
+    explanation: The text states the bacterium causes tuberculosis in cows.
+    options:
+      A: humans
+      B: cows
+      C: birds
+      D: rodents
+    q_number: 4
+    stem: The BCG vaccine is derived from a weakened form of the bacterium that causes
+      tuberculosis in ________.
+  - answer: A
+    explanation: The text mentions it protected them from other 'deadly infections'.
+    options:
+      A: deadly
+      B: minor
+      C: controllable
+      D: seasonal
+    q_number: 5
+    stem: Early studies in the 1920s revealed that the shot reduced mortality in children
+      by providing protection against ________ infections.
+  - answer: A
+    explanation: The text explicitly mentions the vaccine is approved to treat bladder
+      cancer.
+    options:
+      A: bladder
+      B: breast
+      C: lung
+      D: skin
+    q_number: 6
+    stem: The vaccine has been approved by the FDA to treat ________ cancer.
+  - answer: B
+    explanation: The text cites Faustman stating the benefits are 'no longer a fluke'.
+    options:
+      A: requirement
+      B: fluke
+      C: misconception
+      D: prejudice
+    q_number: 7
+    stem: Medical researcher Denise Faustman claims that the broader benefits of the
+      vaccine are no longer a ________.
+  - answer: A
+    explanation: The text specifies that the vaccine helps with 'autoimmune diabetes
+      conditions'.
+    options:
+      A: autoimmune
+      B: metabolic
+      C: hereditary
+      D: nutritional
+    q_number: 8
+    stem: The results presented at the meeting demonstrate that the vaccine helps
+      people with ________ diabetes conditions.
+  - answer: D
+    explanation: The text states the immune system attacks β-cells in the pancreas.
+    options:
+      A: liver
+      B: kidney
+      C: stomach
+      D: pancreas
+    q_number: 9
+    stem: In individuals with these diseases, the immune system attacks β-cells in
+      the ________.
+  - answer: C
+    explanation: The term used in the text is 'latent autoimmune diabetes in adults'.
+    options:
+      A: secondary
+      B: gestational
+      C: autoimmune
+      D: vascular
+    q_number: 10
+    stem: Researchers studied two groups, including those with 'juvenile onset' and
+      those with latent ________ diabetes in adults.
+  - answer: D
+    explanation: The text notes the vaccine 'meaningfully reduced' insulin use.
+    options:
+      A: unnoticeably
+      B: sporadically
+      C: erroneously
+      D: meaningfully
+    q_number: 11
+    stem: In both studied groups, the BCG vaccine ________ reduced insulin use.
+  - answer: C
+    explanation: The text mentions getting control 'without a new device or new machine'.
+    options:
+      A: diet
+      B: exercise
+      C: device
+      D: lifestyle
+    q_number: 12
+    stem: Faustman suggests this discovery provides a new way to achieve blood-sugar
+      control without a new ________.
+  - answer: A
+    explanation: The text mentions 'Some of the first strong hints... come from studies
+      in mice'.
+    options:
+      A: mice
+      B: primates
+      C: rats
+      D: bacteria
+    q_number: 13
+    stem: The first strong hints that the vaccine might help with diabetes originated
+      from studies in ________.
+  - answer: A
+    explanation: The text mentions the others received 'placebo jabs'.
+    options:
+      A: placebo
+      B: vaccine
+      C: supplement
+      D: hormone
+    q_number: 14
+    stem: Researchers enrolled 95 people with LADA in their trial, and some participants
+      received ________ jabs as a comparison.
+  - answer: C
+    explanation: The text reports an 'average of almost 3%' decrease in insulin use.
+    options:
+      A: increment
+      B: estimate
+      C: average
+      D: expectation
+    q_number: 15
+    stem: The BCG vaccine did not lower blood sugar levels measurably, but it did
+      decrease insulin use by an ________ of almost 3%.
+  - answer: D
+    explanation: The text states insulin use in the placebo group 'increased' by 22%.
+    options:
+      A: dropped
+      B: stabilized
+      C: fluctuated
+      D: increased
+    q_number: 16
+    stem: In contrast, insulin use in the placebo group ________ by an average of
+      22% over that period.
+  - answer: B
+    explanation: The text says preventing them from 'deteriorating' as quickly.
+    options:
+      A: recovering
+      B: deteriorating
+      C: improving
+      D: functioning
+    q_number: 17
+    stem: The findings suggest that the vaccine's stimulation of the immune system
+      protects β-cells, preventing them from ________ quickly.
+  - answer: D
+    explanation: The text quotes the researcher saying they are able to 'downregulate
+      the autoimmunity'.
+    options:
+      A: terminate
+      B: exacerbate
+      C: initiate
+      D: downregulate
+    q_number: 18
+    stem: Åke Lernmark notes that by activating the immune system, researchers are
+      able to ________ the autoimmunity.
+  - answer: C
+    explanation: The text refers back to the 'old [mouse] studies'.
+    options:
+      A: human
+      B: clinical
+      C: mouse
+      D: theoretical
+    q_number: 19
+    stem: Immunologist Mihai Netea believes the data in LADA are nicely in line with
+      previous ________ studies.
+  - answer: B
+    explanation: 'The text says: ''I find this very exciting and interesting''.'
+    options:
+      A: controversial
+      B: interesting
+      C: unproven
+      D: distressing
+    q_number: 20
+    stem: Netea concludes that he finds the results to be both very exciting and ________.
+  source_journal: Nature
+  title: TB vaccine from the 1920s shows promise in diabetes trial
+- article_update_date: 05.11.2026
+  body_text: 'Passengers disembarked from the MV Hondius at the Canary Islands wearing
+    personal protective equipment.Credit: Chris McGrath/Getty Close to 150 passengers
+    and crew members on the cruise ship MV Hondius struck by an outbreak of a deadly
+    hantavirus have disembarked and are returning to their home countries, where they
+    will quarantine. The way that will happen, however, will differ between countries,
+    in part because outbreaks of the virus are rare and how it spreads between people
+    isn’t well understood. “It is kind of a real-time experiment happening in front
+    of us,” says Vaithi Arumugaswami, a molecular virologist at the University of
+    California, Los Angeles. Passengers from Spain will spend one week of court-mandated
+    quarantine at a military hospital, which might be extended as the situation develops.
+    Those returning to the United States will be assessed on arrival at the University
+    of Nebraska Medical Center in Omaha and can then choose to quarantine at the facility
+    or at home for 42 days. Meanwhile, those returning to the United Kingdom will
+    be monitored for 72 hours in hospital, then placed in isolation for 45 days at
+    home or at a facility. All passengers on the ship are considered high-risk contacts,
+    according to the European Centre for Disease Prevention and Control in Solna,
+    Sweden, and so should self-isolate, monitor for symptoms daily and undergo testing
+    if they develop them. The World Health Organization (WHO) recommend people who
+    have been exposed to the virus quarantine for 42 days. That is based on the virus’s
+    long incubation period, says Rhys Parry, a molecular virologist at the University
+    of Queensland in Brisbane, Australia. Past research suggests that the time between
+    exposure and appearance of symptoms can be anywhere from 9 to 40 days1. “Symptoms
+    can appear several weeks after exposure, so the aim is to monitor people long
+    enough to catch infections that are still incubating,” says Parry. There will
+    probably be a few more cases in the coming days, says Arumugaswami. “One French
+    national has developed symptoms while being evacuated from the ship,” he adds.
+    A US cruise-ship passenger travelling with the other US nationals from the ship
+    on a non-commercial aeroplane to the United States has also tested positive for
+    the virus, according to the US Department of Health and Human Services. At least
+    six people have tested positive for the Andes species of hantavirus and linked
+    to the outbreak; another two passengers have suspected infections. Of those infected,
+    three people have died. The WHO says that the virus probably passed between passengers
+    after one was infected in Argentina, where there is an ongoing outbreak, before
+    boarding the cruise ship. Questions about transmission Hantaviruses typically
+    spread through the air on particles from rodent urine, droppings or saliva, but
+    the Andes species can spread between humans who are in close contact. However,
+    a lot is still unknown about how efficiently the virus passes between people,
+    says Jennifer Angulo, a molecular virologist who studies the Andes species at
+    the Pontifical Catholic University of Chile in Santiago. Epidemiological data
+    suggest that the chances of becoming unwell because of contact with another person
+    infected with Andes virus remains relatively low. Transmission generally requires
+    prolonged close contact, particularly during the early phase of illness when a
+    person is exhibiting mild symptoms, says Angulo. The highest risk of infection
+    is among sexual partners and people sharing a bed or bedroom with infected people,
+    she says.'
+  difficulty_constant: 7.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到，“how it spreads between people isn’t well understood”，因此各国对于防疫手段采取的应对措施有所不同，这是因为关于病毒在人与人之间传播方式的科学认知尚存在局限性。
+    options:
+      A: There is a disagreement between the WHO and national health authorities regarding
+        safety.
+      B: The mechanisms of hantavirus human-to-human transmission are not fully understood.
+      C: Different countries have diverse medical resources to handle the outbreak.
+      D: The passengers carry different variants of the Andes species of hantavirus.
+    q_number: 1
+    stem: According to the text, why do quarantine protocols vary among passengers
+      returning to different countries?
+  - answer: C
+    explanation: 文章引用Rhys Parry的话指出，42天的隔离期是基于病毒较长的潜伏期（long incubation period），旨在捕捉那些仍在潜伏期的感染者。
+    options:
+      A: To provide adequate time for the development of effective vaccines.
+      B: To ensure that those exposed receive daily monitoring and testing.
+      C: To cover the virus's lengthy period before symptoms manifest.
+      D: To allow hospitals to manage the surge of infected cruise passengers.
+    q_number: 2
+    stem: What is the primary rationale behind the WHO's recommended 42-day quarantine
+      period?
+  - answer: C
+    explanation: 文章结尾提到，该病毒的传播需要持续的密切接触，尤其是性伴侣或共用床铺的人群，即“prolonged close contact”，故C项正确。
+    options:
+      A: It is highly contagious through casual interaction in public spaces.
+      B: It is primarily transmitted through contaminated food or water.
+      C: It is most likely to spread through prolonged, intimate proximity.
+      D: It rarely infects individuals who have not had direct contact with rodents.
+    q_number: 3
+    stem: Which statement best describes the current epidemiological understanding
+      of Andes hantavirus transmission?
+  - answer: A
+    explanation: 文章提到WHO表示，病毒很可能是通过一名在阿根廷感染后登船的乘客传播开来的，当时阿根廷正处于疫情爆发中。
+    options:
+      A: The virus was introduced by a passenger who contracted it in Argentina.
+      B: The cruise ship staff members were the initial vectors of the infection.
+      C: The onboard environmental conditions triggered a mutation of the virus.
+      D: The virus spread through the ship's ventilation system from infected rodents.
+    q_number: 4
+    stem: What can be inferred about the origin of the cruise ship outbreak?
+  - answer: B
+    explanation: 结合上下文，由于该病毒传播机制不明且疫情罕见，各国采取的隔离策略实际上是面对突发状况进行的即时观察与调整，即“实时实验”，强调其不可预测性和科学研究价值。
+    options:
+      A: Scientists are intentionally infecting passengers to study the virus.
+      B: The situation is an unpredictable event providing unique observational data.
+      C: The quarantine measures are part of a controlled laboratory trial.
+      D: Researchers are testing a new vaccine on the affected passengers.
+    q_number: 5
+    stem: 'The phrase ''real-time experiment'' (Paragraph 2) most likely implies that:'
+  source_journal: Nature
+  title: Hantavirus outbreak exposes uncertainty about how disease spreads
+- article_update_date: 06.18.2026
+  body_text: China is innovative. Its economy is a mess. Which matters more? Finance
+    & economics | A game of two halves China is innovative. Its economy is a mess.
+    Which matters more? A question that will define the 21st century June 11th 2026
+    IN YINGTAN, a city in the south-eastern province of Jiangxi, China’s high-tech
+    future is spilling into its economically backward past. Old-fashioned open-air
+    markets and street-side eateries make it feel like any other rural town in the
+    Chinese interior. An industrial park to the south of the city, packed with companies
+    working on technologies for industrial digitisation, gives off a techie vibe.
+    A national communications laboratory has set up a state-of-the-art research centre
+    nearby. Over the past decade local officials have helped transform an antiquated
+    copper industry into one that produces high-end components for its new tech denizens.
+    Yingtan’s technological wagers are starting to pay off. In 2025 its GDP per person
+    surpassed that of the provincial capital, having been a quarter smaller a decade
+    earlier. Yet its economy is still weighed down by a property slump and big debts
+    accrued by the local government since the early 2010s. These old and new worlds
+    seem distant. But they live side by side in many places across China—and in the
+    economy as a whole. Goldman Sachs, a bank, forecasts that high-end manufacturing
+    will reliably contribute about one percentage point of annual real GDP growth
+    until 2029. Yet the drag caused by the collapse of the property sector , which
+    shaved two percentage points off growth in 2024 and 2025, will also persist for
+    another few years. The Chinese economy has slowed considerably in recent years,
+    never fully recovering from the unpredictable and disruptive lockdowns of the
+    covid-19 pandemic. A three-year bout of producer-price deflation ended in March
+    only after an oil shock caused by America’s war in Iran raised domestic energy
+    prices. Factories are churning out whizzy electric vehicles for export while Chinese
+    consumers , scarred by memories of the pandemic and the property bust—and exposed
+    by a threadbare social safety-net—are reluctant to spend. At no time in modern
+    history has a large country gone all in on investment in high-end technology while
+    also navigating a slowing economy and a local-government debt crisis, notes Yuen
+    Yuen Ang of Johns Hopkins University. Although the drag from the property crash
+    will lessen over the next few years, and eventually disappear, it would not take
+    much to choke the new growth engine. It is already being stress-tested by weakening
+    demand for Chinese EVs, a prolonged trade war and an energy crisis. China’s paramount
+    leader, Xi Jinping, is nevertheless betting that the new model of growth kicks
+    in faster than the old one, driven by land sales and construction, collapses.
+    It is a high-stakes gamble. The old model of growth took shape on China’s coasts
+    before spreading to the interior. Factories in the wealthy east employed poor
+    migrant labourers from the hinterland. Those migrants in turn, unable to obtain
+    residency in metropolises, often used their earnings to invest in property back
+    home. Towering apartment blocks erected during the two-decade property boom have
+    sprung up in the smallest towns, employing tens of millions of construction workers
+    each year and hoovering up low-end manufactures. High-speed rail has penetrated
+    the poorest counties. All this investment was fuelled by local-government borrowing.
+    One tally puts these debts at around 60trn yuan ($9trn), or 43% of GDP. The comparable
+    figure in America is 12%. The poorest regions often relied the most on debt-fuelled
+    construction of houses, roads and bridges. This has left some places, such as
+    Guizhou province in the south-west, with dazzling infrastructure (including a
+    bridge 626 metres high, the world’s tallest) along with insurmountable debts.
+    Few of these costly public works have so far come close to generating the revenues
+    needed to pay back creditors. Now investment is going into a narrower range of
+    faster-growing, innovative sectors. The moment Mr Xi announces his technology
+    goals—to lead the world in artificial intelligence, robotics, fusion power and
+    so on—hundreds of cities across the country respond by backing related projects.
+    A national semiconductor fund has raised roughly 687bn yuan over the past 12 years.
+    Government-backed fund managers watched their coffers swell to nearly 400bn yuan
+    last year, an increase of 75% from 2024. In December the state launched a 100bn-yuan
+    national venture fund with a mandate to invest in aerospace, semiconductors, brain-linked
+    machines and quantum technology. Many local governments, including in small cities,
+    are creating similar vehicles using tax revenues and capital from local state
+    companies. They are setting up “high-tech zones” and “AI parks” to lure innovative
+    companies with tax breaks and other perks. These new tech businesses are meant
+    to generate tax revenue and help local governments grow out of their debts, says
+    Jean Oi of Stanford University. While officials wait for their homespun DeepSeek,
+    the AI lab that stunned the world last year with its powerful model, the central
+    government relaxes the rules to give them more time to repay their debts. Sometimes
+    local authorities have some success. Rich metropolises such as Beijing, Hangzhou,
+    Shanghai and Shenzhen can draw talent and capital (the four cities are together
+    expected to receive around 70% of AI investment). This in turn may fuel demand
+    for housing and localised recovery in the property sector, observes Lu Ting of
+    Nomura, a bank. A few other cities may have similar luck. Hefei, in sleepy Anhui
+    province, has cultivated several champions. It hosts factories of BOE Technology
+    (a giant of LCD displays) and NIO (a luxury EV-maker). Its university spun out
+    a voice-recognition-AI darling, iFlyTek, and its local government co-founded CXTM,
+    China’s leading maker of advanced memory chips. To see how such projects go wrong,
+    travel an hour by high-speed rail from Yingtan to Yichun, where a botched attempt
+    to jump up the manufacturing value chain has backfired. In 2021 the city government
+    invested 2.3bn yuan to help build an EV factory in a sprawling National High-tech
+    Development Zone. But in contrast to successful EV clusters like those in Shenzhen
+    and Hefei, the facility was isolated from suppliers and expertise required to
+    build cars efficiently. It has since halted production. The rest of the industrial
+    zone looks just as lifeless. Even projects that get off the ground may do little
+    for local industry. A decade ago a fund with local- and central-government money
+    poured around 150bn yuan into Guizhou, a mountainous province in central China,
+    mostly into data storage and cloud-computing. But these ventures could not be
+    integrated with local industry, points out Ms Ang. The companies building the
+    data centres are based on the coasts, the server parts are made elsewhere and
+    local demand for the data capacity is scarce. “It is hard for cutting-edge technology
+    to integrate into traditional economies and generate jobs for local populations,”
+    says Ms Ang. Sometimes the results are tragicomically bleak. The north-western
+    industrial city of Lanzhou has invested in commercial space flight and a “drone
+    economy” project even as it struggled to pay its bus drivers for several years
+    (asking them to take out personal bank loans to tide them over). Even bustling
+    coastal provinces are not immune. When local reporters recently visited AI parks
+    across Guangdong, home to successful Shenzhen, they found them empty or inhabited
+    by non-AI businesses. It is not hard to see why so many projects fail. Mr Xi’s
+    industrial policy promotes fierce competition in which companies and their host
+    places, sometimes down to city districts, duke it out. This competitive pressure
+    pushes down prices and elevates quality. The best businesses which emerge from
+    this free-for-all, like BYD in carmaking, Huawei in electronics or Xiaomi in both,
+    are formidable and ready to take on the world. They are also rare—and concentrated
+    in established commercial centres, with deeper talent pools and pockets. Profits
+    are even rarer. Investment returns accrue less to individual companies and more
+    to integrated supply chains, which lower costs and speed up product cycles and
+    innovation, says Chi Lo of BNP Paribas, a bank. The share of industrial firms
+    generating losses has shot to a record high of around 32% in April, up from 10%
+    in 2011 and above the previous peak during the Asian financial crisis in 1998
+    (see chart 1). Corporate debt is also high and rising (see chart 2). Mark Williams
+    of Capital Economics, a consultancy, notes that Chinese firms owe twice as much
+    to domestic banks and bond investors today as they did in 2019. In that period
+    GDP has expanded by a third. Companies may move away from productive activities
+    and instead chase subsidies that are available for centrally supported sectors,
+    he says. Partly as a result, a trio of IMF economists calculated last year, China’s
+    “total factor productivity” (which captures how efficiently both capital and workers
+    are used) was 1.2% lower than it would have been in the absence of industrial
+    policy over the past decade or so. GDP was 2% lower, equivalent to forgoing around
+    $400bn in value added each year. The more companies get caught up in the chase
+    for subsidies and, by slashing their prices, for customers, the harder it will
+    be for them to wring out profits. It is hardest of all for poor, out-of-the-way
+    places like Yichun and Guizhou. Inland provinces have been generating a declining
+    share of industrial GDP. Last year they contributed 36%, down from close to 48%
+    in 2013, the year Mr Xi took power. This is a big problem for China’s low-skilled
+    workforce, which numbers somewhere between 300m and 400m people. As the state
+    turns its attention to dominance of frontier technologies, more of them will be
+    left behind. Many will have no choice but to return to their family homes in the
+    countryside, says Scott Kennedy of CSIS, a think-tank in Washington. The infatuation
+    with winning the tech race is like a spell America has unwittingly cast on Chinese
+    leaders, notes a former adviser to the central government. The contest has warped
+    their priorities and prompted them to focus a lot—maybe too much—on cutting-edge
+    technology while doing too little to fix China’s persistent economic problems,
+    the adviser adds. Robots may be multiplying but citizens remain downbeat. Retail
+    sales grew by 0.2% year on year in April, the lowest reading since late 2022,
+    before China had fully emerged from its devastating pandemic lockdowns. The outstanding
+    value of household bank loans fell for the first time on record in March, compared
+    with a year earlier. It will take a lot more than a few high-tech successes, no
+    matter how spectacular, to lift Chinese spirits. ■ For more expert analysis of
+    the biggest stories in economics, finance and markets, sign up to Money Talks
+    , our weekly subscriber-only newsletter. This article was downloaded by zlibrary
+    from https://www.economist.com//finance-and-economics/2026/06/08/china-is-innovative-its-economy-is-a-mess-which-matters-more
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章开篇及后续段落反复提到，中国目前正处于“高科技创新”与“房地产、地方债务带来的经济下行压力”并存的矛盾中。选项B准确概括了这一核心张力。
+    options:
+      A: The rapid collapse of the high-tech sector due to international trade wars.
+      B: The conflict between the high-stakes investment in frontier technology and
+        the drag from the property and debt crises.
+      C: The inability of the central government to control the spending habits of
+        wealthy coastal provinces.
+      D: The transition from an innovation-driven economy to an infrastructure-heavy
+        development model.
+    q_number: 1
+    stem: According to the article, what is the core tension present in China's current
+      economic landscape?
+  - answer: C
+    explanation: 文章通过Yichun的案例说明，缺乏相关供应商和专业知识支持的“硬上”项目往往会失败，即便有政府资金支持。C项符合文意。
+    options:
+      A: It successfully replicated the economic miracle of coastal tech clusters.
+      B: It proved that high-speed rail connectivity is sufficient to ensure industrial
+        success.
+      C: It highlights the inefficiency of projects isolated from necessary expertise
+        and supply chains.
+      D: It serves as a primary driver for national GDP growth due to aggressive local
+        subsidies.
+    q_number: 2
+    stem: What does the author suggest about the state-led investment strategy in
+      cities like Yichun?
+  - answer: B
+    explanation: 根据上下文，这里提到房地产繁荣时期建筑业消耗了大量低端制造产品，'hoovering up'在这里取“大量吸收、消耗”之意。
+    options:
+      A: Systematically filtering out inefficient industrial practices.
+      B: Massively consuming or absorbing resources or goods.
+      C: Cleaning up the negative impacts of urban pollution.
+      D: Technologically upgrading the manufacturing base.
+    q_number: 3
+    stem: 'The term ''hoovering up'' (in the 9th paragraph) most likely refers to:'
+  - answer: B
+    explanation: 文章引用IMF经济学家的观点指出，由于产业政策过度引导企业追逐补贴而非提升效率，导致全要素生产率（TFP）比没有该政策时更低。
+    options:
+      A: It has consistently boosted productivity by streamlining resource allocation.
+      B: It has hindered productivity by encouraging companies to chase subsidies
+        rather than efficiency.
+      C: It has had a neutral effect because private sector growth compensated for
+        state inefficiency.
+      D: It has accelerated growth in inland provinces at the expense of coastal cities.
+    q_number: 4
+    stem: Which of the following describes the potential impact of China's industrial
+      policy on its 'total factor productivity'?
+  - answer: C
+    explanation: 全文多次提到民众消费低迷、债务危机以及高科技产业未能有效带动整体经济的情况，作者认为“这是一种高风险赌博”，且技术突破不足以修复民众信心，体现了审慎和怀疑的态度。
+    options:
+      A: Optimistic, as the new tech engine will soon replace the old growth model
+        entirely.
+      B: Indifferent, because such economic shifts are common in developing nations.
+      C: Skeptical, as the focus on high-tech dominance may neglect broader social
+        and economic health.
+      D: Celebratory, emphasizing that technological breakthroughs will automatically
+        resolve local debt.
+    q_number: 5
+    stem: What is the author's underlying attitude toward China's current economic
+      trajectory?
+  source_journal: Economist
+  title: China is innovative. Its economy is a mess. Which matters more?
+- article_update_date: 05.01.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Laura Bullard The Big
+    Story Sep 30, 2025 12:05 PM The Real Stakes, and Real Story, of Peter Thiel’s
+    Antichrist Obsession Thirty years ago, a peace-loving Austrian theologian spoke
+    to Peter Thiel about the apocalyptic theories of Nazi jurist Carl Schmitt. They’ve
+    been a road map for the billionaire ever since. Play/Pause Button Pause PHOTO-ILLUSTRATION:
+    WIRED STAFF; GETTY IMAGES Peter Thiel’s Armageddon speaking tour has—like the
+    world—not ended yet. For a full two years now, the billionaire has been on the
+    circuit, spreading his biblically inflected ideas about doomsday through a set
+    of variably and sometimes visibly perplexed interviewers. He has chatted onstage
+    with the economist podcaster Tyler Cowen about the katechon (the scriptural term
+    for “that which withholds” the end times); traded some very awkward on-camera
+    silences with the New York Times columnist Ross Douthat; and is, at this very
+    moment, in the midst of delivering a four-part, off-the-record lecture series
+    about the Antichrist in San Francisco. Depending on who you are, you may find
+    it hilarious, fascinating, insufferable, or horrifying that one of the world''s
+    most powerful men is obsessing over a figure from sermons and horror movies. But
+    the ideas and influences behind these talks are key to understanding how Thiel
+    sees his own massive role in the world—in politics, technology, and the fate of
+    the species. And to really grasp Thiel’s katechon-and-Antichrist schtick, you
+    need to go back to the first major lecture of his doomsday road show—which took
+    place on an unusually hot day in Paris in 2023. No video cameras recorded the
+    event, and no reporters wrote about it, but I’ve been able to reconstruct it by
+    talking to people who were there. The venue was a yearly conference of scholars
+    devoted to Thiel’s chief intellectual influence, the late French-American theorist
+    René Girard. (Thiel identifies as a “hardcore Girardian.”) On the evening of the
+    unpublicized lecture, dozens of Girardian philosophers and theologians from around
+    the world filed into a modest lecture hall at the Catholic University of Paris.
+    And from the dais, Thiel delivered a nearly hourlong account of his thoughts on
+    Armageddon—and all the things he believed were “not enough” to prevent it. By
+    Thiel’s telling, the modern world is scared, way too scared, of its own technology.
+    Our “listless” and “zombie” age, he said, is marked by a growing hostility to
+    innovation, plummeting fertility rates, too much yoga, and a culture mired in
+    the “endless Groundhog Day of the worldwide web.” But in its neurotic desperation
+    to avoid technological Armageddon—the real threats of nuclear war, environmental
+    catastrophe, runaway AI—modern civilization has become susceptible to something
+    even more dangerous: the Antichrist. According to some Christian traditions, the
+    Antichrist is a figure that will unify humanity under one rule before delivering
+    us to the apocalypse. For Thiel, its evil is pretty much synonymous with any attempt
+    to unite the world. “How might such an Antichrist rise to power?” Thiel asked.
+    “By playing on our fears of technology and seducing us into decadence with the
+    Antichrist''s slogan: peace and safety.” In other words: It would yoke together
+    a terrified species by promising to rescue it from the apocalypse. The Politics
+    Issue For our politics issue, WIRED examines the state of tech’s influence on
+    governmental power—and the people who will change everything in the future. By
+    way of illustration, Thiel suggested that the Antichrist might appear in the form
+    of someone like the philosopher Nick Bostrom—an AI doomer who wrote a paper in
+    2019 proposing to erect an emergency system of global governance, predictive policing,
+    and restrictions on technology. But it wasn’t just Bostrom. Thiel saw potential
+    Antichrists in a whole zeitgeist of people and institutions “focused single-mindedly
+    on saving us from progress, at any cost.” So humanity is doubly screwed: It has
+    to avoid both technological calamity and the reign of the Antichrist. But the
+    latter was far more terrifying for the billionaire at the podium. For reasons
+    grounded in Girardian theory, Thiel believed that such a regime could only—after
+    decades of sickly, pent-up energy—set off an all-out explosion of vicious, civilization-ending
+    violence. And he wasn’t sure whether any katechons could hold it off. When Thiel
+    was finished, a moderator kicked off the Q&A session by noting, in so many words,
+    that the speech had been a huge bummer. If the world was hurtling toward an apocalyptic
+    crisis, he asked, what might the billionaire suggest we do? Fend off the Antichrist,
+    came the reply. But beyond that, Thiel said that he—like Girard—wasn’t really
+    in the business of offering practical advice. A few moments later, someone in
+    the audience stood and offered a correction. “It’s not true what you said about
+    Girard,” a man’s voice said. Thiel—who often has a tendency to stonewall or steamroll
+    his interlocutors—squinted in the speaker’s direction, trying to determine exactly
+    who was pushing back. The voice had the rounded vowels and soft Rs of a recognizably
+    Austrian accent and conveyed a quiet, familiar authority. “On many occasions,”
+    the speaker went on, “young people asked Girard, ‘What should we do?’ And Girard
+    told them to go to church.” Thiel finally seemed to recognize who was speaking.
+    He leaned in toward the microphone: “Wolfgang?” The voice belonged to Wolfgang
+    Palaver, a 64-year old theologian from Innsbruck, Austria, whom Thiel had last
+    seen in 2016, the year they both delivered eulogies at Girard’s funeral. Palaver
+    has a round face, a bookish white mustache, and eyes permanently crinkled at the
+    corners by laugh lines. But that night in Paris, there was no trace of humor in
+    his voice. And he evidently commanded the billionaire’s respect. Six months later,
+    Thiel delivered his Armageddon lecture again, now at The Catholic University of
+    America. According to a recap posted by one attendee, Thiel’s argument was pretty
+    much the same. Except this time Thiel told his listeners how they might personally
+    navigate the slender path between Armageddon and the Antichrist: “Go to church.”
+    In an October interview at the Hoover Institution, Thiel echoed the line again:
+    “Girard always said you just need to go to church, and I try to go to church.”
+    This spring, during one of the podcaster Jordan Peterson’s many failed attempts
+    to interject, Thiel cut him off: “Girard’s answer would still be something like:
+    You should just go to church.” It’s not just that line. Although Thiel has never
+    publicly acknowledged Wolfgang Palaver, the Austrian theologian’s influence arguably
+    runs through nearly everything Thiel has ever said or written about the Antichrist
+    and the katechon. In the 1990s, Palaver wrote a series of papers about Carl Schmitt,
+    the German legal theorist tapped by the Nazis to justify Germany’s slip from democracy
+    to dictatorship. Palaver’s papers critiqued a lesser-known, theological, and apocalyptic
+    line of Schmitt’s thinking—and they seem to have fascinated Thiel ever since the
+    two men first met in 1996. In his recent doomsday lectures and interviews, Thiel’s
+    language often mirrors Palaver’s scholarship directly, sometimes closely paraphrasing
+    it. (Thiel did not respond to WIRED''s requests for comment.) You know you live
+    in strange times when one of the most influential billionaires in the world—an
+    investor who lit the financial fuses on both Facebook and the AI revolution ,
+    who cofounded PayPal and Palantir and launched the career of an American vice
+    president—starts dedicating his public appearances primarily to a set of ideas
+    about Armageddon borrowed heavily from a Nazi jurist. (As in: the guy who rapidly
+    published the most prominent defense of Hitler’s Night of the Long Knives.) Carl
+    Schmitt But the times have been even weirder for Palaver. A lifelong peace activist,
+    he first wrote about Schmitt’s apocalyptic theories in hopes of driving a stake
+    through their heart. Yet for years now, Palaver has watched as his own Girardian
+    take on Schmitt seems to have provided a roadmap not only for Thiel’s speaking
+    tour but for his considerable strategic interventions in global politics—from
+    his investments in military tech to his role in shaping the careers of JD Vance
+    and Donald Trump to his support of the National Conservatism movement. If Thiel
+    takes his own thinking seriously, he seems to regard these moves as interventions
+    in the end of human history. For the past year or so, the two men have been in
+    regular touch, meeting together once at Thiel’s home and debating with each other
+    over text and email. In August, Palaver even hosted Thiel at the University of
+    Innsbruck for a two-day, closed-door “ dress rehearsal ” of the billionaire’s
+    four-part San Francisco Antichrist lecture series. In an interview with the Austrian
+    news outlet Falter, Palaver said he’d agreed to the event with Thiel “in the hope
+    of getting him to reconsider his positions.” In my own months of conversation
+    with Palaver, he has said he fears that the investor has arrived at a potentially
+    catastrophic interpretation of Schmitt. And believe it or not, the nature of Palaver
+    and Thiel’s relationship gets even more complicated. Palaver has been reluctant
+    to oppose Thiel publicly, and in our conversations he sometimes downplays his
+    own influence and disagreements with the billionaire. Perhaps that’s because,
+    as followers of Girard, both men believe that any two figures who oppose each
+    other strongly enough—as Palaver has opposed Schmitt, as Thiel opposes the Antichrist—are
+    bound to mimic each other and become entangled. As Thiel himself has said, “Perhaps
+    if you talk too much about Armageddon, you are secretly pushing the agenda of
+    the Antichrist.” In some ways, Palaver and Thiel have always been mirror images
+    of each other. Palaver grew up in a small town in the Austrian Alps, less than
+    an hour from the German border. The landscape of his childhood was idyllic: rolling
+    valleys and meadows, dotted with small churches and boxed in by towering, snow-capped
+    mountain ranges. The historical context was less so. Palaver was born 13 years
+    after the Allies dropped their last bombs on Austria, and within a month of his
+    fourth birthday, the Cuban Missile Crisis brought the world to the brink of nuclear
+    war. From a young age, Palaver was a peace activist, registering as a conscientious
+    objector at 18 and then organizing against nuclear weapons in college. It was
+    in a class about the roots of human violence where he came to study the work of
+    Rene Girard—whose unusual theories were generating buzz in parts of Europe. Want
+    to know how the billionaire actually thinks? If you don’t know these terms, you
+    kinda can’t. Mimetic rivalry: The violence that results from humans’ fundamental
+    tendency to imitate each other—specifically to mimic each other’s desires. A key
+    concept for Rene Girard, Thiel’s biggest intellectual influence. Scapegoat mechanism:
+    The process by which humans find unity—and relief from mimetic rivalry—in ganging
+    up on one target who gets blamed for all the community’s problems. According to
+    Girard, scapegoating has provided less and less cohesion since the time of Christ.
+    The Antichrist: The figure, described briefly in the Bible, who ushers in the
+    end times. For Thiel and the Nazi theorist Carl Schmitt, the Antichrist’s evil
+    is pretty much synonymous with any attempt to unify the world. Apocalypse: For
+    some Girardians, the final explosion of violence that will result from unchecked
+    mimetic rivalry in an age of world-killing weaponry. The katechon: A Greek term,
+    appearing in just two sentences of the Bible, for “that which withholds” the Antichrist
+    and the end times. After World War II, Schmitt’s vision of the katechon was for
+    a fragmented world of nationalist states, with no global unity. Thiel seems to
+    envision something similar. Girard’s core insight, Palaver would learn, is that
+    all humans are imitators, beginning with their wants. “Once their natural needs
+    are satisfied, humans desire intensely,” Girard wrote, “but they don’t know exactly
+    what they desire.” So people mimic the aspirations of their most impressive neighbors—“thus
+    ensuring for themselves lives of perpetual strife and rivalry with those they
+    simultaneously hate and admire.” According to Girard, this “mimesis”—this relentless
+    copying—builds as it ricochets across relationships. In groups, everyone starts
+    to look'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: The text explains that for Thiel, the Antichrist is synonymous with
+      attempts to unify the world and is a central theme in his doomsday lectures,
+      which are linked to his worries about technological Armageddon.
+    options:
+      A: To warn humanity against the rise of religious extremism in modern politics.
+      B: To justify his investment strategies in military technology and AI development.
+      C: To conceptualize his fears regarding global unification and the threat of
+        technological Armageddon.
+      D: To promote the scholarly works of René Girard as a solution to contemporary
+        social issues.
+    q_number: 1
+    stem: According to the passage, why does Peter Thiel focus on the concept of the
+      'Antichrist'?
+  - answer: C
+    explanation: The text highlights the complexity of their relationship, noting
+      Palaver's hope to change Thiel's views and their shared understanding of 'mimetic
+      rivalry,' which suggests that they are 'mirror images' who can become 'entangled.'
+    options:
+      A: Palaver is an eager collaborator who fully endorses Thiel's political agenda.
+      B: They share a mentor-mentee relationship where Palaver consistently guides
+        Thiel's public statements.
+      C: Their connection is complex, defined by intellectual disagreement and an
+        underlying mimetic tension.
+      D: Palaver is largely unaware of how his academic research has influenced Thiel's
+        public image.
+    q_number: 2
+    stem: What does the passage imply about the relationship between Peter Thiel and
+      Wolfgang Palaver?
+  - answer: B
+    explanation: Thiel argues that society's fear of technological progress (nuclear
+      war, AI) makes it susceptible to the Antichrist, who promises peace and safety
+      as a distraction from those very fears.
+    options:
+      A: He views technology as the only effective way to prevent the rise of the
+        Antichrist.
+      B: He sees society as neurotically desperate to avoid the risks of technology,
+        which paradoxically invites deeper dangers.
+      C: He believes that constant technological progress is the key to escaping the
+        'Groundhog Day' of modern life.
+      D: He advocates for total global governance as the only method to regulate the
+        dangers of runaway AI.
+    q_number: 3
+    stem: How does Thiel interpret the role of technology in the current era?
+  - answer: A
+    explanation: The article establishes that Schmitt's theories, particularly regarding
+      the 'katechon' and the Antichrist, serve as a 'road map' for Thiel's recent
+      doomsday lectures.
+    options:
+      A: Illustrate the origins of the apocalyptic theories that Thiel has adopted.
+      B: Contrast Schmitt's Nazi associations with Palaver's peace-loving activism.
+      C: Provide a historical context for the development of modern AI and financial
+        technology.
+      D: Argue that Thiel is deliberately reviving Nazi ideology in contemporary American
+        politics.
+    q_number: 4
+    stem: 'The author mentions Carl Schmitt primarily to:'
+  - answer: B
+    explanation: The glossary at the end of the text explicitly defines 'mimetic rivalry'
+      as 'The violence that results from humans’ fundamental tendency to imitate each
+      other—specifically to mimic each other’s desires.'
+    options:
+      A: The systematic exclusion of individuals who do not conform to societal norms.
+      B: The conflict arising from the human tendency to imitate the desires of others.
+      C: The deliberate manipulation of public opinion through technological surveillance.
+      D: The belief that history is a predetermined cycle leading toward an inevitable
+        violent conclusion.
+    q_number: 5
+    stem: Which of the following best describes the core concept of 'mimetic rivalry'
+      as used in the passage?
+  source_journal: Wired
+  title: Pause
