@@ -1,0 +1,19 @@
+articles:
+- article_id: epub_72
+  journal_name: Economist
+  publish_date: 06.01.2026
+  title: 'Ferrari’s electric car: divisiveness is the point'
+- article_id: epub_31
+  journal_name: Wired
+  publish_date: 06.17.2026
+  title: Chapter 31
+- article_id: rss_9_1778788338
+  journal_name: The Guardian
+  publish_date: 05.14.2026
+  title: 'Les Simpson: return of Québécois show spares viewers from ‘European French’'
+- article_id: rss_1_1783539512
+  journal_name: Nature
+  publish_date: 07.08.2026
+  title: Observation of Floquet rotational super-radiance
+generate_date: 07.12.2026
+strategy: common

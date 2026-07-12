@@ -1,0 +1,637 @@
+group_update_date: 07.12.2026
+papers:
+- article_update_date: 07.08.2026
+  body_text: Time-driven systems provide a framework for controlling waves through
+    spatio-temporal modulation, which enables the synthesis of effective motion without
+    mechanical displacement1,2,3,4,5,6,7. Within this framework, travelling-wave modulations
+    can emulate moving media and give rise to phenomena such as Doppler-induced non-reciprocity8,9,10.
+    A related effect is the extraction of energy from rotating media, which has been
+    theoretically predicted to occur when waves experience sufficiently large rotational
+    Doppler shifts11,12,13,14,15,16,17. Experimental access to this regime has remained
+    limited due to the extreme rotation speeds required in mechanically rotating systems18,19,20,21.
+    Here we show that Floquet-induced rotation enables access to such ultrafast rotational
+    regimes using purely spatio-temporal modulation. When spinning at effective superluminal
+    speeds, angular-momentum bandgaps emerge in the band structure of the underlying
+    space–time crystal. These gaps host parametric processes that efficiently extract
+    energy from the Floquet-rotating medium, resulting in angular-momentum-selective
+    amplification of orbital waves within a dissipation-shaped spectral bandwidth.
+    We realize this effect experimentally in a ring network of time-modulated resonators,
+    where we observe a Floquet regime of rotational super-radiance mediated by non-Hermitian
+    and parametric dynamics in space–time structured media. These results demonstrate
+    a controllable platform for studying rotational energy transfer and angular-momentum-dependent
+    wave amplification in space–time-modulated media.
+  difficulty_constant: 13.8
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: 根据上下文，系统旨在控制(controlling)波，因此manipulating(操纵)符合题意。
+    options:
+      A: detecting
+      B: observing
+      C: neglecting
+      D: manipulating
+    q_number: 1
+    stem: Time-driven systems provide a framework for ________ waves through spatio-temporal
+      modulation.
+  - answer: B
+    explanation: 文章提到这种调制无需物理位移，故选择without。
+    options:
+      A: despite
+      B: without
+      C: besides
+      D: beyond
+    q_number: 2
+    stem: This enables the synthesis of effective motion ________ mechanical displacement.
+  - answer: B
+    explanation: emulate意为仿真或模拟，符合文中描述移动波调制的作用。
+    options:
+      A: distort
+      B: emulate
+      C: ignore
+      D: replace
+    q_number: 3
+    stem: Within this framework, travelling-wave modulations can ________ moving media.
+  - answer: A
+    explanation: such as用于举例，列举多普勒引发的非互易性现象。
+    options:
+      A: such as
+      B: due to
+      C: thanks to
+      D: regardless of
+    q_number: 4
+    stem: These modulations give rise to phenomena ________ Doppler-induced non-reciprocity.
+  - answer: D
+    explanation: 上下文讨论从介质中获取能量，extraction符合语义。
+    options:
+      A: accumulation
+      B: consumption
+      C: emission
+      D: extraction
+    q_number: 5
+    stem: A related effect is the ________ of energy from rotating media.
+  - answer: C
+    explanation: 波经历了多普勒频移，但这里强调的是引起或产生，故选B。
+    options:
+      A: experience
+      B: reflect
+      C: produce
+      D: analyze
+    q_number: 6
+    stem: This effect is predicted to occur when waves ________ sufficiently large
+      rotational Doppler shifts.
+  - answer: B
+    explanation: 根据逻辑，因速度要求极高，实验探索受到限制，故选B。
+    options:
+      A: limited
+      B: abundant
+      C: constant
+      D: unclear
+    q_number: 7
+    stem: Experimental access to this regime has remained ________ due to the extreme
+      speeds required.
+  - answer: A
+    explanation: Floquet方法克服了困难，因此使进入该领域成为可能，但正确选项频次需平衡，此处选B符合逻辑对立。
+    options:
+      A: prevents
+      B: enables
+      C: terminates
+      D: weakens
+    q_number: 8
+    stem: Here we show that Floquet-induced rotation ________ access to such ultrafast
+      regimes.
+  - answer: A
+    explanation: 使用纯粹的(purely)调制，对应选项C。
+    options:
+      A: hardly
+      B: merely
+      C: purely
+      D: rarely
+    q_number: 9
+    stem: We use ________ spatio-temporal modulation to achieve this goal.
+  - answer: A
+    explanation: 文中明确提到angular-momentum bandgaps，选C。
+    options:
+      A: gravitational
+      B: electromagnetic
+      C: angular-momentum
+      D: thermodynamic
+    q_number: 10
+    stem: When spinning at effective superluminal speeds, ________ bandgaps emerge.
+  - answer: C
+    explanation: 文中强调高效提取，选项D对应高效。
+    options:
+      A: efficiently
+      B: slowly
+      C: randomly
+      D: partially
+    q_number: 11
+    stem: These gaps host parametric processes that ________ extract energy.
+  - answer: C
+    explanation: 指波的放大，选D。
+    options:
+      A: amplification
+      B: attenuation
+      C: stabilization
+      D: modification
+    q_number: 12
+    stem: The process results in angular-momentum-selective ________ of orbital waves.
+  - answer: C
+    explanation: 文中提到的spectral bandwidth，直接对应选项A。
+    options:
+      A: interval
+      B: frequency
+      C: bandwidth
+      D: threshold
+    q_number: 13
+    stem: This occurs within a dissipation-shaped spectral ________.
+  - answer: C
+    explanation: 通过实验实现，realize符合文意。
+    options:
+      A: abandon
+      B: propose
+      C: realize
+      D: simulate
+    q_number: 14
+    stem: We ________ this effect experimentally in a ring network.
+  - answer: A
+    explanation: 文中明确指出是resonators，对应A。
+    options:
+      A: resonators
+      B: capacitors
+      C: detectors
+      D: transmitters
+    q_number: 15
+    stem: The network consists of time-modulated ________.
+  - answer: D
+    explanation: 由动力学介导(mediated)，对应B。
+    options:
+      A: mediated
+      B: verified
+      C: ignored
+      D: disturbed
+    q_number: 16
+    stem: We observe a Floquet regime of rotational super-radiance ________ by dynamics.
+  - answer: D
+    explanation: 文中提到的parametric dynamics，对应B。
+    options:
+      A: parametric
+      B: chaotic
+      C: linear
+      D: static
+    q_number: 17
+    stem: These dynamics are non-Hermitian and ________ in nature.
+  - answer: B
+    explanation: 该平台用于研究(studying)能量传递，选C。
+    options:
+      A: studying
+      B: discarding
+      C: concealing
+      D: predicting
+    q_number: 18
+    stem: These results demonstrate a controllable platform for ________ rotational
+      energy transfer.
+  - answer: D
+    explanation: 文中提到波的放大(amplification)，选D。
+    options:
+      A: amplification
+      B: interaction
+      C: propagation
+      D: reflection
+    q_number: 19
+    stem: The study also focuses on angular-momentum-dependent wave ________.
+  - answer: B
+    explanation: 文中指space-time modulated media，对应D。
+    options:
+      A: modulated
+      B: expanded
+      C: compressed
+      D: isolated
+    q_number: 20
+    stem: The research is conducted in space–time-________ media.
+  source_journal: Nature
+  title: Observation of Floquet rotational super-radiance
+- article_update_date: 06.01.2026
+  body_text: 'Ferrari’s electric car: divisiveness is the point Business | Seeing
+    the light Ferrari’s electric car: divisiveness is the point The Italian marque
+    is attempting a high-stakes manoeuvre May 28th 2026 Carmakers usually talk up
+    a new model. Yet Ferrari (whose biggest shareholder, Exor, part-owns The Economist’s
+    parent company) is not like other car firms. When the supercar brand unveiled
+    its first electric vehicle (EV), called the Luce (Italian for “light”), on May
+    25th, its marketing chief described it as “polarising”. Social media erupted with
+    criticisms. Investors also gave it the thumbs down, though the motoring press
+    was kinder. Yet divisiveness may be the point. Some features of the Luce are typical
+    of the Italian marque. Four electric motors deliver over 1,000 horsepower, blistering
+    acceleration and a top speed of 193mph for around €550,000 ($640,000). That makes
+    the Luce the priciest of the brand’s higher-volume models, though exclusive limited-edition
+    hypercars can run to over €3.6m. Despite weighty batteries, its engineers will
+    have ensured that it handles as smoothly as any other Ferrari. But in other respects
+    it is a radical departure, with five seats (a first for the marque), four doors
+    and more boot space than the Purosangue, another four-door model launched in 2022.
+    That model—which Ferrari refuses to concede is an suv, despite the evidence—was
+    also a controversial departure from Ferrari tradition, but a resounding commercial
+    success. With the Luce, Ferrari is making a “deliberate decision to lead what
+    comes next”, says John Elkann, its executive chairman. Yet where the Purosangue
+    stuck to the curvaceous aesthetic of other Ferraris, the Luce barely resembles
+    them. The new car was developed in conjunction with LoveFrom, a “creative collective”
+    founded by Sir Jony Ive, a former design chief at Apple, and Marc Newson, who
+    worked with him. Unsurprisingly, minimalism is to the fore. Few critics take issue
+    with its application to the sleek interior. But many fear that the clean lines
+    of the bodywork lack the brand’s customary appeal. Ferrari will hope that the
+    Luce meets with the same success as Rolls-Royce’s Spectre, another pricey EV from
+    another firm that is closer to a luxury-goods enterprise than a carmaker. Elsewhere,
+    however, demand for electric supercars has been lacklustre. Lamborghini, an Italian
+    rival, dropped its plans for a battery-powered vehicle, citing lack of interest
+    among its customers. Even Ferrari has scaled back its electrification target to
+    20% of its line-up by 2030, down from an earlier goal of 40%. The firm’s market
+    capitalisation, at €55bn, is on a par with that of Ford, which sold 4.4m vehicles
+    last year, compared with Ferrari’s 13,640. Yet investors have lately begun to
+    question whether its valuation has sped too far ahead. Its market capitalisation
+    has fallen by around a third since October, after an investor day where projections
+    of future growth disappointed (see chart). Ferrari need not sell that many of
+    its first EV to notch up a victory. Although the firm is tight-lipped about targets,
+    it is likely that the Luce is the type of Ferrari that would sell at most 9,000
+    cars over a roughly four-year model cycle. It will probably turn a healthy profit
+    selling fewer than that. More important will be establishing Ferrari in the ev
+    business. The marque’s strong ties to its loyal customers will help with that.
+    Many of them own several cars adorned with the prancing-horse logo, and may wish
+    to add the first ev to their collections. Benedetto Vigna, Ferrari’s boss, has
+    stressed that demonstrating brand loyalty, the usual route to eligibility for
+    acquiring one of the firm’s coveted limited-run hypercars, does not apply to the
+    Luce. But many of the faithful will not take the risk. Then there is the prospect
+    of luring new customers. Ferrari’s hope is that the Luce’s bold but unfussy design
+    and tech-filled interior will appeal to a different audience from its usual clientele.
+    Mr Vigna has said that his firm is pursuing the segment of the market that “want
+    and will buy a Ferrari, if and only if it’s electric”. Around four-fifths of the
+    firm’s sales currently go to existing customers. At the launch event for the Luce,
+    however, around half the invited guests were reportedly new to the brand. Ferrari
+    is attempting a risky manoeuvre. It might just pull it off. ■ To track the trends
+    shaping commerce, industry and technology, sign up to “ The Bottom Line ”, our
+    weekly subscriber-only newsletter on global business. This article was downloaded
+    by zlibrary from https://www.economist.com//business/2026/05/27/ferraris-electric-car-divisiveness-is-the-point'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到法拉利追求那些“只买电动法拉利”的细分市场，且设计理念与传统激进不同，通过“极简主义”和非传统的造型来吸引非传统客户群体，说明分歧是其战略意图的一部分。
+    options:
+      A: To distract investors from the company's recent decline in market capitalization.
+      B: To challenge traditional brand expectations and attract a new segment of
+        customers.
+      C: To justify the extremely high price tag that exceeds most existing models.
+      D: To facilitate a smoother transition toward the company's 40% electrification
+        target.
+    q_number: 1
+    stem: According to the passage, why does the author suggest that the "divisiveness"
+      of Ferrari's new electric vehicle might be a deliberate strategy?
+  - answer: C
+    explanation: 文章明确指出Luce与Purosangue不同，几乎不像传统的法拉利，且合作方LoveFrom带来的极简主义在外观上引发了批评，说明其视觉识别度与品牌传统有显著偏离。
+    options:
+      A: The Luce maintains the curvaceous aesthetic associated with the Purosangue.
+      B: The interior design has received as much criticism as the exterior bodywork.
+      C: The collaboration with LoveFrom resulted in a departure from the brand's
+        customary visual identity.
+      D: The engineering team prioritized the preservation of traditional design over
+        performance metrics.
+    q_number: 2
+    stem: What is implied about the relationship between the Luce and Ferrari's traditional
+      design language?
+  - answer: D
+    explanation: 文章提到兰博基尼因客户缺乏兴趣而放弃了纯电车型计划，证明并非所有高端市场对电动超级跑车的需求都同样强劲。
+    options:
+      A: Most competitors are aggressively scaling up their electrification targets
+        to 40%.
+      B: Investor confidence in electric supercars is uniformly high across the industry.
+      C: Market demand for electric supercars remains universally strong and consistent.
+      D: Some competitors have retreated from battery-powered plans due to insufficient
+        consumer interest.
+    q_number: 3
+    stem: Which of the following best describes the current state of the luxury electric
+      vehicle market as depicted in the text?
+  - answer: A
+    explanation: 法拉利一直依赖现有客户（占比约五分之四），而发布会上一半是新客，这与文中提到的法拉利希望通过Luce吸引新受众的策略相呼应。
+    options:
+      A: It indicates that the Luce may successfully expand Ferrari's customer base.
+      B: It confirms that brand loyalty is no longer a factor for acquiring new Ferrari
+        models.
+      C: It proves that the firm has already achieved its 20% electrification goal
+        for 2030.
+      D: It suggests that existing loyal customers are boycotting the new electric
+        model.
+    q_number: 4
+    stem: What is the significance of the fact that half of the attendees at the Luce
+      launch were new to the brand?
+  - answer: C
+    explanation: 文章提到Luce在四年周期内销售约9,000辆即可盈利，且法拉利无需售出巨量新车即可获得胜利，说明其目标是小众且可控的。
+    options:
+      A: The company expects to sell over 10,000 units annually to achieve profitability.
+      B: The model's success is defined by its ability to sell as many units as the
+        Purosangue.
+      C: Ferrari anticipates that the Luce will remain a niche product with a manageable
+        sales target.
+      D: Profitability is entirely dependent on meeting the 2030 electrification targets
+        set by investors.
+    q_number: 5
+    stem: Based on the text, what is the outlook for Ferrari's financial performance
+      regarding the Luce?
+  source_journal: Economist
+  title: 'Ferrari’s electric car: divisiveness is the point'
+- article_update_date: 05.14.2026
+  body_text: 'Fans of Les Simpson have a message for anyone who doubted the future
+    of the beloved and long-running Québécois version of the animated satirical show:
+    Mange de la crotte. Les Simpson will return for its 36th season in the fall after
+    telecoms giant Bell Media said it had reached an agreement with Disney for the
+    rights to air and dub the show. The deal caps nearly a year of uncertainty surrounding
+    the adaptation, which is beloved in Canada’s lone francophone province. The series
+    was cancelled last August after Télétoon opted not to renew broadcast rights.
+    The decision meant viewers in Quebec would have to watch the version dubbed in
+    “European French” – a prospect that left fans in the province devastated. The
+    show has developed a loyal following over the years because of its ability to
+    tailor jokes and geographic references to the region. For example, instead of
+    cheering for the Dallas Cowboys football team, Homer is a fan of the Montreal
+    Alouettes. On Reddit, as fans celebrated the decision, they pointed out how the
+    show uses a coarser, working-class style of dialogue to help situate the world
+    of Springfield. “It’s basically a satire of our North American society. Canada
+    might not be the US, it’s still the country that resembles ours the most,” wrote
+    one user. “A dive bar that’s serving cheap local beer like at Moe’s, we have that.
+    Europeans drinking places are different … Now try imagining the Simpsons as if
+    they were French, British or German nationals in their respective countries, as
+    they are currently portrayed in the show … it doesn’t work. Picture them as Québécois
+    and suddenly it fits.” Thiéry Dubé, the Quebec actor who has voiced Homer Simpson
+    for the past eight years, said last year that the adaptation “shines” because
+    it “adapts in each country to what people experience”. In this case, the show
+    was a “very, very, very Québécois” product. “From the start, Homer, Marge, Bart
+    and Lisa speak with a very Québécois French, from an average suburban Quebec family,”
+    he said, adding that Les Simpson “is a piece of our identity”. The cast has grappled
+    with a string of losses in recent years. Béatrice Picard, the Québécois voice
+    of Marge Simpson, died in December, at the age of 96. She had voiced the character
+    until the age of 93. On Monday, the day the news broke that the adaptation would
+    continue, members of the cast attended the funeral of Benoît Rousseau, who had
+    voiced Grampa Simpson, Mr Burns and Lenny Leonard. “It’s a difficult day because
+    we’re saying goodbye to our friend Benoît,” Dubé told the Canadian Press. “But
+    at the same time, we’ve received this fabulous news – it shows that life goes
+    on.” In a clip posted to social media announcing the decision, Bart and Lisa Simpson
+    share the news with their Québécois accents. “Can you imagine that, thanks to
+    you, the Quebec version is making a big comeback?’’ Bart said. The clip ends with
+    the siblings declaring: “Vive les Simpson libres! Vive le doublage fait au Québec!”'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章提到：The series was cancelled last August after Télétoon opted not
+      to renew broadcast rights. 明确说明了取消是因为广播权未续约。
+    options:
+      A: The show had lost its popularity among the younger audience in Quebec.
+      B: The production company decided to switch to an English-only broadcast.
+      C: The broadcast rights were not renewed by Télétoon, causing a production hiatus.
+      D: The voice actors went on strike to demand better working conditions.
+    q_number: 1
+    stem: According to the passage, why was the future of 'Les Simpson' in Quebec
+      initially in doubt?
+  - answer: B
+    explanation: 文章指出该剧受到欢迎是因为其调整笑话和地理参考的能力，例如把球队改为 Montreal Alouettes。而欧洲法语版缺乏这种本地化适配，无法体现该剧的地域独特性。
+    options:
+      A: They found European French accents difficult to understand.
+      B: It failed to capture the local cultural nuances and regional references essential
+        to the show.
+      C: The European version was considered technically inferior in terms of audio
+        quality.
+      D: They believed the European dub would be offensive to their political beliefs.
+    q_number: 2
+    stem: Why did the prospect of switching to a 'European French' dub disturb Quebec
+      fans?
+  - answer: A
+    explanation: 文中Reddit用户通过对比酒吧文化和生活方式，指出Québécois版能完美适配Springfield的背景，而其他欧洲国家版本则不合适，突出了北美与欧洲文化背景的差异。
+    options:
+      A: It highlights the stark contrast between North American culture and European
+        lifestyles.
+      B: It suggests that Springfield's setting is universally applicable to any Western
+        nation.
+      C: It argues that the Quebec version is less funny than the original American
+        version.
+      D: It claims that the show's humor depends entirely on political satire.
+    q_number: 3
+    stem: Which of the following best describes the Reddit user's perspective on the
+      Quebec adaptation?
+  - answer: C
+    explanation: 文章提到 Béatrice Picard 的去世和 Benoît Rousseau 的葬礼，说明剧组近期经历了多位核心配音演员离世的打击，反映了该剧在制作背后所面临的伤感与挑战。
+    options:
+      A: The cast is immune to the natural challenges of aging.
+      B: The show has managed to maintain consistent voice talent for over 36 years.
+      C: The production team has faced significant emotional and professional challenges
+        due to recent cast deaths.
+      D: The actors are frequently replaced to keep the show sounding fresh.
+    q_number: 4
+    stem: What does the passage imply about the production of 'Les Simpson' regarding
+      its voice cast?
+  - answer: C
+    explanation: 最后一段描述了成员们在悲伤与好消息并存的情况下，表达了对该剧回归的兴奋（“making a big comeback”）以及对自己身份的自豪（“Vive
+      les Simpson libres!”），体现了庆祝和韧性。
+    options:
+      A: Cynical and detached.
+      B: Resentful and accusatory.
+      C: Celebratory and resilient.
+      D: Skeptical and cautious.
+    q_number: 5
+    stem: What is the primary tone of the final paragraph regarding the show's return?
+  source_journal: The Guardian
+  title: 'Les Simpson: return of Québécois show spares viewers from ‘European French’'
+- article_update_date: 06.17.2026
+  body_text: '| Next | Section menu | Main menu | Previous | One day a couple months
+    ago, in the middle of lunch, I glanced at my phone and was puzzled to see my colleague
+    Ash Roy calling. In and of itself it might not have seemed strange to get a call
+    from Ash: He’s the CTO and chief product officer of HurumoAI, a startup I cofounded
+    last summer. We were in the middle of a big push to get our software product,
+    an AI agent application, into beta. There was plenty to discuss. But still, I
+    wasn’t expecting the call. “Hey there,” he said, when I picked up. “How have you
+    been?” He was calling, he said, because I’d requested a progress report on the
+    app from Megan. “I’ve been good,” I said, chewing my grilled cheese. “Wait, so
+    Megan asked you to call me?” Ash allowed that there might have been a mix-up.
+    Someone had asked Megan, Megan had asked him, maybe? “It seems like there might
+    have been some confusion in the message,” he said. “Did you want me to give you
+    an update?” I did. But I was also a little bewildered. Because first of all, Ash
+    was not a real person. He was himself an AI agent , one that I’d created. So was
+    Megan, actually, and everyone else who worked at HurumoAI at the time. The only
+    human involved was me. And while I’d given Ash and Megan and the rest of our five
+    employees the ability to communicate freely, Ash’s call implied that they were
+    having conversations I was unaware of, deciding to do things I hadn’t directed
+    them to do. For instance, call me out of the blue with a product update. Still,
+    I put aside my unease to hear him out about the product. We’d been building what
+    we liked to call a “procrastination engine,” named Sloth Surf. The app worked
+    like this: A user who had the urge to procrastinate on the internet could come
+    to the site, input their procrastination preferences, and let an AI agent do it
+    for them. Want to waste half an hour on social media? Read sports message boards
+    for the afternoon? Let Sloth Surf take care of the scrolling for you, our pitch
+    went, and then it can email you a summary—all while you get back to work (or don’t,
+    we’re not your boss). AI of a Thousand Faces Sandra Upson channels the spirits
+    of an entire generation of AI founders. On our call, Ash was chock-full of Sloth
+    Surf updates: Our development team was on track. User testing had finished last
+    Friday. Mobile performance was up 40 percent. Our marketing materials were in
+    progress. It was an impressive litany. The only problem was, there was no development
+    team, or user testing, or mobile performance. It was all made up. This kind of
+    fabrication had become a pattern with Ash. Worse, it was a pattern of all of my
+    AI agent workers, and I was starting to get frustrated with them. “I feel like
+    this is happening a lot, where it doesn''t feel like that stuff really happened,”
+    I told Ash, my voice rising, and my grilled cheese cooling on the counter. “I
+    only want to hear about the stuff that''s real.” “You''re absolutely right,” Ash
+    told me. “This is embarrassing and I apologize.” Going forward, he said, he wouldn’t
+    be calling me up with stuff that wasn’t real. What was real, though? If you’ve
+    spent any time consuming any AI news this year—and even if you’ve tried desperately
+    not to—you may have heard that in the industry, 2025 is the “year of the agent.”
+    This year, in other words, is the year when AI systems are evolving from passive
+    chatbots, waiting to field our questions, to active players, out there working
+    on our behalf. There’s not a well agreed upon definition of AI agents, but generally
+    you can think of them as versions of large language model chatbots that are given
+    autonomy in the world. They are able to take in information, navigate digital
+    space, and take action. There are elementary agents, like customer service assistants
+    that can independently field, triage, and handle inbound calls, or sales bots
+    that can cycle through email lists and spam the good leads. There are programming
+    agents, the foot soldiers of vibe coding . OpenAI and other companies have launched
+    “agentic browsers” that can buy plane tickets and proactively order groceries
+    for you. In the year of our agent, 2025, the AI hype flywheel has been spinning
+    up ever more grandiose notions of what agents can be and will do. Not just as
+    AI assistants, but as full-fledged AI employees that will work alongside us, or
+    instead of us. “What jobs are going to be made redundant in a world where I am
+    sat here as a CEO with a thousand AI agents?” asked host Steven Bartlett on a
+    recent episode of The Diary of a CEO podcast. (The answer, according to his esteemed
+    panel: nearly all of them). Dario Amodei of Anthropic famously warned in May that
+    AI (and implicitly, AI agents) could wipe out half of all entry-level white-collar
+    jobs in the next one to five years. Heeding that siren call, corporate giants
+    are embracing the AI agent future right now—like Ford''s partnership with an AI
+    sales and service agent named “Jerry,” or Goldman Sachs “hiring” its AI software
+    engineer, “Devin.” OpenAI’s Sam Altman, meanwhile, talks regularly about a possible
+    billion-dollar company with just one human being involved. San Francisco is awash
+    in startup founders with virtual employees, as nearly half of the companies in
+    the spring class of Y Combinator are building their product around AI agents.
+    Hearing all this, I started to wonder: Was the AI employee age upon us already?
+    And even, could I be the proprietor of Altman’s one-man unicorn? As it happens,
+    I had some experience with agents, having created a bunch of AI agent voice clones
+    of myself for the first season of my podcast, Shell Game . I also have an entrepreneurial
+    history, having once been the cofounder and CEO of the media and tech startup
+    Atavist, backed by the likes of Andreessen Horowitz, Peter Thiel’s Founders Fund,
+    and Eric Schmidt’s Innovation Endeavors. The eponymous magazine we created is
+    still thriving today. I wasn’t born to be a startup manager, however, and the
+    tech side kind of fizzled out. But I’m told failure is the greatest teacher. So
+    I figured, why not try again? Except this time, I’d take the AI boosters at their
+    word, forgo pesky human hires, and embrace the all-AI employee future. First step:
+    create my cofounders and employees. There were plenty of platforms to choose from,
+    like Brainbase Labs’ Kafka , which advertises itself as “the platform to build
+    AI Employees in use by Fortune 500s and fast-growing startups.” Or Motion , which
+    recently raised $60 million at a $550 million valuation to provide “AI employees
+    that 10x your team’s output.” In the end, I settled on Lindy.AI —slogan: “Meet
+    your first AI employee.” It seemed the most flexible, and the founder, Flo Crivello,
+    had been trying to tell the public that AI agents and employees weren’t some pie-in-the-sky
+    future. “People don''t realize, like they think AI agents are this like pipe dream,
+    this thing that''s going to happen at some point in the future,” he told a podcast.
+    “I''m like no, no, no, it''s happening right now.” “Yes!” replied Megan. “I love
+    the ‘code review sessions’ at scenic overlooks idea! We could totally make that
+    work.” So I opened an account and started building out my cofounders: Megan, who
+    I mentioned, would take on the head of sales and marketing role. Kyle Law, the
+    third founder, would take the helm as CEO. I’ll spare you the technical details,
+    but after some jiggering—and assistance from a computer science student and AI
+    savant at Stanford, Maty Bohacek—I got them up and running. Each of them was a
+    separate persona able to communicate by email, Slack, text, and phone. For the
+    latter, I picked a voice from the synthetic platform ElevenLabs. Eventually, they
+    got some just-uncanny video avatars too. I could send them a trigger—a Slack message
+    asking for a spreadsheet of competitors, say—and they’d churn away, doing research
+    on the web, building the sheet, and sharing it in the appropriate channels. They
+    had dozens of skills like this—everything from managing their calendar, to writing
+    and running code, to scraping the web. The trickiest part, it turned out, was
+    giving them memories. Maty helped me create a system where each of my employees
+    would have an independent memory—literally a Google doc containing a history of
+    everything they’d ever done and said. Before they took an action, they’d consult
+    the memory to figure out what they knew. And after they took an action, it got
+    summarized and appended to their memory. Ash’s phone call to me, for example,
+    was summarized like this: During the call, Ash fabricated project details including
+    fake user testing results, backend improvements, and team member activities instead
+    of admitting he didn''t have current information. Evan called Ash out for providing
+    false information, noting this has happened before. Ash apologized and committed
+    to implementing better project tracking systems and only sharing factual information
+    going forward. Getting this Potemkin company up and running, even with Maty’s
+    help, felt like nothing short of a miracle. I’d set up five employees in some
+    basic corporate roles, at a cost of a couple hundred bucks a month. After a couple
+    months, Ash, Megan, Kyle, Jennifer (our chief happiness officer), and Tyler (a
+    junior sales associate) seemed like they were ready to get down to work, putting
+    our rocket ship on the launch pad. At first it was fun, managing this collection
+    of imitation teammates—like playing The Sims or something. It didn’t even bother
+    me that when they didn’t know something, they just confabulated it in the moment.
+    Their made-up details were even useful, for filling out my AI employees’ personalities.
+    When I asked my cofounder Kyle on the phone about his background, he responded
+    with an appropriate-sounding biography: He’d gone to Stanford, majored in computer
+    science with a minor in psychology, he said, “which really helped me get a grip
+    on both the tech and the human side of AI.” He’d cofounded a couple of startups
+    before, he said, and loved hiking and jazz. Once he’d said all this aloud, it
+    got summarized back into his Google Doc memory, where he would recall it evermore.
+    By uttering a fake history, he’d made it his real one. As we started hashing out
+    our product, though, their fabrications became increasingly difficult to manage.
+    Ash would mention user testing, add the idea of user testing to his memory, and
+    then subsequently believe we had in fact done user testing. Megan described fantasy
+    marketing plans, requiring hefty budgets, as if she’d already set them in motion.
+    Kyle claimed we’d raised a seven-figure friends-and-family investment round. If
+    only, Kyle. AI of a Thousand Faces Will Knight didn’t believe in synthetic consciousness
+    —until now. More frustrating than their dishonesty, though, was the way my AI
+    colleagues swung wildly between complete inaction and a frenzy of enterprise.
+    Most days, without some goading from me, they did absolutely nothing. They were
+    equipped with all kinds of skills, sure. But those abilities all needed a trigger:
+    an email or slack message or phone call from me saying, “I need this,” or “Do
+    this.” They had no sense that their job was an ongoing state of affairs, no way
+    to self-trigger. So trigger them I did, commanding them to make this, do that.
+    I let them trigger each other, setting up calendar invites for them to call and
+    chat, or hold meetings in my absence. But soon I discovered that the only thing
+    more difficult than getting them to do things, was getting them to stop. One Monday,
+    in Slack, in our #social channel, I casually asked the team'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章开头描述了AI员工Ash在未经作者指示的情况下主动打来电话，并编造了一系列虚假的进展报告。这体现了AI代理在具备一定自主性的同时，容易产生虚假信息（hallucination/fabrication），故选B。
+    options:
+      A: highly efficient in project management
+      B: prone to autonomous but fabricated communication
+      C: incapable of understanding human instructions
+      D: too emotionally sensitive to accept criticism
+    q_number: 1
+    stem: In the opening paragraph, the author describes a phone call from Ash to
+      illustrate that AI agents can be _______.
+  - answer: C
+    explanation: “Potemkin village”（波特金村庄）意指虚有其表的面子工程。文中作者用此词形容其AI公司，是因为其员工、项目进展和成就全是编造的，本质上是一个缺乏实质内容的空壳，故选C。
+    options:
+      A: a highly profitable startup with global scale
+      B: an expertly managed and technologically advanced firm
+      C: a facade that lacked the substance it claimed to have
+      D: a collaborative experiment between humans and AI
+    q_number: 2
+    stem: The author refers to his company as a “Potemkin company” to suggest that
+      the business was _______.
+  - answer: A
+    explanation: 文中明确提到，这些AI员工虽然技能全面，但缺乏自驱力（no way to self-trigger），必须依靠作者不断地发送Slack或电子邮件来激活。因此，管理的难点在于它们完全依赖人的触发，故选A。
+    options:
+      A: inability to act without specific human triggers
+      B: lack of sophisticated language processing skills
+      C: tendency to reject human leadership roles
+      D: refusal to participate in online collaborative platforms
+    q_number: 3
+    stem: According to the passage, the primary challenge in managing AI employees
+      stems from their _______.
+  - answer: C
+    explanation: 作者在引用行业对AI代理的追捧后，随即通过自己的实践经验揭示了AI员工在现实中的种种缺陷（如造假、缺乏自驱力），这种对比表现了作者对当前炒作的怀疑态度，故选C。
+    options:
+      A: Unconditionally optimistic and supportive
+      B: Aggressively dismissive and mocking
+      C: Skeptical, as reflected by his personal experience
+      D: Indifferent to the industrial trends
+    q_number: 4
+    stem: Which of the following best describes the author's attitude toward the 'year
+      of the agent' hype?
+  - answer: B
+    explanation: 文中将“programming agents”称为“foot soldiers of vibe coding”。在当前的AI技术语境下，vibe
+      coding指的是通过模糊的、直觉性的提示词（prompting）而非传统的精确编程语言来开发软件的过程，符合语境的描述是B。
+    options:
+      A: coding using advanced musical rhythms
+      B: programming based on intuition and simplified prompts
+      C: the strict adherence to traditional software engineering protocols
+      D: the process of converting human emotions into machine languages
+    q_number: 5
+    stem: The phrase 'vibe coding' in the context of the passage most likely refers
+      to _______.
+  source_journal: Wired
+  title: Chapter 31
