@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.13.2026",
+  "papers": [
+    {
+      "title": "Biodiversity resilience in a tropical rainforest",
+      "article_update_date": "04.09.2026",
+      "source_journal": "Nature",
+      "body_text": "Data Data were sampled in the context of the Research Unit ‘Reassembly’, studying a chronosequence of a rainforest ecosystem in the Chocó tropical rainforest (see ref. 47 for more details). Study area The study area is located in the reserves Canandé and Tesoro Escondido in the province of Esmeraldas in northwestern Ecuador (0.5° N, 79.2° W). Both reserves consist of a mosaic of actively used cacao and pasture plantations, secondary forest of varying age and primary forest. In this area, logging and agricultural land use started approximately five decades ago. Forests were logged for timber industry and subsequently mainly transformed into cacao plantations or pasture. Annual rainfall at the site is 4,700–6,000 mm. Mean temperature range 21–28 °C and relative humidity 90–100% (ref. 54). Chronosequence The study design represents a chronosequence approach that substitutes space for time, that is several forest plots at various successional stages were studied in a short time span instead of monitoring the same patch over a long time span. This approach assumes that the plots follow similar successional trajectories and had comparable starting points. Information about previous land use and environmental conditions for each site are important and need to be representative and unbiased across the successional stages. This has been tested in detail for trees (see ref. 47 for analyses of spatial autocorrelation and environmental bias). We explicitly distinguished actively used cacao and pasture plots as well as secondary forest plots regenerating from previous use as cacao or pasture. Several plots for each category were distributed over the landscape (200 km2) to acknowledge variation in forest attributes (mean distances between plots in each category were around 5 km and did not differ across successional stages47). Our study comprised a total of 62 plots (each 0.25 ha) of which 12 plots represent active agriculture (6 cacao plantations and 6 pastures) and 33 plots secondary forest varying in age between 1 year and 38 years since start of recovery (17 recovering from use as cacao plantation and 16 from use as pasture, both with a similar time span). A total of 17 plots serve as old-growth forest reference and have neither been cut nor used. Supplementary Table 6 provides information on the ages of each plot. The topography is hilly and plots range in elevation from 159 m to 615 m. There was no significant difference in mean elevation between active, recovering or old-growth forest plots and no significant correlation between elevation and plot age47. Regeneration plots were located 58 m ± 7 m from the nearest forest edge and old-growth plots 388 m ± 72 m to the nearest forest edge47. Pastures were grazed extensively by low densities of cattle and occasionally by horses and were dominated by aggressive pasture grasses such as Brachiaria or Axonopus scoparius. Cacao plantations were monocultures of sun-exposed Theobroma cacao trees which were spaced 2–4 m apart and grew to heights of 5–10 m. These plantations were regularly treated with herbicides. Whereas cacao plantations generally lacked shade trees, pastures had some remnant trees or palms, or shrubs along creeks. These characteristics were also typical of the pastures and cacao plantations that were used several decades ago and which now represent regenerating forests in our study area. Old-growth forests contained large, slow-growing trees with potential for timber use and showed no signs of harvesting. Before they regenerated as secondary forests, pastures and cacao plantations had a similar duration of land use (mean 11.4 years, range 1–30 years). Regenerating pastures were larger (11.3 ha, range 1.2–46.7 ha) than cacao plantations (2.0 ha, 0.3–5.7 ha). All plots were located in a relatively intact landscape with a mean forest cover of 74% ± 2.8% (24–100%) within a 1-km radius. For further details on the study site, see ref. 47. Sampling methods for each taxon along the chronosequence are summarized in Supplementary Methods. Calculation of biodiversity metrics For all taxa and plots we calculated the total abundance (number of individuals of each taxon) per plot and alpha-diversity Hill numbers (that is, effective number of species) for the orders q = 0, 1 and 2 (species diversity, Shannon diversity and Simpson diversity). We defined the similarity of species composition to old-growth forests as the mean of all pairwise comparisons between an agricultural or secondary forest plot to each of the 17 old-growth forest plots. Note that old-growth forests were distributed across the entire study area and represent natural spatial variation in biodiversity and composition. To define the old-growth forest reference value for species composition similarity, we thus compared each old-growth forest plot against all other 16 old-growth forest plots and calculated the mean similarity per plot. The median value of these 17 mean old-growth forest similarities was then used as the asymptotic reference for the recovery (\\({\\varPsi }_{{\\rm{Ref}}}\\) in equations (1) and (5)). Therefore, full recovery of species composition refers to the point at which the compositional similarity of an agricultural or secondary forest plot to an old-growth forest cannot be differentiated from the similarity among old-growth forests. We calculated the pairwise Bray–Curtis similarity as well as the beta-diversity Hill numbers for orders q = 0, 1 and 2. Beta-diversity Hill numbers were calculated as the fraction of gamma- and alpha-diversity Hill numbers of orders q = 0, 1 and 2 according to ref. 55: $$\\genfrac{}{}{0ex}{}{q}{}{D}_{\\beta }=\\genfrac{}{}{0ex}{}{q}{}{D}_{\\gamma }/\\genfrac{}{}{0ex}{}{q}{}{D}_{\\alpha }$$ (1) where the alpha-diversity is calculated from the joint assemblage of both plots (by summing over the relative abundance of each species in each of the plots after joining both plots; ref. 55) and the gamma-diversity was defined for each pair of plots by pooling data from both communities. The beta-diversity Hill numbers were subsequently transformed to measures of species composition similarity according to ref. 56. The community overlap of order q of 2 communities is there given by: $$\\mathrm{overlap}\\,\\mathrm{of}\\,\\mathrm{order}\\,q=\\frac{{(1{/}^{q}{D}_{\\beta })}^{(q-1)}-{\\left(\\frac{1}{2}\\right)}^{q-1}}{1-{\\left(\\frac{1}{2}\\right)}^{q-1}}$$ (2) This formula does not converge for q = 1. However, as q approaches 1 the overlap is given by: $${\\rm{overlap}}\\,{\\rm{of}}\\,{\\rm{order}}\\,1=({\\rm{ln}}2-{H}_{\\beta ,{\\rm{Shan}}})/{\\rm{ln}}2$$ (3) with \\({H}_{\\beta ,{\\rm{Shan}}}\\) the Shannon index. As derived in ref. 57 the above formulas yield for q = 0 the Sorensen index, for q = 1 the Horn index and for q = 2 the Morisita–Horn index. For Bray–Curtis similarity, species abundances were first transformed to relative abundances for increasing robustness against differences in total abundances among plots. We used the R package vegan v.2.6-4 to calculate the Bray–Curtis dissimilarity using the function vegdist and subsequently transformed it to the Bray–Curtis similarity (1 − Bray–Curtis dissimilarity). We applied rarefaction/extrapolation methods to standardize the alpha- and beta-diversity Hill numbers of orders q = 0, 1 and 2 of each plot to the same sampling coverage according to refs. 58,59,60 (coverage values for alpha- and beta-diversity are reported in Supplementary Table 10). For the alpha-diversity Hill numbers, we used the R package iNEXT61 v.3.0.0 for standardization. For each dataset we first extrapolated the Hill numbers of each sampled plot to twice the observed number of individuals, as this is the value at which diversity can still be accurately predicted59,60. We then noted the coverage value at this extrapolated point for each sampled plot. The minimum coverage value among the extrapolated samples was then used to standardize all samples (Supplementary Table 10). We thereby ensure that no plot is extrapolated beyond a point where predictions are still reliable. For beta-diversity, we used the R package iNEXT.beta3D60,62 v.1.0.1 for standardization. As for the non-standardized beta-diversity Hill numbers, we did a pairwise pooling of each combination of two plots. We then extrapolated the beta-diversity Hill numbers of each pooled pair of plots to twice the observed number of individuals by extrapolating the alpha- and gamma-diversity component separately. We then noted the minimum coverage value at this extrapolated point. We then rarefied or extrapolated each pooled pair of plots to this minimum coverage value (Supplementary Table 10). We subsequently transformed the extrapolated value of beta-diversity to a measure of species composition similarity as given by equations (2) and (3) and then calculated the mean value of each of these pairwise species composition similarity values between the active/regeneration plots and all old-growth forest plots. Because the beta standardization method requires a sufficient amount of data, the standardized beta value may be less than 1 (or the standardized dissimilarity may be negative) because of data sparsity and/or sampling variation. For seedlings for one plot a negative value for standardized beta-diversity (q = 0) was obtained. The same was true for frogs (‘fast’ strategists) for standardized beta-diversity (q = 0 and q = 1). For leaf-litter arthropods, a negative value for standardized beta-diversity (q = 0) was produced for two plots. These plots were thus excluded from further analysis for these taxa. We focused on the Shannon diversity (Hill number of order 1) and Bray–Curtis similarity in the main text and the alternative metrics in the Supplementary Information to examine the robustness of our conclusions with respect to sampling completeness. The results of the above analysis for each taxon can be found in Supplementary Table 1 for results presented in the main text and Supplementary Table 3 for results with standardized metrics. Calculation of resistance, return rate and recovery time Resistance, as used here, measures the proportion of an ecological metric, such as species diversity, after a disturbance in relation to its value before the disturbance. We thus calculated the resistance using the median of the active agriculture plots, representing conditions after disturbance and the old-growth forest plots, representing conditions before disturbance. In some instances, the median value of an ecological metric of the active agriculture plots had a similar or even higher level than the median value of the old-growth forest plots. This was found for abundance or diversity of some taxa, confirming their high number of disturbance-tolerant species and species that can use a recovering habitat already early during succession. However, abundance and diversity levels above the old-growth reference can still be considered a disturbance effect. To make the resistance of those attributes that have a higher or a lower value than reference conditions comparable and obtain a generally applicable measure of similarity to reference conditions, we calculated the negative exponential of the Kullback–Leibler divergence similar to ref. 4. This measure bounds the resistance between 0% and 100% (0% meaning that the active agriculture plots lost all species compared with the old-growth forest plots and 100% implying that the active agriculture plots are completely similar in abundance, species diversity or species composition, to the old-growth forest plots) and was calculated as follows: $${\\rm{Resistance}}=\\exp \\left(-|{\\rm{ln}}\\left(\\frac{{\\psi }_{0}}{{\\psi }_{{\\rm{Ref}}}}\\right)|\\right),$$ (4) where ψ 0 and ψ Ref are the median of the respective index for the active agriculture and old-growth forest plots, respectively. This similarity measure is not completely symmetrical around 1. This means that if the median of active agriculture plots is only 70% of the median of old-growth forest plots, the resistance is calculated as exp(−|ln(0.7)|) = 0.7, but if the median of the active agriculture plots is 130% of the median of old-growth plots (and thus also 30% different from it), the resistance is calculated as exp(−|ln(1.3)|) = 0.77. The values given by equation (1) are multiplied by 100 to obtain a percentage. We chose to use the median value as default as the median is more robust to outliers, unless the median of the old-growth forest was 0. In these cases, we chose to use the mean value for all calculations because we deemed a recovery to a value of 0 to not be biologically meaningful. Recovery often occurs in a nonlinear fashion (for example, see ref. 4). Therefore, to calculate recovery time and the return rate, we fitted a negative exponential function, similar to the one used by ref. 4, as given by the equation $$\\psi (t)={\\psi }_{0}+({\\psi }_{{\\rm{Ref}}}-{\\psi }_{0})(1-{e}^{-\\lambda t}),$$ (5) where ψ(t) is the value of the respective index at time t and λ is the constant return rate to the old-growth forest level (termed ‘intrinsic recovery rate’ in ref. 4). This equation models the return to reference conditions such that the difference between the value of",
+      "difficulty_constant": 12.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Data were sampled in the context of the Research Unit ‘Reassembly’, studying a chronosequence of a rainforest ecosystem in the Chocó tropical rainforest (see ref. 47 for more ____ details).",
+          "options": {
+            "A": "explicit",
+            "B": "vague",
+            "C": "preliminary",
+            "D": "random"
+          },
+          "answer": "A",
+          "explanation": "Contextually, references are cited for more 'explicit' (detailed) information. A is the most accurate synonym for 'more details' in academic writing."
+        },
+        {
+          "q_number": 2,
+          "stem": "Both reserves consist of a ____ of actively used cacao and pasture plantations, secondary forest of varying age and primary forest.",
+          "options": {
+            "A": "fraction",
+            "B": "relic",
+            "C": "segment",
+            "D": "mosaic"
+          },
+          "answer": "D",
+          "explanation": "The text explicitly uses the term 'mosaic' to describe a mixed landscape of different land uses and forest types."
+        },
+        {
+          "q_number": 3,
+          "stem": "Forests were logged for timber industry and ____ mainly transformed into cacao plantations or pasture.",
+          "options": {
+            "A": "subsequently",
+            "B": "simultaneously",
+            "C": "temporarily",
+            "D": "rarely"
+          },
+          "answer": "A",
+          "explanation": "The timeline of deforestation followed by transformation suggests 'subsequently' (afterwards)."
+        },
+        {
+          "q_number": 4,
+          "stem": "The study design represents a chronosequence approach that ____ space for time.",
+          "options": {
+            "A": "disregards",
+            "B": "exaggerates",
+            "C": "substitutes",
+            "D": "magnifies"
+          },
+          "answer": "C",
+          "explanation": "The definition of chronosequence is the substitution of space (spatial plots of different ages) for time (long-term monitoring)."
+        },
+        {
+          "q_number": 5,
+          "stem": "This approach assumes that the plots follow similar successional trajectories and had ____ starting points.",
+          "options": {
+            "A": "divergent",
+            "B": "unknown",
+            "C": "isolated",
+            "D": "comparable"
+          },
+          "answer": "D",
+          "explanation": "Scientific validity in chronosequence studies requires that sites start from 'comparable' (similar) ecological conditions."
+        },
+        {
+          "q_number": 6,
+          "stem": "Information about previous land use and environmental conditions for each site are important and need to be representative and ____ across the successional stages.",
+          "options": {
+            "A": "biased",
+            "B": "unbiased",
+            "C": "limited",
+            "D": "subjective"
+          },
+          "answer": "B",
+          "explanation": "Data quality requires being 'unbiased' (fair/neutral) across stages to ensure the study is valid."
+        },
+        {
+          "q_number": 7,
+          "stem": "Several plots for each category were distributed over the landscape to ____ variation in forest attributes.",
+          "options": {
+            "A": "ignore",
+            "B": "exacerbate",
+            "C": "eliminate",
+            "D": "acknowledge"
+          },
+          "answer": "D",
+          "explanation": "The researchers distributed plots to 'acknowledge' (take into account/recognize) the inherent natural variations in the environment."
+        },
+        {
+          "q_number": 8,
+          "stem": "A total of 17 plots serve as old-growth forest reference and have ____ been cut nor used.",
+          "options": {
+            "A": "already",
+            "B": "partially",
+            "C": "neither",
+            "D": "frequently"
+          },
+          "answer": "C",
+          "explanation": "The syntax 'neither... nor...' is required to describe plots that remained untouched."
+        },
+        {
+          "q_number": 9,
+          "stem": "Pastures were grazed extensively by low densities of cattle and occasionally by horses and were ____ by aggressive pasture grasses.",
+          "options": {
+            "A": "dominated",
+            "B": "overlooked",
+            "C": "depleted",
+            "D": "replaced"
+          },
+          "answer": "A",
+          "explanation": "In ecological descriptions, areas covered mainly by certain species are said to be 'dominated' by them."
+        },
+        {
+          "q_number": 10,
+          "stem": "Whereas cacao plantations generally lacked shade trees, pastures had some ____ trees or palms, or shrubs along creeks.",
+          "options": {
+            "A": "absent",
+            "B": "remnant",
+            "C": "abundant",
+            "D": "native"
+          },
+          "answer": "B",
+          "explanation": "The text refers to trees that remained after land clearing as 'remnant' trees."
+        },
+        {
+          "q_number": 11,
+          "stem": "Regenerating pastures were larger than cacao plantations, ____ the study area.",
+          "options": {
+            "A": "contrary to",
+            "B": "according to",
+            "C": "regardless of",
+            "D": "due to"
+          },
+          "answer": "B",
+          "explanation": "Based on the data provided, the comparison is 'according to' (as stated by) the survey measurements."
+        },
+        {
+          "q_number": 12,
+          "stem": "We defined the similarity of species composition to old-growth forests as the mean of all ____ comparisons.",
+          "options": {
+            "A": "linear",
+            "B": "pairwise",
+            "C": "trivial",
+            "D": "sporadic"
+          },
+          "answer": "B",
+          "explanation": "Comparing each unit against others is mathematically referred to as 'pairwise' comparison."
+        },
+        {
+          "q_number": 13,
+          "stem": "Full recovery of species composition refers to the point at which the compositional similarity ____ be differentiated from the similarity among old-growth forests.",
+          "options": {
+            "A": "must",
+            "B": "should",
+            "C": "cannot",
+            "D": "ought to"
+          },
+          "answer": "C",
+          "explanation": "If a system is fully recovered, it is indistinguishable from the reference; thus, it 'cannot' be differentiated."
+        },
+        {
+          "q_number": 14,
+          "stem": "The beta-diversity Hill numbers were ____ transformed to measures of species composition similarity.",
+          "options": {
+            "A": "tentatively",
+            "B": "arbitrarily",
+            "C": "subsequently",
+            "D": "hardly"
+          },
+          "answer": "C",
+          "explanation": "The sequence of operations indicates that the transformation happens 'subsequently' (after the calculation)."
+        },
+        {
+          "q_number": 15,
+          "stem": "For Bray–Curtis similarity, species abundances were first transformed to relative abundances for increasing ____ against differences in total abundances.",
+          "options": {
+            "A": "instability",
+            "B": "sensitivity",
+            "C": "bias",
+            "D": "robustness"
+          },
+          "answer": "D",
+          "explanation": "Data transformation is usually performed to ensure 'robustness' (statistical reliability) despite variations in sample size."
+        },
+        {
+          "q_number": 16,
+          "stem": "We then extrapolated the Hill numbers to twice the observed number, as this is the value at which diversity can still be accurately ____.",
+          "options": {
+            "A": "erased",
+            "B": "ignored",
+            "C": "distorted",
+            "D": "predicted"
+          },
+          "answer": "D",
+          "explanation": "Extrapolation is a statistical technique used to 'predict' (estimate) future or unknown values."
+        },
+        {
+          "q_number": 17,
+          "stem": "These plots were ____ excluded from further analysis for these taxa.",
+          "options": {
+            "A": "nevertheless",
+            "B": "thus",
+            "C": "partially",
+            "D": "rarely"
+          },
+          "answer": "B",
+          "explanation": "The logic follows a causal link: because the value was negative, they were 'thus' (therefore) excluded."
+        },
+        {
+          "q_number": 18,
+          "stem": "Resistance measures the proportion of an ecological metric, such as species diversity, after a disturbance in ____ to its value before the disturbance.",
+          "options": {
+            "A": "relation",
+            "B": "opposition",
+            "C": "addition",
+            "D": "compliance"
+          },
+          "answer": "A",
+          "explanation": "Resistance is defined by the comparison between two states; 'in relation to' is the standard phrase."
+        },
+        {
+          "q_number": 19,
+          "stem": "This measure bounds the resistance between 0% and 100%, ____ that the active agriculture plots lost all species.",
+          "options": {
+            "A": "suggesting",
+            "B": "denying",
+            "C": "implying",
+            "D": "forgetting"
+          },
+          "answer": "C",
+          "explanation": "The text explains what a 0% value represents, which is 'implying' (signifying) a total loss."
+        },
+        {
+          "q_number": 20,
+          "stem": "We chose to use the median value as default as the median is more ____ to outliers.",
+          "options": {
+            "A": "robust",
+            "B": "vulnerable",
+            "C": "sensitive",
+            "D": "resistant"
+          },
+          "answer": "A",
+          "explanation": "Statistically, the median is preferred over the mean when data is 'robust' (resistant) to the effects of extreme outliers."
+        }
+      ]
+    },
+    {
+      "title": "Waterstones shows there is still life in the British high street",
+      "article_update_date": "04.26.2026",
+      "source_journal": "Economist",
+      "body_text": "Waterstones shows there is still life in the British high street Britain | Sound book-keeping Waterstones shows there is still life in the British high street The bookseller’s focus on traditional retailing principles has enabled it to thrive April 23rd 2026 Newport in South Wales won an unfortunate title last summer when it topped a list of British towns for the share of its shop space lying vacant: nearly a fifth. The closures on Britain’s high streets are often blamed on low footfall, because of culprits like online shopping. But on a drizzly Wednesday afternoon there is a short queue for the counter at Waterstones, a bookshop nestled between a boarded-up storefront and a branch of the British Heart Foundation, a charity shop. Newport’s plight is not unique. Britain’s town centres, with their sprouting vape shops and graffiti-covered hoardings, are often viewed as a symbol of the country’s malaise. But Waterstones is flourishing. The Newport store is one of around 300 branches in Britain. The firm reported a 7% year-on-year increase in revenue for 2025, to £565m ($765m). Things didn’t always look so rosy. By 2011, three decades after opening its first store, Waterstones was making hefty losses. That year it brought in James Daunt, an independent bookseller, to turn the business round. At the time Waterstones was preoccupied with controlling costs, says Mr Daunt, and “not really giving a monkey’s about how it presented its shops”. He began by closing nine stores and investing in those that remained (he also, sadly, removed the apostrophe from “Waterstone’s”). The staff, chosen for their love of books, are able to offer shoppers thoughtful recommendations. Mr Daunt believes in giving the teams complete control over “everything they care about”, including where titles are positioned around the shop. This can occasionally go wrong, but lends each branch a curated feel. “This is how retailing used to be and, quite frankly, should be,” says Stephen Springham of Knight Frank, a property consultancy. Local touches in Newport include a stand with “Enchanted Wales”, a book about Welsh mythology. One woman sits on a sofa with a copy of “Queen James” (about the love life of James I), next to her dozing husband, who had apparently been overwhelmed by a copy of “The Epic of Gilgamesh”, on his lap. She remembers an earlier generation of high-street bookshops, when if she pulled anything off the shelf for a read someone would soon snap, “Are you going to buy that?” Waterstones encourages browsing. Jonathan De Mello, a retail consultant, says the welcoming approach has enabled the chain to become a place for a “pit stop” on the high street, helping sustain footfall. Many of the larger shops have cafés. Waterstones has been selling online since 2001. At first it did so through a partnership with Amazon, but five years later it took the operation in-house. Mr Daunt says that the website tries to offer a “lighthearted, decent alternative” to the e-commerce giant. Buyers are sent recommendations, based on their purchases. “We have a small central team who write emails and debate books,” he says. Waterstones does not disclose the share of online revenue, but Mr Daunt says it is growing “much faster” than that from physical stores. To see how retailing can be bungled, consider a former competitor. WHSmith, a bookseller and stationer, once dominated Britain’s book trade (and owned Waterstones for most of the 1990s). But it developed a reputation for worn-out stores and unhelpful staff. A mischievous social-media account, @WHS_Carpet, posted photos of decrepit flooring in its branches. Last year, fed up with worsening performance, it sold its high-street stores to a private-equity firm, which renamed them TGJones, removing the centuries-old “Smiths” brand from British streets. Waterstones is also owned by a big investor, Elliott Management, an American hedge fund. But it was bought in very different circumstances, in 2018, after the turnaround under Mr Daunt had taken effect. A year later Elliott bought Barnes & Noble, an American bookshop chain that was struggling to keep stores open. It gave Mr Daunt the task of reviving that business too, using the same strategy and creating a similar energy. Elliott is said to be considering taking the transatlantic business public in either London or New York. The survival of bookshops wasn’t inevitable. Much of the industry seemed destined for pulping. Foyles and Blackwell’s, two iconic chains, struggled with profitability before being bought by Waterstones under the dynamic Mr Daunt. The Booksellers Association, the industry’s trade body, recorded a long decline in independent bookshops starting in 1995, which finally levelled off in 2016. In the pandemic British book-buying, to the surprise of many, rebounded strongly. NielsenIQ BookData, a market-analytics company, said a record 213m copies were sold in Britain in 2021. Sales have since slipped back, to 191m in 2025. But despite the rise of e-books and persistent fears that people are ditching reading for social media, physical book sales have survived. Pressure on high-street stores remains severe, from online competition, hefty property taxes and a sluggish economy. But Waterstones proves that sticking to what Mr Springham calls “the fundamentals of retailing” can go a long way. And it isn’t unique to bookselling. He points to Next, a mid-market clothing chain, as another example of a firm that took care of its stores and reaped the benefits. British retailers in need of an upgrade might start with investing in inviting shops, friendly staff and well-kept carpets. ■ For more expert analysis of the biggest stories in Britain, sign up to Blighty, our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//britain/2026/04/19/waterstones-shows-there-is-still-life-in-the-british-high-street",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first two paragraphs, what is the paradox of Waterstones' current status in Newport?",
+          "options": {
+            "A": "It remains empty despite the town's high demand for literature.",
+            "B": "It thrives in a struggling commercial area characterized by high vacancy rates.",
+            "C": "It faces fierce competition from the local charity shops surrounding it.",
+            "D": "It struggles to attract customers despite the revitalization of the high street."
+          },
+          "answer": "B",
+          "explanation": "文章开头提到Newport商业区空置率极高，面临困境，但随后转折指出Waterstones在这样一个地段却门庭若市，呈现出反差。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes James Daunt’s approach to revitalizing Waterstones?",
+          "options": {
+            "A": "Focusing primarily on aggressive cost-cutting and digital-first strategies.",
+            "B": "Prioritizing the standardization of store layouts to maintain global brand consistency.",
+            "C": "Empowering local staff to curate stores and creating an inviting atmosphere for browsing.",
+            "D": "Replacing traditional retail principles with a heavy reliance on e-commerce profits."
+          },
+          "answer": "C",
+          "explanation": "文章提到Daunt允许员工对店内陈列拥有控制权，鼓励浏览并营造温馨的氛围，以此提升顾客体验。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does the author mention WHSmith and its transformation into TGJones?",
+          "options": {
+            "A": "To illustrate a failed approach to retail management characterized by neglect.",
+            "B": "To highlight a successful merger between physical stores and private equity.",
+            "C": "To warn against the dangers of online shopping giants in the book market.",
+            "D": "To show how rebranding can solve systemic issues in traditional chain stores."
+          },
+          "answer": "A",
+          "explanation": "作者将WHSmith作为反面教材，指出其因为服务不佳、设施破旧导致业绩下滑，最终被私募公司收购，与Waterstones的成功形成对比。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred about the future of physical bookshops according to the passage?",
+          "options": {
+            "A": "Their decline is inevitable due to the dominance of e-books and social media.",
+            "B": "Their survival depends on constant government subsidies and tax relief.",
+            "C": "They face a market that is fundamentally hostile to traditional retail values.",
+            "D": "They can remain viable by adhering to retail fundamentals and prioritizing customer experience."
+          },
+          "answer": "D",
+          "explanation": "文章结尾强调，尽管面临线上竞争和经济压力，但Waterstones通过坚持零售基本面（如友好的店员、舒适的店铺），证明了实体书店依然有生存空间。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The phrase 'giving a monkey’s' in the context of James Daunt’s description likely implies that the management was ________.",
+          "options": {
+            "A": "highly concerned about operational details.",
+            "B": "completely indifferent to how the stores were presented.",
+            "C": "uncertain about the future of the book industry.",
+            "D": "actively seeking ways to please the customers."
+          },
+          "answer": "B",
+          "explanation": "根据上下文，Daunt对比了当时管理层只关注成本控制而忽略店铺呈现，故此处意为“不在乎”或“漠不关心”。"
+        }
+      ]
+    },
+    {
+      "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
+      "article_update_date": "06.06.2026",
+      "source_journal": "The Guardian",
+      "body_text": "An African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this week as governments across the continent met in Ghana. The draft African charter on family, sovereignty and values, seen by the Guardian, asserts that African values and culture are under attack from “foreign ideologies” and urges states to withdraw from any agreements that do not align with the principles of the charter, including the 2003 Maputo protocol, which promotes gender equality and protects the reproductive and health rights of women and girls. The charter is the first attempt to impose a continent-wide legal framework rooted in a moralistic rather than rights-based viewpoint. It claims that sexual and reproductive health and rights are an existential threat to the African family, and falsely states that policies based on these rights promote abortion on demand. The draft treaty also rejects comprehensive sex education (CSE), which it claims sexualises children; asserts that gender is either male or female; and declares that parental rights override a child’s rights, including on decisions about sexuality and discipline. African legal experts, reproductive rights groups and LGBTQ+ advocates have condemned the charter as regressive and dangerous. View image in fullscreen A mural asserting women’s rights in Freetown, Sierra Leone, where abortion is largely illegal. A bill to decriminalise abortion was blocked by religious leaders last year. Photograph: AFP/Getty Gilbert Mitullah, a Kenyan lawyer and board member at the Queer African Network, said: “It is a licence to oppose, regress on or refuse to implement existing commitments on sexual and reproductive health, and on LGBTQ rights, and to dismantle the Maputo protocol from within. That is its operational function, even before any signature is placed on it.” The charter was drawn up by a core group of African lawmakers, led by Ugandan government ministers, at the annual inter-parliamentary conference on family values and sovereignty, a controversial meeting that has become known for shaping anti-homosexuality legislation. The objective of the 2026 conference, which was held in Ghana for the first time this week and attended by representatives from 20 countries, was to advance the charter by garnering enough support to take it to the African Union general assembly next February, when it would be put to a vote. Critics say the charter’s definition of family based strictly on heterosexual marriage ignores the huge diversity of families across the continent’s 54 countries. In an extensive analysis of the draft, the Initiative for Strategic Litigation in Africa (ISLA), a pan-African feminist initiative, argues that prioritising the family over the individual “risks legitimising the subordination of women, children and adolescents to collective family interests and insulating private family relations from state accountability, especially in situations involving violence, coercion, or discrimination”. Lakshita Kanhiya, a legal officer at ISLA, said: “Women will no longer be safe; children will not be safe.” View image in fullscreen Protesters marching in Nairobi in 2023 after Kenya’s supreme court upheld the right of an LGBTQ+ rights organisation to be formally recognised. Photograph: Monicah Mwangi/Reuters Mitullah said: “‘Family values’ rhetoric does two things at once. It legitimises expanded state intrusion into private life, and it provides a vocabulary that wins votes without delivering material change.” The ISLA report also criticises the way legitimate concerns around sovereignty and colonialism are distorted. The terminology running through the charter exposes the strong influence of conservative Christian organisations from the US and Europe that oppose abortion and LGBTQ+ rights. Progressive policies are dismissed as neocolonialism or cultural imperialism. Famia Nkansa, communications lead at Purposeful, a Sierra Leone-based organisation focused on girls’ activism, said: “Anti-rights activity on the continent is simply an extension and expansion of the same colonial playbook: Africa serving as a battleground on which the west wages its ideological and economic wars.” According to the US-based international reproductive rights organisation Ipas, the annual conferences have been supported by Family Watch International, an Arizona-based Christian lobbying organisation that opposes abortion and runs an anti-CSE campaign. Sharon Slater, FWI’s co-founder, has repeatedly claimed that the UN and western donor nations are imposing a “radical sexual rights agenda”. Mitullah said: “The charter is not a continental instrument that happens to share vocabulary with western anti-rights groups. It is a transplant.” He added that the Geneva Consensus Declaration, an anti-abortion manifesto crafted by the former Trump adviser Valerie Huber, was cited in the text, describing the document as a “collaborative product of a transnational network, with African signatories used to give it the appearance of Indigenous provenance”. In a statement, FWI said it was not participating in or a sponsor of the conference in Ghana. “The draft charter is Africa-inspired, African-initiated, and African-directed and controlled,” it said, but added: “That being said, FWI strongly supports the draft charter’s restrictions on the dissemination of harmful CSE programmes in Africa, given their propensity to sexualise children. We also strongly support the provisions encouraging governments to use a family lens when developing and implementing laws, policies and programmes.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the primary objective of the draft African charter on family, sovereignty and values is to:",
+          "options": {
+            "A": "Promote the implementation of the 2003 Maputo protocol across Africa.",
+            "B": "Replace rights-based international agreements with a framework based on moralistic viewpoints.",
+            "C": "Enhance the reproductive and health rights of women and girls in Ghana.",
+            "D": "Strengthen the influence of the United Nations on African family policy."
+          },
+          "answer": "B",
+          "explanation": "文章指出该宪章是试图确立一个植根于道德观而非权利观的跨大陆法律框架，并敦促各国撤出与该宪章原则不一致的协议，明确包括Maputo协议。因此B项符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the main criticism raised by legal experts regarding the charter’s definition of 'family'?",
+          "options": {
+            "A": "It is too broad and fails to distinguish between different types of households.",
+            "B": "It relies too heavily on secular, western-imported legal terminology.",
+            "C": "It ignores the diverse forms of family structures existing across the continent.",
+            "D": "It provides too much autonomy to individual members within the family unit."
+          },
+          "answer": "C",
+          "explanation": "文中提到批评者认为该宪章基于异性婚姻的严格家庭定义，忽视了非洲54个国家中家庭的巨大多样性。故选C。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author quotes Gilbert Mitullah to suggest that the charter's real intent is to:",
+          "options": {
+            "A": "Create a new platform for debating African cultural identity.",
+            "B": "Protect children from the negative impacts of comprehensive sex education.",
+            "C": "Dismantle existing commitments to sexual rights and LGBTQ equality.",
+            "D": "Foster a stronger alliance between African lawmakers and US political figures."
+          },
+          "answer": "C",
+          "explanation": "Mitullah指出该宪章的操作职能是反对、倒退或拒绝履行关于性健康和LGBTQ权利的既有承诺，并从内部瓦解Maputo协议。故选C。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase 'the same colonial playbook' in the passage imply about anti-rights activity in Africa?",
+          "options": {
+            "A": "It is a deliberate strategy to reclaim traditional African values from foreign influence.",
+            "B": "It reflects the influence of external ideological wars being fought on African soil.",
+            "C": "It proves that African lawmakers are successfully resisting western neocolonialism.",
+            "D": "It is a localized movement independent of global conservative Christian networks."
+          },
+          "answer": "B",
+          "explanation": "文中引用Famia Nkansa的话，将反权利活动描述为“殖民剧本”的延伸，指出非洲成为了西方进行意识形态和经济战争的战场。这表明该活动受制于外部意识形态斗争。故选B。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The author uses the term 'transplant' in the context of the charter to imply that:",
+          "options": {
+            "A": "The charter was originally drafted by African experts but later edited by western donors.",
+            "B": "The charter’s contents are essentially external ideologies disguised as Indigenous initiatives.",
+            "C": "The charter is a temporary solution that will eventually be replaced by local laws.",
+            "D": "The charter is a hybrid document combining western values with indigenous traditions."
+          },
+          "answer": "B",
+          "explanation": "Mitullah称该宪章不是仅仅与西方反权利组织共享词汇，而是一个“移植”（transplant），并且文中提到其引用了美籍人士起草的宣言，通过非洲签署者赋予其所谓的“本土来源”假象。因此它本质上是外来的。故选B。"
+        }
+      ]
+    },
+    {
+      "title": "Pause",
+      "article_update_date": "04.06.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Currie Engel The Big Story Feb 4, 2026 6:00 AM Why Are Some Women Training for Pregnancy Like It’s a Marathon? A growing legion of “zero trimester” influencers are convincing followers that healthy pregnancies are a choice—and that raw milk, watching sunsets, and pricey specialized courses can help. Play/Pause Button Pause Animation: Georgia Pedley; Getty Images Three years ago, Esther Rohr and her husband decided to start thinking about pregnancy. The 26-year-old Oregon-based wedding photographer made small but intentional lifestyle changes—going to bed earlier, drinking more water and less alcohol, dialing in her fitness, loading up on protein, and taking supplements like beef organ capsules and Vitamin D3. They started charging their phones in the kitchen for better sleep and unplugging their Wi-Fi at night, because her research suggested it might affect cellular health. Concerned about their exposure to reproductive toxins, Rohr began the slow, painstaking task of swapping out all their synthetic workout clothes, nonstick pans, and scented personal care products that might contain phthalates or other endocrine-disrupting chemicals. She bought an air purifier and hopes to eventually replace their LED bulbs with incandescents, because she worries they might be affecting her circadian rhythm. Rohr has never tried to conceive before. To her knowledge, she doesn’t have any health problems that would make it difficult. But nonetheless, she’s dedicated to optimizing her health to give their baby the “best chance at a healthy start in life.” Learning from accounts like @vitallymelanie , and @innate_fertility , what began as a curious interest in “crunchy, healthy, fitness, baby mama” content turned into a timeline filled with guidance for easy, breezy, positive pregnancies—and the tools she should use to get there. One of the accounts recommended reading 9 Months Is Not Enough , a book premised around the idea that women are plagued by a “fertility gap,” but not to worry because “you can do something about it.” That resonated with Rohr. After changing her house and her habits, Rohr also decided to go through extra hormone testing and a controversial OligoScan, which measures minerals and heavy metals in your body through a light-frequency-based hand scan. For the next year, she tried to lower the levels of mercury that showed up. Rohr and her husband completed two rounds of Dr. Daniel Pompa’s “cellular healing diet,” essentially a keto diet, and taking six to eight supplements each day. “It was a brutal, brutal year,” Rohr says. But it was all for a greater purpose. “I need to be focused on giving my body building blocks. Because right now, it's a huge, pivotal time to be giving it what it needs.” In late December of last year, after three years of preparation, Rohr finally feels like she’s on the precipice of being “ready.” Courtesy of Esther Rohr @picklewgrillchz The cultural obsession with wellness and optimization, which is currently driven and designed by male biohackers like Bryan Johnson and Peter Attia , has come for this murky preconception period, coined “the zero trimester” by sociologist Miranda Waggoner in her 2017 book by the same name. Women have started training for pregnancy “like it’s a marathon,” as influencer Kaylie Stewart announced to her 1 million TikTok followers last fall. After all, if you spend months planning a wedding, some influencers point out, why wouldn’t you do the same for a baby? A growing group of influencers and holistic women’s health experts, doctors, life coaches, and nutritionists are posting content that speaks to the “Trying to Conceive” (TTC) demographic—including women who are struggling to conceive and those who haven’t started yet. The concept is simple: If you follow this wellness formula, you will set yourself up for the quickest conception, the easiest pregnancy, and the healthiest child. Pregnancy, these accounts argue, doesn’t have to be traumatic. You get to be in the driver’s seat. And what mom-to-be wouldn’t want that? These days, #preconception appears in 106,000 Instagram posts and #pregnancyprep in 36,000. Singular TikTok “prep” videos rack up tens of thousands—sometimes millions—of views and likes. “Pregnancy Prep” influencers post curated lists , aesthetic vlogs, and GRWM TikToks filled with glowing, happy women. They suggest a litany of lifestyle changes, niche products, books, courses, and “quick” tips and tricks to follow in the 6 to 12 months before getting pregnant. “Healthy pregnancy isn’t chance—it’s choice,” is a favorite line of Alexandra Radway, 29, a functional nutritional therapy practitioner who has been posting pregnancy prep content on her Instagram account, @alexandraradway, since 2021. Unsurprisingly, much of this content asks women to buy products and programs. From brazil nuts for “egg health” and grass-fed butter, to prenatal vitamins, pelvic floor Pilates, and nontoxic pans, the prepregnancy changeups and swap-outs offered up on social media seem never-ending. Some are basic, and others, more unconventional. One of Radway’s favorite tips is to watch the sun rise. “It's the equivalent of, like, 2,500 Brazil nuts of antioxidants,” she says. “Everyone's focusing on super foods. I'm like, ‘No, super sunrise.’” Courtesy of Alexandra Radway @alexandraradway Radway’s advice may sound woo-woo, but preconception health has been around since the beginning of time. Ancient cultures, like the Spartans , encouraged “maidens” to “exercise themselves with wrestling, running, throwing the quoit, and casting the dart” so that “the fruit they conceived might … take firmer root and find better growth.” For millennia, traditional Chinese medicine and Ayurveda have sought to boost fertility through diet, panchakarma, and acupuncture. There are even Biblical passages encouraging sobriety before conception. In Western medicine, several governing medical bodies, including the American College of Obstetricians and Gynecologists, published the first guidelines for perinatal care in 1983, stating that “preparation for parenthood should begin prior to conception.” It wasn’t until the early ’90s that doctors started recommending folic acid use before and during pregnancy to prevent neural tube defects. Social media, it seems, has turbo-charged preconception health from a quick pharmacy stop for prenatals to a full blown industry. In 2019, a study from Harvard went viral because it suggested that, metabolically, carrying a baby was the equivalent to running more than a dozen marathons. Cut to 2025, and “pregnancy prep” accounts have their own vibrant ecosystem. Women seemed to recognize, “Hey, I have to sign up to run a marathon every single day, maybe I want to train for that,” says Radway. “I would want to be in shape and be well nourished and maybe have a coach and be prepared.” Radway started posting on Instagram after a difficult first pregnancy led her to get a degree in functional nutritional therapy, which emphasizes holistic dietary and lifestyle changes to address root causes of health issues. As a result, she says that her second pregnancy was a complete 180 from her first. And she felt a “divine calling” to share what she learned with other women. “To me that was the most pressing problem in the world, and I felt like I was uniquely positioned to solve it.” The current fixation on optimizing this fragile, sensitive zero trimester arrives at a moment when the average woman is having children three years later than their mothers did—if they have them at all. Though there is an emerging discussion around declining sperm counts thanks to a pivotal study in 2017 —spawning a sperm-obsessed optimization movement —the latest stats suggest one in five women will experience infertility. And the burden of infertility, historically, has always fallen on women , even though this new data reveals a more complex reality. Unsurprisingly, one recent report suggests nearly three-quarters of Gen Z have fertility anxiety. The generation grew up with unlimited access to information about the ups and downs of conception and pregnancy, including infertility tell-alls and Girl Boss “Why I froze my eggs” articles ; wearables that track macros, movement, and menstrual cycles; and a MAHA movement that has stoked fears about environmental toxins and falsely promotes the idea that moms taking Tylenol might give their babies autism and ADHD. Pair all of this with the extreme rollback of America’s reproductive rights since Roe’s fall in 2022 ( 17 states either have a total abortion ban or make it illegal after six weeks, making it difficult to get life-saving care) and you have fertile soil for a pregnancy prep fixation to take root. In response, younger generations are saying: “I ought to be able to have a pregnancy which is healthy and safe and happy, and I ought to get the support I need to be able to do that,” explains Lara Freidenfelds , a historian and author of The Myth of the Perfect Pregnancy: A History of Miscarriage in America . “We're just a bit tired of it,” says UK-based Sophie Payne, 33, of women not getting helpful answers about their health issues. At 27, Payne was diagnosed with premature ovarian failure and struggled to conceive. In 2022, she suffered multiple miscarriages. While there’s no “one thing” that helped her conceive in 2023, she believes that working with functional health professionals to change up her diet and lifestyle helped. Payne started a holistic pregnancy prep Instagram account called Curious_Clementine with her sister in early 2024. “Sadly, when it comes to getting pregnant, we're not really told what to do, how to do that, and how to go into it in the best possible health for us, but also for our future children.” Courtesy of Jessica and Sophie Payne @curious__clementine In the not-so-distant past, moms-to-be would have been taught about pregnancy and childbirth from elders and other women in their community. These days, they live in an increasingly isolated world, often far from grandparents and mothers. They try their best to figure things out as they go—and often social media is their greatest mentor. From the Paynes’ view, more women want to take control of their health, which is one big element driving this trend. “They want to do their own research and do what they can to feel their best,” Payne says. The sisters estimate about half of the women who reach out to them have struggled to get pregnant or had a miscarriage and are looking for simple lifestyle tweaks that could help. After all, a few nutritional swaps and supplements cost a lot less than IUI or IVF. Rohr, as one of 10 children with 29 nieces and nephews , has watched countless family members and friends navigate hard pregnancies. In response, she’s determined to have a positive, empowering one. “I always thought having a baby was, like, the least casual thing ever,” she says. “It just seems like this life-changing thing that I wanted to be super, super sure about.” Doctors say that, in general, all this new attention surrounding the “zero trimester” is a very positive, exciting development. Healthy moms usually spell better outcomes for mom and baby. Currently, the American College of Obstetricians and Gynecologists recommend doctors ask patients of reproductive age if they plan to get pregnant within the year during checkups. “There's so many things that we can do to optimize underlying health in that preconception year that will make outcomes in pregnancy better,” says Natalie Clark Stentz, an ob-gyn and reproductive endocrinologist and infertility specialist at Michigan Medicine. This is especially true if you have a chronic health condition, like diabetes, hypertension, depression, or a thyroid disease, that needs to be managed and monitored during pregnancy. At the same time, that “prep” should be expert-vetted and backed by science, and it usually doesn’t involve the TikTok Shop. A doctor’s preconception toolbox is much simpler than what you might see online, and really hasn’t changed much in decades: ensure vaccinations are up to date, avoid alcohol, stop smoking and taking drugs, start a prenatal vitamin with folic acid to prevent neural tube defects at least a month before getting pregnant, and go through any prescription medications and supplements with your doctor. Only 5 percent of the preconception nutritional claims on social media reviewed in a 2025 study were referred to",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the article, what is the primary motivation for women engaging in the \"zero trimester\" trend?",
+          "options": {
+            "A": "To demonstrate their adherence to traditional medical advice from mainstream doctors.",
+            "B": "To regain agency and ensure the best possible start for their children through proactive optimization.",
+            "C": "To avoid the financial burden associated with modern fertility treatments like IVF.",
+            "D": "To conform to the pressures exerted by male biohackers like Bryan Johnson."
+          },
+          "answer": "B",
+          "explanation": "The text highlights that influencers and women are motivated by the desire to be in the 'driver's seat' regarding their pregnancies, viewing them as a project to be optimized for the 'best chance at a healthy start in life,' which signifies reclaiming agency."
+        },
+        {
+          "q_number": 2,
+          "stem": "The author mentions the Spartan culture and traditional Chinese medicine to illustrate that:",
+          "options": {
+            "A": "Modern pregnancy influencers are simply rediscovering ancient, scientifically-backed practices.",
+            "B": "The current fixation on the \"zero trimester\" is essentially an unprecedented cultural invention.",
+            "C": "The practice of preparing for conception is not a new concept, despite its current digital manifestation.",
+            "D": "Social media has merely commodified practices that were once considered strictly private and communal."
+          },
+          "answer": "C",
+          "explanation": "The text notes that 'preconception health has been around since the beginning of time,' using these historical examples to show that the focus on preparing for pregnancy is a long-standing human endeavor, not a brand-new phenomenon."
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the phrase \"getting into the driver's seat\" (Paragraph 9) imply in the context of the article?",
+          "options": {
+            "A": "Taking control of one's fertility journey by utilizing curated wellness strategies.",
+            "B": "Reducing the influence of medical institutions on personal health decisions.",
+            "C": "Prioritizing the mother's physical comfort over the developmental needs of the fetus.",
+            "D": "Navigating the complex and often traumatic history of reproductive rights in America."
+          },
+          "answer": "A",
+          "explanation": "The context suggests that by following the 'wellness formula' recommended by influencers, women feel they can control the outcome of their pregnancy, moving from being passive participants to being in control (the driver's seat)."
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the author characterize the role of social media in the \"zero trimester\" movement?",
+          "options": {
+            "A": "As a reliable educational platform that fills the gap left by disappearing community elders.",
+            "B": "As a mechanism that has commercialized and accelerated a latent health trend into a full-blown industry.",
+            "C": "As a predominantly negative force that promotes false medical claims and fear-mongering.",
+            "D": "As an essential tool for doctors to reach patients who are struggling with infertility."
+          },
+          "answer": "B",
+          "explanation": "The text states that social media has 'turbo-charged' preconception health, turning it from a simple pharmacy visit into a 'full blown industry' characterized by curated content, products, and commercial interests."
+        },
+        {
+          "q_number": 5,
+          "stem": "According to the medical experts cited in the text, what is the limitation of the current \"pregnancy prep\" trend?",
+          "options": {
+            "A": "It lacks the scientific backing that professional medical guidelines provide.",
+            "B": "It focuses too much on chronic conditions like diabetes and hypertension.",
+            "C": "It is too expensive for the average woman to implement consistently.",
+            "D": "It encourages women to rely too heavily on their doctors rather than personal research."
+          },
+          "answer": "A",
+          "explanation": "Doctors emphasize that while preparation is positive, it should be 'expert-vetted and backed by science,' implying that much of the online 'prep' content lacks this rigorous scientific validity."
+        }
+      ]
+    }
+  ]
+}
