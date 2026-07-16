@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.16.2026",
+  "papers": [
+    {
+      "title": "Could this mysterious disappearing organ hold the key to longevity?",
+      "article_update_date": "07.14.2026",
+      "source_journal": "Nature",
+      "body_text": "In 1996, cryobiologist Gregory Fahy walked into his physician’s office and talked his way into a month’s supply of growth hormone. His hope, bolstered by a single study in rats1, was that the injections would help him to regrow his thymus — a peculiar immune organ that atrophies and practically disappears as people age. Regenerating it, Fahy thought, would help him to live a longer, healthier life. Tech titans are hacking their bodies for a longer life: is there science behind their methods? The improvement was obvious, at least according to magnetic resonance imaging (MRI) scans, Fahy says. His functional thymic mass nearly doubled2. Whether it made him feel any younger, however, was less clear. “I was only 46 at the time, and more or less in peak health,” he says, although subsequent attempts to regrow the tissue left him feeling “energized and invincible”. What started as an unregulated self-experiment has developed into a series of small clinical trials run by a biopharmaceutical company called Intervene Immune in Torrance, California, at which Fahy is chief scientific officer. The company is not alone. An explosion of thymus research has taken place over the past three years, stimulated by reports in the literature that the health of the organ, once thought dispensable, is a probable indicator of a person’s overall health. Excitement intensified when a pair of studies published this year reported that dwindling thymic health correlates with an increased risk of death3,4. Investors are responding. In January, a biotechnology company in Basel, Switzerland, called TECregen raised 10 million Swiss francs (US$12.4 million) to develop therapies to regenerate the thymus, which might help to slow ageing and prevent cancer, according to the company’s website. It has not disclosed a drug candidate. Last October, Zag Bio, a thymus-focused biotech firm in Cambridge, Massachusetts, launched with $80 million in funding. Venture-capital and pharmaceutical companies have been reaching out to Fahy and other scientists and starting their own research programmes. “The interest now in this field is enormous,” says Marcel van den Brink, chief physician and president of City of Hope, a cancer hospital and research centre in Duarte, California, who has studied the thymus since 1996. There was a “huge perception that I was wasting my time”, he says. But now, “people are contacting us” and taking the field seriously. (van den Brink is a scientific co-founder of a biotech company called Thymofox in Cambridge, Massachusetts.) Forgotten organ For decades, people thought that the thymus was vestigial. It has been “forgotten” and “disrespected”, says Georg Holländer, an immunologist at the University of Oxford, UK, who is a co-founder of TECregen. In the 1920s, some researchers thought that the organ was involved in producing eggshells in birds but had limited roles in mammals. Decades later, Nobel-prizewinning biologist Peter Medawar referred to the thymus as “an evolutionary accident of no very great significance”. How your brain controls ageing — and why zombie cells could be key They were wrong. The organ’s importance had escaped scientists for so long in part because mammals that have their thymuses surgically removed seem to be perfectly healthy. It wasn’t until the 1960s, when immunologist Jacques Miller performed the surgeries on newborn mice, that the function of the organ was discovered5. Infant mice without a thymus often succumbed to infection and died. They had few immune cells in their lymph nodes. Miller found that the thymus creates T cells, a cell type that he also identified around the same time and which is named after the organ. T cells, we now know, are a crucial part of the immune system that attacks cancer cells and fights infections. In humans, the thymus shrinks drastically over a person’s lifetime. After puberty, most of its cells turn into non-functional fatty tissue. The production of T cells slows. At age 40, the thymus produces roughly one-quarter of the T cells it did at age 8. At 65, it makes just 10%6. Focus on function For this reason, many scientists assumed that fresh T cells were no longer needed for older individuals. “People are under the impression that it’s only important to make your T cells when you’re young,” says Jennifer Cowan, an immunologist at University College London. “And that’s just quite clearly not the case.” Three discoveries changed that paradigm. First, a 2023 study found that people who had their thymus surgically removed were almost three times more likely to die and twice as likely to develop a cancer five years after the surgery than were people who had not had their thymus removed7. “It was very striking,” Cowan says, “to the point where people aren’t going to want to have their thymus removed if they’ve read that paper.” Then, in March, two back-to-back studies collectively analysed data from more than 31,000 individuals and extended the findings to people with intact thymuses that had naturally withered with age. One found that a smaller thymus correlates with a higher risk of death as well as a higher risk of developing cancer and cardiovascular diseases such as heart failure3. The second found that a smaller thymus is linked to worse survival after receiving immunotherapy for cancer4. Some scientists point out that the studies only offer correlations. “When you’re looking retrospectively, there’s a lot of pieces of the puzzle that are just not knowable,” says Daniel Boffa, a thoracic surgeon at Yale University in New Haven, Connecticut. He and his colleagues performed a study that found little difference in the risk for recurring tumours among people who had all or part of their thymus removed to treat thymic cancer8. Nevertheless, commercial and academic interest in the thymus has surged. “Regrowth has become a big issue,” says Yousuke Takahama, a developmental biologist at the US National Cancer Institute in Bethesda, Maryland. “Just like rebooting your computer, it’s like rebooting our immune system.”",
+      "difficulty_constant": 8.4,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "In 1996, cryobiologist Gregory Fahy ____ his physician’s office and talked his way into a month’s supply of growth hormone.",
+          "options": {
+            "A": "approached",
+            "B": "visited",
+            "C": "walked into",
+            "D": "entered"
+          },
+          "answer": "C",
+          "explanation": "Contextual usage: 'walked into' is directly supported by the text as the phrasal verb used to describe his arrival."
+        },
+        {
+          "q_number": 2,
+          "stem": "His hope, ____ by a single study in rats, was that the injections would help him to regrow his thymus.",
+          "options": {
+            "A": "bolstered",
+            "B": "supported",
+            "C": "backed",
+            "D": "reinforced"
+          },
+          "answer": "A",
+          "explanation": "The text explicitly uses 'bolstered' to describe the motivation provided by the study."
+        },
+        {
+          "q_number": 3,
+          "stem": "The improvement was ____, at least according to magnetic resonance imaging (MRI) scans, Fahy says.",
+          "options": {
+            "A": "noticeable",
+            "B": "evident",
+            "C": "obvious",
+            "D": "apparent"
+          },
+          "answer": "C",
+          "explanation": "The source text directly states 'The improvement was obvious'."
+        },
+        {
+          "q_number": 4,
+          "stem": "Whether it made him feel any younger, ____, was less clear.",
+          "options": {
+            "A": "however",
+            "B": "nevertheless",
+            "C": "consequently",
+            "D": "furthermore"
+          },
+          "answer": "A",
+          "explanation": "The word 'however' is used in the original text to contrast the MRI results with his subjective feeling."
+        },
+        {
+          "q_number": 5,
+          "stem": "What started as an unregulated self-experiment has developed into a series of small clinical trials ____ by a biopharmaceutical company.",
+          "options": {
+            "A": "conducted",
+            "B": "run",
+            "C": "managed",
+            "D": "organized"
+          },
+          "answer": "B",
+          "explanation": "The text uses 'run by a biopharmaceutical company' to describe the management of the trials."
+        },
+        {
+          "q_number": 6,
+          "stem": "An explosion of thymus research has taken place over the past three years, ____ by reports in the literature.",
+          "options": {
+            "A": "stimulated",
+            "B": "provoked",
+            "C": "encouraged",
+            "D": "motivated"
+          },
+          "answer": "A",
+          "explanation": "The text explicitly uses 'stimulated by reports' to explain the rise in research."
+        },
+        {
+          "q_number": 7,
+          "stem": "Excitement ____ when a pair of studies published this year reported that dwindling thymic health correlates with an increased risk of death.",
+          "options": {
+            "A": "increased",
+            "B": "intensified",
+            "C": "grew",
+            "D": "expanded"
+          },
+          "answer": "B",
+          "explanation": "The text uses 'Excitement intensified' to describe the reaction to new studies."
+        },
+        {
+          "q_number": 8,
+          "stem": "It has not ____ a drug candidate.",
+          "options": {
+            "A": "revealed",
+            "B": "disclosed",
+            "C": "announced",
+            "D": "published"
+          },
+          "answer": "B",
+          "explanation": "The text uses the specific term 'disclosed' in the context of company information."
+        },
+        {
+          "q_number": 9,
+          "stem": "Venture-capital and pharmaceutical companies have been ____ out to Fahy and other scientists.",
+          "options": {
+            "A": "reaching",
+            "B": "contacting",
+            "C": "seeking",
+            "D": "calling"
+          },
+          "answer": "A",
+          "explanation": "The phrase 'reaching out to' is a standard English collocation used in the text."
+        },
+        {
+          "q_number": 10,
+          "stem": "There was a “huge ____ that I was wasting my time”, he says.",
+          "options": {
+            "A": "belief",
+            "B": "opinion",
+            "C": "perception",
+            "D": "notion"
+          },
+          "answer": "C",
+          "explanation": "The text specifically mentions 'huge perception' regarding his work."
+        },
+        {
+          "q_number": 11,
+          "stem": "For decades, people thought that the thymus was ____.",
+          "options": {
+            "A": "obsolete",
+            "B": "useless",
+            "C": "redundant",
+            "D": "vestigial"
+          },
+          "answer": "D",
+          "explanation": "The text uses the scientific term 'vestigial' to describe historical views of the thymus."
+        },
+        {
+          "q_number": 12,
+          "stem": "It has been “forgotten” and “____”, says Georg Holländer.",
+          "options": {
+            "A": "ignored",
+            "B": "disregarded",
+            "C": "overlooked",
+            "D": "disrespected"
+          },
+          "answer": "D",
+          "explanation": "The text explicitly uses the word 'disrespected' in the quote."
+        },
+        {
+          "q_number": 13,
+          "stem": "Peter Medawar referred to the thymus as “an evolutionary accident of no very great ____”.",
+          "options": {
+            "A": "significance",
+            "B": "meaning",
+            "C": "consequence",
+            "D": "importance"
+          },
+          "answer": "A",
+          "explanation": "The quote provided in the text uses the word 'significance'."
+        },
+        {
+          "q_number": 14,
+          "stem": "Infant mice without a thymus often ____ to infection and died.",
+          "options": {
+            "A": "yielded",
+            "B": "gave in",
+            "C": "succumbed",
+            "D": "submitted"
+          },
+          "answer": "C",
+          "explanation": "The text uses the term 'succumbed to infection'."
+        },
+        {
+          "q_number": 15,
+          "stem": "In humans, the thymus shrinks ____ over a person’s lifetime.",
+          "options": {
+            "A": "greatly",
+            "B": "substantially",
+            "C": "severely",
+            "D": "drastically"
+          },
+          "answer": "D",
+          "explanation": "The text uses 'shrinks drastically' to describe thymic atrophy."
+        },
+        {
+          "q_number": 16,
+          "stem": "“People are under the ____ that it’s only important to make your T cells when you’re young,” says Jennifer Cowan.",
+          "options": {
+            "A": "belief",
+            "B": "impression",
+            "C": "assumption",
+            "D": "conviction"
+          },
+          "answer": "B",
+          "explanation": "The text uses the phrase 'under the impression' to describe a common misconception."
+        },
+        {
+          "q_number": 17,
+          "stem": "Three discoveries changed that ____.",
+          "options": {
+            "A": "model",
+            "B": "notion",
+            "C": "theory",
+            "D": "paradigm"
+          },
+          "answer": "D",
+          "explanation": "The text uses 'paradigm' in the context of shifting scientific understanding."
+        },
+        {
+          "q_number": 18,
+          "stem": "“It was very ____,” Cowan says, “to the point where people aren’t going to want to have their thymus removed.”",
+          "options": {
+            "A": "alarming",
+            "B": "shocking",
+            "C": "striking",
+            "D": "compelling"
+          },
+          "answer": "C",
+          "explanation": "The text explicitly uses the word 'striking' to describe the findings."
+        },
+        {
+          "q_number": 19,
+          "stem": "“When you’re looking ____, there’s a lot of pieces of the puzzle that are just not knowable.”",
+          "options": {
+            "A": "hindsight",
+            "B": "previously",
+            "C": "inwardly",
+            "D": "retrospectively"
+          },
+          "answer": "D",
+          "explanation": "The expert uses the term 'retrospectively' to describe looking back at study data."
+        },
+        {
+          "q_number": 20,
+          "stem": "“Just like rebooting your computer, it’s like ____ our immune system.”",
+          "options": {
+            "A": "resetting",
+            "B": "rebooting",
+            "C": "restarting",
+            "D": "restoring"
+          },
+          "answer": "B",
+          "explanation": "The text uses 'rebooting' as a direct analogy for the immune system."
+        }
+      ]
+    },
+    {
+      "title": "Belfast’s murals are an open-air gallery of history and art",
+      "article_update_date": "05.10.2026",
+      "source_journal": "Economist",
+      "body_text": "Belfast’s murals are an open-air gallery of history and art Britain | Troubles and light Belfast’s murals are an open-air gallery of history and art And the walls are suddenly changing May 7th 2026 For years in Northern Ireland, walls have talked through words and images. Even after the Good Friday Agreement of 1998 brought an end to the three decades of sectarian strife known as the Troubles, what walls said could be deadly. When “Eamon Collins: British Agent 1985-1999” was scrawled on a gable in Newry, the person named, a former Irish Republican Army (IRA) man, painted over it, but to no avail. Hours later he was butchered nearby, the anti-British terror group gouging out his face in what police described as “the act of primitive cavemen”. Other wall art lauded sectarian killers, or proclaimed the name of a terror group to mark out its territory. The state’s inability to remove such open homage to illegal organisations made public its weakness. Lots of these murals endure. But their number diminishes with each passing year. Research by four academics—Dylan O’Driscoll, Birte Vogel, Eric Lepp and Dan Morecroft-Rice—found that in the quarter-century since 1998 three-quarters of the most intimidatory murals in the loyalist Shankill area have gone. David Campbell is chairman of the Loyalist Communities Council, an outfit whose complexity reflects that of Northern Ireland: it is legal, but made up of banned paramilitary groups. Mr Campbell, who is not a paramilitary, says of the balaclava-laden imagery: “Some of it artistically is horrible, quite apart from the message it conveys.” He says loyalist commanders broadly support removing militaristic murals as they degrade over time. Newer murals in these areas have commemorated Queen Elizabeth II and King Charles III. Mr Campbell hopes all of the most offensive murals might go within five years. Not everyone agrees. In 2024 a storm toppled a wall in north Belfast’s Mount Vernon estate, an Ulster Volunteer Force stronghold. The wall had long been host to an infamous gargantuan threat: two balaclava-wearing gunmen aiming rifles along with the slogan “Prepared for peace; Ready for war”. Within months, the wall had been rebuilt and the mural repainted. This can be a negotiating tactic. “Conflict transformation” has become a lucrative industry. Millions of pounds are available from multiple funds. If an area does not seem to be at risk of conflict, it is unlikely to bag as much cash, some of which finds its ways to paramilitaries or their cronies. Newton Emerson, an acerbic writer from Belfast, once referred to a summer riot in east Belfast as “a grant application”. Lonely Planet, a travel guide, recommends the murals as a free attraction in Northern Ireland’s capital. Tourists flock to Belfast’s Troubles wall art, from the slick iconography commemorating the most famous IRA hunger striker, Bobby Sands, to the Ulster Defence Association’s stark territorial markers at “Freedom Corner”. Some locals believe removing all Troubles murals would be a mistake. Just as people want to go to see concentration camps or battlefields, macabre history has appeal. Ben Lowry, editor of the News Letter, a Belfast-based daily, says that after the Troubles he showed murals to American visitors, one of whom returned the following year with a friend. They were disappointed to find the murals painted over. While Mr Lowry has no sympathy for paramilitaries, he says: “We need to find a way to preserve the best of them where there is local support for such history.” Murals need not be dark to attract. In recent years Belfast has been bedecked with spectacular non-sectarian ones: artistic images, floral studies and even a poignantly hopeful tribute to Lyra McKee, a journalist murdered by dissident republicans in 2019. To wander around the centre of Belfast is to encounter breathtaking images, from duelling men to animals—so many that there’s an app to guide you. In an annual street-art festival at the start of May more than 50 muralists were let loose on (approved) walls across Belfast. Some of the most dramatic new murals are the work of Dan Kitchener, an artist from Essex in England. For nearly two decades his full-time job has been turning walls into canvasses. He has worked everywhere from Australia to Kazakhstan but says Belfast has been the most welcoming place to paint. His Belfast work is optimistic and apolitical. One depicts Belfast’s Ormeau Bridge at sunset, full of saturated colours which transform a road bridge into a work of wonder. Mr Kitchener sees this as an open-air gallery for those who would never enter a building filled with watercolours and ornate frames. Standing in front of a blank wall before sketching an outline is daunting even for someone who’s been doing it for years. Mr Kitchener likens it to running a marathon (which he also does). As with marathons, “the mainstream now has embraced it, so there’s more desire for it commercially.” But new beauty can’t entirely hide a past still recent and raw. One glaring omission from Northern Ireland’s tourism offering is a museum of the Troubles, meaning most tourists get far more partisan tellings of the violence by guides, some of whom were themselves paramilitaries. Political disagreement has prevented such a museum. It could be a place where horrific murals conveyed what previous generations lived through, and the barbarism of the Troubles. For the mural-painters of old, however, painting over commemorations of the killers might be a more attractive proposition than facing up to what their heroes did. ■ For more expert analysis of the biggest stories in Britain, sign up to Blighty, our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//interactive/britain/2026/05/07/belfasts-murals-are-an-open-air-gallery-of-history-and-art",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, the murals in Belfast have historically served as a means to:",
+          "options": {
+            "A": "promote the city's tourism industry to foreign visitors.",
+            "B": "document the artistic evolution of Northern Ireland's painters.",
+            "C": "assert territorial control and convey intimidating political messages.",
+            "D": "commemorate the peace process following the Good Friday Agreement."
+          },
+          "answer": "C",
+          "explanation": "文章第一段和第二段提到，过去的一些墙画旨在标记恐怖组织的领地、赞美教派杀手，甚至是发出致命威胁（如提及Eamon Collins的案例），因此这些壁画主要用于宣示领地和政治威慑。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by quoting Newton Emerson’s description of a riot as “a grant application”?",
+          "options": {
+            "A": "Riots are often staged to secure public funding for local areas.",
+            "B": "The government uses grants to suppress violent outbreaks.",
+            "C": "Travel guides incentivize local residents to create more art.",
+            "D": "Political activists rely on riots to gain media attention."
+          },
+          "answer": "A",
+          "explanation": "文中提到“Conflict transformation”成为有利可图的行业，且资金充裕。Newton Emerson的评价暗示了一些暴力事件（骚乱）实际上是为了向政府申请资金的手段，即通过制造风险来换取拨款。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author mentions the reconstruction of a mural in the Mount Vernon estate to illustrate that:",
+          "options": {
+            "A": "local authorities are indifferent to the maintenance of murals.",
+            "B": "the removal of offensive murals faces persistent resistance.",
+            "C": "tourism demand often dictates which murals are preserved.",
+            "D": "new artistic techniques have improved the quality of wall art."
+          },
+          "answer": "B",
+          "explanation": "Mount Vernon estate的案例中，一面带有威胁性壁画的墙倒塌后，很快又被重建并重新画上了同样内容的壁画。这说明尽管有人希望清除冒犯性壁画，但在某些势力范围内，这种清除行为遭到了持续的阻碍。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to Ben Lowry, the dilemma regarding the preservation of Troubles-era murals is that:",
+          "options": {
+            "A": "they are too expensive for the local government to maintain.",
+            "B": "they attract too many tourists who are insensitive to the past.",
+            "C": "there is a need to balance historical memory with political sensitivity.",
+            "D": "paramilitary groups refuse to let their history be displayed in museums."
+          },
+          "answer": "C",
+          "explanation": "Ben Lowry认为人们希望看到这些历史痕迹，就像参观战场一样。他主张在有当地支持的情况下寻找方式保存其中最好的部分，体现了如何在铭记惨痛历史与处理政治敏感性之间寻找平衡。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's final stance regarding the treatment of Belfast's complex history?",
+          "options": {
+            "A": "Replacing murals with modern art is the only way to move forward.",
+            "B": "Current tourism practices are sufficient to educate visitors.",
+            "C": "The absence of a formal museum limits the objective understanding of the past.",
+            "D": "Murals should be strictly controlled to prevent the glorification of violence."
+          },
+          "answer": "C",
+          "explanation": "文章结尾提到北爱尔兰缺乏Troubles纪念馆，导致游客只能通过带偏见的向导了解暴力历史，而关于杀手和暴力英雄的纪念方式仍存在逃避现实的问题，暗示缺乏中立的博物馆是理解这段历史的缺失环节。"
+        }
+      ]
+    },
+    {
+      "title": "Brazilian woman, 38, accused of years of ‘elaborate fraud’ by posing as a child",
+      "article_update_date": "06.11.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A 38-year-old woman has been arrested in Brazil accused of pretending to be a 12-year-old girl to deceive a couple who took her into their home for more than a year. Amanda Maria Souza de Oliveira was charged in the southern state of Santa Catarina with fraud and false identity offences. During the nearly 16 months she lived with the couple in the city of Joinville, she reportedly had all her expenses paid, a bedroom decorated with toys and children’s furnishings, and a party to celebrate her purported 12th birthday. View image in fullscreen Oliveira’s lawyer has requested a psychiatric evaluation for his client. Photograph: Courtesy of the civil police of Santa Catarina The case has been widely reported in local media, prompting disbelief that Oliveira allegedly managed to sustain the deception for so long. After she was arrested just over a week ago, it emerged that Oliveira had previously been charged in several other Brazilian states for allegedly carrying out similar schemes. The public prosecutor Viviane Soares said the investigation had uncovered “an elaborate fraud scheme involving the creation of a fictitious identity and the emotional manipulation of victims in order to obtain undue advantages”. The couple told police Oliveira first approached them at an evangelical church they attended, introducing herself as “Gabrielle” and claiming to be 18 years old. She reportedly said she was experiencing financial and health difficulties, prompting the couple to take her in. She later allegedly changed her story, claiming she was in fact 11 but appeared older because her father had forced her to take hormones and had sexually abused her. She also allegedly persuaded the family not to enrol her in school or formalise any adoption process, arguing that doing so could enable her father to find her. The alleged deception unravelled after an aunt who occasionally visited the family became suspicious of Oliveira’s age. After searching online, she found reports of a similar case in Rio de Janeiro three years earlier in which Oliveira had allegedly deceived another family. Videos and photographs shared by other alleged victims show Oliveira using dummies and baby bottles and speaking in a childlike manner. The earliest known case involving Oliveira dates to the late 2000s in her home state of Ceará. Already in her 20s, she allegedly went to a police station claiming to be 12 years old and a victim of sexual abuse and forced into sex work by her parents. Rafael Luiz Siewert, Oliveira’s lawyer, said that after interviewing her he had “identified elements that justified requesting a psychiatric evaluation”. The judge granted the request and proceedings have been suspended until it is established whether Oliveira is fit to stand trial. In the meantime, she remains in prison.",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why did the couple initially decide to help Amanda Maria Souza de Oliveira?",
+          "options": {
+            "A": "They believed she was an orphaned child in need of a home.",
+            "B": "She approached them at church claiming to face financial and health hardships.",
+            "C": "She was recommended to them by a member of their evangelical church.",
+            "D": "They wanted to adopt a child and were misled by her fabricated documents."
+          },
+          "answer": "B",
+          "explanation": "文章提到，这对夫妇在教堂遇到Oliveira，她声称自己当时18岁，正面临经济和健康困难，这促使夫妇收留了她。因此B项符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What was the main reason Oliveira gave to convince the family not to enrol her in school?",
+          "options": {
+            "A": "She claimed that her previous education had been sufficient for her age.",
+            "B": "She feared that school officials would discover her true identity.",
+            "C": "She pretended her father was tracking her and official processes would expose her.",
+            "D": "She argued that she was too traumatized by past experiences to attend school."
+          },
+          "answer": "C",
+          "explanation": "文中指出，Oliveira劝说家庭不要让她入学或办理领养手续，理由是这样做可能会让她的父亲找到她。C项准确反映了这一动机。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What triggered the revelation of Oliveira’s alleged deception?",
+          "options": {
+            "A": "A report from the police about her criminal history in other states.",
+            "B": "The couple’s discovery of her using baby items in secret.",
+            "C": "Her failure to maintain the childlike persona during a family visit.",
+            "D": "An aunt’s suspicion led to an online search about similar cases."
+          },
+          "answer": "D",
+          "explanation": "文章明确提到，当一名偶尔来访的阿姨对Oliveira的年龄产生怀疑并进行网络搜索后，发现了里约热内卢曾发生的类似案件，从而揭穿了骗局。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The phrase 'undue advantages' in the second paragraph most likely refers to:",
+          "options": {
+            "A": "unwarranted benefits or gains obtained through illicit means.",
+            "B": "unexpected opportunities provided by the victims voluntarily.",
+            "C": "the psychological comfort she gained from her victims.",
+            "D": "superior social status achieved by pretending to be a child."
+          },
+          "answer": "A",
+          "explanation": "根据上下文，检察官指出这是一场骗局，目的是为了获取“undue advantages”（不正当利益），即通过欺骗手段不劳而获。A项符合语境含义。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the current status of the legal proceedings against Oliveira?",
+          "options": {
+            "A": "She has been convicted and is currently awaiting sentencing.",
+            "B": "The trial is ongoing while she receives psychiatric treatment in prison.",
+            "C": "Legal proceedings are paused pending the result of a psychiatric evaluation.",
+            "D": "The judge has dismissed the case due to lack of evidence regarding her mental state."
+          },
+          "answer": "C",
+          "explanation": "文章结尾提到，法官批准了其律师提出的精神评估请求，诉讼程序已暂停，以确定她是否适合受审。因此C项正确。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3",
+      "article_update_date": "06.11.2026",
+      "source_journal": "Wired",
+      "body_text": "Magazine Articles I’m a Normie. Can Normies Really Vibe Code? Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off How Is Kalshi Not Gambling? Why Are Some Women Training for Pregnancy Like It’s a Marathon? Quiz: Will AI Destroy Your Career? 14 New Tools for Taking on the Great Outdoors Properly 15 Design-Forward DIY Tools Worth Upgrading to This Year Taylor Lorenz’s Screen Time Is Almost 17 Hours a Day For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones? He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive Why Minnesota Can’t Do More to Stop ICE You’ve Never Heard of China’s Greatest Sci-Fi Novel Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All Your First Humanoid Robot Coworker Will Probably Be Chinese China’s AI Boyfriend Business Is Taking On a Life of Its Own China’s Renewable Energy Revolution Is a Huge Mess That Might Save the World She Was Given Up by Her Chinese Parents—and Spent 14 Years Trying to Find a Way Back He Went to Prison for Gene-Editing Babies. Now He’s Planning to Do It Again How China’s ‘Crystal Capital’ Cornered the Market on a Western Obsession Chinese EV Batteries Are Eating the World Trump Declared a Space Race With China. The US Is Losing True Patriots Are Cashing In on the Apocalypse Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code Want This Hearing Aid? Well, Who Do You Know? Ruby Is Not a Serious Programming Language OpenAI's Fidji Simo Plans to Make ChatGPT Way More Useful—and Have You Pay For It All of My Employees Are AI Agents, and So Are My Executives Alex Karp Goes to War How KPop Demon Hunters Star EJAE Topped the Charts Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI The Cure The Future of AI Isn’t Just Slop Parents Fell in Love With Alpha School’s Promise. Then They Wanted Out Why AI Breaks Bad Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI Gear for Good: 20 Eco-Friendly Items That Score a Win for the Planet—and for You The Real Stakes, and Real Story, of Peter Thiel’s Antichrist Obsession The Story of DOGE, as Told by Federal Workers The 22 Very Online Upstarts Changing the Face of Politics She Fought the Far Right Online for Years. Now She Wants to Do It in Congress I Thought I Knew Silicon Valley. I Was Wrong Elon Musk Is Out to Rule Space. Can Anyone Stop Him? One Vigilante, 22 Cell Tower Fires, and a World of Conspiracies The Superyacht, the Billionaire, and a Wildly Improbable Disaster at Sea The Baby Died. Whose Fault Is It? What It’s Like Watching Dozens of Bodies Decompose (for Science) Why Did a $10 Billion Startup Let Me Vibe-Code for Them—and Why Did I Love It? AI Isn’t Coming for Hollywood. It's Already Arrived Lisa Su Runs AMD—and Is Out for Nvidia’s Blood Psychedelic Therapy Crashed and Burned. MAHA Might Bring It Back Life Without Screens: This Camp Is a Teen’s Worst Nightmare A Head-to-Toe Breakdown of Social Media’s Billion-Dollar Remedies Bryan Johnson Is Going to Die Who Controls Your Health? Test Your Knowledge of the MAHA Movement The Next Thing You Smell Could Ruin Your Life Does Anyone Know What ‘Wellness’ Means Anymore? How Trump Killed Cancer Research",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Based on the article list, what is the underlying thematic focus of the featured content?",
+          "options": {
+            "A": "It focuses primarily on traditional journalistic practices in Southeast Asia.",
+            "B": "It highlights the intersections of technology, geopolitical rivalry, and modern cultural phenomena.",
+            "C": "It is a collection of scientific journals dedicated exclusively to climate change.",
+            "D": "It serves as a marketing platform for premium hardware and luxury consumer goods."
+          },
+          "answer": "B",
+          "explanation": "The list includes titles ranging from AI and robotics to China-US geopolitics and social trends, confirming that the content synthesizes technology, global politics, and contemporary culture."
+        },
+        {
+          "q_number": 2,
+          "stem": "The reference to 'China’s AI Boyfriend Business' implies which of the following about current technology trends?",
+          "options": {
+            "A": "Technological advancements are increasingly mimicking and integrating into human emotional and social life.",
+            "B": "The Chinese government is banning all AI-related social services to protect youth.",
+            "C": "Artificial intelligence is solely being used for enterprise-level automation.",
+            "D": "Foreign companies have fully monopolized the human-like AI sector in China."
+          },
+          "answer": "A",
+          "explanation": "The title suggests the evolution of AI into deeply personal or social domains, moving beyond mere productivity or industrial tools into the realm of human relationship substitution."
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the author suggest about the state of contemporary 'wellness' culture?",
+          "options": {
+            "A": "It is highly regulated and scientifically standardized.",
+            "B": "It is viewed as a clear and unambiguous path to longevity.",
+            "C": "It is increasingly ill-defined, chaotic, and potentially dangerous.",
+            "D": "It has become a government-mandated program for public health."
+          },
+          "answer": "C",
+          "explanation": "The inclusion of titles like 'Does Anyone Know What Wellness Means Anymore?' and 'Psychedelic Therapy Crashed and Burned' points to skepticism and confusion regarding current wellness trends."
+        },
+        {
+          "q_number": 4,
+          "stem": "The mention of 'The Superyacht, the Billionaire, and a Wildly Improbable Disaster at Sea' likely serves what purpose in this collection?",
+          "options": {
+            "A": "To provide a detailed case study of marine engineering.",
+            "B": "To satirize the lifestyle and vulnerability of the ultra-wealthy.",
+            "C": "To promote tourism in the Mediterranean.",
+            "D": "To illustrate the success of safety protocols in luxury vessels."
+          },
+          "answer": "B",
+          "explanation": "The tone of such titles in this context is typically investigative and critical, focusing on the human interest or tragic elements of the billionaire class's pursuits."
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following phrases best captures the tone of the article collection as a whole?",
+          "options": {
+            "A": "Optimistic and celebratory of corporate progress.",
+            "B": "Strictly technical and devoid of human interest.",
+            "C": "Profoundly skeptical, interrogative, and focused on disruption.",
+            "D": "Nostalgic and focused on historical political movements."
+          },
+          "answer": "C",
+          "explanation": "The headlines frequently question the status quo, highlight 'disruptive' forces, and focus on the dark or complex side of technology and power, indicating a skeptical and investigative editorial stance."
+        }
+      ]
+    }
+  ]
+}
