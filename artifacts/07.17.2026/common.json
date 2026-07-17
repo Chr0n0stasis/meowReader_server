@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.17.2026",
+  "papers": [
+    {
+      "title": "Airlines are grappling with dwindling supplies of jet fuel",
+      "article_update_date": "05.10.2026",
+      "source_journal": "Economist",
+      "body_text": "Airlines are grappling with dwindling supplies of jet fuel Business | Fuming Airlines are grappling with dwindling supplies of jet fuel Yet it is unclear where shortages will hit first and hardest May 7th 2026 A commercial jet zooming at 500 knots (575mph) and the stately progress of a tanker cruising at 15 knots yield journey times from the Persian Gulf to Europe measured either in hours or weeks. The difference belies a fundamental connection. The near complete closure of the Strait of Hormuz has prevented both jet fuel and the crude oil from which it is refined from exiting the Gulf, sending prices into a rapid climb. Since the conflict with Iran began, the cost of filling up a plane has thus soared (see chart). That has already claimed one corporate victim. Spirit Airlines, an American low-cost carrier in bankruptcy protection, ceased operating on May 2nd. Its finances, strained by stiffening competition from big network carriers, buckled under the weight of rising fuel costs. Other airlines have put up ticket prices, added fuel surcharges and cancelled flights that would no longer have been profitable. Among those to have cut flights are Europe’s Lufthansa and Air France-klm; America’s United and Delta; and South-East Asia’s Vietjet and AirAsia. In the second half of April the global volume of flights scheduled for May fell by 13,000, according to Cirium, a data provider. Further down the runway, however, the number of flights is still set to increase by 3-6% in the summer compared with last year, according to Goldman Sachs, a bank. That hardly accords with the availability of jet fuel. Demand averaged around 7.8m barrels per day (b/d) in 2025, according to Société Générale, a bank. Of that, 2m b/d was internationally traded, with 360,000 coming through the Strait of Hormuz. Lack of supply to Asian refineries that rely on Gulf crude to produce jet fuel may create a further shortfall of 800,000 b/d in May, says the bank. Together that adds up to some 15% of total demand. What explains the disconnect between looming shortages and expanding schedules? As Andrew Charlton of Aviation Advocacy, a consultancy, explains, the last thing to change will be “optimistic messages” from airlines that need to keep selling tickets to maintain cashflow. But it also remains unclear where shortages will hit first and hardest. America, the world’s biggest aviation market, should on the whole remain well supplied. The country is a big oil producer and refiner. Yet it is not entirely immune. Stocks are running down on the West Coast, which is not connected to the web of jet-fuel pipelines between refineries and airports east of the Rocky Mountains. Imports to that side of the country account for nearly a fifth of supplies, with 85% from South Korea, which is now struggling with the loss of crude from the Gulf. The impact on Europe and Asia, which are more exposed than America, is also uneven. Europe burns 1.6m b/d of jet fuel and imports around a third of its needs, three-quarters of which has come from the Gulf. Yet whereas Britain imports around 65% of its requirement, Greece and the Netherlands are net exporters. The outlook in Asia is similarly mixed. China is a large exporter, but curbs on its trade may leave the likes of Australia and Vietnam facing shortages unless they stump up for jet fuel from elsewhere. Stock buffers also differ widely, as Europe’s case shows. The continent in total holds 38 days of commercial stock, climbing to 57 days once government reserves are added. But Britain, which has no strategic reserve, now has a stock of just 29 days of jet fuel, according to Goldman Sachs. For Portugal the figure has fallen to 23 days. That is the level at which the International Energy Agency, an inter-governmental body, reckons that rationing starts to be required. Shifts in trade flows since the start of the war have further complicated matters. High prices have incentivised American refiners to start producing more jet fuel. Seaborne exports from the country have grown by three-fifths, to 280,000 b/d, with 110,000 b/d of that coming to Europe on average in March and April, up from a trickle before. With European airlines prepared to pay more, American exports to Asia have all but ceased. Carriers in the region might get some relief by tapping Indian refiners , which cannot supply European customers owing to the use of sanctioned Russian crude as a feedstock. But India’s government could limit exports. As the busy summer season approaches, then, it is difficult to tell whose holidays will be spoiled by the jet-fuel shortage. A reopening of the Strait of Hormuz would provide some hope, though it would take time to restore normal trade, especially as infrastructure has been damaged during the conflict. If it remains shut for an extended period, the price of jet fuel would need to increase to levels that would deter significant numbers of passengers from flying. It would be no surprise if a few more carriers follow Spirit to the afterlife. ■ To track the trends shaping commerce, industry and technology, sign up to “ The Bottom Line ”, our weekly subscriber-only newsletter on global business. This article was downloaded by zlibrary from https://www.economist.com//business/2026/05/07/airlines-are-grappling-with-dwindling-supplies-of-jet-fuel",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Airlines are currently grappling with the ____ of jet fuel supplies as the crisis in the Persian Gulf continues.",
+          "options": {
+            "A": "abundance",
+            "B": "surplus",
+            "C": "excess",
+            "D": "dwindling"
+          },
+          "answer": "D",
+          "explanation": "文章开头提到航空公司正在应对航空燃油供应的减少（dwindling），符合上下文。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The current geopolitical situation has ____ a fundamental connection between distant oil production and local flight prices.",
+          "options": {
+            "A": "ignored",
+            "B": "revealed",
+            "C": "concealed",
+            "D": "severed"
+          },
+          "answer": "B",
+          "explanation": "尽管地理距离大相径庭，但这种差异掩盖了两者之间的基本联系（belies a fundamental connection），即地缘政治揭示了这种关联。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The closure of the Strait of Hormuz has prevented crude oil from exiting the region, ____ prices into a rapid climb.",
+          "options": {
+            "A": "prohibiting",
+            "B": "luring",
+            "C": "dragging",
+            "D": "sending"
+          },
+          "answer": "D",
+          "explanation": "此处用sending意为导致价格飞涨，搭配sending prices into a rapid climb。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Spirit Airlines, a carrier already in financial trouble, ____ under the weight of rising fuel costs.",
+          "options": {
+            "A": "buckled",
+            "B": "soared",
+            "C": "thrived",
+            "D": "flourished"
+          },
+          "answer": "A",
+          "explanation": "buckle under the weight意为在压力下崩溃，符合文章中提及的公司破产背景。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Airlines have responded by adding fuel surcharges and cancelling flights that are no longer ____.",
+          "options": {
+            "A": "efficient",
+            "B": "feasible",
+            "C": "sustainable",
+            "D": "profitable"
+          },
+          "answer": "D",
+          "explanation": "航空公司取消航班是因为这些航班不再具有盈利能力（profitable）。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The reduction in global flight volume hardly ____ with the scheduled increase in summer flights.",
+          "options": {
+            "A": "conflicts",
+            "B": "competes",
+            "C": "accords",
+            "D": "struggles"
+          },
+          "answer": "C",
+          "explanation": "accord with意为与...相符，文章指出这种燃油短缺与夏季增加航班的计划并不一致。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Asian refineries, which ____ on Gulf crude, face a potential shortfall in jet fuel production.",
+          "options": {
+            "A": "insist",
+            "B": "rely",
+            "C": "depend",
+            "D": "thrive"
+          },
+          "answer": "C",
+          "explanation": "rely on和depend on均可，但考研完型倾向于上下文逻辑一致。此空填depend对应文章中的rely。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Aviation experts explain that airlines issue optimistic messages to maintain cashflow, which ____ the looming shortages.",
+          "options": {
+            "A": "obscures",
+            "B": "illuminates",
+            "C": "amplifies",
+            "D": "clarifies"
+          },
+          "answer": "C",
+          "explanation": "此处逻辑为：尽管有短缺风险，航空公司仍发乐观消息，这在某种程度上加剧（或掩盖）了公众对短缺的忽视，结合上下文，amplifies（放大/加剧）对比更为强烈。"
+        },
+        {
+          "q_number": 9,
+          "stem": "While America is a major oil producer, its West Coast is not entirely ____ to supply shocks.",
+          "options": {
+            "A": "exposed",
+            "B": "immune",
+            "C": "resistant",
+            "D": "vulnerable"
+          },
+          "answer": "B",
+          "explanation": "immune to意为对...免疫，文章指美国西部并非完全不受影响。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The pipelines in the US do not connect the West Coast to the ____ of infrastructure found in the east.",
+          "options": {
+            "A": "network",
+            "B": "web",
+            "C": "system",
+            "D": "grid"
+          },
+          "answer": "B",
+          "explanation": "文章原句为web of jet-fuel pipelines，这里考查固定搭配。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The impact on Europe and Asia is ____, with some countries being net exporters and others highly dependent on imports.",
+          "options": {
+            "A": "uniform",
+            "B": "uneven",
+            "C": "consistent",
+            "D": "predictable"
+          },
+          "answer": "B",
+          "explanation": "文章提到各国的供需情况差异很大，因此影响是不均衡的（uneven）。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Some countries might face shortages unless they ____ up for jet fuel from alternative sources.",
+          "options": {
+            "A": "pay",
+            "B": "give",
+            "C": "stump",
+            "D": "save"
+          },
+          "answer": "C",
+          "explanation": "stump up for意为不情愿地支付高价，符合语境。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Stock buffers vary, with Britain holding only 29 days of fuel, a level where ____ might be required.",
+          "options": {
+            "A": "rationing",
+            "B": "subsidies",
+            "C": "imports",
+            "D": "production"
+          },
+          "answer": "A",
+          "explanation": "文章明确提到这是定量配给（rationing）开始的水平。"
+        },
+        {
+          "q_number": 14,
+          "stem": "High prices have ____ American refiners to increase production of jet fuel for export.",
+          "options": {
+            "A": "incentivised",
+            "B": "discouraged",
+            "C": "deterred",
+            "D": "prevented"
+          },
+          "answer": "A",
+          "explanation": "高价激励（incentivised）了炼油厂增加产量。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Exports to Europe have increased, while American exports to Asia have ____ ceased.",
+          "options": {
+            "A": "partially",
+            "B": "gradually",
+            "C": "virtually",
+            "D": "all"
+          },
+          "answer": "C",
+          "explanation": "virtually ceased意为几乎停止，符合文章语境。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Carriers might seek relief from Indian refiners, provided they don't use Russian crude as a ____.",
+          "options": {
+            "A": "byproduct",
+            "B": "feedstock",
+            "C": "catalyst",
+            "D": "derivative"
+          },
+          "answer": "B",
+          "explanation": "feedstock指工业原料，符合炼油背景。"
+        },
+        {
+          "q_number": 17,
+          "stem": "As the summer season approaches, it is difficult to determine whose holidays will be ____ by the shortage.",
+          "options": {
+            "A": "spoiled",
+            "B": "enhanced",
+            "C": "improved",
+            "D": "extended"
+          },
+          "answer": "A",
+          "explanation": "燃油短缺导致航班取消，假日被破坏（spoiled）。"
+        },
+        {
+          "q_number": 18,
+          "stem": "A reopening of the Strait would provide hope, though it would take time to ____ normal trade.",
+          "options": {
+            "A": "disrupt",
+            "B": "terminate",
+            "C": "abandon",
+            "D": "restore"
+          },
+          "answer": "D",
+          "explanation": "恢复（restore）正常贸易。"
+        },
+        {
+          "q_number": 19,
+          "stem": "If the Strait remains shut, fuel prices would rise to levels that would ____ passengers from flying.",
+          "options": {
+            "A": "deter",
+            "B": "encourage",
+            "C": "persuade",
+            "D": "attract"
+          },
+          "answer": "A",
+          "explanation": "高价会阻止（deter）乘客飞行。"
+        },
+        {
+          "q_number": 20,
+          "stem": "It would be no surprise if more carriers follow Spirit to the ____.",
+          "options": {
+            "A": "pinnacle",
+            "B": "zenith",
+            "C": "summit",
+            "D": "afterlife"
+          },
+          "answer": "D",
+          "explanation": "文章结尾使用afterlife来比喻航空公司破产消亡。"
+        }
+      ]
+    },
+    {
+      "title": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
+      "article_update_date": "04.18.2026",
+      "source_journal": "The Guardian",
+      "body_text": "More than £1bn (€1.15bn) has been pledged for war-ravaged Sudan at a conference in Berlin, eclipsing the funding target organisers had set to help mitigate the world’s largest humanitarian crisis. The financial commitments made on Wednesday will also help offset a chronic humanitarian funding shortfall in a country devastated by three years of conflict, where two-thirds of its population – 34m people – require assistance. German ministers had set a notional target of $1bn (£740m) in funding commitments from international donors. Hours after hearing the UN chief, António Guterres, call for an end to the “nightmare”, delegates had pledged a total of £1.13bn. However, the prospect of peace remains as distant as ever, with scant progress reported on ceasefire talks. Neither of Sudan’s warring parties – the paramilitary Rapid Support Forces (RSF) and the army – travelled to Berlin. As the conference got under way, Sudan’s army-aligned foreign ministry denounced delegates for not consulting it, accusing western countries of a “colonial tutelage approach”. View image in fullscreen Delegates, including Germany’s foreign minister, Johann Wadephul (left), and the UK foreign secretary, Yvette Cooper, at the conference in Berlin. Photograph: Odd Andersen/AFP/Getty Images Outside Germany’s foreign ministry, hundreds of protesters assembled, many chanting against the United Arab Emirates and its alleged support for the RSF. Inside, speaking on the event’s sidelines, Donald Trump’s senior adviser for African affairs, Massad Boulos, said the US was not taking sides in the war and that “our only concern is humanitarian”. Boulos said the US was seeking a humanitarian truce that would allow aid to reach those in need, adding that any truce should lead to a permanent ceasefire. Diplomatic efforts led by the US, Saudi Arabia, Egypt and the UAE – known as the Quad – have so far failed to achieve meaningful progress. Announcing the funding pledges, Germany’s foreign minister, Johann Wadephul, said the commitments provided a rare positive development in the context of shrinking aid budgets. He said: “The fact that, in a world of dwindling humanitarian resources, participants have already pledged more than €1.3bn in support is a good sign. For this, I would like to express my deepest gratitude to all donors.” Sudan is grappling with an alarming funding shortfall to cope with its vast humanitarian challenges. So far, just 16% of the overall £2.1bn humanitarian needs assessment for Sudan this year has been funded. Earlier, Guterres told international delegates that “credible allegations of the gravest international crimes” were continually emerging from the conflict. He said: “Women and girls have been terrorised and systematic sexual violence has prevailed. Families and communities have been devastated. “Partners must step up. But let’s be clear: funding alone cannot substitute for peace.” Guterres called for an immediate cessation of hostilities, adding: “External interference and the flow of arms that fuel this war must finally end.” Egypt is among a number of states supporting Sudan’s military, while evidence suggests the UAE is backing the RSF; a claim it denies. Without naming any countries, the UK foreign secretary, Yvette Cooper, called for a concerted international effort to stop the flow of arms into Sudan. She said: “Countries from across the world are coming together here in Berlin to discuss the way, frankly, the international community has failed the people of Sudan.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary significance of the funding conference held in Berlin?",
+          "options": {
+            "A": "It officially ended the humanitarian crisis in Sudan.",
+            "B": "It exceeded the financial target set by the organizers.",
+            "C": "It facilitated the first face-to-face peace negotiations between the warring parties.",
+            "D": "It established a new diplomatic alliance between the Quad and Sudan's military."
+          },
+          "answer": "B",
+          "explanation": "文章第一段提到，会议承诺的金额超过了组织者设定的资金目标（eclipsing the funding target），故选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How did the Sudanese foreign ministry react to the Berlin conference?",
+          "options": {
+            "A": "They sent representatives to participate in the discussions.",
+            "B": "They expressed gratitude for the international support.",
+            "C": "They criticized the event for excluding them from consultations.",
+            "D": "They requested more funds to cover the annual needs assessment."
+          },
+          "answer": "C",
+          "explanation": "文章第二段明确指出，苏丹外交部谴责代表们未与其协商，并指责西方国家采取“殖民托管态度”，故选C。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, what is the stance of the US regarding the conflict in Sudan?",
+          "options": {
+            "A": "It supports the RSF to ensure long-term stability.",
+            "B": "It acts as a neutral party focused solely on humanitarian aid.",
+            "C": "It plans to impose economic sanctions on all parties involved.",
+            "D": "It advocates for the expansion of the Quad’s military presence."
+          },
+          "answer": "B",
+          "explanation": "文章提到 Massad Boulos 表示美国在战争中不偏袒任何一方（not taking sides），唯一的关注点是人道主义，故选B。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following points does António Guterres emphasize in his address?",
+          "options": {
+            "A": "Humanitarian funding is a complete solution to the Sudanese crisis.",
+            "B": "International interference has been minimal in the Sudanese conflict.",
+            "C": "Funding is vital but cannot replace the necessity of peace.",
+            "D": "Sexual violence has decreased as the conflict has stabilized."
+          },
+          "answer": "C",
+          "explanation": "文章结尾段引述 Guterres 的话：“funding alone cannot substitute for peace”（仅靠资金不能替代和平），说明了他强调和平的重要性，故选C。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred from the text regarding the international community's role in Sudan?",
+          "options": {
+            "A": "The international community is united in its effort to halt arms flow.",
+            "B": "The international community has been highly successful in achieving ceasefire.",
+            "C": "The international community is facing criticism for its failure to support Sudan.",
+            "D": "The international community has fully met the funding needs assessment for the year."
+          },
+          "answer": "C",
+          "explanation": "文章最后一段 Yvette Cooper 的发言指出，国际社会在如何对待苏丹人民的问题上“失败了”（failed the people of Sudan），由此推断国际社会受到了批评，故选C。"
+        }
+      ]
+    },
+    {
+      "title": "Would-be suicide bomber sets off explosion in NYC",
+      "article_update_date": "06.02.2026",
+      "source_journal": "China Daily",
+      "body_text": "Police officers stand guard outside the New York Port Authority Bus Terminal in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies] A would-be suicide bomber set off part of a homemade explosive device in a subway passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan during Monday's morning rush hour, seriously wounding himself and injuring three others, police said. The injuries to two commuters and a Port Authority police officer were all non-life threatening, according to the New York Fire Department. At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist attack, and he said no other devices had been found. The suspect was identified by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He was in serious condition at Bellevue Hospital Center. Ullah acted alone, police said, and the device was reported to have gone off prematurely in the passage just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one of the busiest transit hubs in the country — at 7:20 am, authorities said. Two commuters and a Port Authority police officer suffered minor injuries, officials said. The device was affixed to Ullah's body with Velcro and zip ties, police officials said. The explosion caused commuter chaos at one of the city's key traffic hubs. \"Our lives revolve around the subway,\" the mayor said. \"The choice of New York is always for a reason, because we are beacons of the world. And we show that a society of many background and many faiths can work.\" \"The terrorists want to undermine that,\" he added. \"They yearn to attack New York City.\" \"I'm glad I wasn't there. We were supposed to take a bus out at the time (when the accident happened), so I'm glad we waited,\" said Monica Gannon, who planned to take the bus back to New Jersey at this morning when the explosion happened. \"We are stuck here. Now we are waiting for all this to be over and go back home.\" \"I was evacuated from the terminal after it (the explosion) happened. It was terrible, and I was so scared when I saw some people running,\"said Alicia Carmona. She said she was evacuated from the terminal after the explosion and to wait outside the bus terminal for about two hours. Carmona said she planned to pick up her niece at LaGuardia Airport at around 9 am, but now she couldn't make it. \"I was thinking to take the subway instead, but the nearby subway stations are closed too.\"",
+      "difficulty_constant": 5.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what can be inferred about the perpetrator of the blast?",
+          "options": {
+            "A": "He operated in coordination with a larger terrorist cell.",
+            "B": "He successfully detonated his device as intended.",
+            "C": "He was a resident of New York City with roots in Bangladesh.",
+            "D": "He specifically targeted the Port Authority police officers."
+          },
+          "answer": "C",
+          "explanation": "文章提到嫌疑人Akayed Ullah是“a Bangladeshi native, who lived in Brooklyn”，即他来自孟加拉国但居住在布鲁克林（纽约的一部分），符合C选项描述。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The phrase 'undermine that' in the passage refers to the fact that:",
+          "options": {
+            "A": "New York City is a global hub for transit and trade.",
+            "B": "A society of diverse backgrounds and faiths can coexist and function.",
+            "C": "The subway system is the center of New Yorkers' daily lives.",
+            "D": "Terrorists yearn to destroy specific landmarks in Manhattan."
+          },
+          "answer": "B",
+          "explanation": "市长在提到纽约的特殊地位后说“a society of many background and many faiths can work”，随后紧接着说“The terrorists want to undermine that”，指代的是社会包容与和谐共处。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is true about the injuries caused by the incident?",
+          "options": {
+            "A": "The attacker was the only person who sustained critical injuries.",
+            "B": "The two commuters were more severely injured than the police officer.",
+            "C": "The explosion resulted in multiple fatalities at the transit hub.",
+            "D": "The injuries sustained by the victims are considered life-threatening."
+          },
+          "answer": "A",
+          "explanation": "文中提到嫌疑人“seriously wounding himself”，而其他三名伤者（两名通勤者和一名警察）伤势为“non-life threatening”，且为轻伤，因此A正确。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What was the immediate impact of the incident on travelers like Monica Gannon and Alicia Carmona?",
+          "options": {
+            "A": "They were forced to alter their travel plans due to transit closures.",
+            "B": "They were injured during the chaotic evacuation process.",
+            "C": "They were successfully picked up at LaGuardia Airport on time.",
+            "D": "They were completely unaware of the explosion until they arrived at the bus terminal."
+          },
+          "answer": "A",
+          "explanation": "文中提到Monica Gannon被困在车站，Alicia Carmona无法去机场接侄女，且地铁站关闭，证明她们的出行计划受到了干扰。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main purpose of this news report?",
+          "options": {
+            "A": "To analyze the security loopholes of the New York transit system.",
+            "B": "To discuss the history of terrorist attacks in Manhattan.",
+            "C": "To inform the public about the details and immediate consequences of the subway explosion.",
+            "D": "To criticize the mayor's response to the terrorist incident."
+          },
+          "answer": "C",
+          "explanation": "该文章属于典型的新闻报道，旨在客观告知读者爆炸事件的经过、嫌疑人信息、人员伤亡情况以及对周边交通的影响。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 17",
+      "article_update_date": "04.11.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | Previous | The College-Educated Working Class Can a generation of graduates frustrated by their economic prospects change American labor politics? by George Packer This article was featured in the One Story to Read Today newsletter. Sign up for it here. T his is an age of mutinies. For more than a decade in America, they’ve come so thick and fast that they trip over one another: the Tea Party, Occupy, Black Lives Matter, the Resistance, the anti-lockdown protests, the insurrection, the anti-ICE protests. The ur-mutiny, encompassing some of these, provoking and provoked by others, is MAGA. Even in full authoritarian control of the federal government, it still acts like a rioter laying dynamite at the foundation of a decayed establishment. We understand these revolts in terms of the dominant political fact of our time, the forever war between red and blue. The mutinies are staged by one side or the other, and every high-profile trial, incendiary speech, and shooting caught on camera divides Americans instantly and predictably into two opposing camps, with apparently irreconcilable visions of what is true and of what the country is and should be: multicultural America versus heritage America. The former is inclusive, outward- and forward-looking; the latter is exclusive, inward-looking, and nostalgic for a past that it tries to recapture by tearing up traditions, norms, and the Constitution itself. The obvious precedent for an age of mutinies is the decade before the Civil War—the years of Uncle Tom’s Cabin , Bleeding Kansas, Dred Scott , and John Brown—when pressure built up until it exploded in what future Secretary of State William H. Seward labeled “the irrepressible conflict.” The roll call of the present goes through the coronavirus pandemic, George Floyd, January 6, Project 2025, Charlie Kirk, Renee Good, and Alex Pretti. Now that President Trump’s masked militias are battling residents in the streets of blue cities, our own conflict seems to be coming to a head. But if we unfasten our gaze long enough from the riveting prospect of another civil war, a different historical period comes to mind. The fundamental sources of our troubles, going back half a century, are economic inequality, political paralysis, corruption, mass immigration, and cultural and technological upheavals. These were exactly the country’s great problems at the start of the previous century. In 1914, Walter Lippmann wrote in his manifesto, Drift and Mastery : “No mariner ever enters upon a more uncharted sea than does the average human being born into the twentieth century.” Several decades of populism, progressivism, and reaction led to the emergence of a new order with the New Deal. What is life like for someone born in the 21st century? Your everyday reality is disorienting change—but not the kind that freed Lippmann and his generation to shape their era. Instead, your overwhelming feeling is that the game is rigged against you. You see the old as at best indifferent, if not outright predatory, and lacking the ability or the desire to solve the problems they’ve inflicted on you. The electronic air you breathe crackles with vituperation. Political and media elites hoard status and wealth by keeping you in a perpetual fever of resentment and fury. Meanwhile, tech giants addict you from toddlerhood to devices that alienate you from other people and the natural world, trapping you in a hall of mirrors, until you give up on the idea that truth is even knowable and surrender to the wildest images of unreality. Your sense of your own existence grows fragile, and your job prospects are as precarious as your mental health. Whatever your race or gender, it feels like a liability. The system is a conspiracy against your chance at a decent life. Anger and helplessness drive some young people to Nick Fuentes , others to Hasan Piker , and others still to fentanyl or 20-hour days of Fortnite . They might revile one another, but they exist in the same frame, where they suffer many of the same afflictions. From this perspective, the culture wars momentarily recede. Perhaps the most important arena of struggle isn’t the internet, where the wars are fought and nothing is achieved except division, but the physical world, where certain problems are common to all ordinary people. Perhaps the deepest conflict is not between red and blue, but between power and powerlessness. Michael Podhorzer: The paradox of the American labor movement Compared with a vicious online duel, this conflict is hard to dramatize. It seldom becomes the focus of politics, except in grand rhetorical gestures or small fixes for the deterioration of everyday life. A congresswoman denounces monopolistic oligarchy; a senator rails against Big Tech; another congresswoman drafts legislation against the nuisance of overly bright headlights and for the “ right to repair ” your own truck or washing machine. A movement of 20-somethings embraces dumb phones . And even now, amid the head-spinning events of Trump’s second term, there’s a sense that nothing fundamental changes. In Lippmann’s time, the relations among citizens, corporations, and government underwent a historic transformation; in our time, new laws and civic reforms hardly ever arise. We spend our energy on the mostly online battles of the red-blue war, stumbling down the path of the 1850s, while the powerful entities that control our lives grow bigger and more corrupt. The subtitle of Noam Scheiber’s Mutiny: The Rise and Revolt of the College-Educated Working Class points to an unexpected group of young people who are toiling against concentrated wealth and power. A college-educated working class sounds like an oxymoron because socioeconomic status is generally defined by education and believed to rise with each academic degree. In recent years, a college education has become one of the most reliable indicators of both economic well-being and voting behavior. Americans with a college degree tend to make 75 percent more money over their lifetime than those without, and in the past three presidential elections, these better-educated, wealthier voters have moved steadily to the Democratic Party. In 2024, they voted for Kamala Harris over Donald Trump by 16 percentage points. As if according to some law of political dynamics, non-college-educated Americans have gone for Trump and the Republican Party by similar margins. The political alignment of the 20th century, when workers tended to favor Democrats and professionals Republicans, has been reversed in the 21st. The education divide is the most significant factor in American politics—sharpest among white voters, and increasing among Latino voters as well. These trends are so glaring that the term working class is now used to describe both those without a college degree and the MAGA base. So in reporting on the college-educated working class, Scheiber, who covers labor for The New York Times , is like a zoologist whose fieldwork has revealed the existence of an animal that contradicts some long-standing theory of speciation. His subjects, in their 20s or early 30s, came out of college with heavy debts and unrealistic expectations. A Grinnell grad, recipient of a prestigious postcollege fellowship, takes a job at a Chicago Starbucks to support himself while he tries to break into theater, only to find years later that the theater dream has died and he’s still making lattes, hectored by managers, hard up enough to apply for food stamps. After college, an “Apple fangirl” in Maryland is encouraged by a local Apple Store to think of her job in terms of passion and human potential. Hired to do one-on-one tech tutorials, she hopes to move up to designing the curriculum; instead, the company’s relentless focus on profit traps her as a glorified saleswoman in a retail mall, and she fails to keep up with her bills. Corporate America seduces these ambitious young people with exalted titles that bear scant relation to the reality of the work: Apple Store “creatives” and “geniuses” who have to wheedle customers into buying a $3,500 Vision Pro headset, Starbucks “partners” who prepare venti iced caramel macchiatos all day, Amazon “associates” whose moves around the warehouse are tracked to the minute, adjunct “professors” who earn sub-median pay with little hope of a career in their field. It would be easy for an older, more comfortable reader, or a more truly impoverished one, to dismiss the grievances of Scheiber’s subjects. How sorry can you feel for an underemployed Hollywood scriptwriter who makes ends meet through a “sugar dating” app, as a companion for wealthy older men? These young graduates start out naive about the heartlessness of the corporate world and harbor illusory hopes for success in unforgiving professions. Culturally, they have little in common with meat packers or home health aides who never expect to do more than get by—who are toiling for their children’s futures, not their own. The college-educated are trained to expect that the world will make room for them, and when it doesn’t—when they suffer the indignities of wage work, with its unpredictable schedules and disrespectful bosses, and can see no way up or out—the blow isn’t just economic; it’s psychological. “They were often bourgeois in their tastes,” Scheiber writes. “They cradled sleek smartphones and expensive cups of coffee. They watched prestige TV on demand. But the previous decade and a half had bequeathed them the bank accounts—and the politics—of the proletariat.” The individual stories Scheiber tells sometimes feel like cases of bad luck or poor decision making, but he’s writing more broadly about a generation of graduates whose prospects have unquestionably dimmed. The price of a college degree is soaring while its comparative benefit is shrinking. The pay gap between college and high-school grads has stopped growing over the past two decades, partly because of the Great Recession and the pandemic. The number of jobs in some of the most desirable careers has dropped, creating intense competition due to what the scholar Peter Turchin calls “ elite overproduction .” Or, as Scheiber puts it, “too many people with expensive credentials chased too few jobs requiring those credentials.” When expectation and reality part ways for a cohort that’s been raised on the assumption of upward mobility—when elites start to sink, and reform is blocked—the political waters get very rough, often leading to social disintegration and unrest. Turchin’s historical examples include prerevolutionary France, Russia, and Iran; another is the United States in this decade. Scheiber’s main interest is the development of a radical political consciousness in a generation of phone addicts and Netflix junkies. Mutiny follows a dozen or so employees at Starbucks, Apple, Amazon, Hollywood studios, and research universities who all come to the same epiphany: “They saw themselves as members of the rank and file. They grumbled about their supervisors and cursed their corporate overlords.” This new awareness, whether or not it qualifies them as bona fide members of the working class, leads them to join union-organizing drives, publicize corporate abuses, go on strike, and gradually find more purpose in labor activism than in their thwarted professional ambitions. We remember the pandemic as a boiling point in the culture wars. The continuous battles over lockdowns, masking, police violence, expertise, conspiracy theories, and the outcome of the 2020 election have never really subsided. But the pandemic also exposed the grotesque unfairness of our economy and society in deeply personal ways, cutting across the red-blue divide. In the pandemic’s early days, before the crisis became completely subsumed by the cultural civil war, a memorable phrase appeared: essential workers , people whose livelihood required them to show up at work and risk their health. The difference between the fates of essential and nonessential workers was a profound injustice, and a healthy country would have made it a focus of public attention and policy. Jeff Bezos’s fortune increased by $24 billion in the pandemic’s first month. Meanwhile, his company’s treatment of its essential workers, and the firing of Chris Smalls, an outspoken employee in a Staten Island warehouse, triggered the creation of the first Amazon union—a milestone in the recent surge of labor activism in America. Steven Greenhouse: Is",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first paragraph, what is the author's primary perspective on the current political landscape in America?",
+          "options": {
+            "A": "It is defined by a historical precedent that promises a peaceful reconciliation of parties.",
+            "B": "It is dominated by a binary struggle that masks deeper, systemic economic and social grievances.",
+            "C": "It is effectively managed by the federal government to prevent the collapse of national traditions.",
+            "D": "It is a temporary phenomenon triggered solely by technological upheavals and mass immigration."
+          },
+          "answer": "B",
+          "explanation": "文章第一段提到当前的政治冲突（red vs. blue）掩盖了更深层的经济不平等和制度性问题。选项B准确概括了作者认为表面上的红蓝对立掩盖了结构性病根的观点。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'the game is rigged against you' (Paragraph 4) imply about the feelings of the 21st-century generation?",
+          "options": {
+            "A": "They feel that political elites are actively conspiring to prevent their social advancement.",
+            "B": "They believe that individual effort is the only reliable way to achieve economic stability.",
+            "C": "They are indifferent to the wealth hoarded by tech giants and political media elites.",
+            "D": "They feel liberated from the expectations that shaped the lives of previous generations."
+          },
+          "answer": "A",
+          "explanation": "文中指出年轻人感到系统是针对他们的阴谋（conspiracy），认为由于精英阶层囤积资源，导致普通人无法获得体面的生活，对应选项A。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author uses the example of an 'Apple fangirl' to illustrate that:",
+          "options": {
+            "A": "Ambitious graduates are successfully finding high-status jobs in the tech industry.",
+            "B": "The retail industry provides better long-term security than creative professional roles.",
+            "C": "Corporate rhetoric often deceptively masks the reality of low-skilled, precarious labor.",
+            "D": "Modern youth lack the necessary skills to adapt to the demands of the corporate world."
+          },
+          "answer": "C",
+          "explanation": "文章通过苹果员工的例子揭示了企业用高大上的头衔（如“Genius”）来包装实际上的枯燥零售工作，实则是利用年轻人并使其难以支付账单，对应选项C。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is meant by the term 'elite overproduction' as cited in the text?",
+          "options": {
+            "A": "A surplus of university graduates competing for a limited number of high-quality positions.",
+            "B": "The excessive creation of academic credentials by failing educational institutions.",
+            "C": "The tendency of political elites to produce more rhetoric than actual policy reforms.",
+            "D": "A demographic trend where the working class demands more leadership roles in government."
+          },
+          "answer": "A",
+          "explanation": "文中直接定义了该术语：太多持有昂贵证书的人追逐太少需要这些证书的职位，这反映了社会中高学历人才的过剩与就业岗位的错位，对应选项A。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best summarizes the 'unexpected' shift described in the final paragraphs?",
+          "options": {
+            "A": "College graduates are abandoning their political consciousness to pursue individual wealth.",
+            "B": "The labor movement is being revived by young, educated workers disillusioned with their careers.",
+            "C": "The red-blue divide is disappearing due to the emergence of a unified national ideology.",
+            "D": "Corporate giants are voluntarily reforming their labor policies to prevent unionization."
+          },
+          "answer": "B",
+          "explanation": "文章结尾指出这些受过高等教育的年轻人发现自己成为了无产阶级的一员，从而转向劳工维权和工会组织，这与传统观念中受过教育者属于精英阶层的预期相反，对应选项B。"
+        }
+      ]
+    }
+  ]
+}
