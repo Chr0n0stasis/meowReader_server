@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.20.2026",
+  "papers": [
+    {
+      "title": "Politics",
+      "article_update_date": "06.30.2026",
+      "source_journal": "Economist",
+      "body_text": "Politics The world this week Politics June 25th 2026 Sir Keir Starmer announced his resignation as Britain's prime minister, less than two years after winning a landslide majority at a general election. The trigger for Sir Keir’s decision to go was Andy Burnham’s victory in a by-election. The hitherto mayor of Greater Manchester is a Labour Party favourite who will stand for party leader in mid-July. Sir Keir’s time in office was plagued by broken promises and a series of U-turns, often forced by militant backbench MPs. His judgment was also questioned, as advisers and ministers, including his deputy, were forced to resign for inappropriate behaviour. Following disastrous local elections for Labour, seven ministers quit after falling out with Sir Keir. After Sir Keir announced his departure the European Union postponed a summit with Britain that had only recently been set for July 22nd. Sir Keir had promoted the summit as a chance to reset Britain’s relations with the EU, but the EU wants to wait until a new prime minister is in place. In some rare good news for Britain’s Conservatives, the party won its first by-election in 50 years in Scotland by booting out the Scottish Nationalists in south Aberdeen. The campaign centred on the nationalists’ lack of support for the oil and gas industry. Aberdeen is the hub of Britain’s North Sea energy business. American and Iranian officials concluded a round of talks in Switzerland about the next stage of their peace deal. Qatari and Pakistani mediators reported “encouraging progress” towards a lasting agreement. But Donald Trump warned that “I can do whatever I want” after a 60-day pause in fighting. The president threatened to seize control of the Strait of Hormuz and resume attacks on Iran if it does not curtail Hizbullah, Iran’s proxy in Lebanon. At Iran’s urging, America imposed another ceasefire on Israel and Hizbullah in Lebanon. Lebanese and Israeli officials resumed talks in Washington. Iran’s chief negotiator said Iran would “administer” the Strait of Hormuz after agreeing to set up a “telephone hotline” for ships passing through the waterway. Marco Rubio, the American secretary of state, said no country would be allowed to charge fees for vessels traversing the strait. An increasing number of ships have been passing through it. Oil prices have fallen back to pre-war levels. Brent crude traded below $73 a barrel. The head of the IAEA, the UN’s nuclear watchdog, stated that the agency would carry out inspections of Iran’s nuclear facilities under the initial peace deal with America. Iranian officials said access would only be discussed under a final agreement. The UN Security Council warned of more atrocities in Sudan, as the rebel Rapid Support Forces encircled El Obeid, the capital of the North Kordofan region. There are fears that the city’s 500,000 residents could suffer a similar fate to those in El Fasher, the capital of North Darfur, where the RSF massacred civilians last year. Ethiopia’s election body confirmed that the Prosperity Party, led by Abiy Ahmed , the prime minister, won around 90% of the parliamentary seats in a vote on June 1st that opposition groups said was rigged. Voters found it hard, if not impossible, to cast their ballots in several conflict-ridden parts of the country. The American Congress passed a housing bill with broad bipartisan support. The legislation aims to expand the supply of housing by relaxing federal regulations in the hope that this will spur construction and lower costs, among other things. It does not tackle local restrictions on building. But a tetchy Mr Trump said he won’t sign the act until Congress passes his election-reform bill. Democratic socialists won three congressional primaries in New York city, and in two of the races booted out incumbents who were backed by the Democratic establishment and unions. Zohran Mamdani, the left-wing mayor, endorsed all three candidates, suggesting his popularity with voters has not waned since taking office in January. General Chris Donahue submitted his resignation as America’s top commander in Europe. Pete Hegseth, America’s secretary of war, has led a purge of the senior ranks in the military’s top brass and is reviewing America’s troop commitments to Europe. In India protesters demanded the resignation of the education minister over a decision to make 2.2m medical students resit their exams. The results of the previous exams were annulled after it was discovered that test papers had been leaked on messaging apps. The protests were led by the Cockroach Janta Party , a growing political movement for India’s discontented young voters. Colombia’s presidential election was won by Abelardo de la Espriella , a conservative who was endorsed by Donald Trump. His margin of victory over Iván Cepeda, a leftist senator, was less than 1%. The election marks a rightward shift in Colombia following Gustavo Petro’s term in office. Relations with America fell to a new low under Mr Petro; Mr Trump once described him as a “sick man”. Mr de la Espriella rode the right-wing wave that has brought other governments to power in South America, as voters vent their anger about rampant crime and the high cost of living. Underlining the tilt towards the right in South America, Keiko Fujimori seemed to have secured victory in Peru’s presidential election, which was held on June 7th. The latest tally of votes suggested that Ms Fujimori had taken an insurmountable lead over Roberto Sánchez, her left-wing rival. An official result is due in mid-July. Two powerful earthquakes hit Venezuela causing multiple casualties. The epicentre was San Felipe, 200km (125 miles) west of Caracas, but buildings collapsed in the capital too and transport systems were closed. America said it would send search-and-rescue teams and medical and humanitarian supplies to the country. The earthquakes struck during a national holiday, so many residents were at home and not at work. The casualties are expected to rise. Rodrigo Paz, Bolivia’s centrist president, declared a state of emergency that gives him broad authority to clear the roadblocks that protesters have being manning for weeks. The protesters want the government to curb its austerity programme and reinstate fuel subsidies, but the barricades they have erected on roads have impeded the transport of basic goods. The government in part blames Evo Morales, a former leftist president, for stirring up the trouble. Bolivia, meanwhile, signed a new co-operation agreement with the United States to fight drug-trafficking. The deal was backed by Mr Paz. Mr Morales kicked agents from America’s Drug Enforcement Administration out of Bolivia when he was in power. Peter Magyar, Hungary’s new centrist prime minister, presented sweeping reforms to curb corruption. Nicknamed “Operation Cleansing Fire”, the measures include the creation of a powerful anti-corruption body and a review of the constitution. Mr Magyar also proposed a constitutional amendment to remove Tamas Sulyok as president. Mr Sulyok is an ally of Viktor Orban, the former prime minister. Much of western Europe boiled under a heatwave that smashed many temperature records. France recorded its hottest day since records began in 1947 when the thermometer hit 44.30C (111.70F) in Pissos, south of Bordeaux. At least 48 people died across France in drowning incidents as people plunged into rivers and lakes. The hot weather sparked Europe’s perennial debate about whether to install more air-conditioning. This article was downloaded by zlibrary from https://www.economist.com//the-world-this-week/2026/06/25/politics",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Sir Keir Starmer announced his resignation as Britain's prime minister, less than two years after winning a landslide majority at a general election. The ________ for Sir Keir’s decision to go was Andy Burnham’s victory in a by-election.",
+          "options": {
+            "A": "result",
+            "B": "strategy",
+            "C": "trigger",
+            "D": "obstacle"
+          },
+          "answer": "C",
+          "explanation": "文中指出Andy Burnham的胜选是引发辞职事件的导火索，trigger符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Sir Keir’s time in office was plagued by broken promises and a series of U-turns, often ________ by militant backbench MPs.",
+          "options": {
+            "A": "ignored",
+            "B": "forced",
+            "C": "rejected",
+            "D": "supported"
+          },
+          "answer": "B",
+          "explanation": "文中提到U-turns常是由激进后座议员强迫导致的，forced符合语义。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Following disastrous local elections for Labour, seven ministers quit after ________ out with Sir Keir.",
+          "options": {
+            "A": "bringing",
+            "B": "finding",
+            "C": "falling",
+            "D": "carrying"
+          },
+          "answer": "C",
+          "explanation": "Fall out with是“与某人闹翻”的固定搭配。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Sir Keir had promoted the summit as a chance to reset Britain’s relations with the EU, but the EU wants to wait until a new prime minister is in ________.",
+          "options": {
+            "A": "place",
+            "B": "turn",
+            "C": "charge",
+            "D": "power"
+          },
+          "answer": "A",
+          "explanation": "In place意为“准备就绪”或“在位”，符合欧盟等待新首相上任的情境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "In some rare good news for Britain’s Conservatives, the party won its first by-election in 50 years in Scotland by ________ out the Scottish Nationalists in south Aberdeen.",
+          "options": {
+            "A": "breaking",
+            "B": "booting",
+            "C": "working",
+            "D": "letting"
+          },
+          "answer": "B",
+          "explanation": "Boot out意为“驱逐、赶走”，这里指击败竞争对手。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The campaign centred on the nationalists’ lack of support for the oil and gas industry. Aberdeen is the ________ of Britain’s North Sea energy business.",
+          "options": {
+            "A": "sum",
+            "B": "edge",
+            "C": "hub",
+            "D": "base"
+          },
+          "answer": "C",
+          "explanation": "Hub意为中心，符合描述Aberdeen在能源业务中的地位。"
+        },
+        {
+          "q_number": 7,
+          "stem": "American and Iranian officials concluded a round of talks in Switzerland about the next stage of their peace deal. Qatari and Pakistani mediators reported “encouraging progress” towards a ________ agreement.",
+          "options": {
+            "A": "lasting",
+            "B": "temporary",
+            "C": "flawed",
+            "D": "complex"
+          },
+          "answer": "A",
+          "explanation": "Lasting agreement意为持久的协议，与encouraging progress相呼应。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The president threatened to seize control of the Strait of Hormuz and resume attacks on Iran if it does not ________ Hizbullah, Iran’s proxy in Lebanon.",
+          "options": {
+            "A": "protect",
+            "B": "support",
+            "C": "ignore",
+            "D": "curtail"
+          },
+          "answer": "D",
+          "explanation": "Curtail意为缩减、限制，符合总统对伊朗施压的语境。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Marco Rubio, the American secretary of state, said no country would be allowed to charge fees for vessels ________ the strait.",
+          "options": {
+            "A": "traversing",
+            "B": "approaching",
+            "C": "avoiding",
+            "D": "observing"
+          },
+          "answer": "A",
+          "explanation": "Traversing意为穿越，是描述船只通过海峡的最恰当词汇。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The head of the IAEA, the UN’s nuclear watchdog, stated that the agency would carry out ________ of Iran’s nuclear facilities under the initial peace deal.",
+          "options": {
+            "A": "inspections",
+            "B": "protests",
+            "C": "reviews",
+            "D": "repairs"
+          },
+          "answer": "A",
+          "explanation": "Inspections意为视察、核查，是核监管机构的职责。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The UN Security Council warned of more atrocities in Sudan, as the rebel Rapid Support Forces encircled El Obeid, the capital of the North Kordofan region. There are fears that the city’s 500,000 residents could ________ a similar fate to those in El Fasher.",
+          "options": {
+            "A": "avoid",
+            "B": "escape",
+            "C": "witness",
+            "D": "suffer"
+          },
+          "answer": "D",
+          "explanation": "Suffer a fate意为遭受某种命运，符合上下文对战争暴行的担忧。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Ethiopia’s election body confirmed that the Prosperity Party won around 90% of the parliamentary seats in a vote on June 1st that opposition groups said was ________.",
+          "options": {
+            "A": "fair",
+            "B": "rigged",
+            "C": "transparent",
+            "D": "delayed"
+          },
+          "answer": "B",
+          "explanation": "Rigged意为舞弊的，反对派认为投票存在欺诈。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The American Congress passed a housing bill with broad bipartisan support. The legislation aims to expand the supply of housing by relaxing federal regulations in the hope that this will ________ construction.",
+          "options": {
+            "A": "delay",
+            "B": "ban",
+            "C": "limit",
+            "D": "spur"
+          },
+          "answer": "D",
+          "explanation": "Spur意为刺激、促进，符合立法意图增加住房供应的逻辑。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Zohran Mamdani, the left-wing mayor, endorsed all three candidates, suggesting his popularity with voters has not ________ since taking office in January.",
+          "options": {
+            "A": "changed",
+            "B": "risen",
+            "C": "waned",
+            "D": "faded"
+          },
+          "answer": "C",
+          "explanation": "Waned意为减弱、衰退，符合语境中对其受欢迎程度的描述。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Pete Hegseth, America’s secretary of war, has led a ________ of the senior ranks in the military’s top brass.",
+          "options": {
+            "A": "purge",
+            "B": "expansion",
+            "C": "promotion",
+            "D": "review"
+          },
+          "answer": "A",
+          "explanation": "Purge意为清洗，指在军事高层中清除异己。"
+        },
+        {
+          "q_number": 16,
+          "stem": "In India protesters demanded the resignation of the education minister over a decision to make 2.2m medical students resit their exams. The results of the previous exams were ________ after it was discovered that test papers had been leaked.",
+          "options": {
+            "A": "verified",
+            "B": "accepted",
+            "C": "annulled",
+            "D": "updated"
+          },
+          "answer": "C",
+          "explanation": "Annulled意为废除、宣布无效，针对泄题事件的处理。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Colombia’s presidential election was won by Abelardo de la Espriella, a conservative who was endorsed by Donald Trump. His ________ of victory over Iván Cepeda was less than 1%.",
+          "options": {
+            "A": "advantage",
+            "B": "cost",
+            "C": "record",
+            "D": "margin"
+          },
+          "answer": "D",
+          "explanation": "Margin of victory是“胜选差额/优势”的固定表达。"
+        },
+        {
+          "q_number": 18,
+          "stem": "As voters vent their anger about rampant crime and the high cost of living, the election marks a rightward ________ in Colombia following Gustavo Petro’s term.",
+          "options": {
+            "A": "turn",
+            "B": "tilt",
+            "C": "path",
+            "D": "stop"
+          },
+          "answer": "B",
+          "explanation": "Tilt意为倾向、偏转，指政治立场向右倾斜。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Bolivia’s centrist president declared a state of emergency that gives him broad authority to clear the ________ that protesters have being manning for weeks.",
+          "options": {
+            "A": "roads",
+            "B": "barricades",
+            "C": "offices",
+            "D": "bridges"
+          },
+          "answer": "B",
+          "explanation": "Barricades意为路障，抗议者通过设立路障阻碍交通。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Much of western Europe boiled under a heatwave that smashed many temperature records. France recorded its hottest day since records began in 1947 when the ________ hit 44.30C.",
+          "options": {
+            "A": "weather",
+            "B": "climate",
+            "C": "thermometer",
+            "D": "region"
+          },
+          "answer": "D",
+          "explanation": "根据上下文，Thermometer（温度计/温度读数）指代记录的最高气温数值。"
+        }
+      ]
+    },
+    {
+      "title": "Kurt Vile Gets the Feeling",
+      "article_update_date": "06.18.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Kurt Vile Gets the Feeling Live in Concert Kurt Vile Gets the Feeling On the heels of his tenth album, “Philadelphia’s Been Good to Me,” the musician catches a show at Le Poisson Rouge and reminisces on how Beck and Pavement ignited his passion for live music. By Nick Paumgarten June 08, 2026 Most years, Kurt Vile, the recording artist, plays months’ worth of gigs, either with his band, the Violators, or with various friends and idols, so he’s on the road a ton. But home is Philadelphia, as it’s been for all but a couple of his forty-six years. The name of his latest album, his tenth, is “Philadelphia’s Been Good to Me.” One of the ways Philadelphia’s been good to him is by being close to New York. “I benefit from coming here and not having to pay the rent,” he said recently. He was sitting in a corner of Old Rabbit Club, a bar on MacDougal Street, drinking a non-alcoholic beer. He had on a Waylon Jennings T-shirt under a red plaid shirt, and an MF Doom baseball cap that contained a cascade of curly hair that Vile has a tendency to hide behind. A beer-menu lamplight suggested that the color of his Chuck Taylors was lavender. He was hanging out late (a) to make the trip down the turnpike at midnight (“Musicians know, it’s an easy shot late at night—it’s like teleportation”) and (b) to catch another band’s gig at Le Poisson Rouge. “In some ways, I like to go to shows more than play. I get the feeling. I’m a fanboy first. “I can tell you every show I’ve been to,” he said. “My first show, which is a little embarrassing, was on my fourteenth birthday-ish, the Counting Crows at the Tower Theatre. But it was on the day of that show that me and my brother, the one just under me”—Vile has nine siblings—“first heard ‘Loser’ on the radio. I called in—it was WDRE, the alternative station—and said, ‘Can I hear that ‘Loser’ song again?’ The guy was, like, ‘Beck! You want to hear Beck!’ ” That summer, Vile saw Beck perform, on the Lollapalooza tour, along with Pavement, Hole, Sonic Youth, and Cypress Hill, whose music he’d been listening to on a Walkman while skateboarding. He was hooked. “Before the pandemic, I was so busy with the family”—he and his wife have two teen-age daughters and live in the neighborhood of Mt. Airy—“I didn’t know how to leave the house. But the pandemic taught me how important shows are. There are so many people putting out records and touring. It’s competitive.” He maintains a wall calendar with upcoming concerts and reckons that, if he writes one in, “ninety-nine per cent I’m going.” That’s a strong N.F.A. (Non-Flake Average) for a middle-aged dad. “As long as there’s something up ahead, I won’t go insane,” he said. He made his way over to Le Poisson Rouge, on Bleecker Street. The act tonight was the Messthetics, a punk-prog-jazz outfit, featuring the drummer and the bassist from Fugazi (Brendan Canty and Joe Lally), a guitar wizard (Anthony Pirog), and a sax man (James Brandon Lewis). Vile greeted Canty and Lally at the merch table and then found a spot at the back. “I think last time I was here was fourteen years ago. J Mascis and Mike Watt were doing a Stooges thing. I got up and sang that song ‘No Fun.’ When I was done, Watt hollered into the mike, ‘No buns, Kurt Vile! No buns!’ ” They were busting on his skinny ass. The Messthetics came on. “All right, we’re going to play,” the drummer said. Vile popped in a pair of earplugs. After ten minutes, he darted off, then reappeared. “Come this way,” he said. “Guitar sounds better over there.” He was correct. When Pirog played a flashy line, which was often, Vile let out a cackle, an impish, cowpoke whoopee ti-yi-yo. “This guy sends you to the clouds!” he said. As Pirog’s guitar let out an atonal howl, Vile held up his phone to record it: “Always roll tape.” The Messthetics went at it for ninety minutes. No one seemed to notice Vile. Afterward, he gave his compliments to the band but didn’t hang out, as he typically would. He said that certain acts made him tear up (he cited a recent Adam Sandler gig), but the Messthetics wasn’t that vibe. “This was more like transporting noise. I get chills, but it doesn’t make me cry.” Outside, he met up with his guitar tech, who was doubling as his driver. There was stuff up ahead—the calendar entries, and rehearsals with the Violators, in preparation for a tour. (“I was anxious about playing the new stuff, but this record is bonehead simple,” Vile said.) Also, the next evening, a can’t-flake performance of “Chicago,” with his daughter Awilda in the ensemble. He recalled a night in Nashville, years ago, with John Prine and Billy Ray Cyrus, who told Vile, about Awilda, “Listen, man. I’ve got bad news. That one’s got charisma. You’re in trouble.” Home before daylight: Vile and the guitar tech commenced turnpike teleportation protocol. ♦",
+      "difficulty_constant": 7.2,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the significance of Philadelphia in Kurt Vile's life and career?",
+          "options": {
+            "A": "It serves as the sole inspiration for his musical compositions and album titles.",
+            "B": "It is his permanent residence, providing a grounding contrast to his frequent touring.",
+            "C": "It is the primary city where he hosts his own concerts and record releases.",
+            "D": "It offers him professional networking opportunities that he cannot find in New York."
+          },
+          "answer": "B",
+          "explanation": "文中提到Kurt Vile大部分时间都在路上演出，但“home is Philadelphia”，且除少数几年外，他在费城度过了四十六年的人生。这表明费城是他生活的中心和根基，与他频繁的巡演形成对比。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by describing Vile's 'N.F.A. (Non-Flake Average)'?",
+          "options": {
+            "A": "Vile is often unreliable and frequently cancels his concert attendance.",
+            "B": "Vile maintains a highly disciplined schedule despite his status as a father.",
+            "C": "Vile is prone to mental instability if he doesn't have music to look forward to.",
+            "D": "Vile struggles to balance his family responsibilities with his professional obligations."
+          },
+          "answer": "B",
+          "explanation": "文中指出Vile有一个记满演出的挂历，且一旦记下，99%会去，这体现了他作为中年父亲在繁忙之余依然保持极高的自律性和对现场演出的执着。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes Vile's reaction to the Messthetics' performance?",
+          "options": {
+            "A": "He was deeply moved to the point of being overwhelmed with emotion.",
+            "B": "He found the performance technically impressive but emotionally detached.",
+            "C": "He was bored by the music and felt the need to leave the venue early.",
+            "D": "He criticized the guitarist for playing too many atonal and flashy notes."
+          },
+          "answer": "B",
+          "explanation": "Vile提到某些演出会让他落泪，但Messthetics的演出虽然让他感到“transporting”和起鸡皮疙瘩，但他明确表示“it doesn't make me cry”，表明这是一种技术上的震撼而非深层的共情。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred from the interaction between Vile and Billy Ray Cyrus regarding Vile's daughter?",
+          "options": {
+            "A": "Cyrus believes Vile's daughter lacks the talent to succeed in the music industry.",
+            "B": "Cyrus is warning Vile that his daughter’s potential will complicate his life as a father.",
+            "C": "Vile is jealous of his daughter's growing popularity and charisma.",
+            "D": "Cyrus suggests that Vile should mentor his daughter in her acting career."
+          },
+          "answer": "B",
+          "explanation": "Cyrus告诉Vile他的女儿Awilda很有魅力（charisma），并半开玩笑地说“You're in trouble”，意指作为一个父亲，面对有才华和魅力的女儿将面临新的挑战。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary purpose of the author mentioning Vile's early experiences with Beck and Pavement?",
+          "options": {
+            "A": "To illustrate the competitive nature of the 90s music industry.",
+            "B": "To highlight the specific artists who inspired Vile to become a musician.",
+            "C": "To show how radio stations influenced the music taste of teenagers in the past.",
+            "D": "To explain the origins of Vile's intense passion for attending live concerts."
+          },
+          "answer": "D",
+          "explanation": "文章开篇提到Vile回忆起Beck和Pavement如何点燃了他对现场音乐的热情（ignited his passion for live music），这解释了他为什么即便作为职业音乐人，依然热衷于去现场看别人的演出。"
+        }
+      ]
+    },
+    {
+      "title": "Young Chinese-Irish ballroom dancer goes international",
+      "article_update_date": "05.11.2026",
+      "source_journal": "China Daily",
+      "body_text": "Kerry Sui and Francis Carty perform on the dance floor at Blackpool Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a 10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set to compete in Italy and perform on Chinese TV after winning the British juvenile ballroom championship. Kerry and Francis, who is also 10, won the British National Juvenile Ballroom trophy and took first prize last month in the juvenile Latin category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing. She started ballroom and Latin dancing four years ago and was partnered earlier this year with Francis, who lives in the English county of Shropshire. The two were friends before they performed together and Kerry said their friendship is one of the best things about her dancing partnership with Francis. Their hard work, under the guidance of teachers Laura O'Brien and David and Helen Truman, meant Kerry and Francis have seen quite a lot of success. \"When Francis is stressed, I can calm him down, because he hasn't really been in many big competitions, such as the nationals and internationals,\" Kerry said. \"My mum said I have to guide him.\" Francis said Kerry has a positive attitude and described her as always remaining upbeat. And they both have a dance that they like the least: the tango. \"The tango is like an angry dance, you have to be sharp,\" Kerry said. The dancers often visit each other's families and describe their friendship and their teachers' involvement as like being in a big family. She said a visit to China put a strain on the close bonds. \"I was in China for six weeks and there was a dance studio there where I would practice, but I felt lonely,\" Kerry said. Francis described the time they spent apart as \"horrible\". Kerry and Francis were training on Saturday in Wolverhampton, a city in England's West Midlands region, in advance of a competition in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall across parts of the United Kingdom. The pair head to Italy in January for a competition, before jetting off to China to appear on a TV show.",
+      "difficulty_constant": 4.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is significant about Kerry Sui and Francis Carty's recent achievements?",
+          "options": {
+            "A": "They have qualified for a global professional tournament in Italy.",
+            "B": "They secured top honors in two prestigious ballroom categories.",
+            "C": "They were invited to participate in a Chinese reality talent show.",
+            "D": "They have successfully balanced academic studies with competitive dancing."
+          },
+          "answer": "B",
+          "explanation": "文中明确提到他们赢得了British National Juvenile Ballroom trophy，并在Blackpool Dance Festival的juvenile Latin category获得一等奖，故选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does Kerry Sui describe the dynamics of her partnership with Francis?",
+          "options": {
+            "A": "She relies on him for emotional support during competitions.",
+            "B": "She takes on a leading role to help him manage competition stress.",
+            "C": "She feels their differing cultural backgrounds often create friction.",
+            "D": "She believes their professional relationship is strictly defined by their teachers."
+          },
+          "answer": "B",
+          "explanation": "Kerry提到当Francis紧张时，她会让他冷静下来，并且提到妈妈告诉她要guide（引导）他，体现了B选项的含义。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the text imply about the duo's opinion on the tango?",
+          "options": {
+            "A": "It is their favorite dance because it allows for sharp movements.",
+            "B": "It is physically demanding and requires more practice than other styles.",
+            "C": "It lacks the emotional warmth they prefer in their dancing.",
+            "D": "It is challenging because of the intense and aggressive nature of the dance."
+          },
+          "answer": "D",
+          "explanation": "文中提到他们最不喜欢tango，理由是tango像一个愤怒的舞蹈，需要sharp（尖锐/利落）的动作，这暗示了其情感表达上的挑战性。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase \"put a strain on\" in the text suggest regarding Kerry's trip to China?",
+          "options": {
+            "A": "It weakened the distance between her and her dance partner.",
+            "B": "It made it difficult for her to keep up with her training regimen.",
+            "C": "It caused a temporary interruption to their close working relationship.",
+            "D": "It created a conflict between her family obligations and dance schedule."
+          },
+          "answer": "C",
+          "explanation": "结合下文Francis形容那段分离时间为horrible以及Kerry感到lonely，说明这次旅行使他们亲密的伙伴关系受到了阻碍或考验，即put a strain on。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the impact of the heavy snowfall mentioned in the passage?",
+          "options": {
+            "A": "It prevented the pair from attending a scheduled competition in Stoke-on-Trent.",
+            "B": "It forced the cancellation of their upcoming training sessions in Wolverhampton.",
+            "C": "It caused a delay in their planned trip to Italy for the January competition.",
+            "D": "It resulted in the cancellation of their planned performance on Chinese TV."
+          },
+          "answer": "A",
+          "explanation": "文中指出他们在Wolverhampton训练是为了准备周日在Stoke-on-Trent的比赛，但由于大雪，the event was cancelled，即A项。"
+        }
+      ]
+    },
+    {
+      "title": "Satellite lofted for first Arab country",
+      "article_update_date": "06.23.2026",
+      "source_journal": "China Daily",
+      "body_text": "Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria. A Long March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes before placing the Alcomsat-1, the Algeria's first communications satellite, into geostationary transfer orbit, according to a news release from China Great Wall Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the successful mission. In his message, Xi said that the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership. It has become a good example of space cooperation between China and Arab countries and will play a significant role in promoting Algeria's economic and social development, he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges and cooperation in various fields, deepening the bilateral partnership so as to benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable achievement in space cooperation between the two countries and reflects the deep traditional friendship between the two sides. Algeria is willing to work with China to strengthen cooperation, he said. The satellite contract was signed in December 2013 between the Algerian Space Agency and China Great Wall Industry Corp, the country's largest space contractor in the international market. Alcomsat-1 was designed and manufactured by the China Academy of Space Technology, part of China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform. With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the satellite will be used for a wide variety of public services such as television broadcasting, emergency communications, remote education and satellite-based signal augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of the company, said Alcomsat-1 is as good as Western communications satellites in terms of technology and capacity. He said there are other contracts between his firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the significance of the launch of Alcomsat-1 as described in the passage?",
+          "options": {
+            "A": "It marks the first time China has launched a satellite for an African nation.",
+            "B": "It represents the first communications satellite exported by China to an Arab country.",
+            "C": "It is the first joint space venture between China and the Algeria Space Agency.",
+            "D": "It signals a shift in China's focus from domestic to international satellite manufacturing."
+          },
+          "answer": "B",
+          "explanation": "文章第一段明确指出：A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country，因此选项B符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to President Xi Jinping, the Alcomsat-1 project serves as a sign of what?",
+          "options": {
+            "A": "A new military alliance between China and Algeria.",
+            "B": "The end of Western dominance in space technology.",
+            "C": "The China-Algeria comprehensive strategic partnership.",
+            "D": "China's desire to control satellite communications in the Arab world."
+          },
+          "answer": "C",
+          "explanation": "文章引用了习近平主席的话：the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership，故选项C正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is true about the Alcomsat-1 satellite?",
+          "options": {
+            "A": "It was launched using a rocket manufactured by the China Academy of Space Technology.",
+            "B": "It has a designed life span of approximately 15 years.",
+            "C": "It was primarily funded by the China Great Wall Industry Corp.",
+            "D": "Its main function is to support military signal augmentation."
+          },
+          "answer": "B",
+          "explanation": "文章倒数第二段提到：With a liftoff weight of 5.2 metric tons and a designed life of 15 years，选项B与原文一致。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is implied by Fu Zhiheng's comparison of Alcomsat-1 to Western satellites?",
+          "options": {
+            "A": "Chinese satellite technology has reached a competitive level globally.",
+            "B": "Western satellites are currently technologically inferior to Chinese ones.",
+            "C": "China intends to replace all Western satellites in the Arab market.",
+            "D": "Alcomsat-1 uses components imported from Western aerospace firms."
+          },
+          "answer": "A",
+          "explanation": "Fu Zhiheng表示Alcomsat-1 is as good as Western communications satellites，意在表明中国卫星技术已达到国际先进水平，具有竞争力。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary purpose of the article?",
+          "options": {
+            "A": "To analyze the economic impact of the satellite industry in China.",
+            "B": "To report on the successful launch of Algeria's first communications satellite by China.",
+            "C": "To discuss the history of the Long March 3B carrier rocket.",
+            "D": "To criticize the cooperation between China and Arab countries in space."
+          },
+          "answer": "B",
+          "explanation": "全文围绕阿尔及利亚首颗通信卫星由中国成功发射这一核心事件展开，报道了发射细节及双方对此的评价，因此B项为最佳主旨概括。"
+        }
+      ]
+    }
+  ]
+}
