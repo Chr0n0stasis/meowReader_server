@@ -1,0 +1,19 @@
+articles:
+- article_id: epub_10
+  journal_name: Economist
+  publish_date: 05.09.2026
+  title: Politics
+- article_id: epub_49
+  journal_name: Wired
+  publish_date: 05.03.2026
+  title: Chapter 49
+- article_id: rss_0_1778874263
+  journal_name: The Guardian
+  publish_date: 05.15.2026
+  title: Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo
+- article_id: rss_5_1782588409
+  journal_name: China Daily
+  publish_date: 06.27.2026
+  title: Chinese, Russian and Indian ministers meet
+generate_date: 07.24.2026
+strategy: common
