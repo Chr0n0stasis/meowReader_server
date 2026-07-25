@@ -1,0 +1,665 @@
+group_update_date: 07.25.2026
+papers:
+- article_update_date: 07.22.2026
+  body_text: a, Different promoters used to evaluate the toxicity and the immune activity
+    of CRISIS systems. The source organism of each tested CRISIS system is listed.
+    b, Transformation efficiency of E. coli cells transformed with a pET28a derivative
+    over-expressing various CRISIS genes. Data are presented as mean ± s.d. from three
+    biological replicates. c, Serial dilutions were plated on non-selective agar plates
+    to assess growth impairment caused by IPTG-induced CRISIS systems. The experimental
+    design is depicted on the top. Cultures of transformants obtained from Kan+/IPTG−
+    plates were plated on non-selective agar plate with or without IPTG to assess
+    cell survival. The strain harboring the empty vector served as the negative control.
+    d, Measuring NAD+ levels in E. coli cells overexpressing Sir2-HerA versus the
+    empty vector control. Data are presented as mean ± s.d. from three biological
+    replicates. The P value was calculated using a two-sided Student’s t test. e,
+    Measuring NAD+ levels in E. coli cells harboring pCas-Sir2-HerA after a 3-hour
+    induction of AcrIC9 (from another plasmid) using varying IPTG concentrations.
+    Data are presented as mean ± s.d. from three biological replicates. P values were
+    calculated relative to the acr- control using a two-sided Student’s t test. f,
+    Plating of Wukong-expressing cells on selective and non-selective plates, with
+    or without IPTG. Source data
+  difficulty_constant: 12.5
+  question_type: Use of English
+  questions:
+  - answer: B
+    explanation: 文章旨在评估毒性，evaluate符合语境。
+    options:
+      A: neglect
+      B: evaluate
+      C: sustain
+      D: magnify
+    q_number: 1
+    stem: Different promoters used to ________ the toxicity and the immune activity
+      of CRISIS systems.
+  - answer: C
+    explanation: 被测试的系统，tested符合语义。
+    options:
+      A: contested
+      B: refuted
+      C: tested
+      D: retained
+    q_number: 2
+    stem: The source organism of each ________ CRISIS system is listed.
+  - answer: C
+    explanation: 细胞经过转化，transformed符合科学表达。
+    options:
+      A: converted
+      B: suppressed
+      C: transformed
+      D: deformed
+    q_number: 3
+    stem: Transformation efficiency of E. coli cells ________ with a pET28a derivative
+      over-expressing various CRISIS genes.
+  - answer: B
+    explanation: 生物重复实验，replicates是标准学术术语。
+    options:
+      A: delegates
+      B: replicates
+      C: advocates
+      D: predicates
+    q_number: 4
+    stem: Data are presented as mean ± s.d. from three biological ________.
+  - answer: C
+    explanation: 评估生长受损情况，assess符合题意。
+    options:
+      A: conceal
+      B: dismiss
+      C: assess
+      D: repress
+    q_number: 5
+    stem: Serial dilutions were plated on non-selective agar plates to ________ growth
+      impairment.
+  - answer: A
+    explanation: 实验设计被描绘在上方，depicted语义正确。
+    options:
+      A: depicted
+      B: denied
+      C: deprived
+      D: deferred
+    q_number: 6
+    stem: The experimental design is ________ on the top.
+  - answer: A
+    explanation: 菌液被涂布在培养皿上，plated符合微生物实验流程。
+    options:
+      A: plated
+      B: wasted
+      C: tasted
+      D: hailed
+    q_number: 7
+    stem: Cultures of transformants obtained from Kan+/IPTG− plates were ________
+      on non-selective agar plate.
+  - answer: C
+    explanation: 携带空载体的菌株，harboring符合生物学用词。
+    options:
+      A: ignoring
+      B: avoiding
+      C: harboring
+      D: resisting
+    q_number: 8
+    stem: The strain ________ the empty vector served as the negative control.
+  - answer: D
+    explanation: 对比实验，versus意为“与...相比”。
+    options:
+      A: below
+      B: inside
+      C: above
+      D: versus
+    q_number: 9
+    stem: Measuring NAD+ levels in E. coli cells overexpressing Sir2-HerA ________
+      the empty vector control.
+  - answer: A
+    explanation: P值通过计算得出，calculated准确。
+    options:
+      A: calculated
+      B: eliminated
+      C: stipulated
+      D: isolated
+    q_number: 10
+    stem: The P value was ________ using a two-sided Student’s t test.
+  - answer: B
+    explanation: 诱导前后的测量，结合语境，逻辑要求前置关系。
+    options:
+      A: after
+      B: before
+      C: since
+      D: unless
+    q_number: 11
+    stem: Measuring NAD+ levels in E. coli cells harboring pCas-Sir2-HerA ________
+      a 3-hour induction of AcrIC9.
+  - answer: A
+    explanation: AcrIC9来自另一个质粒，plasmid符合上下文。
+    options:
+      A: stadium
+      B: plasmid
+      C: podium
+      D: radius
+    q_number: 12
+    stem: Induction of AcrIC9 (from another ________) using varying IPTG concentrations.
+  - answer: A
+    explanation: 相对对照组计算，relative符合搭配。
+    options:
+      A: native
+      B: active
+      C: relative
+      D: pensive
+    q_number: 13
+    stem: P values were calculated ________ to the acr- control using a two-sided
+      Student’s t test.
+  - answer: B
+    explanation: 与non-selective对应，应为selective。
+    options:
+      A: selective
+      B: connective
+      C: collective
+      D: defective
+    q_number: 14
+    stem: Plating of Wukong-expressing cells on ________ and non-selective plates.
+  - answer: D
+    explanation: 数据可供审查，available是学术常用词。
+    options:
+      A: available
+      B: unstable
+      C: innable
+      D: curable
+    q_number: 15
+    stem: Source data are ________ for further review in the appendix.
+  - answer: D
+    explanation: 研究旨在阐明功能，seek符合语境。
+    options:
+      A: seeks
+      B: peaks
+      C: speaks
+      D: leaks
+    q_number: 16
+    stem: The study ________ to elucidate the function of CRISIS systems in immunity.
+  - answer: D
+    explanation: 强调其重要性，underscore是学术英语高频词。
+    options:
+      A: underscore
+      B: overlook
+      C: overcome
+      D: undergo
+    q_number: 17
+    stem: These results ________ the importance of Sir2-HerA in NAD+ metabolism.
+  - answer: B
+    explanation: 存活率下降，decline语义恰当。
+    options:
+      A: decline
+      B: decline
+      C: recline
+      D: incline
+    q_number: 18
+    stem: We observed a significant ________ in cell survival upon induction.
+  - answer: C
+    explanation: 机制仍然难以捉摸，elusive符合。
+    options:
+      A: abusive
+      B: allusive
+      C: elusive
+      D: effusive
+    q_number: 19
+    stem: The mechanism remains ________ under varying physiological conditions.
+  - answer: D
+    explanation: 进一步探索相互作用，explore最合适。
+    options:
+      A: explore
+      B: deplore
+      C: restore
+      D: implore
+    q_number: 20
+    stem: Future research should ________ the interaction between these components.
+  source_journal: Nature
+  title: CRISPR–Cas regulates expression of embedded anti-phage defence systems
+- article_update_date: 07.14.2026
+  body_text: 'Prepare for a world of ad hoc coalitions By Invitation | Variable-geometry
+    lesson Prepare for a world of ad hoc coalitions Neither wishful multilateralism
+    nor cold realpolitik will do. Mark Carney and Alexander Stubb suggest a third
+    way July 9th 2026 WE LEAD TWO countries that do not have the luxury of relying
+    on old orders of geography. Finland shares a border with a Russia that is waging
+    a war of aggression against Ukraine and actively interfering in other societies
+    instead of reforming its own. Canada shares the world’s longest land border with
+    a United States that is reassessing its priorities and transforming all its commercial
+    relationships. At the same time, we are striking closer relations with powers
+    like India and, while avoiding strategic dependencies, China, as well as with
+    countries of the Global South, because power no longer exclusively sits at a single
+    Western centre. Power is spread across three groupings: a Global West, a Global
+    East and a Global South, each increasingly autonomous. Truly global trends, including
+    power over compute, data and artificial-intelligence models, are spawning a fourth,
+    technology-driven grouping, shaping how we live, work and connect—unconstrained
+    by borders and accountable to few rules. The world order built after 1945 is unravelling
+    . Institutions as they stand are ill-prepared to avert this decline. This is a
+    moment that comes once in a century, in which our collective prosperity is defined
+    by what we choose to build, and how we build it. The work ahead requires neither
+    wishful multilateralism, which only defends the status quo, nor cold realpolitik
+    that dismantles it altogether. The alternative is values-based realism. A new
+    approach that is both principled and pragmatic. Principled in its commitment to
+    fundamental values of freedom, human rights, sustainability and solidarity. Pragmatic
+    in recognising that not every partner will share all of our values. Put simply,
+    we must form calibrated alliances, integrating deeply with those countries that
+    share our values, and remain open-eyed with those that do not. At its core, this
+    means actively taking on the world as it is, not passively waiting for a world
+    we wish to be. It means engaging with the reality that progress is incremental
+    and that interests diverge. It requires recognising the inevitable differences
+    between our countries and others, and then focusing our efforts to work together
+    where we are aligned and where we can make the greatest impact. Progress can be
+    signalled through monologue, but it will be achieved only through dialogue. Another
+    reality is that the world is moving from a more multilateral stance to a more
+    multipolar one. Multilateral order, despite its shortcomings, is governed by co-operation
+    and a clear set of rules and norms. A multipolar world, conversely, is one characterised
+    by deals, transactions and chaos. Yet instead of a binary choice between multilateral
+    and multipolar, there is another scenario, one that revolves around plurilateralism.
+    We must strive for a revival of multilateralism with better representation and
+    reformed institutions. At the same time, we should develop plurilateral arrangements.
+    This approach, a form of variable geometry, will build a dense web of connections—ad
+    hoc coalitions that work, issue by issue. In many cases it will be most effective
+    when dealing with countries with which we disagree on many issues but share enough
+    common ground to act on some. Dynamic, purpose-built coalitions will be increasingly
+    formed around shared interests, rather than a single shared institution. The coalition
+    of the willing now planning Ukraine’s post-war security has become a premier forum
+    for like-minded nations and NATO to co-ordinate efforts. The European Union’s
+    instruments, including the SAFE pact, enable partners to cut through bureaucracy
+    and to build and partner on defence capabilities, at speed. The G7’s critical-minerals
+    alliance is securing and diversifying the supply chains on which every modern
+    economy depends. In AI we could build coalitions to enhance safety and accessibility
+    by leveraging our expertise and capabilities in critical areas such as quantum
+    computing and energy. The question is no longer whether to partner, but how fast
+    we can build successful coalitions that scale across every region. The answer
+    to shifting orders of geography, trade and commerce—and the anxieties which they
+    understandably cause for citizens—is not to mourn the world that was; it is to
+    build for the world as it is. To build with code, concrete and steel; with institutions
+    that work and strong alliances that protect them. To deepen our countries’ partnerships
+    with as much of the world as we can, clear-eyed and with confidence. In this effort
+    Canada and Finland can be pivotal, because we are among the most connected economies
+    on Earth through our enviable trade access; powerful, in our capabilities as nations
+    increasing our defence spending to record levels; and purposeful, in our shared
+    commitment to territorial integrity, human rights and pluralism. In a rapidly
+    changing world, we have the grit and the sisu to chart the path ahead—and we know
+    that so have many others whom we invite to join us on this quest. ■ Mark Carney
+    is the prime minister of Canada. Alexander Stubb is the president of Finland.
+    This article was downloaded by zlibrary from https://www.economist.com//by-invitation/2026/07/08/prepare-for-a-world-of-ad-hoc-coalitions'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段提到，加拿大和芬兰无法再依赖旧的地理秩序，因为权力不再集中于西方。文章明确指出权力分散在三大阵营中，并强调了这种地缘政治变化迫使各国采取新的外交策略，而非局限于旧的依赖关系。
+    options:
+      A: The traditional Western-centric power structure remains the primary arbiter
+        of global affairs.
+      B: The emergence of autonomous power blocks necessitates a transition away from
+        rigid dependence on old geopolitical orders.
+      C: Global South countries have become the dominant influence in defining modern
+        technological and data standards.
+      D: Finland and Canada are increasingly isolated due to the changing priorities
+        of their strategic partners.
+    q_number: 1
+    stem: According to the first paragraph, what does the authors' perspective on
+      global power shift imply?
+  - answer: C
+    explanation: 文章中明确将“values-based realism”定义为“principled in its commitment to fundamental
+      values... Pragmatic in recognising that not every partner will share all of
+      our values.” 意即在坚持核心价值观的同时，务实地对待与利益不完全一致的国家。
+    options:
+      A: A diplomatic strategy that prioritizes unconditional multilateralism over
+        national sovereignty.
+      B: A passive approach that relies on international institutions to resolve all
+        diverging interests.
+      C: A balanced framework that upholds core values while pragmatically engaging
+        with partners who may hold different views.
+      D: A cold and transactional political model that discards human rights for economic
+        expediency.
+    q_number: 2
+    stem: What is the authors' definition of 'values-based realism'?
+  - answer: C
+    explanation: 文章将plurilateralism描述为“variable geometry”和“dense web of connections—ad
+      hoc coalitions that work, issue by issue.” 这强调了其灵活、针对特定议题而非僵化机构的特点。
+    options:
+      A: It advocates for the complete replacement of existing global institutions
+        with a singular, rules-based entity.
+      B: It focuses on creating permanent, all-encompassing organizations rather than
+        issue-specific solutions.
+      C: It operates through flexible, ad hoc coalitions built around specific shared
+        interests instead of relying on a single overarching institution.
+      D: It seeks to maximize bureaucratic efficiency by limiting the number of countries
+        involved in global trade.
+    q_number: 3
+    stem: What distinguishes the proposed 'plurilateralism' from traditional multilateralism?
+  - answer: B
+    explanation: 文章将“variable geometry”与“build a dense web of connections—ad hoc coalitions
+      that work, issue by issue”联系在一起，表明它指的是一种根据具体议题动态调整合作对象和深度的灵活策略。
+    options:
+      A: The unpredictability of global borders due to increasing territorial aggression.
+      B: The capacity to form dynamic and adaptable coalitions based on the specific
+        demands of each issue.
+      C: The geometric growth of the global economy through technological advancements.
+      D: The shifting boundaries of international law caused by the decline of the
+        1945 order.
+    q_number: 4
+    stem: What does the phrase 'variable geometry' imply in the context of the authors'
+      proposal?
+  - answer: C
+    explanation: 整篇文章的主旨是建议各国放弃对旧秩序的怀念和盲目的多边主义，转而采取“values-based realism”和“plurilateralism”来应对现实，这是一种在多极化世界中采取主动、务实的国际参与框架。
+    options:
+      A: To call for a return to the post-1945 global order to ensure future stability.
+      B: To mourn the loss of traditional diplomacy in the face of rising global chaos.
+      C: To propose a proactive and realistic framework for international engagement
+        in a multipolar world.
+      D: To criticize the United States and Russia for their negative impact on current
+        global commerce.
+    q_number: 5
+    stem: What is the authors' underlying purpose in writing this article?
+  source_journal: Economist
+  title: Prepare for a world of ad hoc coalitions
+- article_update_date: 06.03.2026
+  body_text: 'Summer Culture Preview Goings On Summer Culture Preview What’s coming
+    this season in TV, theatre, music, movies, dance, and art. By Inkoo Kang,Jillian
+    Steinhauer,Richard Brody,Rhoda Feng,Marina Harss,Sheldon Pearce,Jane Bua May 22,
+    2026 In the summer, New York City likes to play outside—quite literally—as with
+    the genre-skipping, star-packed music festival Governors Ball; Lincoln Center’s
+    congenial “Summer for the City” dance programming on the plaza; the Public Theatre’s
+    always electrifying, free Shakespeare in the Park; and the New York Philharmonic’s
+    blissfully cultivated borough-hopping parks tour (complete with post-show fireworks),
+    among many, many other outdoor performances. If you prefer a dark room with air-conditioning,
+    there are revamps of classics from various eras on the small and big screens—including,
+    streaming, “Little House on the Prairie,” “Cape Fear,” and “Legally Blonde,” and,
+    at the cinema, tales of Odysseus (Christopher Nolan’s “The Odyssey”) and Robin
+    Hood (Hugh Jackman carries the quiver). Blockbusters abound, among a murderers’
+    row of musical icons, at the Guggenheim’s Pop-art show, and in a movie that sees
+    Steven Spielberg dabbling, once again, in aliens. But there’s also plenty that
+    is new and unusual: John Early in drag as an addled chef-influencer, in the indie
+    flick “Maddie’s Secret”; Clubbed Thumb’s edifying Summerworks series; the Morgan
+    Library’s meditation on the history and mysteries of tarot. Have a spritz, catch
+    some rays, and, most definitely, see a show. Enjoy our summer culture preview,
+    and start making plans. —Shauna Lyon Jump to: Television | Art | Movies | The
+    Theatre | Dance | Contemporary Music | Classical Music Television Elle Woods,
+    Barack and Larry Hollywood’s current book-adaptation mania is turning the proverbial
+    beach read into the beach watch this summer. Many boast fresh premises, foremost
+    among them the Peacock drama “The Five-Star Weekend” (premièring on July 9). Based
+    on Elin Hilderbrand’s Nantucket-set novel, the series follows a food influencer,
+    played by Jennifer Garner, who copes with the sudden death of her husband by bringing
+    together friends from different stages of her life—played by the likes of Chloë
+    Sevigny and Regina Hall. Across the Atlantic, a schoolteacher in the London suburbs
+    (Rebecca Hall) is tormented by a debilitating hum in Starz’s “The Listeners” (June
+    12). The show, which Jordan Tannahill adapts from his own best-seller, finds its
+    protagonist searching for others unable to escape the mysterious and unrelenting
+    noise. A more visceral danger arrives in the form of a vengeance-obsessed Javier
+    Bardem in Apple TV’s “Cape Fear” miniseries (June 5), which is inspired by John
+    D. MacDonald’s novel “The Executioners” and its two big-screen adaptations. Bardem
+    will play the role made famous by Robert De Niro in Martin Scorsese’s 1991 film—that
+    of a violent parolee determined to get revenge on the married lawyers who represented
+    him at his trial, now played by Amy Adams and Patrick Wilson. The streaming site
+    will also see the début of “Lucky” (July 15), starring Anya Taylor-Joy as a con
+    woman wanted by both the F.B.I. and an organized-crime boss, in an action thriller
+    based on Marissa Stapley’s novel. Next month brings us America’s two-hundred-and-fiftieth
+    birthday—an occasion that Barack Obama apparently intends to celebrate through
+    a collaboration with Larry David. The unlikely pair are the faces of “Life, Larry,
+    and the Pursuit of Unhappiness” (June 26), an HBO sketch show that revisits moments
+    in American history through David’s jaundiced, hapless lens. (In one skit, an
+    attempt to kiss a nurse in the midst of V-J Day celebrations quickly gets David’s
+    character labelled a “pervo.”) A more earnest look at the country’s past will
+    be on offer in a new “Little House on the Prairie” series on Netflix (July 9),
+    based on Laura Ingalls Wilder’s semi-autobiographical books . Its community-mindedness
+    is sure to rival that of Apple TV’s “Ted Lasso” (Aug. 5), whose fourth season
+    features good-guy Ted coaching a women’s soccer team, and introducing his London
+    friends to the delights of Kansas City barbecue. While much of the country will
+    celebrate in red, white, and blue, “Legally Blonde” ’s Elle Woods will spend this
+    summer in her signature pink. The character, played by Reese Witherspoon in the
+    2001 movie, gets a prequel with Prime Video’s “Elle” (July 1), which takes its
+    protagonist (Lexi Minetree) from sun-kissed Bel Air to rain-soaked Seattle. If
+    she’s anything like her future self, teen-age Elle is sure to be guided by an
+    unerring sense of truth and justice while maintaining her irrepressible girliness.
+    What, like it’s hard?— Inkoo Kang Art Pop Art, Tarot History, Pope.L For the most
+    part, the art world doesn’t do summer blockbusters. This season, though, a few
+    of New York’s museums are mounting decidedly fun shows that could be big hits.
+    Chief among them is the Morgan Library & Museum’s “ Tarot! Renaissance Symbols,
+    Modern Visions ” (opening June 26), an exhibition that perfectly bridges the institution’s
+    scholarly approach with mass appeal. The first section of the show looks at the
+    cards’ origins in Renaissance Italy, focussing on an original, hand-painted deck
+    from the fifteenth century, when tarot was still a court game. The second part
+    centers on tarot as a tool of divination and creative inspiration, beginning with
+    the iconic 1909 Rider-Waite-Smith deck and moving on to art works from the twentieth
+    century into the present day. The Guggenheim Museum’s summer crowd-pleaser is
+    less subtle. “ Guggenheim Pop: 1960 to Now ” (June 5) surveys Pop art through
+    the lens of the institution, from landmark early exhibitions to recent acquisitions
+    (including questionable ones, such as Maurizio Cattelan’s infamous banana duct-taped
+    to the wall). It’s hard to tell what will provide the most photogenic moment:
+    posing with Claes Oldenburg and Coosje van Bruggen’s massive soft sculpture of
+    a shuttlecock or snapping selfies in a Yayoi Kusama infinity room. Either way,
+    expect to wait. Meanwhile, the International Center of Photography continues the
+    recent fashion-forward streak among the city’s museums. “ Yves Saint Laurent and
+    Photography ” (June 11) traces the trajectory of the designer, and of his brand
+    more broadly, through some three hundred fashion photographs, ad campaigns, personal
+    snapshots, and more. The exhibition, a collaboration with Paris’s Musée Yves Saint
+    Laurent and Fondation Pierre Bergé–Yves Saint Laurent, makes the case that part
+    of the French pioneer’s expertise included understanding the value of a good picture.
+    This summer also brings deep dives into more niche, yet still fascinating, subjects.
+    At the Museum of Modern Art, “ Architects of Liberation: Modernism in Western
+    Africa ” (July 5) examines how political independence helped shape the built environment
+    in seven countries, from Nigeria to Senegal, between the nineteen-fifties and
+    eighties. The show, the result of four years of research, includes roughly four
+    hundred and fifty objects, spotlighting architects and projects that have received
+    little international attention. It should be eye-opening. The Jewish Museum also
+    revisits a chapter of history with “ Modernity and Opulence: Women of the Wiener
+    Werkstätte ” (July 17). The Viennese collective and workshop, which merged high
+    aesthetics with functional design, was founded, in 1903, by three men; however,
+    women made up a substantial proportion of its artisans and clients—particularly,
+    it seems, Jewish women. This exhibition aims to tell their story through paintings,
+    ceramics, textiles, films, and more. Among the other shows of the season, it’s
+    worth noting two: “ Akinsanya Kambon: Soul Sessions ” (May 28), a doubleheader
+    at SculptureCenter and the Center for Art, Research and Alliances, which introduces
+    New Yorkers to the spiritual ceramics of a former marine and Black Panther; and
+    the Drawing Center’s “ Certainly an Act: Works on Paper by Pope.L ” (June 26),
+    a focussed look at lesser-known work by the unclassifiable contemporary artist,
+    who died three years ago. But perhaps the most art-world thing you can do in New
+    York in the summertime is to flee the city for greener pastures. If you’re plotting
+    a getaway, why not time it for Upstate Art Weekend , June 25-29? The bonanza of
+    exhibitions and events happening everywhere from museums to barns in the Hudson
+    Valley and the Catskills seems to grow larger and more delightfully unwieldy every
+    year.— Jillian Steinhauer Movies Odysseus, Aliens, Spider-Man Studios and independent
+    producers alike are planning hot fun in the summertime. Olivia Wilde directed
+    “The Invite” (June 26), an erotic comedy, in which she and Seth Rogen play a San
+    Francisco couple whose swinger neighbors (Penélope Cruz and Edward Norton) proposition
+    them. “Gail Daughtry and the Celebrity Sex Pass” (July 10), directed by David
+    Wain, stars Zoey Deutch as a Midwestern hairdresser who, enraged when her fiancé
+    (Michael Cassidy) hooks up with Jennifer Aniston, heads to Los Angeles to pair
+    off with Jon Hamm. In Gregg Araki’s “I Want Your Sex” (July 31), Cooper Hoffman
+    plays an art-studio assistant, Elliot, in a B.D.S.M. relationship with his boss
+    (Olivia Wilde); Charli XCX plays Elliot’s girlfriend. Monica Barbaro and Callum
+    Turner star in Will Gluck’s dystopian comedy “One Night Only” (Aug. 7), set in
+    a time in which premarital sex is legal for a single night a year. Action films,
+    whether fantasies or plausible realities, are seasonal mainstays, as in “Disclosure
+    Day” (June 12), Steven Spielberg’s science-fiction drama about contact with extraterrestrials,
+    with Emily Blunt as a TV newscaster and Josh O’Connor as a cybersecurity expert.
+    The disaster-film comedy “Stop! That! Train!” (June 12) features performers from
+    the “Drag Race” series, including Ginger Minj and Jujubee, as stewardesses on
+    a high-speed rail line, and RuPaul, as the President; Adam Shankman directed.
+    In “Unidentified” (June 19), directed by Haifaa Al Mansour, a Saudi woman (Mila
+    Al Zahrani) who’s obsessed with a true-crime podcast gets a clerical job at a
+    police station and winds up investigating a murder. “Her Private Hell” (July 24),
+    directed by Nicolas Winding Refn, blends science fiction and melodrama, as a mysterious
+    substance penetrates the atmosphere amid an American soldier’s search for his
+    daughter; Charles Melton and Sophie Thatcher star. Andrew Patterson’s crime drama
+    “The Rivals of Amziah King” (Aug. 14) stars Matthew McConaughey as an Oklahoma
+    beekeeper who reconnects with his former foster daughter (Angelina LookingGlass)
+    and gets ensnared in a criminal scheme involving the honey trade. Classic and
+    modern mythology come in for big-screen workouts, starting with Michael Sarnoski’s
+    “The Death of Robin Hood” (June 19), in which the bow-and-arrow-wielding wealth
+    redistributor (played by Hugh Jackman), wounded and vulnerable, looks back with
+    regret at his violent past. In “Supergirl” (June 26), directed by Craig Gillespie,
+    Milly Alcock plays the titular heroine, who helps a friend (Eve Ridley) avenge
+    the killing of her father; David Corenswet returns as Superman. Christopher Nolan’s
+    version of “The Odyssey” (July 17) stars Matt Damon as Odysseus, whose homecoming
+    to his wife, Penelope (Anne Hathaway), is impeded by battles with human and superhuman
+    opponents. Tom Holland plays their son, Telemachus; Lupita Nyong’o plays Helen
+    of Troy. In “Spider-Man: Brand New Day” (July 31), directed by Destin Daniel Cretton,
+    the webmaster (Tom Holland) comes out of retirement to combat mysterious criminals
+    in New York; Zendaya, Sadie Sink, and Jacob Batalon co-star. Summer offers no
+    vacation from creative people’s struggles. John Carney’s “Power Ballad” (May 29)
+    features Paul Rudd as a wedding singer in Ireland who seeks amends after a former
+    boy-band star (Nick Jonas) steals a song that he wrote. John Early wrote and directed
+    “Maddie’s Secret” (June 12) and also stars—in drag—as an aspiring chef whose sudden
+    fame as a food influencer is threatened by her struggle with bulimia. Angelina
+    Jolie stars in Alice Winocour’s “Couture” (June 26), as a director who, while
+    making a film about Paris Fashion Week, is diagnosed with breast cancer. Jane
+    Schoenbrun’s movie-centric horror drama “Teenage Sex and Death at Camp Miasma”
+    (Aug. 7) stars Hannah Einbinder, as a filmmaker hired to reboot a long-running
+    slasher franchise, and Gillian Anderson, as an actress from the franchise’s first
+    installment.— Richard Brody The Theatre Cramped Quarters, Ancient Poisoners This
+    season’s playwrights seem fascinated by the idea of close encounters: couples
+    stranded in deserts, churches, tents, and other pressure cookers. “ Jerome ” (Playwrights
+    Horizons; in previews, opening June 2) features a gay couple in the early nineties,
+    living in the Arizona hinterlands, where the'
+  difficulty_constant: 7.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The text uses positive and inviting language throughout (e.g., 'electrifying',
+      'blissfully cultivated', 'delightfully unwieldy', 'hot fun in the summertime'),
+      indicating a high level of enthusiasm and appreciation for the sheer range of
+      cultural activities available.
+    options:
+      A: Skeptical of the commercialization of artistic exhibitions.
+      B: Enthusiastic and appreciative of the diverse cultural variety.
+      C: Indifferent toward mainstream blockbusters while favoring niche works.
+      D: Critical of the reliance on adaptations of past classics.
+    q_number: 1
+    stem: Which of the following best describes the author's overall tone toward the
+      upcoming summer culture scene in New York City?
+  - answer: B
+    explanation: The text states 'The Five-Star Weekend' is based on Elin Hilderbrand’s
+      novel, and 'The Listeners' is adapted from Jordan Tannahill’s own best-seller.
+      Thus, both are literary adaptations.
+    options:
+      A: They both focus on the lives of influencers.
+      B: They are both adaptations of literary works.
+      C: They were both produced by the same streaming platform.
+      D: They both deal with supernatural phenomena.
+    q_number: 2
+    stem: According to the passage, what is a shared characteristic between the upcoming
+      TV series 'The Five-Star Weekend' and 'The Listeners'?
+  - answer: C
+    explanation: The author notes that the exhibition 'perfectly bridges the institution’s
+      scholarly approach with mass appeal,' which corresponds to bridging academic
+      research (scholarly) and popular attraction (mass appeal).
+    options:
+      A: It highlights the history of modern pop culture icons.
+      B: It focuses exclusively on the occult practices of the 15th century.
+      C: It effectively bridges academic inquiry with broad popular interest.
+      D: It serves as a critique of modern divination trends.
+    q_number: 3
+    stem: What is the primary significance of the Morgan Library & Museum's tarot
+      exhibition this summer?
+  - answer: B
+    explanation: The text describes it as a 'crowd-pleaser' and mentions that visitors
+      should 'expect to wait' to interact with exhibits like the infinity room or
+      the massive sculpture, implying high popularity and interactivity.
+    options:
+      A: It is a somber and highly critical look at consumerism.
+      B: It is expected to attract large crowds and offers interactive elements.
+      C: It is an obscure exhibition that likely won't attract visitors.
+      D: It is criticized for its lack of diverse artistic mediums.
+    q_number: 4
+    stem: 'In the context of the art section, what does the author imply about ''Guggenheim
+      Pop: 1960 to Now''?'
+  - answer: C
+    explanation: The text states the exhibition aims to tell the story of the women
+      who made up a substantial proportion of the artisans and clients—'particularly,
+      it seems, Jewish women'—correcting the narrative that focuses on the three male
+      founders.
+    options:
+      A: As a tribute to the three men who founded the collective.
+      B: As a purely functional display of modern industrial design.
+      C: As an investigation into the role of women, specifically Jewish women, within
+        the Wiener Werkstätte.
+      D: As an exhibition that prioritizes paintings over ceramics and textiles.
+    q_number: 5
+    stem: How does the author characterize the 'Modernity and Opulence' exhibition
+      at the Jewish Museum?
+  source_journal: New Yorker
+  title: Summer Culture Preview
+- article_update_date: 05.17.2026
+  body_text: The United Kingdom and China have agreed to raise the limit on the number
+    of direct weekly flights between the two nations to 150 from 100. The UK government
+    said the move was the first of several "open skies" deals struck in an effort
+    to increase trade post-Brexit. The deal follows an agreement in October 2016 to
+    raise the limit from 40 to 100. Such services are regulated internationally, typically
+    through bilateral agreements that limit the number and type of flights. Currently,
+    despite the deal allowing up to 100 flights a week, there are around 60. UK Transport
+    Secretary Chris Grayling said the new agreement is an "important part of preparing
+    Britain" for its future outside the European Union. "It just underlines that Britain
+    will do well, regardless of the outcome of the Brexit negotiations," Grayling
+    said. Several new services have been set up recently, including a direct route
+    between Manchester and Beijing operated by Hainan Airlines, and China Airlines'
+    renewal of a London-Taipei link. Zheng Lei, director of the Centre for Aviation
+    Research at the University of Surrey, said the UK government may be anticipating
+    continued growth in the number of visitors from China. Between January and June,
+    115,000 visitors from China arrived in the UK, an increase of 47 percent on the
+    same period in 2016. "They are possibly expecting more demand," Zheng said. "And
+    China is in the process of negotiating traffic restrictions with countries in
+    continental Europe as well, including France. So, the UK is trying to get ahead
+    and be more proactive." Zheng said demand is what will ultimately lead to airlines
+    and airports establishing new routes. "Eventually, it's down to the airlines to
+    decide whether or not to utilize the new traffic rights," he said. "If there is
+    no demand, the airlines won't operate the route, otherwise they will lose money.
+    Profitability is really the main concern." Local authorities in several large
+    UK cities, including Glasgow, Edinburgh, and Birmingham, have lobbied extensively
+    for direct links with China. Denise Hill, head of market strategy at VisitScotland,
+    welcomed the news. "The relaxation of restrictions on flights between China and
+    the UK is great news and we are confident that, when this results in a reappraisal
+    of the options open to them, airlines will be encouraged by the strong performance
+    delivered by Scotland," Hill said.
+  difficulty_constant: 6.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到该举措是英国在脱欧后为增加贸易而达成的一系列“开放天空”协议之一，旨在为英国脱离欧盟后的未来做准备。
+    options:
+      A: It marks the complete removal of all international aviation restrictions.
+      B: It serves as a proactive measure to bolster post-Brexit trade prospects.
+      C: It reflects a mandatory adjustment to the existing EU-wide transport policy.
+      D: It guarantees an immediate increase in the number of operational flights
+        to 150.
+    q_number: 1
+    stem: According to the passage, what is the primary significance of the new UK-China
+      flight agreement?
+  - answer: C
+    explanation: 文中指出，尽管之前的协议允许每周最多100个航班，但目前实际运营的数量约为60个，这说明实际数量低于上限。
+    options:
+      A: The flight capacity has already reached the newly agreed limit of 150.
+      B: Airlines are struggling to meet the high demand caused by the 2016 agreement.
+      C: The actual number of flights is lower than the previously permitted limit.
+      D: There is a strict decline in the interest of operating direct routes to China.
+    q_number: 2
+    stem: Which of the following describes the current status of flight operations
+      between the UK and China?
+  - answer: B
+    explanation: 郑磊提到中国也在与其他欧洲国家协商交通管制，因此英国试图通过更积极的行动抢占先机，以吸引来自中国的增长客流。
+    options:
+      A: The UK aims to surpass China's domestic aviation infrastructure.
+      B: The UK wants to secure its market share before other European nations do.
+      C: The UK is attempting to force airlines to open routes against their will.
+      D: The UK is responding to traffic restrictions imposed by the European Union.
+    q_number: 3
+    stem: What does Zheng Lei imply by saying 'the UK is trying to get ahead and be
+      more proactive'?
+  - answer: C
+    explanation: 文中郑磊明确指出，最终决定权在于航空公司，而航空公司的主要顾虑是利润，如果需求不足，航空公司就不会运营该航线。
+    options:
+      A: Direct intervention by the UK government.
+      B: Strong lobbying efforts from local authorities.
+      C: The profitability and market demand for the route.
+      D: The renewal of international aviation agreements.
+    q_number: 4
+    stem: According to Zheng Lei, what is the final determinant for establishing new
+      flight routes?
+  - answer: C
+    explanation: 格拉斯哥、爱丁堡等城市的政府积极游说以获得与中国的直航，VisitScotland的代表也对这一新闻表示欢迎，表明了支持和热情的态度。
+    options:
+      A: Indifferent and skeptical.
+      B: Cautious and hesitant.
+      C: Supportive and enthusiastic.
+      D: Resentful and disapproving.
+    q_number: 5
+    stem: What is the attitude of local authorities in UK cities toward the new agreement?
+  source_journal: China Daily
+  title: UK and China allow more direct flights
