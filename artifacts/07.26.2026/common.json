@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.26.2026",
+  "papers": [
+    {
+      "title": "‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools",
+      "article_update_date": "04.06.2026",
+      "source_journal": "Nature",
+      "body_text": "Escherichia coli produce a diverse array of proteins to help protect them against bacteriophages (green). Credit: M. Maeder/Dept of Microbiology, Biozentrum/SPL Bacteria have been fighting off viruses using a huge arsenal of molecular weaponry that scientists did not know about — until now. In studies published in Science today, two research teams describe the machine-learning algorithms they developed to screen bacterial genomes and identify proteins that are involved in protecting the microorganisms against viral invaders. Their analyses identified hundreds of thousands of potential antiviral proteins, which researchers could harness to develop innovative biotechnologies. “This is a treasure trove for any biochemist,” says José Antonio Escudero, a microbiologist at the CSIC National Center for Biotechnology in Madrid, who was not involved in either study. Previous discoveries of antiviral immune systems in bacteria include the gene-editing system CRISPR–Cas9 and DNA-snipping proteins called restriction enzymes. Researchers have repurposed both systems to create molecular tools for genetic engineering. “There’s a hope that maybe there’s a next generation of molecular tools that would come from some of these new systems,” says Michael Laub, a microbiologist at the Massachusetts Institute of Technology in Cambridge and a co-author on one of the studies1. Protein defences When looking at the genome of a bacterium, “most of it is still dark matter”, says Escudero. “There are many things that we don’t know how they work or what they are.” Previous studies had confirmed that bacteria use more than 250 proteins to protect themselves from viral infections. Researchers had suggested that the true bacterial immune system was much larger and more diverse than this, “But the big question was how much diversity and how can we actually predict it at scale?”, says Aude Bernheim, a microbiologist at the Pasteur Institute in Paris and a co-author on one of the papers2. Bacteria use a decoy defence molecule to set a trap for viruses In their study2, Bernheim and her colleagues trained deep-learning models on protein and genomic data to predict antiviral systems. Their goal was to identify the “full breadth of diversity of bacterial immunity”, says Bernheim. The analysis estimated that, on average, 1.5% of genes in a bacterial genome correspond to proteins that are involved in antiviral immunity — three times more than previous estimates. And more than 85% of the predicted protein families were not previously associated with immunity. Laboratory experiments on two bacterial species — Escherichia coli and Streptomyces albus — confirmed the presence of 12 ‘antiphage’ systems that ward off viruses called bacteriophages that infect bacteria. The systems had not previously been linked to antiviral defence. In their paper, Laub and his colleagues1 designed a separate machine-learning tool called DefensePredictor, which predicts bacterial immune proteins on the basis of gene and protein data from 17,000 bacterial genomes. When tested on 69 diverse strains of E. coli, DefensePredictor identified 624 proteins as defence-related immune systems, more than 100 of which were previously unknown. In lab experiments, Laub and his colleagues confirmed the defence activity in 42 cases. Both studies come to the same conclusion: that researchers have been “massively underestimating the number of defence systems”, says Laub. The research “brings to light how many systems are out there still to be characterized”, he adds. The discoveries include “hundreds of genes that we didn’t know were related”, says Escudero.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Bacteria have been fighting off viruses using a huge arsenal of molecular weaponry that scientists did not ________ about — until now.",
+          "options": {
+            "A": "know",
+            "B": "care",
+            "C": "think",
+            "D": "worry"
+          },
+          "answer": "A",
+          "explanation": "Context indicates scientists were previously unaware of these systems, so 'know' is the logical choice."
+        },
+        {
+          "q_number": 2,
+          "stem": "In studies published in Science today, two research teams describe the machine-learning algorithms they ________ to screen bacterial genomes.",
+          "options": {
+            "A": "abandoned",
+            "B": "developed",
+            "C": "ignored",
+            "D": "questioned"
+          },
+          "answer": "B",
+          "explanation": "The teams created the tools, therefore 'developed' is the correct term."
+        },
+        {
+          "q_number": 3,
+          "stem": "Their analyses identified hundreds of thousands of potential antiviral proteins, which researchers could ________ to develop innovative biotechnologies.",
+          "options": {
+            "A": "reject",
+            "B": "damage",
+            "C": "harness",
+            "D": "conceal"
+          },
+          "answer": "C",
+          "explanation": "Researchers use these proteins for technology, so 'harness' (utilize/employ) fits."
+        },
+        {
+          "q_number": 4,
+          "stem": "“This is a treasure trove for any biochemist,” says José Antonio Escudero, a microbiologist who was not ________ in either study.",
+          "options": {
+            "A": "interested",
+            "B": "involved",
+            "C": "skilled",
+            "D": "trained"
+          },
+          "answer": "B",
+          "explanation": "The speaker is providing an external expert opinion, implying they were not 'involved' in the research."
+        },
+        {
+          "q_number": 5,
+          "stem": "Previous discoveries of antiviral immune systems in bacteria include the gene-editing system CRISPR–Cas9 and DNA-snipping proteins called restriction ________.",
+          "options": {
+            "A": "structures",
+            "B": "molecules",
+            "C": "particles",
+            "D": "enzymes"
+          },
+          "answer": "D",
+          "explanation": "Restriction enzymes are a well-known scientific term in microbiology."
+        },
+        {
+          "q_number": 6,
+          "stem": "Researchers have ________ both systems to create molecular tools for genetic engineering.",
+          "options": {
+            "A": "forgotten",
+            "B": "discarded",
+            "C": "repurposed",
+            "D": "misused"
+          },
+          "answer": "C",
+          "explanation": "The context explains adapting natural bacterial defenses for new engineering tools, which is 'repurposed'."
+        },
+        {
+          "q_number": 7,
+          "stem": "“There’s a hope that maybe there’s a next generation of molecular tools that would come from some of these new ________,” says Michael Laub.",
+          "options": {
+            "A": "failures",
+            "B": "problems",
+            "C": "systems",
+            "D": "dangers"
+          },
+          "answer": "C",
+          "explanation": "The text refers to the newly discovered bacterial immune components as 'systems'."
+        },
+        {
+          "q_number": 8,
+          "stem": "When looking at the genome of a bacterium, “most of it is still dark ________”, says Escudero.",
+          "options": {
+            "A": "energy",
+            "B": "signal",
+            "C": "matter",
+            "D": "source"
+          },
+          "answer": "C",
+          "explanation": "The phrase 'dark matter' is metaphorically used here to describe unknown genomic regions."
+        },
+        {
+          "q_number": 9,
+          "stem": "Previous studies had ________ that bacteria use more than 250 proteins to protect themselves from viral infections.",
+          "options": {
+            "A": "refuted",
+            "B": "confirmed",
+            "C": "guessed",
+            "D": "debated"
+          },
+          "answer": "B",
+          "explanation": "The sentence describes established knowledge, which is 'confirmed'."
+        },
+        {
+          "q_number": 10,
+          "stem": "“But the big question was how much diversity and how can we actually predict it at ________?”, says Aude Bernheim.",
+          "options": {
+            "A": "scale",
+            "B": "random",
+            "C": "speed",
+            "D": "sight"
+          },
+          "answer": "B",
+          "explanation": "To predict diversity across many genomes is to predict it at 'scale'."
+        },
+        {
+          "q_number": 11,
+          "stem": "Bacteria use a decoy defence molecule to set a ________ for viruses.",
+          "options": {
+            "A": "signal",
+            "B": "path",
+            "C": "limit",
+            "D": "trap"
+          },
+          "answer": "D",
+          "explanation": "A decoy is used to deceive; therefore it sets a 'trap'."
+        },
+        {
+          "q_number": 12,
+          "stem": "In their study, Bernheim and her colleagues trained deep-learning models on protein and genomic data to ________ antiviral systems.",
+          "options": {
+            "A": "predict",
+            "B": "ignore",
+            "C": "avoid",
+            "D": "neglect"
+          },
+          "answer": "A",
+          "explanation": "Machine learning models are designed to 'predict' patterns."
+        },
+        {
+          "q_number": 13,
+          "stem": "Their goal was to identify the “full breadth of diversity of bacterial ________”, says Bernheim.",
+          "options": {
+            "A": "energy",
+            "B": "growth",
+            "C": "evolution",
+            "D": "immunity"
+          },
+          "answer": "D",
+          "explanation": "The context is about how bacteria fight viruses, which relates to 'immunity'."
+        },
+        {
+          "q_number": 14,
+          "stem": "The analysis estimated that, on average, 1.5% of genes in a bacterial genome correspond to proteins that are ________ in antiviral immunity.",
+          "options": {
+            "A": "involved",
+            "B": "absent",
+            "C": "unseen",
+            "D": "dormant"
+          },
+          "answer": "A",
+          "explanation": "The genes are participating in the process, hence they are 'involved'."
+        },
+        {
+          "q_number": 15,
+          "stem": "And more than 85% of the predicted protein families were not previously ________ with immunity.",
+          "options": {
+            "A": "linked",
+            "B": "merged",
+            "C": "combined",
+            "D": "associated"
+          },
+          "answer": "D",
+          "explanation": "Scientific terminology for connection is 'associated'."
+        },
+        {
+          "q_number": 16,
+          "stem": "Laboratory experiments on two bacterial species — Escherichia coli and Streptomyces albus — confirmed the ________ of 12 ‘antiphage’ systems.",
+          "options": {
+            "A": "presence",
+            "B": "absence",
+            "C": "decline",
+            "D": "failure"
+          },
+          "answer": "A",
+          "explanation": "The experiments demonstrated these systems exist, meaning their 'presence' was confirmed."
+        },
+        {
+          "q_number": 17,
+          "stem": "The systems had not previously been linked to antiviral ________.",
+          "options": {
+            "A": "offence",
+            "B": "reaction",
+            "C": "defence",
+            "D": "attack"
+          },
+          "answer": "C",
+          "explanation": "The context is about protection, so 'defence' is the correct term."
+        },
+        {
+          "q_number": 18,
+          "stem": "Laub and his colleagues designed a separate machine-learning tool called DefensePredictor, which ________ bacterial immune proteins.",
+          "options": {
+            "A": "predicts",
+            "B": "hides",
+            "C": "creates",
+            "D": "replaces"
+          },
+          "answer": "A",
+          "explanation": "The name of the tool, DefensePredictor, signifies that it 'predicts' proteins."
+        },
+        {
+          "q_number": 19,
+          "stem": "Both studies come to the same conclusion: that researchers have been “massively ________ the number of defence systems”, says Laub.",
+          "options": {
+            "A": "overestimating",
+            "B": "underestimating",
+            "C": "counting",
+            "D": "calculating"
+          },
+          "answer": "B",
+          "explanation": "The discovery of many new proteins suggests previous estimates were too low, meaning they were 'underestimating'."
+        },
+        {
+          "q_number": 20,
+          "stem": "The research “brings to light how many systems are out there still to be ________”, he adds.",
+          "options": {
+            "A": "consumed",
+            "B": "ignored",
+            "C": "destroyed",
+            "D": "characterized"
+          },
+          "answer": "D",
+          "explanation": "In scientific research, 'characterized' is the standard term for describing the functions of newly found systems."
+        }
+      ]
+    },
+    {
+      "title": "The World Cup has always been beset by scandal and strife",
+      "article_update_date": "06.18.2026",
+      "source_journal": "Economist",
+      "body_text": "The World Cup has always been beset by scandal and strife International | Poisoned chalice The World Cup has always been beset by scandal and strife So has FIFA, the outfit that administers it June 11th 2026 DID THE young Swede who refereed both the semi-final and final of the World Cup in Italy in 1934 really meet Benito Mussolini, Italy’s dictator, for dinner the night before the first of those matches? And did he agree to favour the home team, paving the way for Italy’s triumph in the tournament? To this day misgivings persist, although there is no clear evidence. From its birth, the World Cup has been beset by troubles and scandal. The stadium for the first one, in Uruguay in 1930, was not ready on time. The only African team slated to participate in that tournament, Egypt, literally missed the boat. And Uruguay, the eventual victor, was so incensed by the poor turnout from Europe that it boycotted Mussolini’s World Cup four years later—the only time a defending champion has failed to show up. As with Italy in 1934, the host country is often suspected of skulduggery. When the tournament was held in England in 1966, much of Latin America believed it was engineered in favour of the hosts (who, as everyone in England knows, won) and other European countries. The Argentine captain was sent off in an ill-tempered game with England and an English referee dismissed two Uruguayans in their match against West Germany. In 2002, when the tournament was split between Japan and South Korea, it was the Europeans’ turn to feel victimised. South Korea knocked out first Italy, after the referee disallowed an Italian goal and sent off a star player, and then Spain, in another game scarred by refereeing controversies. “It seemed as if they just sat around a table and decided to throw us out,” griped Franco Frattini, an Italian government minister. Refereeing is far from the only cause of allegations of cheating. Mussolini pioneered another: the bolstering of national teams by abruptly granting citizenship to talented foreign footballers. In the 1930s Italy imported a number of players from Latin America. Five of its squad in 1934 had already won international caps with Argentina or Brazil. Provoked by an even more egregious example—Qatar naturalised three Brazilian footballers to improve its chances of qualifying for the World Cup in 2006—football’s governing body, FIFA, ruled in 2004 that, to change national allegiances, footballers must have a clear connection with their new country. A third form of cheating is to nobble your opponents. No instance of that has ever been proven. But England fans remain convinced that dirty tricks tarred the tournament in Mexico in 1970. Their captain, Bobby Moore, was arrested just before it in Colombia on charges of having stolen a bracelet, and their goalkeeper, Gordon Banks, was forced to miss the match in which they were knocked out by a stomach complaint he blamed on a dodgy bottle of beer. A recent article in the Observer, a British newspaper, explored suspicions that he had been poisoned by the CIA to help shore up a tottering dictatorship in Brazil with a popular footballing triumph. In 1998, when Brazil lost to France in Paris in the final, it was alleged that the sub-par performance of their star striker, Ronaldo, was also the result of poisoning. That such conspiracy theories thrive is testimony to how much people everywhere care about the World Cup . According to FIFA, 1.5bn people watched the final in 2022 on television. This generates spectacular flows of revenue from broadcasting rights, sponsorship, licensing deals, ticket sales and hospitality. FIFA, a not-for-profit organisation, is expecting $8.9bn in revenue this year. Much of the money goes to the 211 national football associations that are its members and their six regional groupings. There are no clear rules about how these riches should be distributed, however, giving FIFA’s members an incentive to keep quiet about mismanagement or corruption at the organisation. An investigation in 2015 by American and Swiss authorities revealed bribe-taking on a breathtaking scale: more than 40 FIFA officials were charged. FIFA’s president at the time, Sepp Blatter, from Switzerland, had to resign (though he was later cleared). His expected successor, Jeffrey Webb from the Cayman Islands, pleaded guilty to a number of charges. Instead, Mr Blatter was replaced by Gianni Infantino, also from Switzerland, who came in as the candidate of reform. Even before the scandal, FIFA suffered from the entrenched perception that it was a moneymaking racket run for the benefit of its officers and their cronies—why else, people ask, hold the World Cup in somewhere as unsuitable, for climatic and cultural reasons, as Qatar, the host for the finals in 2022? Mr Infantino’s reforms have done little to dispel that reputation. Like his long-serving predecessors, Mr Blatter and João Havelange, a Brazilian businessman, he has proved adept at hobnobbing with the powerful. He has received a medal, the Order of Friendship, from Vladimir Putin and invented one, the FIFA Peace Prize, to award to Donald Trump last year. The sycophancy of its leaders to those in power helps explain one of FIFA’s great assets: its uncanny ability to sail serenely through geopolitical turbulence for the good of the World Cup and the massive fortunes it generates. Germany’s annexation of Austria in 1938 left the 16-country tournament that year a team short, but FIFA did not let that derail things. Had Canada succumbed to Mr Trump’s blandishments to become the 51st state of America before this year’s competition, Mr Infantino would probably have been the picture of composure. Russia’s annexation of Crimea in 2014 did not prevent it from hosting the tournament in 2018. And Iran and America are not the first countries engaged in military hostilities with each other to compete in the same World Cup. Britain’s war with Argentina over the Falklands in 1982 did not end until a day after Argentina’s loss to Belgium in the opening match of the tournament that year in Spain, which also featured England. By expanding the tournament from 32 to 48 teams, FIFA has dramatically increased not only the number of tickets to be sold and matches to be televised, but also the scope for conflict, grievance and scandal. “I hope we can use this World Cup to really unite the world,” says Mr Infantino gamely. That a good portion of the world’s football fans will be united in their fury at how the World Cup unfolds seems a safer bet. ■ This article was downloaded by zlibrary from https://www.economist.com//international/2026/06/10/the-world-cup-has-always-been-beset-by-scandal-and-strife",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following does the author imply about the 1934 World Cup in Italy?",
+          "options": {
+            "A": "There is concrete evidence confirming the referee's conspiracy with Mussolini.",
+            "B": "The Swedish referee's dinner with Mussolini was a publicly documented fact.",
+            "C": "The host nation's victory remains subject to suspicion due to historical events.",
+            "D": "The boycotting of the tournament by Uruguay was a reaction to the refereeing errors."
+          },
+          "answer": "C",
+          "explanation": "文章提到“To this day misgivings persist, although there is no clear evidence”，说明对于1934年意大利夺冠的质疑至今存在，但缺乏实证。C选项符合文中表达的怀疑态度。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author cites the 2002 South Korea games to demonstrate that _______.",
+          "options": {
+            "A": "refereeing controversies can cause resentment across international borders",
+            "B": "the host country was unjustly targeted by unfair officiating",
+            "C": "FIFA had established a rigid system to prevent cheating in host nations",
+            "D": "the Italian government was solely responsible for the ensuing diplomatic rift"
+          },
+          "answer": "A",
+          "explanation": "文中通过2002年韩国比赛的争议引发了意大利和西班牙的不满，并引用意大利政府部长的愤怒言论，说明裁判争议导致了跨国界的怨恨与指责。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the author suggest about FIFA's financial management?",
+          "options": {
+            "A": "The distribution of revenue is strictly regulated by independent authorities.",
+            "B": "FIFA's non-profit status is the primary cause of its internal corruption.",
+            "C": "The lack of clear distribution rules discourages members from reporting misconduct.",
+            "D": "Its 211 national members are actively working to reform the financial structure."
+          },
+          "answer": "C",
+          "explanation": "文中指出“There are no clear rules about how these riches should be distributed, however, giving FIFA’s members an incentive to keep quiet about mismanagement”，明确指出规则缺失使得成员国为了利益选择沉默。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the author describe Gianni Infantino's leadership style?",
+          "options": {
+            "A": "He has successfully erased the reputation of FIFA as a corrupt racket.",
+            "B": "He maintains the tradition of fostering close ties with influential political figures.",
+            "C": "He has prioritized structural reforms over maintaining personal political connections.",
+            "D": "He remains focused on addressing the climate and cultural challenges of host countries."
+          },
+          "answer": "B",
+          "explanation": "文中提到Infantino与前任一样擅长“hobnobbing with the powerful”，并列举了其与普京、特朗普的互动，证明他继承了讨好政治强人的作风。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's overall attitude toward the future of the World Cup under the expanded format?",
+          "options": {
+            "A": "Optimistic about the tournament's potential to foster global unity.",
+            "B": "Indifferent to the geopolitical tensions that the expansion might aggravate.",
+            "C": "Skeptical that the expansion will do anything other than increase conflict.",
+            "D": "Conflicted about the trade-off between increased revenue and administrative chaos."
+          },
+          "answer": "C",
+          "explanation": "文章结尾处，作者引用Infantino希望团结世界的愿望，随后讽刺道球迷因为争议而统一愤怒是一个“更保险的赌注”，体现了作者对扩军后增加冲突和丑闻的怀疑态度。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "06.26.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 7.2,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the joint statement, what is deemed necessary for ensuring lasting peace and stability in the Asia-Pacific region?",
+          "options": {
+            "A": "The exclusion of non-regional powers from economic decision-making.",
+            "B": "A regional architecture characterized by openness, inclusivity and multilateralism.",
+            "C": "The establishment of a new military alliance among China, Russia and India.",
+            "D": "The prioritization of bilateral agreements over international law."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确提到：Maintaining regional security and economic architecture that is 'open, inclusive and based on multilateralism...' is imperative for lasting peace and stability。故选项B符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary objective of the cooperation within the BRICS framework mentioned in the statement?",
+          "options": {
+            "A": "To challenge the existing global economic order.",
+            "B": "To focus exclusively on security and political military partnerships.",
+            "C": "To implement outcomes of summits and strengthen cooperation across multiple fields.",
+            "D": "To host the Ninth BRICS Summit annually in Xiamen."
+          },
+          "answer": "C",
+          "explanation": "文章提到：We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields。选项C准确概括了这一目标。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the nature of the Russia-India-China trilateral cooperation?",
+          "options": {
+            "A": "It functions as a counter-weight to Western-led international organizations.",
+            "B": "It is intended to target and contain the influence of third-party nations.",
+            "C": "It serves as a platform for consultation and coordination on issues of mutual interest.",
+            "D": "It is an exclusive club focused solely on economic trade agreements."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到该三方合作是一个平台，旨在 foster closer dialogue and practical cooperation，且 explicitly 指出 such cooperation is not directed against any other country。故选项C正确。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The phrase 'usher in' in the context of the statement most closely means:",
+          "options": {
+            "A": "Bring about or mark the start of.",
+            "B": "Avoid or postpone for a later time.",
+            "C": "Observe the decline of.",
+            "D": "Monitor the progress of."
+          },
+          "answer": "A",
+          "explanation": "usher in 意为“开创、开启”，在此处用于表示开启金砖国家合作的第二个黄金十年，符合 context 的词义是 mark the start of。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the implied attitude of the three countries toward the Shanghai Cooperation Organization (SCO)?",
+          "options": {
+            "A": "They view it as a symbolic body with little practical impact.",
+            "B": "They consider it a vital tool for fostering multilateral interaction.",
+            "C": "They believe it should shift its focus away from security issues.",
+            "D": "They want to limit its scope to political discussions only."
+          },
+          "answer": "B",
+          "explanation": "文章指出：the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region。故选项B正确。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 26",
+      "article_update_date": "04.06.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Zoë Schiffer The Big Story Nov 17, 2025 6:00 AM OpenAI's Fidji Simo Plans to Make ChatGPT Way More Useful—and Have You Pay For It As OpenAI expands in every direction, the new CEO of Applications is on a mission to make ChatGPT indispensable and lucrative. Photograph: G L Askew II In case OpenAI’s structure couldn’t get any weirder—a nonprofit in charge of a for-profit that’s become a public benefit corporation—it now has two CEOs. There’s Sam Altman, chief executive of the whole company, who manages research and compute. And as of this summer, there’s Fidji Simo, the former CEO of Instacart, who manages everything else. Simo hasn’t been seen much at OpenAI’s San Francisco office since she began as CEO of Applications in August. But her presence is felt at every level of the company—not least because she’s heading up ChatGPT and basically every function that might make OpenAI money. Simo is dealing with a relapse of postural orthostatic tachycardia syndrome (POTS) that makes her prone to fainting if she stands for long periods of time. So for now, she’s working from home in Los Angeles, and she’s on Slack. A lot. “Being present from 8 am to midnight every day, responding within five minutes, people feel like I’m there and that they can reach me immediately, that I jump on the phone within five minutes,” she tells me. Employees confirm that this is true. OpenAI’s famously Slack-driven culture can be overwhelming for new hires. But not, apparently, for Simo. Employees say she is often seen popping into channels and threads, sharing thoughts and asking questions. Simo joined during a chaotic period for OpenAI, which is expanding in nearly every direction. There are sovereign AI partnerships, new model releases, retail partnerships, multibillion-dollar compute deals , a proprietary chip, a mysterious hardware product—and of course, ChatGPT. “We do not battle for scope,” Simo says. “We battle for less scope.” The Big Interview Read more deep, weird, smart conversations with the most important people in our world. Outside Silicon Valley, Simo’s hiring came as a surprise. For those in the know, it was less of a shock. A native of Sète, a small fishing town in the south of France, Simo made a name for herself running the Facebook app at Meta before taking the top job at Instacart in 2021. She took the grocery startup public two years later. In the Valley, she’s known as a product visionary with a reputation for scaling consumer apps across the globe. Simo’s role at OpenAI is, in large part, to do the same—turn the company’s research breakthroughs into moneymaking, must-have consumer products. She faces staggering competition from tech giants like Google and Meta, as well as AI startups founded by OpenAI alums, including Thinking Machines Lab, Anthropic, and Periodic Labs. “The thing that keeps me up at night is that the intelligence of our models is well ahead of how much people are using them,” Simo says. “I see my job as closing this gap.” Since she arrived, Simo has overseen the launch of Pulse, a product that connects to users’ calendars and gives them personalized information based on their schedule, chat history, and feedback; created a jobs platform to allow people to get AI-certified and look for roles that make use of their skills; and doubled down on improving ChatGPT’s responses to people having acute mental health crises . Eventually, sources say, she’ll be the person deciding how to roll out ads in ChatGPT’s free tier. We’re sitting in the light-filled modern farmhouse where Simo lives with her husband, Rémy, and their 10-year-old daughter. On the table in front of us sit a pile of pastries and a box of Rémy’s chocolates. A former engineer, he now makes desserts full-time. It’s an idyllic backdrop for the person helming what might be the most ambitious startup on earth. If OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity, Simo’s goal is to build and scale the tools that make that possible. The question for her—and for OpenAI—is whether the mission can survive the business model. This interview has been edited and condensed for clarity. Zoë Schiffer: You’re the CEO of Applications—and you report to Sam Altman. What has that working relationship been like? Fidji Simo: What Sam wanted was the ability to focus on research and compute, so I am trying to make sure that he can free up his time. Meanwhile, he realized that this is a company that evolved primarily from a research lab but became a really important product company, and that requires a different muscle. I see my role as making that product company incredibly successful while respecting the culture of the research lab. When you’re coming into a job like that, is someone checking your references? [ Laughs. ] I think Sam had gotten references on me for like three years. Sam and I worked in the same circle, so he knew about my reputation. I don’t think he literally picked up the phone and was like, “Is she legit?” I was going to ask if Mark Zuckerberg was one of yours … Mark has been an incredible supporter throughout my career and has provided references many times. In this particular situation, I don’t think Sam called him. You’ve talked about how at Meta you took risks and at times put your role and reputation on the line. I’m curious if you’ve identified any risks that you want to push OpenAI to take. Well, taking the job felt pretty risky to me [ Laughs ]. I would say the thing that I don’t think we did well at Meta is actually anticipating the risks that our products would create in society. At OpenAI, these risks are very real. Mental health and jobs were my first two initiatives when I came into the company. I was looking at the landscape and being like, “Yep, immediately, mental health is something that we need to address. Jobs are clearly going to face some disruption , and we have a role to play to help minimize that disruption.” That’s not going to be easy, because the path is uncharted. So it is a very big responsibility, but it’s one that I feel like we have both the culture and the prioritization to really address up-front. How do you feel the company is doing on mental health right now? Just in the span of the last few months, we have massively reduced the prevalence of negative mental health responses. We have launched parental controls with leading protections. And we are working on age prediction to protect teens. At the same time, when you have 800 million people [per week], when we know the prevalence of mental health illnesses in our society, of course you are going to have people turn to ChatGPT during acute distress moments. And doing the right thing every single time is exceptionally hard. So what we’re trying to do is catch as much as we can of the behaviors that are not ideal and then constantly refine our models. But if you were to grade where the company is now and where you want it to be, what would you say? It’s not as if we’re ever going to reach that point where we’re done. Every week new behaviors emerge with features that we launch where we’re like, “Oh, that’s another safety challenge to address.” A good example is mania. You look at the transcripts, and sometimes people say, “I feel super great. I haven’t slept in two days, and I feel on top of the world.” A clinical psychologist would understand that that’s not normal—that’s mania. But if you look at the words, it seems fine. So we work with psychologists to detect the signal that this isn’t someone being super excited, this is a sign of mania, and have a strategy to intervene. Getting it wrong is also really annoying. If you’re a normal adult being excited and ChatGPT tells you, “Hey, you might be having a manic episode,” that’s not great. It is a very subtle area, and we’re trying to do it with as much care and as much external input as possible. Photograph: G L Askew II OpenAI is obviously one of the world’s most valuable startups, if not the most valuable, but it’s also losing billions of dollars every year. I’ve noticed. What opportunities do you see to get it on a path to profitability? It all comes back to the size of the markets and the value we’re providing in each market. In the past, only the wealthy had access to a team of helpers. With ChatGPT we could give everyone that team—a personal shopper , a travel agent, a financial adviser, a health coach. That is incredibly valuable, and we have barely scratched the surface. If we build that, I assume that people are going to want to pay a lot of money for that, and that revenue is going to come. Meanwhile, on the enterprise side, we sell an API and ChatGPT Enterprise, which is a great product but a very thin layer compared to all the things that we could be building for enterprise. If you think about building agents for every industry and function, there is so much to build, either by us or by enabling third parties to build on top of our platform. So I’m like, OK, the markets are huge. The depth of value is huge. That’s the basic formula for monetizing. Then the real question becomes, will we have the compute to deliver that? OpenAI has been doing hundreds of billions of dollars’ worth of deals to build data centers . When people talk about fears around the compute deals, they’re talking not only about the scale but about the deals feeling a little circular. Or the fact that a lot of the US economy seems to hinge on OpenAI and Nvidia at this point. So first off, a lot of people say, “Whoa, these compute deals are massive,” but when you look at how constrained we are internally and how much more we could do if we had more GPUs, it’s very clearly the right decision. We have a pipeline of products that are going to make massive use of compute. I know these deals look risky on the outside, but on the inside, what’s much riskier would be to not lean into compute. The companies that we’re making these deals with are extremely sophisticated. They are providing these kinds of deals and this kind of financing because they are very close partners who know our business very well. You take a product like Pulse, which we launched through the Pro tier. I want that to be available to everyone, but because of the compute constraints, we’re not able to do that. I’m giving you one example, but there’s 10 of those. How do you use Pulse? It’s super helpful for me on both the work front and the health front. On health, Pulse tells me every morning if there’s new studies published about anything related to my condition. Previously I had to research all of that. And instead of going to a medical journal, it’s all summarized in line and very clearly laid out. For work, it’s similar. As you know, staying on top of AI news is a challenge. Having Pulse deliver a quick summary of what happened in the AI world is super helpful. My husband is a chocolate maker, and he’s building an advent calendar. Pulse was like, ‘Oh, you should hide a message in all of the different windows.’ He was like, ‘That’s brilliant!’ You’re a very successful person, and you also have a chronic illness. I’m curious what you’ve learned from managing these two things simultaneously? It’s a good question. I didn’t want my disease to get in the way of my",
+      "difficulty_constant": 7.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary role of Fidji Simo as the CEO of Applications at OpenAI?",
+          "options": {
+            "A": "To assist Sam Altman in managing the research and compute infrastructure.",
+            "B": "To oversee the operational structure of the company's nonprofit status.",
+            "C": "To transform OpenAI's technological breakthroughs into profitable consumer products.",
+            "D": "To handle daily public relations and investor communications for the company."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到Simo的职责是将OpenAI的研究成果转化为赚钱且不可或缺的消费级产品，选项C准确概括了其核心使命。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does Simo mean when she says, 'We do not battle for scope. We battle for less scope'?",
+          "options": {
+            "A": "OpenAI should focus on a narrow set of high-impact priorities rather than pursuing everything.",
+            "B": "The competition between departments is causing an unnecessary expansion of goals.",
+            "C": "They are struggling to reduce the number of employees working on specific AI models.",
+            "D": "The company needs to avoid the trap of focusing on too many different markets at once."
+          },
+          "answer": "A",
+          "explanation": "这句话反映了Simo对于业务聚焦的见解。在一个扩张极其迅速的时期，她主张收缩业务范围（less scope）以求精深，而非盲目追求广度。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes Simo’s approach to dealing with the risks associated with AI products?",
+          "options": {
+            "A": "She relies primarily on historical data from Meta to predict future societal outcomes.",
+            "B": "She prioritizes proactive identification and mitigation of social risks like mental health and job displacement.",
+            "C": "She believes that the risks are largely theoretical and can be addressed after product launch.",
+            "D": "She delegates all safety concerns to external clinical psychologists to minimize company liability."
+          },
+          "answer": "B",
+          "explanation": "文中提到Simo认为Meta未能预见产品带来的社会风险，而在OpenAI，她将心理健康和就业问题作为首要任务，体现了她主动应对风险的策略。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary challenge Simo highlights regarding the detection of mental health crises in ChatGPT?",
+          "options": {
+            "A": "The lack of cooperation from external mental health professionals.",
+            "B": "The technical limitation of the model in understanding complex emotional data.",
+            "C": "The difficulty of distinguishing between positive human excitement and symptoms like mania.",
+            "D": "The reluctance of users to share their personal mental health struggles with an AI."
+          },
+          "answer": "C",
+          "explanation": "文中以‘躁狂症（mania）’为例，指出由于语义可能被误读为单纯的兴奋，系统在区分临床症状与正常情绪方面面临极大的微妙挑战。"
+        },
+        {
+          "q_number": 5,
+          "stem": "How does Simo justify the 'circular' and massive compute deals made by OpenAI?",
+          "options": {
+            "A": "They are necessary to appease investors who are concerned about profitability.",
+            "B": "They are essential for maintaining a competitive edge because compute capacity is a major constraint.",
+            "C": "They allow the company to bypass the need for traditional financing methods.",
+            "D": "They demonstrate the company's ability to dominate the proprietary chip market globally."
+          },
+          "answer": "B",
+          "explanation": "Simo解释虽然这些计算投资巨大且看似存在循环关联，但内部评估认为，算力短缺是制约公司发展的最大限制，因此加大投入是正确决策。"
+        }
+      ]
+    }
+  ]
+}
