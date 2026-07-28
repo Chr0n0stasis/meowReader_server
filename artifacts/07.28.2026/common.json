@@ -1,0 +1,465 @@
+{
+  "group_update_date": "07.28.2026",
+  "papers": [
+    {
+      "title": "Electronic-resonance enhanced molecule for perovskite solar cells",
+      "article_update_date": "07.23.2026",
+      "source_journal": "Nature",
+      "body_text": "Self-assembly monolayers (SAMs), which anchor to transparent conductive oxide (TCO) substrate and form an interfacial molecular dipole to extract carriers from perovskite layer, has promoted a stepwise improvement in efficiency of perovskite solar cells (pero-SCs).1-5 However, the limited intrinsic bonding strength due to constrained electron density on coordination sites incurs SAMs desorption and compromises charge extraction under operational stressors, posing a notable challenge to their long-term stability.6,7 To address this, we design a SAM with donor-acceptor-donor (D-A-D) resonant molecular structure, in which the electronic resonance increases the negative charge density at the acceptor anchoring group, significantly strengthening the phosphonic acid-indium tin oxide (ITO) anchoring bond and preventing the SAM desorption during operation. The device applying D-A-D resonant SAM possesses remarkable operational stability with negligible decay under maximum-power-point tracking (MPPT) at 85±5 °C for 1,080 h, maintains >93% after 1,080 h under metal halide (MH) lamp illumination (100 mW cm−2, 4.4% UV inside) at 85±5 °C and also retains >98% after 720 repetitive thermal cycles between −40 °C and 85 °C. Concurrently, the resonance induced charge delocalization facilitates efficient carrier transport, realizing a certified power conversion efficiencies (PCEs) of 27.69% on 0.063 cm2 devices and 23.63% with aperture area of 15.64 cm2. The certified efficiency of 26.64% is also realized on flexible substrates (0.063 cm2), demonstrating the universality of this approach across different types of substrates.",
+      "difficulty_constant": 12.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Self-assembly monolayers (SAMs), which ____ to transparent conductive oxide (TCO) substrate, have promoted a stepwise improvement in efficiency.",
+          "options": {
+            "A": "evolve",
+            "B": "anchor",
+            "C": "retreat",
+            "D": "diverge"
+          },
+          "answer": "B",
+          "explanation": "根据上下文，SAMs连接在基底上，anchor指固定或锚定，符合化学语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The limited intrinsic bonding strength due to constrained electron density on coordination sites ____ SAMs desorption.",
+          "options": {
+            "A": "incurs",
+            "B": "facilitates",
+            "C": "mitigates",
+            "D": "reconciles"
+          },
+          "answer": "A",
+          "explanation": "incurs意为招致或导致（通常指不好的结果），此处指导致了脱附。"
+        },
+        {
+          "q_number": 3,
+          "stem": "This poses a notable challenge to their long-term ____.",
+          "options": {
+            "A": "flexibility",
+            "B": "stability",
+            "C": "versatility",
+            "D": "conductivity"
+          },
+          "answer": "B",
+          "explanation": "文章后续多次提到operational stability，故选stability。"
+        },
+        {
+          "q_number": 4,
+          "stem": "To address this, we design a SAM with donor-acceptor-donor (D-A-D) resonant molecular structure, in ____ the electronic resonance increases the charge density.",
+          "options": {
+            "A": "which",
+            "B": "what",
+            "C": "that",
+            "D": "whose"
+          },
+          "answer": "A",
+          "explanation": "引导定语从句，in which对应先行词structure。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The resonance increases the negative charge density at the acceptor anchoring group, significantly ____ the phosphonic acid-indium tin oxide (ITO) anchoring bond.",
+          "options": {
+            "A": "weakening",
+            "B": "stretching",
+            "C": "dissolving",
+            "D": "strengthening"
+          },
+          "answer": "D",
+          "explanation": "为了防止脱附，电子共振显然是加强了锚定键。"
+        },
+        {
+          "q_number": 6,
+          "stem": "This prevents the SAM desorption ____ operation.",
+          "options": {
+            "A": "beyond",
+            "B": "during",
+            "C": "against",
+            "D": "amidst"
+          },
+          "answer": "B",
+          "explanation": "during operation是固定搭配，指在工作状态期间。"
+        },
+        {
+          "q_number": 7,
+          "stem": "The device applying D-A-D resonant SAM ____ remarkable operational stability.",
+          "options": {
+            "A": "possesses",
+            "B": "lacks",
+            "C": "evades",
+            "D": "denies"
+          },
+          "answer": "A",
+          "explanation": "possesses意为拥有，符合语义要求。"
+        },
+        {
+          "q_number": 8,
+          "stem": "It maintains >93% after 1,080 h under metal halide (MH) lamp illumination, ____ negligible decay.",
+          "options": {
+            "A": "witnessing",
+            "B": "exhibiting",
+            "C": "ignoring",
+            "D": "concealing"
+          },
+          "answer": "C",
+          "explanation": "此处逻辑为“显示出可忽略的衰减”，用exhibiting最为贴切。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The device also retains >98% after 720 repetitive thermal cycles ____ −40 °C and 85 °C.",
+          "options": {
+            "A": "across",
+            "B": "among",
+            "C": "through",
+            "D": "between"
+          },
+          "answer": "D",
+          "explanation": "between A and B是固定用法，指两个极值之间。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Concurrently, the resonance induced charge delocalization ____ efficient carrier transport.",
+          "options": {
+            "A": "hinders",
+            "B": "complicates",
+            "C": "facilitates",
+            "D": "obstructs"
+          },
+          "answer": "C",
+          "explanation": "facilitates意为促进，与efficient carrier transport语义逻辑一致。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The team is ____ a certified power conversion efficiency (PCE) of 27.69%.",
+          "options": {
+            "A": "masking",
+            "B": "depicting",
+            "C": "realizing",
+            "D": "abandoning"
+          },
+          "answer": "C",
+          "explanation": "realizing在这里意为实现，指达到这一效率水平。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The efficiency is 23.63% with an aperture ____ of 15.64 cm2.",
+          "options": {
+            "A": "margin",
+            "B": "area",
+            "C": "volume",
+            "D": "limit"
+          },
+          "answer": "B",
+          "explanation": "根据单位cm2可知，此处指的是面积(area)。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The certified efficiency of 26.64% is also realized on flexible ____.",
+          "options": {
+            "A": "mixtures",
+            "B": "solutions",
+            "C": "substrates",
+            "D": "samples"
+          },
+          "answer": "C",
+          "explanation": "文章首句提到substrate，此处指代柔性基底。"
+        },
+        {
+          "q_number": 14,
+          "stem": "This demonstrates the ____ of this approach across different types of substrates.",
+          "options": {
+            "A": "instability",
+            "B": "fragility",
+            "C": "universality",
+            "D": "complexity"
+          },
+          "answer": "C",
+          "explanation": "universality意为普遍性，说明该方法在不同基底上均有效。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The electronic resonance increases the negative charge density, ____ strengthening the anchoring bond.",
+          "options": {
+            "A": "conversely",
+            "B": "nevertheless",
+            "C": "alternatively",
+            "D": "thereby"
+          },
+          "answer": "D",
+          "explanation": "thereby表示由此，引起了加强键的效果。"
+        },
+        {
+          "q_number": 16,
+          "stem": "SAMs ____ to transparent conductive oxide (TCO) substrate.",
+          "options": {
+            "A": "refer",
+            "B": "adapt",
+            "C": "bond",
+            "D": "adhere"
+          },
+          "answer": "D",
+          "explanation": "adhere to意为粘附于，与anchor含义相近。"
+        },
+        {
+          "q_number": 17,
+          "stem": "We ____ a SAM with donor-acceptor-donor resonant molecular structure.",
+          "options": {
+            "A": "construct",
+            "B": "abandon",
+            "C": "ignore",
+            "D": "propose"
+          },
+          "answer": "A",
+          "explanation": "根据语境，研究人员设计(design)并构建(construct)了该结构。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The device possesses remarkable stability ____ negligible decay.",
+          "options": {
+            "A": "with",
+            "B": "against",
+            "C": "despite",
+            "D": "towards"
+          },
+          "answer": "A",
+          "explanation": "with表示具有某种状态，即具有可忽略的衰减。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The efficiency is realized on flexible substrates, ____ the universality of this approach.",
+          "options": {
+            "A": "questioning",
+            "B": "proving",
+            "C": "omitting",
+            "D": "highlighting"
+          },
+          "answer": "D",
+          "explanation": "highlighting意为强调或凸显，说明该结果凸显了方法的通用性。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Resonance ____ charge delocalization facilitates efficient carrier transport.",
+          "options": {
+            "A": "caused",
+            "B": "induced",
+            "C": "inducing",
+            "D": "to induce"
+          },
+          "answer": "B",
+          "explanation": "过去分词作定语，修饰charge delocalization，表示共振引起的电荷离域。"
+        }
+      ]
+    },
+    {
+      "title": "Vanishing tongues and life on Mars: Books in brief",
+      "article_update_date": "05.22.2026",
+      "source_journal": "Nature",
+      "body_text": "How to Kill a Language Sophia Smith Galer William Collins (2026) The United Nations has designated 2022–32 as the decade of Indigenous languages. A conservative estimate suggests that roughly 31,000 languages have been spoken throughout history. But of the 7,000 spoken today, only about 4,000 will still exist by 2100. Why does this matter, given the benefits of monolingualism? Because, argues journalist Sophia Smith Galer in her engaging book about ten endangered languages, “multilingualism is — like all biodiversity — a connective tissue in the grand scheme of our existence”. Becoming Martian Scott Solomon MIT Press (2026) Should humans settle on Mars? Excited by this idea, biologist Scott Solomon asks astronauts and scientists about it. He speaks to a team guiding a rover across Mars, engineers examining how space radiation affects the body and field biologists considering how humans might evolve in isolation. He learns that researchers don’t know how childbirth would respond to Martian gravity, or whether Mars-born people could survive visiting Earth. “For now,” Solomon concludes, “I’m content to remain here with my fellow humans.” I Told You So! Matt Kaplan St. Martin’s (2026) “Failure is the price that must be paid for innovation,” writes Matt Kaplan in his trenchant analysis of various scientific discoveries. “We need to start getting comfortable with that fact.” While reporting on science for The Economist, Kaplan has seen many examples of apparent failure being penalized. He notes that in the mid-nineteenth century, physician Ignaz Semmelweis was ridiculed by the medical community for his unorthodox study of postpartum infection. Only later was his explanation confirmed by the germ theory of disease. Where the Earth Meets the Sky Louise K. Blight Pegasus (2026)",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to Sophia Smith Galer, why is the decline of language diversity a matter of concern?",
+          "options": {
+            "A": "Because monolingualism hinders the progress of scientific discoveries.",
+            "B": "Because languages function as a vital component of existence similar to biodiversity.",
+            "C": "Because the United Nations aims to preserve all 31,000 historical languages.",
+            "D": "Because the number of existing languages will drop below 4,000 by 2100."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到作者认为多语言现象就像生物多样性一样，是人类存在大局中的连接组织，因此语言多样性的丧失具有深远影响。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary conclusion drawn by Scott Solomon in his book 'Becoming Martian'?",
+          "options": {
+            "A": "Human evolution in isolation on Mars is inevitable.",
+            "B": "The technical challenges of space radiation have been largely solved.",
+            "C": "Human colonization of Mars is currently too uncertain and risky.",
+            "D": "Martian gravity is perfectly suitable for human childbirth."
+          },
+          "answer": "C",
+          "explanation": "作者引用Solomon的结论‘For now, I’m content to remain here with my fellow humans’，暗示了他对火星殖民目前面临的诸多生理和科学未知因素持保留态度。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does Matt Kaplan imply about the relationship between failure and innovation?",
+          "options": {
+            "A": "Failure is an avoidable byproduct of scientific research.",
+            "B": "Scientific progress often requires accepting and embracing failure.",
+            "C": "Failure should be penalized to encourage more rigorous scientific standards.",
+            "D": "Innovation only occurs when researchers avoid unorthodox methods."
+          },
+          "answer": "B",
+          "explanation": "文中明确指出‘Failure is the price that must be paid for innovation’，强调了失败是创新的必然代价，我们需要适应这一事实。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The case of Ignaz Semmelweis is mentioned to illustrate that:",
+          "options": {
+            "A": "Medical communities are always quick to adopt new germ theories.",
+            "B": "Unorthodox scientific ideas are frequently misjudged and penalized.",
+            "C": "Postpartum infection was the only major medical challenge in the 19th century.",
+            "D": "Scientific discoveries in the past were rarely based on empirical evidence."
+          },
+          "answer": "B",
+          "explanation": "文中指出Semmelweis因其非传统的研究而受到嘲笑，这正是为了反衬科学界有时会压制尚未被主流认可的创新发现。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the author's tone in the text?",
+          "options": {
+            "A": "Critical and skeptical.",
+            "B": "Objective and informative.",
+            "C": "Optimistic and idealistic.",
+            "D": "Indifferent and detached."
+          },
+          "answer": "B",
+          "explanation": "本文属于书评摘录，作者以客观的语调介绍了四部书籍的核心主题和观点，没有过多掺杂个人情绪，属于典型的资讯性综述文体。"
+        }
+      ]
+    },
+    {
+      "title": "Why Britons now trust weather forecasters",
+      "article_update_date": "07.13.2026",
+      "source_journal": "Economist",
+      "body_text": "Why Britons now trust weather forecasters Britain | A hot topic Why Britons now trust weather forecasters Credit greater accuracy and better communication July 9th 2026 Chatting about the weather is a national pastime in Britain—and successive heatwaves have recently given Britons lots to discuss. In the past, the obsession did not translate into faith in weather forecasters. Memories lingered of the “great storm” of 1987, a deadly cyclone. The BBC’s best-known forecaster, Michael Fish (pictured), said on air that a woman had called in worrying there might be a “hurricane” approaching Britain. “If you’re watching, don’t worry, there isn’t!” he quipped. Hours later the storm struck. YouGov, a pollster, found in 2017 that barely half of people trusted forecasters to give them accurate information about the weather. But that has changed. A recent YouGov survey finds that now 62% of Britons trust them and just 25% are sceptical—still far behind trust in nurses (86%), but well ahead of economists (37%), let alone politicians (a mere 4%). The change is partly because forecasts are more accurate than ever thanks to advances in technology, suggests Alex Deakin of the Met Office. It also helps that fewer people today remember the 1987 storm. Indeed, that storm prompted investment in weather-forecasting tech and communications protocols. Liam Dutton, a weather presenter for Channel 4 News, says the model he relies on divides Britain into squares of 2km (1.2 miles) a side, whereas a decade ago the highest resolution possible was 12km. The average accuracy of a forecast four days into the future is comparable to that of a one-day forecast in the 1990s. Under-25s, who grew up in an era of reliable forecasts, are by a large margin most likely to trust forecasters. Climate change has raised the stakes by causing more extreme, sometimes life-threatening shocks such as prolonged heatwaves and sudden heavy downpours. “Being more accurate when it comes to those extreme events builds trust,” says Mr Deakin (though climate change also makes forecasting trickier). Since 2015, following the practice in America since the 1950s, the Met Office has given names to the biggest storms. The most recent was Storm Dave, in April. The agency believes this has helped engage the public. There are also colour-coded warnings for heat. A red alert in June was Britain’s second, after one in 2022. Though it is now easier to predict the British weather, dealing with it remains a challenge. Older houses are built to hoard heat in the chilly winter; regulations mean that even most new-build homes lack air conditioning. The government has at least started to offer grants for homeowners to install heat pumps that also have a cooling function, which had previously been excluded from the most popular subsidy scheme. Nonetheless, when the mercury passes 30°C most Britons will continue to lose their cool. ■ For more expert analysis of the biggest stories in Britain, sign up to Blighty, our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//britain/2026/07/05/why-britons-now-trust-weather-forecasters",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the public's previous skepticism toward weather forecasters was largely influenced by:",
+          "options": {
+            "A": "The biased reporting of the BBC during the 1990s.",
+            "B": "A notorious instance of inaccurate forecasting in 1987.",
+            "C": "A consistent lack of public interest in meteorological science.",
+            "D": "The statistical findings of YouGov regarding political mistrust."
+          },
+          "answer": "B",
+          "explanation": "文章提到1987年的“大风暴”是人们不信任气象预报员的心理阴影来源，特别是BBC气象员Michael Fish当时误报飓风不来，结果造成严重后果，这是大众缺乏信任的典型案例。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following factors is NOT mentioned as a reason for the increased trust in weather forecasting?",
+          "options": {
+            "A": "Improved technological capabilities and resolution of models.",
+            "B": "The fading memory of the 1987 weather disaster.",
+            "C": "The superior communication protocols such as naming storms.",
+            "D": "The significant rise in accuracy compared to political forecasts."
+          },
+          "answer": "D",
+          "explanation": "文章对比了公众对气象预报员和政治家的信任度，但文中并未将“准确度高于政治预报”作为气象预报准确度提升的原因，这是一个逻辑陷阱。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The phrase 'raised the stakes' in the context of climate change most likely means:",
+          "options": {
+            "A": "Increased the complexity of meteorological predictions.",
+            "B": "Enhanced the importance and consequences of accurate forecasting.",
+            "C": "Promoted the use of more sophisticated weather monitoring equipment.",
+            "D": "Encouraged the public to demand more government climate subsidies."
+          },
+          "answer": "B",
+          "explanation": "文中提到气候变化导致极端天气频发，这使得气象预报的准确性直接关系到生命安全，即“stakes”（赌注/风险/重要性）提高了。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the author suggest about the current state of infrastructure in Britain in relation to heatwaves?",
+          "options": {
+            "A": "Recent building regulations have successfully integrated air conditioning systems.",
+            "B": "Older houses are better suited to deal with extreme summer temperatures.",
+            "C": "Current housing and policies remain inadequate for cooling needs.",
+            "D": "The government has successfully modernized all homes with heat pumps."
+          },
+          "answer": "C",
+          "explanation": "文章指出老房子是为了保暖而建，新建筑也缺乏空调设施，虽然政府提供了热泵补贴，但总体而言，面对30摄氏度以上的天气，英国的居住条件依然面临挑战。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main purpose of this article?",
+          "options": {
+            "A": "To warn citizens about the worsening impact of British climate change.",
+            "B": "To critique the government's failed energy subsidy policies.",
+            "C": "To analyze the reasons behind the shift in British public opinion on weather forecasting.",
+            "D": "To illustrate the technological transition of the Met Office since the 1950s."
+          },
+          "answer": "C",
+          "explanation": "全文开篇即点出“为什么英国人现在信任气象预报员”，文章后续内容围绕准确度提升、沟通策略改善及社会心理变化对这一核心主题进行展开。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 57",
+      "article_update_date": "06.19.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Katie Drummond The Big Story Jul 21, 2025 6:00 AM Bryan Johnson Is Going to Die Millions of dollars in treatments, supplements, and scans. Immortality through AI. Bryan Johnson’s longevity script has everything—except an ending. PHOTOGRAPH: ERICA HERNANDEZ At first, the two bowls of fruit on Bryan Johnson’s kitchen island look perfect. They’re brimming with plump kiwis, hardy avocados, and ripened bananas. These are the food of the gods, I figure, for a man who aspires to live like one. But then I look closer. A lone orange, its skin flecked with mold, sits adjacent to two lemons, both almost entirely consumed by a layer of white fuzz. Something, it seems, is rotten in the estate of Johnson. The line between science and wellness has been blurred beyond recognition. WIRED is here to help . That estate, it’s worth noting, is a predictable one. Johnson’s home in Venice, California, is the angular, concrete-floored template of a dwelling you’d assume is owned by a man. Specifically a man who worked in tech, made his millions, and subsequently embarked on a midlife, post-wealth search for purpose. All of which Johnson is, and did, and still appears to be doing: After selling his web payments company, Braintree, for $800 million in 2013, Johnson parted ways with both his wife and his lifelong Mormon religion. In 2021 he announced Project Blueprint, an effort designed to reverse his own body’s aging process. This involves an all-consuming, unproven regimen including but not limited to daily exercises, blood tests, a doctrinal sleep routine, MRIs, plasma transfers, scalp stimulants, urine tests, several dozen supplements, Dexa scans, light therapy, and caloric restriction. If the rotting fruit didn’t give it away, then no, this is not a kitchen where household memories are made over milk and cookies—although a collage of candid photos taped above Johnson’s stove offers hints of familial warmth. (Johnson has three kids, one of whom is infamous for donating data on his youthful erections and his own plasma to his father’s anti-aging efforts.) This is a kitchen, after all, that shares a home with specimen cups of semen and coolers of Johnson’s blood; where pills and powders, which I find meticulously stocked in Johnson’s walk-in pantry, are mixed, optimized, and consumed; where food is not eaten so much as nutrition is performed. Performance, of course, is Johnson’s specialty. There’s the performance of his body, which Johnson claims is now the single healthiest on Earth. And there’s how that body shows up to the viewing public, which it does quite often. Johnson has been the subject of dozens of profiles and interviews, as well as a Netflix documentary released earlier this year. He has amassed more than 4 million followers across YouTube, Instagram, and X, and he posts an ongoing stream of content about his sleep habits (sublime), his diet (meticulous), and his erections (trigger warning). Johnson has also used his online reach to push back against recent controversies, including a legal battle with his former fiancée Taryn Southern, and a New York Times investigation into his extensive use of confidentiality agreements to prevent, among other things, Blueprint employees from publicly talking about Johnson as well as his business dealings. Over a 90-minute conversation, Johnson spoke at length about his longevity protocol, his assessment of RFK Jr.’s MAHA movement, and those agreements that he continues to enforce. He also took great pains to convince me—and all of you—that this wasn’t just about health and longevity. No, like most tech men living in boxy modernist homes and saddled with illusions of grandeur, Johnson has a new holy grail with which to galvanize his faithful following: artificial intelligence, baby. This interview has been edited for length and clarity. PHOTOGRAPH: ERICA HERNANDEZ PHOTOGRAPH: ERICA HERNANDEZ KATIE DRUMMOND: I’m going to ask you a very simple true-or-false question that you can answer however you want. Ready? BRYAN JOHNSON : Yes. True or false: You, Bryan Johnson, the man sitting across from me, one day at some point in the future, will die. False. Tell me more. Death has always been inevitable, so we have made all these preparations. We talk about immortality in professional achievements. We talk about life after death. There are the ways that we’ve dealt with death up to this point. And now we have this real possibility of extending our lifespans to some unknown horizon. So that’s extension. But we also have the ability to begin moving ourselves to computational systems. So currently, in a very crude form, I have a Bryan AI that has digested everything I’ve ever said. You do currently have this? I do. OK. And that Bryan AI is pretty good. As the technology gets better and better, the most prized asset is going to be existence; immortality as we thought about it before, through accomplishment or through offspring or the afterlife, will be devalued relative to existing. And that’s my fundamental bet on the future. If there was a world where, let’s say in five years, you could upload Bryan into an AI—and AI Bryan is pretty much as good as Bryan Bryan—does Bryan Bryan eat the cheeseburger? Let’s think about your question in a different way. Most people today spend every waking moment pursuing wealth; and the time they’re not spending pursuing wealth, they’re pursuing some sort of status or prestige. When you give birth to superintelligence, you can start extending lifespans to some unknown horizon: 200 years, 1,000 years, 10,000 years. Millions of years. We don’t know. When that happens, the entire game of humanity shifts from that singular focus on wealth accumulation and status and prestige to existence. Now, embedded in existence, we may still play games of power, but it will be conditioned that existence itself is the highest virtue. That’s the shift that’s starting to happen right now. Let’s move the conversation to your immediate existence. You’ve talked at length about your protocol. Walk us through a day in the life right now. OK, cool. I have built my entire existence around sleep. My sleep profile is that of an early twentysomething. I’ve worked very hard at this. So it’s eight hours and 34 minutes. I’m up less than one time per night on average, I go to bed within two to three minutes of my head hitting the pillow, and I have 94 percent sleep efficiency. Typically, most people’s sleep signal is like the stock market, and mine is just flat. But to do that, you can’t just show up and say, “I’m going to put my head on the pillow and fall asleep.” You have to build your whole life system around that. So my day begins the night before when I go to sleep, and then I wake up around 4:30 or 5:00. First thing when I wake up, I get out of bed. I try to get up within one minute of waking. Within one minute? I try to avoid the “10 more minutes” or pull the phone up and start scrolling. I get up, I will get light in my eyes within a few minutes of waking—I wake up before the sun, so it’s 10,000 lux light. I’ll take my inner ear temperature. One thing we’ve noticed, as I’ve done this for the past four years, my body temperature has dropped almost 4 degrees Fahrenheit. And there’s good evidence that species with lower basal temperatures live longer. I will then put a serum on my hair, my scalp. Rub my scalp with a silicone scrubber for hair growth. I’ll take a quick shower, and then I’ll come downstairs. I have a morning drink. I will eat something, I’ll work out for an hour. I’ll do red light therapy, then hyperbaric oxygen therapy, then some sauna, then I’ll rinse off, and then get ready for work. That is quite a regimen. And then you stop eating for the day at … ? Around noon. Really quickly, rapid fire, ask me a couple questions about myself, and then tell me how I’m doing in the Bryan Johnson universe. Great. Go. What is your resting heart rate? 48 beats per minute. That’s fantastic. Thank you. What is your most recent body inflammation blood test result, your hsCRP? Bryan, I have no idea. What is your blood glucose level? A good one. OK. How many continuous push-ups can you do? Probably 10. OK. If you stood on one foot and closed your eyes, how long could you stay standing? A minute. What is—a minute? Yes, a minute. That’s very good. Yeah. Try me. Not right now. What is the length of your telomeres? I don’t know. OK. What are your omega levels? I don’t know. OK. These are very involved questions. What is your speed of aging? Well, according to the skin test I took earlier, Bryan, it was 1.9. Yeah. Yeah. I thought you were just going to ask me if I smoke. Or exercise. Or sleep enough. I can pose a question, like “How’s your sleep?” And you can give me a generic answer like “I sleep great,” but if you look at the actual data of your telomere length, it tells me the story of your overall health. These are readouts of your biology. They just say, “This is me in raw form.” There’s no storytelling. It’s just the data. I’m relieved that I don’t have that data for you right now. Now, you were a successful entrepreneur. You felt like you weren’t living your healthiest life. You parted ways with Mormonism. You got divorced. You went through all of these seismic life changes. A lot of people make major changes to their lives. Exceedingly few people—very, very, very, very, very few people—go as far as you have. What made you take this to such an extreme? I’m really motivated by having read various biographies of people throughout time and place. In their moment, they were able to identify the most far-ranging ambition identifiable in that moment. You couldn’t have sequenced the genome in the year 1800. You probably couldn’t have gone to space in the 1920s. In any given time, a new emergent possibility is present. Then two questions arise. One is: What is it? And two is: Will somebody do it? The year 2021 was the first time in human history where a person could say “We are the first generation who won’t die” and not be ridiculed. I saw that and I thought, this is a moment when it comes together, where you see it and you can do something about it. If you talk to people who know me, if you ask my husband, poor guy, they would say that I’m a very controlled person. I wake up at the same time every day. I do the same exercise. I tend to eat a lot of very similar foods. There’s a lot of routine and structure to my life. When I hear about the way you live, I, as a very controlled person, am astounded at how controlled your life is. Was control always something that was a defining characteristic? I would reframe it and say you’re actually a really smart engineer; you realize that the metabolic cost of you having to make these decisions every single day is so expensive that you say, “You know what? It’s not worth it. I’m just going to systematize this so that my brain can be allocated toward other higher-level thinking.” I view it the same way: Why would I fight these daily, miscellaneous, ultimately irrelevant decisions on a moment-to-moment basis when they can just be automated? I’d rather spend my scarce brain capacity thinking of higher-level things—about the future of the human race, for example. PHOTOGRAPH: ERICA HERNANDEZ In 2023 I was leading the newsroom at Vice, and we published a story on you . You talked about your body image from decades ago. You talked about how hard it was",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The author mentions the \"rotting fruit\" in Bryan Johnson’s kitchen primarily to ________.",
+          "options": {
+            "A": "highlight the irony between Johnson's obsession with health and the reality of his living environment",
+            "B": "demonstrate that Johnson’s diet is actually composed of natural, unrefined ingredients",
+            "C": "criticize the wastefulness of Johnson’s expensive and meticulous lifestyle",
+            "D": "symbolize the inevitable decay that even Johnson's anti-aging protocol cannot halt"
+          },
+          "answer": "A",
+          "explanation": "The author contrasts the 'perfect' appearance of the fruit with the reality of 'mold' and 'fuzz' to point out the contradiction in Johnson's 'longevity' estate, where the pursuit of health has become distorted."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'nutrition is performed' imply about Johnson's eating habits?",
+          "options": {
+            "A": "He treats eating as a theatrical spectacle for his social media followers",
+            "B": "His diet is dictated by rigorous medical prescriptions rather than biological enjoyment",
+            "C": "He consumes nutrients in highly specialized forms to optimize physical efficiency",
+            "D": "His focus on nutrition is a superficial display intended to reinforce his brand"
+          },
+          "answer": "C",
+          "explanation": "In the context of the passage, 'performed' suggests that eating is no longer a natural act of consumption but a systematic, optimized task performed for the sake of his body's 'performance'."
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does Johnson claim that immortality through traditional means will be 'devalued'?",
+          "options": {
+            "A": "Because the rise of AI will make human memory obsolete",
+            "B": "Because physical existence will eventually be replaced by digital consciousness",
+            "C": "Because humans will stop caring about wealth and social prestige",
+            "D": "Because biological life will be extended to a point where death is no longer a concern"
+          },
+          "answer": "B",
+          "explanation": "Johnson argues that as technology advances, the ability to upload oneself to computational systems makes the traditional legacy (offspring, achievements) less valuable than the 'prize' of digital existence."
+        },
+        {
+          "q_number": 4,
+          "stem": "Which statement best reflects Johnson's perspective on 'control' in his life?",
+          "options": {
+            "A": "He believes self-discipline is a virtue that builds moral character",
+            "B": "He views rigid routines as a tool to minimize cognitive load and maximize intellectual efficiency",
+            "C": "He considers absolute control to be a mandatory requirement for human evolution",
+            "D": "He admits that his level of control is an extreme reaction to his fear of death"
+          },
+          "answer": "B",
+          "explanation": "Johnson explains that he systematizes his daily life to avoid the 'metabolic cost' of making decisions, allowing him to allocate his 'scarce brain capacity' toward 'higher-level thinking'."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the underlying tone of the interviewer's interaction with Johnson during the rapid-fire questions?",
+          "options": {
+            "A": "Admiring and eager to adopt Johnson’s lifestyle",
+            "B": "Hostile and deeply skeptical of Johnson’s data-driven health claims",
+            "C": "Skeptical but engaged, utilizing humor to reveal the absurdity of Johnson’s metrics",
+            "D": "Professional and strictly objective, focusing only on verifying scientific facts"
+          },
+          "answer": "C",
+          "explanation": "The interviewer uses humor (e.g., 'I have no idea', 'I’m relieved that I don’t have that data for you') to contrast the interviewer’s own 'normal' biology with the extreme, data-saturated world of Johnson, highlighting the absurdity of Johnson's extreme protocols."
+        }
+      ]
+    }
+  ]
+}
