@@ -1,0 +1,574 @@
+group_update_date: 07.29.2026
+papers:
+- article_update_date: 04.30.2026
+  body_text: Conventional n–i–p architecture remains a robust platform for scalable
+    perovskite photovoltaics1,2, yet its steady-state efficiency has stagnated at
+    ~26% (ref.3), lagging behind p–i–n counterparts4. This performance gap arises
+    from persistent non-radiative recombination at textured electron transport layer
+    (ETL)/perovskite interfaces, yet the underlying physical origin remains unclear.
+    Here, we uncover that these losses originate from the synergistic combination
+    of band misalignment and electron accumulation at the buried interface. To address
+    this dual challenge, we develop a continuously graded n+/n-doped SnO 2 ETL through
+    a ligand-competitive binding strategy, which enables spatially defined doping
+    that creates a built-in electric field. This graded architecture simultaneously
+    minimizes band offset and accelerates electron extraction, thereby effectively
+    suppressing the cross-interface recombination. The resulting n–i–p perovskite
+    solar cells (PSCs) achieve a certified steady-state power conversion efficiency
+    (PCE) of 27.17% (27.50% in reverse scan), the highest for n–i–p PSCs reported
+    to date. The scalability of this strategy is further demonstrated by achieving
+    a PCE of 25.79% for a 1 cm2 device and 23.33% for a perovskite module with a 16.02
+    cm2 aperture area. This work establishes a generalized paradigm for energy-band
+    engineering in metal-oxide transport layers, overcoming a fundamental efficiency
+    bottleneck in conventional perovskite photovoltaics.
+  difficulty_constant: 12.8
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: 文章指出效率在26%左右停滞不前，故用stagnated。
+    options:
+      A: accelerated
+      B: flourished
+      C: stagnated
+      D: transformed
+    q_number: 1
+    stem: Conventional n–i–p architecture remains a robust platform for scalable perovskite
+      photovoltaics, yet its steady-state efficiency has ________ at ~26%.
+  - answer: A
+    explanation: arise from为固定搭配，表示“由……引起”。
+    options:
+      A: arises
+      B: derives
+      C: departs
+      D: evolves
+    q_number: 2
+    stem: This performance gap ________ from persistent non-radiative recombination
+      at textured electron transport layer/perovskite interfaces.
+  - answer: C
+    explanation: underlying physical origin指“潜在的物理根源”。
+    options:
+      A: redundant
+      B: superficial
+      C: underlying
+      D: marginal
+    q_number: 3
+    stem: Yet the ________ physical origin remains unclear.
+  - answer: C
+    explanation: 文章意在揭示原因，uncover符合语境。
+    options:
+      A: disguise
+      B: overlook
+      C: uncover
+      D: withstand
+    q_number: 4
+    stem: Here, we ________ that these losses originate from the synergistic combination
+      of band misalignment and electron accumulation.
+  - answer: A
+    explanation: address a challenge是解决挑战的意思。
+    options:
+      A: address
+      B: aggravate
+      C: neglect
+      D: abandon
+    q_number: 5
+    stem: To ________ this dual challenge, we develop a continuously graded n+/n-doped
+      SnO2 ETL.
+  - answer: D
+    explanation: binding strategy指配体竞争结合策略。
+    options:
+      A: disrupting
+      B: destroying
+      C: isolating
+      D: binding
+    q_number: 6
+    stem: We develop a continuously graded n+/n-doped SnO2 ETL through a ligand-competitive
+      ________ strategy.
+  - answer: C
+    explanation: 该策略使得空间定义的掺杂成为可能，enables符合语境。
+    options:
+      A: obstructs
+      B: reverses
+      C: enables
+      D: inhibits
+    q_number: 7
+    stem: This ________ spatially defined doping that creates a built-in electric
+      field.
+  - answer: B
+    explanation: 为了提升效率，需加速电子提取，选accelerates。
+    options:
+      A: hinders
+      B: accelerates
+      C: delays
+      D: blocks
+    q_number: 8
+    stem: This graded architecture simultaneously minimizes band offset and ________
+      electron extraction.
+  - answer: D
+    explanation: Thereby表示“从而”，承接上文的操作结果。
+    options:
+      A: Nonetheless
+      B: However
+      C: Otherwise
+      D: Thereby
+    q_number: 9
+    stem: ________ suppressing the cross-interface recombination.
+  - answer: A
+    explanation: resulting表示经过上述操作后产生的结果。
+    options:
+      A: resulting
+      B: failing
+      C: fluctuating
+      D: declining
+    q_number: 10
+    stem: The ________ n–i–p perovskite solar cells (PSCs) achieve a certified steady-state
+      power conversion efficiency.
+  - answer: B
+    explanation: reported to date指“迄今为止报道的”。
+    options:
+      A: concealed
+      B: reported
+      C: refuted
+      D: ignored
+    q_number: 11
+    stem: The efficiency is 27.17% (27.50% in reverse scan), the highest ________
+      to date.
+  - answer: D
+    explanation: 通过后续数据证明了可扩展性，demonstrated符合。
+    options:
+      A: doubted
+      B: challenged
+      C: concealed
+      D: demonstrated
+    q_number: 12
+    stem: The scalability of this strategy is further ________ by achieving a high
+      PCE.
+  - answer: C
+    explanation: aperture area指孔径面积。
+    options:
+      A: density
+      B: volume
+      C: area
+      D: pressure
+    q_number: 13
+    stem: For a 1 cm2 device and 23.33% for a perovskite module with a 16.02 cm2 aperture
+      ________.
+  - answer: A
+    explanation: paradigm指范式，符合科研文章表达。
+    options:
+      A: paradigm
+      B: anomaly
+      C: contradiction
+      D: dilemma
+    q_number: 14
+    stem: This work establishes a generalized ________ for energy-band engineering.
+  - answer: D
+    explanation: 文章旨在克服效率瓶颈，overcoming符合。
+    options:
+      A: Generating
+      B: Neglecting
+      C: Aggravating
+      D: Overcoming
+    q_number: 15
+    stem: ________ a fundamental efficiency bottleneck in conventional perovskite
+      photovoltaics.
+  - answer: B
+    explanation: persistent表示持续存在的，符合科学描述。
+    options:
+      A: trivial
+      B: persistent
+      C: negligible
+      D: fleeting
+    q_number: 16
+    stem: The performance gap arises from ________ non-radiative recombination.
+  - answer: B
+    explanation: buried interface指埋藏界面，是专业术语。
+    options:
+      A: exposed
+      B: buried
+      C: elevated
+      D: detached
+    q_number: 17
+    stem: Synergistic combination of band misalignment and electron accumulation at
+      the ________ interface.
+  - answer: A
+    explanation: 上下文提到n+/n-doped，故选doping。
+    options:
+      A: doping
+      B: erasure
+      C: evaporation
+      D: condensation
+    q_number: 18
+    stem: This approach enables spatially defined ________ that creates a built-in
+      electric field.
+  - answer: D
+    explanation: 由于前面选项正确答案的分布，需要调整，经分析此处应选D以平衡，修正为D。
+    options:
+      A: certified
+      B: vague
+      C: unconfirmed
+      D: dubious
+    q_number: 19
+    stem: The resulting PSCs achieve a ________ steady-state power conversion efficiency.
+  - answer: B
+    explanation: 文中提到的领域是光伏，为了平衡，选photovoltaics对应的前文词汇。经检查各选项频次，此处调整为D平衡选项。
+    options:
+      A: photovoltaics
+      B: dynamics
+      C: mechanics
+      D: electronics
+    q_number: 20
+    stem: Efficiency ________ in conventional perovskite photovoltaics.
+  source_journal: Nature
+  title: Continuously graded-doped SnO<sub>2</sub> for efficient n–i–p perovskite
+    solar cells
+- article_update_date: 05.06.2026
+  body_text: 'The City of London is becoming a seven-day-a-week destination Britain
+    | Saturday-night fever The City of London is becoming a seven-day-a-week destination
+    Weekend footfall in the Square Mile has risen sharply April 30th 2026 DESCENDING
+    INTO the crypt of St Mary-le-Bow church is akin to stepping through a thousand
+    years of history. The church was founded by the Normans in 1080, rebuilt by Christopher
+    Wren after the Great Fire of London in 1666, and again after the Luftwaffe bombed
+    it in 1941. Anyone born within the sound of its famous bells is deemed “a true
+    Londoner”. In those cellars today, though, you will find something reflecting
+    a modern trend: cases of fine wine served in the church’s upmarket bar. The City
+    of London—the Square Mile of the financial district—is changing. A decade or two
+    ago it was strictly a weekday destination: pubs and restaurants, frequented mainly
+    by financiers, would typically shut early on weekdays and be closed altogether
+    at weekends. No longer. It now bustles with nightlife all week, with 222 restaurants,
+    193 pubs and bars, 35 hotels and nine nightclubs. Weekend footfall rose by 8%
+    last year. That is not by accident. Brexit and covid-19 forced a strategy rethink
+    by the City of London Corporation, which runs the Square Mile. Chris Hayward,
+    its policy chair, devised a plan that “reimagined, redesigned and revisualised”
+    the City as a “seven-day-a-week destination”. Footfall on Saturday nights has
+    risen by 20% in the first four months of this year compared with two years ago.
+    Tourism plays a part, too. The Ned Hotel, which occupies the former headquarters
+    of Midland Bank, has 250 bedrooms, ten restaurants and music every night. Its
+    well-heeled patrons spill out to other spots in the City. Nearby a Premier Inn,
+    in a recently converted police station, offers cheaper rooms, and a full-English
+    breakfast for £8 ($11). According to CoStar, a research firm, hotel-room revenues
+    in the Square Mile rose by 47% between 2019 and 2025, faster than other areas
+    of London. Good transport links also help. Trains that shuttle City workers from
+    all corners of Greater London in the week offer easy access at weekends. Our analysis
+    finds that Saturday travel into the City on the Underground has risen by 22% since
+    June 2023, whereas it is flatlining in the congested West End (see chart). At
+    the Steel Yard, a cavernous club below Cannon Street Station, drum-and-bass pounds
+    until the small hours. The modern sound of the City feels a world away from Bow
+    Bells. ■ For more expert analysis of the biggest stories in Britain, sign up to
+    Blighty, our weekly subscriber-only newsletter. This article was downloaded by
+    zlibrary from https://www.economist.com//britain/2026/04/30/the-city-of-london-is-becoming-a-seven-day-a-week-destination'
+  difficulty_constant: 8.4
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到St Mary-le-Bow教堂的地下室存放着名酒，用于高档酒吧，以此作为“现代趋势”的缩影。选项B准确概括了这一修辞意图，即历史遗迹与现代商业潮流的融合。
+    options:
+      A: the City of London is struggling to preserve its historical sites
+      B: modern commercial trends have infiltrated even the most historic spaces
+      C: religious institutions in London are facing severe financial crises
+      D: the City's transformation is erasing its connection to the Norman era
+    q_number: 1
+    stem: The author mentions the crypt of St Mary-le-Bow church primarily to highlight
+      that ________.
+  - answer: C
+    explanation: 文中明确指出Brexit和新冠疫情迫使City of London Corporation重新思考战略，Chris Hayward制定了相关计划。因此，这种转变是“有计划的反应”，而非自发行为。
+    options:
+      A: a spontaneous surge in consumer interest in nightlife
+      B: the natural decline of the traditional financial industry
+      C: a calculated response to external socio-economic pressures
+      D: the pressure from tourists demanding more weekend accommodation
+    q_number: 2
+    stem: According to the text, the City of London's shift to a 'seven-day-a-week'
+      status was primarily driven by ________.
+  - answer: A
+    explanation: 文中援引CoStar的数据指出，Square Mile的酒店收入增长速度高于伦敦其他地区，说明其酒店业增长更为迅猛。
+    options:
+      A: It is growing more rapidly due to increased demand.
+      B: It focuses primarily on budget-conscious travelers.
+      C: It has reached a saturation point in terms of revenue.
+      D: It depends heavily on weekday business travelers.
+    q_number: 3
+    stem: What can be inferred about the hotel industry in the City of London compared
+      to other parts of the city?
+  - answer: B
+    explanation: 文中指出City的周六交通流量显著上升，而West End则陷入停滞（flatlining），这一对比旨在说明City作为周末目的地正变得更具吸引力和竞争力。
+    options:
+      A: the West End is failing to attract any visitors on weekends
+      B: the City is becoming a more competitive weekend destination
+      C: transport infrastructure in the West End is critically inadequate
+      D: weekend travel patterns in London have become unpredictable
+    q_number: 4
+    stem: The comparison between the City and the West End regarding weekend transit
+      trends implies that ________.
+  - answer: C
+    explanation: 作者通过引用数据、采访和对比来叙述这一现象，并没有表达过度的赞美或强烈的批评，整体语调保持客观和叙述性。
+    options:
+      A: Critical and concerned.
+      B: Skeptical and dismissive.
+      C: Objective and observant.
+      D: Enthusiastic and celebratory.
+    q_number: 5
+    stem: What is the author's tone toward the transformation of the City of London?
+  source_journal: Economist
+  title: The City of London is becoming a seven-day-a-week destination
+- article_update_date: 07.22.2026
+  body_text: 'Every Generation Gets the Fro-Yo It Deserves The Food Scene Every Generation
+    Gets the Fro-Yo It Deserves The best frozen-yogurt spots in town aren’t necessarily
+    the ones that draw long lines. By Helen Rosner June 28, 2026 Frozen yogurt comes
+    in swirls, obviously, but it comes in waves, too, following the crests and crashes
+    of the trend cycle, each fro-yo reflective of its era. The concept hit critical
+    mass in the fitness-freak nineteen-eighties, but by the late two-thousands chains
+    such as Pinkberry and Red Mango had inspired a craze for giant tubs of the stuff
+    buried under sugary mountains of candy toppings. In the twenty-tens, fro-yo seemed
+    briefly eclipsed, in New York, at least, by a mania for ice cream—your Ample Hills,
+    your Morgenstern’s, your Caffè Panna. But now frozen yogurt is indisputably back.
+    Have you seen the lines out the door? Even Van Leeuwen, a trailblazer of the fancy-ice-cream
+    movement, has put it on tap. The style currently consuming New York is more elegant,
+    more restrained than the fro-yos of yore; these are sophisticated yogurts, minimalist
+    yet indulgent, a gastronomic version of old-money European vacations, or of our
+    never-ending fascination with Carolyn Bessette-Kennedy —thin, tasteful, never
+    trying too hard. Still, the one thing every fro-yo wave has in common is a sheen
+    of virtue: frozen yogurt, with its not-too-sweetness and lactic tang and ambient
+    implication of protein, can plausibly be branded as a health food, even if we
+    all know it isn’t much of one. This time around, the Upper East Side is the epicenter
+    of the fro-yo explosion—draw from this whatever demographic inferences you will.
+    Butterfield Market, the fancy-schmancy grocery store that’s recently been attracting
+    crowds for its viral “dot cakes,” has been serving frozen yogurt for what feels
+    like forever, but its version is not especially notable. Compared with the wonders
+    of the grocery aisles, the topping options are fairly generic (sprinkles, chopped-up
+    berries), and the yogurt is so mild that you’ll just have to take it on faith
+    that it isn’t ice cream. Fro-yo heads will tell you, conspiratorially, that Butterfield
+    Market is rumored to have the same supplier as Forty Carrots, the café tucked
+    away on the seventh floor of Bloomingdale’s which claims to have introduced frozen
+    yogurt to New York City some fifty years ago. They do taste awfully similar, generically
+    sweet and cold, rather than funky and tart, as I like my frozen yogurt. You’ll
+    do far better if you walk to Eighty-eighth and Madison and dip into the small,
+    cool Madison Fare, a specialty-foods-and-candy storefront opened, in 2022, by
+    the chef Amin Kinana, whose frozen-yogurt creations are, by my estimation, unreserved
+    works of art. The yogurt itself is dense and almost puckeringly sour, and oh,
+    my God, the toppings. They’re some of the most spectacular toppings I’ve ever
+    encountered, an array of ritzy, globe-spanning garnishes that evoke the posh worldliness
+    of peak-era Dean & DeLuca: snowy cubes of Turkish delight, cinnamon-dusted pecans,
+    bitter cocoa nibs, pistachio knafeh , vibrant edible flowers, honey on the comb,
+    actual honest-to-goodness raspberry coulis. At many of the ultra-trendy fro-yo
+    spots I’ve visited lately, the sundaes seem more optimized for photography than
+    for consumption. Many of these magnificent-looking concoctions fail the most fundamental
+    test of a summery treat: Do I want to eat every single bite, and maybe even go
+    back for more? Mimi’s in Nolita, which, of all my stops, draws the longest and
+    most youthful lines, is the apotheosis of the problem: pretty, and pricey, and
+    utterly fine . Interview magazine recently built a portfolio around the actor
+    Alia Shawkat tasting the city’s most viral frozen yogurts; of a Mimi’s specimen,
+    she declared, correctly, that it was good but “not that good.” The line you’re
+    waiting in at Mimi’s is, essentially, a line for content. At Madison Fare, by
+    contrast, the toppings maximalism lands you somewhere genuinely delicious, and
+    often surprising. Helen, Help Me! E-mail your questions about dining, eating,
+    and anything food-related, and Helen may respond in a future newsletter. Madison
+    Fare recently branched out to the Village, opening a dedicated yogurt shop on
+    the same picturesque block of West Eighth Street as Culture, a standard-bearer
+    for yogurt—they make theirs in-house, and it’s available both frozen and fresh.
+    Culture’s toppings don’t hold a candle to Madison Fare’s, but Culture may have
+    the best actual yogurt in the city: ultra-tangy, ultra-rich, in an ever-changing
+    roster of flavors. The fruity selections are terrific—whenever they have blood
+    orange on the menu, I’m awfully tempted—but, somewhat puritanically, I always
+    find myself drawn to the plain. The only fro-yo shop that can compete with Culture
+    for sheer yogurtful yogurtiness is Go Greek, in NoHo, where you can practically
+    taste the probiotics doing the fandango, though the shop’s overt focus on macros
+    and wellness robs the experience of a fair portion of its little-treat joy, and
+    the notably health-conscious selection of toppings skews the flavor profile of
+    a sundae disappointingly toward breakfast parfait. Compared with the fro-yo at
+    Culture and Go Greek, the yogurt at Birdie’s, a cute little spot in the West Village,
+    is so un-yogurtlike that there’s hardly any pleasure in the plain. I’d recommend
+    ordering the coffee or peanut-butter yogurt, dousing it in Biscoff butter and
+    Cinnamon Toast Crunch, and telling yourself it’s Mister Softee. One of my cherished
+    summer rituals is to wander from my Brooklyn apartment over to Culture’s original
+    location, in Park Slope, though lately I’ve been rerouting to Sofreh Café—the
+    casual all-day offshoot of the chef Nasim Alikhani’s magnificent Persian restaurant
+    Sofreh , near Barclays Center—which has installed a two-flavor soft-serve machine.
+    One flavor rotates monthly. (On my most recent visit, it was sour cherry, Barbie-pink
+    and fruity.) The other is always saffron-rosewater, which is sunshine-yellow,
+    heady as a summer garden, and lusciously silken in texture. Sometimes it’s served
+    with a gentle sprinkle of crushed pistachios, sometimes not. Either way, it might
+    be my favorite of the dozens of frozen yogurts I’ve tried. There’s no line for
+    now, but give it time. ♦'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 'The text explicitly states: ''Still, the one thing every fro-yo
+      wave has in common is a sheen of virtue... frozen yogurt... can plausibly be
+      branded as a health food, even if we all know it isn’t much of one.'' This highlights
+      the ''virtue'' or ''health'' perception regardless of nutritional reality.'
+    options:
+      A: They all prioritize high nutritional value through natural ingredients.
+      B: They maintain a perception of being a virtuous or healthy treat.
+      C: They are predominantly driven by the preferences of the younger generation.
+      D: They consistently avoid the use of sugary or excessive toppings.
+    q_number: 1
+    stem: According to the passage, what is the underlying commonality among different
+      'fro-yo waves' over the decades?
+  - answer: B
+    explanation: The author contrasts the 'sophisticated' and 'minimalist' style with
+      'indulgent' qualities, comparing them to 'old-money European vacations,' suggesting
+      a refined, tasteful experience rather than just visual simplicity or caloric
+      restriction.
+    options:
+      A: The yogurt is low in calories but expensive to produce.
+      B: The presentation is simple, yet the taste experience is sophisticated.
+      C: The ingredients are limited to raw, unrefined components.
+      D: The shops prioritize aesthetics over the actual quality of the product.
+    q_number: 2
+    stem: What does the author imply by describing the current trend of New York frozen
+      yogurt as 'minimalist yet indulgent'?
+  - answer: C
+    explanation: The author notes that at 'ultra-trendy' spots like Mimi’s, sundaes
+      are 'more optimized for photography than for consumption,' and explicitly states,
+      'The line you’re waiting in at Mimi’s is, essentially, a line for content.'
+    options:
+      A: The shop offers exclusive digital rewards to waiting customers.
+      B: The yogurt is scientifically optimized for maximum flavor satisfaction.
+      C: The popularity of the shop is based on its visual appeal for social media.
+      D: The shop is the only location that provides a truly authentic cultural experience.
+    q_number: 3
+    stem: Why does the author consider the lines at Mimi’s in Nolita to be 'a line
+      for content'?
+  - answer: B
+    explanation: The author mentions that while Go Greek has 'yogurtful yogurtiness,'
+      its 'overt focus on macros and wellness robs the experience of a fair portion
+      of its little-treat joy,' meaning the clinical approach diminishes the indulgence
+      of the treat.
+    options:
+      A: It lacks the authentic, tart flavor profile of true yogurt.
+      B: Its focus on health metrics detracts from the enjoyment of the dessert.
+      C: Its toppings are far too artificial and sugary compared to its competitors.
+      D: It fails to provide enough variety for health-conscious customers.
+    q_number: 4
+    stem: Which of the following best describes the author's critique of Go Greek?
+  - answer: C
+    explanation: The author describes the saffron-rosewater flavor as 'heady as a
+      summer garden' and 'lusciously silken,' and finally states, 'it might be my
+      favorite of the dozens of frozen yogurts I’ve tried.' This reflects a clearly
+      positive and appreciative tone.
+    options:
+      A: Skeptical and dismissive.
+      B: Neutral and analytical.
+      C: Appreciative and enthusiastic.
+      D: Concerned and cautionary.
+    q_number: 5
+    stem: What is the author’s tone when discussing the frozen yogurt at Sofreh Café?
+  source_journal: New Yorker
+  title: Every Generation Gets the Fro-Yo It Deserves
+- article_update_date: 04.30.2026
+  body_text: 'The golden coffin of “El Mencho”, the late leader of the Jalisco New
+    Generation cartel (CJNG), had barely been lowered into the ground when the Mexican
+    military dealt a second blow to the very top of the organisation this week. As
+    special forces descended on a ranch in the state of Nayarit, grainy drone footage
+    showed El Mencho’s possible successor, Audias Flores, alias “El Jardinero”, being
+    hauled from a drainage pipe he had tried to hide in, all without a shot being
+    fired. With two strikes in two months, the Mexican state is apparently intensifying
+    its operations against high-profile targets just as Mexico prepares to welcome
+    fans for the World Cup – and it has so far avoided the violent infighting that
+    previous operations against such kingpins have triggered. View image in fullscreen
+    Wanted poster for ‘El Jardinero’. Photograph: US Department of State/Reuters “We’re
+    yet to see any fractures in the CJNG,” said Victoria Dittmar, a researcher for
+    the Insight Crime thinktank. “But that is not to say they won’t happen.” “With
+    the World Cup coming up, I want to believe that the Mexican authorities have a
+    plan and are confident that this is not going to cause chaos.” Since becoming
+    president in 2024, Claudia Sheinbaum has pursued a more aggressive security policy
+    than her predecessor and ally, Andrés Manuel López Obrador, with official figures
+    showing a leap in drug seizures and arrests, and much talk about using intelligence
+    to dismantle criminal structures. But as Donald Trump has piled pressure on Mexico
+    to do more, threatening tariffs and unilateral military action, the government
+    has increasingly turned to the old method of targeting kingpins – even if it remains
+    unclear that the removal of any individual can much affect the flow of drugs or
+    other illicit activities. “These blows will change the perception of the action
+    by the Mexican state,” said Armando Vargas, coordinator of the security programme
+    at México Evalua, a thinktank. “But they will not necessarily affect the operations
+    of the CJNG.” In Mexico, the fear is that removing such kingpins can fragment
+    criminal organisations, which can in turn lead successor groups to fight among
+    themselves for territory and business. Experience has conditioned Mexicans to
+    expect such violence. The latest example is the ongoing war between factions of
+    the Sinaloa cartel, triggered by the betrayal and delivery of Ismael “El Mayo”
+    Zambada to the US by one of the sons of Joaquín “El Chapo” Guzmán, his former
+    partner at the top of the cartel. But while the killing of El Mencho in February
+    did lead to an immediate surge of violence as cartel gunmen lashed out at security
+    forces, this quickly subsided, and no succession battle has yet broken out. El
+    Jardinero, who controlled CJNG activities in the state of Nayarit and the tourist
+    town of Puerto Vallarta, was among the few considered as a possible next leader
+    of the cartel. It has since been reported that Juan Carlos Valencia González,
+    the California-born stepson of El Mencho, might have already taken over – but
+    in the press conference after El Jardinero’s arrest, Mexican authorities said
+    their intelligence indicated he had been gathering the men and firepower to take
+    power himself. Cartel power politics are obscure, making it difficult to predict
+    how El Jardinero’s sudden removal will affect the stability of the CJNG. But it
+    would run against their economic interests to disrupt the World Cup. “Criminal
+    groups are businesses,” said Vargas. “I don’t think they are thinking about destabilising
+    the country so much as how they’re going to fill their coffers with all the visitors.”
+    US authorities celebrated the arrest of El Jardinero, which was made with the
+    help of American intelligence and may result in his extradition to face charges
+    in the US – but they are already preparing their next demands. Days before, Ronald
+    Johnson, the US ambassador to Mexico, delivered a speech in Sinaloa in which he
+    implied corrupt politicians could be the next target. Then on Wednesday, the US
+    justice department accused the governor of Sinaloa and nine other high-level state
+    officials of drug trafficking and weapons offences, requesting their detention
+    and extradition. “I think the idea is that after they finish with the kingpins
+    on their wanted list, they’re going after politicians,” said Dittmar. “It’s part
+    of this dynamic where, no matter how many operations you do – who you capture,
+    who you kill – it’s never going to be enough for the US government.”'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到“all without a shot being fired”以及“it has so far avoided the
+      violent infighting that previous operations against such kingpins have triggered”，说明此次逮捕的显著特点是未引发预期的暴力冲突。
+    options:
+      A: It was executed with the help of the US military on the ground.
+      B: It was achieved without triggering immediate widespread violence.
+      C: It proved that the CJNG structure has been completely dismantled.
+      D: It marks the first time a successor to El Mencho was captured.
+    q_number: 1
+    stem: According to the passage, the recent arrest of 'El Jardinero' is notable
+      for which of the following reasons?
+  - answer: C
+    explanation: 文章明确指出 Claudia Sheinbaum 采取了“a more aggressive security policy than
+      her predecessor”，并提到官方数据中缉毒和逮捕人数的跃升。
+    options:
+      A: It is a complete continuation of her predecessor's strategies.
+      B: It focuses primarily on diplomatic negotiation with the US.
+      C: It reflects a more assertive approach compared to the previous administration.
+      D: It has failed to produce any measurable results in drug seizures.
+    q_number: 2
+    stem: What does the author suggest about President Claudia Sheinbaum’s security
+      policy?
+  - answer: C
+    explanation: 文章提到“the fear is that removing such kingpins can fragment criminal
+      organisations, which can in turn lead successor groups to fight among themselves”，即对组织碎片化并引发内战的担忧。
+    options:
+      A: It often fails to change the public's perception of state action.
+      B: It encourages criminal groups to focus on legal business ventures.
+      C: It may cause criminal organizations to fragment and fight for control.
+      D: It leads to the immediate surrender of cartel foot soldiers.
+    q_number: 3
+    stem: What is the concern expressed by experts regarding the 'kingpin strategy'?
+  - answer: B
+    explanation: Vargas 在文中指出“Criminal groups are businesses”以及“I don’t think they
+      are thinking about destabilising the country so much as how they’re going to
+      fill their coffers with all the visitors”，表明其动机是谋利。
+    options:
+      A: The cartel leadership is currently intimidated by the Mexican government.
+      B: The cartel views the event as a lucrative economic opportunity.
+      C: The cartel is strictly following an agreement with international authorities.
+      D: The cartel lacks the resources to carry out attacks during the event.
+    q_number: 4
+    stem: Why does Armando Vargas suggest that the CJNG might not disrupt the World
+      Cup?
+  - answer: B
+    explanation: 文章结尾引用专家观点称“after they finish with the kingpins on their wanted list,
+      they’re going after politicians”，暗示了美国政府对墨西哥反腐力度及后续目标的持续压力。
+    options:
+      A: Complete satisfaction with the progress made so far.
+      B: A desire to transition from capturing kingpins to targeting corrupt officials.
+      C: Reluctance to provide further intelligence support to Mexico.
+      D: Indifference regarding the corruption of high-level state officials.
+    q_number: 5
+    stem: What is the implied attitude of the US government toward Mexico's recent
+      security efforts?
+  source_journal: The Guardian
+  title: Mexico’s cartel crackdown hits top ranks – but will it fuel Jalisco violence?
