@@ -1,0 +1,694 @@
+group_update_date: 08.01.2026
+papers:
+- article_update_date: 05.08.2026
+  body_text: 'Medical staff arrive to evacuate passengers from MV Hondius, the cruise
+    ship stricken by an outbreak of hantavirus.Credit: AFP via Getty Images An outbreak
+    of hantavirus onboard the cruise ship MV Hondius has thrown a spotlight on the
+    rare but deadly infection and the lack of options for treatment and prevention.
+    Three people who were on the ship have tested positive for the virus, including
+    one passenger who died. Among another five people with suspected infections, two
+    have died. Hantavirus typically spreads through the air, in particles from rodent
+    urine, droppings or saliva. But some species can occasionally spread between people
+    who are in close contact. One of these species, called Andes virus, is responsible
+    for an ongoing outbreak in Argentina, and World Health Organization director-general
+    Tedros Adhanom Ghebreyesus has confirmed that the passengers were infected with
+    this species, for which there are no specific treatments or vaccines. Scientists
+    suspect that some of the travellers might have been infected in Argentina before
+    boarding the cruise. Although hantavirus infections are rare, some species have
+    a fatality rate of up to 50%. For more than three decades, Jay Hooper, a virologist
+    at the US Army Medical Research Institute of Infectious Diseases in Frederick,
+    Maryland, has been working to develop a vaccine against several species of hantavirus
+    that can infect people, including the Andes virus. He talks to Nature about why
+    these vaccines remain elusive. Is this outbreak a sign that the risk of infection
+    with hantavirus is increasing? Some people have suggested, and I have said it
+    before, that climate change could alter rodent populations and increase the number
+    of people living in or entering areas where these rodents are present. That might
+    increase case numbers. As with any zoonotic virus — an animal-borne virus that
+    spills into humans — the situation is inherently unpredictable. Look at what happened
+    with monkeypox virus. How long has your team been working on hantavirus vaccines?
+    Because these viruses are rodent-borne and pose a risk to troops on the ground,
+    the military has long wanted a vaccine. I work at the US Army Medical Research
+    Institute of Infectious Diseases, which has been working on hantavirus vaccines
+    since around the 1980s. I joined the team in the 1990s. At that time, new hantaviruses
+    causing hantavirus pulmonary syndrome (HPS) appeared: the Sin Nombre virus in
+    the Four Corners region of the United States and the Andes virus in South America.
+    The laboratory started developing vaccines for these species. A key advance of
+    our team has been developing hamster models of a lethal disease very similar to
+    human HPS1. This provides a realistic animal model to test vaccines and therapeutics.
+    We have done phase I clinical trials of vaccines for Andes virus2 and two other
+    species, Hantaan and Puumala3. In humans, the Andes DNA vaccine induces neutralizing
+    antibodies, which are important for protection, so the vaccine looks promising.
+    However, it requires at least three doses (prime plus two boosts) instead of a
+    single shot or simple prime–boost regimen. We are now taking neutralizing antibodies
+    from vaccinated humans and testing them as a vaccine in the hamster model; results
+    will be reported in a future publication. Because human cases of Andes virus are
+    rare and geographically scattered, there is no obvious region to run a classic
+    phase III efficacy trial, so to meet the requirements for licensing the vaccine
+    requires more creative approaches. Hence the emphasis on neutralizing antibodies
+    as a correlate of protection. Another major barrier for hantavirus vaccines is
+    funding for advanced development. If this vaccine were licensed, who would receive
+    it?'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: throw a spotlight on 为固定搭配，意为“使……受到关注”。
+    options:
+      A: veil
+      B: shadow
+      C: burden
+      D: spotlight
+    q_number: 1
+    stem: An outbreak of hantavirus onboard the cruise ship MV Hondius has thrown
+      a ___ on the rare but deadly infection.
+  - answer: B
+    explanation: 文章提到绝大多数通过啮齿动物传播，但此处表示人际传播是偶尔发生的，故选 occasionally。
+    options:
+      A: consequently
+      B: occasionally
+      C: simultaneously
+      D: consistently
+    q_number: 2
+    stem: Hantavirus typically spreads through the air, in particles from rodent urine,
+      droppings or saliva. But some species can ___ spread between people.
+  - answer: C
+    explanation: 与 treatments 并列，通常涉及预防疾病的手段是疫苗，故选 vaccines。
+    options:
+      A: diagnoses
+      B: symptoms
+      C: vaccines
+      D: prognoses
+    q_number: 3
+    stem: Tedros Adhanom Ghebreyesus has confirmed that the passengers were infected
+      with this species, for which there are no specific treatments or ___.
+  - answer: C
+    explanation: up to 为固定短语，意为“高达”，符合语义。
+    options:
+      A: next
+      B: down
+      C: up
+      D: far
+    q_number: 4
+    stem: Although hantavirus infections are rare, some species have a fatality rate
+      of ___ to 50%.
+  - answer: B
+    explanation: 文中指出目前尚无有效疫苗，说明研发难度大，elusive 意为“难以捉摸的/难以达成的”。
+    options:
+      A: evident
+      B: elusive
+      C: abundant
+      D: accessible
+    q_number: 5
+    stem: He talks to Nature about why these vaccines remain ___.
+  - answer: D
+    explanation: 气候变化会影响/改变环境，从而改变啮齿动物的种群，alter 符合语境。
+    options:
+      A: restrict
+      B: preserve
+      C: ignore
+      D: alter
+    q_number: 6
+    stem: Some people have suggested that climate change could ___ rodent populations.
+  - answer: A
+    explanation: spill into humans 是病毒从动物传染给人的常见表达。
+    options:
+      A: spills
+      B: settles
+      C: bounces
+      D: recedes
+    q_number: 7
+    stem: As with any zoonotic virus — an animal-borne virus that ___ into humans
+      — the situation is inherently unpredictable.
+  - answer: B
+    explanation: pose a risk 为固定搭配，意为“构成威胁”。
+    options:
+      A: face
+      B: pose
+      C: take
+      D: bear
+    q_number: 8
+    stem: The military has long wanted a vaccine because these viruses ___ a risk
+      to troops on the ground.
+  - answer: D
+    explanation: 根据后文提到的具体病毒名称，说明是新出现的病毒，故选 appeared。
+    options:
+      A: vanished
+      B: degenerated
+      C: persisted
+      D: appeared
+    q_number: 9
+    stem: At that time, new hantaviruses causing hantavirus pulmonary syndrome (HPS)
+      ___.
+  - answer: A
+    explanation: 此处描述的是研发团队在科研上的重要突破，advance 最为贴切。
+    options:
+      A: advance
+      B: failure
+      C: objection
+      D: standard
+    q_number: 10
+    stem: The laboratory started developing vaccines for these species. A key ___
+      of our team has been developing hamster models.
+  - answer: C
+    explanation: 实验室开发模型是为了模拟真实的人类疾病情况，故选 realistic。
+    options:
+      A: theoretical
+      B: mythical
+      C: realistic
+      D: hypothetical
+    q_number: 11
+    stem: This provides a ___ animal model to test vaccines and therapeutics.
+  - answer: A
+    explanation: 抗体对于防御疾病起到关键作用，故选 important。
+    options:
+      A: important
+      B: insignificant
+      C: detrimental
+      D: optional
+    q_number: 12
+    stem: In humans, the Andes DNA vaccine induces neutralizing antibodies, which
+      are ___ for protection.
+  - answer: D
+    explanation: regimen 指治疗方案或用药程序，在医学语境下最为专业。
+    options:
+      A: policy
+      B: procedure
+      C: formula
+      D: regimen
+    q_number: 13
+    stem: However, it requires at least three doses instead of a single shot or simple
+      prime–boost ___.
+  - answer: B
+    explanation: 前文提到了开发 hamster models，此处对应一致。
+    options:
+      A: human
+      B: hamster
+      C: patient
+      D: bacterial
+    q_number: 14
+    stem: We are now taking neutralizing antibodies from vaccinated humans and testing
+      them as a vaccine in the ___ model.
+  - answer: A
+    explanation: rare 说明病例分散，故选 scattered。
+    options:
+      A: scattered
+      B: united
+      C: condensed
+      D: concentrated
+    q_number: 15
+    stem: Because human cases of Andes virus are rare and geographically ___, there
+      is no obvious region to run a trial.
+  - answer: A
+    explanation: 疫苗投入使用前需要获得批准，即 licensing。
+    options:
+      A: licensing
+      B: abandoning
+      C: neglecting
+      D: banning
+    q_number: 16
+    stem: To meet the requirements for ___ the vaccine requires more creative approaches.
+  - answer: D
+    explanation: correlate of protection 是医学术语，指保护相关指标。
+    options:
+      A: distraction
+      B: replacement
+      C: obstacle
+      D: correlate
+    q_number: 17
+    stem: Hence the emphasis on neutralizing antibodies as a ___ of protection.
+  - answer: C
+    explanation: 缺乏资金是疫苗研发的困难，即 barrier。
+    options:
+      A: stimulus
+      B: benefit
+      C: barrier
+      D: incentive
+    q_number: 18
+    stem: Another major ___ for hantavirus vaccines is funding for advanced development.
+  - answer: C
+    explanation: 这里表示因果关系，故选 because。
+    options:
+      A: unless
+      B: although
+      C: because
+      D: whereas
+    q_number: 19
+    stem: The military has long wanted a vaccine ___ these viruses are rodent-borne.
+  - answer: B
+    explanation: 疫苗若要被使用，前提是获批上市，licensed 符合语义。
+    options:
+      A: disapproved
+      B: licensed
+      C: prohibited
+      D: rejected
+    q_number: 20
+    stem: If this vaccine were ___, who would receive it?
+  source_journal: Nature
+  title: 'There is no vaccine for deadly hantavirus: what that means for future outbreaks'
+- article_update_date: 04.22.2026
+  body_text: 'Unless otherwise noted, chemicals and buffer components were purchased
+    from Sigma-Aldrich. Cell culture PtK2 cells (ATCC, CCL-56) were cultured in MEM
+    (Gibco) supplemented with 10% fetal bovine serum (FBS), 1 mM sodium pyruvate,
+    1× non-essential amino acids (Gibco), and 1× antibiotic–antimycotic (Gibco) at
+    37 °C in 5% CO 2 . All cell lines were obtained from ATCC, which validates lines
+    by STR profiling. We did not further validate them after purchase. Cells were
+    monitored for mycoplasma contamination with the ATCC universal mycoplasma detection
+    kit (a PCR-based assay) and tested negative. No commonly misidentified cell lines
+    were used in this study. Cell line generation For generation of a doxycycline-inducible
+    F-tractin–mScarlet and zyxin–LDO–mNeongreen PtK2 cell line, HEK293T (ATCC, CRL-3216)
+    cells were co-transfected with lentiviral plasmids and packing plasmids (PMD2.G
+    and PsPAX2) using Lipofectamine 2000 (Thermo Fisher Scientific). Six hours post-transfection,
+    the culture medium was refreshed. Forty-eight hours post-transfection, the culture
+    medium containing lentivirus was collected and filtered. Lentivirus infection
+    with polybrene (5 μg ml−1) followed immediately after collection. Three types
+    of lentivirus were added to PtK2 cells: F-tractin–mScarlet, zyxin–LDO–mNeongreen,
+    and TetOn. Twenty-four hours post-infection, cells that stably integrated the
+    lentiviral plasmids were selected with puromycin and blasticidin for one week.
+    Cellular cryo-ET grid preparation C-flat 1.2/1.3 holey carbon Au 200-mesh grids
+    (Electron Microscopy Sciences) were sputter coated with 22 nm of carbon and baked
+    in a dry oven at 60 °C overnight. Grids were plasma cleaned and coated with 10
+    μg ml−1 fibronectin (Sigma, FC010) in DPBS for 1–3 h at 37 °C in a tissue culture
+    incubator. Fibronectin-coated grids were washed with DPBS and stored in fresh
+    PtK2 culture medium in a 35 mm tissue culture dish for immediate use. Doxycycline-inducible
+    F-tractin–mScarlet and zyxin–LDO–mNeongreen PtK2 cells were grown to 90% confluency
+    before passaging. Cells were thoroughly trypsinized and filtered through a 0.45-μm
+    filter to remove clumps. Thirty thousand cells were added to each 35 mm tissue
+    culture dish containing the fibronectin-coated grids. Twenty-four hours later,
+    the medium was replaced with fresh PtK2 medium containing 100 ng ml−1 of doxycycline
+    to induce expression of F-tractin–mScarlet and zyxin–LDO–mNeongreen. The next
+    day, grids were prepared for plunge freezing. Grids for the majority of tomograms
+    (presented in Fig. 1b and Extended Data Fig. 1c,d) were treated with 1 µg ml−1
+    Rho Activator II (Cytoskeleton, CN03) for 3.5 h, while the grid for the tomogram
+    presented in Extended Data Fig. 1b (tomogram 11 in Extended Data Fig. 1d) was
+    untreated. The grids were then washed with DPBS and loaded onto a Leica EM-GP
+    plunge freezer operating at 25 °C. Three microlitres of DPBS was added to the
+    front of the grid, followed by blotting from the back using a Whatman no. 5 filter
+    paper for 7 s, then flash frozen in liquid ethane. Cryo-fluorescence imaging Grids
+    were mounted on a Leica Cryo-CLEM microscope. Epifluorescence microscopy was performed
+    using a 50× 0.9 NA air objective at −180 °C. z-Stacks of images were captured
+    at a depth of 16 bit. Image acquisition was performed using LAS X software (Leica).
+    Images were post-processed with THUNDER (Leica) to denoise, then maximum intensity
+    projected. Cellular cryo-ET data collection Data were collected on a spherical-aberration
+    (Cs) corrected Titan Krios TEM (Thermo Fisher Scientific) operating at 300 kV
+    and equipped with a K3 direct electron detector (Gatan) and a BioQuantum energy
+    filter (Gatan) using a slit width of 20 eV. Micrographs were collected at a nominal
+    magnification of 15,000×, which corresponds to a calibrated pixel size of 5.05
+    Å (2.525 Å in super-resolution mode). The tilt-series were collected using the
+    FastTomo acquisition scheme69 in SerialEM70 using a target defocus of −5 μm underfocus.
+    Tilt angles ranged from −54° to +54° in 3° increments, grouped in a dose-symmetric
+    manner71. Each tilt in the tilt-series had a total acquisition time of 2.4 s and
+    total dose of 2.82 e− Å−2, fractionated across 16 frames (0.18 e− Å−2 per frame).
+    Cellular cryo-ET data processing Individual tilts were motion-corrected and binned
+    2× (to a pixel size of 5.05 Å) using MotionCor2 (ref. 72), and contrast transfer
+    function (CTF) parameters were estimated using CTFFIND4 (ref. 73). Tilt-series
+    alignment was carried out using AreTomo2 (ref. 74), followed by reconstruction
+    using IMOD75 with back-projection at a binning of 2 (voxel size of 10.1 Å). The
+    reconstructed tomograms were denoised using cryoCARE76, then the missing wedge
+    was predicted and restored with IsoNet77. The tomograms were then segmented using
+    a U-Net convolutional neural network with the Dragonfly software78. For the tomogram
+    displayed in Extended Data Fig. 1b, the plasma membrane was segmented using MemBrain
+    v2 (ref. 79). All membrane segmentations were smoothed using mean curvature motion80.
+    Segmentations were visualized using ChimeraX81. Cellular cryo-ET quantification
+    Cellular tomogram quantification was performed in a blinded fashion. D.Y.Z.P.
+    manually assigned tomograms into low zyxin/F-actin and high zyxin/F-actin bins
+    based on the absence or presence of local peaks of zyxin signal intensity relative
+    to F-actin intensity in line scans of cryo-fluorescence micrographs (Extended
+    Data Fig. 1d). Tomograms were then randomized before quantification by K.H. and
+    G.M.A. Sinusoidal filament regions were manually annotated using 3DMOD based on
+    the appearance of continuous stretches of oscillating curvature, followed by unblinding
+    for analysis. With the exception of tomograms 2 and 10, both annotators consistently
+    found similar numbers of sinusoidal filament regions across tomograms (Extended
+    Data Fig. 1f). However, relatively few overlapping sinusoidal filament regions
+    were selected. Therefore, after removing overlaps, the results for both annotators
+    were combined for final quantification (presented in Fig. 1c). The total volume
+    occupied by F-actin in each tomogram was estimated by Dragonfly segmentation as
+    described above. Actin purification Actin was prepared from chicken skeletal muscle
+    as previously described82. All steps were performed at 4 °C unless otherwise indicated.
+    In brief, 1 g of acetone powder was resuspended in 20 ml of G-Ca buffer (G buffer:
+    2 mM Tris-HCl pH 8, 0.5 mM dithiothreitol (DTT), 0.2 mM ATP, and 0.01% NaN 3 ,
+    supplemented with 0.1 mM CaCl 2 ), then mixed by inversion for 30 min. The mixture
+    was ultracentrifuged in a Beckman Ti70 rotor at 42,500 rpm (79,766 g) for 30 min.
+    The supernatant, containing G-actin monomers, was collected, and 50 mM KCl and
+    2 mM MgCl 2 were added to induce F-actin polymerization for 1 h. 0.8 M KCl was
+    then added and the mixture incubated for 30 min to dissociate contaminants from
+    F-actin, followed by ultracentrifugation in a Ti70 rotor at 42,500 rpm (79,766
+    g) for 3 h. The pellet containing F-actin was collected and resuspended in 2 ml
+    G-Ca buffer, then incubated overnight to depolymerize filaments. The mixture was
+    then Dounce homogenized for 10-15 passes, sequentially sheared with 26 G and 30
+    G needles, then dialysed against G-Ca buffer overnight in Spectra/Por 1 dialysis
+    tubing (6-8 kDa MWCO). The solution was then collected, sheared again with a 30
+    G needle, then dialysed against G-Ca buffer for an additional day. The solution,
+    containing dissociated G-actin monomers, was collected and ultracentrifuged in
+    a Beckman Ti90 rotor at 70,000 rpm (187,354 g) for 3 h. The upper two-thirds of
+    the supernatant was then loaded on to a Cytiva HiLoad 16/600 column for size-exclusion
+    chromatography. Purified G-actin was maintained in G-Ca buffer at 4 °C. Protein
+    expression and purification Plasmids were propagated in NEB 5-alpha competent
+    Escherichia coli cells and purified with either Qiaprep spin miniprep kits (Qiagen,
+    for bacterial expression) or the PureYield plasmid maxiprep system (Promega, for
+    transfection). Full-length human calmodulin was expressed in Rosetta2(DE3) E.
+    coli cells and purified at 4 °C according to a published protocol83. The purified
+    protein was collected in Storage Buffer (20 mM Tris-HCl pH 8.0, 100 mM NaCl, 2
+    mM β-mercaptoethanol, and 5% v/v glycerol), flash frozen in liquid nitrogen, and
+    stored at −80 °C prior to use. For experiments presented in Fig. 1, Extended Data
+    Fig. 2a–d, and Supplementary Videos 2–4, constructs for murine myosin Va (amino
+    acids 1–1090) and human myosin VI (amino acids 1–1021) featuring C-terminal GFP
+    and Flag tags were expressed and purified from Sf9 insect cells using the baculovirus
+    system as previously described84. In the myosin VI construct, a GCN4 leucine zipper
+    dimerization domain replaced the smooth muscle coiled-coil region originally used
+    by Nishikawa et al.85. For all other experiments, equivalent constructs for human
+    myosin Va (amino acids 1–1090) and myosin VI (amino acids 1–1021) were expressed
+    from a modified pCAG vector featuring a C-terminal GFP and Flag tag in FreeStyle
+    293-F cells (ThermoFisher) and purified as described24. In brief, cells were cultured
+    in FreeStyle expression medium (ThermoFisher) at 37 °C on an orbital shaker in
+    the presence of 8% CO 2 . Cells were transfected when the culture reached a density
+    of 1.8 × 106 cells per ml. Per 400 ml of culture, 1.2 ml of 1 mg ml−1 PEI MAX
+    (PolySciences) was pre-mixed with 400 µg of plasmid in 15 ml of FreeStyle expression
+    medium and incubated for 20 min at room temperature prior to transfection. Myosin
+    Va and myosin VI were co-transfected with a modified pCAG vector containing untagged,
+    full-length human calmodulin (amino acids 1–149) at a mass ratio of 1:6. Cells
+    were cultured for an additional 60 h, then collected and snap frozen in liquid
+    nitrogen. Cell pellets were stored at −80 °C. For myosin purification, all steps
+    were performed at 4 °C. Cells were resuspended in myosin lysis buffer (50 mM Tris-HCl
+    pH 8.0, 150 mM NaCl, 2 mM MgCl 2 , 0.2% 3-((3-cholamidopropyl) dimethylammonio)−1-propanesulfonate
+    (CHAPS), 2 mM ATP, 1 mM phenylmethylsulfonyl fluoride (PMSF), 1 μg ml−1 aprotinin,
+    leupeptin and pepstatin) and incubated with rocking for 40 min. The lysate was
+    clarified by centrifugation in a Beckman JA-25.50 rotor at 20,000g for 30 min.
+    The supernatant was collected and incubated with anti-Flag M2 affinity beads (Sigma-Aldrich)
+    on a rocker for 1.5 h. The beads were collected and washed three times with myosin
+    purification buffer (50 mM Tris-HCl pH 8.0, 150 mM NaCl, 2 mM MgCl 2 and 2 mM
+    ATP), then eluted with myosin purification buffer supplemented with 100 µg ml−1
+    Flag peptide (Sigma-Aldrich). The eluted protein was buffer exchanged into myosin
+    storage buffer (10 mM Tris-HCl pH 8.0, 100 mM NaCl, 2 mM MgCl 2 and 3 mM DTT)
+    using an Amicon Ultra-4 concentrator (50 kDa MWCO), then snap frozen in liquid
+    nitrogen. Purified myosins were stored at −80 °C prior to use. The C-terminal
+    ABD of human α-catenin (amino acids 664–906) was expressed from a pET vector encoding
+    an N-terminal 6 × His tag, strep tag, and TEV protease cleavage site as previously
+    described8. Transformed Rosetta2(DE3) E. coli were cultured in LB medium at 37
+    °C to an optical density of 0.8–1.0, then induced with 0.7 mM isopropyl β-D-1-thiogalactopyranoside
+    (IPTG) and cultured at 16 °C for 16 h. Cells were then collected and flash frozen
+    in liquid nitrogen. Cell pellets were stored at −80 °C. For purification, all
+    steps were performed at 4 °C. Cells were resuspended in lysis buffer (50 mM Tris-HCl
+    pH 8.0, 150 mM NaCl, 2 mM β-mercaptoethanol, 20 mM imidazole) and disrupted in
+    an Avestin Emulsiflex C5 homogenizer. The lysate was clarified at 15,000g in a
+    Beckman JA-25.50 rotor for 30 min, then the supernatant was collected and incubated
+    with Ni-NTA resin (Qiagen) with rocking for 1 h. The resin was collected, washed
+    with 5 bed volumes of lysis buffer, then eluted with lysis buffer (50 mM Tris-HCl
+    pH 8.0, 150 mM NaCl, 2 mM β-mercaptoethanol, 300 mM imidazole). Purified His-tagged
+    TEV protease (prepared according to a published protocol86) was then added to
+    reach a 0.05 mg ml−1 working concentration, and the solution was dialysed against
+    dialysis buffer (20 mM Tris-HCl pH 8.0, 300 mM NaCl, 2 mM β-mercaptoethanol) for
+    16 h. The sample was then collected and re-applied to Ni-NTA resin to remove TEV
+    protease. The flowthrough was collected, then sequentially purified by anion exchange
+    chromatography using a HiTrapQ HP column (Cytiva), followed by size-exclusion
+    chromatography on a Superdex 200 Increase column (Cytiva) in gel filtration buffer
+    (20 mM Tris-HCl pH 8.0, 100 mM NaCl, 2 mM β-mercaptoethanol). The protein was
+    snap frozen in liquid nitrogen and stored at −80 °C'
+  difficulty_constant: 12.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The text states that 24 hours after adding cells to the grids, the
+      medium was replaced with fresh medium containing 100 ng ml−1 of doxycycline
+      to induce expression of F-tractin–mScarlet and zyxin–LDO–mNeongreen.
+    options:
+      A: The cells were subjected to antibiotic treatment to eliminate potential mycoplasma
+        after purchase.
+      B: The culture medium of the PtK2 cells was supplemented with 100 ng ml−1 of
+        doxycycline to trigger specific protein expression.
+      C: Cell clumps were intentionally maintained to ensure better adherence to the
+        fibronectin-coated grids.
+      D: Grids were prepared by plasma cleaning and then coating with collagen to
+        facilitate cell attachment.
+    q_number: 1
+    stem: Which of the following is true regarding the preparation of cells for cryo-ET
+      grid imaging?
+  - answer: C
+    explanation: The text mentions 'The tilt-series were collected using the FastTomo
+      acquisition scheme in SerialEM... grouped in a dose-symmetric manner.' This
+      refers to the acquisition strategy for tilt angles during data collection.
+    options:
+      A: To calibrate the pixel size to exactly 2.525 Å.
+      B: To ensure uniform beam intensity across the entire tilt-series.
+      C: To organize tilt angles for data acquisition in a specific structural manner.
+      D: To eliminate the need for contrast transfer function estimation.
+    q_number: 2
+    stem: In the process of cellular cryo-ET data collection, what was the primary
+      purpose of the 'dose-symmetric' scheme mentioned?
+  - answer: C
+    explanation: 'The text explicitly states: ''Cellular tomogram quantification was
+      performed in a blinded fashion'' and ''Tomograms were then randomized before
+      quantification by K.H. and G.M.A.'''
+    options:
+      A: By using automated artificial intelligence exclusively without human oversight.
+      B: By having researchers assign bins based on their personal scientific intuition.
+      C: By employing a 'blinded' approach followed by the randomization of tomograms.
+      D: By removing all sinusoidal filament regions that showed any overlapping patterns.
+    q_number: 3
+    stem: How was the potential for observer bias mitigated during cellular tomogram
+      quantification?
+  - answer: C
+    explanation: 'The text describes the final purification steps: ''The upper two-thirds
+      of the supernatant was then loaded on to a Cytiva HiLoad 16/600 column for size-exclusion
+      chromatography. Purified G-actin was maintained in G-Ca buffer at 4 °C.'''
+    options:
+      A: Inducing polymerization using 50 mM KCl and 2 mM MgCl2.
+      B: Dialysing against G-Ca buffer to dissociate actin filaments.
+      C: Size-exclusion chromatography to ensure protein purity.
+      D: Homogenizing the mixture for 10-15 passes with a Dounce homogenizer.
+    q_number: 4
+    stem: According to the actin purification process, what was the final step taken
+      before using the purified G-actin?
+  - answer: A
+    explanation: 'In the protein expression section, it is noted: ''In the myosin
+      VI construct, a GCN4 leucine zipper dimerization domain replaced the smooth
+      muscle coiled-coil region originally used by Nishikawa et al.'''
+    options:
+      A: Using a GCN4 leucine zipper to replace the smooth muscle coiled-coil region.
+      B: Direct expression in E. coli without the need for co-transfection.
+      C: Using a pET vector for expression in all experimental replicates.
+      D: Incubating the lysate with Ni-NTA resin instead of anti-Flag M2 affinity
+        beads.
+    q_number: 5
+    stem: Which of the following describes the strategy used for Myosin VI purification?
+  source_journal: Nature
+  title: Myosin forces remodel F-actin for mechanosensitive protein recognition
+- article_update_date: 07.07.2026
+  body_text: Volodymyr Zelensky’s surge is a bid to force peace talks Europe | Theatre
+    of operations Volodymyr Zelensky’s surge is a bid to force peace talks Ukrainian
+    claims to be winning the drone war are partly propaganda and partly real July
+    2nd 2026 TO A SLAVIC ear, 40 days is no accidental deadline. In Russia as in Ukraine,
+    the 40th day after death is when the soul departs. So when Volodymyr Zelensky
+    took to social media on June 25th to announce a new drone surge to “compel” Russia
+    to negotiate for peace, he seemed to be telling Vladimir Putin he was already
+    finished. With blunt messages like these, the Ukrainian president has lately been
+    beating Mr Putin in the war of words. The military balance is less clear-cut than
+    the rhetoric. But Mr Zelensky’s threats are not idle. Ukraine is bombing refineries
+    in Russia, forcing petrol rationing in over a dozen regions. Strikes on roads,
+    bridges, railways and ferries into Crimea are starving the Russian-annexed peninsula,
+    home to a massive military grouping, of the means to function. Ukraine’s mid-range
+    drone operation has become the war’s defining trend this summer. Plans for a campaign
+    attacking Russian logistics between 20km and 200km behind the front line have
+    been in development since early 2025. But it came into being only in the second
+    half of May, once Ukraine developed the units, doctrine, and types and numbers
+    of drones required. Elon Musk’s agreement to end Russian forces’ Starlink satellite
+    access opened new opportunities. “The moment we realised we had a chance was when
+    we saw just how many air-defence systems we were destroying,” says Major Yevhen
+    Karas, commander of the 413rd unmanned systems regiment. Major Karas, who played
+    a key role in planning the operation, describes a recent mission above Crimea
+    when his drones flew for over two hours without being intercepted. In the past
+    three months Ukraine’s forces have destroyed over 70 air-defence systems—more
+    than many countries possess in total—and inflicted losses that will take Russia
+    years to replace. Ukraine is increasingly squeezing the supply routes into Crimea.
+    A new generation of drones, some semi-automated, stalk petrol tankers and military
+    vehicles on highways such as the R-280 from Mariupol to Crimea. According to Ukraine,
+    freight traffic on that road has fallen by 71% this year. But Crimea is not yet
+    isolated. Those involved say that is months away, if at all possible. “Think of
+    it as a plan for defence, rather than victory,” says Dmytro Pletenchuk, a Ukrainian
+    navy spokesman. The main aim, he says, is to make it hard for Russia’s huge Crimean
+    military grouping to operate. A Ukrainian intelligence source says the Russians
+    have weeks of fuel reserves. “They have problems,” the source says, “but it isn’t
+    yet decisive.” In Donbas, meanwhile, things are no walk in the park. Its hilly
+    terrain limits drone operations. A dense web of roads links Russian troops to
+    supply hubs in Russia. The rate of the Russian advance may have slowed, but infiltration
+    by small groups continues. Pressure is building on Ukraine’s fortress belt in
+    Donbas. There is fierce fighting in Kostyantynivka and near Kramatorsk and Sloviansk.
+    A commander of an elite special-forces unit says Russia retains a marked advantage
+    in men and munitions. “I see no sign of the enemy collapsing,” he says. Ukraine’s
+    general staff puts Russia’s Ukraine grouping at 721,300, a drop of only 3,000
+    since the start of the year. Russia is outshelling Ukraine two to one, and sends
+    up to 90 missiles and 300 guided bombs a day, weapons Ukraine mostly lacks. Mr
+    Zelensky’s 40-day deadline is best understood as political theatre. Officials
+    close to the presidential office suggest it is designed to dovetail with the next
+    possible moment for negotiation. Talks are expected to move from back channels
+    in August, when Russia’s high command (ie, Mr Putin) decides whether to commit
+    to an autumn-winter campaign. Ukraine hopes that pressure on Crimea could push
+    Mr Putin into serious negotiations. Failure to force a reckoning in August will
+    let the war slide into the winter, with a renewed Russian campaign to destroy
+    Ukraine’s energy grid. Then the pendulum may again swing away from Ukraine. The
+    40-day deadline, says a source involved in the Crimean drone operation, changes
+    little on the ground. “But it is a crucial instrument in the cognitive war.” Ukraine’s
+    fake-it-till-you-make-it approach is well designed to buck up Ukrainians and to
+    persuade an American president looking for “winners”. But it is more than propaganda.
+    The shift in military standing is real, if oversold. And winning the information
+    war has consequences. On June 26th the Russian-appointed head of Crimea declared
+    a state of emergency. Russian nationalists are demanding Mr Putin respond. “I
+    thought they would be screaming around July,” says Major Karas. “They started
+    screaming at the end of May. Let’s see where they are in August.” ■ To stay on
+    top of the biggest European stories, sign up to Café Europa , our weekly subscriber-only
+    newsletter. This article was downloaded by zlibrary from https://www.economist.com//europe/2026/07/02/volodymyr-zelenskys-surge-is-a-bid-to-force-peace-talks
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段提到40天期限具有斯拉夫传统中关于灵魂离体的含义，作者引用此点是为了说明泽连斯基的话并非字面意义上的军事最后通牒，而是为了心理战，即
+      political theatre。
+    options:
+      A: highlight the religious significance of Ukrainian cultural traditions
+      B: underscore the symbolic and psychological nature of Zelensky's rhetoric
+      C: predict the exact date when the Russian forces will collapse
+      D: explain the logistical timeline required for manufacturing new drones
+    q_number: 1
+    stem: The author mentions the '40-day' deadline in the first paragraph primarily
+      to ________.
+  - answer: C
+    explanation: 文中明确提到：Elon Musk’s agreement to end Russian forces’ Starlink satellite
+      access opened new opportunities，这直接促成了乌克兰新一轮无人机作战能力的提升。
+    options:
+      A: The influx of advanced weaponry from Western allies in early 2025
+      B: The Russian military's total withdrawal from the Crimean peninsula
+      C: The withdrawal of Starlink access for Russian forces
+      D: The successful integration of AI-driven combat drones by NATO advisors
+    q_number: 2
+    stem: According to the passage, what has significantly enabled Ukraine's recent
+      drone campaign?
+  - answer: C
+    explanation: 文中提到 Ukraine is increasingly squeezing the supply routes，但也强调 Crimea
+      is not yet isolated，且俄军仍有数周的油料储备，因此属于压力增大但尚未陷入瘫痪。
+    options:
+      A: It has been completely liberated from Russian control
+      B: It is effectively paralyzed due to the total destruction of its logistics
+      C: It is facing severe supply chain pressures but remains functional for now
+      D: It serves as the main staging ground for the final Ukrainian offensive
+    q_number: 3
+    stem: Which of the following best describes the current military situation in
+      Crimea as depicted by the author?
+  - answer: B
+    explanation: 结合上下文，Donbas地区的战斗极其艰难（地势崎岖、俄军兵力充足），因此使用 'not a walk in the park'
+      来反衬作战的艰巨性，意为“并非易事”。
+    options:
+      A: a pleasant military parade
+      B: an effortless and simple task
+      C: a strategic retreat to safe zones
+      D: a well-planned tactical engagement
+    q_number: 4
+    stem: The phrase 'walk in the park' in the fourth paragraph most likely means
+      ________.
+  - answer: B
+    explanation: 文中多处暗示（如 'a bid to force peace talks', 'designed to dovetail with
+      the next possible moment for negotiation'），说明此次行动的主要目的是为了在接下来的谈判中增加筹码。
+    options:
+      A: To achieve a total military victory before the winter sets in
+      B: To project strength in order to influence upcoming diplomatic negotiations
+      C: To force the Russian high command to surrender Crimea immediately
+      D: To distract the international community from failures in the Donbas sector
+    q_number: 5
+    stem: What is the primary motivation behind Zelensky’s recent 'surge' in drone
+      operations?
+  source_journal: Economist
+  title: Volodymyr Zelensky’s surge is a bid to force peace talks
+- article_update_date: 05.29.2026
+  body_text: '| Next | Section menu | Main menu | Byzantine Room A poem by Patricia
+    Lockwood In the Byzantine room the most Beautiful cabochon is the missing one.
+    Clear, like the head of Brian Boru’s harp. I imagined myself drinking and drinking
+    From ewers—they had real respect For rock crystal back then. Smears of the human
+    on all glass, Child height, clouds of breath. Reliquary Arm of Saint Valentine,
+    Silver, with a sapphire on one finger, Rough, uneven, And then you come around
+    to the other Side and see a dungeon in his forearm, Sprung open—we are free. Next
+    to it, the reliquary of Mary Magdalene’s tooth, removed to fill Some cavity. Everywhere
+    the praying Hands are missing from their statues, Stolen. Now turn to the Pietà
+    With Donors . “Limestone with traces of polychromy.” Grapes fall from Christ’s
+    open wound. A man holds his single stiffened sheet Of seaweed hair. His mother’s
+    mouth Blackened with centuries of disbelief, Nonbelief, she didn’t believe it
+    so hard He came back to her. The cried-out Eyes are alive, like his forehead At
+    the Cloisters. The tuck in his loincloth Can be perfectly viewed, His foot only
+    imagined. The whole Tradition, in this place, is on display. The lectern eagle
+    with split beak, To speak. Saint John on Patmos Receives the revelation, red meat
+    In the mouth of the dead dragon. On either side of Christ, the donors Smile: Pons
+    and Armand, brothers. This had to happen, they agreed, It’s ours, and placed him
+    in a private Chapel. There is a deep cavern Inside Pons’s bent knee where Something,
+    clear as cabochons, Was, used to be. The water in living Limbs that stands us
+    up, that kneels Us down, that drapes us over Mary’s Lap like a necklace. All around,
+    There were unidentified stones In those chalices that I, unbeliever, Could easily
+    name. And I too Was wearing something that I— Ancient, uncorrupted, Uncovered—had
+    made! This article was downloaded by calibre from https://www.theatlantic.com/magazine/2026/05/patricia-lockwood-byzantine-room/686589/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The poem repeatedly emphasizes missing parts (the missing cabochon,
+      the missing praying hands, the cavity in the reliquary). This recurring motif
+      suggests that the 'void' or 'absence' is central to the poet's experience, reflecting
+      on the fragility of religious tradition and the human longing to fill those
+      gaps.
+    options:
+      A: The museum's collection is poorly managed and neglected.
+      B: The absence of precious objects highlights a sense of loss or void in the
+        divine.
+      C: The poet is criticizing the thieves who stole historical artifacts.
+      D: The museum is undergoing a restoration process for its exhibits.
+    q_number: 1
+    stem: What does the poet imply by mentioning the "missing" cabochon in the first
+      stanza?
+  - answer: B
+    explanation: The poem states her mouth is 'Blackened with centuries of disbelief'
+      and notes 'she didn’t believe it so hard / He came back to her.' This suggests
+      a paradoxical relationship between her skepticism and the miracle of resurrection.
+    options:
+      A: As a figure of infinite patience and peaceful acceptance.
+      B: As a woman whose intense lack of faith paradoxically brought her son back.
+      C: As someone who is entirely indifferent to the suffering depicted.
+      D: As an ethereal being who exists outside of the constraints of time.
+    q_number: 2
+    stem: How does the poet describe the mother figure in the Pietà with Donors?
+  - answer: C
+    explanation: The stanza notes that when the side of the reliquary is viewed, a
+      'dungeon' is 'Sprung open—we are free.' This implies that the object, despite
+      its material constraints, serves as a vessel for spiritual liberation.
+    options:
+      A: A literal prison built for the saint during his lifetime.
+      B: The physical decay caused by the passage of centuries.
+      C: A metaphor for the liberating power of faith found within the confines of
+        the holy relic.
+      D: The poor craftsmanship of medieval reliquaries.
+    q_number: 3
+    stem: 'The reference to the ''dungeon in his forearm'' of Saint Valentine’s reliquary
+      suggests:'
+  - answer: B
+    explanation: The poet remarks, 'This had to happen, they agreed, / It’s ours,
+      and placed him in a private / Chapel.' The possessive 'ours' and the act of
+      confining the divine figure to a 'private' space suggest a critical observation
+      of how wealth and ownership interfere with the public, transcendent nature of
+      religious art.
+    options:
+      A: Admiring their devotion and generous patronage.
+      B: Critical of their appropriation and commodification of religious suffering.
+      C: Confused by the historical context of their family lineage.
+      D: Indifferent to the identity of the donors and focused only on the art.
+    q_number: 4
+    stem: What is the tone of the poet when observing the donors, Pons and Armand?
+  - answer: C
+    explanation: The poet, despite identifying as an 'unbeliever,' recognizes that
+      she, too, is capable of making something 'Ancient, uncorrupted, / Uncovered.'
+      She finds a shared creative essence that bridges the gap between her secular
+      self and the historical sacred art she is viewing.
+    options:
+      A: She identifies herself as an expert historian of Byzantine art.
+      B: She rejects all forms of religious art in favor of modern aesthetics.
+      C: She perceives a connection between her own creations and the 'uncorrupted'
+        nature of the artifacts.
+      D: She feels alienated from the museum environment because of her secular beliefs.
+    q_number: 5
+    stem: What does the concluding stanza reveal about the poet's own identity?
+  source_journal: Atlantic
+  title: Chapter 21
