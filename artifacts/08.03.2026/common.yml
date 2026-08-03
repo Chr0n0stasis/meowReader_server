@@ -1,0 +1,695 @@
+group_update_date: 08.03.2026
+papers:
+- article_update_date: 03.31.2026
+  body_text: 'NASA’s Orion spacecraft positioned atop the Space Launch System rocket,
+    ready for launch.Credit: NASA/Sam Lott NASA’s Artemis II mission, which is scheduled
+    for launch on 1 April, aims to send humans back to the Moon for the first time
+    since 1972. If all goes to plan, the ten-day mission will see a crew of four astronauts
+    fly by the Moon as soon as 6 April, and could set the record for the farthest
+    a human has ever travelled from Earth. The mission’s main goals are to test aspects
+    of human space flight ahead of future, more complex missions. So far, however,
+    Artemis II and its scientific projects, which range from geology to astronaut
+    health, have yet to spark widespread enthusiasm among researchers. “A fly-by makes
+    sense to demonstrate the systems before attempting a landing,” says Marc Norman,
+    a planetary geochemist at the Australian National University in Canberra. But
+    he says he is “not especially excited at this stage”. “Maybe my excitement level
+    will increase as the program evolves,” he adds. Human space flight is a major
+    focus for US President Donald Trump’s administration, which has sought to accelerate
+    some projects, including an effort to send astronauts to Mars, while also making
+    cuts to NASA’s space science and robotic missions. Earlier this year, the agency
+    announced an ambitious goal of landing astronauts on the Moon in 2028, and starting
+    to build a permanent lunar base soon after that. Ahead of Artemis’s launch, Nature
+    asked researchers worldwide for their views on the upcoming mission, and why they
+    will — or won’t — be watching the lunar fly-by. The good “On the science side,
+    this is one of the first steps in a very long-term plan to get a human base on
+    the Moon,” says Catherine Heymans, Astronomer Royal for Scotland in Edinburgh,
+    UK. “The science that will be facilitated by making that happen is very exciting.”
+    Although the mission will produce some research results, its greatest value for
+    now will be in inspiring young people about science, and in showing — by including
+    a Black man, Victor Glover, and a woman, Christina Koch, among the crew — that
+    “space is for everyone”, she adds. John Womersley, a former chief executive of
+    the UK Science and Technology Facilities Council who is now at the University
+    of Edinburgh, says that scientists, like the general public, have a wide range
+    of opinions about Artemis II and crewed space exploration in general. “Among my
+    colleagues now, though, there is some genuine admiration for the fact that NASA
+    is actually trying to do something ambitious in space once more, and going beyond
+    low Earth orbit.” Jevin West, a computational social scientist at the University
+    of Washington in Seattle, agrees. “In times like this, these are the things that
+    can give us a reprieve,” he says. The bad David Blanchflower, an independent astronomer
+    and astrophotographer, is also excited about the mission. His name will even be
+    among the millions to be carried aboard the Orion spacecraft on a digital memory
+    device, as part of NASA’s Send your name around the Moon programme. But when posting
+    about the mission on social media, he says he’s often met with negative comments.
+    “People who reply generally either don’t care, or expect it to fail,” says Blanchflower,
+    who is based in Newcastle upon Tyne, UK. Some have lost enthusiasm because the
+    mission being promised and delayed for so long, he adds. “I believe if it was
+    a landing there would be considerably more excitement.” Others say they find it
+    hard to rejoice, given the political context and the state of science funding
+    in the United States. “I generally cheer on any science in space — it’s awe-inspiring
+    stuff! — but at this moment, it is impossible to feel good about the direction
+    NASA is taking under the Trump administration,” says Yarrow Axford, a palaeoclimatologist
+    and science communicator based in Lexington, Massachusetts. Alongside a shift
+    in focus towards human spaceflight, the agency has seen proposed cuts to science
+    budgets, the cancellation of missions and internal layoffs. “Leading scientists
+    have been leaving NASA, along with other federal science agencies, in droves,”
+    says Axford. Internationally, people might be getting a little tired of hearing
+    about how these missions are the “‘biggest, best and greatest of all time’, when
+    they are basically just doing what they did already in 1968”, says Norman. Although
+    he says that he sees no particular antipathy towards Artemis, or NASA.'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: B
+    explanation: Context suggests the mission's goal, so 'aims' is the logical choice.
+    options:
+      A: fails
+      B: aims
+      C: refuses
+      D: pretends
+    q_number: 1
+    stem: NASA’s Artemis II mission, which is scheduled for launch on 1 April, ____
+      to send humans back to the Moon for the first time since 1972.
+  - answer: D
+    explanation: The text mentions future missions are more 'complex' than current
+      ones.
+    options:
+      A: simple
+      B: useless
+      C: trivial
+      D: complex
+    q_number: 2
+    stem: The mission’s main goals are to test aspects of human space flight ahead
+      of future, more ____ missions.
+  - answer: A
+    explanation: The context implies the mission hasn't 'sparked' or generated much
+      excitement yet.
+    options:
+      A: spark
+      B: ignore
+      C: diminish
+      D: conceal
+    q_number: 3
+    stem: So far, however, Artemis II and its scientific projects have yet to ____
+      widespread enthusiasm among researchers.
+  - answer: D
+    explanation: Before landing, one must first 'attempt' it, consistent with the
+      testing phase described.
+    options:
+      A: avoiding
+      B: forgetting
+      C: rejecting
+      D: attempting
+    q_number: 4
+    stem: “A fly-by makes sense to demonstrate the systems before ____ a landing,”
+      says Marc Norman.
+  - answer: B
+    explanation: The administration wants to fast-track missions, hence 'accelerate'.
+    options:
+      A: postpone
+      B: accelerate
+      C: cancel
+      D: delay
+    q_number: 5
+    stem: Human space flight is a major focus for the administration, which has sought
+      to ____ some projects.
+  - answer: B
+    explanation: The text explicitly states they plan to build a 'permanent' lunar
+      base.
+    options:
+      A: temporary
+      B: permanent
+      C: mobile
+      D: secret
+    q_number: 6
+    stem: Earlier this year, the agency announced an ambitious goal of landing astronauts
+      on the Moon in 2028, and starting to build a ____ lunar base.
+  - answer: D
+    explanation: Since the launch hasn't happened yet, it is an 'upcoming' mission.
+    options:
+      A: forgotten
+      B: obsolete
+      C: completed
+      D: upcoming
+    q_number: 7
+    stem: Ahead of Artemis’s launch, Nature asked researchers worldwide for their
+      views on the ____ mission.
+  - answer: D
+    explanation: The base will enable more science, so it will be 'facilitated'.
+    options:
+      A: hindered
+      B: banned
+      C: restricted
+      D: facilitated
+    q_number: 8
+    stem: “On the science side, this is one of the first steps in a very long-term
+      plan to get a human base on the Moon,” says Catherine Heymans, Astronomer Royal
+      for Scotland in Edinburgh, UK. “The science that will be ____ by making that
+      happen is very exciting.”
+  - answer: A
+    explanation: Scientific missions are seen as a way of 'inspiring' the next generation.
+    options:
+      A: inspiring
+      B: frightening
+      C: confusing
+      D: boring
+    q_number: 9
+    stem: Its greatest value for now will be in ____ young people about science.
+  - answer: B
+    explanation: The text describes various viewpoints, so 'opinions' fits best.
+    options:
+      A: fear
+      B: opinions
+      C: hatred
+      D: indifference
+    q_number: 10
+    stem: John Womersley says that scientists have a wide range of ____ about Artemis
+      II and crewed space exploration.
+  - answer: A
+    explanation: Doing something ambitious usually earns 'admiration'.
+    options:
+      A: admiration
+      B: disdain
+      C: regret
+      D: apathy
+    q_number: 11
+    stem: “Among my colleagues now, there is some genuine ____ for the fact that NASA
+      is actually trying to do something ambitious.”
+  - answer: C
+    explanation: A 'reprieve' refers to a break or relief from something difficult.
+    options:
+      A: burden
+      B: penalty
+      C: reprieve
+      D: debt
+    q_number: 12
+    stem: “In times like this, these are the things that can give us a ____,” he says.
+  - answer: C
+    explanation: Digital storage uses a 'memory' device.
+    options:
+      A: fossil
+      B: weight
+      C: memory
+      D: food
+    q_number: 13
+    stem: David Blanchflower, an independent astronomer, is also excited about the
+      mission. His name will be carried aboard the Orion spacecraft on a digital ____
+      device.
+  - answer: C
+    explanation: The context contrasts his excitement with 'negative' comments from
+      others.
+    options:
+      A: enthusiastic
+      B: positive
+      C: negative
+      D: praising
+    q_number: 14
+    stem: But when posting about the mission on social media, he says he’s often met
+      with ____ comments.
+  - answer: C
+    explanation: Those who are not enthusiastic often expect the mission to 'fail'.
+    options:
+      A: succeed
+      B: flourish
+      C: fail
+      D: win
+    q_number: 15
+    stem: “People who reply generally either don’t care, or expect it to ____,” says
+      Blanchflower.
+  - answer: A
+    explanation: The text mentions it being 'promised' and delayed.
+    options:
+      A: promised
+      B: celebrated
+      C: promoted
+      D: ignored
+    q_number: 16
+    stem: Some have lost enthusiasm because the mission has been ____ and delayed
+      for so long.
+  - answer: C
+    explanation: Scientific achievements are often described as 'awe-inspiring'.
+    options:
+      A: predictable
+      B: boring
+      C: awe-inspiring
+      D: useless
+    q_number: 17
+    stem: “I generally cheer on any science in space — it’s ____ stuff!”
+  - answer: D
+    explanation: In a negative context with budget cuts, 'layoffs' is the correct
+      term.
+    options:
+      A: promotions
+      B: hiring
+      C: bonuses
+      D: layoffs
+    q_number: 18
+    stem: Alongside a shift in focus towards human spaceflight, the agency has seen
+      proposed cuts to science budgets, the cancellation of missions and internal
+      ____.
+  - answer: A
+    explanation: The idiom 'in droves' means in large numbers.
+    options:
+      A: droves
+      B: groups
+      C: pairs
+      D: duos
+    q_number: 19
+    stem: “Leading scientists have been leaving NASA, along with other federal science
+      agencies, in ____,” says Axford.
+  - answer: B
+    explanation: Antipathy means strong dislike, which he denies feeling.
+    options:
+      A: love
+      B: antipathy
+      C: sympathy
+      D: respect
+    q_number: 20
+    stem: Although he says that he sees no particular ____ towards Artemis, or NASA.
+  source_journal: Nature
+  title: Humanity is heading back to the Moon — why aren’t more scientists thrilled?
+- article_update_date: 04.29.2026
+  body_text: Following publication of this article, we are correcting Extended Data
+    Fig. 8. This figure contained boron-based CO 2 from the compilation by Rae et
+    al., 2021 (ref. 18 in the article), which had slightly different criteria for
+    excluding studies than the CenCO 2 PIP Consortium dataset that we used for Fig.
+    3. For continuity, we are replacing Extended Data Fig. 8b with a new version that
+    contains boron-based CO 2 from the CenCO 2 PIP database. The previous Extended
+    Data Fig. 8b contained 176 points distinguished by core site (upside-down triangles
+    for site 999, plus sign for site 926 and squares for site 668). The new Extended
+    Data Fig. 8b contains 32 additional data points and distinguishes boron-based
+    CO 2 reconstructions by foraminiferal species instead of core site (G. ruber (upside-down
+    triangles) and T. trilobus (plus signs)). The added data produced from T. trilobus
+    (plus signs) were originally from Bartoli et al.1 and exhibit a closer agreement
+    with our new ice core CO 2 record (this study). These data were always included
+    in Fig. 3 and thus this correction does not change that figure. Additionally,
+    the foraminiferal species were incorrectly assigned to the various studies and
+    have now been corrected in the new figure and in the wording in the Methods. Four
+    boron isotope proxy studies used G. ruber (Foster et al., 2008 (ref. 79), Chalk
+    et al., 2017 (ref. 35), Martinez-Botí et al., 2015 (ref. 80) and de la Vega et
+    al., 2020 (ref. 83)) while three used T. trilobus (Hönisch et al., 2009 (ref.
+    36), Dyez et al., 2018 (ref. 81) and Sosdian et al., 2018 (ref. 82)). Note that
+    Sosdian et al. also include G. ruber data from the paper by Chalk et al.. We thank
+    Bärbel Hönisch and Thomas Chalk for bringing these corrections to our attention.
+  difficulty_constant: 11.2
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到原先的图表使用了与Fig. 3不同的数据筛选标准，为了保持数据处理的一致性(For continuity)，研究人员替换了该图表以统一使用CenCO
+      2 PIP数据库。
+    options:
+      A: To incorporate newly discovered CO2 data from the year 2021.
+      B: To ensure methodological consistency in data selection criteria.
+      C: To correct scientific errors found in the CenCO 2 PIP Consortium dataset.
+      D: To expand the study's scope by including more ice core records.
+    q_number: 1
+    stem: What is the primary reason for updating Extended Data Fig. 8b?
+  - answer: C
+    explanation: 文章指出新图表不再按岩心位置(core site)区分，而是根据有孔虫物种(foraminiferal species)进行区分，并列出了G.
+      ruber和T. trilobus的具体对应。
+    options:
+      A: It represents 176 fewer data points than the original.
+      B: It uses core sites as the primary classification method.
+      C: It classifies data based on foraminiferal species.
+      D: It replaces all existing boron isotope proxy studies with new ones.
+    q_number: 2
+    stem: How does the new Extended Data Fig. 8b differ from the previous version
+      regarding data representation?
+  - answer: B
+    explanation: 文中明确说明新增的T. trilobus数据与本研究中的新冰芯CO2记录(our new ice core CO2 record)展现出更紧密的一致性(closer
+      agreement)。
+    options:
+      A: They were previously used in Fig. 3 but were excluded from the study.
+      B: They show a stronger correlation with the new ice core CO2 record.
+      C: They were derived from a completely new methodology developed by Bartoli
+        et al.
+      D: They led to a necessary change in the findings of Fig. 3.
+    q_number: 3
+    stem: What can be inferred about the added data from T. trilobus?
+  - answer: B
+    explanation: 文章提到“the foraminiferal species were incorrectly assigned to the various
+      studies”，即物种被错误地归类到了相关研究中，并在文中指出该错误已在图表和方法部分得到修正。
+    options:
+      A: The species were completely misidentified in the lab experiments.
+      B: The studies were incorrectly attributed to the wrong species in the original
+        figure and Methods.
+      C: The authors failed to acknowledge the source papers for the species data.
+      D: The distinction between G. ruber and T. trilobus was intentionally omitted.
+    q_number: 4
+    stem: What was the nature of the error concerning foraminiferal species in the
+      original article?
+  - answer: C
+    explanation: 最后一句“We thank Bärbel Hönisch and Thomas Chalk for bringing these
+      corrections to our attention”是学术论文勘误的典型致谢句，用以感谢指出错误的相关领域专家。
+    options:
+      A: To provide technical details about the software used for data visualization.
+      B: To clarify that the paper is retracted due to peer-review failures.
+      C: To acknowledge the researchers who identified the inaccuracies.
+      D: To list the future directions for the CenCO 2 PIP Consortium.
+    q_number: 5
+    stem: What is the role of the final sentence in the provided text?
+  source_journal: Nature
+  title: 'Author Correction: Broadly stable atmospheric CO<sub>2</sub> and CH<sub>4</sub>
+    levels over the past 3 million years'
+- article_update_date: 05.02.2026
+  body_text: 'If Labour loses Wales on May 7th, it will snap a world record Britain
+    | British politics If Labour loses Wales on May 7th, it will snap a world record
+    But 104 years ain’t bad April 30th 2026 You can walk many streets in the Ebbw
+    Fach valley in south Wales—and, because of the steepness of the hills, take many
+    breaths—before spotting a political poster. The Welsh parliament, known as the
+    Senedd, holds elections on May 7th. It is a powerful body, responsible for education
+    and health and able to vary income-tax rates. Yet the election seems to have generated
+    little excitement. You would certainly not sense that an event of global significance
+    is about to occur. Political scientists at Cardiff University reckon that the
+    Labour Party has dominated Wales longer than any party has dominated any democracy.
+    Labour has won a plurality of Welsh seats in every general election since 1922,
+    and has won every Senedd election since that body was created in 1999. For historical
+    consistency, the party beats the Christian Social Union in Bavaria, the South
+    Tyrolean People’s Party in Italy and the Democrats in the American “solid South”
+    (who cheated by disenfranchising black people). If the polls are right, Labour’s
+    run will end next week. Plaid Cymru, a nationalist party, is expected to win the
+    Senedd elections; Reform uk, a right-wing populist party, might come second. That
+    would shake Labour and Britain’s prime minister, Sir Keir Starmer. Although fewer
+    than one in 20 Britons live in Wales, it is central to the party’s identity. Labour’s
+    first leader, Keir Hardie, represented a Welsh seat. So did the party’s first
+    prime minister, Ramsay MacDonald. If you could cut the Labour Party, it would
+    bleed Welsh red. The end of Labour’s hegemony would also change Wales. Public
+    policy might not alter much: a Senedd led by Plaid Cymru would probably enact
+    a left-wing agenda broadly similar to the one pursued by Welsh Labour (which sits
+    to the left of the national Labour Party). But culture would shift. A Wales that
+    is not run by Labour is not quite the same Wales. Labour has consistently dominated
+    the Valleys even as its fortunes have fluctuated elsewhere. And few places have
+    been more solid than the area around Abertillery, in the Ebbw Fach valley. In
+    12 out of 20 elections to the Westminster Parliament between 1918 and 1979, Labour’s
+    candidate in Abertillery won at least three-quarters of the vote. In six other
+    elections there was no contest, because nobody dared to stand against Labour.
+    The party’s hold there was built on a firm foundation of coal. The rock populated
+    the valley, as miners flooded in from the rest of Britain and Ireland in the 19th
+    and early 20th century. The dangerous job of digging the stuff out created a close
+    community and powerful, often militant trade unions. “We talked about politics
+    in the pit, and we talked about mining in the pub,” says Steve Davies, who worked
+    as a miner and a security guard. George Thomas, who became a Labour mp, remembered
+    looking on his local representative as akin to a high-court judge or a god. When
+    the Abertillery mp George Daggar died in 1950, local newspapers printed eulogies.
+    “The magnificence of his character was equalled by the magnificence of his principles,”
+    claimed the South Wales Gazette. The churchman who spoke at Daggar’s funeral succeeded
+    him, winning 87% of the vote. Abertillery now has a George Daggar Avenue. The
+    politicians who held such safe seats were not always attentive to their constituents.
+    Neil Kinnock, who was first elected to represent a seat next to Abertillery in
+    1970 and later became leader of the Labour Party, remembers that his predecessor
+    did not even hold regular office hours. Constituents would try to catch their
+    mp in a café, where he was known to repair after shopping with his wife. “This
+    was the home of the Labour Party,” says Lyn Maloney, who runs a heritage group
+    out of the impressive Miners Institute in Llanhilleth, south of Abertillery. “The
+    mp didn’t have to come and say: ‘Vote for me.’ People just did.” The bond between
+    party and people endured after Labour started drawing mps from the professions
+    rather than the miners’ unions. It even survived the closure of the mines. It
+    seems unlikely to survive an era of political fragmentation and turmoil. Labour
+    is now the incumbent in both the Senedd and Westminster. It is catching the full
+    force of popular discontent with public services and the economy. Plaid Cymru,
+    which shrewd Labourites identified as their most dangerous adversary as early
+    as the 1970s, has cleverly positioned itself on the left. Reform uk is potent
+    too. Unlike the Conservative Party, it is not burdened with a century’s worth
+    of opprobrium. Just outside Abertillery, a group of middle-aged and old residents
+    convened by a community-regeneration project known as Pentref Tyleri describe
+    how the place has changed. They cheer the growing beauty of the valley, which
+    is no longer blackened by mining. But they lament the decline of many aspects
+    of communal life. People drive to supermarkets rather than visit local shops;
+    the Nonconformist chapels are empty; the annual carnivals are diminished; unfamiliar
+    people have moved in. Monotonous Labour voting is yet another aspect of communal
+    culture that is fading. The change is not bad, any more than supermarkets and
+    secularism are bad. It simply makes a place like the Ebbw Fach valley less special.
+    And it cuts a link to the past. The local residents believe that their parents’
+    generation would be horrified if they could see how their descendants will vote.
+    The phrase “turn in their graves” comes up a lot. ■ For more expert analysis of
+    the biggest stories in Britain, sign up to Blighty, our weekly subscriber-only
+    newsletter. This article was downloaded by zlibrary from https://www.economist.com//britain/2026/04/30/if-labour-loses-wales-on-may-7th-it-will-snap-a-world-record'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第三段提到“Yet the election seems to have generated little excitement.
+      You would certainly not sense that an event of global significance is about
+      to occur.”说明尽管选举具有政治重要性，但公众却反应冷淡，几乎感受不到那种兴奋感。
+    options:
+      A: It is widely regarded as an event of unprecedented global impact.
+      B: It has failed to stir much public interest despite its political significance.
+      C: It is expected to reinforce the long-standing dominance of the Labour Party.
+      D: It will likely result in the dissolution of the current Welsh parliament.
+    q_number: 1
+    stem: What does the author suggest about the upcoming Senedd election in Wales?
+  - answer: C
+    explanation: 作者列举了巴伐利亚的基社盟、意大利的南蒂罗尔人民党以及美国南部的民主党，旨在说明工党在威尔士的长期执政记录在民主国家中是极具历史连续性的，以此作为比较基准。
+    options:
+      A: To illustrate the violent history of political party disenfranchisement.
+      B: To contrast the American political landscape with the Welsh one.
+      C: To provide a benchmark for comparing Labour’s historical dominance in Wales.
+      D: To criticize the ideological similarities between Labour and the Democrats.
+    q_number: 2
+    stem: Why does the author mention the 'solid South' in the United States?
+  - answer: C
+    explanation: 文章明确指出“The party’s hold there was built on a firm foundation of coal.”随后的段落详细描述了矿业如何造就了紧密的社区、强大的工会以及对工党忠诚的文化。
+    options:
+      A: The charismatic leadership of early MPs like George Daggar.
+      B: The cultural shift toward secularism and modern communal life.
+      C: The deep-seated socio-economic foundation provided by the coal mining industry.
+      D: The lack of opposition parties daring to contest the constituency.
+    q_number: 3
+    stem: According to the passage, what was the primary factor behind Labour's historical
+      grip on Abertillery?
+  - answer: B
+    explanation: 文中提到选民将代表视为类似于“高等法院法官或神”的存在，甚至在议员不提供固定办公时间的情况下，人们依然会投票给他们，这表明当时是一种基于崇拜或敬畏的稳固联系。
+    options:
+      A: It was characterized by a high degree of accountability and regular accessibility.
+      B: It was often based on a sense of reverence for the representative's status.
+      C: It was strained by the professionalization of the Labour Party candidates.
+      D: It was purely transactional, focusing on immediate political benefits.
+    q_number: 4
+    stem: What is implied about the relationship between Labour MPs and their constituents
+      in the past?
+  - answer: B
+    explanation: 文章最后提到社区生活的衰落、超市取代传统商店以及世俗化的进程，并指出“Monotonous Labour voting is yet
+      another aspect of communal culture that is fading.”表明政治上的同质化正在随着社区文化的碎片化而消失。
+    options:
+      A: Its residents are largely opposed to the economic modernization of the region.
+      B: The decline of traditional communal life is leading to a weakening of political
+        uniformity.
+      C: The emergence of new parties like Reform UK is seen as a direct threat to
+        the environment.
+      D: The loss of Labour's political hegemony is viewed as a purely negative development
+        by all residents.
+    q_number: 5
+    stem: What can be inferred about the changing nature of the Ebbw Fach valley?
+  source_journal: Economist
+  title: If Labour loses Wales on May 7th, it will snap a world record
+- article_update_date: 05.28.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Who Is Black Comedy For?
+    A new book is nostalgic for the ’90s. But the era of crossover success was not
+    necessarily the pinnacle of Black comedic achievement. by K. Austin Collins Early
+    in his career, Dave Chappelle worked on a sitcom concept with Fox. (Kwaku Alston
+    / Getty) Early in his career, before he became a household name, Dave Chappelle
+    attempted to get a series off the ground at Fox. It was 1998, and the network
+    had already welcomed Black comedies such as Living Single , Martin , and In Living
+    Color —shows that implied a vested interest in Black taste. Chappelle might have
+    expected to find a receptive audience when he presented the pilot for Dave Chappelle
+    , a sitcom based on his life as a young Black comedian. What he reportedly got
+    instead was a roomful of white executives with a familiar set of complaints. There
+    were not enough white people on his proposed show. It was not “universal” enough—meaning
+    it was too Black. Swap out the Black female lead for a white one and add an additional
+    white character, he was advised. All of this despite Fox being, as Chappelle put
+    it at the time, a network that had “built itself on black viewers.” He refused
+    to cooperate, remarking that the incident “tells every black artist no matter
+    what you do, you need whites to succeed.” Chappelle was caught up in a whirlwind
+    of change in the TV landscape. The successes of Black sitcoms in the 1980s and
+    ’90s had made new shows marketable for mainstream (read: not just Black) audiences,
+    but that marketability had come with a catch. In the late ’90s, there was a broader
+    push for multiculturalism, which came to be defined, in a great many cases, as
+    whiteness-plus: white protagonists with their Black, Asian, and Latino friends;
+    Blackness not as a set of experiences in itself, but as proof positive of the
+    white hero’s ability to learn. Jokes that might offend or even just confuse white
+    audiences became harder sells, and safe crossover appeal became the norm . A few
+    years prior to Chappelle’s pitch, Keenen Ivory Wayans, the creative force behind
+    In Living Color , had left his show , over issues that reportedly included censorship
+    from Fox. From the October 2021 issue: Hannah Giorgis on the unwritten rules of
+    Black TV Fast-forward half a decade to the now-famous story of Chappelle’s Show
+    , the sketch series that began in 2003 on Comedy Central. We live in the comedy
+    world that Chappelle conquered, through the Miss Cleo parody, the racial draft,
+    and “I’m Rick James, bitch!” He mastered a comic style that highlighted the absurdity
+    of racism by taking it to its extremes, while also leaning on and exploring Black
+    in-jokes without translating them for white viewers. His bits became memes before
+    most of us knew what a meme was, and—taking advantage of Comedy Central’s comparatively
+    lax rules—he insisted on using the N-word liberally. This Chappelle show was everything
+    that the 1998 concept couldn’t be. And ironically, though the show made no effort
+    whatsoever to be “universal,” it nevertheless won a rabid and diverse audience.
+    In 2005, Chappelle walked away from a reported $50 million contract he’d signed
+    with Comedy Central the previous year. Most people were baffled by his decision,
+    but in interviews, he explained that the fame and pressure had weighed on him
+    , and that the show’s popularity—especially among people who were ostensibly the
+    butt of the jokes—indicated that his work had not been received as he’d intended.
+    In the end, Chappelle followed the logic he set for himself early on in his career:
+    Mainstream approval was never more important than the integrity of the material,
+    or of its maker. Chappelle’s era of comedic dominance is the denouement of Black
+    Out Loud: The Revolutionary History of Black Comedy From Vaudeville to ’90s Sitcoms
+    , a new book by Geoff Bennett. A PBS News Hour anchor, Bennett traces the trajectory
+    of Black comedy, beginning with the long backstory of its arrival in the network-TV
+    mainstream. The first of the book’s two sections is a series of historical profiles
+    of Black comics, from the minstrel-era performer Billy Kersands through Eddie
+    Murphy. Bennett then turns to several landmark Black television shows of the ’80s
+    and ’90s—series in which, as a youth, he could “see Blackness represented in a
+    way that felt real and expansive.” The book concludes with Chappelle’s Show .
+    In Bennett’s resolutely progressive view, the story of Black comedy in America
+    is of “a steady march toward fearlessness.” But Bennett measures progress mostly
+    by the ability of Black comedy to break barriers and achieve crossover appeal.
+    The effect is to render Black comedy that doesn’t go mainstream—that remains just
+    “Black,” and thrives not in scripted shows on network television but on tours
+    and in comedy clubs, specials, films, TikToks, and Instagram Reels—less relevant.
+    This framing casts the grand lineage of Black comedy as a vehicle for racial reconciliation.
+    As Bennett tells it, the struggle that persists down the “ancestral line” of Black
+    comics is to courageously and cannily resist stereotypes, each generation less
+    fettered than the one that came before it. That process begins with blackface,
+    mammies, and Stepin Fetchits. Next come the winking subversions of those archetypes
+    by the likes of Moms Mabley and Hattie McDaniel. They in turn lay the groundwork
+    for the later, far more brash subversions of Redd Foxx, Dick Gregory, and in particular
+    Richard Pryor, who perfected a singular brand of self-dissolving, linguistically
+    nimble storytelling. Richard Pryor’s controversial stand-up routines made way
+    for a new generation of comics. (Fotos International / Columbia Pictures / Getty)
+    Black Out Loud is an account of successive generations of Black comics gradually
+    persuading white audiences to see beyond caricature and accept Black characters
+    as people whose stories are worth paying attention to. In the ’90s era of peak
+    Black sitcom, Bennett sees, on the one hand, a reflection of America’s begrudging
+    acceptance of Black culture, and on the other, the realization of Black viewers’
+    demand for sitcoms that offered authentic representation. Sitcoms made for Black
+    audiences prior to the 1990s were rarely under Black creative control, and even
+    1970s-era classics such as Good Times and The Jeffersons offered up imperfect
+    or stereotypical simulacra of Black life. With more Black creative input shaping
+    successors such as The Cosby Show ; its spin-off, A Different World , set at a
+    historically Black college; and The Fresh Prince of Bel-Air , however, the stories
+    subtly poked at the rhythms that had been familiar to Black TV. For example, when,
+    on The Fresh Prince , Will and Carlton are detained by racist cops while driving
+    a Mercedes, the officers’ presumption that the car must be stolen doubles as commentary
+    on the show’s popularity and on Black upward mobility generally: We’re not supposed
+    to be here. It’s a little strange, though, to lurch, as the book does, from the
+    bawdy confrontations of Pryor—who tested his audience’s comfort with brash profanity
+    and jokes about racial violence and graphic sex, including gay sex—to the wholesome
+    fare of Family Matters , in which someone spray-painting the N-word on Laura Winslow’s
+    locker and telling her to go back to Africa was the subject of a Very Special
+    Episode. Strange, that is, to fashion the era of Urkel as proof of a clear advancement
+    from the era of Pryor. Progressive views of 20th-century America are right, in
+    many ways, to give us a sense of the cultural politics that were pushing the country
+    forward: more rights, more opportunity, more representation. But the approach
+    stumbles when it too eagerly smooths over the equally characteristic setbacks,
+    divots, and reversals. Family Matters was one of the longest-running sitcoms with
+    a mostly Black cast. (ABC / Everett Collection) Still, Bennett is compelling in
+    his insistence that what unites the various threads of Black comedic genius is
+    an overarching trend toward Black comics getting to be themselves. His reporting
+    on Wayans’s self-described “dictatorship” as In Living Color ’s creator, for example,
+    highlights how, even at the risk of seeming irreverent or disrespectful, Wayans
+    tried to fend off network meddling in achieving his singular vision . That doggedness
+    helped chart a path for many of Bennett’s subjects, including the rest of the
+    Wayanses. This book is a genealogy, yes, but also a relay, stretching from performers
+    hiding—literally—beneath layers of burnt cork to, a century later, Chappelle donning
+    a blond wig and beige makeup to play a delectably too-white news anchor who’s
+    even funnier for looking not quite right (or white). Read: Geoff Bennett on the
+    In Living Color effect The satire cannot exist without the real. The history of
+    blackface is what makes the cutting humor of Chappelle’s whiteface possible. In
+    that respect, Bennett’s vision of Black comedy’s evolution as “a steady march
+    toward fearlessness” makes undeniable sense. How did we get from Bert Williams
+    and George Walker—two extraordinary comic talents whose artistic legacy is complicated
+    by their association with blackface—to Black comedians being afforded the leverage
+    to turn that shameful history into an epic in-joke? Part of the answer is the
+    work of people like Hattie McDaniel, who is said to have quipped that she’d rather
+    play a maid than be one . Bennett’s effort to track this history incrementally,
+    through heroes whose symbolic cultural wins had measurable impact on what came
+    after, makes for a buoyant and agreeable book. Where he errs, however, is in holding
+    up the era of crossover appeal as the apex of Black comic achievement. To dwell
+    on ’90s network sitcoms—on Black television playing on white networks in general—is
+    to gauge the progress of Black comedy in terms that are not always those of Black
+    comedians themselves. We can see the success of shows such as In Living Color
+    and Family Matters as proof that the American experiment, with its promises of
+    integration and acceptance, has finally worked. Or we can acknowledge that the
+    promise has always been contingent: You can tell jokes about race, but … Late
+    in his life, the great Dick Gregory argued that Black people should never turn
+    to entertainment expecting liberation, and that white comedians were not burdened
+    by these unrealistic hopes. “Bob Hope ain’t never changed nothing,” he said. “Fred
+    Astaire ain’t never fixed it so little children could eat.” But, as Black Out
+    Loud makes clear, Black popular entertainers are charged with needing to stand
+    for something: Liberation by way of representation has long been a demand. Chappelle
+    put it plainly. “White people, white artists, are allowed to be individuals,”
+    he told Esquire in 2006 , defending his choice to leave his show. “But we always
+    have this greater struggle that we at least have to keep in mind somewhere.” Of
+    course, Chappelle did return after his hiatus, and the trajectory of his comeback
+    is one of quite a few inconvenient truths that Bennett’s book, interesting as
+    it is, cannot account for. His relentlessly progressive arc struggles to explain
+    the present: when Chappelle is controversial for jokes not about white people
+    but about trans people and Jews ; when networks seem to have short leashes for
+    the few Black shows they do green-light; when audiences are atomized and moving
+    away from television altogether, and toward comedians who make their bones on
+    self-produced short-form videos; and when jokes about race land differently, given
+    an openly white-supremacist administration in the White House. Read: Does Dave
+    Chappelle find anything funnier than being canceled? Bennett scopes his inquiry
+    to focus on the form that most interests him—and, likely, that makes for a manageable
+    book—but the choice constrains his vision of fearlessness to one that mostly involved
+    speaking to white audiences in a decade of multicultural awareness, and through
+    a network-dominated medium that would soon be on its way out. What if fearlessness,
+    though, has nothing to do with white audiences or gatekeepers? If Chappelle himself
+    represents the pinnacle of Black comedic courage, then maybe'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章中提到，Fox执行官拒绝的原因是因为该剧不够“universal”（普遍性），文中明确解释这意味着该剧“too Black”（太黑人了），暗示他们认为缺乏白人角色会影响主流吸引力。
+    options:
+      A: They felt his material was too politically radical and potentially offensive.
+      B: They believed the show lacked sufficient 'universal' appeal due to its focus
+        on Black experiences.
+      C: They were concerned about the production costs associated with a niche sitcom.
+      D: They wanted to prioritize established actors over a young comedian.
+    q_number: 1
+    stem: According to the passage, why did Fox executives initially resist the pitch
+      for Dave Chappelle's sitcom in 1998?
+  - answer: C
+    explanation: 文章指出，90年代的多元文化主义通常被定义为“whiteness-plus”，即以白人为主角，而黑人角色仅作为验证白人英雄学习能力或社会地位的辅助角色。
+    options:
+      A: It allowed Black artists to finally gain complete creative control.
+      B: It led to a decrease in the overall number of minority actors on screen.
+      C: It functioned as 'whiteness-plus,' where Black identity served merely to
+        support white protagonists.
+      D: It encouraged network executives to take more risks with controversial comedy
+        sketches.
+    q_number: 2
+    stem: What does the author suggest was the underlying issue with the 'multiculturalism'
+      push in the late 1990s TV industry?
+  - answer: D
+    explanation: 文章对比了两者，强调Chappelle's Show不仅不试图变得“通用（universal）”，而且大胆深入挖掘黑人内部的梗（in-jokes），不需要向白人观众解释。
+    options:
+      A: It relied heavily on mainstream tropes to ensure broad appeal.
+      B: It strictly followed the censorship guidelines set by corporate networks.
+      C: It prioritized racial reconciliation through gentle, heartwarming comedy.
+      D: It explored Black culture on its own terms without attempting to 'translate'
+        for a white audience.
+    q_number: 3
+    stem: How did Chappelle's Show (2003) differ from the concept Chappelle proposed
+      in 1998, according to the author?
+  - answer: B
+    explanation: 文章认为Bennett将黑人喜剧的成就仅仅定义为“打破壁垒并获得主流吸引力”，这种框架忽视了那些保持独立、未进入主流话语体系的喜剧形式的价值。
+    options:
+      A: It fails to provide a comprehensive historical timeline of Black comedy.
+      B: It wrongly equates progress in Black comedy with the ability to reach mainstream,
+        crossover success.
+      C: It ignores the contributions of early Black comedians like Richard Pryor.
+      D: It relies too heavily on modern social media trends to define comedic history.
+    q_number: 4
+    stem: What is the author's primary critique of Geoff Bennett's book, Black Out
+      Loud?
+  - answer: C
+    explanation: 作者指出主流社会对黑人文化的接受往往是有条件的（contingent），即你可以谈论种族，但不能触碰特定底线，这暗示了主流认可背后的限制。
+    options:
+      A: Integration in television was guaranteed by the success of 90s sitcoms.
+      B: Black comedians have always had complete autonomy to express their views.
+      C: Acceptance of Black comedy in the mainstream came with unstated limitations
+        or conditions.
+      D: The financial rewards for Black comedians were historically higher than those
+        for white comedians.
+    q_number: 5
+    stem: What does the author imply by the phrase 'the promise has always been contingent'?
+  source_journal: Atlantic
+  title: Chapter 15
