@@ -48,7 +48,7 @@ articles:
   is_used: false
   title: Pause
 - id: epub_19
-  is_used: true
+  is_used: false
   title: Chapter 19
 - id: epub_20
   is_used: false
@@ -173,8 +173,8 @@ articles:
 - id: epub_60
   is_used: false
   title: Chapter 60
-capture_date: 08.08.2026
+capture_date: 08.12.2026
 journal_name: Wired
-publish_date: 08.08.2026
+publish_date: 08.12.2026
 source_type: github
 update_frequency: monthly

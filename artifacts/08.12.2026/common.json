@@ -1,0 +1,465 @@
+{
+  "group_update_date": "08.12.2026",
+  "papers": [
+    {
+      "title": "Neuroflix",
+      "article_update_date": "05.25.2026",
+      "source_journal": "Nature",
+      "body_text": "I was a fighter pilot. I was a big game hunter. I was pole vaulting a crossbar 20 feet from the ground, my abdomen tensed, legs extended before me — then I was rocketing through the valley of a 90-foot wave, its white-toothed crest collapsing into my surfboard’s wake. I was — “My turn!” The voice bled through my soundscape, ripping me back to reality. My temples stung where the sticky electrodes had been torn free. “Horatio, bruh,” I groaned, gulping my lager to quash the vertigo; I ran a hand over my tingling scalp. “What’s your rush?” We were gathered around the Neuroflix console — Horatio, Enigma and me — with our collections of non-fungible memories laid out on the Persian rug. I’d been halfway through Xtreme Victory, one of those discount, lossy memory reels that OmniMart sold for bulk release. It was all I could afford from my summer job in the university neuro lab. “Elliott, I beg you, stop buying that crap.” Horatio stuck his ’trodes into place, their suction cups flanking his bushy sideburns. “It’ll dull your senses, and then you won’t appreciate the finer selections. Like mine.” Read more science fiction from Nature Futures “Hold up!” Enigma extended a manicured finger towards Horatio’s deck. “Is this what I think it is?” She picked out a glossy cartridge, squinting at its fine print with one mascara’d eye. “Holy …” A BlueChip memory. We knew Horatio’s family was loaded, but this was something special — high-fidelity sensoryscape plucked from the mind of some celeb or head of state, only a single copy issued via irreversible destructive upload. These NFMs were auctioned for charity or sold to obsessive private collectors for an absurd sum. But here we were, shooting the shit in Horatio’s room, staring at one. “No way,” I said. “Whose?” “Jeremy Ouzanian’s.” Horatio gave us a sheepish grin. “My dad knows a guy who knows a guy.” Enigma whistled. “Damn, I wonder what that billionaire has been up to lately.” She placed back the cartridge, almost reverent. “Saving it for a special occasion?” I grabbed for the BlueChip with a grin. “So I can finally sample your finer selections?” But as my hand drew away it unearthed a row of worn cartridges crammed beneath. “Horatio, what’s this?” I picked one up, started to read the text scrawled across its label: indonesia_landslide/’29. “What the hell …” Black market NFMs. Pirated memories, illicit copies of copies of some hellishly dark stuff: natural disasters, war crimes, terrorism. Commercial trauma-mining was strictly illegal, but bootlegged copies still flooded the dark web. “What’re you doing with this crap?” Enigma slammed shut his deck like it was Pandora’s box. Horatio barked a laugh. “You’ve never been curious?” And then he threw me a familiar look, the half-taunt, half-dare that had pulled us into so many testosterone-fuelled doom loops last semester. “Whaddya say, Elliot? Something spicier than Olympic figure skating?” He picked a new cartridge and held it out enticingly: bridge_failure/’28. I cut off Enigma’s objection with one raised finger, smirking at Horatio. “I’ll play it. But then I get your BlueChip.” The resale value could float me the rest of my college career, and then some. “Elliott, you’re killing me,” he grumbled, raking a hand through his hair, considering. “But fine. Deal.” I triumphantly stuck my ’trodes back into place as Horatio slotted the cartridge into the console. Enigma stepped away to retrieve more kelp crisps — her arms crossed, tut-tutting the entire way — agreeing to stick around only out of concern for my psychological safety, because even idiots deserved their mental health (as she put it). “Ready,” I said, settling myself in front of the console. “And if anything seems off, please just pull me ou —” I’m driving. Fast, too fast. It’s pitch dark — a nameless back road, no traffic, the empty night broken only by the sweep of my headlights. Ahead, the steel trestle of a bridge stitches the grey fog, spanning a frozen river. — his brainwaves are out of range —",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "I was a fighter pilot. I was a big game hunter. I was pole vaulting a crossbar 20 feet from the ground, my abdomen tensed, legs extended before me — then I was rocketing through the valley of a 90-foot wave, its white-toothed crest collapsing into my surfboard’s ____.",
+          "options": {
+            "A": "sight",
+            "B": "path",
+            "C": "wake",
+            "D": "form"
+          },
+          "answer": "C",
+          "explanation": "Contextual meaning of surfboard's wake (the track left behind by a boat or surfboard)."
+        },
+        {
+          "q_number": 2,
+          "stem": "The voice bled through my soundscape, ____ me back to reality.",
+          "options": {
+            "A": "ripping",
+            "B": "pulling",
+            "C": "bringing",
+            "D": "forcing"
+          },
+          "answer": "A",
+          "explanation": "To rip someone back to reality denotes an abrupt, forceful transition."
+        },
+        {
+          "q_number": 3,
+          "stem": "My temples stung where the sticky electrodes had been ____ free.",
+          "options": {
+            "A": "tossed",
+            "B": "torn",
+            "C": "pulled",
+            "D": "ripped"
+          },
+          "answer": "B",
+          "explanation": "Collocation: 'torn free' is used to describe the forcible removal of attached items."
+        },
+        {
+          "q_number": 4,
+          "stem": "I groaned, gulping my lager to ____ the vertigo; I ran a hand over my tingling scalp.",
+          "options": {
+            "A": "ignite",
+            "B": "boost",
+            "C": "quash",
+            "D": "worsen"
+          },
+          "answer": "C",
+          "explanation": "Quash means to suppress or put an end to, fitting for vertigo."
+        },
+        {
+          "q_number": 5,
+          "stem": "We were gathered around the Neuroflix console — Horatio, Enigma and me — with our collections of non-fungible memories ____ out on the Persian rug.",
+          "options": {
+            "A": "placed",
+            "B": "laid",
+            "C": "spread",
+            "D": "thrown"
+          },
+          "answer": "B",
+          "explanation": "Laid out describes items displayed or arranged on a surface."
+        },
+        {
+          "q_number": 6,
+          "stem": "I’d been halfway through Xtreme Victory, one of those discount, ____ memory reels that OmniMart sold for bulk release.",
+          "options": {
+            "A": "low-quality",
+            "B": "lossy",
+            "C": "cheap",
+            "D": "damaged"
+          },
+          "answer": "B",
+          "explanation": "Lossy refers to a data compression method that loses information, fitting for a 'discount' memory reel."
+        },
+        {
+          "q_number": 7,
+          "stem": "“Elliott, I beg you, stop buying that ____.” Horatio stuck his ’trodes into place, their suction cups flanking his bushy sideburns.",
+          "options": {
+            "A": "stuff",
+            "B": "crap",
+            "C": "junk",
+            "D": "waste"
+          },
+          "answer": "B",
+          "explanation": "Crap is the term used in the text to describe low-quality content."
+        },
+        {
+          "q_number": 8,
+          "stem": "“It’ll dull your senses, and then you won’t appreciate the ____ selections. Like mine.”",
+          "options": {
+            "A": "better",
+            "B": "higher",
+            "C": "richer",
+            "D": "finer"
+          },
+          "answer": "D",
+          "explanation": "The text explicitly uses 'finer selections' to contrast with the cheap reels."
+        },
+        {
+          "q_number": 9,
+          "stem": "She picked out a glossy cartridge, squinting at its fine print with one ____ eye.",
+          "options": {
+            "A": "sharp",
+            "B": "focused",
+            "C": "wide",
+            "D": "mascara’d"
+          },
+          "answer": "D",
+          "explanation": "Literal description from the source text."
+        },
+        {
+          "q_number": 10,
+          "stem": "We knew Horatio’s family was loaded, but this was something special — high-fidelity sensoryscape ____ from the mind of some celeb or head of state.",
+          "options": {
+            "A": "plucked",
+            "B": "taken",
+            "C": "extracted",
+            "D": "seized"
+          },
+          "answer": "A",
+          "explanation": "Plucked matches the specific imagery of extracting a memory."
+        },
+        {
+          "q_number": 11,
+          "stem": "These NFMs were auctioned for charity or sold to obsessive private collectors for an ____ sum.",
+          "options": {
+            "A": "enormous",
+            "B": "astronomical",
+            "C": "excessive",
+            "D": "absurd"
+          },
+          "answer": "D",
+          "explanation": "Absurd sum is the exact phrase used to characterize the high price."
+        },
+        {
+          "q_number": 12,
+          "stem": "But here we were, shooting the ____ in Horatio’s room, staring at one.",
+          "options": {
+            "A": "breeze",
+            "B": "trouble",
+            "C": "world",
+            "D": "shit"
+          },
+          "answer": "D",
+          "explanation": "Shooting the shit is an idiom for casual, aimless conversation."
+        },
+        {
+          "q_number": 13,
+          "stem": "Horatio gave us a ____ grin. “My dad knows a guy who knows a guy.”",
+          "options": {
+            "A": "sly",
+            "B": "sheepish",
+            "C": "proud",
+            "D": "knowing"
+          },
+          "answer": "B",
+          "explanation": "Sheepish reflects his mild embarrassment regarding his special connection."
+        },
+        {
+          "q_number": 14,
+          "stem": "She placed back the cartridge, almost ____. “Saving it for a special occasion?”",
+          "options": {
+            "A": "reverent",
+            "B": "solemn",
+            "C": "respectful",
+            "D": "careful"
+          },
+          "answer": "A",
+          "explanation": "Reverent captures the sense of awe surrounding the expensive item."
+        },
+        {
+          "q_number": 15,
+          "stem": "But as my hand drew away it ____ a row of worn cartridges crammed beneath.",
+          "options": {
+            "A": "revealed",
+            "B": "discovered",
+            "C": "uncovered",
+            "D": "unearthed"
+          },
+          "answer": "D",
+          "explanation": "Unearthed is metaphorically fitting for finding hidden items."
+        },
+        {
+          "q_number": 16,
+          "stem": "Pirated memories, illicit copies of copies of some hellishly ____ stuff: natural disasters, war crimes, terrorism.",
+          "options": {
+            "A": "evil",
+            "B": "vile",
+            "C": "cruel",
+            "D": "dark"
+          },
+          "answer": "C",
+          "explanation": "The text lists horrors like war crimes, describing them as 'dark' or 'cruel' in nature."
+        },
+        {
+          "q_number": 17,
+          "stem": "Commercial trauma-mining was strictly illegal, but ____ copies still flooded the dark web.",
+          "options": {
+            "A": "hidden",
+            "B": "pirated",
+            "C": "bootlegged",
+            "D": "forged"
+          },
+          "answer": "C",
+          "explanation": "Bootlegged refers to illicit goods sold illegally."
+        },
+        {
+          "q_number": 18,
+          "stem": "Enigma slammed shut his deck like it was Pandora’s ____.",
+          "options": {
+            "A": "box",
+            "B": "vase",
+            "C": "chest",
+            "D": "case"
+          },
+          "answer": "A",
+          "explanation": "The classical reference is always to Pandora's box."
+        },
+        {
+          "q_number": 19,
+          "stem": "And then he threw me a familiar look, the half-taunt, half-dare that had pulled us into so many testosterone-fuelled ____ loops last semester.",
+          "options": {
+            "A": "doom",
+            "B": "danger",
+            "C": "madness",
+            "D": "conflict"
+          },
+          "answer": "A",
+          "explanation": "Doom loop is the specific term used in the text."
+        },
+        {
+          "q_number": 20,
+          "stem": "He picked a new cartridge and held it out ____: bridge_failure/’28.",
+          "options": {
+            "A": "invitingly",
+            "B": "mockingly",
+            "C": "enticingly",
+            "D": "boldly"
+          },
+          "answer": "C",
+          "explanation": "Enticingly means in a way that is tempting or attractive."
+        }
+      ]
+    },
+    {
+      "title": "The hunt for the next antibiotics",
+      "article_update_date": "05.13.2026",
+      "source_journal": "Nature",
+      "body_text": "To battle antibiotic resistance, researchers are leaving no stone unturned, looking at folk traditions and harnessing AI to find new antibiotics. Antibiotics are losing their effectiveness. With the growth of antimicrobial resistance, routine treatments could become impossible owing to the risk of infection. Cancer treatments, care of newborns and routine surgeries are all in danger if this trend isn’t curbed. Millions of people are already dying from infections by antibiotic-resistant bacteria. In 2023, the World Bank estimated that antimicrobial resistance could increase health-care costs by US$1 trillion by 2050. So, researchers are urgently looking for solutions. Some of these might come from surprising places, and this has led researchers to investigate organisms at the planet's extremes. Other scientists, however, have discovered a source of antibiotic-producing bacteria closer to home — at the grave of a faith healer. Although some researchers have turned to traditional folk stories for clues in the search for new medicines, others have been using artificial intelligence to speed up the discovery process for antibiotics, to help deliver drugs into bacteria and to help physicians decide when to prescribe antibiotics to help prevent their overuse. Together, this research could unlock new antibiotics and find ways to make them last longer, avoiding a future in which bacterial infections make a resurgence.",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why is the decline in antibiotic effectiveness considered a critical global threat?",
+          "options": {
+            "A": "It hinders the progress of medical research in AI-driven drug discovery.",
+            "B": "It increases the financial burden of the World Bank due to excessive production.",
+            "C": "It compromises the safety and feasibility of standard medical procedures.",
+            "D": "It forces researchers to rely solely on folk traditions instead of modern science."
+          },
+          "answer": "C",
+          "explanation": "文章提到“routine treatments could become impossible”且“Cancer treatments, care of newborns and routine surgeries are all in danger”，说明抗生素失效威胁到常规医疗的安全和可行性。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'leaving no stone unturned' in the first paragraph imply about researchers?",
+          "options": {
+            "A": "They are prioritizing historical data over modern technological innovations.",
+            "B": "They are conducting a comprehensive and exhaustive search for solutions.",
+            "C": "They are facing immense pressure from the World Bank to find quick results.",
+            "D": "They are struggling to find any viable sources of new antibiotics."
+          },
+          "answer": "B",
+          "explanation": "该习语意为“想方设法、彻底搜寻”，结合上下文描述研究者从民间故事到AI多渠道寻找抗生素，体现了研究的全面性和彻底性。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the role of artificial intelligence in the fight against antibiotic resistance as described in the text?",
+          "options": {
+            "A": "It completely replaces human physicians in diagnosing bacterial infections.",
+            "B": "It acts as the primary source for cultivating new antibiotic-producing bacteria.",
+            "C": "It facilitates the discovery process and optimizes the usage of antibiotics.",
+            "D": "It solely focuses on translating ancient folk stories into actionable medical data."
+          },
+          "answer": "C",
+          "explanation": "文中指出AI不仅用于加速药物发现，还用于辅助药物输送以及帮助医生决策以防止滥用，即优化抗生素的使用。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The author mentions the 'grave of a faith healer' to illustrate that researchers are ________.",
+          "options": {
+            "A": "exploring unconventional and diverse sources for potential drugs.",
+            "B": "relying on superstition to guide their scientific methodologies.",
+            "C": "focusing exclusively on sites related to historical folk traditions.",
+            "D": "attempting to recover lost medical knowledge from ancient burial sites."
+          },
+          "answer": "A",
+          "explanation": "作者提到这个地点是为了呼应前文提到的“surprising places”，旨在说明科研人员正在从非常规且多元化的渠道寻找抗生素来源。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following would be the most suitable title for this passage?",
+          "options": {
+            "A": "The Future of Medicine: AI and Folk Traditions.",
+            "B": "Combatting Antibiotic Resistance: A Multifaceted Approach.",
+            "C": "The Economic Consequences of Antimicrobial Resistance.",
+            "D": "Why Conventional Antibiotic Treatments Are Failing."
+          },
+          "answer": "B",
+          "explanation": "文章首先指出了抗生素耐药性的危机，随后详细介绍了研究人员如何从民间传统、极端环境和AI技术等多角度寻求解决方案，B选项涵盖了全文中心。"
+        }
+      ]
+    },
+    {
+      "title": "How Europe is fighting for digital sovereignty",
+      "article_update_date": "05.23.2026",
+      "source_journal": "Economist",
+      "body_text": "How Europe is fighting for digital sovereignty Europe | Bytebreak How Europe is fighting for digital sovereignty Escaping its dependence on America’s tech giants is a tall order May 21st 2026 A LOOK AT Europeans’ software budgets shows why they are worried about dependence on America. Germany’s federal government pays almost half a billion euros a year in licence fees to Microsoft, an American software firm. A rough calculation by a French business association finds that large French companies buy more than $50bn in software and cloud services annually from Uncle Sam’s tech giants. Euro-zone imports of intellectual property services from America have ballooned to $200bn a year and counting (see chart). That is not surprising. Cloud and artificial-intelligence services could prove more transformative than online shopping, social media or internet search. And the four biggest American cloud and AI firms—Amazon, Google, Meta and Microsoft—are miles ahead of Europe. German politicians crow about a new €1bn ($1.16bn) data centre near Munich; America’s big four invested over 350 times that in 2025 alone. Of almost 100 notable AI models released in the past year, according to Epoch AI, a research firm, only one was from the European Union. The grip of American tech is, if anything, growing tighter. Policymakers are keen to change that. On June 3rd the EU will unveil a tech-sovereignty package, including a cloud and AI development act. In April France announced it was switching all government computers from Windows to Linux, an open-source operating system originally from Europe. Germany is likely to task domestic firms with setting up a cloud for administrative data, and its domestic intelligence service has opted for ArgonOS, a French data analytics firm, over America’s Palantir. Businesses are also diversifying. In 2022 most firms surveyed by Accenture, a consultancy, said they only considered American cloud providers. That share dropped to less than 20% in 2025. Europeans have three big worries. The first is that sensitive data and services may not be safe. America’s Cloud Act gives its government the power to request data from tech firms even when hosted by a subsidiary abroad. Some fear that America might wield tech as a geopolitical weapon, in the form of a kill-switch that can turn off services. That scenario is somewhat cartoonish, says an EU insider, but the dependence is real. Karim Khan, the chief prosecutor of the International Criminal Court, lost access to his email after being placed under sanctions by America. American tech giants and big cloud service providers, known as hyperscalers, respond to such fears with what they term “sovereign offerings”. Microsoft promises European users never to cut them off, and to fight American data requests in court. Google has an “air-gapped” cloud with no connection to the public internet for clients with high security needs, including one of its newest customers, the German armed forces. But critics call such offers “sovereign-washing”, as the firms are ultimately under American control. Europe needs a layered approach, argues Topi Manner, CEO of Elisa, a Finnish telecoms and cloud provider: “The most sensitive data [should be] kept in Europe, in highly secure data centres, and the big hyperscalers for the less sensitive parts.” A second worry is that American digital services spread harmful content, and dominate markets to the detriment of European businesses and media. The rise of AI has intensified that concern, as users turn to ChatGPT and its competitors for advice on everything from shopping to politics. Europe has countermeasures, but they are controversial and slow. The bloc’s Digital Markets Act (DMA) and Digital Services Act (DSA) let it punish anti-competitive behaviour and force tech giants to change their services. In April alone, the European Commission sent preliminary warnings to Meta, for breaching age restrictions, and to Google, demanding that it grant third parties access to search data. Other investigations are under way. One concerns whether Google’s and Microsoft’s cloud services are governed by the DMA—if so, it could require them to unbundle their services. Such measures may create a bit more room for competitors, but are unlikely to make Europe much less dependent on America. Fear of alienating America and putting NATO at further risk looms. Mario Draghi, a former chairman of the European Central Bank, argued this month that the EU must become more assertive, but “what is holding us back is security.” The third reason for Europe’s digital sovereignty drive is growth. Europe is losing the technological race against America and China, including in AI, which reaches into many sectors where Europe remains strong. Building domestic providers is seen as necessary to stay competitive. One question is whether users will be able to switch. Hyperscalers provide integrated services and the scale to make them efficient. “That bundling of services then leads to lock-in effects,” says Svea Windwehr of D64, a digital-progress association in Germany: users cannot count on easily taking data with them. Quality and cost also matter. A survey of Danish firms, which use clouds more than any others in Europe, found that their top concerns (after security and legal compliance) were quality, ease of use and price. That often argues for American providers. So does the fact that European firms’ customers tend to use American tech, too. “For many industrial applications,” says a European industrial executive, “there are no capable alternatives to software-as-a-service from American providers.” “Europe’s challenge is one of industrial co-ordination and animal spirits,” argues Georg Riekeles of the European Policy Centre, a think-tank in Brussels. There is demand for sovereign solutions, industry representatives say. But building an ecosystem, from chips to data centres and services, is hard. America’s strong economic momentum makes it harder still. Anne Hidma of ASML, the Dutch-based company that leads the world in the machines that make chips (but which sells only 1% of its machines in Europe), says Europeans start with their strong suit, innovative technical ideas. Then they see whether there is a market for them. In contrast, “America starts from the end market and builds its ecosystem from there,” she says. To get things moving, the EU wants to help build large data centres and strengthen the supply chain for chipmaking. The forthcoming package will probably include faster permitting procedures, some public funds to support investment and procurement rules that prioritise European suppliers. The hope is that this will create demand both for chip design and manufacturing, and for cloud and AI services made in Europe. It is a tall order. ■ To stay on top of the biggest European stories, sign up to Café Europa , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//europe/2026/05/21/how-europe-is-fighting-for-digital-sovereignty",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first paragraph, what does the author imply about the current state of Europe's digital landscape?",
+          "options": {
+            "A": "Europe's reliance on American software is declining due to budget constraints.",
+            "B": "The scale of investment in AI and cloud services in Europe is drastically lower than in America.",
+            "C": "Germany and France are leading the world in cloud infrastructure development.",
+            "D": "Most European businesses have transitioned away from American digital services."
+          },
+          "answer": "B",
+          "explanation": "The text states that America's big four firms invested over 350 times the amount of Germany's recent data centre investment in 2025 alone, and that Europe lacks significant output in AI model development compared to America, confirming that Europe's investment is significantly lower."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the term 'sovereign-washing' (Paragraph 5) most likely suggest?",
+          "options": {
+            "A": "A genuine effort by tech giants to localize their data services.",
+            "B": "The deceptive practice of rebranding American-controlled services as independent.",
+            "C": "The superior security measures offered by European domestic firms.",
+            "D": "A successful strategy by European companies to regain digital autonomy."
+          },
+          "answer": "B",
+          "explanation": "The term is introduced as a critique of firms that offer 'sovereign offerings' but remain 'ultimately under American control,' implying that these offerings are merely a facade or marketing tactic rather than true independence."
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is NOT mentioned as a major concern for European policymakers regarding US tech dependence?",
+          "options": {
+            "A": "The potential weaponization of data access by the US government.",
+            "B": "The promotion of harmful content and anti-competitive market dominance.",
+            "C": "The technical inadequacy of European open-source operating systems.",
+            "D": "The need for economic growth through domestic technological competitiveness."
+          },
+          "answer": "C",
+          "explanation": "The text discusses three main concerns: safety of data/geopolitical weaponization, harmful content/market dominance, and the need for economic growth. The 'technical inadequacy' of European open-source software is not cited as a core worry; in fact, the text mentions France switching to Linux."
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the author suggest is the primary challenge to Europe's 'digital sovereignty' drive?",
+          "options": {
+            "A": "A lack of innovative technical ideas among European engineers.",
+            "B": "The absence of regulatory frameworks like the DMA and DSA.",
+            "C": "The difficulty of building a self-sustaining ecosystem rather than just individual components.",
+            "D": "The refusal of industrial executives to use cloud services."
+          },
+          "answer": "C",
+          "explanation": "The text highlights that while Europe has 'innovative technical ideas,' it struggles to 'build an ecosystem' (from chips to data centres), noting that America succeeds by starting from the end market and building an integrated system."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's tone toward Europe's goal of achieving digital sovereignty?",
+          "options": {
+            "A": "Optimistic and celebratory.",
+            "B": "Indifferent and detached.",
+            "C": "Cautious and skeptical.",
+            "D": "Hostile and dismissive."
+          },
+          "answer": "C",
+          "explanation": "The author uses phrases like 'a tall order,' 'unlikely to make Europe much less dependent,' and points out that 'building an ecosystem... is hard,' indicating a realistic, skeptical perspective on the feasibility of the stated goals."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 19",
+      "article_update_date": "08.08.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Garrett M. Graff The Big Story Jan 25, 2026 1:15 PM Why Minnesota Can’t Do More to Stop ICE Democratic lawmakers have few options that wouldn’t trigger something like civil war. PHOTOGRAPH: Stephen Maturen/GETTY IMAGES America has never seen a moment in modern history like the federal occupation of Minneapolis. Thousands of masked federal officers with uncertain authority are rampaging through the region , assaulting protesters and innocent people, abusing constitutional safeguards , staking out daycares and schools, snatching people off the streets in unmarked vans based on the color of their skin or their accent, and recklessly, relentlessly provoking violent confrontations with civilians—all against the loud, repeatedly expressed wishes of local and state officials . Saturday morning, federal agents—apparently from the Border Patrol— shot and killed a 37-year-old nurse, Alex Pretti , amid a chaotic scuffle in front of a well-known Minneapolis donut store after agents began hassling and shoving him in the street. It was the second time this month that federal agents resorted to deadly force within mere seconds after initiating an encounter with a Minneapolis civilian who never posed a threat to agents. All of this unnecessary violence raises the question: Why can’t elected officials do more to stop this? Apart from the courts, doesn’t Minnesota’s government have cards it can play in the battle against the Trump-led occupation, like calling out the National Guard for a showdown with federal agents? The answer, in its shortest form, is mostly no, due to the basic foundations of American federalism. Over and over, Minneapolis mayor Jacob Frey and Minnesota governor Tim Walz have asked President Donald Trump to call back his operation . On Saturday, they again told the public that they had pleaded with the federal government to reconsider and withdraw the upwards of 3,000 immigration officers, who together nearly outnumber the region’s 10 largest state and local police departments combined. But Walz and Frey haven’t taken overt actions to use state and local governments to actively resist because a key part of federalism in the United States is that a state can’t really resist federal authority or kick out federal law enforcement officials. That principle primarily exists because the federal government is meant to be the “protector” of last resort if local and state officials fail to uphold the rights of ordinary citizens. What’s remarkable, and worrisome, is that Trump today is using that arrangement to punish political opponents based on his own whims, as un-American an action as any president has ever undertaken and one that threatens the very union of the United States. Tension in Minnesota between national officials and state and local elected officials is already sky high—and there’s rising animus between the federal forces and local law enforcement as well. Minneapolis police were quick to condemn the shootings of both Pretti and Renee Nicole Good, who was shot and killed by an Immigration and Customs Enforcement (ICE) agent on January 7. They have also been vocal in recent days about how their own officers have been harassed and even assaulted by immigration agents while off-duty. (“Every one of [the off-duty officers stopped by immigration agents] is a person of color,” one police chief complained .) DHS agents tried to bar local police from the shooting scene on Saturday, forcing them to return with a court order, and this time FBI agents again apparently resisted allowing access. “We’re in uncharted territory here,” the head of the state’s investigation bureau said. A governor also has the state's National Guard at their disposal, which could hypothetically be deployed to counter ICE's actions. Yesterday, Minnesota governor Tim Walz announced that he activated them following the shooting, amid a tense series of hours that saw the NBA postpone its evening game in Minneapolis for safety reasons. In a statement whose banality and simplicity underplayed just how stunning it was, the governor’s office said the guard was needed because “local law enforcement resources are stretched thin because of the disruption to public safety caused by thousands of federal immigration agents in our neighborhoods.” So far it seems like Walz’s intent is to use the National Guard and local and state police as more of a buffer between federal forces and Minnesota residents, rather than as a supplement to the street resistance efforts. For now, state and local officials—like those who also suffered from heavy-handed immigration deployments last year, like Los Angeles, Chicago, and elsewhere—are primarily focused on using federal courts for relief. Overnight, a federal judge issued a temporary restraining order to ensure that federal officials didn’t destroy or alter evidence related to Saturday’s shooting. More broadly, Minnesota has a pending lawsuit aimed at blocking the immigration deployments altogether. This restraint is almost certainly intended to prevent even further escalation, driven by President Trump’s apparent eagerness to declare Minnesota in a state of “insurrection” that would allow him to activate and deploy federal troops against its residents. Trump has already launched unprecedented criminal investigations against Walz and Frey, and others, in an apparent bid to create pretexts that could aid the use of the Insurrection Act. The situation is so unprecedented—and the Trump administration’s political incentives so skewed by social media and the president’s own manias—that it’s impossible to understand or predict how the coming days and weeks might unfold. It’s especially unclear how state or local elected leaders might make the situation better for their constituents and neighbors—and, because of the Trump administration’s lawlessness, there are many paths where the situation worsens. President Trump and his Department of Homeland Security in many ways appear to be attempting to provoke an actual showdown between federal forces and local or state authorities. DHS and White House officials have repeatedly labeled protesters exercising their First Amendment rights in Minnesota “domestic terrorists,” and they were quick to smear the victim of Saturday’s shooting; they shut down an investigation of the ICE officer who killed Renee Nicole Good earlier this month and ordered a federal investigation of Good and her spouse instead, leading to the resignation of the FBI agent assigned to the case; at least six federal prosecutors also resigned , refusing to participate in the attempt to scapegoat a victim. In a deeply troubling development, ICE agents have started declaring that people who so much as record them are being entered into a national database as “domestic terrorists.” “Have fun with that,” an ICE officer in Maine was captured joking to a civilian filming him. (That the assault on Minneapolis has little to do with violent crime or immigration issues was underscored Saturday when attorney general Pam Bondi sent state officials a letter saying they’d withdraw the federal forces if Minnesota complied with a Trump request to turn over its voter rolls.) While Walz and Frey’s seeming passivity in the face of an all-out federal attack on their constituents is provoking anger among activists, it may be a case where caution and restraint is the better part of valor. Citizens are already generating massive resistance to the federal presence in Minnesota, and any additional “official” resistance by local or state officials may tip the scales for Trump and bring federal troops into the picture, an escalation that would be surely worse for residents, the state, and the nation at large. Trump has already put some 1,500 federal troops in Alaska on standby to deploy to Minnesota, and all indications are that he’s eager for an excuse to do so. Any such declaration of “insurrection” or deployment of federal troops to further subdue local and state authorities would bring the country the closest it’s been to civil war since, well, the Civil War. A Brief History of Sending In the Troops Under normal circumstances, the use of federal military forces in domestic situations is highly proscribed and limited by two sets of law, the Posse Comitatus Act of 1878—which prohibits the use of the military in civilian law enforcement—and the Insurrection Act , a series of statutes that date to 1792 and outline when a president can call out troops to suppress rebellions and domestic violence. Considering how critical a principle it guards, the Insurrection Act is badly antiquated, as recent reform efforts have shown. As national security legal scholar Scott Anderson wrote in 2024, “Few principles of American government are more foundational than the idea that the US military should not be used against Americans, except in the most dire of circumstances. But even fewer foundational principles are so loosely grounded in the law … The fact that past presidents have done so relatively rarely is more a product of long-standing political norms than hard legal limits.” While state National Guard units and federal troops are routinely used to help respond to natural disasters at the request of and in coordination with local and state officials, since Reconstruction presidents have only reluctantly ever sent in federal agents or troops against the wishes of state governments. Even then, it’s in highly limited circumstances, such as defending civil rights and freedoms in moments when state officials refused to do so. (National Guard units usually report to state governors, although they can be federalized by presidential order to report to the commander-in-chief instead—meaning that Trump could always circumvent Walz activating them by putting them under direct Pentagon control anyway.) In fact, while National Guard troops were used repeatedly in the 20th century by governors and presidents to break labor strikes—often brutally—it wasn’t until the Civil Rights movement and the 1960s that federal troops began to play a more routine role in responding to civil disturbances. In 1957, when Arkansas governor Orval Faubus used the state’s National Guard to block the integration of Little Rock Central High School, President Dwight Eisenhower responded by federalizing all 10,000 Arkansas National Guardsmen and deploying troops from the 101st Airborne Division to force the school’s integration and protect the nine Black students attempting to enroll there. The mission was a key learning opportunity for the military, and when the Army manual on “Civil Disturbances” was republished in 1958, it had doubled in size and now contained a new section on riot control. In every year of his short presidency, President John F. Kennedy deployed federal marshals or troops against the wishes of state officials as the civil rights movement gained momentum. In 1961, some 400 federal marshals were sent to Alabama to protect the Freedom Riders, and when James Meredith attempted to enroll as the first Black student at the University of Mississippi in 1962, Kennedy sent federal marshals who then faced incredibly violent white protesters. With the marshals under attack, Kennedy deployed first the Mississippi National Guard and then thousands of federal troops as well. (That military operation, codenamed RAPID ROAD, was actually the first and only time during the Cold War that the military activated and used plans it had developed to quell civil disturbances in the wake of a nuclear attack.) Then, in 1963, Kennedy again relied on the National Guard to help with the integration of the University of Alabama, and his successor, Lyndon Johnson, used marshals and the National Guard to protect civil rights marchers in Selma after Alabama state troopers infamously attacked them at the Edmund Pettus Bridge in an incident that came to be known as “Bloody Sunday.” Presidents began using military troops, including the National Guard, more routinely in America’s cities in the 1960s. During summer riots following police brutality in Detroit in 1967, President Johnson ordered elements of the 82nd and 101st Airborne Divisions into the city, and Michigan governor George Romney called up the Michigan National Guard; more than 40 people were killed, more than half by Detroit police. National Guard troops killed 11, including a 4-year-old girl, Tanya Blanding, who died when a Michigan guardsman opened fire with a tank-mounted .50-caliber machine gun on her apartment after wrongly believing a sniper was inside. While troops were used again amid the 1968 riots that followed the assassination",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why have Minnesota officials not taken more aggressive action to physically oppose federal immigration agents?",
+          "options": {
+            "A": "They believe that the federal government's actions are supported by a majority of the local population.",
+            "B": "They are constrained by the fundamental principles of American federalism regarding federal authority.",
+            "C": "They are waiting for explicit permission from the Supreme Court to mobilize local police forces.",
+            "D": "They fear that a direct physical confrontation would result in the loss of their own political positions."
+          },
+          "answer": "B",
+          "explanation": "文章指出，Walz和Frey没有采取公开行动进行抵制，是因为美国联邦制的核心原则规定，州政府不能真正抵制联邦权力或驱逐联邦执法官员。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest is the primary motive behind the Trump administration's deployment of federal forces in Minnesota?",
+          "options": {
+            "A": "To assist local law enforcement in reducing violent crime rates in the region.",
+            "B": "To ensure that immigration policies are applied uniformly across all states.",
+            "C": "To punish political opponents and provoke a broader showdown for political leverage.",
+            "D": "To protect civil rights in areas where local officials are perceived as failing their duties."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到，特朗普利用这种安排来惩罚政治对手，并且试图挑起联邦力量与地方当局之间的冲突，其政治激励被社交媒体和总统本人的偏执所扭曲。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How is the Minnesota governor's activation of the National Guard described in the text?",
+          "options": {
+            "A": "As a strategic move to supplement local police in offensive street operations.",
+            "B": "As an attempt to create a buffer between federal forces and local residents.",
+            "C": "As an act of rebellion aimed at seizing control from the federal government.",
+            "D": "As an unnecessary overreaction to the already presence of federal law enforcement."
+          },
+          "answer": "B",
+          "explanation": "文章提到Walz州长激活国民警卫队的意图更像是作为联邦力量与居民之间的“缓冲”，而不是为了补充街头抵抗力量。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The author implies that the restraint shown by state officials is intended to:",
+          "options": {
+            "A": "Avoid providing the President with a pretext to invoke the Insurrection Act.",
+            "B": "Demonstrate their loyalty to the current federal administration.",
+            "C": "Conserve resources for future litigation in the Supreme Court.",
+            "D": "Allow federal troops to complete their mission without local interference."
+          },
+          "answer": "A",
+          "explanation": "文章指出，这种克制是为了防止局势进一步升级，避免让特朗普有理由宣布明尼苏达州进入“叛乱”状态，从而激活《叛乱法》并部署联邦军队。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best reflects the historical context of using federal troops in domestic disturbances as discussed in the text?",
+          "options": {
+            "A": "Federal troops have been the primary tool for settling labor disputes since the 18th century.",
+            "B": "Presidents have consistently and readily intervened whenever state governors requested assistance.",
+            "C": "The use of federal troops against the wishes of states has generally been limited to exceptional circumstances like protecting civil rights.",
+            "D": "The Insurrection Act clearly mandates that military force is the most appropriate response to modern political protests."
+          },
+          "answer": "C",
+          "explanation": "文章回顾历史指出，自重建时期以来，总统极不情愿违背州政府意愿派遣联邦特工或军队，除非是极其有限的情况，例如在州政府拒绝保护民权时。"
+        }
+      ]
+    }
+  ]
+}
