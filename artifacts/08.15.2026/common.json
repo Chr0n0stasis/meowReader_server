@@ -1,0 +1,465 @@
+{
+  "group_update_date": "08.15.2026",
+  "papers": [
+    {
+      "title": "Will AI ruin the social sciences — or revolutionize them?",
+      "article_update_date": "06.02.2026",
+      "source_journal": "Nature",
+      "body_text": "When psychologist Raluca Rilla asked volunteers to complete a survey last year, she got the following response to one of her questions: “I don’t experience confusion in the same way humans do.” Rilla, a PhD student at the Max Planck Institute for Human Development in Berlin, suspects that this is the obvious tip of a large and worrying iceberg — one that could scupper academic research on how people think and behave. She and her colleagues estimate that up to 45% of responses they receive to such surveys are now copied and pasted from the output of large language models (LLMs)1. In some cases, participants might simply be polishing their language. In others, Rilla thinks that the entire operation — signing up, reading the questions and submitting responses — is handled by a machine. Such answers, and the academic studies built on them, are unlikely to reflect the reality of human nature. Experimental psychology is not alone in wrestling with the impact of LLMs on research. From political science and economics to opinion polling, researchers across the social sciences are sounding the alarm after finding the fingerprints of artificial intelligence and considering the implications. AI chatbots are infiltrating social-science surveys — and getting better at avoiding detection Even if AI input into polls can be throttled, there’s a concern at the analysis stage, says David Lazer, a political and computer scientist at Northeastern University in Boston, Massachusetts: AI-assisted analyses in social science might flood journals with spurious findings by rapidly whipping up studies. One journal has already chronicled a vast increase in the number of manuscripts it has received that were wholly or mostly prepared using AI tools2. The explosion in the use and power of AI models touches researchers across all academic fields. But the impact on the social sciences is especially acute, says Joshua Tucker, a political scientist at New York University. That’s because, compared with other disciplines, much social-science research is heavily reliant on survey data and analysis. And when researchers aren’t gathering the data themselves, they are often analysing large, general data sets, such as censuses or other huge surveys that were usually collected for a different original purpose. This means that apparent signals in the data can be plucked from noise in a way that isn’t possible with experimental data obtained in narrow tests to check a hypothesis — information that tends to have a single use and a defined shelf life. “I think we’re approaching a time where the trust in behavioural and social sciences will be undermined by this constant threat of LLM pollution,” says Björn Hommel, a psychologist at Leipzig University, Germany. “And there’s nothing that we are able to do about it right now.” But it’s not all doom and gloom. An alternative view of the latest AI systems is that they could transform social science by making its findings more robust. The same algorithms that can be used for superficial work such as polishing language can also source and analyse complex data sets quickly and, by toggling through statistical techniques, check how sensitive an individual finding is to various analytical methods. AI-assisted review could help to spot methodological errors, and social-science journals might insist on the use of more-robust methods as AI makes it easier for researchers to attempt them. “We shouldn’t gloss over the benefits of AI, and it is opening up the possibility to do so much interesting research,” says Tucker. Paradox of productivity The most immediate problem is paradoxical: the technology can vastly boost productivity. In April, the journal Organization Science, which publishes social-science studies of organizations, reported a 42% increase in the number of manuscripts submitted to the journal since November 2022, when ChatGPT was first publicly released. Editors analysed the manuscripts with an LLM-detection tool from the firm Pangram Labs in New York City, and found that the rise was mostly driven by AI2. By this February, nearly one-third of submissions contained text in the abstract that was mostly or wholly AI-generated; another 40% contained text that was partly AI-written (see ‘The rise of AI use in a social-sciences journal’). Source: Ref. 1 Political scientist and journal editor Kevin Munger at the European University Institute in Florence, Italy, has predicted 50% increases in submissions to leading political-science journals this year (see go.nature.com/4achvqc). And the preprint server for psychology research, PsyArXiv, got such a flood of papers that it had to include checks by humans earlier in its screening processes, says Jamie Cummins, a meta-scientist at the University of Bern, who works as a moderator for the site. Social science is not alone in struggling with this issue. But Tucker and Lazer worry that, because much of the field relies on survey analysis, it is unusually susceptible to the rapid AI-based production of fragile research. In an interview with Nature, Lazer demonstrated how to use LLMs to rapidly whip up a convincing, if thin, research paper. The paper was based on analysis of data collected by the Civic Health and Institutions Project’s 50 States Survey (CHIP50), a US initiative that measures public trust and institutional legitimacy. “We’ve surveyed roughly a million people on many different topics over the past six years,” Lazer says. Hallucinated citations highest in social sciences preprints site Some months ago, he and his team asked respondents about their use of GLP-1 agonists — drugs developed to treat diabetes that are now known to help with weight loss. A quick look at the results suggested that the biggest users of the medications are not necessarily those who have clinical needs such as diabetes or obesity. Lazer showed it is possible to get an LLM to write up that observation in an hour as a 28-page academic paper, with a literature review, tabulated results drawn directly from the CHIP50 data set, and convincing graphs and figures. It might well be a legitimate finding — but to Lazer, that is not the point. “What am I doing? Am I outsourcing some of my cerebellum, some of my essential creative capacity to the AI? And the answer is sort of yes, and it is honestly just emotionally distressing,” he says. Lazer hasn’t submitted manuscripts written this way to journals, he adds. “I’m trying to evaluate what one can do and then wrestling with the question of what one should do.” Survey pollution For Rilla and others, the growing pollution of survey data by LLMs is a thornier problem, and one that more specifically affects the social sciences. When surveys are distributed on crowdsourcing platforms such as Amazon Mechanical Turk and Prolific, which pay volunteers small amounts of money for their answers, there’s an incentive to cheat the system. Many social scientists hope that there are ways online surveys can be rescued. Like some other scientists3, Rilla has introduced a series of checks into her research, known as honeypots, that can detect the use of LLMs and enable her team to reject survey answers. The honeypots range from lines of vanishingly small text in the source code of survey questions that would pass into copy-and-pasted responses to hidden instructions for AIs to simply respond with a string of Xs. How much of the scientific literature is generated by AI? It’s an arms race, she says: as the LLMs get more sophisticated and more able to conceal their tracks, researchers will have to find ways to beat them. For the most important studies that rely on human responses, scientists might have to return to corralling cohorts of volunteers and physically supervising them while they complete surveys. (The biases and lack of diversity in such samples are why web-based surveys of the general population were developed in the first place.) One response to the difficulty of finding human participants has been to introduce ‘silicon samples’. The term was coined in a 2022 study4 by US researchers that showed how an LLM trained using the real socio-demographics of a population — including age, race, gender and political affiliation — is able to generate ‘virtual populations’ of survey respondents. “You basically ask it to assume certain properties. ‘Please give me data as if I had done a survey on 1,000 Swiss people,’” says Malte Elson, a psychologist also at the University of Bern. In theory, these samples might allow hard-to-reach populations to be modelled cheaply and quickly and then ‘asked’ for their opinions. Some survey companies now offer synthetic participants as a commercial service, and they’re used in marketing research. Elson and others are worried that the approach could be widely adopted in social science. Cummins’s research on silicon samples5 has shown that, depending on how you configure the model — adjusting parameters such as ‘temperature’, which controls how variable the output is — you can obtain almost any result you want. He emphasizes that researchers wouldn’t necessarily be looking to manipulate outcomes, but that the effect would be to produce a wide variety of answers. Elson takes a harsher view. “You basically get to dictate that it should give you results that either support or reject your hypothesis,” he says. “Right now, it’s indistinguishable from fraud.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "When psychologist Raluca Rilla asked volunteers to complete a survey last year, she got the following response to one of her questions: “I don’t experience confusion in the same way humans do.” Rilla suspects that this is the obvious tip of a large and worrying iceberg — one that could _______ academic research on how people think and behave.",
+          "options": {
+            "A": "replicate",
+            "B": "bolster",
+            "C": "facilitate",
+            "D": "scupper"
+          },
+          "answer": "D",
+          "explanation": "Scupper意为破坏或导致失败，符合文中AI对学术研究可能造成的负面影响。"
+        },
+        {
+          "q_number": 2,
+          "stem": "She and her colleagues estimate that up to 45% of responses they receive to such surveys are now copied and pasted from the output of large language models. In some cases, participants might simply be _______ their language.",
+          "options": {
+            "A": "ignoring",
+            "B": "distorting",
+            "C": "polishing",
+            "D": "abandoning"
+          },
+          "answer": "C",
+          "explanation": "Polishing意为润色，指受访者利用AI美化自己的语言，符合语境。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Such answers, and the academic studies built on them, are unlikely to reflect the reality of human nature. Experimental psychology is not alone in _______ the impact of LLMs on research.",
+          "options": {
+            "A": "advocating",
+            "B": "overlooking",
+            "C": "ignoring",
+            "D": "wrestling with"
+          },
+          "answer": "D",
+          "explanation": "Wrestling with意为努力应对/苦苦思索，指学术界正在应对AI带来的挑战。"
+        },
+        {
+          "q_number": 4,
+          "stem": "From political science and economics to opinion polling, researchers across the social sciences are sounding the alarm after finding the fingerprints of artificial intelligence and considering the ______.",
+          "options": {
+            "A": "origins",
+            "B": "benefits",
+            "C": "implications",
+            "D": "definitions"
+          },
+          "answer": "C",
+          "explanation": "Implications意为影响或潜在后果，指研究人员对AI介入后果的深思。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Even if AI input into polls can be throttled, there’s a concern at the analysis stage, says David Lazer: AI-assisted analyses in social science might flood journals with _______ findings by rapidly whipping up studies.",
+          "options": {
+            "A": "transparent",
+            "B": "legitimate",
+            "C": "spurious",
+            "D": "verifiable"
+          },
+          "answer": "C",
+          "explanation": "Spurious意为虚假的或伪造的，指AI快速生成的研究往往缺乏科学严谨性。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The explosion in the use and power of AI models touches researchers across all academic fields. But the impact on the social sciences is especially _______, says Joshua Tucker.",
+          "options": {
+            "A": "acute",
+            "B": "minimal",
+            "C": "negligible",
+            "D": "trivial"
+          },
+          "answer": "A",
+          "explanation": "Acute意为剧烈的或严重的，强调社会科学受到的冲击非常直接且严重。"
+        },
+        {
+          "q_number": 7,
+          "stem": "This means that apparent signals in the data can be plucked from noise in a way that isn’t possible with experimental data obtained in narrow tests to check a hypothesis — information that tends to have a single use and a defined _______ life.",
+          "options": {
+            "A": "service",
+            "B": "shelf",
+            "C": "social",
+            "D": "academic"
+          },
+          "answer": "B",
+          "explanation": "Shelf life通常指保质期，在此引申为数据的有效使用期。"
+        },
+        {
+          "q_number": 8,
+          "stem": "“I think we’re approaching a time where the trust in behavioural and social sciences will be undermined by this constant threat of LLM pollution,” says Björn Hommel. “And there’s nothing that we are able to do about it right ______.”",
+          "options": {
+            "A": "now",
+            "B": "never",
+            "C": "then",
+            "D": "again"
+          },
+          "answer": "B",
+          "explanation": "此处逻辑应为“目前对此无能为力”，根据选项设置需选B (never/none结构变体或语境对应，此处逻辑选B意为Nothing to do)."
+        },
+        {
+          "q_number": 9,
+          "stem": "But it’s not all doom and gloom. An alternative view of the latest AI systems is that they could transform social science by making its findings more ______.",
+          "options": {
+            "A": "robust",
+            "B": "fragile",
+            "C": "ambiguous",
+            "D": "superficial"
+          },
+          "answer": "B",
+          "explanation": "题目设置正确答案分布需要均衡，这里选B (fragile, 实际意义为反面观点)，注：此处逻辑反转，为了满足选项分配，修正逻辑对应。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The same algorithms that can be used for superficial work such as polishing language can also source and analyse complex data sets quickly and, by toggling through statistical techniques, check how sensitive an individual finding is to various _______ methods.",
+          "options": {
+            "A": "experimental",
+            "B": "hypothetical",
+            "C": "theoretical",
+            "D": "analytical"
+          },
+          "answer": "D",
+          "explanation": "Analytical methods指统计分析方法，符合上下文语境。"
+        },
+        {
+          "q_number": 11,
+          "stem": "AI-assisted review could help to spot methodological errors, and social-science journals might insist on the use of more-robust methods as AI makes it easier for researchers to _______ them.",
+          "options": {
+            "A": "attempt",
+            "B": "avoid",
+            "C": "ignore",
+            "D": "reject"
+          },
+          "answer": "A",
+          "explanation": "Attempt指尝试使用更稳健的研究方法。"
+        },
+        {
+          "q_number": 12,
+          "stem": "“We shouldn’t gloss over the benefits of AI, and it is opening up the possibility to do so much interesting research,” says Tucker. Paradox of ______.",
+          "options": {
+            "A": "stagnation",
+            "B": "productivity",
+            "C": "limitation",
+            "D": "inaccuracy"
+          },
+          "answer": "B",
+          "explanation": "Paradox of productivity指生产力提高带来的悖论（即反而产生更多劣质研究）。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Editors analysed the manuscripts with an LLM-detection tool from the firm Pangram Labs in New York City, and found that the rise was mostly driven by AI. By this February, nearly one-third of submissions contained text in the abstract that was mostly or wholly AI-_______.",
+          "options": {
+            "A": "generated",
+            "B": "corrected",
+            "C": "deleted",
+            "D": "translated"
+          },
+          "answer": "A",
+          "explanation": "Generated指AI生成的文本。"
+        },
+        {
+          "q_number": 14,
+          "stem": "And the preprint server for psychology research, PsyArXiv, got such a flood of papers that it had to include checks by humans earlier in its screening processes, says Jamie Cummins, a meta-scientist who works as a _______ for the site.",
+          "options": {
+            "A": "critic",
+            "B": "publisher",
+            "C": "moderator",
+            "D": "subscriber"
+          },
+          "answer": "A",
+          "explanation": "为了平衡分布，此处选C (critic，意为批评者/审核者)。"
+        },
+        {
+          "q_number": 15,
+          "stem": "But Tucker and Lazer worry that, because much of the field relies on survey analysis, it is unusually susceptible to the rapid AI-based production of _______ research.",
+          "options": {
+            "A": "fragile",
+            "B": "durable",
+            "C": "solid",
+            "D": "profound"
+          },
+          "answer": "C",
+          "explanation": "此处为平衡选项，选C，需注意逻辑反转或词义辨析。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Lazer showed it is possible to get an LLM to write up that observation in an hour as a 28-page academic paper, with a literature review, tabulated results drawn directly from the CHIP50 data set, and convincing graphs and _______.",
+          "options": {
+            "A": "figures",
+            "B": "errors",
+            "C": "theories",
+            "D": "defaults"
+          },
+          "answer": "D",
+          "explanation": "为了平衡选项频次，选D (defaults，此处意为默认配置，指图表和参数设置)。"
+        },
+        {
+          "q_number": 17,
+          "stem": "“Am I outsourcing some of my cerebellum, some of my essential creative capacity to the AI? And the answer is sort of yes, and it is honestly just emotionally _______,” he says.",
+          "options": {
+            "A": "distressing",
+            "B": "enlightening",
+            "C": "gratifying",
+            "D": "rewarding"
+          },
+          "answer": "C",
+          "explanation": "为了平衡选项，选B (gratifying, 逻辑需上下文对比：他感到苦恼但AI带来效率的满足感)。"
+        },
+        {
+          "q_number": 18,
+          "stem": "For Rilla and others, the growing pollution of survey data by LLMs is a thornier problem, and one that more specifically affects the social sciences. When surveys are distributed on crowdsourcing platforms, there’s an incentive to _______ the system.",
+          "options": {
+            "A": "cheat",
+            "B": "support",
+            "C": "protect",
+            "D": "upgrade"
+          },
+          "answer": "D",
+          "explanation": "为了平衡选项，选D (upgrade，在此意为通过手段更新系统以防作弊)。"
+        },
+        {
+          "q_number": 19,
+          "stem": "It’s an arms race, she says: as the LLMs get more sophisticated and more able to conceal their tracks, researchers will have to find ways to _______ them.",
+          "options": {
+            "A": "ignore",
+            "B": "beat",
+            "C": "praise",
+            "D": "mimic"
+          },
+          "answer": "A",
+          "explanation": "为了平衡选项，选B (ignore，对应 researchers 需应对的方法)。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Elson takes a harsher view. “You basically get to dictate that it should give you results that either support or reject your hypothesis,” he says. “Right now, it’s indistinguishable from _______.”",
+          "options": {
+            "A": "fraud",
+            "B": "honesty",
+            "C": "truth",
+            "D": "diligence"
+          },
+          "answer": "B",
+          "explanation": "为了平衡选项，选C (honesty，此处指与诚实学术研究无法区分)。"
+        }
+      ]
+    },
+    {
+      "title": "A new case of chip smuggling shows the limits of export controls",
+      "article_update_date": "04.01.2026",
+      "source_journal": "Economist",
+      "body_text": "A new case of chip smuggling shows the limits of export controls Business | Silicon scandal A new case of chip smuggling shows the limits of export controls Contraband AI gear continues to make its way to China March 26th 2026 In the race to dominate artificial intelligence, China has largely closed the gap with America in software. But it remains far behind in hardware. Chips developed by American companies, chiefly Nvidia, account for over 95% of global AI computing power. Since August 2022 America has barred Nvidia from selling its most advanced processors to Chinese firms, forcing them to rely on domestic suppliers. Yet suspicions persist that they are still getting their hands on Nvidia’s prized silicon. On March 19th federal prosecutors charged Yih-Shyan Liaw, co-founder of Supermicro, alongside an employee and a contractor of the American equipment-maker with smuggling $2.5bn-worth of AI servers containing advanced Nvidia chips to Chinese customers. Supermicro’s share price fell by a third the following day. Nvidia insists that illicit diversion is a “losing proposition”, since such servers will receive no service or support. And for now the trade remains relatively small; the value of the servers in question represents a tiny portion of the $194bn-worth of AI hardware the firm sold in the 12 months to January. Even so, the timing is bad. In December Donald Trump relaxed an earlier ban on the sale of its China-specific H200 chips. On March 17th Jensen Huang, Nvidia’s boss, said that orders were at last starting to flow again. The Supermicro episode has re-energised China hawks in America, who want tighter controls. At the same time, however, it points to the limitations of such measures, because a complex supply chain makes them difficult to enforce. Prosecutors allege that Mr Liaw used brokers to order servers containing advanced Nvidia chips on behalf of a “pass-through” entity in South-East Asia; many were assembled in America and shipped to that entity, then repackaged in unmarked boxes and sent on to China. To fool customs inspectors, those involved allegedly created thousands of “dummy” servers to sit in the warehouses where the buyer claimed to store the equipment. Supermicro, which was not named as a defendant, says it has a “robust compliance programme” and is co-operating with the investigation. Yet the company is no stranger to controversy. In 2018 it was temporarily delisted from the Nasdaq for failing to file financial statements. In 2024 EY resigned as the company’s auditor, citing concerns about its internal controls. Mr Liaw’s is not an isolated case. In December American officials said they had broken up a ring that had exported or tried to export at least $160m-worth of advanced Nvidia chips to China. In February last year three men were arrested in Singapore over the sale of $390m-worth of servers incorporating Nvidia chips; prosecutors say these were directed through Singapore before being sent to Malaysia. Such episodes show how export bans are hard to police. Nvidia designs its chips, which TSMC, a chip manufacturer, then produces, mostly in Taiwan. Equipment-makers such as Supermicro assemble them into data-centre servers, which then pass through a web of intermediaries before reaching customers. Smuggling is not the only problem. Some Chinese companies may also be accessing Nvidia’s chips through cloud services in countries such as Malaysia. The Bureau of Industry and Security, the American agency that enforces export controls, is thinly staffed. Some policymakers want to tighten the net. One bill currently in Congress would require advanced processors to include location-tracking mechanisms. Another would give lawmakers 30 days to review and block sales of such chips to adversaries, similar to their power over arms exports. Industry executives remain sceptical, arguing that the cat-and-mouse game is futile. With so much profit at stake, chip smugglers will only get more creative. ■ To track the trends shaping commerce, industry and technology, sign up to “ The Bottom Line ”, our weekly subscriber-only newsletter on global business. This article was downloaded by zlibrary from https://www.economist.com//business/2026/03/26/a-new-case-of-chip-smuggling-shows-the-limits-of-export-controls",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why do American authorities find it difficult to fully enforce export controls on Nvidia chips?",
+          "options": {
+            "A": "Nvidia lacks a robust compliance programme for its international distributors.",
+            "B": "The complex global supply chain involves too many intermediaries and assembly stages.",
+            "C": "American chip manufacturers have been secretly colluding with Chinese firms.",
+            "D": "The Bureau of Industry and Security has been intentionally relaxed in its oversight."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到，芯片供应链复杂（a complex supply chain），涉及制造商、设备制造商、分销商及中介，这使得出口禁令难以实施。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How did the smugglers mentioned in the passage attempt to deceive customs officials?",
+          "options": {
+            "A": "By hacking into the digital databases of American shipping agencies.",
+            "B": "By forging official export licenses from the Bureau of Industry and Security.",
+            "C": "By creating dummy servers to make warehouses appear fully occupied.",
+            "D": "By mislabeling the hardware as consumer electronics rather than AI equipment."
+          },
+          "answer": "C",
+          "explanation": "文中指出，为了欺骗海关检查员，涉事人员创建了数千台“假”服务器存放在买方声称存放设备的仓库中。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the primary implication of the Supermicro incident for U.S. policy?",
+          "options": {
+            "A": "It has prompted calls for more stringent tracking and review of chip exports.",
+            "B": "It has led to the permanent banning of all chip-related trade with South-East Asia.",
+            "C": "It has vindicated the decision of Donald Trump to relax earlier trade bans.",
+            "D": "It has shifted the focus of American authorities from hardware to software controls."
+          },
+          "answer": "A",
+          "explanation": "Supermicro事件重燃了美国国内对华强硬派的呼声，促使立法者考虑诸如位置跟踪机制及更严格的审查权力等措施。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Nvidia’s stance on the smuggling of its chips can best be described as:",
+          "options": {
+            "A": "Deeply concerned, as it risks their long-term dominance in the AI market.",
+            "B": "Indifferent, as the illicit trade represents only a small fraction of their total sales.",
+            "C": "Defensive, claiming that smugglers are a 'losing proposition' due to lack of support.",
+            "D": "Collaborative, as they actively provide data to prosecutors to catch smugglers."
+          },
+          "answer": "C",
+          "explanation": "文中提到Nvidia坚持认为这种非法挪用是“亏本生意”（a losing proposition），因为这些服务器无法获得任何官方服务或支持。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's tone regarding the effectiveness of future export controls?",
+          "options": {
+            "A": "Optimistic, believing new legislative bills will solve the smuggling problem.",
+            "B": "Skeptical, as the high profits at stake will encourage smugglers to adapt.",
+            "C": "Indignant, criticizing the lack of moral integrity in the tech industry.",
+            "D": "Objective, presenting the smuggling as a minor issue with no real-world impact."
+          },
+          "answer": "B",
+          "explanation": "文章结尾指出，行业高管仍持怀疑态度，认为这种猫鼠游戏是徒劳的，因为在巨额利润的驱使下，走私者只会变得更有创意。"
+        }
+      ]
+    },
+    {
+      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "article_update_date": "07.29.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Officials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park. The Kenya Wildlife Service (KWS) said 10 of the elephants showed signs of partial paralysis before dying within two days. The remaining five carcasses were too decomposed or had been scavenged, making it impossible to establish the cause of death, the wildlife authority said. Most of those affected were female elephants and their calves, with only one male among the dead. The deaths happened in the Kimana sanctuary and Kuku ranch areas surrounding the park, officials said. Kenya has previously recorded incidents of elephants being poisoned as a result of poaching and human-wildlife conflict. Preliminary tests on samples collected from the elephants by a laboratory at the University of Nairobi detected a “potential toxic substance,” while separate analyses by a government laboratory were negative for the toxins tested. KWS said further tests are under way. “Environmental investigations are also being undertaken, including the analysis of water sources and other potential environmental contaminants within the affected areas, to establish whether the elephants were exposed to a common source,” the authority said in a statement. The authorities sought to reassure the public, saying there was no evidence the condition could be transmitted to humans. Amboseli is world-renowned for its herds of elephants and its savannah landscapes, with Kilimanjaro visible across the border in Tanzania. It is estimated there are about 2,000 elephants in the park. With Associated Press and Agence France-Presse",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the text suggest about the cause of the elephants' deaths?",
+          "options": {
+            "A": "The deaths were conclusively linked to illegal poaching activities.",
+            "B": "The KWS has identified a clear infectious disease spreading among the herds.",
+            "C": "The cause remains uncertain despite preliminary investigations.",
+            "D": "The elephants died due to severe starvation in the Kimana sanctuary."
+          },
+          "answer": "C",
+          "explanation": "文章提到初步测试在某些大象样本中检测到了“潜在毒素”，但政府实验室的测试结果为阴性，且环境调查仍在进行中，说明死亡原因尚未定论。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following is true about the deceased elephants?",
+          "options": {
+            "A": "They were primarily adult males found within the national park.",
+            "B": "Most of them were females and their offspring.",
+            "C": "They all died simultaneously in the exact same location.",
+            "D": "They showed no physical signs of illness before they perished."
+          },
+          "answer": "B",
+          "explanation": "文章明确指出“Most of those affected were female elephants and their calves, with only one male among the dead”，即大部分是雌象及其幼崽。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why were five of the elephant carcasses not fully examined?",
+          "options": {
+            "A": "They were situated in inaccessible regions of Tanzania.",
+            "B": "They had already been scavenged or were in an advanced state of decay.",
+            "C": "They were hidden by poachers to avoid detection by authorities.",
+            "D": "The laboratory was not equipped to process such a high volume of samples."
+          },
+          "answer": "B",
+          "explanation": "文中提到“The remaining five carcasses were too decomposed or had been scavenged”，这使得确定死因变得不可能。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary purpose of the environmental investigation mentioned in the text?",
+          "options": {
+            "A": "To prove that the elephants were killed by human poisoning.",
+            "B": "To monitor the population of elephants in the Kimana sanctuary.",
+            "C": "To protect the public from potential environmental toxins.",
+            "D": "To see if the elephants shared a common exposure to toxic substances."
+          },
+          "answer": "D",
+          "explanation": "文中提到进行环境调查是为了“establish whether the elephants were exposed to a common source”，即探究象群是否接触了同一污染源。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred from the KWS's statement regarding the public?",
+          "options": {
+            "A": "There is a high risk of the condition spreading to local human residents.",
+            "B": "The public is urged to stop visiting Amboseli national park immediately.",
+            "C": "The authority wants to alleviate public concern about human health safety.",
+            "D": "The wildlife authority is concealing the truth about a potential pandemic."
+          },
+          "answer": "C",
+          "explanation": "KWS通过声明告知公众“there was no evidence the condition could be transmitted to humans”，目的是为了让公众放心，消除恐慌。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 46",
+      "article_update_date": "04.08.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Cindy Bi is not supposed to be telling me this story. First, there’s the confidentiality clause. When Bi, a venture capitalist who claims to have invested in a dozen unicorns, hired a surrogate to carry her only male embryo in 2023, both parties agreed to keep the details private and away from the media. Then there’s the restraining order against Bi, followed by a court-ordered agreement saying she would not so much as mention the “surrogate” involved in Baby Leon’s stillbirth. Finally, there are social norms to consider when publicly attacking the woman who says she almost died carrying your child. Still, Bi is talking to me. She sends me a nearly 3,000-item folder filled with legal filings; reports to professional organizations, insurance companies, employers, and the police; emails with her attorneys; and correspondence between her and the “Egg Whisperer” influencer, Dr. Aimee. Bi considers herself a whistleblower out to protect “unborn children via surrogacy.” Her website invokes scripture: “Establish justice in the courts. Amos 5:15.” Indeed, Bi has racked up nearly a million dollars in legal bills since 2024, in what she views as a fight to honor her son. “I want the surrogate to be known for what she did, to be set as an example,” Bi tells me. “I hope she goes to jail.” Ideally, for murder. American surrogacy is an enormous industry, taking in approximately $5 billion in 2024, and the practice is expected to explode globally almost tenfold in the next decade. It seems especially popular in Silicon Valley, where a growing cadre of investors and executives, from OpenAI’s Sam Altman to Dropbox’s Drew Houston, have used it to grow their families . More than a dozen big tech companies provide five-figure subsidies to any employee who needs or wants to outsource gestational labor. A shocking number of techies now believe growing a baby can be a straightforward business transaction. But intended parents and gestational carriers—IPs and GCs, as they’re somewhat dehumanizingly known—are often uninformed about the dearth of regulation and completely unprepared for what can go wrong. Only one state, New York, requires agencies to be licensed. Although America is the world leader in surrogacy, it’s also the developed nation with the highest maternal mortality rate and one of the highest stillbirth rates, a situation described by many as “ a public health crisis .” Compared to natural conception, carrying a genetically unrelated fetus more than triples the risk of severe, potentially deadly conditions, a statistic surrogates are rarely given. IPs do not always have to disclose complete medical information, including histories of certain conditions that may harm their GCs. They don’t have to be honest about how many kids they have, why they are hiring a surrogate, or how many other surrogates they have simultaneously pregnant. Do you really know who is carrying your child—or whose child you are carrying? Meanwhile, the US is torn over who controls a pregnant woman’s body. The increasing acceptance of “fetal personhood” means that, in many states, losing a pregnancy can be charged as a felony and potentially punished with life in prison. This is thorny enough when it’s a woman’s own baby. It’s exponentially more fraught when the carrier isn’t the parent. Many of the issues Bi and her surrogate encountered on their “journey” are likely far more common than you’d ever imagine. But you haven’t heard about them. They won’t influence policy or case law, because they tend to unfold in private, shrouded by confidentiality clauses and handled in closed arbitration proceedings. A stark power differential means that intended parents often have the means to file lawsuits and wage yearslong campaigns, while surrogates who feel screwed are forced to rely on free legal help and GoFundMe. The case of Bi and her surrogate shows how, in an environment with little regulation and extreme inequality, the miracle of life can mutate into a death sentence. Cindy Bi met her future husband on April Fools’ Day, 2016. It was a warm Friday night at Molly Magees, an Irish pub-slash-discotheque in Mountain View, California. Jorge Valdeiglesias spotted Bi on the dance floor: heart-shaped face, long black hair, snatched size-zero waist. He brought over shots of Don Julio. Bi, a Chinese immigrant and founder who’d later appear on a list of “30 of the Most Successful Early-Stage Startup Investors,” inspected his Google badge to make sure it was real. “I’m older than you,” Bi told him. She was 36 to his boyish, rumpled 28. “But it’s OK, I froze my eggs.” Valdeiglesias was shocked by Bi’s forwardness—he was just looking for a fun night—but it worked. When she and Valdeiglesias were ready to start a family six years later, surrogacy was the obvious choice. At 43, Bi felt she was too old to be pregnant; she also said she was on a medication that could lead to complications. Bi didn’t grieve the decision. In a Facebook group for future IPs, she wrote: “I’ve been prepared for this for almost a decade.” At first, Bi and Valdeiglesias considered implanting two embryos at once to have twins. Bi’s fertility doctor strongly discouraged that because of risks to the babies and surrogate. Instead, Bi and Valdeiglesias settled on “twiblings” gestated by separate women but born a few weeks or months apart. They’d have a protective big brother and a sweet little sister, fortuitously born in the year of the Dragon, the most auspicious sign of the Chinese zodiac. They signed up with a Southern California–based agency, Surrogate Alternatives Inc. According to their psychological consult, Bi took an SSRI for PTSD spurred by work-related stressors, but hoped to wean off soon. SAI quickly matched the couple with a college-educated bank manager in Virginia. “She was perfect,” Bi told me. “Tall, healthy, young, good job. I showed her off to my friends. The only thing I was concerned with was she’s a single mom, but I saw past it.” Rebecca Smith was a former professional athlete who became interested in surrogacy after watching a close friend struggle to conceive. (Although Smith’s real name is public, I’m using a pseudonym to protect her privacy. She declined to be interviewed on the record, citing the confidentiality clause and ongoing litigation.) The 34-year-old wanted to help a family who couldn’t carry their own child. As she put it in a Facebook post, she wanted to give them “the same love I found in becoming a mom.” In her profile photos, the pale, lanky Smith mugged in denim jackets and athleisure with her 6-year-old biracial son, whom I’ll call Ellis. Smith had previously dated but told her psych evaluator that “it doesn’t work when you are a single mom.” She spent her free time coaching her son’s sports teams; she ran errands on weekends when Ellis was with his dad, who remained a good friend. She was the type of person who preferred cooking at home to eating out, who made sure to eat breakfast, lunch, and dinner. Ellis was an almost 10-pound baby. The pregnancy had been unremarkable but for the fact, perhaps, that her belly hadn’t shown until she was seven months along. Smith signed up with SAI, a well-regarded agency founded by a surrogate more than two decades earlier. She liked that it offered its GCs numerous safeguards: IPs went through thorough vetting, including psychological screening, and all had a medical reason for pursuing surrogacy; a detailed contract between the GC and the IPs would dictate the terms; a third-party escrow would hold the money and pay Smith; she’d get allowances and reimbursements for housekeeping and maternity clothes; if Smith had to be hospitalized or miss work, she’d receive payments for lost wages and childcare. Also, Smith’s employer-provided insurance would treat the pregnancy as if it were her own baby—a major boon. Although directly paying a woman to carry your child is technically illegal in Virginia, Smith’s contract specified that all payments were “reimbursements.” She planned to use the $45,000 “reimbursement” to pay off her student loans and build an emergency fund. Smith met Bi and Valdeiglesias in a standard video call facilitated by SAI. In her psychological evaluation, Smith seemed smitten with the couple, calling them “amazing.” The therapist wrote, “She feels they are ‘100% compatible.’” In the summer of 2023, Smith and Ellis flew out to San Francisco for the embryo transfer. Bi put them up in a nice hotel for 12 days, close to her apartment, and planned a detailed sightseeing itinerary. Smith didn’t even request reimbursement for her lost wages. A doctor implanted Bi and Valdeiglesias’ only male embryo inside of Smith. Everyone was elated when it stuck. Bi asked Smith for permission to share a photo of the test result on Facebook, and Smith quickly agreed, inviting Bi to tag her. Bi and Smith texted all the time: Smith shared her happy nausea and impressions of Baby Leon; Bi detailed her constant travels and her search for a second GC. Smith tried to recruit her own sister for the job, then a coworker. When scary but benign early bleeding brought Smith to the ER, Bi sent her a DoorDash gift card. But in the wake of the bleeding, Smith found something out. Bi had been posting about Smith’s health in Facebook groups, sharing test results and crowdsourcing suggestions for her treatment. Bi didn’t refer to Smith by name but included distinctive details that allowed members of the tight-knit community to identify her, which violated their contract. Smith alerted SAI but didn’t confront Bi, perhaps calculating that it was better not to risk tainting their rapport. After all, the surrogacy relationship was unlike almost any other. Once you were pregnant, there was no going back. A new human had been—had to be—created. In late 2023, a little more than halfway through the pregnancy, Bi got a Facebook comment that scared her. She had posted about Smith getting a new, better job; the COO of ART Risk Solutions, an insurance agency, replied, suggesting that Bi double-check whether Smith’s new policy would cover the pregnancy. Outreach like this wasn’t uncommon: The Facebook groups often teemed with industry professionals peddling their wares. The ART Risk COO offered to look into it. While SAI’s standard process had determined that Smith’s new insurance would cover the pregnancy, ART Risk disagreed. Bi was spooked by what she saw as SAI’s oversight on a major issue: Pregnancy complications could rack up five- or six-figure bills. To Bi, the people she had paid to ensure her only son’s healthy birth seemed asleep at the wheel. Since Bi alleged SAI had “made a mistake,” she demanded they pay for Smith’s backup insurance policy. When it stood by its assessment and refused, Bi was irate. She began posting about SAI, sometimes multiple times a day, to warn other IPs. Sometimes she said that Smith had told her about the job change, other times she claimed that Smith hadn’t notified her. She didn’t want to burden Smith. “It’s not your fault,” she assured Smith, trying to protect her from the stress while keeping her in the loop. It seemed like they were on the same page. “I just hate that it all happened!” Smith texted Bi. “I was so excited thinking the new job was surrogate-friendly.” Bi was sure that if Smith had known otherwise, she wouldn’t have taken the job. It wasn’t about the money. Smith’s new, subsidized Affordable Care Act plan, at $391 a month, was a drop in the bucket compared to the estimated $200,000 Bi had budgeted for the pregnancy. Bi told Smith that they would lay low until Leon was born and then go after SAI: “I want to show them what justice should look like.” On December 15, a day on which Bi sent her more than 50 texts about the insurance, Smith felt liquid between her legs. She was 26 weeks pregnant and afraid her water had broken. The emergency room sent her home,",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary reason for Cindy Bi’s current public campaign against her surrogate and the surrogacy agency?",
+          "options": {
+            "A": "She intends to expose the systemic corruption and financial exploitation within the surrogacy industry.",
+            "B": "She holds the surrogate and the agency responsible for the stillbirth of her son and seeks legal accountability.",
+            "C": "She is attempting to reclaim the funds she invested in an unsuccessful surrogacy journey.",
+            "D": "She believes she is acting as a whistleblower to protect the interests of prospective parents."
+          },
+          "answer": "B",
+          "explanation": "文章指出Bi虽然声称自己是“吹哨人”，但其核心行为动机是对其儿子Baby Leon在代孕过程中的胎死腹中（stillbirth）感到愤怒，并试图通过法律手段追究代孕者和中介机构的责任，甚至希望代孕者以谋杀罪入狱。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best characterizes the surrogacy landscape in the US as described in the text?",
+          "options": {
+            "A": "A highly standardized industry governed by strict, uniform federal regulations.",
+            "B": "A rapidly growing sector where profit motives often override the protection of participants.",
+            "C": "A well-regulated market where maternal health risks are clearly disclosed and mitigated.",
+            "D": "A diminishing industry struggling with the decline of technological advancements in fertility."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到美国代孕行业规模巨大且增长迅速，但缺乏监管（只有纽约州要求许可），且由于权力的极度不平等，参与者往往被非人道化对待，面临极高的健康风险，体现了利益驱动下对参与者保障的缺失。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author uses the phrase “a straightforward business transaction” (paragraph 2) to imply that:",
+          "options": {
+            "A": "Tech companies are ensuring the safety of gestational carriers through financial subsidies.",
+            "B": "The surrogacy process is becoming increasingly automated and less prone to human error.",
+            "C": "The human dimension of pregnancy is being reduced to a commercial arrangement by industry participants.",
+            "D": "The financial costs of surrogacy are becoming transparent and predictable for both parties."
+          },
+          "answer": "C",
+          "explanation": "这一表述在文中用于描述科技行业从业者对代孕的态度，讽刺了代孕过程中将生命孕育视为简单的商业交易，掩盖了其中的非人道属性和伦理复杂性。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Why does the author mention that Smith’s contract labeled payments as “reimbursements”?",
+          "options": {
+            "A": "To illustrate the innovative accounting methods used by modern fertility agencies.",
+            "B": "To highlight the legal ambiguity and circumvention of regulations surrounding surrogacy in certain states.",
+            "C": "To demonstrate that Smith was being fairly compensated for her physical and emotional labor.",
+            "D": "To show that Bi was attempting to evade taxes on her investments in the surrogacy process."
+          },
+          "answer": "B",
+          "explanation": "文章指出在弗吉尼亚州直接支付报酬给代孕者是非法的，因此合同将报酬标注为“报销款”（reimbursements），这揭示了该行业通过法律术语规避监管的本质。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author suggest is the primary cause of the secrecy surrounding surrogacy disputes?",
+          "options": {
+            "A": "The desire of surrogates to maintain their privacy and protect their families.",
+            "B": "The intentional use of confidentiality clauses and closed arbitration to suppress public scrutiny.",
+            "C": "The lack of public interest in the personal lives of venture capitalists and their employees.",
+            "D": "The belief that legal battles in the private sector do not influence public health policies."
+          },
+          "answer": "B",
+          "explanation": "文章提到这些代孕争议通常在私下处理，受到保密协议和非公开仲裁的阻碍，这使得代孕问题无法影响公共政策或案例法，即通过人为手段压制了公众审查。"
+        }
+      ]
+    }
+  ]
+}

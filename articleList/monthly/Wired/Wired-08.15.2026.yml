@@ -10,10 +10,10 @@ articles:
   title: Chapter 5
 - id: epub_6
   is_used: false
-  title: Pause
+  title: Chapter 6
 - id: epub_7
   is_used: false
-  title: Pause
+  title: Chapter 7
 - id: epub_8
   is_used: false
   title: Chapter 8
@@ -28,10 +28,10 @@ articles:
   title: Chapter 11
 - id: epub_12
   is_used: false
-  title: Chapter 12
+  title: Save to wishlist
 - id: epub_13
   is_used: false
-  title: Chapter 13
+  title: Save to wishlist
 - id: epub_14
   is_used: false
   title: Chapter 14
@@ -43,10 +43,10 @@ articles:
   title: Chapter 16
 - id: epub_17
   is_used: false
-  title: Chapter 17
+  title: Pause
 - id: epub_18
   is_used: false
-  title: Chapter 18
+  title: Pause
 - id: epub_19
   is_used: false
   title: Chapter 19
@@ -63,7 +63,7 @@ articles:
   is_used: false
   title: Chapter 23
 - id: epub_24
-  is_used: true
+  is_used: false
   title: Chapter 24
 - id: epub_25
   is_used: false
@@ -88,7 +88,7 @@ articles:
   title: Chapter 31
 - id: epub_32
   is_used: false
-  title: Pause
+  title: Chapter 32
 - id: epub_33
   is_used: false
   title: Chapter 33
@@ -100,13 +100,13 @@ articles:
   title: Chapter 35
 - id: epub_36
   is_used: false
-  title: Save to wishlist
+  title: Chapter 36
 - id: epub_37
   is_used: false
-  title: Save to wishlist
+  title: Chapter 37
 - id: epub_38
   is_used: false
-  title: Pause
+  title: Chapter 38
 - id: epub_39
   is_used: false
   title: Chapter 39
@@ -115,7 +115,7 @@ articles:
   title: Chapter 40
 - id: epub_41
   is_used: false
-  title: Chapter 41
+  title: Pause
 - id: epub_42
   is_used: false
   title: Chapter 42
@@ -127,10 +127,10 @@ articles:
   title: Chapter 44
 - id: epub_45
   is_used: false
-  title: Pause
+  title: Save to wishlist
 - id: epub_46
-  is_used: true
-  title: Chapter 46
+  is_used: false
+  title: Pause
 - id: epub_47
   is_used: false
   title: Chapter 47
@@ -149,9 +149,15 @@ articles:
 - id: epub_52
   is_used: false
   title: Chapter 52
+- id: epub_53
+  is_used: false
+  title: Pause
 - id: epub_54
   is_used: false
   title: Chapter 54
+- id: epub_55
+  is_used: false
+  title: Chapter 55
 - id: epub_56
   is_used: false
   title: Chapter 56
@@ -166,12 +172,9 @@ articles:
   title: Chapter 59
 - id: epub_60
   is_used: false
-  title: Pause
-- id: epub_61
-  is_used: false
-  title: Chapter 61
-capture_date: 04.08.2026
+  title: Chapter 60
+capture_date: 08.15.2026
 journal_name: Wired
-publish_date: 04.08.2026
+publish_date: 08.15.2026
 source_type: github
 update_frequency: monthly
