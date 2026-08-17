@@ -1,0 +1,465 @@
+{
+  "group_update_date": "08.17.2026",
+  "papers": [
+    {
+      "title": "Prestigious European science funder scraps stricter rules after researcher backlash",
+      "article_update_date": "05.04.2026",
+      "source_journal": "Nature",
+      "body_text": "The European Research Council proposed the rule change in response to an increasing volume of grant applications.Credit: Tom Werner/Getty The European Research Council (ERC) has reversed a policy it introduced to help deal with a deluge of applications to its coveted awards, after a huge researcher backlash against the measure. On 16 April the ERC, Europe’s most prestigious funder of basic research, said it would tighten restrictions on how soon researchers could reapply after failing to secure funding, to help peer reviewers to cope with growing demand and a static annual budget of around €2.3 billion (US$2.66 billion). European funder must increase capacity to meet the ambition of scientists But many researchers strongly opposed the changes, which might have meant some unsuccessful applicants having to wait up to 4 years before they could apply for funding again. The council’s plan was “3000% the wrong direction”, wrote Anthony Guihur, a molecular biologist at the healthcare company Labcorp, in Geneva, Switzerland, on the social media platform Bluesky. An open letter that quickly gathered more than 1,000 signatories argued that longer exclusion periods risked discouraging bold ideas and pushing talent away from Europe. In a statement published on 29 April, the ERC scientific council, which decides the body’s funding and management strategy, said it had “listened to the concerns” of the research community and would reverse the changes. The ERC’s swift response and willingness to listen to feedback is reassuring, says Johanna Joyce, a cancer biologist and geneticist at the University of Lausanne in Switzerland, and one of the organizers of the open letter. “But the underlying pressure on the system remains real.” Grant deluge The ERC is not alone in seeing a surge in applications for grants. At least a dozen funders have seen submissions rise since 2022, which many suspect is the result of researchers using artificial intelligence models to write applications more easily. Applications for the ERC’s Advanced Grants, for example, rose by 31% between 2024 and 2025 with a particular growth in interest from US-based researchers. The ERC’s peer review system is struggling to handle the flood of applications. Peer review panels, which meet to evaluate proposals, have to deal with more than 250 proposals each, up from 50-150 in the past, said the council’s president Maria Leptin in a letter on 16 April. Is UK science in jeopardy? Huge funding reforms spark chaos and anxiety Despite streamlining the evaluation procedure and using “soft measures” to reduce applications, the council felt the need to introduce a more direct policy, she said. Under the new rules, researchers who received a “B” score at the first stage of the application process for any of the three main grant programmes in 2026 or 2025 would be barred from applying again in 2027, with the ban extending to 2024 for unsuccessful applicants scoring the lowest “C” grade. Until now, researchers had to wait just one year for a B score or two years for a C, before being able to apply again.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The European Research Council (ERC) has ________ a policy it introduced to help deal with a deluge of applications to its coveted awards.",
+          "options": {
+            "A": "implemented",
+            "B": "maintained",
+            "C": "ignored",
+            "D": "reversed"
+          },
+          "answer": "D",
+          "explanation": "根据上下文，ERC在受到科研人员反对后撤销了之前的限制政策。reversed意为“撤销”，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The ERC decided to ________ restrictions on how soon researchers could reapply after failing to secure funding.",
+          "options": {
+            "A": "loosen",
+            "B": "abolish",
+            "C": "tighten",
+            "D": "evaluate"
+          },
+          "answer": "C",
+          "explanation": "文章提到为了应对申请激增，ERC决定加强限制，tighten符合句意。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The researchers strongly opposed the changes, which might have ________ them from applying for funding for a long time.",
+          "options": {
+            "A": "promoted",
+            "B": "prevented",
+            "C": "encouraged",
+            "D": "enabled"
+          },
+          "answer": "B",
+          "explanation": "研究者反对该政策，因为政策延长了禁止申请的时间，prevented（阻止）逻辑通顺。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The council’s plan was described by a biologist as being in the ________ direction.",
+          "options": {
+            "A": "correct",
+            "B": "expected",
+            "C": "wrong",
+            "D": "positive"
+          },
+          "answer": "C",
+          "explanation": "文章引用生物学家的话称该计划是完全错误的，即wrong direction。"
+        },
+        {
+          "q_number": 5,
+          "stem": "An open letter argued that longer exclusion periods ________ discouraging bold ideas.",
+          "options": {
+            "A": "risked",
+            "B": "avoided",
+            "C": "ensured",
+            "D": "supported"
+          },
+          "answer": "A",
+          "explanation": "长期的排除期可能会带来扼杀创新的风险，risked符合语境。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The ERC scientific council said it had ________ to the concerns of the research community.",
+          "options": {
+            "A": "objected",
+            "B": "contributed",
+            "C": "listened",
+            "D": "reacted"
+          },
+          "answer": "C",
+          "explanation": "根据后续提到的政策逆转，理事会倾听了科学界的担忧，listened符合搭配。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Johanna Joyce says the council’s response is ________, but the underlying pressure remains.",
+          "options": {
+            "A": "disappointing",
+            "B": "reassuring",
+            "C": "unnecessary",
+            "D": "confusing"
+          },
+          "answer": "B",
+          "explanation": "尽管压力仍存，但对于理事会能够倾听反馈，Joyce表示这是令人安心的，reassuring符合语义。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The ERC is not ________ in seeing a surge in applications for grants.",
+          "options": {
+            "A": "alone",
+            "B": "unique",
+            "C": "distinct",
+            "D": "isolated"
+          },
+          "answer": "A",
+          "explanation": "not alone in...表示并非唯一遇到这种情况的，固定搭配。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Many suspect the surge is the result of researchers using AI models to write applications more ________.",
+          "options": {
+            "A": "cautiously",
+            "B": "easily",
+            "C": "slowly",
+            "D": "secretly"
+          },
+          "answer": "B",
+          "explanation": "AI使写申请变得更加容易，导致申请量激增，easily符合逻辑。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The ERC’s peer review system is ________ to handle the flood of applications.",
+          "options": {
+            "A": "offering",
+            "B": "prepared",
+            "C": "eager",
+            "D": "struggling"
+          },
+          "answer": "D",
+          "explanation": "由于申请激增，评审系统超负荷运转，struggling（挣扎，难以应付）符合文意。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Peer review panels have to deal with more than 250 proposals each, ________ from 50-150 in the past.",
+          "options": {
+            "A": "rising",
+            "B": "dropping",
+            "C": "departing",
+            "D": "suffering"
+          },
+          "answer": "A",
+          "explanation": "申请量从过去每组50-150份增加到了250份以上，rising符合语境。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The council ________ the need to introduce a more direct policy to manage the volume.",
+          "options": {
+            "A": "denied",
+            "B": "ignored",
+            "C": "felt",
+            "D": "doubted"
+          },
+          "answer": "C",
+          "explanation": "理事会感受到有必要采取更直接的政策，felt the need是常用表达。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Under the new rules, researchers receiving a “B” score would be ________ from applying again.",
+          "options": {
+            "A": "promoted",
+            "B": "invited",
+            "C": "released",
+            "D": "barred"
+          },
+          "answer": "D",
+          "explanation": "新的限制性规定意味着研究者被禁止在特定时间内再次申请，barred符合语境。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The ________ between 2024 and 2025 saw a 31% rise in Advanced Grants applications.",
+          "options": {
+            "A": "distance",
+            "B": "period",
+            "C": "scope",
+            "D": "aspect"
+          },
+          "answer": "B",
+          "explanation": "在2024到2025这段时间内申请量上升，period符合句意。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Some researchers argued that the policy might push ________ away from Europe.",
+          "options": {
+            "A": "talent",
+            "B": "finance",
+            "C": "equipment",
+            "D": "data"
+          },
+          "answer": "A",
+          "explanation": "政策可能导致人才流失，talent符合语境。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The council decided to ________ the changes following the widespread backlash.",
+          "options": {
+            "A": "initiate",
+            "B": "defend",
+            "C": "formulate",
+            "D": "reverse"
+          },
+          "answer": "D",
+          "explanation": "由于受到广泛抵制，理事会决定撤销更改，reverse符合上下文逻辑。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Peer review panels meet to ________ proposals submitted by researchers.",
+          "options": {
+            "A": "compile",
+            "B": "evaluate",
+            "C": "submit",
+            "D": "disregard"
+          },
+          "answer": "B",
+          "explanation": "评审小组的任务是评估申请书，evaluate符合语义。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Despite streamlining the ________ procedure, the council still faced heavy pressure.",
+          "options": {
+            "A": "distribution",
+            "B": "application",
+            "C": "collection",
+            "D": "evaluation"
+          },
+          "answer": "D",
+          "explanation": "尽管简化了评估程序，但依然压力重重，evaluation符合语境。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The council's strategy determines the body’s funding and management ________.",
+          "options": {
+            "A": "strategy",
+            "B": "priority",
+            "C": "status",
+            "D": "method"
+          },
+          "answer": "A",
+          "explanation": "理事会决定机构的资助和管理策略，strategy在文中多次强调。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The underlying pressure on the research funding system remains ________.",
+          "options": {
+            "A": "fictional",
+            "B": "trivial",
+            "C": "real",
+            "D": "optional"
+          },
+          "answer": "C",
+          "explanation": "尽管限制取消，但系统面临的潜在压力依然是真实的，real符合语境。"
+        }
+      ]
+    },
+    {
+      "title": "Is playing music good for the brain?",
+      "article_update_date": "03.29.2026",
+      "source_journal": "Economist",
+      "body_text": "Is playing music good for the brain? Science & technology | Well Informed Is playing music good for the brain? It would seem so, even for amateurs March 26th 2026 THE MEN who raided Joseph Haydn’s grave hoped that his genius would be written on his skull. A scan of the Austrian composer’s decomposing brain might have been more enlightening. Musical talent does not, as those 19th-century phrenologists believed, leave bumps on the cranium. It does, however, seem to make a healthy impression on the brain. Making music is a mental workout. The brain must simultaneously co-ordinate sound and vision, as well as fine motor control, focus and imagination. Over time this stretches the brain like a muscle. Several studies have found that professional musicians have more grey matter (the neural tissue involved in thinking, movement and memory) in some regions than non-musicians. Conclusive evidence is hard to come by, but existing research hints that other benefits may accrue. One study from 2020 suggests that musicians may also have better executive function—the part of the brain that helps with planning and problem-solving. A meta-analysis from 2017 concluded that musicians also have a sharper memory. And a study from last year suggested they may even be less sensitive to pain. The experiment, in which 40 participants were injected in the hand with a compound which mimics muscle soreness, found that subjects with musical experience reported less pain. Music as medicine indeed. Might musically precocious children have a head start? A paper from 2010 found that musicians who begin training before the age of seven have a larger corpus callosum, the neural bridge between the brain’s two hemispheres, than later starters. Research from 2014 suggests that learning an instrument also improves children’s second-language acquisition and non-verbal reasoning. Musical training later in life has been linked to slower age-related decline. A small study on older adults showed that continuing to learn an instrument was associated with less deterioration in verbal working memory and grey-matter volume. A meta-analysis from 2021 also found an association between music practice and reduced risk of developing dementia. Whether these findings arise because musical brains are more resilient or because those without dementia keep playing for longer is a knotty question that future studies will need to unpick. The instrument you play could make a difference. A study from 2024 of 1,100 older Britons found that pianists and brass players tended, on average, to have better working memory. Woodwind players had superior executive function. Singers excelled in verbal reasoning. Show-offs who played several instruments enjoyed no extra neural benefit. In addition, the brain’s limbic system, which processes pleasure and reward, lights up when you play an instrument. Endorphins, feel-good hormones which relieve pain, flow when you are in the zone. Performing in a band, orchestra or choir eases stress and encourages social bonding. And if an instrument is out of reach, simply listening may also be worth a try. In 2025 an observational study of 10,000 cognitively sound over-70s found that regular listeners to music had a 39% lower relative risk of cognitive decline. Proof of a causal relationship, however, remains elusive. The good news is that you don’t have to be a musical genius to feel the benefits of deliberate and regular practice. Studies have found that consistent training correlated with brain reorganisation in amateurs as well as professionals. But if you are a second Haydn, consider hiring a guard at your tombstone. ■ After a free, evidence-based guide to health and wellness? Sign up to our weekly Well Informed newsletter . This article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/03/20/is-playing-music-good-for-the-brain",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first paragraph, what is the author's attitude toward the 19th-century phrenologists' belief?",
+          "options": {
+            "A": "It is scientifically validated by modern brain imaging.",
+            "B": "It is a naive assumption that lacks empirical evidence.",
+            "C": "It is a ground-breaking theory that influenced modern neuroscience.",
+            "D": "It is partially correct but based on outdated methodology."
+          },
+          "answer": "B",
+          "explanation": "文章提到19世纪的颅相学家认为音乐天赋会在颅骨上留下肿块，而作者随后指出“Musical talent does not... leave bumps on the cranium”，这表明作者认为该理论缺乏科学依据，是一种天真的假设。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The experiment involving injected compounds in the hand suggests that musical experience may lead to ______.",
+          "options": {
+            "A": "a heightened sensitivity to muscle-related stimuli",
+            "B": "an improved ability to block out distracting neural signals",
+            "C": "a lower perception of physical discomfort",
+            "D": "a faster recovery from tissue-related injuries"
+          },
+          "answer": "C",
+          "explanation": "文中描述了参与者被注射模拟肌肉酸痛的化合物，结果显示“subjects with musical experience reported less pain”，即音乐经验与较低的痛感报告相关，故选C。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following findings is mentioned regarding musical training in children?",
+          "options": {
+            "A": "Early training correlates with a larger corpus callosum.",
+            "B": "Starting training before seven guarantees higher IQ scores.",
+            "C": "Musical training primarily boosts verbal working memory.",
+            "D": "Children who learn instruments show no decline in cognitive speed."
+          },
+          "answer": "A",
+          "explanation": "文中明确指出“A paper from 2010 found that musicians who begin training before the age of seven have a larger corpus callosum... than later starters”，因此A选项表述正确。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the author suggest about the relationship between musical practice and dementia?",
+          "options": {
+            "A": "Musical practice is the primary cause of reduced dementia risk.",
+            "B": "The evidence for a causal link is definitively established.",
+            "C": "It is unclear whether music prevents dementia or vice-versa.",
+            "D": "Only professional musicians exhibit resilience against dementia."
+          },
+          "answer": "C",
+          "explanation": "文中提出“Whether these findings arise because musical brains are more resilient or because those without dementia keep playing for longer is a knotty question”，这表明作者认为因果关系尚不明确，存在互为因果的可能性。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main takeaway from the article regarding the benefits of playing music?",
+          "options": {
+            "A": "Only professional-level musicians can expect to see significant brain benefits.",
+            "B": "Playing multiple instruments is necessary to maximize neural reorganization.",
+            "C": "Even amateurs can benefit from consistent musical practice.",
+            "D": "Listening to music is statistically more effective than playing an instrument."
+          },
+          "answer": "C",
+          "explanation": "文章末尾明确表示“you don’t have to be a musical genius to feel the benefits of deliberate and regular practice”，并提到业余爱好者也能通过一致的训练获得大脑重组的好处，因此C项正确。"
+        }
+      ]
+    },
+    {
+      "title": "UK and China allow more direct flights",
+      "article_update_date": "07.18.2026",
+      "source_journal": "China Daily",
+      "body_text": "The United Kingdom and China have agreed to raise the limit on the number of direct weekly flights between the two nations to 150 from 100. The UK government said the move was the first of several \"open skies\" deals struck in an effort to increase trade post-Brexit. The deal follows an agreement in October 2016 to raise the limit from 40 to 100. Such services are regulated internationally, typically through bilateral agreements that limit the number and type of flights. Currently, despite the deal allowing up to 100 flights a week, there are around 60. UK Transport Secretary Chris Grayling said the new agreement is an \"important part of preparing Britain\" for its future outside the European Union. \"It just underlines that Britain will do well, regardless of the outcome of the Brexit negotiations,\" Grayling said. Several new services have been set up recently, including a direct route between Manchester and Beijing operated by Hainan Airlines, and China Airlines' renewal of a London-Taipei link. Zheng Lei, director of the Centre for Aviation Research at the University of Surrey, said the UK government may be anticipating continued growth in the number of visitors from China. Between January and June, 115,000 visitors from China arrived in the UK, an increase of 47 percent on the same period in 2016. \"They are possibly expecting more demand,\" Zheng said. \"And China is in the process of negotiating traffic restrictions with countries in continental Europe as well, including France. So, the UK is trying to get ahead and be more proactive.\" Zheng said demand is what will ultimately lead to airlines and airports establishing new routes. \"Eventually, it's down to the airlines to decide whether or not to utilize the new traffic rights,\" he said. \"If there is no demand, the airlines won't operate the route, otherwise they will lose money. Profitability is really the main concern.\" Local authorities in several large UK cities, including Glasgow, Edinburgh, and Birmingham, have lobbied extensively for direct links with China. Denise Hill, head of market strategy at VisitScotland, welcomed the news. \"The relaxation of restrictions on flights between China and the UK is great news and we are confident that, when this results in a reappraisal of the options open to them, airlines will be encouraged by the strong performance delivered by Scotland,\" Hill said.",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary motive behind the UK-China agreement to increase the limit on direct flights?",
+          "options": {
+            "A": "To compete with other European countries' air traffic agreements.",
+            "B": "To prepare for post-Brexit trade expansion.",
+            "C": "To immediately maximize the current flight capacity of 100 per week.",
+            "D": "To satisfy the urgent lobbying of aviation companies in Manchester."
+          },
+          "answer": "B",
+          "explanation": "文章第二句提到该举措是英国努力增加后脱欧时期贸易往来的一部分，即旨在通过此举为脱欧后的贸易增长做准备。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, why might the actual number of flights fall below the permitted limit?",
+          "options": {
+            "A": "Existing international regulations are too restrictive.",
+            "B": "The UK government is intentionally limiting the number of licenses.",
+            "C": "Profitability and market demand are the final decision-makers for airlines.",
+            "D": "Technical complications arise during the negotiation of bilateral agreements."
+          },
+          "answer": "C",
+          "explanation": "Zheng Lei指出，航空公司最终决定是否利用交通权取决于利润和需求，如果无需求，航空公司不会运营航线以免亏损。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the UK government's action reveal about its strategy concerning Brexit?",
+          "options": {
+            "A": "It prefers waiting for the outcome of Brexit before making deals.",
+            "B": "It seeks to demonstrate that Britain will prosper independently of EU negotiations.",
+            "C": "It is attempting to mimic the trade deals currently held by France.",
+            "D": "It prioritizes tourism growth over trade and logistics."
+          },
+          "answer": "B",
+          "explanation": "交通大臣Chris Grayling提到此协议强调了无论脱欧谈判结果如何，英国都会表现良好，这反映了英国展示独立发展前景的策略。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred from the statistics provided about Chinese visitors to the UK?",
+          "options": {
+            "A": "The number of visitors has remained stable since 2016.",
+            "B": "The UK government is reacting to a significant decline in tourism.",
+            "C": "Rising demand is a key incentive for the UK to increase flight limits.",
+            "D": "Chinese visitors primarily travel to London rather than other cities."
+          },
+          "answer": "C",
+          "explanation": "2017年上半年中国访英游客人数大幅增长47%，郑磊认为政府增加航班限制正是预期到这种持续增长的需求。"
+        },
+        {
+          "q_number": 5,
+          "stem": "How do local authorities in UK cities like Glasgow and Edinburgh view the new agreement?",
+          "options": {
+            "A": "They remain skeptical about the profitability of new routes.",
+            "B": "They hope the policy shift will lead to better direct connections with China.",
+            "C": "They are concerned that the increase will cause market oversaturation.",
+            "D": "They argue that air travel is less effective than local rail expansion."
+          },
+          "answer": "B",
+          "explanation": "文中提到这些城市的政府一直在积极游说以获得与中国的直航联系，且VisitScotland的负责人明确表示欢迎这一消息，认为这能鼓励航空公司重新评估航线选择。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 56",
+      "article_update_date": "04.06.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Lexi Pandell The Big Story Jul 21, 2025 6:00 AM The Next Thing You Smell Could Ruin Your Life Millions of people suffer debilitating reactions in the presence of certain scents and chemicals. One scientist has been struggling for decades to understand why—as she battles the condition herself. Photograph: Amber Gomez After my birth, my mother became allergic to the world. That’s the only way I knew how to put it. So many things could set her off: new carpeting, air fresheners, plastic off-gassing, diesel. Perfumes were among the worst offenders. On top of that, she developed terrible food allergies. The sound of her sniffling became the chorus of my childhood. Some days she couldn’t get out of bed. I’d peek into her darkened room and see her face pinched in discomfort. Her joints ached, her head swam. Doctors suggested that maybe she was depressed or anxious. “Well, you’d be anxious too if you couldn’t lick an envelope, couldn’t pick up your daughter in a car,” she’d reply. She tried allergists, got nowhere. Finally, she found her way to holistic health, whose practitioners told her she had something called multiple chemical sensitivity. As long as people have complained that man-made stuff in their environment causes health problems—migraines and asthma, exhaustion and mood swings—the medical establishment has largely dismissed them. The American Medical Association, World Health Organization, and the American Academy of Asthma, Allergy & Immunology don’t recognize chemical sensitivity as a diagnosis. If they talk about it at all, they tend to dismiss it as psychosomatic, a malady of the neurotic and health-obsessed. Why, these authorities wondered, would people react to minute traces of a huge array of chemicals? And why couldn’t they ever seem to get better? This isn’t some trivial affliction. Roughly a quarter of American adults report some form of chemical sensitivity; it lives alongside chronic pain and fibromyalgia as both evidently real and resistant to mainstream diagnosis or treatment. My mom tried a thousand things—elimination diets, antihistamines, lymphatic massage, antidepressants, acupuncture, red light therapy, saunas, heavy-metal detoxes. Sometimes her symptoms eased, but she never got better. Her illness ruled our lives, dictating what products we bought, what food we ate, where we traveled. I felt there had to be an answer for why this was happening. It didn’t take me long to learn that, if there was one, it’d come from a figure as unassuming as she is provocative: the scientist Claudia Miller. On a warm Texas afternoon, Miller and her affable husband, Bob, lead me through the San Antonio Botanical Garden. A monarch flits by. “I’ve noticed so many fewer butterflies, so many fewer birds, even the last couple of years,” Miller observes. Her raspy voice comes out so quietly that, at times, my recording device fails to pick it up. People are perpetually leaning in close or asking her to repeat herself. At 78, Miller typically uses a cane, but Bob gets the walker out of the car so she can cover more distance. She wears her silver hair in a low side ponytail, fixed in place with a scrunchie. The line between science and wellness has been blurred beyond recognition. WIRED is here to help . With her wide, thin-rimmed glasses, Miller disappears into the scenery, but she’s a particularly visible presence in her field. Now a professor emeritus at the University of Texas Health Science Center at San Antonio, Miller has held several federal appointments, chaired National Institutes of Health meetings, testified before Congress, consulted for the Environmental Protection Agency, authored dozens of papers, and worked with the Canadian, German, Japanese, and Swedish governments. In all this, she has tried to make sense of and raise awareness for chemical intolerance. One patient advocate I interviewed called her “Saint Claudia” for her commitment to overlooked and misunderstood patients. Kristina Baehr, an attorney who defends victims of toxic exposures, told me, “To have experts like Dr. Miller tell them you’re not crazy, this is very real, is very life-giving to people. She’s able to validate their experience with facts, with science.” One such fact, Miller explains, is this: Over the past century, the United States has undergone a chemical revolution. “Fossil fuels, coal, oil, natural gas, their combustion products, and then their synthetic chemical derivatives are mostly new since World War II,” she says. “Plasticizers, forever chemicals, you name it: These are all foreign chemicals.” They’re everywhere you look, in homes and offices, parks and schools. They’re also, Miller believes, making people very sick. In 1997, Miller proposed a career-defining theory of how people succumb to this condition. It came with a technical-sounding name, toxicant-induced loss of tolerance, and a convenient acronym, TILT. You can lose tolerance after one severe exposure, Miller says, or after a series of smaller exposures over time. In either case, a switch is flipped: Suddenly, people are triggered by even tiny amounts of everyday substances—cigarette smoke, antibiotics, gas from their stoves—that never bothered them before. These people become, in a word, TILT-ed. It’s not unlike developing an allergy, when the body labels a substance as dangerous and then reacts accordingly. In 1999, Miller and her colleagues designed the Quick Environmental Exposure and Sensitivity Inventory, or QEESI (pronounced “queasy”), a survey to help doctors and researchers identify chemically intolerant patients. I’ve seen the QEESI cited in papers from 18 countries, but to date, most physicians still don’t know much about it. “It’s very frustrating to try to get these ideas across,” Miller says. The major problem is that, assuming TILT accurately describes the process of becoming chemically intolerant, we don’t know what biological changes occur inside the sensitized body, why so many symptoms crop up, or why one exposed person gets sick while others seem to walk away unscathed. But Miller thinks she’s closer than ever to an answer. At the botanical garden, we approach an orchid exhibit. Sticky heat engulfs us as we enter. Orchids of varying shapes and colors fill the greenhouse, including one with spindly chartreuse petals. “What do you call this?” Miller asks. My plant-ID app comes up empty. So it goes, too, for chemically intolerant patients: The condition defies easy observation. “The world becomes like a torture chamber, and then nobody believes you,” Miller says. “That’s the worst part.” After falling ill, some people become hermits out of fear of exposure, abandoning their friends and family to live in remote areas. For others, nothing can keep them from spinning out of control. My mother knew someone who tried to escape her triggers by moving to the country in a trailer. Eventually, even that became unmanageable, and the woman shot herself in the head. Imagine feeling incredibly sick every time you encounter a cloud of cologne or fresh paint, then being told you’re making it up. I thought about my mom. Sometimes, catering to her needs could feel exhausting. But what must that have been like for her? The thing was, I never doubted her condition—especially after what happened on one bad day. It’s time to tell you the worst thing I have ever done to another person. When I was 10, my parents and I attended a family reunion. The trip was difficult. We fought nonstop. Everyone cried. The photographer hired to capture a family portrait accidentally exposed the film to light, and it was just as well. If we could have wiped the whole week from our minds, we would have. During that ill-fated trip, my aunt gifted me a set of scented lip balms. My mom offered her a tight smile but, once we were alone, told me to toss them out. Instead, I hid them and, soon, weaponized them. After yet another argument, I sneaked into my mom’s room, peeled back her pillow case, and smeared the lip balms directly onto her pillow. Later that night, as she tried to sleep, she kept waking up, sicker and sicker, her head pounding. Finally, her nose helped her uncover what I’d done. She found the telltale smudges. The next day, my dad told me how she’d sobbed and howled, “Why would she do this to me?” It remains, for me, a source of immense guilt. Later, I realized it was also the crumb of proof I needed. This was not all in my mother’s head. I’m at Miller’s condo across the street from the UT Health Science Center, with Miller and two of her collaborators. Her dining room table is lined with household products—a votive candle, a box of matches, body lotion, scented dish detergent. Beside them are chunky gadgets that look like something out of Ghostbusters . These are particulate monitors, which measure down to parts per billion. They need to be hypersensitive, because products like the ones on the table expel tiny molecules, and people with chemical intolerance seem to react to even minuscule doses. It’s akin to someone having an allergic reaction to a bag of peanuts opened on the other end of the airplane. One of her collaborators strikes a single match in front of a sensor. The number on the screen rockets from 0 to almost 500,000 parts per billion. It’s not always about what the nose can detect—though, in this case, sulfur dioxide fills the room. Last year, Miller’s team published research on house calls for nearly 40 people with chemical intolerance. They measured indoor pollution from products like these, as well as other irritants like dust and mold, and performed blood tests for allergies. Then they recommended tossing out scented candles or moving cans of gasoline from an attached garage to a separate storage unit, and gifted the subjects natural cleaning products. They retested the homes several more times over the course of the year. As the indoor pollution decreased, the subjects’ symptoms improved. For years, research like this convinced Miller that there was, indeed, something very wrong with her patients. But, again, that pesky mechanism for disease eluded her. Then she learned more about mast cells. Mast cells are a type of white blood cell that exists in nearly every tissue, including the skin, airways, and gastro-intestinal tract. When they detect something harmful, they can release hundreds of mediators, including histamine, substances that create symptoms like hives or swelling during anaphylactic shock. If the cells become overreactive, releasing too many mediators at the wrong time, a person can end up flushed, dizzy, wheezy, or exhausted. This is called mast cell activation syndrome, or MCAS. When Miller came across a book on the subject by Lawrence Afrin, a hematologist and mast cell disease researcher based in New York, she thought it sounded a lot like chemical intolerance. She called him. Many of his MCAS patients, it turned out, were sensitive to fragrances and medications. In 2021, Miller published what she considers her second eureka moment: a paper, coauthored with Afrin and others, that explains a potential link between TILT and MCAS. The team surveyed MCAS patients and found that those who scored high on MCAS questionnaires scored high on the QEESI. These patient groups also had nearly identical symptom patterns. Had Miller’s patients had mast cell activation syndrome this whole time? MCAS is a tricky disease to diagnose and treat, but it was something. An answer for the scientific community. An answer for her patients. And an answer for herself. Because that’s the other part of this story, the part Miller hasn’t been comfortable talking about until now: She, the condition’s leading researcher, suffers from chemical intolerance too. Miller has difficulty searching her memory about her past. Exact years don’t come back to her, her retellings wander. Attribute it to age or brain fog or both. Still, over hours of conversations and dozens of emails, her story came together. Born in Milwaukee as the only child of a patent attorney and a teacher, Miller was drawn to science from a young age. After earning her BA in molecular biology from the University of Wisconsin–Madison and her",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The author mentions her mother's illness to illustrate that:",
+          "options": {
+            "A": "the medical community has successfully addressed chronic environmental sensitivities.",
+            "B": "the struggle with mysterious health conditions often involves societal and medical skepticism.",
+            "C": "chemical sensitivity is predominantly a psychological disorder rooted in past trauma.",
+            "D": "lifestyle modifications are the most effective way to cure chemical intolerance."
+          },
+          "answer": "B",
+          "explanation": "The passage highlights that the mother's doctors suggested her symptoms were 'depressed or anxious' and that medical authorities often dismiss such conditions as 'psychosomatic', reflecting the broader societal and medical skepticism described in the text."
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes the professional stature of Claudia Miller as presented in the passage?",
+          "options": {
+            "A": "She is an obscure researcher whose radical theories are rejected by global institutions.",
+            "B": "She acts as a cautious academic who prefers to keep distance from the 'wellness' community.",
+            "C": "She is a highly credentialed expert who bridges the gap between scientific validation and patient advocacy.",
+            "D": "She is a controversial figure who frequently faces legal challenges for her unconventional findings."
+          },
+          "answer": "C",
+          "explanation": "The text details Miller's extensive credentials—federal appointments, testifying before Congress, and consulting for various governments—while also noting that patients view her as a 'saint' because she uses science to validate their experiences."
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, the theory of 'toxicant-induced loss of tolerance' (TILT) suggests that:",
+          "options": {
+            "A": "a single massive exposure is the only way to trigger the condition.",
+            "B": "the body gradually develops an immunity to toxic synthetic chemicals.",
+            "C": "the biological response is similar to the mechanism of a standard allergy.",
+            "D": "patients can easily identify the specific trigger through simple environmental observation."
+          },
+          "answer": "C",
+          "explanation": "The passage explicitly states, 'It’s not unlike developing an allergy, when the body labels a substance as dangerous and then reacts accordingly,' which summarizes the mechanism of TILT."
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the author's primary purpose in recounting the incident with the scented lip balms?",
+          "options": {
+            "A": "To demonstrate the extreme lengths a teenager would go to for rebellion.",
+            "B": "To provide evidence that her mother's reactions were triggered by actual physical stimuli.",
+            "C": "To apologize for the emotional damage caused by the conflict in their relationship.",
+            "D": "To illustrate that scents are generally harmless even to hypersensitive individuals."
+          },
+          "answer": "B",
+          "explanation": "The author notes that this incident was 'the crumb of proof I needed' and that 'this was not all in my mother’s head,' highlighting that the author herself became the unwitting cause of the mother's reaction, confirming the reality of the illness."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the significance of the potential link between TILT and mast cell activation syndrome (MCAS)?",
+          "options": {
+            "A": "It provides a potential biological framework to explain previously 'unexplained' symptoms.",
+            "B": "It suggests that chemical intolerance is actually a curable form of cancer.",
+            "C": "It renders previous research like the QEESI survey entirely obsolete.",
+            "D": "It proves that environmental pollutants are the only cause of autoimmune diseases."
+          },
+          "answer": "A",
+          "explanation": "Miller believes finding the link to MCAS acts as an answer for the scientific community, offering a biological mechanism ('mediators') to explain why patients suffer from varied symptoms, which had previously eluded researchers."
+        }
+      ]
+    }
+  ]
+}
