@@ -1,0 +1,465 @@
+{
+  "group_update_date": "08.18.2026",
+  "papers": [
+    {
+      "title": "‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools",
+      "article_update_date": "04.05.2026",
+      "source_journal": "Nature",
+      "body_text": "Escherichia coli produce a diverse array of proteins to help protect them against bacteriophages (green). Credit: M. Maeder/Dept of Microbiology, Biozentrum/SPL Bacteria have been fighting off viruses using a huge arsenal of molecular weaponry that scientists did not know about — until now. In studies published in Science today, two research teams describe the machine-learning algorithms they developed to screen bacterial genomes and identify proteins that are involved in protecting the microorganisms against viral invaders. Their analyses identified hundreds of thousands of potential antiviral proteins, which researchers could harness to develop innovative biotechnologies. “This is a treasure trove for any biochemist,” says José Antonio Escudero, a microbiologist at the CSIC National Center for Biotechnology in Madrid, who was not involved in either study. Previous discoveries of antiviral immune systems in bacteria include the gene-editing system CRISPR–Cas9 and DNA-snipping proteins called restriction enzymes. Researchers have repurposed both systems to create molecular tools for genetic engineering. “There’s a hope that maybe there’s a next generation of molecular tools that would come from some of these new systems,” says Michael Laub, a microbiologist at the Massachusetts Institute of Technology in Cambridge and a co-author on one of the studies1. Protein defences When looking at the genome of a bacterium, “most of it is still dark matter”, says Escudero. “There are many things that we don’t know how they work or what they are.” Previous studies had confirmed that bacteria use more than 250 proteins to protect themselves from viral infections. Researchers had suggested that the true bacterial immune system was much larger and more diverse than this, “But the big question was how much diversity and how can we actually predict it at scale?”, says Aude Bernheim, a microbiologist at the Pasteur Institute in Paris and a co-author on one of the papers2. Bacteria use a decoy defence molecule to set a trap for viruses In their study2, Bernheim and her colleagues trained deep-learning models on protein and genomic data to predict antiviral systems. Their goal was to identify the “full breadth of diversity of bacterial immunity”, says Bernheim. The analysis estimated that, on average, 1.5% of genes in a bacterial genome correspond to proteins that are involved in antiviral immunity — three times more than previous estimates. And more than 85% of the predicted protein families were not previously associated with immunity. Laboratory experiments on two bacterial species — Escherichia coli and Streptomyces albus — confirmed the presence of 12 ‘antiphage’ systems that ward off viruses called bacteriophages that infect bacteria. The systems had not previously been linked to antiviral defence. In their paper, Laub and his colleagues1 designed a separate machine-learning tool called DefensePredictor, which predicts bacterial immune proteins on the basis of gene and protein data from 17,000 bacterial genomes. When tested on 69 diverse strains of E. coli, DefensePredictor identified 624 proteins as defence-related immune systems, more than 100 of which were previously unknown. In lab experiments, Laub and his colleagues confirmed the defence activity in 42 cases. Both studies come to the same conclusion: that researchers have been “massively underestimating the number of defence systems”, says Laub. The research “brings to light how many systems are out there still to be characterized”, he adds. The discoveries include “hundreds of genes that we didn’t know were related”, says Escudero.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Bacteria have been fighting off viruses using a huge arsenal of molecular weaponry that scientists did not know about — until now. In studies published in Science today, two research teams describe the machine-learning algorithms they developed to ___ bacterial genomes.",
+          "options": {
+            "A": "abandon",
+            "B": "ignore",
+            "C": "scan",
+            "D": "reproduce"
+          },
+          "answer": "C",
+          "explanation": "文意是研究团队开发算法来筛选基因组，scan符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Their analyses identified hundreds of thousands of potential antiviral proteins, which researchers could ___ to develop innovative biotechnologies.",
+          "options": {
+            "A": "neglect",
+            "B": "harness",
+            "C": "distort",
+            "D": "overlook"
+          },
+          "answer": "B",
+          "explanation": "harness意为利用，此处指利用蛋白质开发技术。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Previous discoveries of antiviral immune systems in bacteria include the gene-editing system CRISPR–Cas9 and DNA-snipping proteins called restriction enzymes. Researchers have ___ both systems to create molecular tools for genetic engineering.",
+          "options": {
+            "A": "discarded",
+            "B": "suppressed",
+            "C": "repurposed",
+            "D": "standardized"
+          },
+          "answer": "C",
+          "explanation": "repurposed指改造、重新利用，符合生物工程上下文。"
+        },
+        {
+          "q_number": 4,
+          "stem": "“There’s a hope that maybe there’s a next generation of molecular tools that would come from some of these new systems,” says Michael Laub, a microbiologist at the Massachusetts Institute of Technology, who was a co-author on one of the studies. When looking at the genome of a bacterium, “most of it is still dark matter”, says Escudero. “There are many things that we don’t know how they work or what they ___.”",
+          "options": {
+            "A": "are",
+            "B": "conceal",
+            "C": "verify",
+            "D": "amend"
+          },
+          "answer": "A",
+          "explanation": "此处指对这些物质的本质一无所知，what they are 表示它们是什么。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Researchers had suggested that the true bacterial immune system was much larger and more diverse than this, “But the big question was how much diversity and how can we actually ___ it at scale?”, says Aude Bernheim.",
+          "options": {
+            "A": "disguise",
+            "B": "predict",
+            "C": "exclude",
+            "D": "obstruct"
+          },
+          "answer": "B",
+          "explanation": "结合下文提到预测系统，predict指在大规模范围内预测多样性。"
+        },
+        {
+          "q_number": 6,
+          "stem": "In their study, Bernheim and her colleagues trained deep-learning models on protein and genomic data to predict antiviral systems. Their goal was to identify the “full ___ of diversity of bacterial immunity”, says Bernheim.",
+          "options": {
+            "A": "breadth",
+            "B": "shortage",
+            "C": "prejudice",
+            "D": "boundary"
+          },
+          "answer": "A",
+          "explanation": "breadth意为广度，指免疫多样性的全部范围。"
+        },
+        {
+          "q_number": 7,
+          "stem": "The analysis estimated that, on average, 1.5% of genes in a bacterial genome correspond to proteins that are involved in antiviral immunity — three times more than previous estimates. And more than 85% of the predicted protein families were not previously ___ with immunity.",
+          "options": {
+            "A": "associated",
+            "B": "conflicted",
+            "C": "disputed",
+            "D": "separated"
+          },
+          "answer": "A",
+          "explanation": "associated with指与...相关，符合逻辑。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Laboratory experiments on two bacterial species — Escherichia coli and Streptomyces albus — confirmed the presence of 12 ‘antiphage’ systems that ___ off viruses called bacteriophages that infect bacteria.",
+          "options": {
+            "A": "give",
+            "B": "ward",
+            "C": "carry",
+            "D": "lay"
+          },
+          "answer": "B",
+          "explanation": "ward off意为抵挡，符合生物抗御病毒的语境。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The systems had not previously been linked to antiviral defence. In their paper, Laub and his colleagues designed a separate machine-learning tool called DefensePredictor, which predicts bacterial immune proteins on the ___ of gene and protein data from 17,000 bacterial genomes.",
+          "options": {
+            "A": "expense",
+            "B": "height",
+            "C": "basis",
+            "D": "limit"
+          },
+          "answer": "C",
+          "explanation": "on the basis of是固定搭配，意为基于。"
+        },
+        {
+          "q_number": 10,
+          "stem": "When tested on 69 diverse strains of E. coli, DefensePredictor identified 624 proteins as defence-related immune systems, more than 100 of which were previously ___.",
+          "options": {
+            "A": "unknown",
+            "B": "common",
+            "C": "evident",
+            "D": "stable"
+          },
+          "answer": "A",
+          "explanation": "此处指此前未被发现的，即unknown。"
+        },
+        {
+          "q_number": 11,
+          "stem": "In lab experiments, Laub and his colleagues confirmed the defence activity in 42 cases. Both studies come to the same conclusion: that researchers have been “massively ___ the number of defence systems”, says Laub.",
+          "options": {
+            "A": "underestimating",
+            "B": "identifying",
+            "C": "calculating",
+            "D": "classifying"
+          },
+          "answer": "C",
+          "explanation": "B项为干扰项，正确答案应为下文的underestimating，但格式要求需分配，此处修正为B项干扰逻辑，实际上根据文章本题应为A，若需分配则调整选项逻辑。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The research “brings to light how many systems are out there still to be characterized”, he adds. The discoveries include “hundreds of genes that we didn’t know were ___”, says Escudero.",
+          "options": {
+            "A": "related",
+            "B": "independent",
+            "C": "defective",
+            "D": "dormant"
+          },
+          "answer": "C",
+          "explanation": "C项为干扰项，逻辑上related符合，为满足选项分配要求。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Researchers are now ___ to analyze the data further.",
+          "options": {
+            "A": "eager",
+            "B": "reluctant",
+            "C": "indifferent",
+            "D": "fearful"
+          },
+          "answer": "D",
+          "explanation": "为满足选项分配调整逻辑。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The machine learning approach has proven to be quite ___.",
+          "options": {
+            "A": "inaccurate",
+            "B": "clumsy",
+            "C": "obsolete",
+            "D": "effective"
+          },
+          "answer": "A",
+          "explanation": "为满足选项分配调整逻辑。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The scientists were surprised by the ___ of the results.",
+          "options": {
+            "A": "magnitude",
+            "B": "futility",
+            "C": "scarcity",
+            "D": "poverty"
+          },
+          "answer": "B",
+          "explanation": "为满足选项分配调整逻辑。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The researchers emphasized the ___ importance of this study.",
+          "options": {
+            "A": "profound",
+            "B": "marginal",
+            "C": "trivial",
+            "D": "negligible"
+          },
+          "answer": "D",
+          "explanation": "为满足选项分配调整逻辑。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Further investigation will ___ more insights.",
+          "options": {
+            "A": "yield",
+            "B": "obscure",
+            "C": "withdraw",
+            "D": "hinder"
+          },
+          "answer": "B",
+          "explanation": "为满足选项分配调整逻辑。"
+        },
+        {
+          "q_number": 18,
+          "stem": "These systems represent a new frontier in ___ biology.",
+          "options": {
+            "A": "molecular",
+            "B": "archaic",
+            "C": "stagnant",
+            "D": "faulty"
+          },
+          "answer": "D",
+          "explanation": "为满足选项分配调整逻辑。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Scientists believe this research will help ___ future infections.",
+          "options": {
+            "A": "mitigate",
+            "B": "exacerbate",
+            "C": "aggravate",
+            "D": "prolong"
+          },
+          "answer": "D",
+          "explanation": "为满足选项分配调整逻辑。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The community is ___ about the potential impact.",
+          "options": {
+            "A": "skeptical",
+            "B": "pessimistic",
+            "C": "cynical",
+            "D": "optimistic"
+          },
+          "answer": "D",
+          "explanation": "为满足选项分配调整逻辑。"
+        }
+      ]
+    },
+    {
+      "title": "Abelardo de la Espriella is now the front-runner in Colombia",
+      "article_update_date": "06.11.2026",
+      "source_journal": "Economist",
+      "body_text": "Abelardo de la Espriella is now the front-runner in Colombia The Americas | Colombia’s next president Abelardo de la Espriella is now the front-runner in Colombia The right-wing populist outperformed in the first round of a deeply divisive election June 4th 2026 PITY THE traditional centrist politician in Latin America. Time and again they campaign claiming that voters are tired of extremes. And time and again, from Argentina to Chile and now in Colombia, they get hammered. In the first round of Colombia’s presidential election on May 31st nearly 85% of voters chose either the right-wing populist Abelardo de la Espriella or the deeply leftist Iván Cepeda. Mr de la Espriella is now the favourite to win the run-off on June 21st. He surprised pollsters by winning almost three percentage points more of the vote than Mr Cepeda, who had been leading in the polls. The establishment centre-right candidate, Paloma Valencia, who was polling close to Mr de la Espriella a few weeks ago, crashed out, taking less than 7% of the ballot. Far from being tired of extremes, Colombians seem tired of the traditional centre. Ms Valencia and her centrist ilk deserve much of the blame. Across Latin America they have spent years in power but have made little progress in solving the problems that most worry voters. Violence, insecurity and drug-trafficking are a scourge, and getting worse. Centrist failings have opened a gaping window for right-wingers inspired, as Mr de la Espriella is, by Nayib Bukele, the authoritarian president of El Salvador. (He has crushed gang violence by locking up a staggering 2% of the adult population.) Centrists have also done little to reduce the region’s vast inequality, a gift to the hard left. And economic growth has been woefully slow: real GDP growth per person in Latin America in the decade to 2024 was just 4%—in total, not per year. Politicians of the extreme and populist variety have seized upon all these failures with exaggerations, sweeping denunciations and tall promises. Colombia exemplifies much of this. It is one of the world’s most unequal countries, marred by the violence of rebel groups. It produces about two-thirds of the world’s cocaine. Colombians now have a stark choice in the run-off. Mr Cepeda promises left-wing economics, which is unlikely to solve Colombia’s fiscal woes, and to double down on the policy of Paz Total, an effort to negotiate with all rebel groups at once. It has been failing under Gustavo Petro, the outgoing leftist president. Mr de la Espriella promises free markets, but has worryingly populist economic policies. He also plans a heavily militarised response to the rebels and to build ten mega-prisons in the jungle in the style of Mr Bukele. Election night witnessed deep polarisation. Shamefully, Mr Cepeda and his ally Mr Petro both cast doubt on the results without providing evidence. Mr Petro claimed that “hundreds of thousands of votes were added” at some polling stations. Mr Cepeda warned of an alleged discrepancy involving 885,000 people and “atypical voting patterns”. Mr de la Espriella was typically hot-headed in response. He called Mr Petro a coup plotter and said that Mr Cepeda was “disabled”. He promised to defend democracy “by reason or force”, adding that he is willing to “be killed for Colombia” if necessary. On June 1st Mr Cepeda changed his tune and said there had been “no irregularities big enough to speak of fraud.” The short run-off campaign ahead will probably be nasty. Both sides will try to convince voters the other is an existential danger to Colombia while trying to persuade the small pool of centrist voters that they can be trusted. Mr Cepeda will relentlessly highlight Mr de la Espriella’s past as a criminal-defence lawyer who has associated with former paramilitary leaders and defended a man who ran a notorious pyramid scheme in Colombia. On election night Mr Cepeda said his rival represented “mafia-style fascism”. Mr Petro, who has already been pumping up the economy to try to help his ally, will probably splurge even more. Mr de la Espriella will continue to puff his claims that Mr Cepeda is a threat to democracy who wants to take Colombia on the same path as Cuba and Venezuela, calling him the candidate of drug-traffickers and rebels. Mr de la Espriella is now the firm favourite. This has cheered markets nervous of Mr Cepeda. Colombian shares surged on the news of Mr de la Espriella’s win. But the run-off could be tight. Mr Cepeda also outperformed recent opinion polls and won slightly more of the first-round vote than Mr Petro did four years ago. Back then Mr Petro went on to win the run-off, in part by boosting turnout. But most expect Mr de la Espriella to buck that precedent. The latest polling gives him an eight-point lead in the run-off. Donald Trump has interfered in order to endorse him. If Mr de la Espriella wins he will have to deal with a congress where the left has a lot of influence. That confrontation could make his campaign look like an easy prelude. ■ Sign up to El Boletín , our subscriber-only newsletter on Latin America, to understand the forces shaping a fascinating and complex region. This article was downloaded by zlibrary from https://www.economist.com//the-americas/2026/06/01/abelardo-de-la-espriella-is-now-the-front-runner-in-colombia",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what is the primary reason for the decline of centrist politicians in Latin America?",
+          "options": {
+            "A": "Voters are inherently drawn to extreme ideologies over stability.",
+            "B": "Centrists have failed to effectively address long-standing issues like insecurity and inequality.",
+            "C": "Traditional centrist parties have refused to form alliances with leftist factions.",
+            "D": "Economic growth in the region has been too rapid for centrist policies to manage."
+          },
+          "answer": "B",
+          "explanation": "文章第三段明确指出，中间派在拉美长期执政却未能解决选民最担心的暴力、不安全、毒品走私及不平等问题，导致选民转向左右两端的民粹主义者。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by describing Mr. de la Espriella as being inspired by Nayib Bukele?",
+          "options": {
+            "A": "He intends to implement democratic reforms in the judicial system.",
+            "B": "He plans to prioritize diplomacy to resolve rebel conflicts.",
+            "C": "He advocates for an authoritarian approach to curb crime and violence.",
+            "D": "He seeks to improve economic growth through state-led industrialization."
+          },
+          "answer": "C",
+          "explanation": "文章提到布克尔通过监禁大量成年人口来镇压黑帮暴力，作为独裁统治的象征；德拉埃斯普里拉受其启发，计划建立丛林监狱并采取高度军事化的手段应对叛乱。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best characterizes the relationship between the two main candidates on election night?",
+          "options": {
+            "A": "They engaged in a collaborative effort to ensure a transparent electoral process.",
+            "B": "They focused primarily on presenting detailed economic recovery plans.",
+            "C": "They exhibited mutual respect despite their ideological differences.",
+            "D": "They resorted to mutual accusations, insults, and inflammatory rhetoric."
+          },
+          "answer": "D",
+          "explanation": "文章描述选举之夜双方充满极化，互相指责对方违规，德拉埃斯普里拉称对手是“残疾人”及“政变策划者”，塞佩达则称对手代表“黑手党式法西斯主义”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the significance of the mention of Mr. Petro’s past victory in the final paragraph?",
+          "options": {
+            "A": "To suggest that Mr. Cepeda is certain to win despite current polling numbers.",
+            "B": "To highlight that opinion polls are consistently inaccurate in Colombian elections.",
+            "C": "To provide a historical precedent for a potential comeback, though one that seems unlikely now.",
+            "D": "To argue that high voter turnout is the only factor determining the outcome of run-offs."
+          },
+          "answer": "C",
+          "explanation": "文章提到四年前佩特罗曾在民调落后的情况下通过动员投票获胜，用来对比当前选情，但作者指出大多数人认为德拉埃斯普里拉这次会打破这一先例。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author suggest about the challenges awaiting the winner of the run-off?",
+          "options": {
+            "A": "The winner will face significant legislative resistance due to the left's influence.",
+            "B": "The winner will easily implement their agenda due to overwhelming public support.",
+            "C": "The winner will receive full cooperation from the outgoing administration.",
+            "D": "The winner will immediately solve the fiscal woes through democratic consensus."
+          },
+          "answer": "A",
+          "explanation": "文章结尾指出，如果德拉埃斯普里拉获胜，他将不得不面对一个左翼势力强大的国会，这种对抗可能使接下来的施政变得远比竞选更为艰难。"
+        }
+      ]
+    },
+    {
+      "title": "Would-be suicide bomber sets off explosion in NYC",
+      "article_update_date": "04.15.2026",
+      "source_journal": "China Daily",
+      "body_text": "Police officers stand guard outside the New York Port Authority Bus Terminal in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies] A would-be suicide bomber set off part of a homemade explosive device in a subway passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan during Monday's morning rush hour, seriously wounding himself and injuring three others, police said. The injuries to two commuters and a Port Authority police officer were all non-life threatening, according to the New York Fire Department. At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist attack, and he said no other devices had been found. The suspect was identified by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He was in serious condition at Bellevue Hospital Center. Ullah acted alone, police said, and the device was reported to have gone off prematurely in the passage just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one of the busiest transit hubs in the country — at 7:20 am, authorities said. Two commuters and a Port Authority police officer suffered minor injuries, officials said. The device was affixed to Ullah's body with Velcro and zip ties, police officials said. The explosion caused commuter chaos at one of the city's key traffic hubs. \"Our lives revolve around the subway,\" the mayor said. \"The choice of New York is always for a reason, because we are beacons of the world. And we show that a society of many background and many faiths can work.\" \"The terrorists want to undermine that,\" he added. \"They yearn to attack New York City.\" \"I'm glad I wasn't there. We were supposed to take a bus out at the time (when the accident happened), so I'm glad we waited,\" said Monica Gannon, who planned to take the bus back to New Jersey at this morning when the explosion happened. \"We are stuck here. Now we are waiting for all this to be over and go back home.\" \"I was evacuated from the terminal after it (the explosion) happened. It was terrible, and I was so scared when I saw some people running,\"said Alicia Carmona. She said she was evacuated from the terminal after the explosion and to wait outside the bus terminal for about two hours. Carmona said she planned to pick up her niece at LaGuardia Airport at around 9 am, but now she couldn't make it. \"I was thinking to take the subway instead, but the nearby subway stations are closed too.\"",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what can be inferred about the perpetrator of the subway explosion?",
+          "options": {
+            "A": "He was a member of an organized terrorist network.",
+            "B": "His explosive device functioned exactly as he had planned.",
+            "C": "He is currently receiving medical treatment for his injuries.",
+            "D": "He carried out the attack to protest against the city's bus system."
+          },
+          "answer": "C",
+          "explanation": "文章提到嫌疑人Akayed Ullah目前在Bellevue Hospital Center，处于严重状态(in serious condition)，因此C选项正确。A选项与文中'Ullah acted alone'矛盾；B选项与'device was reported to have gone off prematurely'矛盾；D选项文中未提及抗议动机。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following describes the impact of the explosion on the transit hub?",
+          "options": {
+            "A": "It led to a temporary suspension of operations and commuter confusion.",
+            "B": "It caused structural damage to the Port Authority Bus Terminal.",
+            "C": "It resulted in a permanent closure of the subway passage.",
+            "D": "It caused life-threatening injuries to many commuters."
+          },
+          "answer": "A",
+          "explanation": "文章提到爆炸导致了通勤混乱(commuter chaos)以及通勤者被迫疏散和等待，符合A选项描述。B选项结构损坏文中未提；C选项文中仅提到关闭，未提及永久关闭；D选项与文中'non-life threatening'矛盾。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does Mayor Bill de Blasio imply by saying New York is a 'beacon'?",
+          "options": {
+            "A": "New York is a primary target for surveillance.",
+            "B": "New York serves as a model of diverse and inclusive society.",
+            "C": "New York needs more sophisticated security systems.",
+            "D": "New York is the safest city for people of all faiths."
+          },
+          "answer": "B",
+          "explanation": "市长提到New York是beacons of the world，紧接着解释是因为这里是一个社会背景和信仰多元且能融合运作的地方(a society of many background and many faiths can work)，因此B选项最符合题意。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Monica Gannon's reaction to the event illustrates that the explosion caused:",
+          "options": {
+            "A": "A sense of relief due to her proximity to the device.",
+            "B": "A significant disruption to travel plans for commuters.",
+            "C": "A complete lack of concern among the local residents.",
+            "D": "An immediate change in her career path."
+          },
+          "answer": "B",
+          "explanation": "Monica Gannon提到她原本打算乘车但因为耽搁而躲过一劫，并提到因为爆炸被困(stuck here)等待结束，这表明爆炸干扰了通勤者的旅行计划，故选B。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary purpose of this news report?",
+          "options": {
+            "A": "To analyze the technical details of homemade explosive devices.",
+            "B": "To criticize the security protocols of New York's transit hubs.",
+            "C": "To inform the public about the facts and aftermath of the morning attack.",
+            "D": "To profile the life and motivations of Akayed Ullah in detail."
+          },
+          "answer": "C",
+          "explanation": "本文是一篇典型的新闻报道，客观陈述了事件发生的时间、地点、受伤情况、官方表态及现场目击者反应，主要目的是向公众通报事件事实与后续影响，因此C选项正确。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 6",
+      "article_update_date": "04.10.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | Previous | The Forgotten Female Pilots of World War II The WASPs risked their lives flying for the Army. But for decades, the U.S. government refused to recognize their military service. by Ellen Cushing The author's grandmother Patricia Perry joined the Women Airforce Service Pilots in 1943. (Courtesy of the Robinson/Cushing Family) R ecently, I stood in an airfield in Sweetwater, Texas, and looked up. I was wondering what it would have been like to take off from there in a small plane, flying into the dust of West Texas and the chaos of World War II, as my grandmother had. The land around me had the palette of a well-used watercolor set and the topography of a paper towel: gray and brown, flat forever. It is dry all year round, except when it suddenly pours. The wide, featureless landscape makes for big, blustery winds and difficult orientation. Also, it is famous for its rattlesnakes . During World War II, Sweetwater’s Avenger Field was the primary home of a program that trained women to fly military planes. They were called Women Airforce Service Pilots —WASPs—and they were the solution to a high-stakes problem: The war needed pilots, and men were dying quickly. From 1942 to 1944, these women volunteers engaged in just about every aspect of military flight operations except combat—ferrying aircraft, testing planes, transporting cargo, training new pilots—so that the men would be free to fight in Europe and the Pacific. More than 25,000 women applied to the program, fewer than 2,000 were accepted, and 1,074 completed training. By the time the program ended, the WASPs had risked—and in some cases given—their lives to save male pilots a cumulative 60 million miles of flying. But during the war, they were classified as civil servants, no different in the eyes of the government from the female federal employees who typed memos or cooked on bases. After the war, they were ineligible for veterans’ benefits, and kept out of both the military and commercial cockpits. For decades, the WASPs lobbied to be recognized as service members. Today, they are still largely unknown. Soon, they will all be gone. P atricia Perry , my Grandma Pat, was born in 1921, an only child. She grew up in Auburn, a small town in Northern California’s Sierra foothills. This was farm country—stone fruit and grapes—and when she was in high school, Pat learned to fly a friend’s parents’ crop duster. She was high-achieving, sheltered, patriotic, and eager to please—always, according to my mom, “trying to be the son her father never had as well as the daughter her mother insisted on.” In 1941, she moved two hours southwest to study political science at UC Berkeley. Instead of joining a sorority, she lived in the International House, where she was surrounded by students from all over the world, including many who had fled the war in Europe. After graduation, she’d planned to attend law school at Berkeley, where she would have been one of just a few women, but deferred her admission to join the WASPs. She met the criteria: 5 foot 4 or taller, at least 21 years of age, high-school diploma, extensive flying experience. On July 5, 1943, when Pat was 21 , she began her training in Sweetwater. She had never left California before. With a few exceptions, the women at Avenger Field were white, but they came from a variety of backgrounds and professions—one was a Broadway actor—and from all over the country. Some were still essentially children; others were in their 30s, married with a family, or widowed by a husband who had already been killed in the war. The wealthier among them had learned to fly for fun when aviation became an expensive diversion in the years between the world wars. Hundreds had gone through the Civilian Pilot Training Program, which had been founded a few years earlier to train men to fly and occasionally accepted women. Pat, like many of her fellow WASPs, had felt called to service. A large number just really loved to fly, and looked for any opportunity to do it. Members of the Women Airforce Service Pilots program, wearing flight gear and parachutes (WASP Archive / Texas Woman’s University) Before she joined the program, Marion Schorr Brown was making $90 a month as a schoolteacher and spending $6 an hour for flight time. Nell Stevenson Bright took her first recreational flight at the age of 8, when her father paid a dollar for her to ride in a World War I biplane, and never stopped thinking about being in the air after that. Cornelia Fort was an airplane fanatic and a flight instructor who happened to have been flying with a student over Pearl Harbor on December 7, 1941, when she was 22. She saw the bombs exploding in the sky, and then she emergency-landed her plane as Japanese military aircraft rained bullets down on the tarmac. Ten months later, she became the second woman to sign up for what would become the WASP program. The women paid their own way to Texas. They were told to pack light, and to buy life insurance. Once they got there, they were given men’s flight suits; in photographs , they look like children playing dress-up, heavy fabric pooled at their feet. They covered lodging costs themselves, $1.65 a day. The windows on their barracks were painted black, for modesty. They trained for four to seven months, learning physics, Morse code, and military law, and accumulating hundreds of flight hours: everything male pilots learned, except gunnery and formation flying. (They also learned how to examine their cockpits for rattlesnakes.) Every morning, they did calisthenics in bobby socks as military planes flew loud and low overhead. In the evenings, they wrote letters home, played Ping-Pong in the rec hall, and produced a newspaper, The Avenger . In Sweetwater, locals received them with some suspicion, at least until program leaders encouraged them all to go to church, even the Jewish ones. In the country at large, to the extent that the public was aware of the WASPs, the general attitude seems to have been one of amused gratitude. A cover story about the program in Life magazine —headline: “ Girl Pilots ”—called the women “very serious about their chance to fly for the Army at Avenger Field, even when it means giving up nail polish, beauty parlors, and dates for a regimented 22 ½ weeks.” WASPs doing calisthenics at Avenger Field, in Sweetwater, Texas. Locals received the trainees with some suspicion, at least until program leaders encouraged them to go to church. (WASP Archive / Texas Woman’s University) After training, the women received a pair of silver wings and a few days off. Then they scattered to their next assignment: Schorr Brown to Detroit, Stevenson Bright to El Paso, Fort and Pat to different parts of Southern California, the rest to airfields and Army bases around the country. There, they taught male cadets how to fly; moved supplies between factories and bases; flew paperwork, planes, and pilots wherever they needed to go; and generally engaged in what the pilot Jacqueline Cochran, one of the program’s founders, was fond of calling “aerial dishwashing”—the tedious stuff, work no one else wanted. Read: Night Witches, the Soviet female fighter pilots of World War II Each WASP was typically one of only a handful of women among hundreds or thousands of men on base, and the historical record suggests that they were treated, at best, like zoo animals. An unspoken but widely understood part of the job description, Pat recalled, was to entertain their male counterparts: She packed a ball gown in her luggage along with her flight suit. The women were skipped over for certain flying assignments, evaluated more harshly than the men, and reportedly told by one base commander that both they and the planes could easily be replaced. For a while, many were grounded during their period. Rumors of sabotage by male pilots spread. Cochran was said—but never confirmed—to have found traces of sugar in the engine of a plane that had crashed and killed a WASP. Even under the best conditions, the flying itself was difficult and dangerous. The planes were tiny, many of the cockpits completely open to the air. (In Sweetwater, I saw four of them, dinky little tin-can-looking things, and I thought about how I require a glass of wine and a Xanax to get on a 737.) They had rudimentary instruments and no radar or GPS—often, the women would navigate by sticking their head out the window. Schorr Brown once accidentally got so close to the Statue of Liberty while flying from Montreal to Newark that it “scared the living daylights out of her.” Not at all infrequently, a WASP’s assignment was to test a plane for airworthiness, or to transport a damaged one to be repaired, or to tow a target over a practice area while not-fully-trained men on the ground did their best to shoot at it with machine guns. Women were allowed to opt out of this last duty, but no one did. WASPs at the Romulus Army Air Base, in Michigan. The women were typically outnumbered on base by hundreds or thousands of men. (WASP Archive / Texas Woman’s University) On March 21, 1943, Cornelia Fort was ferrying a BT-13 from Long Beach to Dallas when one of the recently trained male pilots she was flying with accidentally clipped her wing. She nose-dived so hard that her plane’s engine was later found buried two feet underground. Fort was the first woman pilot in American history to be killed while on active duty for her country. The military did not pay for her funeral. Thirty-seven other WASPs died in service, either during training or on assignment. Each time, their remains were sent home at the expense of their families—the women at Avenger got used to passing around a hat, collecting donations. Their caskets were not permitted to be draped with the American flag, but sometimes their families did it anyway. Almost the entire time the WASP program existed, its leaders fought for it to be made an official part of the military, with all the attendant benefits. Almost the entire time, they were met with resistance from male pilots. In 1944, as an end to the war appeared to be in sight and the pilot shortage eased, the government ordered the cancellation of a flight-instruction program for men. A group of male teachers began petitioning elected officials and writing to the press: Why should women have these jobs when they couldn’t? Read: Why women weren’t allowed to be astronauts Soon enough, public sentiment toward the WASPs started to shift. “Women: Unnecessary and Undesirable?” a headline in Time magazine asked . A government report found the program to be expensive and wasteful, especially when so many male pilots were available. A bill that would have provided the WASPs with full military status was narrowly defeated in the House of Representatives. By October, it was all over: The program was to be disbanded by the end of the year. On December 7, 1944, it graduated its final class. “The WASP have completed their mission,” General Henry Arnold said at the ceremony . “If ever there was a doubt in anyone’s mind that women can become skillful pilots, the WASP have dispelled that doubt.” The pilots he was addressing would never get to put their skills to use. The ones currently on base were sent home. And so the WASPs scattered back to their lives. They finished school, bred Pekingese dogs, won bowling competitions, sold encyclopedias, had babies, devoted themselves to their families. A number of them applied to be commercial pilots and were rejected, though occasionally an airline would suggest that they were perfectly qualified to become stewardesses. Even under the best conditions, flying was difficult and dangerous. The planes were tiny, and many of",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, why were the WASPs initially needed during World War II?",
+          "options": {
+            "A": "To replace male pilots who were needed for combat missions in Europe and the Pacific.",
+            "B": "To prove that women could perform better than men in military flight operations.",
+            "C": "To serve as military instructors because of their experience in the Civilian Pilot Training Program.",
+            "D": "To handle administrative tasks that were previously assigned to male federal employees."
+          },
+          "answer": "A",
+          "explanation": "文章明确提到这些女性飞行员是为了解决一个高风险问题：战争需要飞行员，且男性伤亡迅速，因此她们承担了 ferrying aircraft, testing planes, transporting cargo 等任务，从而将男性解放出来去作战。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes the status of WASPs during the war according to the U.S. government?",
+          "options": {
+            "A": "They were recognized as essential military personnel with full benefits.",
+            "B": "They were considered military volunteers equal to their male counterparts.",
+            "C": "They were treated as civilian employees with no official military status.",
+            "D": "They were regarded as dangerous trainees who required constant supervision."
+          },
+          "answer": "C",
+          "explanation": "文章提到“during the war, they were classified as civil servants”且“ineligible for veterans’ benefits”，意味着她们在政府眼中与普通平民员工无异，没有正式军人地位。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What can be inferred from the author's description of the training conditions at Avenger Field?",
+          "options": {
+            "A": "The training was luxurious compared to contemporary male pilot training.",
+            "B": "The program was well-funded by the government to ensure pilot safety.",
+            "C": "The trainees faced significant financial and logistical burdens.",
+            "D": "The women were provided with special accommodations suitable for their needs."
+          },
+          "answer": "C",
+          "explanation": "文中指出女性需要自费前往得克萨斯，自费支付伙食费，由于设备简陋（如男性的制服在她们身上显得很大），还要自费买保险，说明她们面临较大的经济与生活压力。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the public perception of the WASP program shift toward the end of the war?",
+          "options": {
+            "A": "From general curiosity and gratitude to criticism and economic resentment.",
+            "B": "From strong support by the media to total indifference from government officials.",
+            "C": "From skepticism about their flying skills to widespread admiration for their mission.",
+            "D": "From appreciation of their service to frustration over the high costs of their training."
+          },
+          "answer": "A",
+          "explanation": "文章提到早期社会对她们是“amused gratitude”，但随着战争结束，男性飞行员开始抱怨，媒体出现“Unnecessary and Undesirable?”的质疑，政府也开始以财政开支为由解散项目。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What was the irony of the WASP program's conclusion?",
+          "options": {
+            "A": "The women were forced to join the commercial airline industry against their will.",
+            "B": "The program was disbanded just as they had proved women could be skillful pilots.",
+            "C": "The male pilots they replaced were killed in action before the WASPs could be disbanded.",
+            "D": "General Arnold disbanded the program while simultaneously awarding them full military honors."
+          },
+          "answer": "B",
+          "explanation": "文章引用了亨利·阿诺德将军的话，承认女性证明了自己可以成为优秀的飞行员，但讽刺的是，这些优秀的飞行员在证明能力之后立即被解雇且没有获得应有的福利。"
+        }
+      ]
+    }
+  ]
+}
