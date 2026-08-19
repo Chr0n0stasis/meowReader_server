@@ -1,0 +1,20 @@
+articles:
+- article_id: epub_12
+  journal_name: Economist
+  publish_date: 06.01.2026
+  title: The weekly cartoon
+- article_id: epub_46
+  journal_name: Wired
+  publish_date: 05.10.2026
+  title: Chapter 46
+- article_id: rss_7_1779308613
+  journal_name: China Daily
+  publish_date: 05.20.2026
+  title: Nanjing massacre remembered on 80th anniversary
+- article_id: rss_6_1778440315
+  journal_name: The Guardian
+  publish_date: 05.10.2026
+  title: Argentina in spotlight over hantavirus as authorities retrace footsteps of
+    ship’s passengers
+generate_date: 08.19.2026
+strategy: common

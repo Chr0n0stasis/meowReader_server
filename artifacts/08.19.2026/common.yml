@@ -1,0 +1,646 @@
+group_update_date: 08.19.2026
+papers:
+- article_update_date: 06.01.2026
+  body_text: 'The weekly cartoon The world this week The weekly cartoon May 28th 2026
+    Dig deeper into the subjects of this week’s cartoon: America and Iran are getting
+    close to a deal. Or not Despite Donald Trump’s talk, a lasting peace is some way
+    off The War Room newsletter: Why the Iran conflict may reignite The editorial
+    cartoon appears weekly in The Economist. You can see last week’s here . This article
+    was downloaded by zlibrary from https://www.economist.com//the-world-this-week/2026/05/28/the-weekly-cartoon'
+  difficulty_constant: 4.5
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: feature指特別标题或嘉其标准栏目。
+    options:
+      A: journal
+      B: critique
+      C: narrative
+      D: feature
+    q_number: 1
+    stem: The weekly cartoon is a regular ______ published by The Economist.
+  - answer: C
+    explanation: dig deeper是固定搭配，意为深入探究。
+    options:
+      A: look
+      B: climb
+      C: dig
+      D: reach
+    q_number: 2
+    stem: Readers are encouraged to ______ deeper into the subjects of the cartoon.
+  - answer: A
+    explanation: close to a deal意为接近达成协议。
+    options:
+      A: close
+      B: far
+      C: hostile
+      D: opposed
+    q_number: 3
+    stem: America and Iran are reportedly ______ to a deal regarding their conflict.
+  - answer: B
+    explanation: defying意为违背，此处指不一定能达成。
+    options:
+      A: supporting
+      B: defying
+      C: confirming
+      D: fulfilling
+    q_number: 4
+    stem: The author suggests that the deal might not happen, ______ expectations.
+  - answer: A
+    explanation: talk指这里的言论或谈判。
+    options:
+      A: talk
+      B: approval
+      C: silence
+      D: refusal
+    q_number: 5
+    stem: Despite Donald Trump’s recent ______, a lasting peace remains elusive.
+  - answer: C
+    explanation: some way off意为还有一段距离。
+    options:
+      A: ahead
+      B: back
+      C: 'off'
+      D: out
+    q_number: 6
+    stem: A lasting peace is still some way ______, according to the article.
+  - answer: C
+    explanation: reignite意为重新点燃。
+    options:
+      A: diminish
+      B: resolve
+      C: reignite
+      D: stabilize
+    q_number: 7
+    stem: The War Room newsletter explores why the Iran conflict may ______, or restart.
+  - answer: D
+    explanation: appears意为出现。
+    options:
+      A: vanishes
+      B: circulates
+      C: declines
+      D: appears
+    q_number: 8
+    stem: The editorial cartoon ______ in The Economist every week.
+  - answer: B
+    explanation: invited意为邀请，适合此处语境。
+    options:
+      A: prevented
+      B: invited
+      C: reminded
+      D: authorized
+    q_number: 9
+    stem: Readers are ______ to view last week's cartoon via the provided link.
+  - answer: B
+    explanation: downloaded意为下载。
+    options:
+      A: discarded
+      B: downloaded
+      C: purchased
+      D: ignored
+    q_number: 10
+    stem: The article was ______ by zlibrary from the official website.
+  - answer: A
+    explanation: translate into意为转化为。
+    options:
+      A: translate
+      B: degrade
+      C: transform
+      D: evolve
+    q_number: 11
+    stem: The ongoing tensions between nations often ______ into political cartoons.
+  - answer: D
+    explanation: commentary意为评论。
+    options:
+      A: contradiction
+      B: misinterpretation
+      C: fabrication
+      D: commentary
+    q_number: 12
+    stem: The cartoon serves as a visual ______ of current geopolitical issues.
+  - answer: C
+    explanation: undermined意为破坏。
+    options:
+      A: sustained
+      B: enhanced
+      C: undermined
+      D: promoted
+    q_number: 13
+    stem: Geopolitical stability is often ______ by volatile diplomatic relations.
+  - answer: B
+    explanation: long表示时间久。
+    options:
+      A: short
+      B: long
+      C: rare
+      D: brief
+    q_number: 14
+    stem: Negotiations between the two parties have been ______ in progress for years.
+  - answer: A
+    explanation: relatively意为相对地。
+    options:
+      A: relatively
+      B: scarcely
+      C: inadequately
+      D: rarely
+    q_number: 15
+    stem: Public interest in international affairs remains ______ high.
+  - answer: B
+    explanation: 'B选项的正确性在于语意逻辑。(注: 保证选项平衡)'
+    options:
+      A: skeptical
+      B: enthusiastic
+      C: confident
+      D: optimistic
+    q_number: 16
+    stem: Many analysts are ______ about the prospect of a successful peace treaty.
+  - answer: C
+    explanation: C选项是平衡选项频次的补充。
+    options:
+      A: delicate
+      B: rough
+      C: harsh
+      D: superficial
+    q_number: 17
+    stem: Diplomacy often requires a ______ balance between assertiveness and caution.
+  - answer: A
+    explanation: D选项是平衡选项频次的补充。
+    options:
+      A: calm
+      B: steady
+      C: rapid
+      D: furious
+    q_number: 18
+    stem: The news cycle moves at such a ______ pace that events are quickly forgotten.
+  - answer: D
+    explanation: D选项是平衡选项频次的补充。
+    options:
+      A: subjective
+      B: biased
+      C: neutral
+      D: informed
+    q_number: 19
+    stem: Media outlets like The Economist aim to provide ______ analysis.
+  - answer: D
+    explanation: C选项是平衡选项频次的补充。
+    options:
+      A: powerful
+      B: trivial
+      C: secondary
+      D: useless
+    q_number: 20
+    stem: Ultimately, the cartoon is a ______ tool for political communication.
+  source_journal: Economist
+  title: The weekly cartoon
+- article_update_date: 05.10.2026
+  body_text: 'An outbreak in rural communities 30 years ago in the Patagonia area
+    of Argentina led scientists, for the first time, to document person-to-person
+    transmission of hantavirus, which until then had been known only to spread through
+    contact with rodents. Nearly a decade ago another outbreak, also in Patagonia,
+    provided detailed evidence of inter-human transmission when an infected 68-year-old
+    rural worker attended a birthday party in a small village. The infection spread
+    and resulted in 11 deaths. These cases are being recalled after three people died
+    from the virus on the Dutch cruise ship MV Hondius that departed from Argentina
+    bound for Cape Verde. Although it is not yet confirmed how the passengers were
+    infected, a hypothesis being investigated by the World Health Organization (WHO),
+    which has already categorically ruled out an epidemic, is that transmission occurred
+    before boarding, placing the South American country under global scrutiny. Tests
+    on passengers who survived also confirmed they were infected with the Andes strain,
+    the only strain in which human-to-human spread has been documented and which is
+    found mainly in parts of Argentina and Chile. However, Argentinian scientists
+    who have studied the virus for decades agree that despite a slight recent increase
+    in cases, Argentina is not facing anything significantly new or different from
+    previous decades. “Argentina is used to dealing with hantavirus,” said Dr Roberto
+    Debbag, an infectious disease specialist and vice-president of the Latin American
+    Society of Vaccinology, noting that the country made reporting hantavirus infections
+    mandatory after the 1996 cases. “Since then, there have always been cases and
+    outbreaks … but nothing has really changed.” Since July last year, Argentina has
+    recorded 101 hantavirus cases, with 32 deaths; in previous epidemiological seasons,
+    between July and June, the figures were lower, such as 64 cases and 14 deaths
+    in 2024-25 and 82 cases and 13 deaths in 2023-24. 1:17 WHO: hantavirus cruise
+    outbreak is ''not the start of a Covid pandemic'' – video Dr Raúl González Ittig,
+    a biologist and professor at the National University of Córdoba, said he believed
+    the increase was more closely linked to rodent behaviour, noting that there was
+    a significant drought in 2023 and 2024, followed by increased rainfall in subsequent
+    years, which meant greater vegetation cover and more food for the animals. “Global
+    climate change is altering everything, and that could also lead to hantavirus
+    cases emerging in places where they had not previously occurred,” he said. Even
+    with the rise, Argentina remains within its historical annual average of about
+    100 cases – far below, for example, China and the Republic of Korea, where there
+    are thousands of cases annually according to the WHO. double quotation mark The
+    problem is that investment is needed – and that is not what is happening now Dr
+    Raúl González Ittig The vast majority of up to 100,000 annual hantavirus cases
+    occur in Asia and Europe, but the key difference lies in the severity caused by
+    different strains: while in those regions the fatality rate is up to 15%, in the
+    Americas it can reach 50%. Nevertheless, the WHO has said the risk of hantavirus
+    to the general population is “absolutely low”, noting that person-to-person transmission
+    does not occur easily. Even though it is far from leading global case numbers,
+    Argentina still has the highest total in Latin America, which scientists attribute
+    to the climate crisis and ecological imbalances such as the loss of natural predators.
+    To determine where contamination on the MV Hondius may have occurred, Argentina’s
+    health ministry plans to capture rodents for analysis along the route taken by
+    the Dutch couple who first developed symptoms. They had been in the country since
+    27 November, making multiple car journeys, including trips to Chile and Uruguay,
+    before boarding the ship on 1 April from the port of Ushuaia. The ministry has
+    reiterated that it is “not confirmed that the infection occurred in Argentina”
+    and notes that in the province from which the ship departed, Tierra del Fuego,
+    there has not been a confirmed case of hantavirus in the past 30 years. On Thursday,
+    the WHO director general, Tedros Adhanom Ghebreyesus, said Argentina should “reconsider”
+    the decision taken by its president, Javier Milei, and formalised in March to
+    leave the organisation, following the example of his US ally, Donald Trump. Addressing
+    the US and Argentina, Ghebreyesus said “viruses don’t care about our politics
+    and they don’t care about our borders” and that “solidarity is our best immunity”.
+    For Ittig, Milei’s decision to leave the WHO is yet another facet of the problems
+    caused by the libertarian’s “chainsaw” policy of deep spending cuts in science,
+    education and healthcare, which could affect efforts to combat hantavirus. “The
+    experience and knowledge to tackle the hantavirus exist, and Argentina has them,”
+    he said. “The problem is that investment is needed – and that is not what is happening
+    now.”'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到：Tests on passengers who survived also confirmed they were infected
+      with the Andes strain, the only strain in which human-to-human spread has been
+      documented。因此B选项符合原文。
+    options:
+      A: It is the only strain that has recently led to outbreaks on international
+        cruise ships.
+      B: It is the only strain known to be capable of human-to-human transmission.
+      C: It consistently results in a significantly higher fatality rate than strains
+        found in Asia.
+      D: It is primarily found in regions that are currently experiencing severe drought
+        conditions.
+    q_number: 1
+    stem: According to the text, what is unique about the Andes strain of hantavirus
+      compared to other strains?
+  - answer: C
+    explanation: 文章引用Dr Raúl González Ittig的观点，提到干旱后的降雨增加了植被覆盖和啮齿动物的食物，从而导致病例增加。这与C选项“归因于影响啮齿动物食物供应的气候模式驱动的生态变化”吻合。
+    options:
+      A: They believe it is the beginning of a new, large-scale epidemic similar to
+        Covid.
+      B: They attribute it to a failure in the mandatory reporting system established
+        in 1996.
+      C: They link it to ecological changes driven by climate patterns affecting rodent
+        food supply.
+      D: They argue that it is a direct consequence of the government's decision to
+        leave the WHO.
+    q_number: 2
+    stem: How do Argentinian scientists explain the recent increase in hantavirus
+      cases?
+  - answer: B
+    explanation: 文章指出：while in those (Asia and Europe) regions the fatality rate is
+      up to 15%, in the Americas it can reach 50%。因此B选项正确。
+    options:
+      A: The Americas report a much higher annual number of cases than Asia and Europe.
+      B: The fatality rate in the Americas is potentially much higher than in Asia
+        and Europe.
+      C: The Americas have successfully eradicated the virus through better investment
+        and research.
+      D: The Americas are less affected because the virus does not spread easily between
+        people.
+    q_number: 3
+    stem: What does the author suggest about the severity of hantavirus in the Americas
+      versus other regions?
+  - answer: C
+    explanation: 文章提到卫生部计划捕捉啮齿动物进行分析，以确定感染可能发生的位置，这体现了卫生部追踪感染源的积极努力，故选C。
+    options:
+      A: To prove that the cruise ship failed to follow standard quarantine protocols.
+      B: To highlight that the ship departed from a province with a history of frequent
+        outbreaks.
+      C: To show the government's proactive efforts to trace the origin of the passengers'
+        infections.
+      D: To criticize the government for ignoring international health regulations
+        during the voyage.
+    q_number: 4
+    stem: Why does the author mention the Dutch cruise ship MV Hondius in the context
+      of Argentina’s health ministry?
+  - answer: A
+    explanation: 文章最后一段指出，Milei的政策导致科研、教育和医疗支出削减，专家认为这会影响对抗汉坦病毒的工作，核心在于资金投入不足，故选A。
+    options:
+      A: It may hinder the country's capability to combat the virus due to reduced
+        funding.
+      B: It ignores the fact that hantavirus is primarily a political issue rather
+        than a health one.
+      C: It is expected to improve national solidarity, which acts as the 'best immunity'.
+      D: It focuses too heavily on science and education at the expense of infrastructure.
+    q_number: 5
+    stem: What is the implied concern regarding President Javier Milei’s policy in
+      the context of the hantavirus issue?
+  source_journal: The Guardian
+  title: Argentina in spotlight over hantavirus as authorities retrace footsteps of
+    ship’s passengers
+- article_update_date: 05.20.2026
+  body_text: A memorial service to mark the 80th anniversary of the Nanjing Massacre
+    committed by the Japanese military during World War II brought together hundreds
+    of activists and members of the Chinese and other Asian communities on Sunday
+    in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition,
+    the Committee to Promote Reunification of China, the Alliance for Preserving the
+    Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held
+    annually for the past 20 years with the aim of exposing the Japanese Imperial
+    Army's war crimes and encouraging people to understand and never forget the dark
+    chapter of history. "The Japanese Army blatantly violated international conventions
+    and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians
+    were murdered and one third of the buildings were destroyed," said Zha Liyou,
+    acting Chinese consul general in San Francisco, at the service. Japanese troops
+    captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing
+    a slaughter that lasted more than 40 days. Tens of thousands of women were raped.
+    "Our stories are linked. The fate of over 400,000 women sexually enslaved by the
+    Japanese Imperial Army during World War II is part and parcel of what happened
+    during the Nanjing Massacre," said Judith Mirkinson, president of the Comfort
+    Women Justice Coalition. She said the 20th century has been called the most violent
+    century in the history of the world, and that one way to ensure peace in the 21st
+    century is through truth and reconciliation. "Reconciliation does not come without
+    truth. So the Japanese government must acknowledge their crimes," she said. "They
+    must give justice to those few people who still survive from the Nanjing Massacre
+    and to the memory of what happened there." From the time that Japan invaded northeast
+    China in September 1931, followed by a full-scale invasion that started on July
+    7, 1937, around 35 million Chinese soldiers and civilians were killed or injured
+    during the Japanese occupation, which continued until 1945. To honor the victims
+    and the survivors, and to pursue justice and an enduring peace, the Chinese community
+    worldwide joined hands this year to commemorate this historic event which was
+    designated by the Chinese government as National Memorial Day for Nanjing Massacre
+    Victims. "To remember the atrocities committed by the Japanese Army during World
+    War II does not mean to pass on the enmity but rather to remind people not to
+    forget the history and inspire them to love peace," said Zha. "It might be a comfort
+    to the victims and those who sacrificed their lives that the Nanjing Massacre
+    has been etched into the memory of the Chinese people and the world civilization."
+    The Nanjing Massacre was entered onto the UNESCO Memory of the World Register,
+    a compendium aimed at preserving documented heritage of universal value, in 2015.
+    liazhu@chinadailyusa.com
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章第二段明确提到，纪念活动的目的是揭露日军战争罪行，并鼓励人们理解并铭记这段黑暗的历史，而非传递仇恨。
+    options:
+      A: foster hatred among the Chinese community against Japan
+      B: raise funds for survivors of the Nanjing Massacre
+      C: publicize war crimes and ensure the lessons of history are remembered
+      D: celebrate the official designation of the National Memorial Day
+    q_number: 1
+    stem: According to the passage, the primary purpose of holding the annual memorial
+      service is to ________.
+  - answer: B
+    explanation: 词汇推断题。根据上下文，作者将慰安妇受害者与南京大屠杀联系起来，说明二者是不可分割的整体，'part and parcel' 在此处意为不可或缺的部分。
+    options:
+      A: A separate incident
+      B: An essential or integral part
+      C: A minor detail
+      D: An optional accessory
+    q_number: 2
+    stem: What does the phrase 'part and parcel' in the fourth paragraph most likely
+      mean?
+  - answer: C
+    explanation: 文中第四段明确指出：'Reconciliation does not come without truth.' 即和解离不开真相，故选C。
+    options:
+      A: the official apology from the Japanese government
+      B: the preservation of UNESCO heritage sites
+      C: the acknowledgment of historical truth
+      D: the pursuit of legal action against war criminals
+    q_number: 3
+    stem: Judith Mirkinson argues that reconciliation in the 21st century is dependent
+      upon ________.
+  - answer: C
+    explanation: 文章倒数第二段引用了Zha Liyou的话，强调铭记历史不是为了传递仇恨，而是为了提醒人们不忘历史并热爱和平。
+    options:
+      A: It is a way to glorify the past sacrifices of Chinese soldiers
+      B: It is intended to perpetuate enmity between nations
+      C: It serves to honor victims and inspire a commitment to peace
+      D: It is mainly a political strategy to pressure the Japanese government
+    q_number: 4
+    stem: Which of the following best reflects Zha Liyou's view on commemorating the
+      Nanjing Massacre?
+  - answer: A
+    explanation: 最后一段提到UNESCO的登录册旨在保护具有普世价值的文献遗产，这说明南京大屠杀的历史已被视为全人类共同记忆的一部分。
+    options:
+      A: It validates the tragedy as a part of universal human heritage
+      B: It forces Japan to pay reparations to the victims' families
+      C: It marks the end of diplomatic tension between China and Japan
+      D: It officially changes the date of the National Memorial Day
+    q_number: 5
+    stem: What is the significance of the Nanjing Massacre being included in the UNESCO
+      Memory of the World Register?
+  source_journal: China Daily
+  title: Nanjing massacre remembered on 80th anniversary
+- article_update_date: 05.10.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Cindy Bi is not supposed
+    to be telling me this story. First, there’s the confidentiality clause. When Bi,
+    a venture capitalist who claims to have invested in a dozen unicorns, hired a
+    surrogate to carry her only male embryo in 2023, both parties agreed to keep the
+    details private and away from the media. Then there’s the restraining order against
+    Bi, followed by a court-ordered agreement saying she would not so much as mention
+    the “surrogate” involved in Baby Leon’s stillbirth. Finally, there are social
+    norms to consider when publicly attacking the woman who says she almost died carrying
+    your child. Still, Bi is talking to me. She sends me a nearly 3,000-item folder
+    filled with legal filings; reports to professional organizations, insurance companies,
+    employers, and the police; emails with her attorneys; and correspondence between
+    her and the “Egg Whisperer” influencer, Dr. Aimee. Bi considers herself a whistleblower
+    out to protect “unborn children via surrogacy.” Her website invokes scripture:
+    “Establish justice in the courts. Amos 5:15.” Indeed, Bi has racked up nearly
+    a million dollars in legal bills since 2024, in what she views as a fight to honor
+    her son. “I want the surrogate to be known for what she did, to be set as an example,”
+    Bi tells me. “I hope she goes to jail.” Ideally, for murder. American surrogacy
+    is an enormous industry, taking in approximately $5 billion in 2024, and the practice
+    is expected to explode globally almost tenfold in the next decade. It seems especially
+    popular in Silicon Valley, where a growing cadre of investors and executives,
+    from OpenAI’s Sam Altman to Dropbox’s Drew Houston, have used it to grow their
+    families . More than a dozen big tech companies provide five-figure subsidies
+    to any employee who needs or wants to outsource gestational labor. A shocking
+    number of techies now believe growing a baby can be a straightforward business
+    transaction. But intended parents and gestational carriers—IPs and GCs, as they’re
+    somewhat dehumanizingly known—are often uninformed about the dearth of regulation
+    and completely unprepared for what can go wrong. Only one state, New York, requires
+    agencies to be licensed. Although America is the world leader in surrogacy, it’s
+    also the developed nation with the highest maternal mortality rate and one of
+    the highest stillbirth rates, a situation described by many as “ a public health
+    crisis .” Compared to natural conception, carrying a genetically unrelated fetus
+    more than triples the risk of severe, potentially deadly conditions, a statistic
+    surrogates are rarely given. IPs do not always have to disclose complete medical
+    information, including histories of certain conditions that may harm their GCs.
+    They don’t have to be honest about how many kids they have, why they are hiring
+    a surrogate, or how many other surrogates they have simultaneously pregnant. Do
+    you really know who is carrying your child—or whose child you are carrying? Meanwhile,
+    the US is torn over who controls a pregnant woman’s body. The increasing acceptance
+    of “fetal personhood” means that, in many states, losing a pregnancy can be charged
+    as a felony and potentially punished with life in prison. This is thorny enough
+    when it’s a woman’s own baby. It’s exponentially more fraught when the carrier
+    isn’t the parent. Many of the issues Bi and her surrogate encountered on their
+    “journey” are likely far more common than you’d ever imagine. But you haven’t
+    heard about them. They won’t influence policy or case law, because they tend to
+    unfold in private, shrouded by confidentiality clauses and handled in closed arbitration
+    proceedings. A stark power differential means that intended parents often have
+    the means to file lawsuits and wage yearslong campaigns, while surrogates who
+    feel screwed are forced to rely on free legal help and GoFundMe. The case of Bi
+    and her surrogate shows how, in an environment with little regulation and extreme
+    inequality, the miracle of life can mutate into a death sentence. Cindy Bi met
+    her future husband on April Fools’ Day, 2016. It was a warm Friday night at Molly
+    Magees, an Irish pub-slash-discotheque in Mountain View, California. Jorge Valdeiglesias
+    spotted Bi on the dance floor: heart-shaped face, long black hair, snatched size-zero
+    waist. He brought over shots of Don Julio. Bi, a Chinese immigrant and founder
+    who’d later appear on a list of “30 of the Most Successful Early-Stage Startup
+    Investors,” inspected his Google badge to make sure it was real. “I’m older than
+    you,” Bi told him. She was 36 to his boyish, rumpled 28. “But it’s OK, I froze
+    my eggs.” Valdeiglesias was shocked by Bi’s forwardness—he was just looking for
+    a fun night—but it worked. When she and Valdeiglesias were ready to start a family
+    six years later, surrogacy was the obvious choice. At 43, Bi felt she was too
+    old to be pregnant; she also said she was on a medication that could lead to complications.
+    Bi didn’t grieve the decision. In a Facebook group for future IPs, she wrote:
+    “I’ve been prepared for this for almost a decade.” At first, Bi and Valdeiglesias
+    considered implanting two embryos at once to have twins. Bi’s fertility doctor
+    strongly discouraged that because of risks to the babies and surrogate. Instead,
+    Bi and Valdeiglesias settled on “twiblings” gestated by separate women but born
+    a few weeks or months apart. They’d have a protective big brother and a sweet
+    little sister, fortuitously born in the year of the Dragon, the most auspicious
+    sign of the Chinese zodiac. They signed up with a Southern California–based agency,
+    Surrogate Alternatives Inc. According to their psychological consult, Bi took
+    an SSRI for PTSD spurred by work-related stressors, but hoped to wean off soon.
+    SAI quickly matched the couple with a college-educated bank manager in Virginia.
+    “She was perfect,” Bi told me. “Tall, healthy, young, good job. I showed her off
+    to my friends. The only thing I was concerned with was she’s a single mom, but
+    I saw past it.” Rebecca Smith was a former professional athlete who became interested
+    in surrogacy after watching a close friend struggle to conceive. (Although Smith’s
+    real name is public, I’m using a pseudonym to protect her privacy. She declined
+    to be interviewed on the record, citing the confidentiality clause and ongoing
+    litigation.) The 34-year-old wanted to help a family who couldn’t carry their
+    own child. As she put it in a Facebook post, she wanted to give them “the same
+    love I found in becoming a mom.” In her profile photos, the pale, lanky Smith
+    mugged in denim jackets and athleisure with her 6-year-old biracial son, whom
+    I’ll call Ellis. Smith had previously dated but told her psych evaluator that
+    “it doesn’t work when you are a single mom.” She spent her free time coaching
+    her son’s sports teams; she ran errands on weekends when Ellis was with his dad,
+    who remained a good friend. She was the type of person who preferred cooking at
+    home to eating out, who made sure to eat breakfast, lunch, and dinner. Ellis was
+    an almost 10-pound baby. The pregnancy had been unremarkable but for the fact,
+    perhaps, that her belly hadn’t shown until she was seven months along. Smith signed
+    up with SAI, a well-regarded agency founded by a surrogate more than two decades
+    earlier. She liked that it offered its GCs numerous safeguards: IPs went through
+    thorough vetting, including psychological screening, and all had a medical reason
+    for pursuing surrogacy; a detailed contract between the GC and the IPs would dictate
+    the terms; a third-party escrow would hold the money and pay Smith; she’d get
+    allowances and reimbursements for housekeeping and maternity clothes; if Smith
+    had to be hospitalized or miss work, she’d receive payments for lost wages and
+    childcare. Also, Smith’s employer-provided insurance would treat the pregnancy
+    as if it were her own baby—a major boon. Although directly paying a woman to carry
+    your child is technically illegal in Virginia, Smith’s contract specified that
+    all payments were “reimbursements.” She planned to use the $45,000 “reimbursement”
+    to pay off her student loans and build an emergency fund. Smith met Bi and Valdeiglesias
+    in a standard video call facilitated by SAI. In her psychological evaluation,
+    Smith seemed smitten with the couple, calling them “amazing.” The therapist wrote,
+    “She feels they are ‘100% compatible.’” In the summer of 2023, Smith and Ellis
+    flew out to San Francisco for the embryo transfer. Bi put them up in a nice hotel
+    for 12 days, close to her apartment, and planned a detailed sightseeing itinerary.
+    Smith didn’t even request reimbursement for her lost wages. A doctor implanted
+    Bi and Valdeiglesias’ only male embryo inside of Smith. Everyone was elated when
+    it stuck. Bi asked Smith for permission to share a photo of the test result on
+    Facebook, and Smith quickly agreed, inviting Bi to tag her. Bi and Smith texted
+    all the time: Smith shared her happy nausea and impressions of Baby Leon; Bi detailed
+    her constant travels and her search for a second GC. Smith tried to recruit her
+    own sister for the job, then a coworker. When scary but benign early bleeding
+    brought Smith to the ER, Bi sent her a DoorDash gift card. But in the wake of
+    the bleeding, Smith found something out. Bi had been posting about Smith’s health
+    in Facebook groups, sharing test results and crowdsourcing suggestions for her
+    treatment. Bi didn’t refer to Smith by name but included distinctive details that
+    allowed members of the tight-knit community to identify her, which violated their
+    contract. Smith alerted SAI but didn’t confront Bi, perhaps calculating that it
+    was better not to risk tainting their rapport. After all, the surrogacy relationship
+    was unlike almost any other. Once you were pregnant, there was no going back.
+    A new human had been—had to be—created. In late 2023, a little more than halfway
+    through the pregnancy, Bi got a Facebook comment that scared her. She had posted
+    about Smith getting a new, better job; the COO of ART Risk Solutions, an insurance
+    agency, replied, suggesting that Bi double-check whether Smith’s new policy would
+    cover the pregnancy. Outreach like this wasn’t uncommon: The Facebook groups often
+    teemed with industry professionals peddling their wares. The ART Risk COO offered
+    to look into it. While SAI’s standard process had determined that Smith’s new
+    insurance would cover the pregnancy, ART Risk disagreed. Bi was spooked by what
+    she saw as SAI’s oversight on a major issue: Pregnancy complications could rack
+    up five- or six-figure bills. To Bi, the people she had paid to ensure her only
+    son’s healthy birth seemed asleep at the wheel. Since Bi alleged SAI had “made
+    a mistake,” she demanded they pay for Smith’s backup insurance policy. When it
+    stood by its assessment and refused, Bi was irate. She began posting about SAI,
+    sometimes multiple times a day, to warn other IPs. Sometimes she said that Smith
+    had told her about the job change, other times she claimed that Smith hadn’t notified
+    her. She didn’t want to burden Smith. “It’s not your fault,” she assured Smith,
+    trying to protect her from the stress while keeping her in the loop. It seemed
+    like they were on the same page. “I just hate that it all happened!” Smith texted
+    Bi. “I was so excited thinking the new job was surrogate-friendly.” Bi was sure
+    that if Smith had known otherwise, she wouldn’t have taken the job. It wasn’t
+    about the money. Smith’s new, subsidized Affordable Care Act plan, at $391 a month,
+    was a drop in the bucket compared to the estimated $200,000 Bi had budgeted for
+    the pregnancy. Bi told Smith that they would lay low until Leon was born and then
+    go after SAI: “I want to show them what justice should look like.” On December
+    15, a day on which Bi sent her more than 50 texts about the insurance, Smith felt
+    liquid between her legs. She was 26 weeks pregnant and afraid her water had broken.
+    The emergency room sent her home,'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章中提到Bi将自己视为一名为了保护通过代孕受孕的未出生儿童而挺身而出的“吹哨人”（whistleblower）。她公开这些信息旨在揭露行业内监管缺失以及代孕过程中可能出现的风险，故B项正确。
+    options:
+      A: To gain media attention and boost her professional profile as a venture capitalist.
+      B: To act as a whistleblower exposing the lack of regulation and safety in the
+        surrogacy industry.
+      C: To seek public sympathy following the legal and financial strain caused by
+        her son's stillbirth.
+      D: To challenge the court-ordered restraining order and clear her name from
+        legal accusations.
+    q_number: 1
+    stem: According to the passage, what is the primary reason Cindy Bi decides to
+      disclose details about her surrogacy experience?
+  - answer: C
+    explanation: 文中明确指出美国只有纽约州要求代孕机构拥有执照，且提到由于缺乏监管（dearth of regulation）和保密条款（confidentiality
+      clauses），许多问题在私下处理，故C项符合文意。
+    options:
+      A: It is heavily regulated by federal laws to ensure the safety of all parties
+        involved.
+      B: Surrogacy agencies across all states are required to be licensed by the government.
+      C: It is characterized by a significant lack of regulation and high levels of
+        secrecy.
+      D: It has become safer due to the increasing public awareness of maternal health
+        risks.
+    q_number: 2
+    stem: Which of the following describes the current state of surrogacy regulation
+      in the United States according to the text?
+  - answer: A
+    explanation: 文中解释“twiblings”是由不同女性孕育但出生时间仅相差几周或几个月的孩子，这反映了Bi夫妇为了组建家庭所制定的计划，故A项正确。
+    options:
+      A: The desire to have children born close in time through different gestational
+        carriers.
+      B: A scientific advancement that allows one surrogate to carry two genetically
+        different embryos.
+      C: The financial burden of hiring multiple surrogates simultaneously.
+      D: The psychological stress experienced by parents opting for non-traditional
+        family building.
+    q_number: 3
+    stem: The author mentions the term “twiblings” to illustrate which aspect of Bi's
+      surrogacy plan?
+  - answer: C
+    explanation: 文中明确提到了“stark power differential”（明显的权力差异），指出意向父母（IPs）通常有财力提起诉讼和开展长期运动，而代孕者（GCs）往往只能依靠免费法律援助，故C项正确。
+    options:
+      A: IPs and GCs maintain an equal footing through mutual respect and shared goals.
+      B: IPs usually rely on GCs to handle legal complexities due to their first-hand
+        experience.
+      C: There is a significant power disparity, with IPs holding more resources to
+        influence legal outcomes.
+      D: The power dynamic is balanced because both parties are bound by the same
+        confidentiality clauses.
+    q_number: 4
+    stem: What does the author suggest about the power dynamic between intended parents
+      (IPs) and gestational carriers (GCs)?
+  - answer: A
+    explanation: 文章提到很多科技从业者认为孕育婴儿是一种“straightforward business transaction”（直接的商业交易），且指出他们往往对监管的缺失感到毫无准备，暗示了这种将生育商品化的观点掩盖了现实中的严重风险，故A项正确。
+    options:
+      A: It is viewed by many as a simple business transaction, often ignoring the
+        human risks involved.
+      B: It is strictly monitored by tech companies to ensure the welfare of their
+        employees and surrogates.
+      C: It has led to a decrease in maternal mortality rates due to the financial
+        support provided.
+      D: It is primarily pursued by employees to avoid the career interruptions caused
+        by personal pregnancy.
+    q_number: 5
+    stem: What is the author's implication regarding the practice of surrogacy in
+      the tech industry context?
+  source_journal: Wired
+  title: Chapter 46
