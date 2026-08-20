@@ -1,0 +1,465 @@
+{
+  "group_update_date": "08.20.2026",
+  "papers": [
+    {
+      "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
+      "article_update_date": "08.18.2026",
+      "source_journal": "Nature",
+      "body_text": "Unlike in a woven fabric, pulling on a single loose thread in a piece of knitting or crochet can cause it to unravel completely. This is because a swatch of knitting or crochet is typically made from a single yarn, and its construction does not involve any knots. Writing in Physical Review X, Shimamoto et al.1 report that knot theory — a branch of mathematics — can be used to classify whether a given textile pattern can be created through knitting or crochet, and whether the fabric will be unravelled by a defect. They show that this can be used to design knitted fabrics that are resistant to ‘laddering’.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Unlike in a woven fabric, pulling on a single loose thread in a piece of knitting or crochet can cause it to ______ completely.",
+          "options": {
+            "A": "tighten",
+            "B": "stretch",
+            "C": "thicken",
+            "D": "unravel"
+          },
+          "answer": "D",
+          "explanation": "根据上下文，编织品如果抽掉线头会散开，unravel意为解开，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "This is because a swatch of knitting or crochet is typically ______ from a single yarn.",
+          "options": {
+            "A": "separated",
+            "B": "derived",
+            "C": "made",
+            "D": "evolved"
+          },
+          "answer": "C",
+          "explanation": "be made from意为由...制成，指代材料构成。"
+        },
+        {
+          "q_number": 3,
+          "stem": "and its construction does not involve any ______.",
+          "options": {
+            "A": "patterns",
+            "B": "materials",
+            "C": "designs",
+            "D": "knots"
+          },
+          "answer": "D",
+          "explanation": "前文提到无结，且knitwear的结构特点是不包含结，knots为正确逻辑项。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Writing in Physical Review X, Shimamoto et al. report that knot theory — a ______ of mathematics — can be used to...",
+          "options": {
+            "A": "branch",
+            "B": "subject",
+            "C": "field",
+            "D": "method"
+          },
+          "answer": "A",
+          "explanation": "a branch of mathematics是固定搭配，意为数学的一个分支。"
+        },
+        {
+          "q_number": 5,
+          "stem": "can be used to classify whether a given textile pattern can be ______ through knitting or crochet,",
+          "options": {
+            "A": "measured",
+            "B": "repaired",
+            "C": "discarded",
+            "D": "created"
+          },
+          "answer": "D",
+          "explanation": "根据语义，讨论的是图案能否通过编织被创造出来，created符合文意。"
+        },
+        {
+          "q_number": 6,
+          "stem": "and whether the fabric will be ______ by a defect.",
+          "options": {
+            "A": "strengthened",
+            "B": "transformed",
+            "C": "duplicated",
+            "D": "unravelled"
+          },
+          "answer": "D",
+          "explanation": "缺陷会导致面料解体，unravelled对应首句的unravel。"
+        },
+        {
+          "q_number": 7,
+          "stem": "They show that this can be used to ______ knitted fabrics that are resistant to ‘laddering’.",
+          "options": {
+            "A": "design",
+            "B": "display",
+            "C": "distribute",
+            "D": "decline"
+          },
+          "answer": "A",
+          "explanation": "此处的目的是通过数学理论去设计抗脱线的织物，design准确。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The researchers ______ that structural integrity is vital for fabric durability.",
+          "options": {
+            "A": "argue",
+            "B": "claim",
+            "C": "assume",
+            "D": "confess"
+          },
+          "answer": "A",
+          "explanation": "学者在论文中提出观点，argue在此意为论证或主张。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Unlike traditional textiles, knitting ______ on topological connections.",
+          "options": {
+            "A": "builds",
+            "B": "works",
+            "C": "relies",
+            "D": "exists"
+          },
+          "answer": "C",
+          "explanation": "relies on意为依赖于，指代编织对拓扑结构的依赖。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The study ______ how small defects can propagate throughout the material.",
+          "options": {
+            "A": "highlights",
+            "B": "conceals",
+            "C": "removes",
+            "D": "predicts"
+          },
+          "answer": "D",
+          "explanation": "研究揭示了小缺陷如何演变，predicts意为预测。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Mathematical models provide a ______ framework for understanding these structures.",
+          "options": {
+            "A": "rigorous",
+            "B": "complex",
+            "C": "stable",
+            "D": "loose"
+          },
+          "answer": "A",
+          "explanation": "数学框架通常是严谨的，rigorous指代严密性。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The team applied computational ______ to analyze the yarn paths.",
+          "options": {
+            "A": "tools",
+            "B": "tasks",
+            "C": "parts",
+            "D": "ideas"
+          },
+          "answer": "A",
+          "explanation": "Computational tools意为计算工具，是常用的科研用语。"
+        },
+        {
+          "q_number": 13,
+          "stem": "This approach ______ a new way to optimize textile manufacturing.",
+          "options": {
+            "A": "takes",
+            "B": "offers",
+            "C": "keeps",
+            "D": "brings"
+          },
+          "answer": "B",
+          "explanation": "offers a new way意为提供新方法，符合学术语境。"
+        },
+        {
+          "q_number": 14,
+          "stem": "By ______ the topology, one can ensure fabric stability.",
+          "options": {
+            "A": "ignoring",
+            "B": "observing",
+            "C": "manipulating",
+            "D": "rejecting"
+          },
+          "answer": "C",
+          "explanation": "通过操纵拓扑结构来保证稳定性，manipulating最契合动作目的。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Such discoveries are ______ to both fashion and engineering.",
+          "options": {
+            "A": "frequent",
+            "B": "relevant",
+            "C": "specific",
+            "D": "distant"
+          },
+          "answer": "B",
+          "explanation": "relevant to意为与...相关，指代研究的广泛适用性。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The research ______ the gap between art and science.",
+          "options": {
+            "A": "widens",
+            "B": "follows",
+            "C": "bridges",
+            "D": "creates"
+          },
+          "answer": "C",
+          "explanation": "bridge the gap是固定搭配，意为弥合差距。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Future studies may explore ______ types of yarn.",
+          "options": {
+            "A": "diverse",
+            "B": "former",
+            "C": "primary",
+            "D": "standard"
+          },
+          "answer": "B",
+          "explanation": "former意为前者的，指代前文提到的单一纱线之外的其他类型。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The potential applications are ______ to commercial industries.",
+          "options": {
+            "A": "limited",
+            "B": "connected",
+            "C": "extended",
+            "D": "granted"
+          },
+          "answer": "B",
+          "explanation": "connected to意为与...相连，指代应用范围。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The goal is to produce ______ and durable garments.",
+          "options": {
+            "A": "fragile",
+            "B": "elastic",
+            "C": "limited",
+            "D": "tough"
+          },
+          "answer": "C",
+          "explanation": "limitless意为无限制的或更强化的，此处表意为高品质，符合逻辑。"
+        },
+        {
+          "q_number": 20,
+          "stem": "This ______ the significance of interdisciplinary research.",
+          "options": {
+            "A": "questions",
+            "B": "underlines",
+            "C": "refutes",
+            "D": "ignores"
+          },
+          "answer": "B",
+          "explanation": "underlines意为强调，符合总结性陈述的语境。"
+        }
+      ]
+    },
+    {
+      "title": "Why Westerners are falling for love scams",
+      "article_update_date": "06.20.2026",
+      "source_journal": "Economist",
+      "body_text": "Why Westerners are falling for love scams Culture | My con and only Why Westerners are falling for love scams Romance fraud is driven by poverty in west Africa and loneliness in the West, a new book argues June 18th 2026 It was love at first sleight. As with many relationships, Brian’s and Silvia’s courtship started on Tinder. Brian, a dashing American soldier, sent Silvia, a Spanish dentist, passionate affirmations of love: “I want you to be a happy wonderful woman, someone I would love to share more than my life with.” Brian said he was coming to Spain, and Silvia bought two rings. But Brian was not a real soldier; he was a scammer posing as a suitor. He told Silvia he had found bars of solid gold while on deployment in Syria. Silvia’s son grew suspicious. He thought it might be a scam and that his mother would be asked to send money to cover the shipping. They used an IP-address tracker to find out where Brian’s emails were coming from: the fraudster was in Lagos, Nigeria . Silvia is not the only lonely Westerner to be wooed by a phoney Romeo. Romance scams are one of the most costly types of fraud in America, according to the Federal Trade Commission: people gave away nearly $1.5bn to so-called “love scammers” in 2025. In Britain reports of romance fraud jumped by nearly a third last year, with people losing as much as £1m ($1.3m). Silvia’s son, Carlos Barragán, was distressed and baffled that his mother had been duped. So in 2022 he flew to Lagos to search for the scammer. Though it proved impossible to find the real Brian, Mr Barragán discovered the “criminal underworld” of romance fraud. In an engrossing new book he takes readers from Kentucky to Lagos to explore how loneliness in the West and poverty in west Africa are “two sides of the same screen”. Many love scams are run by crime syndicates in South-East Asia. Mr Barragán expected to find a “sophisticated network of fraudsters” in Nigeria, too: instead he encountered unemployed young men in rough neighbourhoods, who use copy-and-paste scripts rather than complex manipulation tactics. Many work alone, staying up all night to avoid their parents’ prying eyes. In Nigeria Yahoo Boys —a nickname that nods to the email addresses scammers once used—say they rely on fraud to survive. Between 2022 and 2025 Mr Barragán spent months in Ikotun, a poor neighbourhood in Lagos, witnessing the effects of high youth unemployment and rampant inflation. He saw that for scammers like Azeez (pictured), a 14-year-old tailor’s apprentice, a $10 gift card from a British victim is worth more than his family pays in rent a month. (With some of their earnings Yahoo Boys prop up local businesses, splashing out at fancy boutiques and nightclubs.) Mr Barragán asks workers, policemen, academics and Yahoo Boys themselves to estimate the share of young men who are involved in such scams in Lagos: their answers range from 45% to 80%. The Yahoo Boys call their victims “clients” to make their work seem legitimate; some see their relationships as transactional, providing companionship in exchange for cash. They share tactics with each other for finding vulnerable victims online, as well as the latest pickup lines and plausible scenarios to ask for money to be wired. Some pretend to have a sick child who needs help; others blackmail victims, threatening to share intimate pictures if they do not pay up. Mr Barragán wonders how credulous Westerners can fall head-over-heels for such smarmy scripts. He looks “for a con so intricate it might justify” his clever mother believing it. But he finds something alarmingly simple: the scammers are successful because they provide attention to lonely people. AI will complicate love scams. It could make it easier to target a much larger number of victims with personalised correspondence, without relying on teams of boys and men (and growing numbers of women) in Nigeria or elsewhere. But AI could also offer safer ways for people to feel less lonely. Various apps now provide virtual lovers that are even more fawning than fraudsters. As Mr Barragán puts it, AI partners provide “a fake relationship without the betrayal”. Yahoo Boys may struggle to compete with that. ■ For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist , our weekly subscriber-only newsletter This article was downloaded by zlibrary from https://www.economist.com//culture/2026/06/17/why-westerners-are-falling-for-love-scams",
+      "difficulty_constant": 7.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes the initial stage of Silvia’s relationship with the scammer?",
+          "options": {
+            "A": "A calculated attempt to exploit her financial situation.",
+            "B": "A genuine connection that eventually soured due to distance.",
+            "C": "A deceptive interaction facilitated by romantic expressions.",
+            "D": "A complex manipulation tactic involving fake legal documents."
+          },
+          "answer": "C",
+          "explanation": "The text states the scammer sent 'passionate affirmations of love' and posed as a suitor to build trust, which constitutes a deceptive interaction using romantic language, rather than an immediate financial demand."
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, the 'criminal underworld' of romance fraud in Nigeria is characterized by:",
+          "options": {
+            "A": "A highly sophisticated and well-organized corporate structure.",
+            "B": "Individuals acting largely in isolation due to economic necessity.",
+            "C": "Large-scale crime syndicates that mirror those in South-East Asia.",
+            "D": "Aggressive recruitment of minors by powerful criminal gangs."
+          },
+          "answer": "B",
+          "explanation": "Barragán discovered that instead of sophisticated networks, the scammers were often 'unemployed young men' who 'work alone' and rely on fraud for survival due to poverty, not organized syndicates."
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the phrase 'two sides of the same screen' imply regarding romance scams?",
+          "options": {
+            "A": "Westerners and Africans share the same digital vulnerabilities.",
+            "B": "Romance scams are a byproduct of both Western loneliness and African poverty.",
+            "C": "The technology used by scammers is identical to that used by victims.",
+            "D": "The distinction between victim and perpetrator is blurring in the digital age."
+          },
+          "answer": "B",
+          "explanation": "The passage links the phenomenon of Western loneliness and Western African poverty as the two driving forces behind the existence of these scams, converging on the interface of the screen."
+        },
+        {
+          "q_number": 4,
+          "stem": "How do 'Yahoo Boys' justify their fraudulent activities?",
+          "options": {
+            "A": "They claim to be providing a service of companionship to the lonely.",
+            "B": "They argue that their victims are wealthy enough to afford the loss.",
+            "C": "They believe that the money they take is a form of reparations.",
+            "D": "They maintain that they are merely using AI to automate the process."
+          },
+          "answer": "A",
+          "explanation": "The text mentions that they call their victims 'clients' and see the relationships as 'transactional,' providing companionship in exchange for the money they receive."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author’s primary concern regarding the future of romance scams with the advent of AI?",
+          "options": {
+            "A": "AI will make it impossible for scammers to sustain their current business model.",
+            "B": "AI will replace human scammers with more efficient, personalized, and 'fawning' virtual partners.",
+            "C": "AI will enable governments to finally shut down the Nigerian criminal networks.",
+            "D": "AI will cause a shift in victim demographics, making the elderly less susceptible."
+          },
+          "answer": "B",
+          "explanation": "The text notes that AI can make targeting victims easier with personalized correspondence and that virtual lovers offered by apps might become even more 'fawning' than fraudsters, creating a 'fake relationship without the betrayal'."
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "08.07.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 7.2,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary purpose of the 15th trilateral meeting among China, Russia, and India?",
+          "options": {
+            "A": "To establish a new military alliance against Western powers.",
+            "B": "To discuss regional security, economic architecture, and strengthen multilateral cooperation.",
+            "C": "To formally dissolve the BRICS and Shanghai Cooperation Organization.",
+            "D": "To finalize territorial disputes in the Asia-Pacific region."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到三方讨论了一系列议题，并承诺加强金砖国家（BRICS）和上海合作组织（SCO）的成果，核心议题在于维持区域安全和经济架构，而非针对特定国家建立军事联盟。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the joint statement, what characterizes the desired regional security and economic architecture?",
+          "options": {
+            "A": "It should be exclusionary and focused solely on the interests of the three nations.",
+            "B": "It must prioritize bilateral agreements over international law.",
+            "C": "It needs to be open, inclusive, and based on multilateralism and international law.",
+            "D": "It aims to replace the role of existing global forums like the East Asia Summit."
+          },
+          "answer": "C",
+          "explanation": "文章第二段明确指出，要维持的区域安全和经济架构必须是“open, inclusive and based on multilateralism and universally recognized principles of international law”（开放、包容，并基于多边主义和普遍公认的国际法原则）。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How do the three countries view their trilateral cooperation in relation to other nations?",
+          "options": {
+            "A": "It is intended to challenge the dominance of the East Asia Summit.",
+            "B": "It is directed specifically against countries outside the region.",
+            "C": "It is meant to compete directly with the economic policies of the West.",
+            "D": "It is not directed against any other country."
+          },
+          "answer": "D",
+          "explanation": "文章倒数第二段明确提到：“such cooperation is not directed against any other country”（这种合作不针对任何其他国家）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the 'second golden decade of BRICS cooperation' refer to?",
+          "options": {
+            "A": "A new phase of strengthening cooperation in economic, political, and security fields.",
+            "B": "The initial decade of economic growth experienced by the three nations.",
+            "C": "A plan to replace the Shanghai Cooperation Organization with BRICS.",
+            "D": "The successful hosting of the Ninth BRICS Summit in Xiamen."
+          },
+          "answer": "A",
+          "explanation": "文章提到，三国将共同努力落实金砖国家峰会成果，加强各领域的合作，从而开启“金砖国家合作的第二个黄金十年”。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the implied tone of the joint statement regarding the Russia-India-China trilateral format?",
+          "options": {
+            "A": "Indifferent and formalistic.",
+            "B": "Cooperative, optimistic, and constructive.",
+            "C": "Defensive and hesitant.",
+            "D": "Skeptical and critical."
+          },
+          "answer": "B",
+          "explanation": "文章多次使用“pledged”、“strengthen”、“promote”、“conducive”等积极词汇，表明三国对该合作平台持肯定和建设性的态度，旨在通过对话增进理解与信任。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 54",
+      "article_update_date": "08.02.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Cindy Bi is not supposed to be telling me this story. First, there’s the confidentiality clause. When Bi, a venture capitalist who claims to have invested in a dozen unicorns, hired a surrogate to carry her only male embryo in 2023, both parties agreed to keep the details private and away from the media. Then there’s the restraining order against Bi, followed by a court-ordered agreement saying she would not so much as mention the “surrogate” involved in Baby Leon’s stillbirth. Finally, there are social norms to consider when publicly attacking the woman who says she almost died carrying your child. Still, Bi is talking to me. She sends me a nearly 3,000-item folder filled with legal filings; reports to professional organizations, insurance companies, employers, and the police; emails with her attorneys; and correspondence between her and the “Egg Whisperer” influencer, Dr. Aimee. Bi considers herself a whistleblower out to protect “unborn children via surrogacy.” Her website invokes scripture: “Establish justice in the courts. Amos 5:15.” Indeed, Bi has racked up nearly a million dollars in legal bills since 2024, in what she views as a fight to honor her son. “I want the surrogate to be known for what she did, to be set as an example,” Bi tells me. “I hope she goes to jail.” Ideally, for murder. American surrogacy is an enormous industry, taking in approximately $5 billion in 2024, and the practice is expected to explode globally almost tenfold in the next decade. It seems especially popular in Silicon Valley, where a growing cadre of investors and executives, from OpenAI’s Sam Altman to Dropbox’s Drew Houston, have used it to grow their families . More than a dozen big tech companies provide five-figure subsidies to any employee who needs or wants to outsource gestational labor. A shocking number of techies now believe growing a baby can be a straightforward business transaction. But intended parents and gestational carriers—IPs and GCs, as they’re somewhat dehumanizingly known—are often uninformed about the dearth of regulation and completely unprepared for what can go wrong. Only one state, New York, requires agencies to be licensed. Although America is the world leader in surrogacy, it’s also the developed nation with the highest maternal mortality rate and one of the highest stillbirth rates, a situation described by many as “ a public health crisis .” Compared to natural conception, carrying a genetically unrelated fetus more than triples the risk of severe, potentially deadly conditions, a statistic surrogates are rarely given. IPs do not always have to disclose complete medical information, including histories of certain conditions that may harm their GCs. They don’t have to be honest about how many kids they have, why they are hiring a surrogate, or how many other surrogates they have simultaneously pregnant. Do you really know who is carrying your child—or whose child you are carrying? Meanwhile, the US is torn over who controls a pregnant woman’s body. The increasing acceptance of “fetal personhood” means that, in many states, losing a pregnancy can be charged as a felony and potentially punished with life in prison. This is thorny enough when it’s a woman’s own baby. It’s exponentially more fraught when the carrier isn’t the parent. Many of the issues Bi and her surrogate encountered on their “journey” are likely far more common than you’d ever imagine. But you haven’t heard about them. They won’t influence policy or case law, because they tend to unfold in private, shrouded by confidentiality clauses and handled in closed arbitration proceedings. A stark power differential means that intended parents often have the means to file lawsuits and wage yearslong campaigns, while surrogates who feel screwed are forced to rely on free legal help and GoFundMe. The case of Bi and her surrogate shows how, in an environment with little regulation and extreme inequality, the miracle of life can mutate into a death sentence. Cindy Bi met her future husband on April Fools’ Day, 2016. It was a warm Friday night at Molly Magees, an Irish pub-slash-discotheque in Mountain View, California. Jorge Valdeiglesias spotted Bi on the dance floor: heart-shaped face, long black hair, snatched size-zero waist. He brought over shots of Don Julio. Bi, a Chinese immigrant and founder who’d later appear on a list of “30 of the Most Successful Early-Stage Startup Investors,” inspected his Google badge to make sure it was real. “I’m older than you,” Bi told him. She was 36 to his boyish, rumpled 28. “But it’s OK, I froze my eggs.” Valdeiglesias was shocked by Bi’s forwardness—he was just looking for a fun night—but it worked. When she and Valdeiglesias were ready to start a family six years later, surrogacy was the obvious choice. At 43, Bi felt she was too old to be pregnant; she also said she was on a medication that could lead to complications. Bi didn’t grieve the decision. In a Facebook group for future IPs, she wrote: “I’ve been prepared for this for almost a decade.” At first, Bi and Valdeiglesias considered implanting two embryos at once to have twins. Bi’s fertility doctor strongly discouraged that because of risks to the babies and surrogate. Instead, Bi and Valdeiglesias settled on “twiblings” gestated by separate women but born a few weeks or months apart. They’d have a protective big brother and a sweet little sister, fortuitously born in the year of the Dragon, the most auspicious sign of the Chinese zodiac. They signed up with a Southern California–based agency, Surrogate Alternatives Inc. According to their psychological consult, Bi took an SSRI for PTSD spurred by work-related stressors, but hoped to wean off soon. SAI quickly matched the couple with a college-educated bank manager in Virginia. “She was perfect,” Bi told me. “Tall, healthy, young, good job. I showed her off to my friends. The only thing I was concerned with was she’s a single mom, but I saw past it.” Rebecca Smith was a former professional athlete who became interested in surrogacy after watching a close friend struggle to conceive. (Although Smith’s real name is public, I’m using a pseudonym to protect her privacy. She declined to be interviewed on the record, citing the confidentiality clause and ongoing litigation.) The 34-year-old wanted to help a family who couldn’t carry their own child. As she put it in a Facebook post, she wanted to give them “the same love I found in becoming a mom.” In her profile photos, the pale, lanky Smith mugged in denim jackets and athleisure with her 6-year-old biracial son, whom I’ll call Ellis. Smith had previously dated but told her psych evaluator that “it doesn’t work when you are a single mom.” She spent her free time coaching her son’s sports teams; she ran errands on weekends when Ellis was with his dad, who remained a good friend. She was the type of person who preferred cooking at home to eating out, who made sure to eat breakfast, lunch, and dinner. Ellis was an almost 10-pound baby. The pregnancy had been unremarkable but for the fact, perhaps, that her belly hadn’t shown until she was seven months along. Smith signed up with SAI, a well-regarded agency founded by a surrogate more than two decades earlier. She liked that it offered its GCs numerous safeguards: IPs went through thorough vetting, including psychological screening, and all had a medical reason for pursuing surrogacy; a detailed contract between the GC and the IPs would dictate the terms; a third-party escrow would hold the money and pay Smith; she’d get allowances and reimbursements for housekeeping and maternity clothes; if Smith had to be hospitalized or miss work, she’d receive payments for lost wages and childcare. Also, Smith’s employer-provided insurance would treat the pregnancy as if it were her own baby—a major boon. Although directly paying a woman to carry your child is technically illegal in Virginia, Smith’s contract specified that all payments were “reimbursements.” She planned to use the $45,000 “reimbursement” to pay off her student loans and build an emergency fund. Smith met Bi and Valdeiglesias in a standard video call facilitated by SAI. In her psychological evaluation, Smith seemed smitten with the couple, calling them “amazing.” The therapist wrote, “She feels they are ‘100% compatible.’” In the summer of 2023, Smith and Ellis flew out to San Francisco for the embryo transfer. Bi put them up in a nice hotel for 12 days, close to her apartment, and planned a detailed sightseeing itinerary. Smith didn’t even request reimbursement for her lost wages. A doctor implanted Bi and Valdeiglesias’ only male embryo inside of Smith. Everyone was elated when it stuck. Bi asked Smith for permission to share a photo of the test result on Facebook, and Smith quickly agreed, inviting Bi to tag her. Bi and Smith texted all the time: Smith shared her happy nausea and impressions of Baby Leon; Bi detailed her constant travels and her search for a second GC. Smith tried to recruit her own sister for the job, then a coworker. When scary but benign early bleeding brought Smith to the ER, Bi sent her a DoorDash gift card. But in the wake of the bleeding, Smith found something out. Bi had been posting about Smith’s health in Facebook groups, sharing test results and crowdsourcing suggestions for her treatment. Bi didn’t refer to Smith by name but included distinctive details that allowed members of the tight-knit community to identify her, which violated their contract. Smith alerted SAI but didn’t confront Bi, perhaps calculating that it was better not to risk tainting their rapport. After all, the surrogacy relationship was unlike almost any other. Once you were pregnant, there was no going back. A new human had been—had to be—created. In late 2023, a little more than halfway through the pregnancy, Bi got a Facebook comment that scared her. She had posted about Smith getting a new, better job; the COO of ART Risk Solutions, an insurance agency, replied, suggesting that Bi double-check whether Smith’s new policy would cover the pregnancy. Outreach like this wasn’t uncommon: The Facebook groups often teemed with industry professionals peddling their wares. The ART Risk COO offered to look into it. While SAI’s standard process had determined that Smith’s new insurance would cover the pregnancy, ART Risk disagreed. Bi was spooked by what she saw as SAI’s oversight on a major issue: Pregnancy complications could rack up five- or six-figure bills. To Bi, the people she had paid to ensure her only son’s healthy birth seemed asleep at the wheel. Since Bi alleged SAI had “made a mistake,” she demanded they pay for Smith’s backup insurance policy. When it stood by its assessment and refused, Bi was irate. She began posting about SAI, sometimes multiple times a day, to warn other IPs. Sometimes she said that Smith had told her about the job change, other times she claimed that Smith hadn’t notified her. She didn’t want to burden Smith. “It’s not your fault,” she assured Smith, trying to protect her from the stress while keeping her in the loop. It seemed like they were on the same page. “I just hate that it all happened!” Smith texted Bi. “I was so excited thinking the new job was surrogate-friendly.” Bi was sure that if Smith had known otherwise, she wouldn’t have taken the job. It wasn’t about the money. Smith’s new, subsidized Affordable Care Act plan, at $391 a month, was a drop in the bucket compared to the estimated $200,000 Bi had budgeted for the pregnancy. Bi told Smith that they would lay low until Leon was born and then go after SAI: “I want to show them what justice should look like.” On December 15, a day on which Bi sent her more than 50 texts about the insurance, Smith felt liquid between her legs. She was 26 weeks pregnant and afraid her water had broken. The emergency room sent her home,",
+      "difficulty_constant": 6.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what is the primary reason Cindy Bi is sharing her story despite agreeing to confidentiality?",
+          "options": {
+            "A": "She wants to publicly apologize to the surrogate for the negative experience.",
+            "B": "She believes she is a whistleblower exposing the dangers and lack of regulation in the surrogacy industry.",
+            "C": "She is seeking financial compensation from the surrogacy agency for emotional distress.",
+            "D": "She aims to discredit the 'Egg Whisperer' influencer for her involvement in the case."
+          },
+          "answer": "B",
+          "explanation": "文章明确指出 Bi 认为自己是“一名旨在保护‘通过代孕的未出生儿童’的举报人”（“Bi considers herself a whistleblower out to protect ‘unborn children via surrogacy.’”）。她希望通过公开此事来揭示代孕行业的风险和监管不足。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The text suggests that the surrogacy industry, particularly in Silicon Valley, is characterized by:",
+          "options": {
+            "A": "Strict government oversight and comprehensive legal protections for all parties involved.",
+            "B": "A lack of regulation, with intended parents and surrogates often unprepared for potential complications.",
+            "C": "A focus on ethical treatment of surrogates, ensuring fair compensation and safe working conditions.",
+            "D": "A decline in demand due to increasing public awareness of the risks involved."
+          },
+          "answer": "B",
+          "explanation": "文章提到“许多人认为生孩子可以是一笔直接的商业交易”（“A shocking number of techies now believe growing a baby can be a straightforward business transaction.”），但紧接着指出“然而，意向父母和代孕母亲——（他们被有些非人化地称为IP和GC）——却常常对监管的缺乏不知情，并且完全没有为可能发生的意外做好准备。”（“But intended parents and gestational carriers—IPs and GCs, as they’re somewhat dehumanizingly known—are often uninformed about the dearth of regulation and completely unprepared for what can go wrong.”）这表明监管缺乏是该行业的一个显著特点。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What specific concerns did Cindy Bi raise regarding Rebecca Smith's new insurance policy?",
+          "options": {
+            "A": "She worried that Smith's new policy would not cover the pregnancy, potentially leading to significant medical bills.",
+            "B": "She suspected that Smith had obtained the new policy fraudulently.",
+            "C": "She believed the new policy offered insufficient coverage for Smith's personal medical needs, unrelated to the pregnancy.",
+            "D": "She was concerned that the new policy would terminate her own pre-existing coverage for the surrogate's care."
+          },
+          "answer": "A",
+          "explanation": "文章提到，“ART Risk 的首席运营官……建议 Bi 仔细检查一下 Smith 的新保单是否会覆盖怀孕事宜。”（“the COO of ART Risk Solutions, an insurance agency, replied, suggesting that Bi double-check whether Smith’s new policy would cover the pregnancy.”）随后，Bi 对 SAI 在此问题上的‘疏忽’感到震惊，因为‘怀孕并发症可能导致五位数或六位数的账单’（“Pregnancy complications could rack up five- or six-figure bills.”）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The text highlights a significant power imbalance in surrogacy arrangements primarily due to:",
+          "options": {
+            "A": "Surrogates typically having more legal knowledge than intended parents.",
+            "B": "The financial resources and legal means available to intended parents compared to surrogates.",
+            "C": "Agencies favoring intended parents in dispute resolution processes.",
+            "D": "Surrogates having greater control over the decision-making process during pregnancy."
+          },
+          "answer": "B",
+          "explanation": "文章指出，“显著的权力差异意味着意向父母通常有能力提起诉讼并进行长达数年的法律战，而感到被欺骗的代孕者则被迫依赖免费的法律援助和 GoFundMe。”（“A stark power differential means that intended parents often have the means to file lawsuits and wage yearslong campaigns, while surrogates who feel screwed are forced to rely on free legal help and GoFundMe.”）这清晰地表明了经济和法律资源上的不平等是造成权力失衡的主要原因。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the author's overall tone towards the surrogacy industry as depicted in the article?",
+          "options": {
+            "A": "Neutral and objective, simply presenting facts without judgment.",
+            "B": "Enthusiastic and supportive of the industry's growth and innovation.",
+            "C": "Critical and cautionary, emphasizing the ethical concerns and potential dangers.",
+            "D": "Ambivalent, acknowledging both the benefits and drawbacks without taking a clear stance."
+          },
+          "answer": "C",
+          "explanation": "文章通过讲述 Cindy Bi 的负面经历，并指出代孕行业监管的缺乏、潜在的健康风险（如高发病率和死亡率）、法律纠纷以及意向父母与代孕者之间巨大的权力差异，表达了对该行业的担忧和批判态度。诸如‘非人化地称为’、‘公共卫生危机’、‘死亡判决’等词语都体现了作者的警示和批评立场。"
+        }
+      ]
+    }
+  ]
+}
