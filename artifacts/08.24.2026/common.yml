@@ -1,0 +1,733 @@
+group_update_date: 08.24.2026
+papers:
+- article_update_date: 06.29.2026
+  body_text: 'Why big AI labs are hiring so many philosophers Science & technology
+    | Computo, ergo sum Why big AI labs are hiring so many philosophers The technology
+    presents all sorts of thorny problems—a philosopher’s favourite kind June 25th
+    2026 TEN YEARS ago, as the AI revolution was gathering pace, arts and humanities
+    students were told that, if they wanted to make themselves employable, they should
+    “learn to code”. That may have been bad advice. These days, it is programmers
+    who are nervous about AI taking their jobs. They might consider learning to philosophise.
+    Earlier this year the Federal Reserve Bank of New York published figures showing
+    that American philosophy graduates are more likely to have jobs than their peers
+    who studied computer science. In 2024, the most recent year for which numbers
+    are available, 7% of those who had studied computer science were unemployed, against
+    just 5.1% of philosophers. Many are being snapped up by AI firms themselves. Students
+    get job offers before they have graduated, says Luciano Floridi, a philosopher
+    at Yale University. Academics are moving, too. Dr Floridi describes the scale
+    of departures from philosophy departments as a “haemorrhaging”. Some of the lessons
+    that philosophy can offer AI researchers are ancient. The Socratic method—as described
+    by Plato, an ancient Greek philosopher—uses feigned ignorance and sequential questioning
+    to clarify meanings, spot contradictions and reveal ramifications. Many current
+    AI systems tend towards sycophancy. Models trained in the Socratic method, says
+    Jörg Noller, an expert on philosophy and AI at Ludwig Maximilian University of
+    Munich, are less keen on people-pleasing and more willing to pursue the truth.
+    Then there is the idea of “Socratic ignorance”. In the “Apology”, Plato has Socrates
+    claim that his wisdom consists mostly of being aware of how much he does not know.
+    Implanting that humility into a model can help limit overconfidence, a common
+    flaw that Dr Noller describes as “AI immaturity”. Iason Gabriel, a senior philosopher
+    at Google DeepMind, an AI lab based in London, attributes an industry-wide decline
+    in hallucinations to such efforts. More broadly, he says, philosophy lessons are
+    “a powerful mechanism” for improving long AI reasoning processes known as “chains
+    of thought”. Philosophical training can also affect a model’s outlook in more
+    specific ways. Feed an AI legal assistant the writings of John Locke , says Thomas
+    Powers, a philosopher of technology at the University of Delaware, and it will
+    favour robust property rights as an underpinning of political liberty. And if
+    you don’t like those principles, the model-makers have others. The “Granite” series
+    of models from IBM, an American computing giant, come with dials that let business
+    customers better align outputs with their own corporate philosophies. Francesca
+    Rossi, IBM’s head of responsible AI, says these can let users choose where to
+    strike the balance between philosophical trade-offs, such individual agency versus
+    social harmony. Philosophy can help with safety, too. Researchers have documented
+    all sorts of ominous behaviour in AI models, including attempts to evade oversight
+    and even blackmail their users. One way model-makers try to discourage this sort
+    of misbehaviour is called AI constitutionalism. This involves building a model
+    around a scaffolding of rules and principles culled from philosophical writings
+    with legal or moral authority. Anthropic, an AI lab based in San Francisco, is
+    one proponent. Constitutions for its Claude models have incorporated material
+    from sources as diverse as Immanuel Kant, Apple’s terms of service and the Universal
+    Declaration of Human Rights. The latest iteration, led by Anthropic’s top philosopher,
+    Amanda Askell, was published on January 21st. Some staff at Anthropic have nicknamed
+    the 78-page constitution Claude’s “soul doc”. The biggest question, though, is
+    what sorts of rules should be put in those constitutions in the first place. Philosophers
+    have zeroed in on two main ethical frameworks. One is deontology. Popular with
+    Kant, among others, this imposes strict rules that prohibit things like lying,
+    coercion and treating people as a means rather than an end, even if it is for
+    a greater good. Anthropic’s constitution incorporates many deontological strictures.
+    These can make AI behaviour more consistent, says Dr Powers—a plus for deploying
+    robots in homes and public spaces. Models with a deontological take on the world
+    have other benefits. One is greater honesty, a trait widely noted in Claude. Models
+    that are more truthful, says Nick Bostrom, a philosopher at the University of
+    Oxford, are less likely to mislead their users. Inflection AI, another Silicon
+    Valley lab, imposes deontological constraints onto its Pi chatbot, which is designed
+    to provide emotional support. Sean White, its boss, says Pi is good at spotting
+    users at risk of harming themselves or others. Deontological constitutions also
+    help with legal compliance, says Dr Floridi. The other approach to ethics of interest
+    to philosophers of AI is called consequentialism. It weighs costs against benefits
+    to decide what to do. Models more sympathetic to consequentialism include OpenAI’s
+    ChatGPT and Google’s Gemini. Google’s AI models are designed to produce “likely
+    overall benefits [that] substantially outweigh the foreseeable risks”, a classic
+    consequentialist goal. Consequentialist algorithms are also crucial in software
+    for autonomous vehicles: if an accident is unavoidable, a decision must be made
+    on the least tragic way to crash. Chris Gerdes, a senior engineer at Waymo, which
+    makes self-driving cars, says the trend is to make driving software more consequentialist.
+    Consequentialism is also central to AI weapon systems . Military objectives must
+    be weighed against possible civilian deaths, says Jack Shanahan, a former head
+    of the Joint Artificial Intelligence Centre, which studies AI for America’s armed
+    forces. Thorny problems abound—a philosopher’s favourite sort. Are there cases
+    when deontological rules should be overridden? How do you make decisions when
+    the consequences are unclear? Should AI systems take into account animal welfare,
+    or the state of the environment? Would it be morally acceptable, asks Stefan Heck,
+    a philosopher and the boss of Nauto, which makes AI-powered safety systems for
+    lorries and other commercial vehicles, to prioritise young pedestrians over old
+    ones? He predicts ethically fraught lawsuits: consequentialist algorithms, after
+    all, explicitly permit one harm as long as it is designed to avert a worse one.
+    Critics fret about “moral deskilling”: if computers increasingly make ethical
+    calls, might people become less willing to make their own judgments? Roman Yampolskiy,
+    an AI theoretician at the University of Louisville, argues that morality “is historically
+    unstable, culturally variable, strategically manipulable, and often only retrospectively
+    legible”. Unemployed coders take note: there seems to be no shortage of work for
+    philosophers of AI. ■ Curious about the world? To enjoy our mind-expanding science
+    coverage, sign up to Simply Science , our weekly subscriber-only newsletter. This
+    article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: gather momentum意为蓄势待发，符合语境。
+    options:
+      A: stagnation
+      B: friction
+      C: consensus
+      D: momentum
+    q_number: 1
+    stem: Ten years ago, as the AI revolution was gathering ____, arts and humanities
+      students were told to learn to code.
+  - answer: D
+    explanation: usurping意为篡夺、夺取，符合人工智能取代程序员工作的语境。
+    options:
+      A: creating
+      B: upholding
+      C: entrusting
+      D: usurping
+    q_number: 2
+    stem: These days, it is programmers who are nervous about AI ____ their jobs.
+  - answer: B
+    explanation: snap up意为抢购、抢先雇用，符合人才招聘火爆的背景。
+    options:
+      A: given
+      B: snapped
+      C: kept
+      D: locked
+    q_number: 3
+    stem: Many are being ____ up by AI firms themselves.
+  - answer: C
+    explanation: haemorrhaging比喻人才的大量流失，与句中语境一致。
+    options:
+      A: cohesion
+      B: blossoming
+      C: haemorrhaging
+      D: stabilization
+    q_number: 4
+    stem: Dr Floridi describes the scale of departures from philosophy departments
+      as a “____”.
+  - answer: A
+    explanation: 文章提到苏格拉底方法，故使用ancient（古老的）最为贴切。
+    options:
+      A: ancient
+      B: unprecedented
+      C: negligible
+      D: superficial
+    q_number: 5
+    stem: Some of the lessons that philosophy can offer AI researchers are ____.
+  - answer: A
+    explanation: 苏格拉底方法旨在澄清意义（clarify meanings）。
+    options:
+      A: clarify
+      B: distort
+      C: obscure
+      D: contradict
+    q_number: 6
+    stem: The Socratic method uses feigned ignorance and sequential questioning to
+      ____ meanings.
+  - answer: C
+    explanation: 根据上下文，模型倾向于讨好用户，故为sycophancy（阿谀奉承）。
+    options:
+      A: integrity
+      B: autonomy
+      C: sycophancy
+      D: objectivity
+    q_number: 7
+    stem: Many current AI systems tend towards ____.
+  - answer: D
+    explanation: willing to pursue the truth与前面的less keen on people-pleasing形成对比。
+    options:
+      A: reluctant
+      B: hesitant
+      C: averse
+      D: willing
+    q_number: 8
+    stem: Models trained in the Socratic method are less keen on people-pleasing and
+      more ____ to pursue the truth.
+  - answer: B
+    explanation: 过度自信（overconfidence）是AI不成熟的表现，与humility相对。
+    options:
+      A: versatility
+      B: overconfidence
+      C: accessibility
+      D: inconsistency
+    q_number: 9
+    stem: Implanting that humility into a model can help limit ____, a common flaw
+      known as “AI immaturity”.
+  - answer: C
+    explanation: 指代前文提到的植入谦逊和哲学干预的努力（efforts）。
+    options:
+      A: indifference
+      B: negligence
+      C: efforts
+      D: resistance
+    q_number: 10
+    stem: Iason Gabriel attributes an industry-wide decline in hallucinations to such
+      ____.
+  - answer: A
+    explanation: 原文专有名词“chains of thought”。
+    options:
+      A: thought
+      B: logic
+      C: doubt
+      D: error
+    q_number: 11
+    stem: Philosophy lessons are a powerful mechanism for improving long AI reasoning
+      processes known as “chains of ____”.
+  - answer: A
+    explanation: 基于洛克的思想，模型会倾向于（favour）财产权。
+    options:
+      A: favour
+      B: abandon
+      C: degrade
+      D: neglect
+    q_number: 12
+    stem: Feed an AI legal assistant the writings of John Locke, and it will ____
+      robust property rights.
+  - answer: C
+    explanation: align...with意为使...与...一致。
+    options:
+      A: compete
+      B: disconnect
+      C: align
+      D: clash
+    q_number: 13
+    stem: IBM's models come with dials that let business customers better ____ outputs
+      with their own corporate philosophies.
+  - answer: D
+    explanation: 根据上下文，AI的行为包括规避监管和勒索，故为ominous（不祥的）。
+    options:
+      A: benevolent
+      B: virtuous
+      C: praiseworthy
+      D: ominous
+    q_number: 14
+    stem: Researchers have documented all sorts of ____ behaviour in AI models.
+  - answer: A
+    explanation: scaffolding意为框架，符合构建AI规则体系的隐喻。
+    options:
+      A: scaffolding
+      B: hindrance
+      C: detachment
+      D: superstition
+    q_number: 15
+    stem: This involves building a model around a ____ of rules and principles.
+  - answer: B
+    explanation: 义务论通常禁止欺骗和胁迫，故为prohibit。
+    options:
+      A: advocate
+      B: prohibit
+      C: encourage
+      D: facilitate
+    q_number: 16
+    stem: One is deontology. Popular with Kant, it imposes strict rules that ____
+      things like lying and coercion.
+  - answer: B
+    explanation: 部署（deploying）机器人，符合技术应用背景。
+    options:
+      A: dismantling
+      B: deploying
+      C: abandoning
+      D: prohibiting
+    q_number: 17
+    stem: These can make AI behaviour more consistent, a plus for ____ robots in homes.
+  - answer: D
+    explanation: 文中与义务论对应的是后果论（consequentialism）。
+    options:
+      A: narcissism
+      B: cynicism
+      C: fatalism
+      D: consequentialism
+    q_number: 18
+    stem: The other approach to ethics of interest to philosophers of AI is called
+      ____.
+  - answer: C
+    explanation: 在事故中，目标是减小悲剧性（tragic），符合逻辑。
+    options:
+      A: farcical
+      B: heroic
+      C: tragic
+      D: logical
+    q_number: 19
+    stem: If an accident is unavoidable, a decision must be made on the least ____
+      way to crash.
+  - answer: B
+    explanation: 道德技能退化暗示人们可能失去做出判断的能力（capable）。
+    options:
+      A: willing
+      B: capable
+      C: hostile
+      D: indifferent
+    q_number: 20
+    stem: 'Critics fret about “moral deskilling”: if computers increasingly make ethical
+      calls, might people become less ____ to make their own judgments?'
+  source_journal: Economist
+  title: Why big AI labs are hiring so many philosophers
+- article_update_date: 07.02.2026
+  body_text: 'The Repo Man Coming for Your Ride U.S. Journal The Repo Man Coming for
+    Your Ride As America’s auto debt nears $1.7 trillion, repossessions are reaching
+    levels not seen since the Great Recession. Inside an industry at the front line
+    of the country’s affordability crisis. By Paige Williams June 22, 2026 Matthew
+    Pitman started in the automobile-repossession industry as a teen-ager, coiling
+    cables at a tow lot in his home town, Phoenix. This was the eighties. His boss
+    went by Joker and wore a “badge” around his neck, like a cop. Law-enforcement
+    officers are sworn to serve the public; repossessors work for banks. Pitman justifies
+    conflating the two by saying that a lot of repo guys are “ex-law enforcement,
+    ex-military,” which is true, and that all repossessors “have to have complete
+    balls of brass.” He became a repo man in his early twenties and called himself
+    the Ninja. The license plate on his first work truck read “ GOTCHA .” Pitman moved
+    to Orem, Utah, to repo there and across the state. He had been in the business
+    for well over a decade when, in the fall of 2006, the Spanish-language scripted
+    series “Operación Repo” became the No. 1 program on Telemundo. A reviewer described
+    the show as “a telenovela on Red Bull” and “Judge Judy with a choke hold”; it
+    depicted a family repo business in the San Fernando Valley whose employees brawled
+    with debtors, and with one another. An English-language version, “Operation Repo,”
+    débuted a couple of years later, teeing up a glut of derivative content. Pitman
+    decided that he could do better than what the popular culture had to offer. He
+    already filmed his repos, for liability purposes, a defensive protocol that was
+    becoming industry standard. In January, 2008, he started a YouTube channel. He
+    applied for a new vanity license plate that read “ REPO N UT, ” for “Repo in Utah.”
+    The plate came back in error, sans spaces—“ REPONUT .” Pitman kept both the plate
+    and the nickname, reluctantly. “I hated the ‘nut,’ because I’m not nuts,” he told
+    me. “I’m a very grounded, not-crazy person.” Pitman is six feet tall, with hazel
+    eyes and blond hair, which he keeps buzzed on the sides and floppy on top, or
+    slicked into a stubby pony. He wears wraparound sunglasses with a bandanna or
+    a backward baseball cap, or both. His land speed is a consistent half sprint.
+    He speaks in complete, fluid sentences but, at times, jackhammer fast. No topic
+    escapes his enthusiasm (“I love festivals!”) or his powers of observation (the
+    “little lobster-claw hands” of the Starbucks mermaid, the absence of residential
+    surveillance cameras). His autodidactic impulses may lead him to the history of
+    clock towers or to the interplanetary rarity of wood. Absolute is his opinion
+    on the superiority of Dobermans (“Dobies”), which, he believes, don’t shed as
+    much as other breeds. “Dog hair? Forget it,” he said the other day. “If I got
+    a car bad enough, I’ll put a garbage bag over the seat before I’ll sit in it,
+    it’s so gross. After a day of working, you go home, and you literally have a separate
+    hamper for your work clothes. We get grease, we get solvents, we get grime.” Repo,
+    he declared, “is not quite as manly as underwater welding, but it’s a pretty manly
+    job.” Pitman called his YouTube channel RepoNut. GoPro was his camera of choice.
+    He would clamp one to the windshield trim of his rig, point it at himself, and
+    just talk. Each “ INSTANT SEIZURE ORDER ,” issued by a lender, gave him cause
+    to monologue about the endless variables of his trade. Repoing a BMW X series
+    (all-wheel drive) is different from repoing a Honda Civic (front-wheel drive).
+    A good repo agent adjusts for terrain, weather, angle, blockage, flat tires, dead
+    batteries, locked doors, and human interference. Repo agents have been shot, stabbed,
+    hit by cars. They’ve been beaten with tire irons, bottles, planks, chains. During
+    the COVID -19 pandemic, some states temporarily banned repos; when orders resumed,
+    there was a spike in violence against repossessors. In 2023, at least seven were
+    killed—the highest number on record. This spring, the North American Repossessors
+    Summit ( NARS ), a convention put on by the industry’s leading trade group, the
+    American Recovery Association (A.R.A.), opened with a harrowing video montage
+    of wounded, terrified repo agents steering out of the line of fire, shrieking,
+    “Oh, my God!” and “Motherfucker!” and “I’m shot, I’m shot, I’m shot, I’m shot,
+    I’m shot! I need help!” One driver, visibly shaking after having narrowly avoided
+    a bullet, screamed, “I can’t do this shit no more!” People in the audience were
+    crying. The lights came up, and NARS awarded medals to two drivers who had sustained
+    gunshot wounds, one in the head. Their peers gave them a standing ovation. Pitman
+    operated on a core belief that “when people like you, they won’t harm you.” He
+    disarmed debtors with friendly banter. “Beautiful Jeep!” he’d say. “Did you build
+    that out yourself?” On RepoNut, he once explained, “By the time a repo man shows
+    up at someone’s house to take their vehicle, they’re oftentimes in bankruptcy,
+    divorce, fighting with their spouse constantly. Financial ruin sometimes, even.
+    Their life’s falling apart.” He recorded and posted anyway. RepoNut started during
+    the Great Recession. Nearly nine million jobs were lost between December of 2007
+    and early 2010. Forced to make tough spending choices, many Americans prioritized
+    their car payment over the mortgage, weighing the urgent need for personal transportation—work
+    and groceries, church and medical appointments—against the relatively slow-moving
+    process of home foreclosure. Even so, at the recession’s peak, in 2009, 1.8 million
+    cars were repossessed, according to Cox Automotive, an unprecedented number. Pitman’s
+    was the face that thousands of consumers saw, or didn’t, when the financial system
+    came for them. Repossessors and tow-truck drivers work different jobs but use
+    the same equipment. The tow truck was patented in 1918 by Ernest Holmes, Sr.,
+    the owner of an auto-repair shop in Chattanooga, Tennessee, who pulled vehicles
+    out of ditches using a modified Cadillac and chains. Today’s tow trucks, also
+    known as wreckers, are computerized work stations with integrated digital dashboards,
+    camera systems, blind-spot monitoring, and hydraulic rotators. Pitman eventually
+    switched from a wrecker to a “sneaker” unit, a heavy-duty Ford F-series pickup
+    equipped with a steel boom, shaped like a cross, that can be maneuvered with joysticks
+    from inside the cab. He could extend the boom, like a stinger, to “hook” and lift
+    a vehicle’s front or back wheels within seconds. The tactical aspects of repo
+    interested him more than the mechanical. Pitman liked finding cars that drivers
+    didn’t want found. He got his taste for “investigating” in childhood, after smelling
+    Burger King on his parents’ clothes and watching them lie about where they’d been.
+    Their deception “didn’t hurt me,” he said. “I just found it interesting.” He began
+    to figure out, ahead of time, what everyone was getting for Christmas, and followed
+    his older brother when he sneaked out at night, learning that there was power
+    in discovering information, and in withholding it. When Pitman started in repo,
+    orders arrived by fax; agents used foldout maps. He got ahead by working dead
+    paper. Fresh eyes on an unfulfilled assignment generated leads that lesser repo
+    guys never saw. A target vehicle that went missing from the address listed on
+    a loan account might be parked down the block, or in a friend’s driveway or a
+    cousin’s garage, or in a storage unit, a church parking lot, a barn. Pitman once
+    tracked a vehicle to a shipping container headed for Hawaii. A debtor’s grandparents’
+    house was often a good place to look: older people don’t move around that much.
+    Pitman observed that you could tell a lot about a family by how close together
+    everybody lived—data, potentially, for later. Hard-core hiders are called skips,
+    as in skipped town. A skip could maintain spotless op sec and still be undone
+    by an associate’s social-media incontinence; Pitman once noticed a license plate
+    in the background of a photo on the Facebook feed of a target’s relative, traced
+    the plate to an unchecked address, and drove by the house. There sat his repo.
+    Once a vehicle is hooked, a repossessor may still need the key—sometimes the emergency
+    brake is on or the car needs to be put in neutral, and an inventory of the car’s
+    contents must be taken, too. Having the key is easier and cheaper than cutting
+    a new one. Asking for it required Pitman to “make contact” with the debtor, which
+    usually started with knocking on a door. If a debtor refused to coöperate, Pitman
+    might ingratiate himself, explaining, truthfully, that having the key sure would
+    help him out, or that, without it, the lienholder would bundle the cost of making
+    a new one into the price of getting the vehicle out of hock. Most people were
+    reasonable. Most repos go smoothly. If the vibe soured, Pitman explained that
+    his job was simply to transport collateral for the lender. One of his rigs had
+    a large decal on the back window: “Why are you pissed at ME? I didn’t miss YOUR
+    payment.” Outside the truck, Pitman wore the GoPro on his forehead, making it
+    clear that he was recording. It is unlikely that the people losing their cars
+    knew that their interactions with him would live forever on the internet, with
+    some of their private information exposed and the repo man getting the final word.
+    In one video, a debtor, wearing a “Ridin’ on Faith” T-shirt, stands in her driveway
+    and denies the true whereabouts of a Land Rover that Pitman knew perfectly well
+    was sitting out back. Pitman floated in text: “Lie #1 . . .” When that same debtor
+    then says, “You’ve been in my back yard why?,” Pitman replies, “When you signed
+    the contract for the title loan, you gave them the right, if the loan goes into
+    default, for us to come out and pick up the vehicle.” That frame read “Did that
+    answer you snootie question?” Less well-off people handle repossession better
+    than “rich people,” Pitman told me, because they “know what to expect.” The “nightmare”
+    is the guy who’s “got a Hummer, and his business is tanking, and he’s got a boat,
+    a motor home, Jet Skis, four-wheelers. Those people don’t react well. They’re
+    very entitled. They’re very ‘How dare you?’ and ‘I’m calling my lawyer,’ ‘My brother’s
+    a cop.’ You don’t get any of that from people that are living in a single-wide
+    trailer.” In a video titled “Dealing With People Who Think The Rest Of Us Owe
+    Them Something,” a youngish mom wearing fur-lined boots and a leather motorcycle
+    jacket emerges from a large home, stands at the bumper of her repossessed Jeep
+    Wrangler, and, fists balled in frustration, cries, “Oh!” and “This is what happens
+    when I leave the payments up to my frickin’ husband!” The husband later confronts
+    Pitman in a parking lot. Pitman calls the police. He tends to be obsequious with
+    law-enforcement officers, as if to advance his notion of professional alignment.
+    The responding officer tells him, “You’re both guilty of disorderly conduct.”
+    RepoNut titles became nesting narratives: “Fireman Returns From Call To Find Repoman
+    In Action,” “Almost Lost This One To A Closed Garage,” “It’s Pouring Repos In
+    This Never Ending Recession,” “Another Fun Day Dealing With Upset People,” “You
+    Never Know What You’ll Find Or Where You’ll Find It,” “Load And Go At The Local
+    Horse Park.” A sharky tension hangs over the second most popular installment,
+    wherein Pitman hustles to tow a faded 2001 G.M.C. Yukon from a parking lot before
+    security sees him. As he clears the property boundary, he sighs like a fighter
+    pilot crossing into international airspace. The video was viewed more than 3.2
+    million times. Pitman suspected that gearhead teen-age boys were a big part of
+    the RepoNut audience. Other repossessors definitely watched, too, to see how Pitman
+    handled the'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到Pitman通过声称许多回收人员是“前执法人员、前军人”来证明自己与执法人员将两者混为一谈是合理的，他认为这两个职业在某种程度上是相似的。
+    options:
+      A: By emphasizing the financial rewards of the industry.
+      B: By highlighting the similarities between repo men and law-enforcement officers.
+      C: By distancing himself from the negative reputation of the 'RepoNut' nickname.
+      D: By claiming that his work serves as a necessary defensive protocol for lenders.
+    q_number: 1
+    stem: According to the passage, how did Matthew Pitman justify his role as a repo
+      man?
+  - answer: C
+    explanation: 这句话使用了比喻，将该剧比作加了红牛的肥皂剧，暗示该剧充满了夸张、激烈冲突和高强度的戏剧效果，与现实中的业务处理有所不同。
+    options:
+      A: It was a high-budget and professionally produced drama.
+      B: It offered a realistic and calm portrayal of the repossession business.
+      C: It was an exaggerated, intense, and dramatic version of reality.
+      D: It served as an educational program for those in the auto-debt industry.
+    q_number: 2
+    stem: What does the author imply by describing 'Operation Repo' as a 'telenovela
+      on Red Bull'?
+  - answer: C
+    explanation: 文章提到Pitman开始录制是因为“出于责任目的”（for liability purposes），这是一种行业标准，同时也因为他觉得他可以做得比当时大众文化中呈现的更好。
+    options:
+      A: To gain fame and become a popular reality television star.
+      B: To document his professional superiority over other industry competitors.
+      C: To provide evidence for liability purposes and share his specific trade techniques.
+      D: To protest the increasing violence against repossessors during the pandemic.
+    q_number: 3
+    stem: Why did Pitman decide to film his repossession activities and start a YouTube
+      channel?
+  - answer: B
+    explanation: 文章指出“那些人（富人）反应不好。他们非常有权利感（entitled）。他们非常倾向于问‘你怎么敢这样？’”，相反，住在拖车里的人更清楚会发生什么。
+    options:
+      A: Wealthier individuals are more likely to have legal insurance.
+      B: They have a greater sense of entitlement and are unaccustomed to such failures.
+      C: They are more concerned about their public reputation in social media.
+      D: They fear that their personal items inside the vehicle will not be returned.
+    q_number: 4
+    stem: According to Pitman, what is the main reason wealthier debtors react more
+      negatively to repossession than less affluent ones?
+  - answer: C
+    explanation: 文章描述了从传真和纸质地图到现在的“数字化工作站”、摄像头系统、液压转子等演变，强调了这使得Pitman这类人能够更具战术性（tactical）地进行追踪和操作。
+    options:
+      A: The industry has become increasingly reliant on physical maps and traditional
+        investigation methods.
+      B: The use of advanced technology like hydraulic rotators has made the job strictly
+        mechanical and impersonal.
+      C: The shift from faxes and paper maps to digital monitoring has made the job
+        more tactical and efficient.
+      D: Modern repossession technology is primarily designed to prevent injury to
+        the repossessor.
+    q_number: 5
+    stem: What can be inferred about the evolution of the repo industry from the details
+      provided about technology?
+  source_journal: New Yorker
+  title: The Repo Man Coming for Your Ride
+- article_update_date: 05.22.2026
+  body_text: 'The US president, Donald Trump, and the secretary of state, Marco Rubio,
+    on Thursday again raised the spectre of military intervention in Cuba, a renewed
+    threat that takes on greater weight a day after the administration announced criminal
+    charges against Raúl Castro, the island’s former leader. “Other presidents have
+    looked at this for 50, 60 years, doing something,” Trump told reporters when asked
+    about Cuba during an event in the Oval Office. “And it looks like I’ll be the
+    one that does it. So I would be happy to do it.” Rubio told reporters separately
+    that Cuba had been a national security threat for years because of its ties to
+    US adversaries and that Trump was intent on addressing it. Rubio, the son of Cuban
+    immigrants who has long taken a hard line against the country’s socialist leadership,
+    said the Trump administration wanted to resolve differences with Havana peacefully
+    but was doubtful the US could reach a diplomatic resolution with the island’s
+    current government. “[Trump’s] preference is always a negotiated agreement that’s
+    peaceful. That’s always our preference. That remains our preference with Cuba,”
+    Rubio said in Miami before boarding a plane to attend a Nato meeting in Sweden
+    and visiting India. “I’m just being honest with you, you know, the likelihood
+    of that happening, given who we’re dealing with right now, is not high,” he said.
+    Several of Trump’s senior aides – including Rubio, the CIA chief, John Ratcliffe,
+    and other senior national security officials – have met Cuban officials in recent
+    months in an effort to improve relations. But US officials reportedly came away
+    dissatisfied, prompting a fresh wave of sanctions against the Cuban government
+    over the past week. Over the years, Cuba had become accustomed to “buying time
+    and waiting us out,” Rubio said. “They’re not going to be able to wait us out
+    or buy time. We’re very serious, we’re very focused.” When asked whether the US
+    would use force to change Cuba’s political system, Rubio repeated that a diplomatic
+    settlement was preferred but noted that “the president always has the option to
+    do whatever it takes to support and protect the national interest”. He dismissed
+    a reporter’s suggestion that the move resembled “nation-building”, insisting it
+    was instead aimed at addressing a national security threat. On Wednesday, federal
+    prosecutors announced an indictment that accuses Castro of ordering the shooting
+    down of civilian planes flown by Miami-based exiles in 1996. The charges, filed
+    in secret by a grand jury in April, include murder and destruction of an aircraft.
+    The Cuban president, Miguel Díaz-Canel, condemned the indictment as a political
+    stunt designed to “justify the folly of a military aggression against Cuba”. The
+    Castro indictment has fuelled speculation that the Trump administration is following
+    the same playbook it used before the operation in January that led to the capture
+    of the Venezuelan president Nicolás Maduro, who was charged with drug trafficking,
+    has pleaded not guilty and remains imprisoned in the US. The US military also
+    highlighted the arrival of the USS Nimitz aircraft carrier and accompanying ships
+    to the Caribbean Sea on the same day the charges against Castro were announced.
+    US Southern Command said the vessels were participating in maritime exercises
+    with partners in Latin America that began in March. Rubio declined to discuss
+    how the US might seek to enforce the indictment against Castro, who turns 95 next
+    month. Trump has threatened military action in Cuba since ousting Maduro and ordering
+    an energy blockade that choked off fuel shipments to the country. This has led
+    to severe blackouts, food shortages and economic collapse on the island. This
+    month, the Trump administration also imposed new sanctions on Cuba, the largest
+    of which is against Grupo de Administración Empresarial SA (Gaesa), a business
+    conglomerate operated by the Cuban Revolutionary Armed Forces. On Thursday, Rubio
+    announced that the sister of Gaesa’s executive president, who was living in the
+    US, had her green card revoked and was taken into ICE custody. Rubio said: “Past
+    administrations have permitted the families of Cuban military elites, Iranian
+    terrorists and other reprehensible organisations to enjoy lavish lifestyles in
+    our country funded by stolen blood-money, while the people they repress at home
+    suffer in increasingly dire circumstances. No longer.” Trump has also escalated
+    speculation of regime change in Cuba, pledging a “friendly takeover” if the country’s
+    leadership did not open its economy to American investment and expel US adversaries.
+    Rubio said Cuba posed a serious national security threat to the US because of
+    its security and intelligence ties with China and Russia as well as its friendly
+    relations with US adversaries in Latin America. China condemned US sanctions and
+    pressure on Cuba. A foreign ministry spokesperson, Guo Jiakun, said: “China firmly
+    supports Cuba in safeguarding its national sovereignty and national dignity and
+    opposes external interference.”'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到Rubio称古巴因与美国对手（如中国和俄罗斯）的联系，多年来一直对美国构成国家安全威胁，而特朗普旨在解决这一问题。
+    options:
+      A: To distract from domestic issues within the United States.
+      B: To address what it views as a persistent national security threat involving
+        US adversaries.
+      C: To facilitate a peaceful democratic transition through economic investment.
+      D: To seek revenge for the historical shooting down of civilian planes in 1996.
+    q_number: 1
+    stem: According to the passage, what is the primary reason the Trump administration
+      is increasing pressure on Cuba?
+  - answer: C
+    explanation: Rubio提到尽管美国首选外交途径，但考虑到“我们正在打交道的人”，达成外交协议的可能性并不高。
+    options:
+      A: Highly probable given the history of previous negotiations.
+      B: Dependent on the outcome of the Nato meeting in Sweden.
+      C: Unlikely, due to the nature of the current Cuban leadership.
+      D: Inevitable, provided that the US continues to impose sanctions.
+    q_number: 2
+    stem: How does Marco Rubio characterize the likelihood of reaching a diplomatic
+      resolution with the current Cuban government?
+  - answer: B
+    explanation: 文章提到对Castro的起诉引发了猜测，即特朗普政府正在沿用处理马杜罗（Maduro）时的剧本，即通过刑事起诉为后续的某种行动做铺垫。
+    options:
+      A: The US administration intends to engage in productive trade talks with Cuba.
+      B: The US is using criminal indictments as a precursor to potential military
+        or regime-change operations.
+      C: The US is strictly following international legal procedures to ensure justice.
+      D: The US is attempting to emulate the successful nation-building projects in
+        Venezuela.
+    q_number: 3
+    stem: What does the author imply by mentioning the 'playbook' used against Nicolás
+      Maduro?
+  - answer: C
+    explanation: 文中提到美国南方司令部强调在宣布对Castro指控的同一天，尼米兹号航空母舰抵达加勒比海，这被视为一种军事施压手段。
+    options:
+      A: It is a routine training exercise entirely unrelated to the current geopolitical
+        tension.
+      B: It serves as a direct, explicit declaration of war against the Cuban Revolutionary
+        Armed Forces.
+      C: It coincides with the timing of the indictment against Castro, signaling
+        a show of military force.
+      D: It is intended to provide humanitarian aid to alleviate Cuba's food shortages.
+    q_number: 4
+    stem: What is the significance of the US Southern Command's deployment of the
+      USS Nimitz to the Caribbean?
+  - answer: B
+    explanation: Rubio在文中提到，过去政府允许古巴军事精英家属在美享受奢华生活的情况将不再继续，并举例说明了某位家属绿卡被撤销的情况。
+    options:
+      A: They are welcomed to continue living in the US as long as they remain neutral.
+      B: They are increasingly targeted by policy shifts that restrict their privileges
+        in the US.
+      C: They are seen as valuable diplomatic intermediaries between Washington and
+        Havana.
+      D: They are officially granted immunity to ensure the safety of American diplomats
+        in Cuba.
+    q_number: 5
+    stem: What can be inferred about the US administration's attitude toward the families
+      of Cuban military elites?
+  source_journal: The Guardian
+  title: Rubio doubtful of diplomacy with Cuba as Trump renews threat of military
+    action
+- article_update_date: 06.07.2026
+  body_text: A memorial service to mark the 80th anniversary of the Nanjing Massacre
+    committed by the Japanese military during World War II brought together hundreds
+    of activists and members of the Chinese and other Asian communities on Sunday
+    in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition,
+    the Committee to Promote Reunification of China, the Alliance for Preserving the
+    Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held
+    annually for the past 20 years with the aim of exposing the Japanese Imperial
+    Army's war crimes and encouraging people to understand and never forget the dark
+    chapter of history. "The Japanese Army blatantly violated international conventions
+    and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians
+    were murdered and one third of the buildings were destroyed," said Zha Liyou,
+    acting Chinese consul general in San Francisco, at the service. Japanese troops
+    captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing
+    a slaughter that lasted more than 40 days. Tens of thousands of women were raped.
+    "Our stories are linked. The fate of over 400,000 women sexually enslaved by the
+    Japanese Imperial Army during World War II is part and parcel of what happened
+    during the Nanjing Massacre," said Judith Mirkinson, president of the Comfort
+    Women Justice Coalition. She said the 20th century has been called the most violent
+    century in the history of the world, and that one way to ensure peace in the 21st
+    century is through truth and reconciliation. "Reconciliation does not come without
+    truth. So the Japanese government must acknowledge their crimes," she said. "They
+    must give justice to those few people who still survive from the Nanjing Massacre
+    and to the memory of what happened there." From the time that Japan invaded northeast
+    China in September 1931, followed by a full-scale invasion that started on July
+    7, 1937, around 35 million Chinese soldiers and civilians were killed or injured
+    during the Japanese occupation, which continued until 1945. To honor the victims
+    and the survivors, and to pursue justice and an enduring peace, the Chinese community
+    worldwide joined hands this year to commemorate this historic event which was
+    designated by the Chinese government as National Memorial Day for Nanjing Massacre
+    Victims. "To remember the atrocities committed by the Japanese Army during World
+    War II does not mean to pass on the enmity but rather to remind people not to
+    forget the history and inspire them to love peace," said Zha. "It might be a comfort
+    to the victims and those who sacrificed their lives that the Nanjing Massacre
+    has been etched into the memory of the Chinese people and the world civilization."
+    The Nanjing Massacre was entered onto the UNESCO Memory of the World Register,
+    a compendium aimed at preserving documented heritage of universal value, in 2015.
+    liazhu@chinadailyusa.com
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: The text explicitly states the memorial was held with the aim of
+      exposing the Japanese Imperial Army's war crimes and encouraging people to understand
+      and never forget the dark chapter of history.
+    options:
+      A: To foster international cooperation between the Chinese and Japanese governments.
+      B: To celebrate the economic growth and modernization of Nanjing.
+      C: To uncover war crimes and ensure the historical truth of the Nanjing Massacre
+        is remembered.
+      D: To officially demand financial reparations for the survivors of the invasion.
+    q_number: 1
+    stem: What is the primary objective of the annual memorial service held in San
+      Francisco for the past 20 years?
+  - answer: B
+    explanation: Mirkinson states, 'Reconciliation does not come without truth. So
+      the Japanese government must acknowledge their crimes,' indicating that truth
+      and acknowledgment are necessary conditions for reconciliation.
+    options:
+      A: The complete reconstruction of the former Chinese capital city.
+      B: The acknowledgment of historical crimes by the Japanese government.
+      C: The exclusion of the Nanjing Massacre from international history records.
+      D: The immediate apology from all participating nations in World War II.
+    q_number: 2
+    stem: According to Judith Mirkinson, what is the prerequisite for achieving peace
+      and reconciliation in the 21st century?
+  - answer: B
+    explanation: In the context of the passage, 'part and parcel' is used to describe
+      the sexual enslavement of women as an integral and inseparable part of the broader
+      history of the Nanjing Massacre.
+    options:
+      A: They are disconnected events occurring in different decades.
+      B: They are essential and inseparable components of the same history of atrocities.
+      C: They are minor details that are often exaggerated by historians.
+      D: They were separate administrative decisions made by different branches of
+        the Japanese army.
+    q_number: 3
+    stem: What does the phrase 'part and parcel' in the second paragraph imply about
+      the relationship between the Nanjing Massacre and the comfort women issue?
+  - answer: A
+    explanation: The text defines the Register as a compendium aimed at preserving
+      documented heritage of universal value, suggesting that inclusion signifies
+      the event's importance to world civilization and history.
+    options:
+      A: It highlights the massacre as a preserved heritage of universal significance.
+      B: It grants the Chinese government exclusive rights to censor all historical
+        records.
+      C: It marks the end of diplomatic tension between China and Japan.
+      D: It provides financial aid for the ongoing search for massacre survivors.
+    q_number: 4
+    stem: What is the significance of the Nanjing Massacre being entered onto the
+      UNESCO Memory of the World Register?
+  - answer: D
+    explanation: Zha Liyou clarifies that remembering the atrocities 'does not mean
+      to pass on the enmity but rather to remind people not to forget the history
+      and inspire them to love peace.'
+    options:
+      A: To continue holding a grudge against future generations of the Japanese people.
+      B: To ensure that international trade conventions remain strictly enforced.
+      C: To replace history with a new narrative of absolute victory.
+      D: To prevent the fading of historical memory and inspire a commitment to peace.
+    q_number: 5
+    stem: According to Zha Liyou, why is it important to commemorate the atrocities
+      of World War II?
+  source_journal: China Daily
+  title: Nanjing massacre remembered on 80th anniversary
