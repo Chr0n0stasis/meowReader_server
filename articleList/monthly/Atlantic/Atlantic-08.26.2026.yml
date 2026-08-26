@@ -15,7 +15,7 @@ articles:
   is_used: false
   title: Chapter 9
 - id: epub_11
-  is_used: true
+  is_used: false
   title: Chapter 11
 - id: epub_12
   is_used: false
@@ -38,8 +38,8 @@ articles:
 - id: epub_20
   is_used: false
   title: Chapter 20
-capture_date: 08.14.2026
+capture_date: 08.26.2026
 journal_name: Atlantic
-publish_date: 08.14.2026
+publish_date: 08.26.2026
 source_type: github
 update_frequency: monthly

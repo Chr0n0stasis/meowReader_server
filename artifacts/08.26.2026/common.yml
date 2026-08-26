@@ -1,0 +1,656 @@
+group_update_date: 08.26.2026
+papers:
+- article_update_date: 05.07.2026
+  body_text: 'Experienced researchers are more likely to hold onto ideas from the
+    past than those at the beginning of their careers, an analysis finds.Credit: RapidEye/Getty
+    Experienced researchers are less likely to produce ‘disruptive’ science than are
+    those just starting their careers, finds an analysis of the scientific papers
+    published by 12.5 million researchers over 60 years. The authors discovered that
+    older researchers are better at connecting existing ideas to produce new knowledge
+    than are younger researchers. But those with more experience are worse at achieving
+    massive breakthroughs that overhaul, or disrupt, entire fields of research — as
+    happened with innovations such as the discovery of the structure of DNA. Are groundbreaking
+    science discoveries becoming harder to find? The analysis, which was published
+    today in Science1, also concludes that, as their careers progress, scientists
+    are more likely to cite older papers than newer ones. This phenomenon, which the
+    authors call the nostalgia effect, can hold back scientific innovation, they say,
+    because scientists get hung up on ideas from the past and are not as receptive
+    to new developments. The finding isn’t surprising — it aligns with previous studies
+    documenting a decades-long global decline in disruptive science as the scientific
+    workforce ages, says Russell Funk, a sociologist at the University of Minnesota
+    in Minneapolis who was not involved in the latest analysis. But it does identify
+    a potential mechanism for the trend, he says. “Scientists become less disruptive
+    as they age, and the scientific workforce is getting older, so the entire system
+    is shifting toward a composition that favours consolidation [of existing ideas]
+    over disruption,” he says. Scientific nostalgia To measure how disruptive a scientific
+    paper is, the research team examined how later studies cite it. If those studies
+    cite the paper without also citing its references — which represent previous work
+    in a field — this suggests that the idea or discovery reported in the paper rendered
+    older work obsolete. This is a sign of disruption, the team says. When the authors
+    studied a data set including the work of 12.5 million researchers who had published
+    at least three papers between 1960 and 2020, they found that, across all fields,
+    the probability of a researcher producing a paper among the top 10% most disruptive
+    works decreased with their academic age — defined as the number of years since
+    their first publication (see ‘Disruption decline’). Source: Ref. 1 The researchers
+    also found that the paper a scientist cites most often during their career is
+    typically published about two years before they publish their own first paper.
+    This suggests that “as you age, you’re still holding on to those formative years”,
+    says Raiyan Abdul Baten, a computational social scientist at the University of
+    South Florida in Tampa. “That hurts you in terms of moving forward and producing
+    disruptive new work.” Lingfei Wu, an information scientist at the University of
+    Pittsburgh in Pennsylvania and a co-author of the analysis, says that it’s not
+    surprising that researchers are deeply affected by ideas circulating early in
+    their careers. What is unexpected, he adds, is how long they are influenced by
+    those ideas. The influence of citations Choices made by senior researchers can
+    have consequences for the scientific community. For example, Wu and his colleagues
+    looked at the papers produced by more than 190,000 research teams when they changed
+    their corresponding author between publications. The researchers found that when
+    a paper’s corresponding author was younger, the work tended to cite fresher references
+    than when its corresponding author was older. This has implications for what science
+    is being pointed to as noteworthy, the team says.'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: 文章开头指出这是一项分析的结果，finds符合语境，意为“显示/发现”。
+    options:
+      A: predicts
+      B: ignores
+      C: criticizes
+      D: finds
+    q_number: 1
+    stem: Experienced researchers are more likely to hold onto ideas from the past
+      than those at the beginning of their careers, an analysis finds. Experienced
+      researchers are less likely to produce 'disruptive' science than are those just
+      starting their careers, ________ an analysis of the scientific papers.
+  - answer: B
+    explanation: achieve breakthroughs是固定搭配，意为“取得突破”。
+    options:
+      A: observing
+      B: achieving
+      C: delaying
+      D: distinguishing
+    q_number: 2
+    stem: The authors discovered that older researchers are better at connecting existing
+      ideas to produce new knowledge than are younger researchers. But those with
+      more experience are worse at ________ massive breakthroughs.
+  - answer: D
+    explanation: disrupt对应前文的'disruptive' science，与overhaul（彻底改造）意思相近。
+    options:
+      A: mimic
+      B: support
+      C: verify
+      D: disrupt
+    q_number: 3
+    stem: But those with more experience are worse at achieving massive breakthroughs
+      that overhaul, or ________, entire fields of research.
+  - answer: C
+    explanation: hold back意为“阻碍/抑制”，符合文意。
+    options:
+      A: bring
+      B: keep
+      C: hold
+      D: take
+    q_number: 4
+    stem: The analysis also concludes that, as their careers progress, scientists
+      are more likely to cite older papers than newer ones. This phenomenon, which
+      the authors call the nostalgia effect, can ________ back scientific innovation.
+  - answer: A
+    explanation: receptive to意为“对……有接受能力的”，符合语境。
+    options:
+      A: receptive
+      B: opposed
+      C: indifferent
+      D: hostile
+    q_number: 5
+    stem: This phenomenon can hold back scientific innovation, they say, because scientists
+      get hung up on ideas from the past and are not as ________ to new developments.
+  - answer: B
+    explanation: align with意为“与……一致/吻合”。
+    options:
+      A: conflicts
+      B: aligns
+      C: intersects
+      D: collides
+    q_number: 6
+    stem: The finding isn’t surprising — it ________ with previous studies documenting
+      a decades-long global decline in disruptive science as the scientific workforce
+      ages.
+  - answer: B
+    explanation: shifting toward意为“转向……”，符合文章描述的系统演变趋势。
+    options:
+      A: stagnating
+      B: shifting
+      C: returning
+      D: reversing
+    q_number: 7
+    stem: But it does identify a potential mechanism for the trend, he says. “Scientists
+      become less disruptive as they age, and the scientific workforce is getting
+      older, so the entire system is ________ toward a composition that favours consolidation.
+  - answer: C
+    explanation: 根据后文逻辑，团队通过研究引用关系来评估创新性，examined符合逻辑。
+    options:
+      A: dismissed
+      B: forged
+      C: examined
+      D: bypassed
+    q_number: 8
+    stem: Scientific nostalgia. To measure how disruptive a scientific paper is, the
+      research team ________ how later studies cite it.
+  - answer: B
+    explanation: render + adj. 意为“使……变得……”，render obsolete意为“使……过时”。
+    options:
+      A: made
+      B: rendered
+      C: proved
+      D: considered
+    q_number: 9
+    stem: If those studies cite the paper without also citing its references — which
+      represent previous work in a field — this suggests that the idea or discovery
+      reported in the paper ________ older work obsolete.
+  - answer: C
+    explanation: 文章多次提到创新能力随年龄增长而下降，decreased符合语境。
+    options:
+      A: fluctuated
+      B: stabilized
+      C: decreased
+      D: expanded
+    q_number: 10
+    stem: This is a sign of disruption, the team says. When the authors studied a
+      data set including the work of 12.5 million researchers, they found that the
+      probability of a researcher producing a paper among the top 10% most disruptive
+      works ________ with their academic age.
+  - answer: D
+    explanation: typically意为“通常地”，描述一种普遍现象。
+    options:
+      A: coincidentally
+      B: occasionally
+      C: rarely
+      D: typically
+    q_number: 11
+    stem: The researchers also found that the paper a scientist cites most often during
+      their career is ________ published about two years before they publish their
+      own first paper.
+  - answer: A
+    explanation: producing disruptive work是全文的核心词组。
+    options:
+      A: producing
+      B: halting
+      C: distorting
+      D: concealing
+    q_number: 12
+    stem: This suggests that “as you age, you’re still holding on to those formative
+      years”, says Raiyan Abdul Baten. “That hurts you in terms of moving forward
+      and ________ disruptive new work.”
+  - answer: A
+    explanation: be affected by意为“受……影响”。
+    options:
+      A: affected
+      B: undermined
+      C: replaced
+      D: exhausted
+    q_number: 13
+    stem: Lingfei Wu, an information scientist, says that it’s not surprising that
+      researchers are deeply ________ by ideas circulating early in their careers.
+  - answer: A
+    explanation: 对应前文的affected，这里使用influenced进行同义替换。
+    options:
+      A: influenced
+      B: denied
+      C: challenged
+      D: defended
+    q_number: 14
+    stem: What is unexpected, he adds, is how long they are ________ by those ideas.
+  - answer: C
+    explanation: scientific community意为“科学界”。
+    options:
+      A: laboratory
+      B: foundation
+      C: community
+      D: hierarchy
+    q_number: 15
+    stem: The influence of citations. Choices made by senior researchers can have
+      consequences for the scientific ________.
+  - answer: D
+    explanation: 文章后文指出了更换作者带来的影响，changed符合文意。
+    options:
+      A: maintained
+      B: disregarded
+      C: protected
+      D: changed
+    q_number: 16
+    stem: For example, Wu and his colleagues looked at the papers produced by more
+      than 190,000 research teams when they ________ their corresponding author between
+      publications.
+  - answer: B
+    explanation: tend to do sth. 意为“倾向于做某事”。
+    options:
+      A: failed
+      B: tended
+      C: refused
+      D: hesitated
+    q_number: 17
+    stem: The researchers found that when a paper’s corresponding author was younger,
+      the work ________ to cite fresher references than when its corresponding author
+      was older.
+  - answer: A
+    explanation: point to as意为“指明为……”，此处意指被指出是值得注意的科学。
+    options:
+      A: pointed
+      B: attributed
+      C: submitted
+      D: compared
+    q_number: 18
+    stem: This has implications for what science is being ________ to as noteworthy,
+      the team says.
+  - answer: C
+    explanation: 文章指出现有系统偏向于巩固现有知识，favours符合语境。
+    options:
+      A: monitors
+      B: rejects
+      C: favours
+      D: underestimates
+    q_number: 19
+    stem: Scientists become less disruptive as they age, and the scientific workforce
+      is getting older, so the entire system is shifting toward a composition that
+      ________ consolidation over disruption.
+  - answer: D
+    explanation: 前文提到这种现象会阻碍创新，hamper（妨碍）是hold back的同义词。
+    options:
+      A: accelerate
+      B: inspire
+      C: validate
+      D: hamper
+    q_number: 20
+    stem: The analysis concludes that as their careers progress, scientists are more
+      likely to cite older papers than newer ones, which can ________ innovation.
+  source_journal: Nature
+  title: Early-career researchers do more ‘disruptive’ science than veterans
+- article_update_date: 07.13.2026
+  body_text: Wide-bandgap (WBG) mixed-halide perovskites with high Br content, which
+    are employed as the front cell material in perovskite–organic tandem solar cells
+    (TSCs), often suffer from initial halide-mixing inhomogeneity and light-induced
+    halide segregation1–3, limiting the performance of perovskite–organic TSCs. Here,
+    we introduced a photo-transformable additive 4-[3-(trifluoromethyl)-3H-diazirin-3-yl]benzylamine
+    (TDB) into the WBG perovskite precursor solution to establish a two-stage strategy
+    for stabilizing the mixed-halide phase. During crystallization, TDB improves the
+    initial halide homogeneity by suppressing the rapid precipitation of the Br-rich
+    phase and accelerating halide mixing upon annealing. During operational illumination,
+    TDB undergoes transformation to form a new species with stronger adsorption on
+    the perovskite grain-boundary surfaces, which inhibits the formation of iodide-related
+    defects, suppresses defect-assisted carrier trapping and ion migration, thereby
+    mitigating light-induced halide segregation4–6. The representative WBG perovskite
+    (E g = 1.88 eV) solar cell achieved a power conversion efficiency (PCE) of 20.01%,
+    with an open-circuit voltage of 1.42 V, a fill factor of 85.13% and improved stability
+    under illumination. By integrating the WBG perovskite solar cell into a monolithic
+    perovskite–organic TSC, we achieved a PCE of 28.80% with a certified steady-state
+    PCE of 28.04%. The perovskite–organic TSC retained 90% of its initial PCE after
+    625 h of operation under the ISOS-L-1 protocol.
+  difficulty_constant: 12.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段明确指出，含溴量高的宽禁带钙钛矿常受卤素混合不均匀和光诱导卤素分离问题困扰，而TDB的引入正是为了解决这些限制性能的问题。
+    options:
+      A: To accelerate the manufacturing process of organic solar cells.
+      B: To address issues like initial halide-mixing inhomogeneity and light-induced
+        segregation.
+      C: To replace the front cell material in perovskite-organic tandem solar cells
+        entirely.
+      D: To increase the concentration of bromine in the precursor solution.
+    q_number: 1
+    stem: What is the primary motivation for introducing the TDB additive into WBG
+      perovskites according to the text?
+  - answer: C
+    explanation: 文章第二段明确提到，在结晶过程中，TDB通过抑制富溴相的快速沉淀并加速退火过程中的卤素混合，从而改善了初始的卤素均匀性。
+    options:
+      A: It promotes the rapid precipitation of the Br-rich phase to harden the material.
+      B: It acts as a catalyst to reduce the total amount of energy required for annealing.
+      C: It facilitates better halide homogeneity by slowing Br-rich phase precipitation
+        and enhancing mixing.
+      D: It transforms into a new chemical species to block grain boundaries immediately.
+    q_number: 2
+    stem: How does TDB function during the crystallization phase of the perovskite?
+  - answer: D
+    explanation: 文章提到，在光照运行期间，TDB会发生转化，形成一种在钙钛矿晶界表面有更强吸附力的新物种，从而抑制碘相关缺陷及载流子捕获。
+    options:
+      A: It degrades quickly, causing a decrease in device stability.
+      B: It evaporates from the grain boundaries to allow better light absorption.
+      C: It remains chemically inert to protect the perovskite structure.
+      D: It transforms into a species that strongly adsorbs onto grain boundaries
+        to inhibit defects.
+    q_number: 3
+    stem: What happens to TDB during the operational illumination of the solar cell?
+  - answer: B
+    explanation: 文章最后一段指出，该TSC在ISOS-L-1协议下运行625小时后，仍保持了初始效率的90%，体现了其良好的稳定性。
+    options:
+      A: It achieved a certified steady-state PCE of 28.80% under standard conditions.
+      B: It demonstrated a high level of operational stability, retaining 90% efficiency
+        after 625 hours.
+      C: It failed to surpass the PCE of the standalone WBG perovskite solar cell.
+      D: Its fill factor exceeded 90% while maintaining a low open-circuit voltage.
+    q_number: 4
+    stem: Which of the following best describes the performance of the integrated
+      perovskite-organic TSC mentioned in the text?
+  - answer: A
+    explanation: 文章第一段提到WBG混合卤化物钙钛矿被用作钙钛矿-有机叠层太阳能电池（TSC）中的前电池材料，是构建叠层电池的关键部分。
+    options:
+      A: It serves as the base layer for the front cell of the tandem solar cell.
+      B: It is an auxiliary component added to improve the efficiency of organic cells.
+      C: It is the only material that determines the total efficiency of the tandem
+        device.
+      D: It is mainly used to protect the organic cell from excessive illumination.
+    q_number: 5
+    stem: What can be inferred about the role of the WBG perovskite in the described
+      research?
+  source_journal: Nature
+  title: Perovskite–organic tandem solar cells with a photo-transformable stabilizer
+- article_update_date: 07.21.2026
+  body_text: The Ebola epidemic is getting out of control Middle East & Africa | Uncontained
+    The Ebola epidemic is getting out of control It has spread to five provinces in
+    Congo and may soon reach South Sudan July 16th 2026 “WE KEEP ASKING and we still
+    haven’t got anything,” says Moise Bulabantu from a dingy, clapboard clinic on
+    the outskirts of Bunia, a city in eastern Democratic Republic of Congo. The 38-year-old
+    community nurse is the only public-health worker in his district of more than
+    40,000 people, where an outbreak of Ebola has been spreading. Every day he sees
+    patients who are feverish or vomiting. But the government has yet to send protective
+    equipment. “We’re pushing for the minimum,” says Mr Bulabantu, with bags under
+    his eyes. “We only have gloves.” Stories such as Mr Bulabantu’s are common across
+    Ituri, the main province affected by the Ebola epidemic. When the Congolese government
+    declared an outbreak on May 15th, the disease had been spreading for at least
+    six weeks, prompting the World Health Organisation (WHO) to declare it a public-health
+    emergency two days later. Health authorities are still failing to contain the
+    epidemic . By July 14th Congo had confirmed 2,073 infections, about 90% of them
+    in Ituri, and 796 deaths. On July 9th the government admitted that the disease
+    had spread to two new provinces. There is a high risk it could soon enter neighbouring
+    South Sudan. Unless the response improves dramatically, the current outbreak may
+    become as bad as the one that killed more than 11,000 people in west Africa a
+    decade ago , according to calculations in June by the American Centres for Disease
+    Control and Prevention. One problem is gauging the real size of the epidemic.
+    The reported number of cases is an underestimate, says Peter Piot, a professor
+    of global health at the London School of Hygiene and Tropical Medicine who co-discovered
+    the Ebola virus in 1976. He says only 30% of new cases are contacts of known patients,
+    which suggests people are continuing to fall ill, spread the virus and die far
+    from view. The lack of reliable case numbers also makes it impossible to know
+    how many of those who get the virus end up dying. Part of the steep rise in reported
+    cases (see chart) is driven by rising availability of tests, but much is due to
+    the real spread of the virus. Dr Piot says the outbreak is progressing faster
+    than any he has seen in Congo (this one is the 17th). As there is no vaccine yet
+    against the Bundibugyo strain causing this outbreak (though one trial is beginning
+    in Oxford), measures such as testing, contact-tracing and isolation are crucial
+    to containing it. But too little of this is happening in Ituri. One challenge
+    is logistical. Ituri is a province of dense forests and poorly connected hamlets.
+    Dozens of armed groups threaten civilians. Some 900,000 people live in displacement
+    camps after fleeing conflict in the province. Others are moving around and looking
+    for work in unlicensed gold mines, making them hard to trace and reluctant to
+    isolate themselves. Aid workers and soldiers at checkpoints talk of waves of people
+    fleeing virus hotspots. A response is visible in Bunia, the provincial capital,
+    which has hospitals, roads and an airport. But even there it is too small, says
+    Trish Newport of Médecins Sans Frontières, a medical charity. Protective equipment
+    is scarce. The situation is far worse the farther you move from the city, where
+    state authority is often notional. The road to the gold-mining town of Mongbwalu,
+    one hotspot, is unpaved and studded with militia and army checkpoints, yet aid
+    workers still consider the town relatively accessible. Other areas affected by
+    Ebola are far more remote. Without the correct equipment, hospitals and clinics
+    can become vectors for transmission, deterring would-be patients. Many clinics
+    have been forced to close in order to disinfect and some have not reopened. Health
+    workers such as Mr Bulabantu are at high risk of catching the virus themselves.
+    Across eastern Congo dozens of front-line health workers have fallen ill and 25
+    have died of the disease, says the WHO. “We’re very scared,” says Mr Bulabantu.
+    He is also barely paid. His meagre monthly salary of about $80 has not been handed
+    out for months; he is surviving on an Ebola-related bonus of $70. In theory, there
+    is enough money to fund the response. The WHO and the African Centres for Disease
+    Control say that donors have pledged over $1.2bn, more than double the $518m they
+    reckon is needed. But only $115m has been paid out. Over the past week, health
+    workers in Bunia and the surrounding area have gone on strike over pay and working
+    conditions. Even if the rest of the money arrives quickly, it will be hard to
+    convince people that their main concern is Ebola, rather than the lack of fresh
+    water or untreated malaria that is killing their children, says Ms Newport. In
+    places such as Bunia, where the virus is visible and people are dying on the street,
+    help is more welcome. The virus has long spread beyond Ituri. In late June a pregnant
+    woman who died in Ituri was transported to Kisangani, a city of 1.5m people and
+    the capital of neighbouring Tshopo province. She received a traditional burial
+    and has since been confirmed to have died of Ebola. “It’s a question of days before
+    we have local spread,” says an aid official, explaining that dead bodies are particularly
+    contagious. There are also concerns about the virus spreading north into South
+    Sudan, which is on the edge of civil war and has an even more fragile health system
+    than Congo. A paper in the Lancet Infectious Diseases, predating the spread of
+    the disease to the border province of Haut-Uele, used modelling to estimate a
+    seven-in-ten chance that a case of Ebola would arrive in South Sudan in the next
+    three months. Mr Bulabantu says people who come to his clinic are afraid of dying.
+    “There isn’t really a way for us to protect ourselves,” he says. “Neither for
+    us, nor the ill.” Fear seems like a rational response. ■ Sign up to the Analysing
+    Africa , a weekly newsletter that keeps you in the loop about the world’s youngest—and
+    least understood—continent. This article was downloaded by zlibrary from https://www.economist.com//middle-east-and-africa/2026/07/12/the-ebola-epidemic-is-getting-out-of-control
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文中通过Moise Bulabantu的例子指出，他在该地区是唯一的公共卫生工作者，缺乏防护设备（只有手套），这反映了该地区在应对埃博拉疫情时资源严重匮乏，故选C。
+    options:
+      A: The local health infrastructure is well-funded but disorganized.
+      B: Community nurses are receiving adequate support from the government.
+      C: The epidemic response is severely hampered by a lack of essential resources.
+      D: Patients are receiving early isolation and treatment in rural clinics.
+    q_number: 1
+    stem: What does the experience of Moise Bulabantu reveal about the state of the
+      Ebola epidemic in Ituri?
+  - answer: A
+    explanation: Peter Piot提到，仅有30%的新增病例是已知患者的接触者，这意味着大量患者在远离官方视野的情况下发病、传播病毒并死亡，因此确诊数字是被低估的，故选A。
+    options:
+      A: Too many patients are dying without seeking official medical care.
+      B: The testing technology currently in use is fundamentally unreliable.
+      C: Health authorities are intentionally suppressing the number of infected cases.
+      D: The rapid spread of the virus makes it impossible to track geographical movement.
+    q_number: 2
+    stem: According to Peter Piot, why is it challenging to gauge the true scale of
+      the Ebola outbreak?
+  - answer: C
+    explanation: 文中提到Ituri的地形是茂密的森林和连接不佳的小村庄，且武装组织威胁平民，大量人口流离失所寻找工作，这些因素使得追踪和隔离极其困难，故选C。
+    options:
+      A: A lack of interest from international medical charities.
+      B: The high cost of vaccine distribution in urban centers.
+      C: The prevalence of conflict, displacement, and geographical inaccessibility.
+      D: Resistance from the local population toward Western-style testing methods.
+    q_number: 3
+    stem: What is mentioned as a major logistical barrier to controlling the Ebola
+      outbreak in Ituri?
+  - answer: B
+    explanation: 文章提到，尽管承诺的资金总额很高，但实际到位资金很少，且Bunia的卫生工作者因薪资和工作条件问题进行了罢工，故选B。
+    options:
+      A: Disagreements over the efficacy of the new Ebola vaccine.
+      B: Frustration over unpaid salaries and inadequate working conditions.
+      C: Demands for more aid to be directed toward malaria and fresh water.
+      D: A protest against the presence of international aid agencies.
+    q_number: 4
+    stem: What is the primary reason behind the strike of health workers in Bunia?
+  - answer: B
+    explanation: 文章结尾部分提到，人们担心病毒传播到南苏丹，因为该国正处于内战边缘，其卫生系统比刚果更为脆弱，难以应对疫情，故选B。
+    options:
+      A: South Sudan lacks the cultural awareness to handle traditional burials.
+      B: The country's fragile health system would be incapable of containing an outbreak.
+      C: The government of South Sudan has refused to accept international humanitarian
+        aid.
+      D: The virus has already mutated into a more contagious strain during its transit
+        north.
+    q_number: 5
+    stem: What is the author's concern regarding the potential spread of Ebola to
+      South Sudan?
+  source_journal: Economist
+  title: The Ebola epidemic is getting out of control
+- article_update_date: 08.14.2026
+  body_text: '| Next | Section menu | Main menu | Punctuation: A Generational Divide
+    Can parents ever learn to text like their kids? Should they even try? by Judith
+    Shulevitz I was a novice editor, he was an experienced writer, and the first article
+    he turned in revealed a virtuosic command of comma placement. He opened with long,
+    slow clauses; picked up speed with shorter ones; withheld all commas for a gloriously
+    terse thesis statement; and then, crash ! A mass-casualty pileup of appositive
+    phrases. Grammarians, I married him. Now our son is the family authority on punctuation.
+    His expertise lies in using it in texts and on social media, where commas and
+    periods go to die. Semicolons too, decades after Kurt Vonnegut tried to banish
+    them. “First rule: Do not use semicolons,” he pronounced in 2005 . “All they do
+    is show you’ve been to college.” Exclamation points and emoji reign supreme. (Does
+    an emoji count as punctuation or rate as a paralinguistic element—that is, a relative
+    of a wink or an eye roll? My son shrugs.) Online punctuation is for torquing emotion,
+    he told me, not for making yourself clear: “The ultimate goal is not efficiency
+    but maximum attention.” Little marks can make big things happen, Florence Hazrat
+    reminds us in her new book, On the Mark: From Periods to Interrobangs, How Punctuation
+    Remade the World . Take the one-sentence Second Amendment, whose commas have been
+    responsible for a great deal of trouble: “A well regulated Militia, being necessary
+    to the security of a free State, the right of the people to keep and bear Arms,
+    shall not be infringed.” Until the 21st century, all parts of the amendment were
+    given equal weight regardless of commas, so that the gun rights granted in its
+    second half were limited to the militias referred to in the first half. In 2008,
+    however, Supreme Court Justice Antonin Scalia affirmed an unusual interpretation
+    that used a comma to downplay the clause about militias, leaving “the people”
+    with an individual right to bear arms . But the eminent originalist—of all people!—failed
+    to acknowledge an important historical fact. The version of the amendment on which
+    Scalia based his reading, found in the National Archives, is only one among many.
+    “Each state ratified a different version of this amendment,” Hazrat writes, “some
+    with two, some with three, and some with four commas.” Punctuation was not standardized
+    in the Founders’ time, so the best course of action, she says, is not to read
+    too much into those commas. The rules of punctuation have been codified since
+    then, but they have never stopped evolving. Indeed, thanks to the advent of technologies
+    that have us typing more and more, the rules have been hyper-evolving. Marks do
+    more than fit parts of a sentence together; they re-create the pace, emphasis,
+    and tone of voice that we rely on to make our meaning plain when we talk in person
+    or by phone. Now that we can react to a friend’s needy text or an enemy’s infuriating
+    post in real time and with minimal reflection, we need reliable substitutes for
+    extraverbal cues more than ever. But if online punctuation is about maximum attention
+    rather than mutual comprehension, and is mutating so rapidly, you have to wonder
+    about the future of communication. In the beginning was the written word, and
+    the word flowed into other words. Roughly 5,000 years ago, WRITINGLOOKEDLIKETHIS
+    . Then, slowly, graphic signposts emerged to make reading easier. Hazrat takes
+    us through this history: Babylonians arranged words into boxes, creating proto-paragraphs.
+    Old Assyrian and Old Persian put triangles between words. The demands of empire
+    spurred invention. In the second century B.C.E., the head librarian of the world’s
+    most ambitious collection of writings, the Library of Alexandria, hired linguists
+    and scholars from far-flung lands, and, to help them read Greek, came up with
+    a system of accents to guide pronunciation and dots to indicate pauses. Those
+    dots were forgotten after the decline of Rome, but they reappeared in different
+    guises with the spread of monotheistic religions: The word of God demands proper
+    punctuation. The printing press brought an explosion of published material, and
+    soon the modern book was born, set in different typefaces and organized with many
+    of the marks still used today. Renaissance humanists discovered the literary potential
+    of punctuation, inventing nuanced marks such as the exclamation point, the semicolon,
+    dashes, and parentheses (“little moons,” the Dutch scholar Erasmus fondly called
+    them). These new devices allowed sentences to ramble along twisty paths of thought,
+    opening up new realms of the self. Ever since, poets and novelists have been developing
+    punctuation into a high art, as Lee Clark Mitchell shows in Mark My Words: Profiles
+    of Punctuation in Modern Literature (2020). Emily Dickinson wielded dashes like
+    a fencer in her poems, slicing phrases apart, creating islands of heightened meaning.
+    The dashes were edited out after her death and not restored until 1955; Hazrat
+    reports that Dickinson used dashes of different sizes and shapes—curving upward
+    and downward and back on themselves—that modern typography still hasn’t captured.
+    Humbert Humbert, the narrator of Vladimir Nabokov’s Lolita , directs 450 parenthetical
+    asides to the reader, giving us all-too-intimate access to the thoughts of a floridly
+    narcissistic pedophile. Pulling readers into a different dark world, the 2026
+    Pulitzer Prize winner for fiction, Daniel Kraus’s Angel Down , never uses a single
+    period. Set in the trenches of World War I, the novel careens from scene to scene,
+    “gasping with too many commas,” Kraus has written, “a sentence doomed to loop
+    back on itself to form a terrible black wheel that, sooner or later, will drag
+    each and every person to their grave.” Today’s online punctuation styles cycle
+    in and out of fashion with manic speed. To digital natives, periods at the end
+    of text messages signify passive-aggressiveness. They’re “the texting equivalent
+    of your mother calling your full name,” the Gen Z language expert Adam Aleksic,
+    who goes by Etymology Nerd, explained in a 2024 TikTok. Except it’s not that simple:
+    My son and his friends do sometimes end texts with periods—to convey faux disapproval.
+    “Correct punctuation itself is a signal of irony,” he told me. That figures. Every
+    generation has to come up with its own way of subverting norms. The quest to punctuate
+    irony goes back to at least the late 16th century, when a printer proposed a backward-facing
+    question mark. A scientist later suggested using the upside-down exclamation point.
+    Nothing stuck. A 20th-century French novelist suggested the Greek letter psi —Ψ.
+    It looked fittingly like an arrow in the air. (“Irony stings,” Hazrat comments.)
+    Only the hashtag, which rose to prominence on Twitter, has had some staying power
+    as an irony marker—a punch line, a self-deprecating remark. Hazrat worries that
+    in our disembodied age, communication demands punctuation that can do more emotional
+    labor than our current marks can handle. She has a point: Think of all the micro-adjustments
+    we have to make as we go from texting family and friends to slacking colleagues
+    to emailing to posting. But I think the problem with online punctuation is that
+    it does too much, not too little. At any rate, my stabs at punctuating like someone
+    in the know generally make me look silly. I’m not alone. A genre has materialized
+    in which children critique parents’ cringey misuse of marks. Madeline Cash, in
+    Granta , puzzles over her mother’s habit of ending innocuous statements with an
+    ominous ellipsis . “OK …” her mother writes when Cash says she’s coming home to
+    visit. Cash wonders: “Is she going to say more? Is my coming home for Christmas
+    an imposition?” My son sent me a viral 2025 TikTok in which a perky young man
+    gives his parents a slide-deck presentation on when to use the double-exclamation-point
+    iMessage reaction, called the emphasis. He lays out three rules; his mother’s
+    emphases follow none of them. Hey! My emphases don’t either. Why hadn’t my son
+    ever told me that? “Because I’m resigned to old people using it wrong,” he texted,
+    plus he’s not in the business of making me look cool. Anyway, the standard emoji
+    and text reactions are becoming passé. His crowd uses an inexhaustible idiolect
+    of personalized symbols—memes, memoji (customizable avatars), stickers (emoji
+    made from random images and photographs), GIFs. From the August 2025 issue: What
+    are emoji? My son sent me an example: a sticker of Dora the Explorer with a glowing
+    third eye. She’s lying on a pink pillow, wearing a CPAP mask. The meaning was
+    nonobvious, to say the least. He explained: Dora is achieving nirvana while plugged
+    into a machine that delivers a steady flow of air, a metaphor for being connected
+    to the internet. Oh. How did he know that? “How could you not?” he wrote. Dora’s
+    bliss was several levels of meta beyond my age group, but I guess that’s as it
+    should be. For now, I’ll work on not putting periods at the end of my texts. This
+    article appears in the August 2026 print edition with the headline “Full Stop.”
+    When you buy a book using a link on this page, we receive a commission. Thank
+    you for supporting The Atlantic. This article was downloaded by calibre from https://www.theatlantic.com/magazine/2026/08/punctuation-internet-texting-generational-divide/687632/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: '文章提到：Online punctuation is for torquing emotion, he told me, not
+      for making yourself clear: “The ultimate goal is not efficiency but maximum
+      attention.” 故选项C符合文意。'
+    options:
+      A: To ensure maximum clarity and linguistic precision.
+      B: To facilitate efficient communication between generations.
+      C: To convey emotion and command attention.
+      D: To adhere to the evolving standards of digital grammar.
+    q_number: 1
+    stem: According to the passage, the author's son suggests that online punctuation
+      serves a purpose primarily different from that of traditional writing. What
+      is this primary purpose?
+  - answer: B
+    explanation: 文章通过讨论第二修正案中逗号对法律解读的影响，说明了标点符号如何改变（或影响）我们对文本含义的理解，故选B。
+    options:
+      A: Standardized punctuation has historically settled major legal disputes.
+      B: Punctuation marks can significantly influence the interpretation of legal
+        texts.
+      C: Justice Scalia was the first to recognize the importance of the National
+        Archives.
+      D: The Founders intended for punctuation to be the primary guide for legal meaning.
+    q_number: 2
+    stem: 'The author discusses the Second Amendment in the context of the Supreme
+      Court to illustrate that:'
+  - answer: C
+    explanation: 文中从Babylonians到Renaissance再到当代，展示了标点符号随帝国、印刷术及技术需求而不断演变的历程，符合“不断适应新需求”的描述。
+    options:
+      A: It has remained static since the inception of written language.
+      B: It was primarily developed to help people speak in public.
+      C: It has been constantly adapted to meet new communicative and societal demands.
+      D: It was designed by Renaissance humanists to restrict individual expression.
+    q_number: 3
+    stem: Which of the following best describes the historical role of punctuation
+      as portrayed in the text?
+  - answer: C
+    explanation: 作者提到“my stabs at punctuating... generally make me look silly”以及被孩子嘲笑或无奈接受父母的错误用法，体现了这种尝试带来的尴尬与误解。
+    options:
+      A: A closer emotional bond between parents and their children.
+      B: The successful acquisition of 'digital native' status by parents.
+      C: A humorous realization of their own incompetence or misunderstanding.
+      D: The creation of a new, mutually understood family dialect.
+    q_number: 4
+    stem: 'In the author''s view, the trend of parents trying to adopt their children''s
+      texting style often results in:'
+  - answer: A
+    explanation: 作者通过Dora表情包的例子，指出这些数字符号的含义对年轻人来说是显而易见的，但对于作者来说是“nonobvious”，且带有Meta色彩，体现了其对老一辈而言的复杂性与隔阂。
+    options:
+      A: Digital symbols are becoming increasingly complex and inaccessible to older
+        generations.
+      B: Memes and stickers are replacing text because they are more efficient.
+      C: Younger generations are abandoning irony in favor of philosophical metaphors.
+      D: Modern communication is moving toward a universal, non-verbal language.
+    q_number: 5
+    stem: 'The author quotes the example of the ''Dora the Explorer'' sticker to suggest
+      that:'
+  source_journal: Atlantic
+  title: Chapter 11
