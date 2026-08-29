@@ -1,20 +1,20 @@
 articles:
-- article_id: epub_107
+- article_id: epub_37
   journal_name: Economist
-  publish_date: 03.29.2026
-  title: Young people all over the world are clicking with mahjong
-- article_id: epub_27
-  journal_name: New Yorker
-  publish_date: 06.06.2026
-  title: Love Omen
-- article_id: rss_1_1778788332
-  journal_name: China Daily
-  publish_date: 05.14.2026
-  title: Satellite lofted for first Arab country
-- article_id: rss_5_1777491814
+  publish_date: 03.28.2026
+  title: If 19th-century plutocrats are dinosaurs, we’re now in Jurassic Park
+- article_id: epub_43
+  journal_name: Wired
+  publish_date: 06.25.2026
+  title: Chapter 43
+- article_id: rss_4_1786388556
   journal_name: The Guardian
-  publish_date: 04.29.2026
-  title: US supreme court’s conservative judges appear amenable to stripping TPS for
-    Haitians and Syrians
+  publish_date: 08.10.2026
+  title: Top Ugandan footballer killed by robbers armed with paving stones
+- article_id: rss_7_1786061155
+  journal_name: The Guardian
+  publish_date: 08.07.2026
+  title: Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people
+    as a ‘historic milestone’
 generate_date: 08.29.2026
 strategy: common
