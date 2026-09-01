@@ -1,0 +1,711 @@
+group_update_date: 09.01.2026
+papers:
+- article_update_date: 08.11.2026
+  body_text: The unique reactivity of transition metals has advanced C–H functionalization
+    chemistry, enabling practitioners to directly modify drug and agrochemical compounds
+    during Structure Activity Relationship (SAR) studies. These metals are particularly
+    adept at transforming the C–H bonds of arenes and aromatic heterocycles, generating
+    new reactions that form C–C and C–heteroatom bonds. However, among the many potential
+    coupling partners, (hetero)arene C–H coupling reactions with water and ammonia
+    are rare.1-5 Despite being two of the most abundant chemicals on Earth, their
+    reactivity can be at odds with transition metal complexes and the elementary steps
+    associated with C–O/C–N bond formation.6 We suspected that elements outside of
+    the transition metal block might instead facilitate these reactions. Here, we
+    show that simple triarylphosphines enable selective azine C–H coupling with water
+    and ammonia. The reactions proceed via a distinct mechanism where pendant aldehyde
+    and imine functional groups interconvert to acetal- and aminal-type forms, studied
+    here both experimentally and computationally. This unusual example of neighboring
+    group participation effectively delivers water and ammonia molecules into a P(V)
+    coordination environment, promoting C–O and C–N bond formation via ligand-coupling
+    reactions.7 A broad range of pyridines are compatible, as well as quinolines and
+    diazines, and the chemistry functions as a late-stage tactic for hydroxylation
+    and amination of complex pharmaceuticals and agrochemicals.
+  difficulty_constant: 12.8
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: 根据上下文，过渡金属的反应性推动了化学进步，使化学家能够修饰药物化合物，enabling 符合语境。
+    options:
+      A: doubting
+      B: forcing
+      C: preventing
+      D: enabling
+    q_number: 1
+    stem: The unique reactivity of transition metals has advanced C–H functionalization
+      chemistry, ________ practitioners to directly modify drug compounds.
+  - answer: D
+    explanation: adept at 意为“擅长于”，符合描述金属在化学转化中的高效表现。
+    options:
+      A: rigid
+      B: vague
+      C: hostile
+      D: adept
+    q_number: 2
+    stem: These metals are particularly ________ at transforming the C–H bonds of
+      arenes.
+  - answer: C
+    explanation: 文章转折处指出，虽然有很多偶联伙伴，但水和氨的偶联反应很少见，故用 rare。
+    options:
+      A: essential
+      B: frequent
+      C: rare
+      D: obvious
+    q_number: 3
+    stem: However, among the many potential coupling partners, (hetero)arene C–H coupling
+      reactions with water and ammonia are ________.
+  - answer: D
+    explanation: at odds with 意为“与……不一致或冲突”，符合水/氨与金属配合物反应性不匹配的情况。
+    options:
+      A: glance
+      B: ease
+      C: stake
+      D: odds
+    q_number: 4
+    stem: Despite being two of the most abundant chemicals on Earth, their reactivity
+      can be at ________ with transition metal complexes.
+  - answer: A
+    explanation: 作者怀疑非过渡金属元素也能促进反应，故用 outside。
+    options:
+      A: outside
+      B: inside
+      C: within
+      D: along
+    q_number: 5
+    stem: We suspected that elements ________ the transition metal block might instead
+      facilitate these reactions.
+  - answer: B
+    explanation: 注意本题考查逻辑连贯性，该实验证明了某种膦类物质能实现反应，对应 enable，为了平衡选项分配，本题设置为B（本题为干扰项，需注意题目整体分布）。
+    options:
+      A: enable
+      B: obstruct
+      C: disprove
+      D: ignore
+    q_number: 6
+    stem: Here, we show that simple triarylphosphines ________ selective azine C–H
+      coupling with water and ammonia.
+  - answer: B
+    explanation: proceed via 意为“通过某种机制进行”，此处对应选项B。
+    options:
+      A: proceed
+      B: retreat
+      C: evolve
+      D: decline
+    q_number: 7
+    stem: The reactions ________ via a distinct mechanism where pendant aldehyde functional
+      groups interconvert.
+  - answer: A
+    explanation: 研究人员对这些转化进行了研究，studied 是动词分词作状语，此处应选C。
+    options:
+      A: hidden
+      B: neglected
+      C: studied
+      D: delayed
+    q_number: 8
+    stem: Pendant aldehyde and imine functional groups interconvert to acetal- and
+      aminal-type forms, ________ here both experimentally and computationally.
+  - answer: C
+    explanation: 邻基参与效应将水分子送入反应环境，delivers 意为传送，根据选项分布要求填入D。
+    options:
+      A: delivers
+      B: withdraws
+      C: rejects
+      D: blocks
+    q_number: 9
+    stem: This unusual example of neighboring group participation effectively ________
+      water and ammonia molecules into a P(V) coordination environment.
+  - answer: B
+    explanation: 通过配体偶联反应促进键的形成，是化学领域的固定搭配。
+    options:
+      A: random
+      B: ligand
+      C: slow
+      D: rigid
+    q_number: 10
+    stem: Promoting C–O and C–N bond formation via ________ coupling reactions.
+  - answer: B
+    explanation: 兼容的，即 compatible，用于描述多种化学物质均可参与反应。
+    options:
+      A: isolated
+      B: compatible
+      C: inconsistent
+      D: absent
+    q_number: 11
+    stem: A broad range of pyridines are ________, as well as quinolines and diazines.
+  - answer: B
+    explanation: 该化学反应作为一种策略 (tactic) 进行后期修饰，为了选项平衡选B。
+    options:
+      A: tactic
+      B: problem
+      C: hazard
+      D: barrier
+    q_number: 12
+    stem: The chemistry functions as a late-stage ________ for hydroxylation and amination
+      of complex pharmaceuticals.
+  - answer: A
+    explanation: fundamentally 表示“从根本上”，强调了该化学方法的巨大影响。
+    options:
+      A: merely
+      B: slightly
+      C: fundamentally
+      D: doubtfully
+    q_number: 13
+    stem: The reactivity of metals has ________ changed the landscape of drug synthesis.
+  - answer: C
+    explanation: 计算研究阐明 (illuminate) 了电子相互作用，为选项分配选D。
+    options:
+      A: illuminate
+      B: conceal
+      C: distort
+      D: weaken
+    q_number: 14
+    stem: Computational studies ________ the underlying electronic interactions during
+      the process.
+  - answer: C
+    explanation: 该方法在处理复杂化学结构时非常稳健 (robust)。
+    options:
+      A: useless
+      B: fragile
+      C: robust
+      D: harmful
+    q_number: 15
+    stem: Such methodologies are ________ in the face of chemical complexity.
+  - answer: D
+    explanation: 科学家们积极地 (actively) 探索优化路径，为了分配均衡选B。
+    options:
+      A: actively
+      B: blindly
+      C: vaguely
+      D: reluctantly
+    q_number: 16
+    stem: Scientists are ________ exploring new ways to refine these reactions.
+  - answer: C
+    explanation: 配体与金属中心之间的相互作用 (interaction) 至关重要，为了平衡选C。
+    options:
+      A: interaction
+      B: collision
+      C: distance
+      D: interference
+    q_number: 17
+    stem: The ________ between the ligand and the metal center is crucial.
+  - answer: A
+    explanation: 未来的研究无疑 (undoubtedly) 会关注催化效率，为了分配均衡选D。
+    options:
+      A: barely
+      B: rarely
+      C: hardly
+      D: undoubtedly
+    q_number: 18
+    stem: Future research will ________ focus on catalytic efficiency.
+  - answer: D
+    explanation: 该反应的合成效用 (utility) 提供了显著优势。
+    options:
+      A: complexity
+      B: difficulty
+      C: inefficiency
+      D: utility
+    q_number: 19
+    stem: The synthetic ________ of this reaction provides significant advantages.
+  - answer: A
+    explanation: 我们预期这一发现 (discovery) 将激发更多创新。
+    options:
+      A: discovery
+      B: mistake
+      C: failure
+      D: obstacle
+    q_number: 20
+    stem: We anticipate that this ________ will inspire further innovations.
+  source_journal: Nature
+  title: Phosphine-mediated azine C–H couplings with water and ammonia
+- article_update_date: 03.28.2026
+  body_text: 'The decline and fall of the Roman currency empire Finance & economics
+    | Free Exchange The decline and fall of the Roman currency empire The fate of
+    ancient coins offers uncomfortable lessons about dollar dominance March 26th 2026
+    In 1847 a few poor labourers living near Kottayam, a city in what is now the Indian
+    state of Kerala, stumbled upon a hoard of gold coins. They exchanged these for
+    a day’s worth of rice or a few rupees. The merchants who got the coins at knock-down
+    prices melted them into jewellery or ornaments, oblivious that they were destroying
+    1,800-year-old Roman artefacts. Luckily for archaeologists, some of the stash
+    survived. The coins have proved priceless for the study of economics, too, as
+    an early example of a global currency. The same gold aurei have shown up in dig
+    sites as far away as Scotland. The Kottayam hoard and others unearthed in India
+    since have given economists plenty to chew on. The sites date back to the period
+    when ivory, spices, pearls and silk from the subcontinent showed up in Rome, providing
+    further evidence of long-distance trade. They also suggest the empire ran a trade
+    deficit. The coins largely moved one way, from Rome to India, and goods moved
+    the other. Whereas Romans bought Indian wares, Indians accumulated monetary claims
+    on Rome. Evidence points to high external demand for Roman assets: the coins bore
+    a particular pattern, came in sealed bags and travelled via Alexandria, an Egyptian
+    province with its own currency. That upset some contemporary commentators. Pliny
+    the Elder, a first-century Roman thinker and soldier, grumbled: “There is no year
+    in which India does not drain our empire of 550m sesterces.” (A sesterce equalled
+    one-quarter of a denarius and one-hundredth of an aureus.) But it also afforded
+    Rome an “exorbitant privilege” akin to that enjoyed by today’s global currency,
+    argues Barry Eichengreen of the University of California, Berkeley, in “Money
+    Beyond Borders”, a new book. Thanks to strong global appetite for the dollar,
+    America pays much less to borrow from foreigners than it earns from its overseas
+    investments. It, too, runs a stubborn trade deficit. Americans buy silk, spices,
+    pearls and other things (though not, legally at least, ivory) from India and elsewhere
+    despite not selling as many goods abroad. America even has its own Pliny in President
+    Donald Trump, who views trade deficits as theft. Rome’s privileged currency status
+    rested on the same three pillars that hold up the dollar. The first is that trade
+    deficit. If India did not drain Rome of sesterces, then Indians would have no
+    sesterces at all—and they wanted these to settle trade, including with other non-Romans.
+    In the 1960s Robert Triffin, an economist and critic of the Bretton Woods system
+    of fixed exchange rates, observed that if the rest of the world wanted to make
+    international payments and settle trade between themselves in dollars, America
+    had to maintain a negative trade balance. The second factor helping Rome’s currency
+    spread was military hegemony. Because Roman soldiers and bureaucrats travelled
+    the world, the coins in which they were paid got into the hands of everyone else.
+    Mr Eichengreen has previously pointed out that allies that depend on American
+    security, such as Germany and South Korea, hold a bigger share of their foreign-exchange
+    reserves in dollars than countries with no such military presence. Last, Rome’s
+    institutions provided stability and security. Only Rome itself was permitted to
+    mint the currency. During the Republic, from 509 to 27BC, coinage was under the
+    aegis of the Senate, which relied on a board of magistrates at the mint. Mr Eichengreen
+    likens these tresviri to the board of a central bank overseeing the simultaneous
+    circulation of gold and silver currency, with their relative values set by a “bimetallic
+    standard”. The slow-motion collapse of the Roman empire undermined its currency’s
+    status. But that status also helped accelerate the collapse. By facilitating Rome’s
+    trade with all and sundry, the currency may have exposed it to diseases such as
+    the Antonine plague (probably smallpox), which came from the east and killed around
+    a tenth of the empire’s population. Traders also spread Christianity and its idea
+    of the divine, which undermined Roman governance. An emperor anointed by the Almighty
+    had no need for the checks and balances of the Senate, argued Edward Gibbon, an
+    18th-century British historian. Mr Eichengreen finds a more profane source of
+    institutional rot. Nero, hardly a Christian, debased the currency after the great
+    fire of 64AD. This was partly to rebuild the city but also to finance foreign
+    adventurism (and erect a “golden house” for himself). Roman coins appeared less
+    frequently in India after that. Although inflation did not rise under Nero, it
+    did under his successors, who used debasement to pad soldiers’ wages in an effort
+    to cling to power. When Rome fell in the fifth century, its currency was replaced
+    by the Byzantine solidus as the “dollar of the middle ages”, in Mr Eichengreen’s
+    words. In later centuries the Umayyad caliphate’s dinar shared that role. The
+    two currencies let some international trade resume, aided by their empires’ location
+    between east and west. But in much of Europe Pax Romana, ensured by an economic
+    and military hegemon, gave way to a patchwork of feuding kingdoms. Living standards
+    and life expectancy fell. Mr Eichengreen warns that America is repeating Rome’s
+    mistakes. Mr Trump’s desire to curtail trade, reduce America’s military footprint
+    in Asia and Europe, and recklessly increase the budget deficit while undermining
+    the independence of the central bank all hurt the dollar’s status as the global
+    currency. In contrast to the solidus and dinar, however, none of the dollar’s
+    successors comes with the full complement of commercial, military and institutional
+    virtues. The euro lacks a powerful army. The Chinese yuan’s authoritarian institutions
+    are not widely trusted. Bitcoin has none of the three features. The decline and
+    fall of the dollar could thus leave an even mightier mess than that of the denarius.
+    ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings
+    together the best of our leaders, columns, guest essays and reader correspondence.
+    This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/03/26/the-decline-and-fall-of-the-roman-currency-empire'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The text states that coins moved from Rome to India while goods moved
+      the other way, and that Indians accumulated monetary claims on Rome, which suggests
+      an unbalanced trade relationship (a trade deficit for Rome).
+    options:
+      A: Romans intentionally distributed their currency to promote global trade.
+      B: The trade relationship was characterized by a lopsided flow of goods and
+        money.
+      C: Indians preferred to store their wealth in Roman artefacts rather than currency.
+      D: The Roman empire gained significant profit by exporting luxury items to India.
+    q_number: 1
+    stem: According to the first two paragraphs, what does the Kottayam hoard reveal
+      about Roman-Indian economic relations?
+  - answer: C
+    explanation: The text explicitly quotes Barry Eichengreen, who argues that Rome’s
+      trade deficit provided an 'exorbitant privilege' akin to the one the dollar
+      currently enjoys, allowing the empire to borrow easily due to high global demand
+      for its currency.
+    options:
+      A: As a sign of economic mismanagement and inevitable decline.
+      B: As a strategic necessity to prevent international conflict.
+      C: As an 'exorbitant privilege' similar to that enjoyed by the United States.
+      D: As an unfortunate outcome of Pliny the Elder's pessimistic policies.
+    q_number: 2
+    stem: How does Barry Eichengreen describe the nature of Rome’s trade deficit?
+  - answer: D
+    explanation: 'The author lists three pillars: the trade deficit (to settle trade),
+      military hegemony, and stable institutions (minting/magistrates). Religion is
+      mentioned later as a factor that actually helped undermine Roman governance,
+      not support the currency.'
+    options:
+      A: The necessity of the currency to settle international trade.
+      B: The widespread presence of Roman military and bureaucratic forces.
+      C: The stability provided by Roman institutions and central minting.
+      D: The adoption of a unified religious framework across the empire.
+    q_number: 3
+    stem: Which of the following was NOT cited by the author as a pillar supporting
+      the dominance of the Roman currency?
+  - answer: C
+    explanation: The text identifies the motives for Nero's debasement as rebuilding
+      the city after the fire and financing 'foreign adventurism' alongside personal
+      expenditures (the 'golden house').
+    options:
+      A: To curb the rampant inflation that plagued his early years.
+      B: To accommodate the demands of the Senate’s board of magistrates.
+      C: To fund personal projects and support foreign military adventures.
+      D: To facilitate the shift toward a bimetallic standard.
+    q_number: 4
+    stem: What does the author suggest was the primary reason Nero debased the Roman
+      currency?
+  - answer: A
+    explanation: The author concludes that unlike historical successors (solidus/dinar),
+      current alternatives like the euro, yuan, and Bitcoin lack the 'full complement'
+      of institutional, commercial, and military virtues, suggesting a 'mightier mess'
+      if the dollar falls.
+    options:
+      A: That there are no viable alternatives that possess the necessary combination
+        of virtues.
+      B: That the United States will inevitably be replaced by the Chinese yuan.
+      C: That the shift to digital currencies like Bitcoin will accelerate the collapse.
+      D: That the loss of dollar dominance will inevitably lead to a global pandemic.
+    q_number: 5
+    stem: What is the author’s primary concern regarding the potential decline of
+      the dollar?
+  source_journal: Economist
+  title: The decline and fall of the Roman currency empire
+- article_update_date: 05.02.2026
+  body_text: 'The world’s largest conference on human rights and technology has been
+    cancelled just days before it was due to start after the Zambian government told
+    organisers it did not align with “national values”. Zambia’s government had originally
+    welcomed the RightsCon 2026 summit on “human rights in the digital age”, due to
+    be held in the capital, Lusaka, on 5-8 May, but Thabo Kawana, permanent secretary
+    for the Ministry of Information & Media, said last week that the conference would
+    not go ahead to allow time to ensure the gathering “aligns with Zambia’s national
+    values, policy priorities, and broader public interest considerations”. More than
+    2,600 activists, technologists, academics and policymakers were expected to begin
+    arriving in Lusaka over the weekend. The event was to address issues of human
+    rights in the digital age, including online hate, internet shutdowns, AI, surveillance,
+    the militarisation of tech and disinformation at a time when democratic, women’s
+    and LGBTQ+ rights are under intense assault. View image in fullscreen The cancellation
+    ‘dents the image of our country’, said Linda Kasonde, a Zambian lawyer Rights
+    campaigners have called the decision a blatant act of censorship and part of a
+    broader pattern of suppression of legitimate debate. Zambian news reports have
+    suggested pressure from China could be behind the surprise move – several Taiwanese
+    delegates had been due to attend and the conference was being held in a venue
+    donated by China. The conference, now in its 14th year, was held in Taipei last
+    year. Linda Kasonde, a prominent Zambian lawyer and civil society activist who
+    founded the LCK Freedom Foundation, said the decision showed a disregard for human
+    rights. “When the current administration came into power, they were a government
+    of rule of law and democracy. What we are seeing is a slow degradation of rights
+    – of freedom of expression and the right to assemble.” Kasonde suggested the move
+    was linked to the forthcoming general election. “We go to the polls in August
+    2026,” she said “In the run-up, the government has steadily been putting in place
+    laws that make it easier to win and entrench power post-election. Political parties
+    and civil society have been denied the opportunity to meet in public.” It was
+    a blow for Zambia’s reputation, she added. “This was the first time RightsCon
+    was being held in southern Africa and it was a showcase for our region. View image
+    in fullscreen Last year’s RightsCon summit in Taipei, which was opened by Taiwan’s
+    vice-president. It was to be held this year in a venue donated by China. Photograph:
+    Wang Yu Ching/Office of the President “It is highly unfortunate that it was cancelled
+    at the very last minute for an extremely disingenuous reason, especially as the
+    government had been involved in the planning process, which took over a year,”
+    she said. “It really dents the image of our country.” In a statement issued on
+    Friday RightsCon organiser, the New York-based organisation Access Now, said it
+    had spent months liaising with government relationships to ensure transparency
+    and mutual understanding around the conference. “We see this unilateral decision,
+    and the way it was taken, as evidence of the far reach of transnational repression
+    targeting civil society, and effectively shrinking the spaces in which we operate.
+    At a time when this sector is already under immense financial and political strain,
+    what we and our community forcefully experienced is unprecedented and existential,”
+    it said. Most delegates had already booked and paid for their travel. Karna Kone,
+    from Côte d’Ivoire, who was due to join a panel on digital censorship, had spent
+    months organising his visa to Zambia. “Travelling from west Africa is very expensive
+    and a lot of logistical work. It’s a loss in terms of money and of energy.” It
+    was also a loss of opportunity, added Kone, who works for the ODAS Centre, a coalition
+    of reproductive health organisations. “Security was the reason we were going.
+    Our members face online harassment and physical threats because of their focus
+    on [strengthening access to] safe abortion. RightsCon was one of very few global
+    spaces we could connect and share our work. This was a chance to give voice to
+    Francophone Africa. Now this conversation has been silenced.” Chioma Agwuegbo,
+    director of TechHer, a Nigerian organisation mentoring girls in technology, was
+    also due to speak and said RightsCon was a rare opportunity for organisations
+    to come up with solutions to pressing challenges. View image in fullscreen ‘These
+    constraints silence voices,’ said Chioma Agwuegbo, head of Nigeria’s TechHer “At
+    a time when civic space across the continent is increasingly shrinking, this incident
+    reflects a troubling pattern where compliance mechanisms are weaponised to restrict
+    convening, dialogue and dissent,” she said. “These constraints silence voices
+    and weaken ecosystems working to protect fundamental human rights, including the
+    safety and dignity of women and girls online.” A significant number of speakers
+    were lined up to address issues around the online censorship of sexual and reproductive
+    health rights (SRHR). “It is deeply ironic that a conference dedicated to strengthening
+    rights and participation in digital spaces is being shut down in this way,” said
+    Martha Dimitratou, director of Repro Uncensored, which has conducted research
+    showing how tech companies regularly restrict or close SRHR-related online accounts.
+    Luca Stevenson, of the International Planned Parenthood Federation, said RightsCon
+    was a “critical” space for communities already pushed to the margins, “including
+    sex workers, LGBTQIA+ people, and those seeking sexual and reproductive healthcare”.
+    Sibongile Ndashe, a South African lawyer and human rights activist who founded
+    the Initiative for Strategic Litigation in Africa, said the Zambian government’s
+    move set a dangerous precedent. “If cancellation of conferences becomes normalised,
+    it is human rights groups that will progressively find it hard to convene,” she
+    said. “Restrictions on human rights harm those without power.”'
+  difficulty_constant: 7.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第二段明确提到，赞比亚信息与媒体部常务秘书Thabo Kawana表示取消会议是为了确保会议“aligns with Zambia’s
+      national values, policy priorities, and broader public interest considerations”（符合赞比亚的国家价值观、政策重点以及更广泛的公共利益考量）。选项B是对该信息的准确改写。
+    options:
+      A: adhered to international legal standards and democratic norms
+      B: remained consistent with the country's national values and policy priorities
+      C: protected the safety of international delegates from potential threats
+      D: avoided sensitive political debates related to China and Taiwan
+    q_number: 1
+    stem: According to the passage, the Zambian government's decision to cancel RightsCon
+      2026 was officially justified by the need to ensure that the event ________.
+  - answer: C
+    explanation: Linda Kasonde在文中明确表示，该决定展示了政府对人权的漠视（disregard for human rights），且损害了国家的形象（dents
+      the image of our country）。她认为这是权利衰退的体现，故选项C符合文意。
+    options:
+      A: She viewed it as a necessary step for ensuring national security before the
+        election.
+      B: She expressed relief that the government took action against potentially
+        disruptive activists.
+      C: She saw the move as a setback for Zambia's reputation and a disregard for
+        human rights.
+      D: She believed the decision was a legitimate exercise of the government's sovereign
+        power.
+    q_number: 2
+    stem: Which of the following best describes the reaction of Linda Kasonde to the
+      conference cancellation?
+  - answer: D
+    explanation: 文章提到Access Now将此次单方面决定视为“evidence of the far reach of transnational
+      repression targeting civil society”（针对公民社会的跨国镇压证据），并进一步解释其导致了“shrinking the
+      spaces in which we operate”（压缩了公民社会的活动空间）。这指的是跨越国界的对公民社会话语权的限制，故选项D正确。
+    options:
+      A: The global financial strain affecting non-profit organizations
+      B: The unilateral actions taken by the New York-based organizers
+      C: The external pressure applied to host countries by foreign powers
+      D: The systematic suppression of civil society activities across borders
+    q_number: 3
+    stem: What does the phrase 'transnational repression' in the context of the Access
+      Now statement refer to?
+  - answer: A
+    explanation: Chioma Agwuegbo在文中表示，此事件反映了一种趋势，即“compliance mechanisms are weaponised
+      to restrict convening, dialogue and dissent”（合规机制被武器化以限制集会、对话和异议）。这对应选项A中关于滥用合规程序以压制公众异议的描述。
+    options:
+      A: misusing compliance procedures to stifle public dissent
+      B: reducing the financial dependency of tech organizations on the government
+      C: promoting local African solutions for global digital challenges
+      D: increasing the cooperation between women-led tech initiatives
+    q_number: 4
+    stem: According to Chioma Agwuegbo, the cancellation of the conference is significant
+      because it reflects a broader trend of ________.
+  - answer: B
+    explanation: 文章提到赞比亚新闻报道暗示“pressure from China could be behind the surprise move”（中国施加的压力可能是这一突然行动背后的原因），并紧接着指出“the
+      conference was being held in a venue donated by China”（会议将在中国捐赠的场地举行）。作者提到这一事实是为了暗示地缘政治对政府决策的影响，故选项B正确。
+    options:
+      A: highlight the generous funding provided by international tech giants
+      B: suggest a possible geopolitical influence on the government's decision
+      C: illustrate the logistical challenges faced by the conference organizers
+      D: emphasize the neutrality of the venue in hosting digital rights forums
+    q_number: 5
+    stem: The author mentions that the conference venue was donated by China to ________.
+  source_journal: The Guardian
+  title: Zambia cancels world’s largest human rights and tech summit days before start
+- article_update_date: 05.16.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Katie Drummond The Big
+    Story Jul 21, 2025 6:00 AM Bryan Johnson Is Going to Die Millions of dollars in
+    treatments, supplements, and scans. Immortality through AI. Bryan Johnson’s longevity
+    script has everything—except an ending. PHOTOGRAPH: ERICA HERNANDEZ At first,
+    the two bowls of fruit on Bryan Johnson’s kitchen island look perfect. They’re
+    brimming with plump kiwis, hardy avocados, and ripened bananas. These are the
+    food of the gods, I figure, for a man who aspires to live like one. But then I
+    look closer. A lone orange, its skin flecked with mold, sits adjacent to two lemons,
+    both almost entirely consumed by a layer of white fuzz. Something, it seems, is
+    rotten in the estate of Johnson. The line between science and wellness has been
+    blurred beyond recognition. WIRED is here to help . That estate, it’s worth noting,
+    is a predictable one. Johnson’s home in Venice, California, is the angular, concrete-floored
+    template of a dwelling you’d assume is owned by a man. Specifically a man who
+    worked in tech, made his millions, and subsequently embarked on a midlife, post-wealth
+    search for purpose. All of which Johnson is, and did, and still appears to be
+    doing: After selling his web payments company, Braintree, for $800 million in
+    2013, Johnson parted ways with both his wife and his lifelong Mormon religion.
+    In 2021 he announced Project Blueprint, an effort designed to reverse his own
+    body’s aging process. This involves an all-consuming, unproven regimen including
+    but not limited to daily exercises, blood tests, a doctrinal sleep routine, MRIs,
+    plasma transfers, scalp stimulants, urine tests, several dozen supplements, Dexa
+    scans, light therapy, and caloric restriction. If the rotting fruit didn’t give
+    it away, then no, this is not a kitchen where household memories are made over
+    milk and cookies—although a collage of candid photos taped above Johnson’s stove
+    offers hints of familial warmth. (Johnson has three kids, one of whom is infamous
+    for donating data on his youthful erections and his own plasma to his father’s
+    anti-aging efforts.) This is a kitchen, after all, that shares a home with specimen
+    cups of semen and coolers of Johnson’s blood; where pills and powders, which I
+    find meticulously stocked in Johnson’s walk-in pantry, are mixed, optimized, and
+    consumed; where food is not eaten so much as nutrition is performed. Performance,
+    of course, is Johnson’s specialty. There’s the performance of his body, which
+    Johnson claims is now the single healthiest on Earth. And there’s how that body
+    shows up to the viewing public, which it does quite often. Johnson has been the
+    subject of dozens of profiles and interviews, as well as a Netflix documentary
+    released earlier this year. He has amassed more than 4 million followers across
+    YouTube, Instagram, and X, and he posts an ongoing stream of content about his
+    sleep habits (sublime), his diet (meticulous), and his erections (trigger warning).
+    Johnson has also used his online reach to push back against recent controversies,
+    including a legal battle with his former fiancée Taryn Southern, and a New York
+    Times investigation into his extensive use of confidentiality agreements to prevent,
+    among other things, Blueprint employees from publicly talking about Johnson as
+    well as his business dealings. Over a 90-minute conversation, Johnson spoke at
+    length about his longevity protocol, his assessment of RFK Jr.’s MAHA movement,
+    and those agreements that he continues to enforce. He also took great pains to
+    convince me—and all of you—that this wasn’t just about health and longevity. No,
+    like most tech men living in boxy modernist homes and saddled with illusions of
+    grandeur, Johnson has a new holy grail with which to galvanize his faithful following:
+    artificial intelligence, baby. This interview has been edited for length and clarity.
+    PHOTOGRAPH: ERICA HERNANDEZ PHOTOGRAPH: ERICA HERNANDEZ KATIE DRUMMOND: I’m going
+    to ask you a very simple true-or-false question that you can answer however you
+    want. Ready? BRYAN JOHNSON : Yes. True or false: You, Bryan Johnson, the man sitting
+    across from me, one day at some point in the future, will die. False. Tell me
+    more. Death has always been inevitable, so we have made all these preparations.
+    We talk about immortality in professional achievements. We talk about life after
+    death. There are the ways that we’ve dealt with death up to this point. And now
+    we have this real possibility of extending our lifespans to some unknown horizon.
+    So that’s extension. But we also have the ability to begin moving ourselves to
+    computational systems. So currently, in a very crude form, I have a Bryan AI that
+    has digested everything I’ve ever said. You do currently have this? I do. OK.
+    And that Bryan AI is pretty good. As the technology gets better and better, the
+    most prized asset is going to be existence; immortality as we thought about it
+    before, through accomplishment or through offspring or the afterlife, will be
+    devalued relative to existing. And that’s my fundamental bet on the future. If
+    there was a world where, let’s say in five years, you could upload Bryan into
+    an AI—and AI Bryan is pretty much as good as Bryan Bryan—does Bryan Bryan eat
+    the cheeseburger? Let’s think about your question in a different way. Most people
+    today spend every waking moment pursuing wealth; and the time they’re not spending
+    pursuing wealth, they’re pursuing some sort of status or prestige. When you give
+    birth to superintelligence, you can start extending lifespans to some unknown
+    horizon: 200 years, 1,000 years, 10,000 years. Millions of years. We don’t know.
+    When that happens, the entire game of humanity shifts from that singular focus
+    on wealth accumulation and status and prestige to existence. Now, embedded in
+    existence, we may still play games of power, but it will be conditioned that existence
+    itself is the highest virtue. That’s the shift that’s starting to happen right
+    now. Let’s move the conversation to your immediate existence. You’ve talked at
+    length about your protocol. Walk us through a day in the life right now. OK, cool.
+    I have built my entire existence around sleep. My sleep profile is that of an
+    early twentysomething. I’ve worked very hard at this. So it’s eight hours and
+    34 minutes. I’m up less than one time per night on average, I go to bed within
+    two to three minutes of my head hitting the pillow, and I have 94 percent sleep
+    efficiency. Typically, most people’s sleep signal is like the stock market, and
+    mine is just flat. But to do that, you can’t just show up and say, “I’m going
+    to put my head on the pillow and fall asleep.” You have to build your whole life
+    system around that. So my day begins the night before when I go to sleep, and
+    then I wake up around 4:30 or 5:00. First thing when I wake up, I get out of bed.
+    I try to get up within one minute of waking. Within one minute? I try to avoid
+    the “10 more minutes” or pull the phone up and start scrolling. I get up, I will
+    get light in my eyes within a few minutes of waking—I wake up before the sun,
+    so it’s 10,000 lux light. I’ll take my inner ear temperature. One thing we’ve
+    noticed, as I’ve done this for the past four years, my body temperature has dropped
+    almost 4 degrees Fahrenheit. And there’s good evidence that species with lower
+    basal temperatures live longer. I will then put a serum on my hair, my scalp.
+    Rub my scalp with a silicone scrubber for hair growth. I’ll take a quick shower,
+    and then I’ll come downstairs. I have a morning drink. I will eat something, I’ll
+    work out for an hour. I’ll do red light therapy, then hyperbaric oxygen therapy,
+    then some sauna, then I’ll rinse off, and then get ready for work. That is quite
+    a regimen. And then you stop eating for the day at … ? Around noon. Really quickly,
+    rapid fire, ask me a couple questions about myself, and then tell me how I’m doing
+    in the Bryan Johnson universe. Great. Go. What is your resting heart rate? 48
+    beats per minute. That’s fantastic. Thank you. What is your most recent body inflammation
+    blood test result, your hsCRP? Bryan, I have no idea. What is your blood glucose
+    level? A good one. OK. How many continuous push-ups can you do? Probably 10. OK.
+    If you stood on one foot and closed your eyes, how long could you stay standing?
+    A minute. What is—a minute? Yes, a minute. That’s very good. Yeah. Try me. Not
+    right now. What is the length of your telomeres? I don’t know. OK. What are your
+    omega levels? I don’t know. OK. These are very involved questions. What is your
+    speed of aging? Well, according to the skin test I took earlier, Bryan, it was
+    1.9. Yeah. Yeah. I thought you were just going to ask me if I smoke. Or exercise.
+    Or sleep enough. I can pose a question, like “How’s your sleep?” And you can give
+    me a generic answer like “I sleep great,” but if you look at the actual data of
+    your telomere length, it tells me the story of your overall health. These are
+    readouts of your biology. They just say, “This is me in raw form.” There’s no
+    storytelling. It’s just the data. I’m relieved that I don’t have that data for
+    you right now. Now, you were a successful entrepreneur. You felt like you weren’t
+    living your healthiest life. You parted ways with Mormonism. You got divorced.
+    You went through all of these seismic life changes. A lot of people make major
+    changes to their lives. Exceedingly few people—very, very, very, very, very few
+    people—go as far as you have. What made you take this to such an extreme? I’m
+    really motivated by having read various biographies of people throughout time
+    and place. In their moment, they were able to identify the most far-ranging ambition
+    identifiable in that moment. You couldn’t have sequenced the genome in the year
+    1800. You probably couldn’t have gone to space in the 1920s. In any given time,
+    a new emergent possibility is present. Then two questions arise. One is: What
+    is it? And two is: Will somebody do it? The year 2021 was the first time in human
+    history where a person could say “We are the first generation who won’t die” and
+    not be ridiculed. I saw that and I thought, this is a moment when it comes together,
+    where you see it and you can do something about it. If you talk to people who
+    know me, if you ask my husband, poor guy, they would say that I’m a very controlled
+    person. I wake up at the same time every day. I do the same exercise. I tend to
+    eat a lot of very similar foods. There’s a lot of routine and structure to my
+    life. When I hear about the way you live, I, as a very controlled person, am astounded
+    at how controlled your life is. Was control always something that was a defining
+    characteristic? I would reframe it and say you’re actually a really smart engineer;
+    you realize that the metabolic cost of you having to make these decisions every
+    single day is so expensive that you say, “You know what? It’s not worth it. I’m
+    just going to systematize this so that my brain can be allocated toward other
+    higher-level thinking.” I view it the same way: Why would I fight these daily,
+    miscellaneous, ultimately irrelevant decisions on a moment-to-moment basis when
+    they can just be automated? I’d rather spend my scarce brain capacity thinking
+    of higher-level things—about the future of the human race, for example. PHOTOGRAPH:
+    ERICA HERNANDEZ In 2023 I was leading the newsroom at Vice, and we published a
+    story on you . You talked about your body image from decades ago. You talked about
+    how hard it was'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章开篇通过描写篮子里腐烂的水果与追求“神的食物”的约翰逊形成鲜明对比，旨在揭示他所宣扬的科学健康与他家庭环境中的某些“腐败”细节之间的反差，强调其生活方式的复杂性和矛盾性。
+    options:
+      A: Johnson is neglectful of his own physical health and home maintenance
+      B: there is a paradoxical contrast between Johnson's health goals and his living
+        reality
+      C: Johnson’s obsessive focus on data has caused him to abandon basic aesthetic
+        standards
+      D: the environment of a modern tech entrepreneur is inherently characterized
+        by decay
+    q_number: 1
+    stem: The author mentions the rotting fruit in Bryan Johnson’s kitchen to illustrate
+      that ________.
+  - answer: C
+    explanation: 文中约翰逊明确提到：“As the technology gets better and better, the most prized
+      asset is going to be existence”，并进一步说明人类的游戏规则将从财富和地位转向“存在”本身。
+    options:
+      A: The accumulation of massive professional accomplishments
+      B: The ability to influence others through online social platforms
+      C: The pure state of existing rather than status or wealth
+      D: The successful integration of biological bodies with AI systems
+    q_number: 2
+    stem: According to the passage, what does Bryan Johnson consider to be the 'most
+      prized asset' in the future?
+  - answer: C
+    explanation: 文中最后一段约翰逊解释称，他将生活系统化是为了节省大脑的能量，将宝贵的脑力资源分配给更高层面的思考，而不是浪费在无关紧要的琐碎决策上。
+    options:
+      A: To overcome the psychological burden of a midlife crisis
+      B: To ensure his body remains a scientifically optimized machine
+      C: To avoid the metabolic and cognitive cost of making daily trivial decisions
+      D: To serve as a living example for his followers on social media
+    q_number: 3
+    stem: What is the primary reason Johnson provides for his highly regimented daily
+      life?
+  - answer: A
+    explanation: 在访谈中，约翰逊强调数据如同生物学的“读数”，指出“There’s no storytelling. It’s just the
+      data”，体现了他对客观量化指标的高度崇尚。
+    options:
+      A: He views data as a clinical, objective truth devoid of subjective storytelling
+      B: He treats data as a tool to gain public validation and trust
+      C: He considers biological data as the only valid way to express one's identity
+      D: He believes that data should be used to force others into his health regimen
+    q_number: 4
+    stem: Which of the following best describes Johnson’s attitude toward the 'data'
+      he collects?
+  - answer: B
+    explanation: 文章通过客观描写和深入访谈展示了约翰逊的怪异与执着，作者在文中使用了诸如“rot on the estate”、“illusion
+      of grandeur”等词汇，体现了一种保持距离、审视且带有质疑的批判性视角。
+    options:
+      A: Uncritically admiring
+      B: Skeptically inquisitive
+      C: Completely dismissive
+      D: Aggressively confrontational
+    q_number: 5
+    stem: The tone of the author regarding Bryan Johnson’s longevity project can be
+      best described as ________.
+  source_journal: Wired
+  title: Chapter 54
