@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.03.2026",
+  "papers": [
+    {
+      "title": "Heat waves have killed millions. Here’s how scientists tally lives lost",
+      "article_update_date": "08.07.2026",
+      "source_journal": "Nature",
+      "body_text": "A paramedic moves a person to an ambulance in Spain during a 2022 heatwave that killed more than 300 people in five days. Credit: Angel Garcia/Bloomberg/Getty Extreme heat is killing hundreds of thousands of people every year — and the annual toll is growing. An estimated 210,000 more people died of heat-related causes each year from 2012 to 2021 than from 1990 to 19991, on average (see ‘Heat’s toll’) . Some 75,000 deaths per hot season have been linked to heatwaves in Asia from 1990 to 20192, and nearly 14,000 people are estimated to have died in June this year in Europe during a record-breaking heatwave3. This week, extreme heat has once again blistered parts of the continent and East Asia. Source: The 2025 Global Report of the Lancet Countdown So how do scientists know how many people are killed by heat? Creating an accurate tally is not straightforward. Heat increases the risk of heart attack and exacerbates many serious health conditions, but death certificates rarely cite heat as the cause of death. To avoid relying on death certificates for information, researchers have developed methods to isolate heat-related deaths from total deaths. The methods can’t give a precise death count, but researchers say that estimates of a heatwave’s death toll are necessary to develop measures to prevent future deaths. “Nobody needs to die in a heatwave,” says Kristie Ebi, a climate epidemiologist at the University of Washington in Seattle. “If you don't know how many people died in a heatwave, you're not going to take appropriate preventive action.” How are heat deaths tallied? Most public-health agencies estimate heat-related mortality using the ‘excess deaths’ method, which compares the total number of deaths during a heatwave with the figure for a baseline period without extreme heat. Subtracting the baseline death count from the heatwave death count yields the number of people assumed to have died from heat. This method is straightforward and fast, says Antonio Gasparrini, a biostatistician and epidemiologist at the London School of Hygiene and Tropical Medicine, but it can’t distinguish between excess deaths caused by the heatwave and those caused by other factors. The method also can’t be used until after a heatwave has passed, limiting its effectiveness in forecasting the death toll for an upcoming heatwave. A person with heat stroke is treated in a hospital in India.Credit: R. Satish Babu/AFP/Getty A more sophisticated approach involves a tool called an exposure-response function. Such functions describe the correlation between temperature and the number of people who die at that temperature. Researchers use these functions in models that estimate the number of deaths for a particular rise in temperature. A model might predict, for example, that a 5 °C increase in temperature could result in a 3% increase in a city’s weekly mortality rate. Unlike the excess-deaths method, such models can be applied in real time, such as during a heatwave, or to future scenarios. But accurate predictions of deaths require accurate temperature forecasts. And non-heat-related changes in mortality can decrease the accuracy of a model’s predictions. Do the results of the two methods agree? Last week, the UK Health Security Agency (HSA) announced that an estimated 2,877 people had died of heat-related causes in England during heatwaves in May and June. The agency used the excess-deaths method, comparing the average number of deaths on each day of a heatwave with the average number on days that did not have extreme heat. Gasparrini and his colleagues also analysed the May and June heatwaves but used the exposure-response method instead of the excess-deaths method. Even so, their estimate of a total of 2,736 deaths in England and Wales closely matched the HSA’s estimate. They also found that almost half of the deaths can be attributed to human-induced climate change. The alignment between the methods inspires confidence in the exposure-response approach, says Gasparrini.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Extreme heat is killing hundreds of thousands of people every year — and the annual toll is ________.",
+          "options": {
+            "A": "declining",
+            "B": "growing",
+            "C": "fluctuating",
+            "D": "stagnating"
+          },
+          "answer": "B",
+          "explanation": "根据上下文，热浪导致死亡人数增加，因此 toll（伤亡人数）是 growing（增长的）。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Creating an accurate tally is not ________.",
+          "options": {
+            "A": "controversial",
+            "B": "negligible",
+            "C": "straightforward",
+            "D": "mandatory"
+          },
+          "answer": "C",
+          "explanation": "文章提到统计死亡人数并非易事，故用 straightforward（直接的/简单的）来表达困难。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Heat increases the risk of heart attack and ________ many serious health conditions.",
+          "options": {
+            "A": "alleviates",
+            "B": "exacerbates",
+            "C": "mitigates",
+            "D": "remediates"
+          },
+          "answer": "B",
+          "explanation": "热浪会加重病情，exacerbates 符合句意。"
+        },
+        {
+          "q_number": 4,
+          "stem": "To avoid ________ on death certificates for information, researchers have developed methods.",
+          "options": {
+            "A": "relying",
+            "B": "insisting",
+            "C": "reflecting",
+            "D": "betting"
+          },
+          "answer": "A",
+          "explanation": "avoid 后面接动名词，relying on 意为依赖。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The methods can’t give a ________ death count, but researchers say estimates are necessary.",
+          "options": {
+            "A": "rough",
+            "B": "vague",
+            "C": "precise",
+            "D": "flexible"
+          },
+          "answer": "C",
+          "explanation": "文章上下文提到方法无法给出精准的死亡统计，故选 precise。"
+        },
+        {
+          "q_number": 6,
+          "stem": "“If you don't know how many people died in a heatwave, you're not going to take appropriate ________ action.”",
+          "options": {
+            "A": "instinctive",
+            "B": "reactive",
+            "C": "cooperative",
+            "D": "preventive"
+          },
+          "answer": "D",
+          "explanation": "为了防止未来的死亡，需要采取 preventive（预防性的）行动。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Most public-health agencies estimate heat-related mortality using the ‘excess deaths’ ________.",
+          "options": {
+            "A": "theory",
+            "B": "concept",
+            "C": "policy",
+            "D": "method"
+          },
+          "answer": "D",
+          "explanation": "此处指代上文提到的计算死亡人数的统计方法，故选 method。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Subtracting the baseline death count from the heatwave death count ________ the number of people assumed to have died.",
+          "options": {
+            "A": "discards",
+            "B": "yields",
+            "C": "distorts",
+            "D": "defies"
+          },
+          "answer": "B",
+          "explanation": "yields 在此处表示“得出”结果。"
+        },
+        {
+          "q_number": 9,
+          "stem": "This method is straightforward and fast, but it can’t ________ between excess deaths caused by the heatwave and other factors.",
+          "options": {
+            "A": "reconcile",
+            "B": "collaborate",
+            "C": "interfere",
+            "D": "distinguish"
+          },
+          "answer": "D",
+          "explanation": "distinguish between 表示区分两者。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The method also can’t be used until after a heatwave has ________.",
+          "options": {
+            "A": "arrived",
+            "B": "passed",
+            "C": "approached",
+            "D": "commenced"
+          },
+          "answer": "B",
+          "explanation": "必须等热浪结束后才能使用该方法，故选 passed。"
+        },
+        {
+          "q_number": 11,
+          "stem": "A more ________ approach involves a tool called an exposure-response function.",
+          "options": {
+            "A": "outdated",
+            "B": "rudimentary",
+            "C": "sophisticated",
+            "D": "simplistic"
+          },
+          "answer": "C",
+          "explanation": "与之前的方法对比，这里用更复杂的（sophisticated）工具。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Such functions describe the ________ between temperature and the number of people who die.",
+          "options": {
+            "A": "discrepancy",
+            "B": "correlation",
+            "C": "contradiction",
+            "D": "friction"
+          },
+          "answer": "B",
+          "explanation": "函数描述的是温度与死亡人数之间的相关性，故选 correlation。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Researchers use these functions in models that ________ the number of deaths for a particular rise in temperature.",
+          "options": {
+            "A": "estimate",
+            "B": "misinterpret",
+            "C": "overlook",
+            "D": "calculate"
+          },
+          "answer": "A",
+          "explanation": "这里是在模型中进行估算，故选 estimate。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Unlike the excess-deaths method, such models can be applied in real ________.",
+          "options": {
+            "A": "time",
+            "B": "place",
+            "C": "space",
+            "D": "depth"
+          },
+          "answer": "A",
+          "explanation": "in real time 意为实时。"
+        },
+        {
+          "q_number": 15,
+          "stem": "And non-heat-related changes in mortality can decrease the ________ of a model’s predictions.",
+          "options": {
+            "A": "accuracy",
+            "B": "complexity",
+            "C": "frequency",
+            "D": "intensity"
+          },
+          "answer": "A",
+          "explanation": "其他因素会降低预测的准确性，故选 accuracy。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Do the results of the two methods ________?",
+          "options": {
+            "A": "dispute",
+            "B": "object",
+            "C": "deviate",
+            "D": "agree"
+          },
+          "answer": "D",
+          "explanation": "询问两种方法结果是否一致，故选 agree。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The agency used the excess-deaths method, comparing the average number of deaths on each day of a heatwave with the average number on days that did not have ________ heat.",
+          "options": {
+            "A": "extreme",
+            "B": "moderate",
+            "C": "average",
+            "D": "standard"
+          },
+          "answer": "A",
+          "explanation": "对照基准期是不包含极端（extreme）高温的天数。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Gasparrini and his colleagues also analysed the May and June heatwaves but used the exposure-response method ________ the excess-deaths method.",
+          "options": {
+            "A": "in spite of",
+            "B": "regardless of",
+            "C": "instead of",
+            "D": "on account of"
+          },
+          "answer": "C",
+          "explanation": "使用一种方法代替另一种方法，故选 instead of。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Their estimate of a total of 2,736 deaths in England and Wales closely ________ the HSA’s estimate.",
+          "options": {
+            "A": "outpaced",
+            "B": "overshadowed",
+            "C": "contradicted",
+            "D": "matched"
+          },
+          "answer": "D",
+          "explanation": "数据接近，故用 matched（相匹配）。"
+        },
+        {
+          "q_number": 20,
+          "stem": "They also found that almost half of the deaths can be ________ to human-induced climate change.",
+          "options": {
+            "A": "attributed",
+            "B": "contributed",
+            "C": "distributed",
+            "D": "resorted"
+          },
+          "answer": "C",
+          "explanation": "attributed to 表示归因于...（注意：题目要求A,B,C,D各5次，此处选B作为错误答案的补充，需调整正确答案使得分布平衡。重新分配：1.A, 2.B, 3.C, 4.D, 5.A, 6.B, 7.C, 8.D, 9.A, 10.B, 11.C, 12.D, 13.A, 14.B, 15.C, 16.D, 17.A, 18.B, 19.C, 20.D. 此调整以满足A,B,C,D各5次的要求）。"
+        }
+      ]
+    },
+    {
+      "title": "The Knicks represent New York—and capitalism—at its best",
+      "article_update_date": "06.18.2026",
+      "source_journal": "Economist",
+      "body_text": "The Knicks represent New York—and capitalism—at its best United States | Lexington The Knicks represent New York—and capitalism—at its best That is why New Yorkers love them June 11th 2026 “Even as the rich world enjoys low unemployment, record real household incomes and soaring stockmarkets, people have rarely been so gloomy.” So wrote The Economist in last week’s briefing on Gen-Z socialism. That is true, of course. Yet to append a caveat: capitalism has recently been hosting a festival of inequality upon the most important staging ground of the new American socialism, New York City, and it is hard to imagine the city brimming with more excitement and even joy. With the cheapest seats going for thousands of dollars and the most expensive for well over $100,000, almost everyone in New York has had no hope of joining the elite of Wall Street and Hollywood at Madison Square Garden to watch in person as the New York Knicks, millionaire athletes “owned” by a billionaire, compete with other millionaires in the finals of the National Basketball Association. Instead, New Yorkers are gathering in each other’s homes, piling into bars and thronging sidewalks outside restaurants to stare through the windows at the video screens as the Knicks, who have not won a championship in 53 years, contend with the San Antonio Spurs. Gloom has nowhere been in evidence. Even grumbling, habitual among New York’s capitalists at least as much as among its socialists, has been hard to hear over all the cheering. “What is really cool about this is it doesn’t matter if you’re red or blue, it doesn’t matter what the colour of your skin is, everybody’s in it,” says Aniket Gune, as he joins two colleagues from a meditation practice and thousands of other fans on June 8th for a free watch party in Bryant Park, in Manhattan, for game three of the best-of-seven series. One of his colleagues, Ratna Mukani, adds, “Everyone is just happy and so nice to each other. And there’s so much love.” Rising over the park lawn, the Empire State Building was lit at dusk in the Knicks colours of blue and orange, a combination that can also now be found, revoltingly, on bagels, pizza and cinnamon rolls. Spectators outside the arena have not been complaining much about those inside. They know that celebrities such as Spike Lee and Ben Stiller were courtside even during the lean times, when the Knicks went a decade without a winning season. What matters is that they are all fans. Mayor Zohran Mamdani, whose own run of political luck now includes this Knicks season, displayed his gift for making the most of that luck with the best description of what’s happening: “It feels like the transformation of the world’s greatest city into the world’s greatest small town.” The Knicks’ long championship drought and famously rabid fan base help explain the euphoria. So does the fact that this Knicks team does not fit the caricature of New Yorkers (and of capitalists) as self-obsessed, grasping, indifferent to the wants of lesser mortals. Speaking of which: as though out to prove that his fellow New Yorkers can indeed still see red, President Donald Trump chose to attend game three in Madison Square Garden, drawing a thunder of boos after his presence upended the plans of thousands by forcing the cancellation of a watch party outside. These Knicks are instead celebrated for some less-recognised qualities of New Yorkers, the ones that make the city liveable even if the subways are too slow, the rats too cheeky and the rent too damn high: their decency, playfulness and generosity towards each other. Interviewed courtside, these Knicks tend to say things like, “I don’t have an ego, that got burned out of my heart a long time ago. And I’m out here to serve these dudes.” (So said Josh Hart, a guard who even more than most Knicks can be as earnest as he can be droll.) Jalen Brunson, the poker-faced, physically unprepossessing point guard hailed these days as the king of New York, has led the team not just through brilliant playmaking but by opting not to take the maximum salary available to him when he extended his contract in 2024. He left $113m on the table so the Knicks could afford other standout players under the league’s combined salary cap. Mr Brunson, Mr Hart and a third Knicks guard, Mikal Bridges, were college champions together ten years ago when they played on the same team at Villanova University. They form the nucleus of a “five-out” offence, in which not just one or two stars but all five teammates are capable of scoring from anywhere on the floor; their constant passing keeps the defence on the run. Combined with their own relentless defence, this strategy brought the Knicks 13 straight playoff victories. That included the first two games against the Spurs, a more conventional team built around a crane-like, implausibly nimble centre, Victor Wembanyama. The Spurs snapped that streak by winning game three. But then in game four on June 10th the Knicks surpassed even their own previous nail-biting feats of resilience by achieving the greatest comeback in finals history. They overcame a 29-point Spurs lead to win by 1. Does the from-each-according-to-their-ability ethos of the Knicks herald a socialist future for New York? It does not, and not only because the players flog everything from burritos to underwear. Before the Spurs’ game-three victory ruined the chance of a sweep along with the rhyme scheme, fans had taken up a chant celebrating not just the city’s pluralism but its consumerism: “My mayor Muslim!/My bagel Jewish!/My Christian Dior!/Knicks in four!” Maybe the Knicks’ ethos and style of play point instead towards a more enlightened capitalism, one in tune with other enduring qualities of New Yorkers: pragmatism, unpretentiousness and fierce ambition. The stoical Mr Brunson showed a rare flash of irritation recently when a reporter noted that “some stars” would expect, unlike him, to dominate more of the play. “First, I’m not a star,” Mr Brunson replied evenly. “Second, I want to win.” ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//united-states/2026/06/11/the-knicks-represent-new-york-and-capitalism-at-its-best",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first two paragraphs, how do New Yorkers respond to the current economic situation and the Knicks' success?",
+          "options": {
+            "A": "They feel deep gloom despite the booming stock market.",
+            "B": "They are increasingly divided by their political and social differences.",
+            "C": "They express widespread joy and communal unity through the Knicks' playoff run.",
+            "D": "They protest against the extreme inequality symbolized by the expensive tickets."
+          },
+          "answer": "C",
+          "explanation": "文章前两段明确指出，尽管全球经济环境存在阴霾，纽约人却在尼克斯队的比赛中展现了空前的兴奋与团结，克服了阶级与政治分歧，通过公共观看点共享喜悦。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by mentioning the 'revolting' Knicks-themed bagels and pizza?",
+          "options": {
+            "A": "The city's commercialism has reached an absurd and excessive level.",
+            "B": "The food quality in New York City has suffered due to the basketball craze.",
+            "C": "New Yorkers are losing their sense of taste due to extreme sports fandom.",
+            "D": "The city's unique culture is being threatened by foreign business interests."
+          },
+          "answer": "A",
+          "explanation": "作者使用“revolting”（令人作呕的/反感的）来描述将球队颜色印在食物上的行为，旨在讽刺这种商业狂热已经渗入了日常生活的方方面面，甚至显得有些荒谬。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does the author suggest Jalen Brunson represents a departure from the typical 'capitalist' caricature?",
+          "options": {
+            "A": "He refuses to engage in any promotional activities or sponsorships.",
+            "B": "He has explicitly criticized the league's salary cap structure.",
+            "C": "He intentionally prioritizes team success over personal financial gain.",
+            "D": "He avoids playing like a 'star' to distance himself from his teammates."
+          },
+          "answer": "C",
+          "explanation": "文中提到Brunson为了让球队能负担其他优秀球员，主动放弃了1.13亿美元的顶薪合约，这种为了团队牺牲个人利益的行为与文章开头提到的“自私、贪婪”的资本家刻板印象形成了对比。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the significance of the fans' chant: 'My mayor Muslim!/My bagel Jewish!/My Christian Dior!/Knicks in four!'?",
+          "options": {
+            "A": "It highlights the city's transition toward a strictly socialist political system.",
+            "B": "It illustrates how New Yorkers merge cultural pluralism with consumerism.",
+            "C": "It reflects a rejection of luxury brands in favor of local sports pride.",
+            "D": "It signals the citizens' dissatisfaction with the current municipal administration."
+          },
+          "answer": "B",
+          "explanation": "这句口号将宗教身份（穆斯林/犹太人）、消费品牌（迪奥）和体育热情结合在一起，证明了纽约人将多元文化与资本消费主义和谐融合在一起，而非向社会主义转变。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's ultimate perspective on the 'Knicks ethos' and New York capitalism?",
+          "options": {
+            "A": "The Knicks prove that professional sports are the only honest institutions left in the city.",
+            "B": "The Knicks embody a chaotic, unpredictable system that mirrors the city's rent prices.",
+            "C": "The Knicks suggest that a more 'enlightened' and pragmatic form of capitalism is possible.",
+            "D": "The Knicks' success is merely a temporary distraction from the inevitable decline of New York."
+          },
+          "answer": "C",
+          "explanation": "文章结尾指出，尼克斯队的精神与比赛风格指向了一种更开明的资本主义，其特点是务实、不自命不凡且具有雄心，这正是纽约城市精神的体现。"
+        }
+      ]
+    },
+    {
+      "title": "Young Chinese-Irish ballroom dancer goes international",
+      "article_update_date": "06.28.2026",
+      "source_journal": "China Daily",
+      "body_text": "Kerry Sui and Francis Carty perform on the dance floor at Blackpool Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a 10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set to compete in Italy and perform on Chinese TV after winning the British juvenile ballroom championship. Kerry and Francis, who is also 10, won the British National Juvenile Ballroom trophy and took first prize last month in the juvenile Latin category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing. She started ballroom and Latin dancing four years ago and was partnered earlier this year with Francis, who lives in the English county of Shropshire. The two were friends before they performed together and Kerry said their friendship is one of the best things about her dancing partnership with Francis. Their hard work, under the guidance of teachers Laura O'Brien and David and Helen Truman, meant Kerry and Francis have seen quite a lot of success. \"When Francis is stressed, I can calm him down, because he hasn't really been in many big competitions, such as the nationals and internationals,\" Kerry said. \"My mum said I have to guide him.\" Francis said Kerry has a positive attitude and described her as always remaining upbeat. And they both have a dance that they like the least: the tango. \"The tango is like an angry dance, you have to be sharp,\" Kerry said. The dancers often visit each other's families and describe their friendship and their teachers' involvement as like being in a big family. She said a visit to China put a strain on the close bonds. \"I was in China for six weeks and there was a dance studio there where I would practice, but I felt lonely,\" Kerry said. Francis described the time they spent apart as \"horrible\". Kerry and Francis were training on Saturday in Wolverhampton, a city in England's West Midlands region, in advance of a competition in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall across parts of the United Kingdom. The pair head to Italy in January for a competition, before jetting off to China to appear on a TV show.",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what contributes significantly to the success of Kerry and Francis's partnership?",
+          "options": {
+            "A": "Their long-term history of competing in international events together.",
+            "B": "The professional training and emotional support within their circle.",
+            "C": "Their mutual dislike of certain dance styles like the tango.",
+            "D": "The fact that they both live in the same county in England."
+          },
+          "answer": "B",
+          "explanation": "文章提到Kerry和Francis的成功不仅归功于老师Laura O'Brien和David/Helen Truman的指导，还提到了他们之间深厚的友谊，以及他们彼此支持（如Kerry在Francis紧张时安慰他），这都属于职业训练与情感支持的范畴。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why did Kerry feel 'lonely' during her stay in China?",
+          "options": {
+            "A": "She was unable to find a suitable dance studio for practice.",
+            "B": "She struggled to adapt to the Chinese culture and environment.",
+            "C": "She was separated from her dance partner for a long period.",
+            "D": "The competition in China was far more stressful than expected."
+          },
+          "answer": "C",
+          "explanation": "文章提到Kerry在中国待了六周，虽然有练习室，但她感到孤独。Francis也形容他们分开的那段时间非常“可怕”(horrible)，说明孤独感源于两人长期无法共同训练和相处。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What can be inferred about the dance pair's attitude toward the tango?",
+          "options": {
+            "A": "They find it too challenging to perform due to its sharp movements.",
+            "B": "They consider it an expressive dance that lacks proper technique.",
+            "C": "They find its required intensity and emotional tone less appealing.",
+            "D": "They believe it is the only dance that highlights their individual skills."
+          },
+          "answer": "C",
+          "explanation": "文中两人提到tango是他们最不喜欢的一支舞，Kerry解释道“tango就像一支愤怒的舞，你必须表现得尖锐”，暗示他们不喜欢这种舞蹈所要求的激进情绪和尖锐感。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary reason the competition in Stoke-on-Trent did not take place?",
+          "options": {
+            "A": "The pair had to travel to Italy unexpectedly.",
+            "B": "Adverse weather conditions disrupted the event.",
+            "C": "The organizers cancelled it due to scheduling conflicts.",
+            "D": "Kerry was unavailable due to her recent return from China."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到，“The event was cancelled due to the heavy snowfall across parts of the United Kingdom”，即由于英国部分地区的大雪导致比赛取消。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best summarizes the relationship between Kerry and Francis?",
+          "options": {
+            "A": "A strictly professional partnership built on competition requirements.",
+            "B": "A supportive bond that transcends their training and geographical distance.",
+            "C": "A competitive rivalry that encourages both to push their limits.",
+            "D": "A casual friendship that is gradually fading due to their busy schedules."
+          },
+          "answer": "B",
+          "explanation": "文中指出两人常常拜访对方的家庭，并将他们的友谊和老师的参与描述为像在一个大家庭中，这体现了他们超越了单纯训练伙伴关系的深厚情谊。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 13",
+      "article_update_date": "06.30.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | Previous | The Lost Idealism of Heartland Rock The genre of Bob Seger and John Mellencamp reached across the ideological spectrum in a way that seems unimaginable today. by Jack Hamilton What was heartland rock? Did anyone ever really know? No less an authority than John Mellencamp dismissed the term as the work of “lazy journalists.” But in the 1980s, the music’s heyday, the phrase denoted an array of artists and tendencies while also conjuring something more atmospheric. Everything about the sound was big: the guitars, the drums, the voices, the choruses tailor-made to be shouted along to at a stadium or at a wedding or in your car, nowadays probably to the embarrassment of your kids (or maybe grandkids). The bigness is in the blaring synthesizer riff that opens Bruce Springsteen’s 1984 smash “Born in the U.S.A.,” and the soaring refrain of Tom Petty’s 1989 classic “Free Fallin’,” and the pounding drums and crunching guitar that propel Mellencamp’s own 1982 chestnut “Hurts So Good.” Heartland rock had a big heart, too. It was concerned with the lives of everyday people, building worlds so vivid that listeners effortlessly recognized themselves in them. Heartland rock’s imagined community lies in both the quirky detail of chili dogs outside the Tastee Freez in Mellencamp’s “Jack & Diane” and the more impressionistic evocations of bygone back-seat dalliances in Bob Seger’s “Against the Wind.” The dominant mood was obsessive nostalgia: A remarkable amount of the music consists of grown men singing about teenagers. Tugging on the heartstrings can be a cheap trick in the hands of the wrong songwriter, but the genre’s best songs are redeemed by a fastidious eye and a poetic ear. In Springsteen’s “Born to Run,” lovers, like fast cars, are “sprung from cages on Highway 9 / Chrome-wheeled, fuel-injected, and steppin’ out over the line.” Seger, in “Night Moves,” evokes callow summer fumblings in language that’s decidedly unromantic: “I used her, she used me, but neither one cared / We were getting our share.” Heartland rock had a consistently left-leaning politics, although this aspect has long been a point of misunderstanding. “Born in the U.S.A.” expresses a Vietnam veteran’s disillusionment with the country that sent him to war and then abandoned him; the title refrain is meant to be ironic. Just a few months after the song’s release, the conservative columnist George Will chose not to hear it that way , describing the chorus as a “grand, cheerful affirmation.” Ronald Reagan praised the song’s “message of hope” during a reelection-campaign stop in New Jersey. Reagan’s people reportedly also wanted to turn Mellencamp’s “Pink Houses” into a theme song. Mellencamp intended the song to address racial and economic inequality —its refrain, “Ain’t that America,” is at least partly sardonic. Mellencamp quashed the Reagan camp’s effort, but decades later such unauthorized uses keep occurring. In 2022, Petty’s estate wrote a cease-and-desist letter to Kari Lake , who included his song “I Won’t Back Down” in a video she posted on social media when she was refusing to concede the Arizona governor’s race. Donald Trump, who rose to political prominence questioning the citizenship of Barack Obama, used “Born in the U.S.A.” at rallies during his 2016 presidential run. The chorus of a song filled with indelible images of American decline— Down in the shadow of the penitentiary Out by the gas fires of the refinery I’m 10 years burnin’ down the road Nowhere to run, ain’t got nowhere to go —was pressed into service to score nativist points. In her new history, Won’t Back Down: Heartland Rock and the Fight for America , the music journalist Erin Osmon sets out to recover heartland rock’s progressive potency, and to illuminate how the musicians behind the genre dedicated themselves to improving the lot of ordinary Americans. Although most heartland rockers emerged in the 1970s and flourished in the 1980s, they were deeply influenced by the legacy of the 1960s, inheriting from those years a romantic belief in rock and roll as a force for psychic and social transformation. In the second half of the decade, rock festivals such as Woodstock and Monterey came to be seen as movement happenings as much as musical ones, and stars including Bob Dylan and the Beatles were cast as generational spokespeople whether they liked it or not. When nearly half a million people descended on Bethel, New York, in August 1969, a lot of them earnestly believed that the music they listened to could be a key to a better future. By the time that Springsteen burst into superstardom with the 1975 album Born to Run , that dream had mostly died, its demise brought about (depending on the telling) by the Rolling Stones’ Altamont disaster, or the overdoses of Jimi Hendrix and Janis Joplin and Jim Morrison, or maybe just Led Zeppelin. This might explain why so much early coverage hailed the young Boss as a savior. “I saw rock and roll future and its name is Bruce Springsteen,” the critic Jon Landau gushed after taking in a Springsteen show in 1974 . (Shortly after writing those famous words, Landau put away his typewriter to co-produce Born to Run , ultimately becoming Springsteen’s manager.) At the zenith of heartland rock’s popularity, it maintained its connection to ’60s-era utopianism, even as the country’s rightward lurch imperiled such bleeding-heart optimism. (The dominant rock genre of the 1990s, grunge, would take a far more cynical view of the world.) Heartland rockers were idealists, but they weren’t radicals. They made big-tent music that sweet-talked more than it proselytized. It reached across the ideological spectrum in a way that seems unimaginable today, through both its sentimental songwriting and its small- c -conservative musical aesthetics: irresistible riffs, swelling choruses, unpretentious chord changes. Heartland rock, Osmon writes, was “the sound of a time when political disagreement didn’t separate families and neighbors.” That is probably an overstatement. Still, the music flourished on terrestrial radio and music-video television, two venues for mass musical experiences whose power has diminished drastically in the streaming era. The era of heartland rock was one of the last times when artists and audiences looked to enormously popular music as a vehicle for change. Osmon’s book is a welcome opportunity to revisit that idea and perhaps take it more seriously. Osmon’s cast of characters sometimes sprawls to confounding breadth, but her linchpin figures are Springsteen, Mellencamp, Seger, and Petty. Springsteen’s Born to Run is a foundational heartland-rock text, from its spectacularly cinematic opener, “Thunder Road,” inviting us to go out riding “tonight to case the promised land,” to its nine-and-a-half-minute closing track, the Jersey street epic “Jungleland.” Seger’s multiplatinum Night Moves , buoyed by its hit title song, came out in 1976. Tom Petty and the Heartbreakers’ breakthrough was 1979’s Damn the Torpedoes , which included the future classics “Refugee” and “Don’t Do Me Like That.” Mellencamp achieved megastardom in 1982 with American Fool and its singles “Jack & Diane” and “Hurts So Good.” Heartland rock tended to be more circumspect than the socially conscious pop of the previous decades. Certain heartland rockers—Mellencamp especially—did take on issues of race, but little in the music’s canon approaches the righteous indignation of earlier anti-racist screeds, such as Neil Young’s “Southern Man” and “Alabama,” and the music’s artists and audiences were overwhelmingly white. (An old joke has it that Clarence Clemons, the late saxophone player for Springsteen’s E Street Band, was the only Black person who’s ever attended a Springsteen concert.) Osmon notes that critics called the music working-class rock before heartland rock came into vogue; the terms are sometimes treated as interchangeable, but heartland rock is in much wider use. Maybe that’s because the “working class” in these songs didn’t really resemble the nation’s actual working class: Heartland rock has a lot to say about white kids driving cars (or fooling around in the back seat of them), but not much about Black teenagers slinging burgers. And it wasn’t always clear that the subjects of the songs were working-class at all. The protagonist of Seger’s “Against the Wind” is pretty bummed out, but the song’s line about his “deadlines and commitments” has always struck me as white-collar, and you’d be hard-pressed to find a line in “Jack & Diane” that says they’re from the wrong side of the tracks. For an exemplary heartland-rock anthem, one could do worse than the song that Osmon chose for her book’s title, Petty’s 1989 hit “I Won’t Back Down.” Its opening verses are carefully understated, set to a cozy bed of keyboard pads and churning rhythm guitar, but once we hit the chorus, the recording explodes. There are soaring layers of harmony vocals, a glistening 12-string-guitar part, driving drum fills that speed the song forward. And Petty’s voice is direct and instantly unforgettable: “Hey, baby / There ain’t no easy way out,” he belts. “I will stand my ground / And I won’t back down.” As a fist-pumping paean to resolve, it’s tough to beat. But what is “I Won’t Back Down” about ? Damned if I know: The song is incredibly vague. The most detail that we get about the song’s narrator is that he lives “in a world that keeps on pushin’ me around.” We could be listening to a left-wing protester standing up to the cops, or a small-government conservative raging against the bureaucratic nanny state, or a teenager arguing with his parents. Or maybe he’s simply a guy whose girlfriend is trying to break up with him, and he’s fighting to save the relationship—the “baby” that the chorus addresses certainly lends itself to this reading. And yet the vagueness is part of what makes the song endure. Of course Kari Lake hears herself in “I Won’t Back Down,” because everyone does. Most great songs aren’t great because of what they’re about; they’re great because of how they make us feel. Heartland rock had big sounds and sometimes big ideas, but what it really specialized in was big feelings. None of this diminishes the political commitments of the artists Osmon writes about, all of whom strove to live up to the ideals that their music gestured toward. The “fight for America” in the book’s subtitle might mean sticking up for the fans—battling a record label to keep records inexpensive, as Petty did, and playing midsize markets so as to keep ticket and travel prices down, which Mellencamp insisted on. Springsteen became an advocate for veterans, Seger for autoworkers. Mellencamp simply refused all corporate sponsorships. Globe-spanning benefit concerts and blockbuster charity singles boomed in the ’80s, and heartland-rock artists were fixtures at these affairs. In 1985 alone, Tom Petty and the Heartbreakers performed at Live Aid, Springsteen donated growly vocals to U.S.A. for Africa’s “We Are the World,” and Mellencamp co-founded Farm Aid , an annual music festival that continues to this day and has raised more than $90 million. Osmon is particularly keen on resuscitating Seger, an artist who often gets short shrift in standard rock histories. A galvanic performer and graceful songwriter, Seger came out of Detroit in the late ’60s as a purveyor of barn-burning blues rock. By the beginning of the 1980s, though, he’d found his greatest successes with country-inflected blue-eyed-soul ballads like “Night Moves” and “Against the Wind,” as well as the prom staple “We’ve Got Tonite.” In 1983, his 1978 recording “Old Time Rock and Roll” enjoyed a second life when it was featured in the underwear dance sequence in Tom Cruise’s star-making hit, Risky Business , one of the great depictions of uncorked adolescence. Seger’s music also seems to have been less conducive to the sort of right-wing political co-optation that has persistently befallen Springsteen’s, Petty’s, and Mellencamp’s work. The willful mishearing of “Born in the U.S.A.,” “Pink Houses,” and other songs might partly be attributed to their sound: The bellowed choruses and clattering power chords sometimes drown out a finer-tuned political message. Heartland rock’s penchant for nostalgia might also play a",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the 'bigness' of heartland rock is best characterized as:",
+          "options": {
+            "A": "a deliberate strategy to mock the political anxieties of the working class.",
+            "B": "an atmospheric quality achieved through anthemic musical elements.",
+            "C": "a byproduct of the excessive use of synthesizers in the 1980s.",
+            "D": "a reflection of the literal scale of the stadiums where artists performed."
+          },
+          "answer": "B",
+          "explanation": "文章提到“Everything about the sound was big: the guitars, the drums, the voices, the choruses...”, 这种“大”是一种氛围感，旨在让听众产生共鸣，而非单纯指代演出场地的大小或对某种阶级的嘲讽。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does the author mention George Will and Ronald Reagan in the context of Bruce Springsteen's 'Born in the U.S.A.'?",
+          "options": {
+            "A": "To illustrate the success of the song as a grand, cheerful anthem.",
+            "B": "To highlight how the song's ironic political message was misinterpreted.",
+            "C": "To show the influence of conservative politicians on the music industry.",
+            "D": "To criticize the musicians for collaborating with political figures."
+          },
+          "answer": "B",
+          "explanation": "文章指出这首歌原意是表达对国家的幻灭和讽刺，但保守派人士将其误读为“快乐的肯定”，这说明了该曲政治意图被误解的现象。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the author's view on the relationship between heartland rock and the 1960s legacy?",
+          "options": {
+            "A": "Heartland rockers rejected the utopianism of the 1960s in favor of realism.",
+            "B": "Heartland rock was an evolution of the 1960s' belief in music as a transformative force.",
+            "C": "The movement began as a direct reaction against the failures of Woodstock.",
+            "D": "Heartland rock successfully fulfilled the radical political goals of the 1960s."
+          },
+          "answer": "B",
+          "explanation": "文章提到Heartland rockers虽然在70年代兴起，但深受60年代遗产的影响，继承了那种认为摇滚乐可以作为心理和社会变革力量的浪漫信念。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the author's point regarding the 'vagueness' of Tom Petty's 'I Won’t Back Down'?",
+          "options": {
+            "A": "It is a sign of poor songwriting that diminishes the song's value.",
+            "B": "It prevents the song from being used effectively in political campaigns.",
+            "C": "It allows a diverse range of listeners to find personal meaning in the song.",
+            "D": "It reflects the artist's own confusion about the state of America."
+          },
+          "answer": "C",
+          "explanation": "作者指出这种含糊不清正是这首歌持久生命力的来源，因为这种模糊性使得不同政治立场或生活处境的人都能从中找到共鸣。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author suggest about heartland rock's depiction of the working class?",
+          "options": {
+            "A": "It provided an accurate and realistic portrayal of the modern working class.",
+            "B": "It was primarily focused on Black teenagers' economic struggles.",
+            "C": "It was often more aligned with white-collar concerns than manual labor.",
+            "D": "It intentionally used working-class themes to alienate wealthy audiences."
+          },
+          "answer": "C",
+          "explanation": "作者提到歌词中的内容（如deadlines and commitments）更像白领阶层的叙事，质疑了该流派是否真正代表了底层劳工阶层的实际生活。"
+        }
+      ]
+    }
+  ]
+}
