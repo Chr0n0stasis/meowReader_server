@@ -1,0 +1,720 @@
+group_update_date: 09.04.2026
+papers:
+- article_update_date: 05.16.2026
+  body_text: 'The nurse waves me through without looking up. My grandmother is in
+    the sunroom, same chair as always, her Halo resting against silver hair. The chip
+    beneath her temple pulses with a soft theta rhythm — I can see it on my phone,
+    synced to her care dashboard. Neural activity stable. Semantic coherence declining.
+    I’ve been monitoring her metrics for three years. Every visit, a little less signal.
+    A little more noise. “Hi, Grandma.” I pull up a chair, close enough that our Halos
+    link automatically. My phone vibrates: Proximity pairing enabled. Shared semantic
+    space active. Hers is a medical unit. Mine is just a sleek consumer band that
+    offloads its heavy processing to the phone in my pocket. She looks at me with
+    those searching eyes. “You remind me of someone.” “I’m your granddaughter. Aera.”
+    “That’s a pretty name.” She smiles, distant and kind, the way she smiles at everyone
+    now. “Did we know each other?” Read more science fiction from Nature Futures I
+    want to say yes. Want to tell her about braiding hair, about songs while cooking,
+    about the woman she was before the degradation carved through her hippocampus.
+    But she’s asked me this every week for a year. The answer never sticks. Instead,
+    I check my phone. Her thought-vectors are fragmenting in real time — I can watch
+    the embeddings scatter as she tries to place me. Granddaughter. Family. Important.
+    The words are there, encoded in neural firing patterns, but they won’t connect
+    to my face. To this moment. To anything solid. “We did,” I say. “You taught me
+    a lot.” “I’m glad.” She squeezes my hand. And my phone lights up. Recognized gesture:
+    affection, connection, reassurance. Predicted semantic match: 91%. I stare at
+    the screen. Predicted. Not observed. Not remembered. The model analysed the pressure
+    of her fingers, compared it with billions of similar moments in the global data
+    set, and decided this was probably affection. Maybe she means it. Maybe Serebral
+    is just filling in the gaps. I don’t know which any more. “Grandma, do you remember
+    getting your chip?” I ask. “When you were 70?” She frowns, and I watch her theta
+    bands spike — the neural signature of effortful recall. The chip records it all,
+    sends it to the cloud, adds it to the training corpus. Her struggle, made data.
+    “I think … they said it would help.” “It was supposed to. Catch the Alzheimer’s
+    early.” I hear the bitterness in my voice and feel my own Halo warm against my
+    scalp — elevated stress markers, probably. Being recorded. “They implanted you
+    too late. You were already sick.” Her confusion deepens. I shouldn’t be doing
+    this. Shouldn’t be upsetting her. But I need to know if anything I say reaches
+    through the noise. “If you’d had it at 60,” I continue, watching the metrics scatter
+    on my phone, “they might have caught it. Started treatment sooner. Bought you
+    time.” “Time,” she echoes. “That would have been nice.” My phone vibrates again.
+    A notification I’ve seen before but never really looked at: Based on your recent
+    emotional patterns, you may benefit from: Cognitive Behavioural Therapy for Grief.
+    Memory Care Planning Services: Support Groups for Family Members. I stare at it.
+    I haven’t searched for this. Haven’t mentioned grief to anyone. Just thought about
+    it, here, holding my grandmother’s hand while she forgets me. I scroll through
+    my feed. Six more adverts, all targeted to this visit. To theta-band anxiety I
+    haven’t consciously felt yet. To thoughts I haven’t finished thinking. My Halo
+    hums softly, recording. Optimizing my next thought before I have it. “What’s wrong,
+    dear?” my grandmother asks. I open my mouth to answer, but I stop. Because I don’t
+    know if what I’m about to say is mine. The words forming in my head — “I’m fine,
+    just tired.” Are they genuine? Or are they what the model suggests people say
+    in moments like this, aggregated from millions of similar conversations, compressed
+    into semantic vectors and returned to me as if they were my own.'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: Synced (synchronized) is the most precise technical term for data
+      aligning between two devices or systems in real-time.
+    options:
+      A: coupled
+      B: linked
+      C: synced
+      D: jointed
+    q_number: 1
+    stem: The nurse waves me through without looking up. My grandmother is in the
+      sunroom, same chair as always, her Halo resting against silver hair. The chip
+      beneath her temple pulses with a soft theta rhythm — I can see it on my phone,
+      ______ to her care dashboard.
+  - answer: C
+    explanation: In signal processing, 'noise' is the technical antonym to 'signal,'
+      fitting the context of brain metrics.
+    options:
+      A: mist
+      B: fog
+      C: noise
+      D: static
+    q_number: 2
+    stem: I’ve been monitoring her metrics for three years. Every visit, a little
+      less signal. A little more ______. “Hi, Grandma.”
+  - answer: C
+    explanation: Offloads refers to moving a computational task to another system
+      to save resources on the local device.
+    options:
+      A: transfers
+      B: transmits
+      C: offloads
+      D: delegates
+    q_number: 3
+    stem: 'I pull up a chair, close enough that our Halos link automatically. My phone
+      vibrates: Proximity pairing enabled. Shared semantic space active. Hers is a
+      medical unit. Mine is just a sleek consumer band that ______ its heavy processing
+      to the phone in my pocket.'
+  - answer: C
+    explanation: The idiom 'the answer never sticks' implies that the memory or information
+      fails to remain in her cognitive capacity.
+    options:
+      A: settles
+      B: remains
+      C: sticks
+      D: holds
+    q_number: 4
+    stem: I want to say yes. Want to tell her about braiding hair, about songs while
+      cooking, about the woman she was before the degradation carved through her hippocampus.
+      But she’s asked me this every week for a year. The answer never ______.
+  - answer: A
+    explanation: In AI terminology, embeddings are numerical representations of concepts;
+      'scatter' refers to their disorganization in vector space.
+    options:
+      A: scatter
+      B: disperse
+      C: drift
+      D: deviate
+    q_number: 5
+    stem: Instead, I check my phone. Her thought-vectors are fragmenting in real time
+      — I can watch the embeddings ______ as she tries to place me.
+  - answer: D
+    explanation: Squeezes fits the gesture of affection described in the subsequent
+      sentence.
+    options:
+      A: presses
+      B: grasps
+      C: clutches
+      D: squeezes
+    q_number: 6
+    stem: The words are there, encoded in neural firing patterns, but they won’t connect
+      to my face. To this moment. To anything solid. “We did,” I say. “You taught
+      me a lot.” “I’m glad.” She ______ my hand.
+  - answer: A
+    explanation: The text states 'decided this was probably affection' as a quantification
+      of probability.
+    options:
+      A: probably
+      B: possibly
+      C: likely
+      D: potentially
+    q_number: 7
+    stem: 'And my phone lights up. Recognized gesture: affection, connection, reassurance.
+      Predicted semantic match: 91%. I stare at the screen. Predicted. Not observed.
+      Not remembered. The model analysed the pressure of her fingers, compared it
+      with billions of similar moments in the global data set, and decided this was
+      ______ affection.'
+  - answer: D
+    explanation: In neuroscience/medical contexts, sudden increases in neural activity
+      are typically described as 'spikes'.
+    options:
+      A: surge
+      B: jump
+      C: swell
+      D: spike
+    q_number: 8
+    stem: Maybe she means it. Maybe Serebral is just filling in the gaps. I don’t
+      know which any more. “Grandma, do you remember getting your chip?” I ask. “When
+      you were 70?” She frowns, and I watch her theta bands ______ — the neural signature
+      of effortful recall.
+  - answer: D
+    explanation: Early is the adverb used to describe the timing of medical diagnosis/prevention.
+    options:
+      A: fast
+      B: quickly
+      C: promptly
+      D: early
+    q_number: 9
+    stem: The chip records it all, sends it to the cloud, adds it to the training
+      corpus. Her struggle, made data. “I think … they said it would help.” “It was
+      supposed to. Catch the Alzheimer’s ______.”
+  - answer: B
+    explanation: Reaching 'across the noise' is a common metaphorical structure for
+      communicating through interference.
+    options:
+      A: past
+      B: across
+      C: beyond
+      D: through
+    q_number: 10
+    stem: I hear the bitterness in my voice and feel my own Halo warm against my scalp
+      — elevated stress markers, probably. Being recorded. “They implanted you too
+      late. You were already sick.” Her confusion deepens. I shouldn’t be doing this.
+      Shouldn’t be upsetting her. But I need to know if anything I say reaches ______
+      the noise.
+  - answer: A
+    explanation: Looked at is the standard phrase for paying attention to a screen
+      or document.
+    options:
+      A: looked
+      B: stared
+      C: glanced
+      D: peered
+    q_number: 11
+    stem: '“If you’d had it at 60,” I continue, watching the metrics scatter on my
+      phone, “they might have caught it. Started treatment sooner. Bought you time.”
+      “Time,” she echoes. “That would have been nice.” My phone vibrates again. A
+      notification I’ve seen before but never really ______ at:'
+  - answer: B
+    explanation: Searched is the contextually appropriate term for looking for info
+      on digital platforms/ads.
+    options:
+      A: hunted
+      B: searched
+      C: sought
+      D: scanned
+    q_number: 12
+    stem: 'Based on your recent emotional patterns, you may benefit from: Cognitive
+      Behavioural Therapy for Grief. Memory Care Planning Services: Support Groups
+      for Family Members. I stare at it. I haven’t ______ for this.'
+  - answer: B
+    explanation: Adverts are 'targeted' based on user data and behavioral patterns.
+    options:
+      A: directed
+      B: targeted
+      C: focused
+      D: geared
+    q_number: 13
+    stem: Haven’t mentioned grief to anyone. Just thought about it, here, holding
+      my grandmother’s hand while she forgets me. I scroll through my feed. Six more
+      adverts, all ______ to this visit.
+  - answer: D
+    explanation: The speaker questions if the thought originates from their own consciousness
+      ('is mine').
+    options:
+      A: personal
+      B: me
+      C: my own
+      D: mine
+    q_number: 14
+    stem: To theta-band anxiety I haven’t consciously felt yet. To thoughts I haven’t
+      finished thinking. My Halo hums softly, recording. Optimizing my next thought
+      before I have it. “What’s wrong, dear?” my grandmother asks. I open my mouth
+      to answer, but I stop. Because I don’t know if what I’m about to say is ______.
+  - answer: B
+    explanation: Data compression is the technical process of reducing data size for
+      storage or transmission in computing.
+    options:
+      A: condensed
+      B: compressed
+      C: compacted
+      D: summarized
+    q_number: 15
+    stem: The words forming in my head — “I’m fine, just tired.” Are they genuine?
+      Or are they what the model suggests people say in moments like this, aggregated
+      from millions of similar conversations, ______ into semantic vectors and returned
+      to me as if they were my own.
+  - answer: B
+    explanation: Stable is the standard medical term used to describe a consistent
+      physiological state.
+    options:
+      A: steady
+      B: stable
+      C: constant
+      D: firm
+    q_number: 16
+    stem: The nurse waves me through without looking up. My grandmother is in the
+      sunroom, same chair as always, her Halo resting against silver hair. The chip
+      beneath her temple pulses with a soft theta rhythm — I can see it on my phone,
+      synced to her care dashboard. Neural activity ______.
+  - answer: A
+    explanation: Carved through is used metaphorically to suggest the slow, damaging
+      progression of disease.
+    options:
+      A: carved
+      B: cut
+      C: tore
+      D: pierced
+    q_number: 17
+    stem: “Did we know each other?” Read more science fiction from Nature Futures
+      I want to say yes. Want to tell her about braiding hair, about songs while cooking,
+      about the woman she was before the degradation ______ through her hippocampus.
+  - answer: D
+    explanation: Filling in the gaps is a standard idiom for providing missing information
+      to make something complete.
+    options:
+      A: completing
+      B: stuffing
+      C: packing
+      D: filling
+    q_number: 18
+    stem: The model analysed the pressure of her fingers, compared it with billions
+      of similar moments in the global data set, and decided this was probably affection.
+      Maybe she means it. Maybe Serebral is just ______ in the gaps.
+  - answer: C
+    explanation: Echoes is the most appropriate word for repeating someone's word
+      exactly back to them in a soft or reflective manner.
+    options:
+      A: repeats
+      B: copies
+      C: echoes
+      D: mimics
+    q_number: 19
+    stem: Her confusion deepens. I shouldn’t be doing this. Shouldn’t be upsetting
+      her. But I need to know if anything I say reaches through the noise. “If you’d
+      had it at 60,” I continue, watching the metrics scatter on my phone, “they might
+      have caught it. Started treatment sooner. Bought you time.” “Time,” she ______.
+  - answer: A
+    explanation: The prompt asks if the words are 'genuine' earlier; 'real' is a natural
+      follow-up to check if the behavior is truly spontaneous.
+    options:
+      A: real
+      B: authentic
+      C: original
+      D: genuine
+    q_number: 20
+    stem: Are they genuine? Or are they what the model suggests people say in moments
+      like this, aggregated from millions of similar conversations, compressed into
+      semantic vectors and returned to me as if they were my own. Because I don’t
+      know if what I’m about to say is ______.
+  source_journal: Nature
+  title: Serebral
+- article_update_date: 03.25.2026
+  body_text: 'Africa’s richest man has ambitious plans for the continent Middle East
+    & Africa | Aliko Dangote Africa’s richest man has ambitious plans for the continent
+    But the tycoon also has his critics March 19th 2026 “IT’S A CRAZY situation right
+    now,” Aliko Dangote, Africa’s richest man, tells The Economist in an interview
+    on March 12th in his office in Lagos, Nigeria’s commercial capital. He has returned
+    after a few hours away to find that crude oil prices have surged by 10% because
+    of the latest news from the Gulf. “And I think it will continue for a while,”
+    he adds. African businessmen are often minor players at times of global crises.
+    But the 68-year-old Mr Dangote is no ordinary businessman. In 2023, nearly a decade
+    after it was first proposed, he opened Africa’s largest refinery complex on the
+    edge of Lagos, an area nearly half the size of Manhattan. As it can process 650,000
+    barrels of oil per day, Mr Dangote’s phone does not stop ringing with offers from
+    potential buyers. “People are ready to pay anything now,” he says, with only some
+    exaggeration. The refinery is emblematic of Mr Dangote’s increasing wealth and
+    power. It is by far the largest scheme owned by the Dangote Group, the conglomerate
+    behind his estimated fortune of $28.5bn, an amount that makes him the only African
+    among the world’s 100 richest people, according to Forbes. But Mr Dangote suggests
+    that the refinery symbolises something more: the need for the continent to become
+    more self-reliant. “If we Africans don’t lead in the industrialisation of Africa,
+    Africa will never industrialise,” he argues. And though no one should confuse
+    the tycoon with an altruist, he may just be right. Mr Dangote did not start out
+    making things. Like many of his relatives (his great-grandfather was a wealthy
+    merchant of nuts, among other products), he was a trader. From the 1970s onwards
+    he imported soft commodities such as salt and sugar, then sold them in Nigeria.
+    A leaked cable from the American government written in 2005 said that his wealth
+    was “based on his family connections and political friendships” and that at one
+    time or another he held exclusive import rights for cement, sugar and rice. Around
+    the turn of the century, encouraged by the president of the day, Mr Dangote shifted
+    from importing cement to making it. Dangote Cement became the (concrete) foundation
+    of his fortune. One of three Dangote subsidiaries listed on the Nigerian stock
+    exchange (NGX), it has a market capitalisation of 13.6trn naira ($10bn). Its operating-profit
+    margins can be more than twice as high as those of other cement multinationals,
+    besting even competitors in frontier markets, where margins tend to be higher.
+    Mr Dangote suggests this is evidence of efficiency. Critics say it shows he has
+    benefited from governments’ tax breaks and import bans on the cement he once brought
+    into the country, as well as a deliberate strategy to ramp up capacity so as to
+    scare off potential competitors. The refinery complex is, though, on another scale
+    entirely, both for him and for Africa. To build his industrial Xanadu Mr Dangote
+    had to dredge a vast swamp and build a port to bring in the gigantic equipment.
+    On a visit before the interview The Economist toured a maze of pipes and chutes,
+    with the largest distillation tower taller than the clock tower holding Big Ben.
+    The site’s nearly 200 fuel tanks are designed to store more than 4bn litres of
+    fuels, a larger volume than France produces of wine every year. “Actually we are
+    building a runway there,” says Mr Dangote later. “Nobody believes something like
+    this exists in Africa. We can fly in people to come and have a look,” he says.
+    The refinery is a macroeconomic feat as well as an industrial one. Last year the
+    IMF estimated that, if run at full capacity, it would increase Nigeria’s non-oil
+    GDP by 1.5% between 2025 and 2026, while increasing official dollar reserves by
+    $5.5bn annually. For decades Nigeria, sub-Saharan Africa’s largest crude producer
+    , has imported most of its petrol, which governments subsidised. Mr Dangote’s
+    refinery, which can more than cover Nigeria’s domestic petrol consumption when
+    running at full tilt, helps reduce demand for dollars and supports the value of
+    the local naira. “Nigeria would have been at a standstill now without the refinery,”
+    Mr Dangote says. He disputes the idea that he is using his usual playbook with
+    the refinery, taking advantage of tax breaks and import bans. Regulators say they
+    are not issuing new import licences for petrol—in a move that would echo what
+    happened with cement—but the Dangote Group says this is not the case in practice.
+    There are vested interests in the status quo, made up of what he calls the oil
+    mafia built around imports. The refinery’s use extends beyond energy. It produces
+    polypropylene for plastics and will soon add a key chemical for detergents. In
+    a warehouse as big as an airport hangar, conveyor belts offload snowy piles of
+    fertiliser onto lorries powered by gas from the refinery, headed for Mr Dangote’s
+    purpose-built port. These are some of the 3m tonnes of fertiliser it can produce
+    per year, more than any other plant in Africa. The de facto closure because of
+    Iranian attacks of the Strait of Hormuz, the Gulf channel through which a third
+    of the world’s seaborne fertiliser trade passes, only affirms Mr Dangote’s importance.
+    What does Mr Dangote have planned for his next trick? He wants to list a portion
+    of the refinery on the Ngx (and perhaps in London, too, though a plan to do the
+    same for the cement business never materialised) and over the next three years
+    expand capacity to almost half as much as all of Saudi Arabia’s facilities combined.
+    He also wants to use the gas produced at the complex to provide power for manufacturers
+    that could set up nearby. The Dangote Group has plans beyond Nigeria; it already
+    operates in 16 other African countries. Last year it announced a $2.5bn joint
+    venture with Ethiopia to build a fertiliser plant of similar size to the one in
+    Nigeria. Mr Dangote says he will invest another $1bn in cement and power projects
+    in Zimbabwe. He lists other ideas: potash and phosphate mining, copper processing
+    in Zambia, cocoa processing in Ghana and Ivory Coast, and a petroleum pipeline
+    from Namibia to central Africa. “We know that if we don’t invest, there’s nobody
+    that will come and invest in our continent,” argues Mr Dangote. Who led investment
+    into East Asia, he asks rhetorically. “It wasn’t the Europeans. It was led by
+    themselves as Asians.” And the industrialists investing in India? “They’re all
+    Indians.” Indeed Mr Dangote’s refinery and continental ambitions have prompted
+    comparisons to Mukesh Ambani, the richest man in India, whose conglomerate, Reliance,
+    runs the largest refinery in that country. “Watch this space. Aliko Dangote is
+    about to become the Ambani of Africa,” argues Amit Jain of Nanyang Technological
+    University in Singapore. For though Mr Dangote talks of the need for African businessmen
+    to invest in Africa, he implies that most either cannot or will not. “I can’t
+    see any African country today building a refinery, and if they tried, I wish them
+    best of luck,” he says, reflecting on the huge effort it took him. “Africans generally
+    might not have this kind of capital. Even when they have, they don’t want to invest.
+    They are scared about investing. We are not.” Mr Dangote has 650,000 reasons a
+    day why he is best placed to be Africa’s industrialist. No other tycoon has the
+    balance-sheet, bolstered by the cement business, to fund such projects. None has
+    his track record. But it may be that Mr Dangote enjoys it that way. And whether
+    it is best for the continent to have a single Ambani or Rockefeller, rather than
+    a panoply of competing tycoons, is less clear. His companies also remain heavily
+    dependent on foreign subcontractors for much of their technical, high-skilled
+    processes, from construction to maintenance. Most of the refinery’s managers are
+    Indians. The cement business has a longstanding relationship with Sinoma, a large
+    Chinese company. Mr Dangote brushes these criticisms away. “We are very, very
+    innovative,” he argues, citing the heavily automated refining and cement production.
+    As he gets up to leave, a flurry of staff emerge seemingly from nowhere. There
+    is another meeting to get to: more deals to be struck. “When you come back in
+    three years’ time,” Mr Dangote offers as a parting thought, “what you’ve seen
+    today, it will be three times that.” ■ Sign up to the Analysing Africa , a weekly
+    newsletter that keeps you in the loop about the world’s youngest—and least understood—continent.
+    This article was downloaded by zlibrary from https://www.economist.com//middle-east-and-africa/2026/03/17/africas-richest-man-has-ambitious-plans-for-the-continent'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到Dangote认为炼油厂象征着非洲需要变得更加自力更生，减少对外部进口的依赖，特别是他在文中提到的减少对美元需求和支持奈拉价值，这与选项B一致。
+    options:
+      A: It serves as a platform for foreign investors to monopolize African energy
+        resources.
+      B: It acts as a catalyst for African self-reliance by reducing dependency on
+        imports.
+      C: It demonstrates that African businessmen can succeed through purely altruistic
+        motives.
+      D: It replaces the need for international partnerships in the industrialization
+        process.
+    q_number: 1
+    stem: According to the article, what is the primary significance of Aliko Dangote's
+      refinery in the context of Africa's development?
+  - answer: C
+    explanation: 文章提到批评人士认为他受益于政府的税收减免、进口禁令以及利用产能扩张来吓跑竞争对手。这反映了围绕其政治联系和贸易保护主义政策的批评，与C项相符。
+    options:
+      A: The criticisms are unfounded as Dangote's success is solely due to innovation.
+      B: The criticisms are rejected by Dangote himself as mere misunderstandings.
+      C: The criticisms stem from concerns about his use of political influence and
+        protectionist policies.
+      D: The criticisms are ignored by regulators who prioritize industrial growth
+        over competition.
+    q_number: 2
+    stem: What does the author imply about the criticism regarding Dangote's business
+      practices?
+  - answer: B
+    explanation: 文中引用Amit Jain的观点称Dangote即将成为“非洲的安巴尼”，以此类比两人在各自国家工业化进程中的领军地位，强调Dangote对非洲工业化的重要性。
+    options:
+      A: Their shared lack of commitment to industrializing their respective continents.
+      B: The potential for Dangote to become a central figure in African industrialization.
+      C: The fundamental differences in their business models and funding structures.
+      D: The inevitability of governmental intervention in their business operations.
+    q_number: 3
+    stem: The author compares Aliko Dangote to Mukesh Ambani to highlight which of
+      the following?
+  - answer: C
+    explanation: 文章结尾段落质疑对于非洲而言，拥有像Ambani或Rockefeller这样单一的巨头，是否比拥有众多相互竞争的实业家群体更好，暗示了对垄断式发展的担忧。
+    options:
+      A: It lacks the necessary backing from foreign technical expertise.
+      B: It ignores the necessity of modern automation in refining processes.
+      C: It may be less beneficial than having a diverse group of competing businesses.
+      D: It requires more capital than any single African billionaire can provide.
+    q_number: 4
+    stem: What is the concern raised by the author regarding the 'single Ambani or
+      Rockefeller' model for Africa?
+  - answer: A
+    explanation: 文章提到Dangote的公司在技术、高技能流程（从建筑到维护）上仍然非常依赖外国分包商，且炼油厂的大多数经理是印度人，水泥业务也与中国中材有长期合作。
+    options:
+      A: The group relies heavily on foreign contractors for technical and high-skilled
+        labor.
+      B: The group is gradually phasing out all foreign partnerships to ensure total
+        autonomy.
+      C: The group exclusively relies on African professionals to maintain its operations.
+      D: The group finds foreign partnerships to be a barrier to its innovative potential.
+    q_number: 5
+    stem: Which of the following best describes the current relationship between the
+      Dangote Group and international partners?
+  source_journal: Economist
+  title: Africa’s richest man has ambitious plans for the continent
+- article_update_date: 05.09.2026
+  body_text: A memorial service to mark the 80th anniversary of the Nanjing Massacre
+    committed by the Japanese military during World War II brought together hundreds
+    of activists and members of the Chinese and other Asian communities on Sunday
+    in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition,
+    the Committee to Promote Reunification of China, the Alliance for Preserving the
+    Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held
+    annually for the past 20 years with the aim of exposing the Japanese Imperial
+    Army's war crimes and encouraging people to understand and never forget the dark
+    chapter of history. "The Japanese Army blatantly violated international conventions
+    and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians
+    were murdered and one third of the buildings were destroyed," said Zha Liyou,
+    acting Chinese consul general in San Francisco, at the service. Japanese troops
+    captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing
+    a slaughter that lasted more than 40 days. Tens of thousands of women were raped.
+    "Our stories are linked. The fate of over 400,000 women sexually enslaved by the
+    Japanese Imperial Army during World War II is part and parcel of what happened
+    during the Nanjing Massacre," said Judith Mirkinson, president of the Comfort
+    Women Justice Coalition. She said the 20th century has been called the most violent
+    century in the history of the world, and that one way to ensure peace in the 21st
+    century is through truth and reconciliation. "Reconciliation does not come without
+    truth. So the Japanese government must acknowledge their crimes," she said. "They
+    must give justice to those few people who still survive from the Nanjing Massacre
+    and to the memory of what happened there." From the time that Japan invaded northeast
+    China in September 1931, followed by a full-scale invasion that started on July
+    7, 1937, around 35 million Chinese soldiers and civilians were killed or injured
+    during the Japanese occupation, which continued until 1945. To honor the victims
+    and the survivors, and to pursue justice and an enduring peace, the Chinese community
+    worldwide joined hands this year to commemorate this historic event which was
+    designated by the Chinese government as National Memorial Day for Nanjing Massacre
+    Victims. "To remember the atrocities committed by the Japanese Army during World
+    War II does not mean to pass on the enmity but rather to remind people not to
+    forget the history and inspire them to love peace," said Zha. "It might be a comfort
+    to the victims and those who sacrificed their lives that the Nanjing Massacre
+    has been etched into the memory of the Chinese people and the world civilization."
+    The Nanjing Massacre was entered onto the UNESCO Memory of the World Register,
+    a compendium aimed at preserving documented heritage of universal value, in 2015.
+    liazhu@chinadailyusa.com
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章第二段明确指出，该纪念活动举办的目的是“exposing the Japanese Imperial Army's war crimes
+      and encouraging people to understand and never forget the dark chapter of history”，因此C项符合文意。
+    options:
+      A: To seek financial compensation from the current Japanese government.
+      B: To encourage the continuation of historical enmity between nations.
+      C: To reveal war crimes and ensure that this historical period is remembered.
+      D: To lobby the UNESCO to add more records to the World Register.
+    q_number: 1
+    stem: According to the passage, why do organizations hold the annual memorial
+      service for the Nanjing Massacre?
+  - answer: B
+    explanation: 文中提到日军性奴役受害者与南京大屠杀之间的关系，作者认为前者是后者不可或缺的一部分（part and parcel），意为“重要组成部分”。
+    options:
+      A: An optional addition.
+      B: An essential component.
+      C: A minor consequence.
+      D: A temporary diversion.
+    q_number: 2
+    stem: What does the phrase 'part and parcel' in the fourth paragraph most likely
+      mean?
+  - answer: B
+    explanation: 文中第五段引用Mirkinson的话说“Reconciliation does not come without truth. So
+      the Japanese government must acknowledge their crimes”，明确表明真相与承认罪行是和解的前提。
+    options:
+      A: The passage of time in the 21st century.
+      B: The acknowledgment of crimes by the Japanese government.
+      C: The total elimination of the Japanese Imperial Army's history.
+      D: The formal apology from individual Japanese citizens.
+    q_number: 3
+    stem: According to Judith Mirkinson, what is the prerequisite for reconciliation
+      between Japan and the victims?
+  - answer: B
+    explanation: 倒数第二段Zha Liyou强调“does not mean to pass on the enmity but rather to
+      remind people not to forget the history and inspire them to love peace”，说明其目的是为了维护和平而非传递仇恨。
+    options:
+      A: It is a way to fuel hatred for future generations.
+      B: It serves to honor the victims and inspire a commitment to peace.
+      C: It is mainly for political propaganda purposes.
+      D: It serves to justify the ongoing sanctions against Japan.
+    q_number: 4
+    stem: What is Zha Liyou's view on remembering the atrocities of World War II?
+  - answer: C
+    explanation: 文章主要围绕南京大屠杀80周年纪念活动展开，通过引用多方观点强调铭记历史、追求正义与和平，整体语调庄重、具有纪念意义。
+    options:
+      A: Indifferent and objective.
+      B: Skeptical and critical.
+      C: Solemn and commemorative.
+      D: Aggressive and provocative.
+    q_number: 5
+    stem: Which of the following best describes the tone of the passage?
+  source_journal: China Daily
+  title: Nanjing massacre remembered on 80th anniversary
+- article_update_date: 05.20.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Chris Hall Gear Feb 8,
+    2026 6:00 AM For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable
+    Ones? You could go all in on one pricey, luxe watch or assemble a collection of
+    lower-budget timepieces. Let’s crunch the numbers. Photo-Illustration: WIRED Staff,
+    Courtesy of Tudor; Baltic Watches, Dennison, Hamilton, Mido, Brew Watches Watch
+    geeks love the phrase “GADA watch,” meaning a “go anywhere, do anything” timepiece—something
+    both feature-rich and eye-catching, a rugged and durable watch that doesn''t compromise
+    on style. Here at WIRED, a related question has been floating around the Gear
+    desk for some time. What’s better, one all-rounder premium watch, or a varied
+    collection garnered for exactly the same cash outlay as that piece that also covers
+    every scenario? Determined to answer this horological conundrum once and for all,
+    WIRED set the same budget for each approach to find out. Let''s start with our
+    pick for a GADA timepiece. The One Watch: Tudor Black Bay GMT Watch fans can never
+    really be satisfied with one watch. We love to pretend that there is a “holy grail”
+    or “exit watch” out there, but really there’s no end to this journey . However,
+    we also love to argue, and one permanent conversation starter is the concept of
+    a one-and-done. It can’t be too high-end, for the true GADA watch must be something
+    you can wear on a hike and in the pool, as well as to a formal function. Ideally,
+    you’d be able to wear it around a major city without fear of theft, which rules
+    out pretty much any Rolex, but we’d still want it to be something you can take
+    pride in among horological snobs. Some brands make this kind of sweet spot their
+    comfort zone. We considered the Nomos Glashütte Club Sport Worldtimer , or a Longines
+    Spirit Zulu Time —both brands with an eye on value, a reputation for quality,
+    and an all-around approach to design that’s not too polarizing. Inevitably, your
+    one watch isn’t going to be able to do everything. It won’t be as chic as a Cartier
+    or pack a pedigree chronograph. But rest assured it’ll have you covered 95 percent
+    of the time. In the end, we settled on a Tudor Black Bay GMT , on a fabric or
+    leather strap. For $4,550, you get a 41-mm stainless-steel piece with 200 meters
+    of water resistance, a COSC-certified chronometer movement that’s actually descended
+    from the last generation of Rolex GMT movements, and a design that’s smart enough
+    to blend into most formal outfits, even though it’s most at home in more casual
+    settings. With the dual time zone functionality it’s a useful travel tool, too,
+    and Tudor’s brand name and build quality mean it’s respected by watch geeks the
+    world over. That’s what we’re up against. Can we build a dream team to rival the
+    Tudor for the same cash outlay? The Equal-Value Collection First stop on our shopping
+    list is a dive watch: something that can at least match the Black Bay’s 200-meter
+    water resistance rating and speak to its underpinnings as a daily diver. We don’t
+    need a hardcore dive monster, but something that blends style and spec. We could
+    head to Seiko, but while the Prospex range holds a lot of phenomenal beaters,
+    few could be said to be truly stylish. One strong candidate is the Unimatic U1
+    Classic ($665), but we’ve gone for the recently updated Baltic Aquascaphe ($730).
+    Powered by a Miyota automatic movement, the Baltic focuses on more visible premium
+    touches, like the domed sapphire crystal and applied 3D luminous hour markers.
+    It’s water-resistant to 200 meters and available in blue, green, gray, or silver.
+    Next we should hit one of the main weaknesses in the Tudor’s armor, and pick up
+    a dress watch. The Black Bay isn’t hulking, and our choice to opt for the fabric
+    strap makes the whole watch a lot lighter (although it does add a millimeter in
+    height), but it’s not slim by any definition. For price and poise, we’ve come
+    straight to Dennison. The one time you can really get away with a quartz watch
+    is at a formal occasion, where the chance of someone asking you for precision
+    timing or to fiddle with your complications will be pretty low. The sold-out Time+Tide
+    Date Night limited edition would be perfect, but failing that we’ll opt for the
+    Midnight Aventurine in steel ($690). Next, we’ve got space in our collection for
+    a real everyday watch: something that’s not overburdened with functionality, but
+    that will cover us for the working day. Here we can look at a simple automatic
+    from Hamilton, whose military-inspired Khaki Field and Pilot watches would also
+    be worthy inclusions. However, for a more everyday staple we’ve gone for the Khaki
+    Field “Murph” 38 mm ($995), a compact version of the watch Matthew McConaughey''s
+    character gives to his daughter in Interstellar . With an 80-hour power reserve
+    and 100-meter water resistance, it’s a versatile choice in its own right. To be
+    a viable alternative to our GADA Tudor, the value collection has to include a
+    travel-time watch. We looked at Farer’s 36-mm Lander IV , with its preppy color
+    scheme and distinctive character, but ultimately we went for another cult favorite
+    from the affordable end of the Swatch Group stable. The Mido Ocean Star Decompression
+    Worldtimer costs $5 less than the Farer, at $1,490, and brings its own eye-catching
+    dial to the table, as well as a 200-meter water resistance rating and a version
+    of the same 80-hour movement as in the Hamilton. Perhaps the clincher was the
+    world-time bezel, which shouldn’t be confused with a true mechanical world-time
+    complication, but does give at-a-glance timekeeping around the world. So far we’ve
+    spent $3,905, which means we still have $645 burning a hole in our pocket. The
+    obvious gap in this collection is a chronograph of some kind. It would give us
+    the decisive edge over the Black Bay, but for this budget most mechanical chronographs
+    are out of reach. We could buy a MoonSwatch —in fact, at $285 we could buy two
+    and have enough left for the Uber home—but we’re on our mission to find something
+    more substantial, more interesting, and (let’s face it) more likely to stand the
+    test of time. And that something is the Brew Super Metric ($475), a hybrid mecha-quartz
+    chrono from a New York microbrand with more personality than every MoonSwatch
+    put together. The unashamedly loud retro styling isn’t for everyone, but we think
+    that the cushion-shaped case and steel bracelet help broaden our stylistic options,
+    and although it’s not a pedigree mechanical chronograph, it costs less than $500
+    while looking and feeling like no one’s idea of a compromise. That brings the
+    challengers to a grand total of $4,380, which means we’d be able to buy a six-watch
+    case to keep our collection in (of course it’s got space for one more …) and maybe
+    even a couple of spare straps. There’s no doubt the Tudor is in a different league,
+    but could a crack squad of specialists tempt you to part with $4,550? Or will
+    the lure of singular luxe prove too tempting? Over to you. It''s decision time.
+    This article was downloaded by calibre from https://www.wired.com/story/for-4550-would-you-buy-single-premium-watch-or-swarm-of-affordable-ones/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文中定义“GADA”为“go anywhere, do anything”，并描述其既要有功能性又要有设计感，既坚固耐用又兼顾风格。选项B准确概括了这些特质。
+    options:
+      A: A timepiece designed exclusively for extreme outdoor survival activities.
+      B: A watch that balances aesthetic appeal, durability, and functional versatility.
+      C: A luxury item primarily intended for display at high-profile social events.
+      D: A complex horological device requiring frequent professional maintenance.
+    q_number: 1
+    stem: What does the author imply by the term "GADA watch" in the context of the
+      passage?
+  - answer: C
+    explanation: 文中明确提到：“Ideally, you’d be able to wear it around a major city without
+      fear of theft, which rules out pretty much any Rolex”，直接对应选项C。
+    options:
+      A: Rolex watches lack the necessary water resistance for formal functions.
+      B: They are considered too polarizing for the horological community.
+      C: Their high value makes them a target for theft in urban environments.
+      D: They fail to offer a heritage that is respected by watch enthusiasts.
+    q_number: 2
+    stem: Why does the author rule out a Rolex when considering the ideal "GADA watch"?
+  - answer: D
+    explanation: 文章指出该表具有双时区功能、COSC认证、源自Rolex的技术渊源以及受表迷尊重的品牌名望，体现了选项D的全面性。
+    options:
+      A: It utilizes an exclusive, in-house movement developed solely for the brand.
+      B: It is significantly cheaper than the collective price of the rival collection.
+      C: Its design is perfectly suited for formal occasions but lacks utility in
+        travel.
+      D: Its technical features and brand reputation appeal to a wide range of watch
+        enthusiasts.
+    q_number: 3
+    stem: Which of the following is cited as a reason for choosing the Tudor Black
+      Bay GMT as the single watch option?
+  - answer: A
+    explanation: 文中提到该系列缺少计时功能（chronograph），而Brew Super Metric填补了这个空白，且在预算之内表现出色，选项A符合文意。
+    options:
+      A: It serves as a cost-effective alternative to fill the gap of a chronograph.
+      B: It is a mechanical watch that perfectly replicates the prestige of the Tudor.
+      C: It is the most expensive piece in the collection that balances the overall
+        budget.
+      D: It is intended to replace the need for a formal dress watch.
+    q_number: 4
+    stem: 'The author includes the Brew Super Metric in the "Equal-Value Collection"
+      primarily because:'
+  - answer: C
+    explanation: 作者通过同样的预算（$4,550）对比两种方案，旨在通过量化分析和具体型号比较，为读者提供一个评估个人需求的决策框架，而非简单评判孰优孰劣。
+    options:
+      A: To demonstrate that multiple affordable watches are always superior to one
+        luxury piece.
+      B: To highlight the difficulties in maintaining a collection of mechanical timepieces.
+      C: To provide a structured analytical framework for making a subjective consumer
+        choice.
+      D: To critique the marketing strategies employed by major luxury watch brands.
+    q_number: 5
+    stem: What is the author's primary intention in comparing the "One Watch" approach
+      with the "Equal-Value Collection" approach?
+  source_journal: Wired
+  title: Chapter 10
