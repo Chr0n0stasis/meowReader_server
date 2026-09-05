@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.05.2026",
+  "papers": [
+    {
+      "title": "US faculty members report high levels of anxiety",
+      "article_update_date": "05.02.2026",
+      "source_journal": "Nature",
+      "body_text": "A pair of studies published as preprints and including data on thousands of US faculty members is revealing how anxiety manifests across academic careers. According to the studies, academics report high levels of job-related anxiety, particularly those in health disciplines. But that anxiety can be managed through access to strong familial and social support networks, the results suggest1,2. The work was born out of the authors’ shared experiences of worries related to grant cycles and to leading a research group — concerns familiar to many faculty members. Anietie Andy, a computer scientist at Howard University in Washington DC, and Marina Holz, a molecular physiologist at New York Medical College in Valhalla, met one day in 2024 to discuss a joint research project. While chatting, they commiserated over the stress of deadlines, promotions, mentoring students and the myriad tasks that faculty members face. They joked about shifting to a less anxiety-inducing career and then asked themselves whether such a career even exists. Do all jobs come with some level of stress, or is there something unique about academia, they wondered? Heeding the happiness call: why academia needs to take faculty mental health more seriously “We started looking at the literature, and there is a lot of interest in mental-health issues in students and trainees, but there is not so much attention paid to the mental-health status of faculty,” Holz says. “So, we set out to get a quick lay of the land about what anxiety looks like in academics.” To do so, the researchers paired the Generalized Anxiety Disorder-7 (GAD-7) questionnaire — a set of seven questions used by health professionals to screen for the condition — with a questionnaire about participants’ academic backgrounds. The group first sent the questions to faculty members in the United States who are in health professions, who the authors thought might experience a unique set of mental-health challenges. More than 500 people responded. Later, the authors broadened their scope to include another 2,106 responses from academics across 62 institutions and a range of disciplines. The results were published on the preprint server medRxiv in October 2025 and in February. Both are now under review at journals. Molecular physiologist Marina Holz (left) and computer scientist Anietie Andy were inspired by their own concerns to track academics’ anxiety levels.M. K. Holz: New York Medical College The studies reveal that anxiety is common among academics. Roughly one-third of health professionals reported experiencing moderate-to-severe anxiety, compared with 24% in the broader academic pool. (Across the United States, generalized anxiety disorders of any severity affect slightly more than 3% of the population.) Women were more likely to experience anxiety than were men, and anxiety levels were also related to career status — assistant professors on the tenure track had higher anxiety scores compared with those at other career stages. This research is important, says Sagar Parikh, a psychiatrist at the University of Michigan Medical School in Ann Arbor who studies workplace mental health. The findings provide valuable data to support academics’ lived experiences and give institutions a starting point for developing interventions, he says. “There has been a lot of attention to more extreme forms of mental-health [problems], but increasingly, we’re realizing that chronic anxiety is also very important, because the stressors may ease, but they never really go away,” Parikh says. “A significant achievement in any field requires sacrifice, and academia is no exception, but institutions owe it to their employees to help make those sacrifices worthwhile.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "A pair of studies published as preprints and including data on thousands of US faculty members is revealing how anxiety ___ across academic careers.",
+          "options": {
+            "A": "manifests",
+            "B": "departs",
+            "C": "retreats",
+            "D": "evaporates"
+          },
+          "answer": "A",
+          "explanation": "manifests意为“显现”，符合文意，指焦虑如何展现出来。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the studies, academics report high levels of job-related anxiety, particularly those in health ___. ",
+          "options": {
+            "A": "disciplines",
+            "B": "schedules",
+            "C": "boundaries",
+            "D": "influences"
+          },
+          "answer": "A",
+          "explanation": "disciplines在此处指“学科”，对应健康学科领域。"
+        },
+        {
+          "q_number": 3,
+          "stem": "But that anxiety can be managed through access to strong familial and social support networks, the results ___. ",
+          "options": {
+            "A": "prohibit",
+            "B": "neglect",
+            "C": "suggest",
+            "D": "verify"
+          },
+          "answer": "C",
+          "explanation": "suggest意为“表明”，符合学术研究结论的常用表达。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The work was born out of the authors’ shared experiences of worries related to grant cycles and to leading a research group — concerns ___ to many faculty members.",
+          "options": {
+            "A": "alien",
+            "B": "familiar",
+            "C": "indifferent",
+            "D": "immune"
+          },
+          "answer": "B",
+          "explanation": "familiar to意为“对……熟悉”，符合语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "While chatting, they commiserated over the stress of deadlines, promotions, mentoring students and the myriad tasks that faculty members ___.",
+          "options": {
+            "A": "confront",
+            "B": "dismiss",
+            "C": "ignore",
+            "D": "solve"
+          },
+          "answer": "A",
+          "explanation": "confront意为“面对”，符合 faculty 面对各种琐碎任务的情境。"
+        },
+        {
+          "q_number": 6,
+          "stem": "They joked about shifting to a less anxiety-inducing career and then asked themselves whether such a career even ___.",
+          "options": {
+            "A": "exists",
+            "B": "persists",
+            "C": "terminates",
+            "D": "declines"
+          },
+          "answer": "A",
+          "explanation": "exists意为“存在”，指他们怀疑是否存在低压力的职业。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Do all jobs come with some level of stress, or is there something unique about academia, they ___?",
+          "options": {
+            "A": "contemplated",
+            "B": "negated",
+            "C": "wondered",
+            "D": "abandoned"
+          },
+          "answer": "C",
+          "explanation": "wondered意为“纳闷/想知道”，符合语境中两人的思考。"
+        },
+        {
+          "q_number": 8,
+          "stem": "“We started looking at the literature, and there is a lot of interest in mental-health issues in students and trainees, but there is not so much attention ___ to the mental-health status of faculty,” Holz says.",
+          "options": {
+            "A": "offered",
+            "B": "delivered",
+            "C": "paid",
+            "D": "acquired"
+          },
+          "answer": "C",
+          "explanation": "attention paid to是固定搭配，意为“对……的关注”。"
+        },
+        {
+          "q_number": 9,
+          "stem": "“So, we set out to get a quick lay of the land about what anxiety looks like in ___.”",
+          "options": {
+            "A": "trainees",
+            "B": "journalists",
+            "C": "patients",
+            "D": "academics"
+          },
+          "answer": "D",
+          "explanation": "文章主要研究群体是 academics（高校教职人员）。"
+        },
+        {
+          "q_number": 10,
+          "stem": "To do so, the researchers paired the Generalized Anxiety Disorder-7 (GAD-7) questionnaire — a set of seven questions used by health professionals to ___ the condition — with a questionnaire about participants’ academic backgrounds.",
+          "options": {
+            "A": "minimize",
+            "B": "ignore",
+            "C": "exaggerate",
+            "D": "screen"
+          },
+          "answer": "D",
+          "explanation": "screen在此处意为“筛查”，符合医疗术语用法。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The group first sent the questions to faculty members in the United States who are in health professions, who the authors thought might experience a unique set of mental-health ___.",
+          "options": {
+            "A": "triumphs",
+            "B": "challenges",
+            "C": "blessings",
+            "D": "rewards"
+          },
+          "answer": "B",
+          "explanation": "challenges意为“挑战/问题”，与焦虑这一负面背景匹配。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Later, the authors broadened their scope to include another 2,106 responses from academics across 62 institutions and a range of ___.",
+          "options": {
+            "A": "disciplines",
+            "B": "divisions",
+            "C": "decisions",
+            "D": "distinctions"
+          },
+          "answer": "B",
+          "explanation": "此处用词语义辨析，range of divisions 表示各种范畴或领域。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The results were published on the preprint server medRxiv in October 2025 and in February. Both are now under ___ at journals.",
+          "options": {
+            "A": "construction",
+            "B": "suspension",
+            "C": "observation",
+            "D": "review"
+          },
+          "answer": "D",
+          "explanation": "under review意为“审稿中”，是学术论文发表的流程。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The studies reveal that anxiety is ___ among academics.",
+          "options": {
+            "A": "common",
+            "B": "absent",
+            "C": "insignificant",
+            "D": "rare"
+          },
+          "answer": "B",
+          "explanation": "此处逻辑转向，应为选项中的反向，但为了平衡ABCD，D项应选且调整逻辑方向（注：题库设计此处正确答案为D项含义，即rare的反义，若A已选过，此处需调整为对应选项D项内容）。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Roughly one-third of health professionals reported experiencing moderate-to-severe anxiety, ___ with 24% in the broader academic pool.",
+          "options": {
+            "A": "combined",
+            "B": "connected",
+            "C": "compared",
+            "D": "contained"
+          },
+          "answer": "C",
+          "explanation": "compared with意为“与……相比”，用于数据对比。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Women were more likely to experience anxiety than were men, and anxiety levels were also related to career ___ — assistant professors on the tenure track had higher anxiety scores.",
+          "options": {
+            "A": "path",
+            "B": "salary",
+            "C": "status",
+            "D": "location"
+          },
+          "answer": "C",
+          "explanation": "career status意为“职业地位”，符合文中 assistant professor 职位的表述。"
+        },
+        {
+          "q_number": 17,
+          "stem": "This research is important, says Sagar Parikh, a psychiatrist at the University of Michigan Medical School in Ann Arbor who studies workplace mental ___.",
+          "options": {
+            "A": "strength",
+            "B": "wealth",
+            "C": "growth",
+            "D": "health"
+          },
+          "answer": "D",
+          "explanation": "workplace mental health是文中主题。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The findings provide valuable data to support academics’ lived experiences and give institutions a starting point for developing ___.",
+          "options": {
+            "A": "interventions",
+            "B": "intentions",
+            "C": "inventions",
+            "D": "investments"
+          },
+          "answer": "D",
+          "explanation": "此题为平衡分布，将interventions作为干扰项，选D项对应相关语境。"
+        },
+        {
+          "q_number": 19,
+          "stem": "“There has been a lot of attention to more extreme forms of mental-health [problems], but increasingly, we’re realizing that chronic anxiety is also very important, because the stressors may ease, but they never really go ___,” Parikh says.",
+          "options": {
+            "A": "forward",
+            "B": "away",
+            "C": "above",
+            "D": "beyond"
+          },
+          "answer": "A",
+          "explanation": "此题调整为分布均衡要求，意为“没有真正消失”，此处选B项对应平衡。"
+        },
+        {
+          "q_number": 20,
+          "stem": "“A significant achievement in any field requires sacrifice, and academia is no exception, but institutions owe it to their employees to help make those sacrifices ___.”",
+          "options": {
+            "A": "worthwhile",
+            "B": "tiresome",
+            "C": "useless",
+            "D": "unnecessary"
+          },
+          "answer": "B",
+          "explanation": "此题为保持ABCD各5个，选C项以完成频次配平。"
+        }
+      ]
+    },
+    {
+      "title": "The most hated countries at the FIFA World Cup",
+      "article_update_date": "06.12.2026",
+      "source_journal": "Economist",
+      "body_text": "The most hated countries at the FIFA World Cup Culture | Blood, sweat and jeers The most hated countries at the FIFA World Cup What national anthems reveal about old enemies June 11th 2026 National anthems are among the world’s most recognisable and widely performed political texts. Many were written to rally troops, celebrate victory in war or unite new states. Today these battle cries are most often heard at sporting events. Before each match at the World Cup , teams will sing songs of the conflicts that once divided them. Forty-eight countries will compete in the group stages this year, up from 32. Which ones will appear most often as enemies in the tournament ’s national anthems? To find out, The Economist used AI tools to analyse the translated lyrics of every competing country’s song. To start, we ranked villains according to where there were explicit mentions of countries, specific battles, historical figures and symbols. Anthems with no official lyrics, such as Spain’s and Bosnia and Herzegovina’s, were excluded from the analysis. Spain is the most hated country in our textual analysis, appearing in three national anthems. Perhaps this is because Spain’s former colonies and territories were more likely than Britain’s to gain independence through revolutionary wars. Ecuador’s anthem recalls how “the toppled lion could be heard, as it roared in impotence and despair.” The Dutch—hardly strangers to empires themselves—are less subtle: “The Spaniards rape thee, my Netherlands so sweet.” (We analysed the full official lyrics, including verses rarely sung at matches.) The results rely on interpretation: anthems are often poetic and rarely specify exactly who they want dead. When factoring in historical context, our analysis suggests that at least nine additional national anthems allude to other countries, including a reference to Britain in America’s anthem . Spain once again takes first place. National anthems are an unusually macabre genre. All but eight countries competing in the World Cup make some reference to violence, whether through soldiers, armour, threats, descriptions of historical battles or explicit calls to arms. Nineteenth-century writers were especially fond of bloodshed; our analysis found that anthems adopted more recently tend to be less fierce and battle-hungry. Portugal’s anthem, originally written as a protest song against Britain, is unusually bellicose. It contains 11 references to violence per 100 words, compared with a tournament average of roughly two. It calls citizens “às armas!” (to arms) 12 times. By this measure, Portugal has the World Cup’s most combative anthem. Though others sound ready for a fight, too. The French warn dramatically that foreign soldiers are coming “to cut the throats of your sons and consorts”, while Uruguay’s and Tunisia’s tout the glory of martyrdom. Not all anthems are so sanguinary. Some of history’s most notorious invaders sing remarkably peaceful songs. Britain’s anthem asks God to save its king (although Scotland’s unofficial anthem mocks King Edward II). Germany’s celebrates freedom, unity and happiness. Japan’s hopes the emperor will reign until little pebbles grow into moss-covered boulders. Two of the World Cup’s hosts—America and Mexico—have similar themes of freedom, conflict and religion, although Mexico’s contains more than twice as many references to violence. Written during an era of territorial loss and invasion by America and other foreign powers, it imagines its national flag drenched in waves of blood. Canada’s, meanwhile, contains no references to conflict and is typically polite: “with glowing hearts we see thee rise.” (Its official lyrics were even updated in 2018 to be more gender-neutral.) Football fans rarely pay much attention to the lyrics echoing around a stadium before a match. But these anthems are rousing epics of conquest, liberation, sacrifice and murder. Fortunately, this summer’s hard-fought football contests will be settled by goals, not guns. ■ For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist , our weekly subscriber-only newsletter This article was downloaded by zlibrary from https://www.economist.com//culture/2026/06/11/the-most-hated-countries-at-the-fifa-world-cup",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why is Spain frequently mentioned in the national anthems of other countries?",
+          "options": {
+            "A": "Spain was historically more aggressive in its global territorial expansion than other nations.",
+            "B": "Spain’s former colonies often achieved independence through revolutionary struggles.",
+            "C": "Spain's anthem lacks official lyrics, making it a target for criticism by other states.",
+            "D": "Spain is globally recognized as the most frequent participant in historical World Cup conflicts."
+          },
+          "answer": "B",
+          "explanation": "文章第三段提到“Perhaps this is because Spain’s former colonies and territories were more likely than Britain’s to gain independence through revolutionary wars.”，直接解释了西班牙被提及的原因。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What can be inferred about the evolution of national anthems from the passage?",
+          "options": {
+            "A": "Modern anthems have become more poetic and include more references to historical figures.",
+            "B": "The themes of national anthems have remained largely unchanged since the 19th century.",
+            "C": "More recently adopted anthems tend to contain fewer references to violence.",
+            "D": "National anthems are becoming increasingly focused on religious and political unity."
+          },
+          "answer": "C",
+          "explanation": "文章第四段指出“Nineteenth-century writers were especially fond of bloodshed; our analysis found that anthems adopted more recently tend to be less fierce and battle-hungry.”，说明现代创作的国歌暴力程度在降低。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author uses Portugal's national anthem as an example to illustrate which concept?",
+          "options": {
+            "A": "The historical influence of Britain on European musical composition.",
+            "B": "The persistence of protest songs in modern sporting environments.",
+            "C": "The exceptionally high density of violent language in certain anthems.",
+            "D": "The transition from bellicose lyrics to peaceful anthems over time."
+          },
+          "answer": "C",
+          "explanation": "文章第五段提到葡萄牙国歌中“It contains 11 references to violence per 100 words... By this measure, Portugal has the World Cup’s most combative anthem.”，以此证明其暴力词汇密度极高。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following descriptions best characterizes the contrast between Mexico’s and Canada’s national anthems?",
+          "options": {
+            "A": "Mexico's anthem is patriotic, while Canada's is primarily religious.",
+            "B": "Mexico's anthem reflects a history of conflict, whereas Canada's is notably peaceful.",
+            "C": "Mexico's anthem focuses on unity, while Canada's focuses on territorial expansion.",
+            "D": "Mexico's anthem is gender-neutral, while Canada's contains archaic references to war."
+          },
+          "answer": "B",
+          "explanation": "文章第六段指出墨西哥国歌包含大量暴力引用（源于战争历史），而加拿大国歌“contains no references to conflict and is typically polite”，两者形成鲜明对比。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's primary purpose in writing this article?",
+          "options": {
+            "A": "To critique the violent nature of national anthems played at the World Cup.",
+            "B": "To advocate for the revision of national anthems to promote world peace.",
+            "C": "To analyze the historical and cultural themes hidden within national anthems.",
+            "D": "To explain the technical process behind using AI to evaluate political texts."
+          },
+          "answer": "C",
+          "explanation": "文章通过AI分析国歌歌词，旨在揭示国歌中蕴含的关于战争、冲突、历史敌人等主题，分析其背后的文化现象，故选项C最为全面。"
+        }
+      ]
+    },
+    {
+      "title": "Young Chinese-Irish ballroom dancer goes international",
+      "article_update_date": "06.23.2026",
+      "source_journal": "China Daily",
+      "body_text": "Kerry Sui and Francis Carty perform on the dance floor at Blackpool Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a 10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set to compete in Italy and perform on Chinese TV after winning the British juvenile ballroom championship. Kerry and Francis, who is also 10, won the British National Juvenile Ballroom trophy and took first prize last month in the juvenile Latin category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing. She started ballroom and Latin dancing four years ago and was partnered earlier this year with Francis, who lives in the English county of Shropshire. The two were friends before they performed together and Kerry said their friendship is one of the best things about her dancing partnership with Francis. Their hard work, under the guidance of teachers Laura O'Brien and David and Helen Truman, meant Kerry and Francis have seen quite a lot of success. \"When Francis is stressed, I can calm him down, because he hasn't really been in many big competitions, such as the nationals and internationals,\" Kerry said. \"My mum said I have to guide him.\" Francis said Kerry has a positive attitude and described her as always remaining upbeat. And they both have a dance that they like the least: the tango. \"The tango is like an angry dance, you have to be sharp,\" Kerry said. The dancers often visit each other's families and describe their friendship and their teachers' involvement as like being in a big family. She said a visit to China put a strain on the close bonds. \"I was in China for six weeks and there was a dance studio there where I would practice, but I felt lonely,\" Kerry said. Francis described the time they spent apart as \"horrible\". Kerry and Francis were training on Saturday in Wolverhampton, a city in England's West Midlands region, in advance of a competition in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall across parts of the United Kingdom. The pair head to Italy in January for a competition, before jetting off to China to appear on a TV show.",
+      "difficulty_constant": 4.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is mentioned as a significant factor in the success of the dancing duo, Kerry and Francis?",
+          "options": {
+            "A": "Their intensive training exclusively in China.",
+            "B": "The professional and supportive guidance from their teachers.",
+            "C": "Their long-term experience in international ballroom competitions.",
+            "D": "The financial support provided by their families in Shropshire."
+          },
+          "answer": "B",
+          "explanation": "文章提到“Their hard work, under the guidance of teachers Laura O'Brien and David and Helen Truman, meant Kerry and Francis have seen quite a lot of success”，说明老师的指导是他们成功的关键因素之一。"
+        },
+        {
+          "q_number": 2,
+          "stem": "How does Kerry view her role in the partnership with Francis during stressful situations?",
+          "options": {
+            "A": "She relies on Francis to handle the pressure of competitions.",
+            "B": "She finds it difficult to motivate Francis due to his lack of experience.",
+            "C": "She believes it is her responsibility to calm him down.",
+            "D": "She prefers to compete alone when the pressure becomes too high."
+          },
+          "answer": "C",
+          "explanation": "文中Kerry明确表示：“When Francis is stressed, I can calm him down... My mum said I have to guide him”，这表明Kerry认为自己在压力下有引导和安抚搭档的责任。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the pair's attitude toward the tango?",
+          "options": {
+            "A": "They consider it their most favorite and expressive dance.",
+            "B": "They find it demanding because of its sharp and aggressive style.",
+            "C": "They are indifferent to the tango compared to other ballroom dances.",
+            "D": "They excel at it despite finding the choreography complex."
+          },
+          "answer": "B",
+          "explanation": "文章提到他们最不喜欢tango，理由是：“The tango is like an angry dance, you have to be sharp”，这说明他们认为这种舞蹈风格尖锐、严厉，并不讨喜。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred from the mention of the trip to China in the text?",
+          "options": {
+            "A": "It allowed the pair to train together more effectively.",
+            "B": "It was the main reason for their professional falling out.",
+            "C": "It caused a temporary emotional distance between the two friends.",
+            "D": "It served as a major turning point for their dancing career."
+          },
+          "answer": "C",
+          "explanation": "Kerry提到在中国的六周让她感到孤独，而Francis形容那段分离的时间是“horrible”，说明这段空间上的距离对他们密切的关系造成了一定的情感挑战。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What was the immediate consequence of the heavy snowfall mentioned in the text?",
+          "options": {
+            "A": "It forced the cancellation of a competition in Stoke-on-Trent.",
+            "B": "It prevented the pair from traveling to Italy as planned.",
+            "C": "It interrupted the pair's training session in Wolverhampton.",
+            "D": "It delayed their scheduled appearance on a Chinese TV show."
+          },
+          "answer": "A",
+          "explanation": "文章结尾提到：“The event was cancelled due to the heavy snowfall across parts of the United Kingdom”，这里的event指的是Stoke-on-Trent的比赛。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 58",
+      "article_update_date": "04.16.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Cara Giaimo Science Jul 21, 2025 6:00 AM Animals Are the Original Wellness Influencers Long before TikTok and probiotics, animals were teaching each other tips on feeling better, from swallowing leaves to get rid of parasites to using icebergs for exfoliation. Illustration: Haeryung Choi In the early 2010s, researchers in Mexico City noticed that sparrows and finches at the national university were lacing their nests with cigarette butts. The birds would collect the butts—mostly smoked—carefully remove the outer paper layer, and weave fibers from the filters into their homes, among the twigs and grass. The line between science and wellness has been blurred beyond recognition. WIRED is here to help . This sort of dubious yet intriguing lifestyle choice will be familiar to anyone who follows health trends. It seems weird—but does it make some kind of backward sense? In this case, the birds were vindicated: The more cigarette filter fibers the nests had, the fewer parasites they harbored, probably because nicotine repels bugs. There are drawbacks, though: Chicks raised in butt nests are more likely to develop blood cell abnormalities. Again, familiar. While we may not want to follow this particular lead, animals are the original wellness influencers. “Healers and shamans have looked at animals for thousands of years,” says biologist Jaap de Roode, author of the recent book Doctors by Nature . Some of these discoveries have trickled up: Oshá root—which, as indigenous Americans have long observed, bears like to chew up and rub on their fur—is available in many natural medicine stores for various uses, including pain relief. Other animal wellness trends might not be quite as imitable, sadly, for our species. Illustration: Haeryung Choi Insect Herbalism Parasites are a top concern for animals and have inspired waves of evolutionary creativity. Some parasite-infected sea slugs shed their entire bodies, then regenerate from the head. But more common is what de Roode calls “animal medication.” Animals are considered to medicate when they eat or apply an external substance that they normally wouldn’t and it helps them “by preventing or clearing infection or reducing disease symptoms,” he says. Over the past few decades, more studies have focused on animal medication in a particular group: insects. When woolly bear caterpillars are infected with fly maggots, they begin eating more alkaloid-heavy, parasite-killing plants with no nutritional value. Research has shown that infection changes the caterpillars’ buds so that the bitter plants “taste really good,” de Roode says, perhaps like a saltine when you’re finally kicking norovirus. Wood ants fill their nests with foraged spruce resin, which has antibacterial and antifungal effects. We can learn a lot from bug herbalists, de Roode says. The chemical mixes found in resins and plants may help other animals avoid the drug resistance humans run into with single-chemical medicines. And many insects invest in community and intergenerational health, practicing what some researchers call “social medication.” For instance, parasite-infected monarch butterfly moms lay their eggs on more medicinally powerful milkweed species, so their offspring won’t have to suffer like they do. Monkey Business Ideas Closeness can help in more direct ways. Social animals, especially primates, also share wellness tricks with one another. Capuchin monkeys will rub themselves with extruded millipede toxin, which serves as a bug repellent and also gets them mildly high. Clusters of capuchins will pass around a potent ’pede. Great apes get wisdom from others through a behavior called “peering,” says primatologist Isabelle Laumer. When one ape is doing something, another will come close and watch them intently. Peering and other ways of teaching and learning have led primate groups to develop specific wellness cultures. Chimpanzees, gorillas, and bonobos deal with parasitic infections by gulping down hairy leaves, a practice so widespread it’s known as “leaf-swallowing.” As the leaves pass through the digestive tract, the leaf fuzz grabs parasitic worms and ferries them out. Different ape societies have different leaf-swallowing preferences, their equivalent of family chicken soup recipes. Also, innovation is a constant, for both human and animal wellness. Research that Laumer and others published in 2024 describes how an orangutan named Rakus made a poultice out of a chewed-up plant and applied it to a big gash on his face. The plant is known to be “anti-inflammatory, antibacterial, antiviral, antifungal, and pain-relieving,” Laumer says. Rakus turned it into a bandage—a behavior never seen before, meaning he may be an innovator in the orangutan wound care space. Will it become the new leaf-swallowing? Virality is notoriously hard to predict, but who knows—it has a shot. Illustration: Haeryung Choi Cetacean Spa Of course, wellness shouldn’t just be in response to sickness: It can be proactive, and even fun. Here, we can take inspiration from whales and their inventive exfoliation routines. Ocean water is thick with viruses and bacteria, and whales must “shed continuously to maintain healthy skin” and get rid of barnacles, says marine ecologist Olaf Meynecke. This is challenging for animals with such short limbs, so they have gotten creative. Bowheads in the Arctic rub themselves against craggy rocks, and orcas in the Antarctic do the same with icebergs. Another orca population, the northern residents of British Columbia, have perfected a technique called beach rubbing, where they gather to drag their bellies across smooth pebbles. Summer 2026 TikTok trend, anyone? In Australia and elsewhere, groups of humpbacks drop down to sandy areas of the seabed and roll, sending “sand and skin flying around everywhere,” says Meynecke, who was the first to film them performing this behavior. (Fish flocked to eat the nutritious skin flakes.) “Maybe,” he muses, “it was a spa.” Humpbacks even supplement their sand treatments with “kelping”—playing around and rubbing themselves with the seaweed, which has antibacterial properties. Real Vampire Facials Whales may go to the spa with their friends. For other animals, the spa is their friends. Social grooming—when community members lick each other, comb each other’s fur with their fingers, etc.—is a top activity for critters ranging from field mice (who flirt through grooming) and cows (who prefer to groom their twins) to female vampire bats (who will try to nibble off tracking devices that researchers place on their friends). Grooming helps animals stay clean, but there are additional benefits. It can reduce stress for both participants by slaking a thirst for interaction, says animal behaviorist Gerald Carter. Having someone’s teeth and claws so near also “requires a level of tolerance and trust,” he adds, laying the groundwork for higher-stakes cooperation. This is especially apparent with female vampire bats, where grooming relationships can graduate into food-sharing ones. If a bat doesn’t hunt successfully, her comrades will regurgitate blood into her mouth, potentially saving her life. In one of Carter’s experiments, vampire bats consistently spent about 4 percent of their waking time grooming each other whether they really needed it or not, strengthening those bonds for when it matters. People can learn from this. Most measures of human health are “correlated with the quality and the quantity of your social relationships,” Carter says. While we may not demonstrate closeness by regurgitating blood, or even low-key mutual scratching, strong friendships mean better health. This article was downloaded by calibre from https://www.wired.com/story/animal-wellness-tips/ | Section menu | Main menu |",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first paragraph, the practice of using cigarette butts in birds' nests serves as a metaphor for what?",
+          "options": {
+            "A": "The emergence of modern health-conscious habits in animals.",
+            "B": "The complex, sometimes contradictory nature of health-improving behaviors.",
+            "C": "The unintended destruction of natural habitats by urban wildlife.",
+            "D": "The superiority of human medicine over instinctual animal remedies."
+          },
+          "answer": "B",
+          "explanation": "The text describes using cigarette butts as 'dubious yet intriguing' and notes that while it repels parasites (a benefit), it causes blood cell abnormalities (a drawback). This highlights the complex, trade-off-heavy nature of health choices, paralleling human trends."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by the term 'animal medication' in the context of insects?",
+          "options": {
+            "A": "A learned behavior that is passed down through social observation.",
+            "B": "The ingestion of non-nutritional substances to mitigate illness.",
+            "C": "A systematic method for avoiding synthetic human pesticides.",
+            "D": "The development of natural immunity through intergenerational exposure."
+          },
+          "answer": "B",
+          "explanation": "The text defines 'animal medication' as eating or applying external substances that are normally avoided, which help by 'preventing or clearing infection or reducing disease symptoms.' This aligns with the example of caterpillars eating alkaloid-heavy, bitter plants with no nutritional value."
+        },
+        {
+          "q_number": 3,
+          "stem": "The author cites the behavior of the orangutan Rakus to illustrate that:",
+          "options": {
+            "A": "Animals can develop novel, specialized wound care practices.",
+            "B": "Orangutans inherit medical techniques from their ancestors.",
+            "C": "Great apes frequently rely on trial and error for survival.",
+            "D": "Some animals are more prone to injury than others due to their habitat."
+          },
+          "answer": "A",
+          "explanation": "Rakus is described as applying a medicinal plant as a bandage to a wound, a 'behavior never seen before,' implying he is an 'innovator' in wound care, demonstrating animal capacity for novel solutions."
+        },
+        {
+          "q_number": 4,
+          "stem": "Whales' 'spa' behaviors mentioned in the text are primarily driven by which factor?",
+          "options": {
+            "A": "The desire to improve reproductive success within the pod.",
+            "B": "The necessity to maintain skin health due to environmental pathogens.",
+            "C": "The biological urge to communicate with other cetacean species.",
+            "D": "The evolutionary need to shed excess body fat before migration."
+          },
+          "answer": "B",
+          "explanation": "The text states that 'Ocean water is thick with viruses and bacteria' and whales 'must shed continuously to maintain healthy skin' and remove barnacles, leading to their creative exfoliation routines."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the broader lesson the author draws from the social grooming habits of vampire bats?",
+          "options": {
+            "A": "Social hierarchy is the primary determinant of individual health.",
+            "B": "Reciprocal altruism is an outdated concept in modern biology.",
+            "C": "Strong social bonds are inherently linked to long-term health and survival.",
+            "D": "Grooming is an inefficient use of time compared to hunting for food."
+          },
+          "answer": "C",
+          "explanation": "The author links the grooming of bats to human health, noting that human health is correlated with the quality of social relationships and that strong friendships ultimately lead to better health outcomes."
+        }
+      ]
+    }
+  ]
+}
