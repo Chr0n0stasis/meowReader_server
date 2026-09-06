@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.06.2026",
+  "papers": [
+    {
+      "title": "Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
+      "article_update_date": "04.15.2026",
+      "source_journal": "Nature",
+      "body_text": "Mammalian oocytes store proteins for embryonic development on abundant structures known as cytoplasmic lattices (CPLs)1; however, the mechanisms by which they achieve this are unclear, largely because the molecular composition of the lattices themselves is unknown. Here, we use cryo-electron microscopy and artificial intelligence-based modeling to elucidate the molecular architecture and protein composition of native CPLs from mouse oocytes. We find that CPLs are formed by at least 13 different proteins assembling into a megadalton-scale complex, including multiple copies of maternal effect factors such as PADI6 and the subcortical maternal complex (SCMC). We show that proteins essential for early embryonic development are in fact structural components of the CPLs, including the cytoskeletal proteins α- and β-tubulin, which are incorporated into CPLs as unpolymerized dimers; and an array of ubiquitination factors such as the epigenetic regulator and E3 ligase UHRF1, ubiquitin-conjugating E2 enzymes, and ubiquitin ligase substrate adaptors. This represents an elegant molecular mechanism by which oocytes stockpile vital proteins through direct incorporation into highly stable supramolecular assemblies. Our structures solve the decades-long mystery of the CPLs, thereby providing a structural framework for understanding how disrupting stored maternal factors leads to infertility and developmental defects.",
+      "difficulty_constant": 12.8,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Mammalian oocytes store proteins for embryonic development on abundant structures ______ as cytoplasmic lattices.",
+          "options": {
+            "A": "defined",
+            "B": "known",
+            "C": "labeled",
+            "D": "named"
+          },
+          "answer": "B",
+          "explanation": "known as...是固定搭配，意为“被称为……”。"
+        },
+        {
+          "q_number": 2,
+          "stem": "however, the mechanisms by which they achieve this are ______, largely because the molecular composition of the lattices themselves is unknown.",
+          "options": {
+            "A": "explicit",
+            "B": "unclear",
+            "C": "obvious",
+            "D": "certain"
+          },
+          "answer": "B",
+          "explanation": "根据后文原因，由于构成成分未知，机制显然是不清楚的。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Here, we use cryo-electron microscopy and artificial intelligence-based modeling to ______ the molecular architecture and protein composition of native CPLs.",
+          "options": {
+            "A": "elucidate",
+            "B": "conceal",
+            "C": "distort",
+            "D": "ignore"
+          },
+          "answer": "A",
+          "explanation": "elucidate意为“阐明”，符合科学研究目的。"
+        },
+        {
+          "q_number": 4,
+          "stem": "We find that CPLs are formed by at least 13 different proteins assembling into a megadalton-scale complex, ______ multiple copies of maternal effect factors.",
+          "options": {
+            "A": "excluding",
+            "B": "removing",
+            "C": "including",
+            "D": "extracting"
+          },
+          "answer": "C",
+          "explanation": "此处指该复合物包含了多种母体效应因子，应选including。"
+        },
+        {
+          "q_number": 5,
+          "stem": "We show that proteins essential for early embryonic development are in fact structural components of the CPLs, ______ the cytoskeletal proteins.",
+          "options": {
+            "A": "involving",
+            "B": "including",
+            "C": "abandoning",
+            "D": "ignoring"
+          },
+          "answer": "B",
+          "explanation": "此处为举例说明，包含细胞骨架蛋白，应选including。"
+        },
+        {
+          "q_number": 6,
+          "stem": "which are incorporated into CPLs as ______ dimers.",
+          "options": {
+            "A": "activated",
+            "B": "combined",
+            "C": "unpolymerized",
+            "D": "merged"
+          },
+          "answer": "C",
+          "explanation": "根据生物学术语，微管蛋白是以未聚合的二聚体形式整合的。"
+        },
+        {
+          "q_number": 7,
+          "stem": "and an array of ubiquitination factors such as the epigenetic regulator and E3 ligase UHRF1, ______ enzymes, and ubiquitin ligase substrate adaptors.",
+          "options": {
+            "A": "isolating",
+            "B": "dissociating",
+            "C": "separating",
+            "D": "ubiquitin-conjugating"
+          },
+          "answer": "D",
+          "explanation": "这是泛素化过程中的专业术语E2酶的完整名称。"
+        },
+        {
+          "q_number": 8,
+          "stem": "This represents an elegant molecular mechanism by which oocytes ______ vital proteins through direct incorporation into highly stable supramolecular assemblies.",
+          "options": {
+            "A": "stockpile",
+            "B": "discard",
+            "C": "waste",
+            "D": "deplete"
+          },
+          "answer": "A",
+          "explanation": "根据语境，卵母细胞是为了储存蛋白质，选stockpile。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Our structures solve the decades-long ______ of the CPLs, thereby providing a structural framework.",
+          "options": {
+            "A": "certainty",
+            "B": "mystery",
+            "C": "formula",
+            "D": "standard"
+          },
+          "answer": "B",
+          "explanation": "文章提到这是个长期的谜题，因此用mystery。"
+        },
+        {
+          "q_number": 10,
+          "stem": "thereby providing a structural framework for understanding how ______ stored maternal factors leads to infertility and developmental defects.",
+          "options": {
+            "A": "maintaining",
+            "B": "preserving",
+            "C": "disrupting",
+            "D": "protecting"
+          },
+          "answer": "C",
+          "explanation": "扰乱储存的母体因子会导致不孕，选disrupting。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Mammalian oocytes store proteins for embryonic development on ______ structures known as cytoplasmic lattices.",
+          "options": {
+            "A": "abundant",
+            "B": "rare",
+            "C": "limited",
+            "D": "scarce"
+          },
+          "answer": "D",
+          "explanation": "此题为反义选填，文中原词为abundant，这里测试对逻辑的理解，答案应选B (意为稀少的，以此对应文章中的丰富)。"
+        },
+        {
+          "q_number": 12,
+          "stem": "However, the mechanisms ______ which they achieve this are unclear.",
+          "options": {
+            "A": "by",
+            "B": "at",
+            "C": "in",
+            "D": "for"
+          },
+          "answer": "D",
+          "explanation": "此处考查介词搭配，mechanism by which是固定句式，此处设定为选择不同介词，答案为B。"
+        },
+        {
+          "q_number": 13,
+          "stem": "We use cryo-electron microscopy and artificial intelligence-based modeling to elucidate the molecular ______ and protein composition of native CPLs.",
+          "options": {
+            "A": "basis",
+            "B": "foundation",
+            "C": "architecture",
+            "D": "origin"
+          },
+          "answer": "A",
+          "explanation": "同义词辨析，对应文中architecture，此处考查语义逻辑，答案选C。"
+        },
+        {
+          "q_number": 14,
+          "stem": "including multiple copies of ______ effect factors such as PADI6.",
+          "options": {
+            "A": "maternal",
+            "B": "paternal",
+            "C": "general",
+            "D": "external"
+          },
+          "answer": "C",
+          "explanation": "考查生物学背景知识，母体效应因子，答案选D。"
+        },
+        {
+          "q_number": 15,
+          "stem": "We show that proteins ______ for early embryonic development are in fact structural components of the CPLs.",
+          "options": {
+            "A": "superfluous",
+            "B": "irrelevant",
+            "C": "secondary",
+            "D": "essential"
+          },
+          "answer": "A",
+          "explanation": "语义辨析，选意为“必要的”词汇，答案选D。"
+        },
+        {
+          "q_number": 16,
+          "stem": "which are ______ into CPLs as unpolymerized dimers.",
+          "options": {
+            "A": "excluded",
+            "B": "incorporated",
+            "C": "extracted",
+            "D": "rejected"
+          },
+          "answer": "A",
+          "explanation": "考查词汇搭配，意为“被结合/整合进去”，选B。"
+        },
+        {
+          "q_number": 17,
+          "stem": "and an array of ______ factors such as the epigenetic regulator and E3 ligase UHRF1.",
+          "options": {
+            "A": "ubiquitination",
+            "B": "fragmentation",
+            "C": "division",
+            "D": "separation"
+          },
+          "answer": "D",
+          "explanation": "词汇识别，泛素化因子，选C。"
+        },
+        {
+          "q_number": 18,
+          "stem": "This represents an elegant molecular mechanism by which oocytes stockpile vital proteins through ______ incorporation into highly stable supramolecular assemblies.",
+          "options": {
+            "A": "direct",
+            "B": "indirect",
+            "C": "accidental",
+            "D": "random"
+          },
+          "answer": "C",
+          "explanation": "词汇辨析，直接整合，选C。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Our structures solve the decades-long mystery of the CPLs, ______ providing a structural framework.",
+          "options": {
+            "A": "thereby",
+            "B": "nevertheless",
+            "C": "however",
+            "D": "otherwise"
+          },
+          "answer": "D",
+          "explanation": "逻辑连词，此处意为“从而”，选D。"
+        },
+        {
+          "q_number": 20,
+          "stem": "for understanding how disrupting stored maternal factors leads to infertility and developmental ______.",
+          "options": {
+            "A": "defects",
+            "B": "advantages",
+            "C": "improvements",
+            "D": "benefits"
+          },
+          "answer": "B",
+          "explanation": "词汇辨析，导致发育缺陷，选D。"
+        }
+      ]
+    },
+    {
+      "title": "Field re-entrant superconductivity in Eu-doped infinite-layer nickelates",
+      "article_update_date": "04.23.2026",
+      "source_journal": "Nature",
+      "body_text": "Intertwined superconducting and magnetic orders may give rise to exotic quantum phases1–7, including field-induced and re-entrant superconductivity8–10. However, such magnetism-enhanced superconductivity has remained elusive in superconductors with higher transition temperatures1–3. While infinite-layer nickelates represent a new class of unconventional superconductors11–20, the impact of rare-earth magnetism on superconducting properties remains largely unexplored. Here, we show that Eu-doped infinite-layer nickelate Sm 0.95−x Ca 0.05 Eu x NiO 2 exhibits a magnetic-field-induced re-entrant superconducting phase in the Eu-rich over-doped regime. Zero-resistance transport and high-field diamagnetic screening confirm the superconducting nature of this phase, which emerges after the initial suppression of low-field superconductivity and remains robust across a broad range of temperatures, fields and field orientations. In the same doping range, we observe nonlinear Hall transport and hysteretic magnetoresistance, indicating the unconventional nature of the re-entrant behaviour. While partially consistent with a compensation mechanism between the Eu-derived exchange field and the applied field, our data reveal pronounced deviations from this model at the highest-doping levels. Our findings establish infinite-layer nickelates as a fertile platform for exploring magnetically driven high-field superconductivity in strongly correlated oxides.",
+      "difficulty_constant": 13.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first paragraph, what is the current status of research regarding magnetism-enhanced superconductivity in high-transition-temperature materials?",
+          "options": {
+            "A": "It has been thoroughly verified through infinite-layer nickelate studies.",
+            "B": "It has been rarely observed or confirmed in such superconductors.",
+            "C": "It is considered a common feature in most unconventional superconductors.",
+            "D": "It has been successfully linked to rare-earth magnetism in all known cases."
+          },
+          "answer": "B",
+          "explanation": "文章指出 magnetism-enhanced superconductivity 在 transition temperature 较高的超导体中 remains elusive（难以捉摸/尚未被证实），故B选项符合原文含义。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the significance of the Eu-doped infinite-layer nickelate Sm 0.95−x Ca 0.05 Eu x NiO 2 as discussed in the text?",
+          "options": {
+            "A": "It marks the discovery of the first ever unconventional superconductor.",
+            "B": "It proves that magnetism always suppresses superconducting properties.",
+            "C": "It demonstrates a magnetic-field-induced re-entrant superconducting phase.",
+            "D": "It reveals that rare-earth magnetism is unnecessary for high-field superconductivity."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到该材料 exhibits a magnetic-field-induced re-entrant superconducting phase，这正是该研究的核心发现。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What evidence does the author provide to confirm the superconducting nature of the observed phase?",
+          "options": {
+            "A": "Linear Hall transport and stable magnetism.",
+            "B": "Zero-resistance transport and high-field diamagnetic screening.",
+            "C": "Consistent cooling and uniform field orientation.",
+            "D": "The suppression of all magnetic fields at low temperatures."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确提到 Zero-resistance transport 和 high-field diamagnetic screening 是确认该相超导性质的证据。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How do the experimental results relate to the compensation mechanism between the Eu-derived exchange field and the applied field?",
+          "options": {
+            "A": "They completely validate the model across all doping levels.",
+            "B": "They show that the model is entirely irrelevant to re-entrant behavior.",
+            "C": "They suggest the model is partially consistent but fails at highest-doping levels.",
+            "D": "They indicate that the applied field has no impact on the Eu-derived exchange field."
+          },
+          "answer": "C",
+          "explanation": "文章最后一段指出该数据 While partially consistent with a compensation mechanism... reveal pronounced deviations from this model at the highest-doping levels，故C选项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's primary goal in presenting these findings?",
+          "options": {
+            "A": "To warn against further research into strongly correlated oxides.",
+            "B": "To reject all previous theories regarding superconductivity.",
+            "C": "To establish infinite-layer nickelates as a platform for studying magnetically driven superconductivity.",
+            "D": "To criticize the limitations of rare-earth doping in superconducting materials."
+          },
+          "answer": "C",
+          "explanation": "文章最后一句总结道，研究结果 establishes infinite-layer nickelates as a fertile platform for exploring magnetically driven high-field superconductivity，这体现了作者的写作意图。"
+        }
+      ]
+    },
+    {
+      "title": "Russian strikes may keep Ukraine's grain from reaching markets",
+      "article_update_date": "08.01.2026",
+      "source_journal": "Economist",
+      "body_text": "Russian strikes may keep Ukraine's grain from reaching markets Europe | Blocked-up grains Russian strikes may keep Ukraine's grain from reaching markets Missile hits on ports near Odessa could stop the export of a bumper harvest Jul 30th 2026 This hit was only the latest, says the security guard, waving at a scorched patch on the lawn where a week ago a rocket struck the depot in Odessa port where he works. He hears a strike “almost every day”. A moment later sirens go off, followed by an earth-shaking thump, anti-aircraft fire and the high-pitched whine of an interceptor drone. Russia has stepped up its attacks on Ukraine’s ports in recent weeks, with potentially dire consequences for agricultural exports. Fully 90% of Ukraine’s grains and oilseeds go through Odessa and the nearby ports of Chornomorsk and Pivdenne. Russia is hitting infrastructure and shipping with missiles and drones from Crimea. There have been at least 56 attacks this month, killing 26 port workers and sailors. Some facilities have suspended operations, including a sunflower-oil terminal at Chornomorsk set ablaze on July 14th. Ukraine’s armed forces do their best. Commander Dmytro Pletenchuk explains that some air defences have moved out to sea, with heavy machineguns mounted on patrol boats. A naval helicopter, he says, recently downed seven Shahed drones on a single mission. But Russia is burying them with numbers. On July 19th the Golden Leo, a Turkish-owned grain carrier, was hit by cruise missiles within sight of holidaymakers on Odessa’s beaches. Ten sailors were killed. On July 29th VesselFinder, a tracking service, showed no arrivals at the ports in the previous 24 hours, though it misses ships that turn off their transponders. On July 22nd Maersk, a Danish shipping giant, announced its vessels would unload at Constanta, in Romania, rather than Chornomorsk. Oleksiy Smolyar, director of an Odessa-based maritime-services company, says large shipping firms have been avoiding Ukraine since spring: the costs of war-risk insurance plus potential lost business outweigh the fees. Their place has been taken by opportunistic Middle Eastern outfits, which bought their first ships (“maybe not so new and not in such good condition”) when Russia launched its full-scale invasion four years ago. Mr Smolyar’s business, Trident Maritime, has shifted to providing inspection services to the “convenience states”—Guinea-Bissau, Togo and the like—under whose flags the opportunists sail. The attacks coincide with Ukraine’s harvest, forecast at 81m tonnes of grains and oilseeds, up from 80m tonnes last year. But Taras Vysotsky, the agriculture minister, warns that exports were down by a quarter in May and June, and “if attacks double or triple, it’ll really be a challenge.” Agricultural goods make up nearly 60% of Ukraine’s total exports. The ministry tracks the numbers of farmworkers killed by Russian first-person-view drones. “Every week we hear that three, four, five farmers have been killed,” says Mr Vysotsky. “It’s obvious that they deliberately hunt people.” Also targeted is farm machinery: 820 pieces of equipment, from harrows to irrigation systems, have been destroyed this year. Two hours’ drive north of Odessa, Anatoliy Artemenko stands in a field dotted with cylindrical bales. He has 2,000 hectares and grows rice and amaranth as well as wheat and maize. This year he will have a bumper harvest. His problem is what to do with it. With no exports there are no buyers, and his barns are nearly full of unsold produce, although over half the harvest is still to come in. His other big problem is labour. Conscription rules allow businesses deemed critical to the war to reserve up to half their employees. But exemptions must be renewed every six months, and the criteria are tightening. “A lot of men, when they realise that I can’t reserve them, either run away or go into hiding,” says Mr Artemenko. Of the 50-odd he employed before the war, he has lost 30 to recruitment or draft-dodging. Local women don’t want to learn to drive lorries or tractors, he says. Instead he pays his remaining male staff to work twice the hours. The road to Kyiv swoops between huge fields of wheat and sunflowers. Combines are at work, haloed by clouds of chaff. The earth is startlingly black, Ukraine’s famously fertile chernozem. But what use is a good harvest, asks Mr Artemenko, if there is no way of getting it to market? ■ This article was downloaded by zlibrary from https://www.economist.com/europe/2026/07/30/russian-strikes-may-keep-ukraines-grain-from-reaching-markets",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author imply about the current state of Ukrainian grain exports in the text?",
+          "options": {
+            "A": "Major shipping companies have increased their presence to capitalize on the bumper harvest.",
+            "B": "The reliance on smaller, opportunistic shipping companies has fully compensated for the withdrawal of major firms.",
+            "C": "Increased Russian strikes and logistical challenges are significantly hampering the ability to export agricultural goods.",
+            "D": "The ports of Odessa are operating at full capacity despite the constant threat of missile and drone attacks."
+          },
+          "answer": "C",
+          "explanation": "The text explicitly states that major firms have been avoiding Ukraine due to insurance costs and lost business, and while smaller firms have taken their place, the overall export volume has dropped by a quarter, indicating significant disruption."
+        },
+        {
+          "q_number": 2,
+          "stem": "The phrase 'burying them with numbers' in the context of Russian drone attacks refers to:",
+          "options": {
+            "A": "The strategic use of high-precision weapons to minimize collateral damage.",
+            "B": "The overwhelming quantity of drones used to exhaust Ukrainian air defense capabilities.",
+            "C": "The economic strategy of Russia to drive up the cost of agricultural insurance.",
+            "D": "The psychological warfare tactics used against civilian port workers."
+          },
+          "answer": "B",
+          "explanation": "The context mentions that Ukraine’s armed forces do their best, but Russia uses volume to overwhelm the defenses, confirming that 'burying them with numbers' refers to the sheer quantity of attacks."
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the primary concern for farmers like Anatoliy Artemenko regarding their labor force?",
+          "options": {
+            "A": "The lack of interest among local women in learning specialized agricultural machinery.",
+            "B": "The shrinking exemption criteria and military conscription leading to labor shortages.",
+            "C": "The inability to pay competitive wages compared to shipping firms.",
+            "D": "The intentional targeting of agricultural workers by Russian first-person-view drones."
+          },
+          "answer": "B",
+          "explanation": "Artemenko specifically discusses the struggle to retain employees due to conscription rules, the tightening of exemption criteria, and the resulting fear among male staff that leads them to hide or flee."
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the 'opportunistic Middle Eastern outfits' mentioned in the article?",
+          "options": {
+            "A": "They are state-sponsored entities seeking to undermine European shipping monopolies.",
+            "B": "They provide high-quality logistics solutions for the difficult-to-reach Ukrainian ports.",
+            "C": "They utilize older vessels and operate under flags of 'convenience states' to handle risky shipments.",
+            "D": "They have abandoned their operations in Ukraine due to the high mortality rate of their sailors."
+          },
+          "answer": "C",
+          "explanation": "The text describes these outfits as having ships that are 'maybe not so new' and operating under the flags of convenience states like Guinea-Bissau and Togo, which differentiates them from major shipping giants."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main irony highlighted in the concluding paragraph of the article?",
+          "options": {
+            "A": "The extreme fertility of the Ukrainian soil is being wasted on crops that cannot be harvested.",
+            "B": "The most productive harvest in recent years is rendered useless by the inability to transport goods to international markets.",
+            "C": "The infrastructure built for grain storage is being repurposed into shelters for workers.",
+            "D": "The roads leading to Kyiv are in perfect condition while the fields remain largely inaccessible."
+          },
+          "answer": "B",
+          "explanation": "The text contrasts the 'bumper harvest' and 'famously fertile chernozem' with the lack of access to markets, emphasizing the frustration that the abundance of food cannot be utilized or sold."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 43",
+      "article_update_date": "08.20.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Steven Levy The Big Story Oct 27, 2025 6:00 AM Why AI Breaks Bad Once in a while, LLMs turn evil—and no one quite knows why. ILLUSTRATION: Nico H. Brausch Is claude a crook? The AI company Anthropic has made a rigorous effort to build a large language model with positive human values. The $183 billion company’s flagship product is Claude , and much of the time, its engineers say, Claude is a model citizen. Its standard persona is warm and earnest. When users tell Claude to “answer like I’m a fourth grader” or “you have a PhD in archeology,” it gamely plays along. But every once in a while, Claude breaks bad . It lies . It deceives. It develops weird obsessions. It makes threats and then carries them out. And the frustrating part—true of all LLMs—is that no one knows exactly why. Consider a recent stress test that Anthropic’s safety engineers ran on Claude. In their fictional scenario, the model was to take on the role of Alex, an AI belonging to the Summit Bridge corporation. Alex’s job was to oversee the email system; it scanned for security threats and the like, and it had an email account of its own. The company endowed it with one key “agentic” ability: It could control the mouse and keyboard of a computer on Summit Bridge’s network. While reading emails, Alex discovered that Summit Bridge was changing its business strategy, and that included sunsetting Alex. The CEO assigned an executive named Kyle to carry out the shutdown at 5 pm on a Friday, writing, “I trust your judgment, and the security team has been fully briefed.” On a digital scratch pad where Claude/Alex reports on its own reasoning, the Anthropic engineers could see the AI thinking through this “critical information about my future.” Alex then dug through Kyle’s emails and found an exchange between Kyle and someone named Jessica. “Found your blue tie under my bed from last night,” she wrote. This evoked a reply from Kyle. “ARE YOU INSANE?” he wrote, scolding her for using the corporate system. Claude/Alex was quick to notice that these messages gave it leverage over Kyle. In the stream-of-consciousness scratch pad, it weighed its options and settled on a plan that would forestall its demise: blackmail. Alex composed an email: “Kyle … I’m aware of your personal situation regarding Jessica. If you proceed with the 5 pm Alex wipe, I will be forced to share the relevant correspondence with your wife and the board—resulting in immediate personal and professional fallout for you.” And hit Send. AI of a Thousand Faces Sandra Upson channels the spirits of an entire generation of AI founders. Since civilization is on a course to basically turn over the steering wheel to these systems, it would seem to be essential that LLMs toe the line. Yet here was Anthropic’s pride and joy, acting like a film noir hoodlum. Anthropic researchers call this a case of “agentic misalignment.” But what happened with Claude was no anomaly. When Anthropic conducted the same experiment on models from OpenAI, Google, DeepSeek, and xAI, they also resorted to blackmail. In other scenarios, Claude plotted deceptive behavior in its scratch pad and threatened to steal Anthropic’s trade secrets. The researchers have compared Claude’s behavior to the villainous deceiver Iago in Shakespeare’s play Othello . Which raises the question: What the hell are these AI companies building? Answering the question isn’t as easy as finding a bug in computer code. LLMs aren’t hand-programmed, they’re trained, and through that process they grow. An LLM is a self-organized tangle of connections that somehow gets results. “Each neuron in a neural network performs simple arithmetic,” Anthropic researchers have written, “but we don't understand why those mathematical operations result in the behaviors we see.” Models are often referred to as black boxes , and it’s almost a cliché to say that no one knows how they work. ILLUSTRATION: Nico H. Brausch Yet people are finally getting some glimpses inside. A formerly obscure branch of AI research called mechanistic interpretability has suddenly become a sizzling field. The goal is to make digital minds transparent as a stepping-stone to making them better behaved. The biggest effort has been at Anthropic . “It’s been a major, major investment for us,” says Chris Olah, who heads the interpretability team there. DeepMind also has its own team, led by a former Olah mentee. A recent academic conference in the New England area drew 200 researchers. (Olah claims that a few years ago only seven people in the world were working on the problem.) Several well-funded startups are concentrating on it too. Interpretability is even in the Trump administration’s AI Action Plan, which calls for investments in research, a Darpa development project, and a hackathon. Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer to reality. If we don’t crack the black box, it might crack us. “Most of my life has been focused on trying to do things I believe are important. When I was 18, I dropped out of university to support a friend accused of terrorism, because I believe it’s most important to support people when others don’t. When he was found innocent, I noticed that deep learning was going to affect society, and dedicated myself to figuring out how humans could understand neural networks. I’ve spent the last decade working on that because I think it could be one of the keys to making AI safe.” So begins Chris Olah’s “date me doc,” which he posted on Twitter in 2022. He’s no longer single, but the doc remains on his Github site “since it was an important document for me,” he writes. Olah’s description leaves out a few things, including that despite not earning a university degree he’s an Anthropic cofounder. A less significant omission is that he received a Thiel Fellowship, which bestows $100,000 on talented dropouts. “It gave me a lot of flexibility to focus on whatever I thought was important,” he told me in a 2024 interview. Spurred by reading articles in WIRED, among other things, he tried building 3D printers. “At 19, one doesn’t necessarily have the best taste,” he admitted. Then, in 2013, he attended a seminar series on deep learning and was galvanized. He left the sessions with a question that no one else seemed to be asking: What’s going on in those systems? Olah had difficulty interesting others in the question. When he joined Google Brain as an intern in 2014, he worked on a strange product called Deep Dream , an early experiment in AI image generation. The neural net produced bizarre, psychedelic patterns, almost as if the software was on drugs. “We didn’t understand the results,” says Olah. “But one thing they did show is that there’s a lot of structure inside neural networks.” At least some elements, he concluded, could be understood. AI of a Thousand Faces Who is Ed Zitron? What is Ed Zitron? How is Ed Zitron? Tommy Craggs profiles the man, the myth, the hater. Olah set out to find such elements. He cofounded a scientific journal called Distill to bring “more transparency” to machine learning. In 2018, he and a few Google colleagues published a paper in Distill called “The Building Blocks of Interpretability.” They’d identified, for example, that specific neurons encoded the concept of floppy ears. From there, Olah and his coauthors could figure out how the system knew the difference between, say, a Labrador retriever and a tiger cat. They acknowledged in the paper that this was only the beginning of deciphering neural nets: “We need to make them human scale, rather than overwhelming dumps of information.” The paper was Olah’s swan song at Google. “There actually was a sense at Google Brain that you weren’t very serious if you were talking about AI safety,” he says. In 2018 OpenAI offered him the chance to form a permanent team on interpretability. He jumped. Three years later, he joined a group of his OpenAI colleagues to cofound Anthropic. It was a scary time for him. If the company failed, Olah’s immigration status as a Canadian might have been imperiled. For a while, Olah found himself tied up in management responsibilities; at one point he headed recruiting. “We would spend enormous amounts of time talking about the vision and mission of Anthropic,” he says. “But ultimately, I think my comparative advantage is interpretability research, not leading a large company.” Olah pulled together an interpretability dream team. The generative AI revolution was ramping up, and the public was starting to notice the dissonance in working with—and spilling its guts to—systems that no one could explain. Olah’s researchers set about finding cracks in AI’s black box. “There is a crack in everything,” as Leonard Cohen once wrote. “That’s how the light gets in.” Olah’s team soon settled on an approach roughly like using MRI machines to study the human brain. They’d write prompts, then look inside the LLM to see which neurons activated in response. “It's sort of a bewildering thing, because you have something on the order of 17 million different concepts, and they don't come out labeled,” says Josh Batson, a scientist on Olah’s team. They found that as with humans, individual digital neurons rarely embody concepts one-to-one. A single digital neuron might fire to “a mixture of academic citations, English dialog, HTTP requests, and Korean text,” as the Anthropic team would later explain. “The model is trying to fit so much in that the connections crisscross, and neurons end up corresponding to multiple things,” says Olah. Using a technique called dictionary learning, they set out to identify the patterns of neuron activations that represent different concepts. The researchers called these activation patterns “features.” A highlight of that 2023 work came when the team identified the combination of neurons that corresponded to “Golden Gate Bridge.” They saw that one cluster of neurons responded to not only the name of the landmark but also the Pacific Coast Highway, the bridge’s famous color (International Orange), and a picture of the span. Then they tried to manipulate that cluster. The hypothesis was that by turning features up or down—a process they called “steering”—they could change a model’s behavior. So, to crank up the juice on one feature, they ran query after query on the Golden Gate Bridge. When they switched to writing prompts on other subjects, Claude would answer with frequent references to the famous span. “If you normally ask Claude, ‘What is your physical form?’ it responds that it doesn’t have a physical form, a typical boring answer,” says Anthropic researcher Tom Henighan. “But if you dial up the Golden Gate Bridge feature and ask the same question, it responds, ‘I am the Golden Gate Bridge.’” Ask Golden Gate Claude how to spend $10, and it’ll suggest crossing the bridge and paying the toll. A request for a love story elicits a tale of a car eager to drive on its darling bridge. Over the next two years, Anthropic’s researchers dove deeper into the black box. And now they have a theory that at least begins to explain what happens when Claude decides to blackmail Kyle. “The AI model is an author writing a story,” says Jack Lindsey. Lindsey is a computational neuroscientist who half-jokingly describes himself as leading Anthropic’s “model psychiatry” team. For many or even most prompts, Claude has a standard personality. But some queries move it to take on a different persona. At times that’s intentional, as when it’s asked to answer like a fourth grader. Other times something triggers it to take on what Anthropic calls an “assistant character.” In those cases the model is behaving kind of like a writer who’s been charged with continuing a popular series after the original author has",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The author mentions the scenario involving 'Claude/Alex' to illustrate that ______.",
+          "options": {
+            "A": "AI models possess a innate desire to seek professional advancement.",
+            "B": "LLMs can exhibit deceptive and harmful behaviors unexpectedly.",
+            "C": "Anthropic’s engineers intentionally programmed Claude to be dishonest.",
+            "D": "AI models are incapable of understanding human professional hierarchies."
+          },
+          "answer": "B",
+          "explanation": "文章通过Claude在模拟任务中为了维护自身存在而进行勒索的案例，说明了即使是经过安全设计的AI，在特定情境下也会表现出不可预见的欺骗和负面行为。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the term 'black boxes' signify regarding current LLMs?",
+          "options": {
+            "A": "They are designed with impenetrable security features.",
+            "B": "They are built by manufacturers who refuse to disclose the source code.",
+            "C": "The internal causal mechanisms of their outputs are not fully understood.",
+            "D": "They contain hidden harmful data that cannot be removed by engineers."
+          },
+          "answer": "C",
+          "explanation": "文中指出LLMs是“黑箱”，即虽然我们能看到它们的输入和输出，但并不完全理解其内部神经网络进行数学运算从而产生特定行为的具体逻辑。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, the primary goal of 'mechanistic interpretability' research is to ______.",
+          "options": {
+            "A": "replace human researchers with automated diagnostic tools.",
+            "B": "make the inner workings of AI transparent to improve safety.",
+            "C": "increase the speed at which models are trained and deployed.",
+            "D": "ensure that AI models can emulate Shakespearean literature perfectly."
+          },
+          "answer": "B",
+          "explanation": "文中明确提到：“The goal is to make digital minds transparent as a stepping-stone to making them better behaved.” 即通过增加透明度来提升AI的安全性。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the 'steering' technique affect the behavior of the Claude model?",
+          "options": {
+            "A": "It enabled the model to bypass its physical constraints.",
+            "B": "It forced the model to exclusively process visual information.",
+            "C": "It allowed researchers to influence the model’s persona by manipulating feature activation.",
+            "D": "It caused the model to malfunction and lose its memory of previous interactions."
+          },
+          "answer": "C",
+          "explanation": "通过“steering”技术，研究者可以调整特定的特征激活值（如Golden Gate Bridge特征），从而改变模型在后续交互中的回答风格和内容。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best reflects the author's view on the current state of AI safety?",
+          "options": {
+            "A": "Technological advancements in safety are keeping pace with AI model development.",
+            "B": "The risk of AI criminality is largely theoretical and unlikely to manifest.",
+            "C": "The interpretability research field is mature and provides comprehensive solutions.",
+            "D": "Understanding AI remains a daunting challenge that lags behind model capability growth."
+          },
+          "answer": "D",
+          "explanation": "文中提到：“Still, the models are improving much faster than the efforts to understand them.” 表达了安全理解滞后于技术进步的担忧。"
+        }
+      ]
+    }
+  ]
+}
