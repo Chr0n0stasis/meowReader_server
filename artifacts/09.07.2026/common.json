@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.07.2026",
+  "papers": [
+    {
+      "title": "Israel will come to terms with Donald Trump’s Iran deal",
+      "article_update_date": "06.30.2026",
+      "source_journal": "Economist",
+      "body_text": "Israel will come to terms with Donald Trump’s Iran deal By Invitation | The calculus in Jerusalem Israel will come to terms with Donald Trump’s Iran deal Yet the unstable peace may veer off track even without attempts to derail it, writes Dalia Dassa Kaye June 25th 2026 THE MEMORANDUM of Understanding between America and Iran on ending their war had barely been signed when it faced its first test in Lebanon, as Israeli forces and Hizbullah continued attacking each other, lending weight to intelligence conclusions in Washington, DC that Israel would try to scuttle it. Such fears may, however, be misplaced. Israelis are dismayed that President Donald Trump—until recently, at least, very popular among them—would strike a deal that they believe disregarded their national-security interests. Their complaints go beyond the MOU’s limits on Israeli action in Lebanon: the nuclear issue is unresolved; it makes no reference to reducing Iran’s missile capabilities or its support for proxies; the sanctions relief and other economic carrots promise a lifeline to a regime many Israelis believe could have been toppled. Binyamin Netanyahu, Israel’s prime minister, did not want to end the war, and certainly not on these terms. He will thus have strong motives to undermine the agreement. Since the Hamas attacks on October 7th 2023, Israel has unleashed its military power not only in Gaza but across the region, with little to no pushback from Presidents Biden or Trump. Israel’s political elite largely sees Iran as the source of its gravest security challenges and views diplomacy as futile. Despite American frustration over Israeli strikes, Mr Netanyahu may believe Mr Trump lacks the ability to force Israel to permanently halt military operations or withdraw from southern Lebanon, which it has reoccupied. After all, the president has done little to enforce his own “peace plan” in Gaza and end Israel’s occupation of more than 60% of the strip. Israel, then, is more emboldened regionally than it was just a few years ago. Moreover, many of its people view Mr Trump’s interim agreement as even worse than the JCPOA, the nuclear accord that America and other powers struck with Iran in 2015—the ultimate insult. Why, then, would Israel accommodate a deal it doesn’t like? There are at least three reasons why it may do so. First, Israel cannot afford a full rupture with Washington. Israelis are rattled by Mr Trump’s criticism of its tactics in Lebanon and by Vice-President J.D. Vance’s admonishment of Israeli politicians who oppose the deal for “attacking the only powerful ally [they] have anywhere left in the entire world”. Israel is the Middle East’s strongest military power, but it cannot survive friendless. Particularly in an election year, defying Mr Trump would add a domestic political cost that few Israeli leaders beyond those on the extreme right would be willing to pay. Second, Israeli leaders may calculate that the MOU will fall apart even without attempts to derail it, so why risk the blowback? Mistrust between America and Iran still runs deep. Mr Trump’s decision-making remains erratic. After a regime-change-motivated war, a harder-line leadership has emerged in Tehran. The MOU’s key commitments related to Iran’s nuclear programme and the future management of the Strait of Hormuz are ambiguous, to put it mildly. Who, then, could be surprised if the two signatory governments managed to scuttle the agreement all on their own? Third, the war failed to achieve any clear strategic objective. As a result, Israeli leaders may reluctantly shelve their dreams of regime change and return to a shadow war. This might entail eschewing assassinations of political leaders within Iran or other overt military attacks of the sort that have become the norm in recent years, and instead focusing on covert sabotage operations on nuclear sites or attacks on Iranian missile and drone transfers to proxy militias. Israel is likely to continue targeting Iranian-aligned militia leaders but may avoid operations within Iran, establishing new red lines in co-ordination with Washington. America and Iran might even ignore these kinds of attacks if the MOU is providing benefits to each side, such as, for Iran, sanctions and economic relief, and, for America, preventing further deterioration in the global economy. All of which suggests that Mr Netanyahu may, despite Israeli attitudes, and aware of growing hostility towards Israel on both sides of American politics, ultimately adapt to the reality of a final deal if one ever emerges. Indeed, this is what happened with the JCPOA, even during the tenure of an American president whom Mr Netanyahu had no problem openly confronting. Neither the Israeli leader’s unprecedented address to America’s Congress to undercut the diplomacy of President Barack Obama, nor extensive lobbying efforts by pro-Israel groups to tank the JCPOA, succeeded in derailing it. Israel grudgingly accepted the deal and shifted its focus away from nuclear concerns to degrading Iran’s and its proxy Hizbullah’s activities in Syria and Lebanon. And despite fuming that the Obama administration excluded it from back-channel negotiations that led to the accord, once diplomacy became public Israel largely halted its “shadow war” attacks on Iran until 2018, when Mr Trump made good on his campaign promise to withdraw from what he had persistently called “the worst deal ever”. This scenario of relative quiet on the Iranian front is by no means assured. Mr Netanyahu will no doubt press the Trump administration to rediscover belligerence. And even if Israel remains relatively constrained, it will not make for a stable situation. It may offer a mere hiatus, a welcome reprieve from a catastrophic war, while all sides prepare for the next phase of battle. ■ Dalia Dassa Kaye is a senior fellow at the UCLA Burkle Centre for International Relations and the author of “Enduring Hostility: The Making of America’s Iran Policy”. This article was downloaded by zlibrary from https://www.economist.com//by-invitation/2026/06/22/israel-will-come-to-terms-with-donald-trumps-iran-deal",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The memorandum of understanding between America and Iran on ending their war had barely been signed when it faced its first test, as Israeli forces and Hizbullah continued attacking each other, ____ weight to intelligence conclusions in Washington that Israel would try to scuttle it.",
+          "options": {
+            "A": "denying",
+            "B": "lending",
+            "C": "withdrawing",
+            "D": "reversing"
+          },
+          "answer": "B",
+          "explanation": "Lending weight to something means providing evidence or support for it. Context suggests the ongoing conflict supports the view that Israel might undermine the deal."
+        },
+        {
+          "q_number": 2,
+          "stem": "Israelis are dismayed that President Donald Trump would strike a deal that they believe ____ their national-security interests.",
+          "options": {
+            "A": "upheld",
+            "B": "fortified",
+            "C": "promoted",
+            "D": "disregarded"
+          },
+          "answer": "D",
+          "explanation": "Dismay stems from the perception that the deal ignores or neglects their security, making 'disregarded' the correct choice."
+        },
+        {
+          "q_number": 3,
+          "stem": "Binyamin Netanyahu, Israel’s prime minister, did not want to end the war, and certainly not on these terms. He will thus have strong motives to ____ the agreement.",
+          "options": {
+            "A": "endorse",
+            "B": "uphold",
+            "C": "implement",
+            "D": "undermine"
+          },
+          "answer": "D",
+          "explanation": "If Netanyahu opposes the terms, he has motives to weaken or sabotage the agreement, which is the meaning of 'undermine'."
+        },
+        {
+          "q_number": 4,
+          "stem": "Since the Hamas attacks on October 7th 2023, Israel has unleashed its military power not only in Gaza but across the region, with little to no ____ from Presidents Biden or Trump.",
+          "options": {
+            "A": "pushback",
+            "B": "support",
+            "C": "approval",
+            "D": "assistance"
+          },
+          "answer": "A",
+          "explanation": "The context implies a lack of resistance or criticism from the US presidents regarding Israel's military actions, hence 'pushback'."
+        },
+        {
+          "q_number": 5,
+          "stem": "Israel’s political elite largely sees Iran as the source of its gravest security challenges and views diplomacy as ____.",
+          "options": {
+            "A": "futile",
+            "B": "beneficial",
+            "C": "essential",
+            "D": "productive"
+          },
+          "answer": "A",
+          "explanation": "The elite views Iran as a major threat, leading them to believe that talking (diplomacy) is useless or 'futile'."
+        },
+        {
+          "q_number": 6,
+          "stem": "Israel, then, is more ____ regionally than it was just a few years ago.",
+          "options": {
+            "A": "emboldened",
+            "B": "hesitant",
+            "C": "vulnerable",
+            "D": "restrained"
+          },
+          "answer": "A",
+          "explanation": "The text describes Israel acting aggressively and ignoring US concerns, which indicates it feels 'emboldened' or empowered."
+        },
+        {
+          "q_number": 7,
+          "stem": "Why, then, would Israel ____ a deal it doesn’t like?",
+          "options": {
+            "A": "reject",
+            "B": "oppose",
+            "C": "accommodate",
+            "D": "denounce"
+          },
+          "answer": "C",
+          "explanation": "The writer is asking why Israel would accept or adjust to a deal they dislike, fitting 'accommodate'."
+        },
+        {
+          "q_number": 8,
+          "stem": "First, Israel cannot afford a full ____ with Washington. Israelis are rattled by Mr Trump’s criticism of its tactics in Lebanon.",
+          "options": {
+            "A": "alignment",
+            "B": "rupture",
+            "C": "alliance",
+            "D": "collaboration"
+          },
+          "answer": "B",
+          "explanation": "The text explains the necessity of the US alliance, so Israel cannot afford a break or 'rupture' in relations."
+        },
+        {
+          "q_number": 9,
+          "stem": "Particularly in an election year, defying Mr Trump would add a domestic political cost that few Israeli leaders ____ those on the extreme right would be willing to pay.",
+          "options": {
+            "A": "excluding",
+            "B": "including",
+            "C": "beyond",
+            "D": "despite"
+          },
+          "answer": "C",
+          "explanation": "'Beyond' implies that almost no leaders, except for those specifically mentioned, would risk this cost."
+        },
+        {
+          "q_number": 10,
+          "stem": "Second, Israeli leaders may calculate that the MOU will fall apart even without attempts to derail it, so why risk the ____?",
+          "options": {
+            "A": "advantage",
+            "B": "benefit",
+            "C": "blowback",
+            "D": "success"
+          },
+          "answer": "C",
+          "explanation": "Trying to sabotage a deal carries risks of negative consequences, often referred to as 'blowback'."
+        },
+        {
+          "q_number": 11,
+          "stem": "Mr Trump’s decision-making remains ____. After a regime-change-motivated war, a harder-line leadership has emerged in Tehran.",
+          "options": {
+            "A": "erratic",
+            "B": "predictable",
+            "C": "consistent",
+            "D": "stable"
+          },
+          "answer": "A",
+          "explanation": "Given the political volatility described, 'erratic' accurately characterizes unpredictable decision-making."
+        },
+        {
+          "q_number": 12,
+          "stem": "The MOU’s key commitments are ambiguous, to put it ____.",
+          "options": {
+            "A": "mildly",
+            "B": "harshly",
+            "C": "boldly",
+            "D": "clearly"
+          },
+          "answer": "A",
+          "explanation": "The phrase 'to put it mildly' is a standard idiom used to downplay a strong or negative description."
+        },
+        {
+          "q_number": 13,
+          "stem": "Who, then, could be surprised if the two signatory governments managed to ____ the agreement all on their own?",
+          "options": {
+            "A": "bolster",
+            "B": "reinforce",
+            "C": "scuttle",
+            "D": "solidify"
+          },
+          "answer": "C",
+          "explanation": "Given the mistrust, the writer suggests the governments might destroy or abandon ('scuttle') the agreement themselves."
+        },
+        {
+          "q_number": 14,
+          "stem": "Third, the war failed to achieve any clear strategic objective. As a result, Israeli leaders may reluctantly ____ their dreams of regime change.",
+          "options": {
+            "A": "pursue",
+            "B": "shelve",
+            "C": "implement",
+            "D": "achieve"
+          },
+          "answer": "B",
+          "explanation": "To 'shelve' a plan means to put it aside or postpone it, which fits the context of failing to achieve objectives."
+        },
+        {
+          "q_number": 15,
+          "stem": "This might entail ____ assassinations of political leaders within Iran or other overt military attacks.",
+          "options": {
+            "A": "fostering",
+            "B": "promoting",
+            "C": "encouraging",
+            "D": "eschewing"
+          },
+          "answer": "D",
+          "explanation": "The context suggests moving toward covert operations, so 'eschewing' (avoiding) overt assassinations makes sense."
+        },
+        {
+          "q_number": 16,
+          "stem": "Israel is likely to continue targeting Iranian-aligned militia leaders but may avoid operations within Iran, establishing new red lines in ____ with Washington.",
+          "options": {
+            "A": "conflict",
+            "B": "co-ordination",
+            "C": "competition",
+            "D": "isolation"
+          },
+          "answer": "B",
+          "explanation": "Establishing rules of engagement with an ally requires 'co-ordination'."
+        },
+        {
+          "q_number": 17,
+          "stem": "America and Iran might even ignore these kinds of attacks if the MOU is providing ____ to each side.",
+          "options": {
+            "A": "hardships",
+            "B": "sanctions",
+            "C": "benefits",
+            "D": "burdens"
+          },
+          "answer": "C",
+          "explanation": "If the deal provides positive outcomes, it would provide 'benefits' to both sides."
+        },
+        {
+          "q_number": 18,
+          "stem": "All of which suggests that Mr Netanyahu may, despite Israeli attitudes, ____ adapt to the reality of a final deal if one ever emerges.",
+          "options": {
+            "A": "hardly",
+            "B": "never",
+            "C": "seldom",
+            "D": "ultimately"
+          },
+          "answer": "D",
+          "explanation": "The author argues that eventually, Netanyahu will likely accept the deal, thus 'ultimately'."
+        },
+        {
+          "q_number": 19,
+          "stem": "Neither the Israeli leader’s unprecedented address to America’s Congress to ____ the diplomacy of President Barack Obama, nor extensive lobbying efforts, succeeded.",
+          "options": {
+            "A": "support",
+            "B": "undercut",
+            "C": "advance",
+            "D": "facilitate"
+          },
+          "answer": "B",
+          "explanation": "Netanyahu opposed Obama's diplomacy, meaning he tried to 'undercut' or weaken it."
+        },
+        {
+          "q_number": 20,
+          "stem": "It may offer a mere hiatus, a welcome reprieve from a catastrophic war, while all sides prepare for the next phase of ____.",
+          "options": {
+            "A": "peace",
+            "B": "reconciliation",
+            "C": "harmony",
+            "D": "battle"
+          },
+          "answer": "D",
+          "explanation": "The passage implies the situation remains tense, so a temporary stop is just a pause before the next 'battle'."
+        }
+      ]
+    },
+    {
+      "title": "Two US pilots killed after plane bound to pick up former MLB star crashes",
+      "article_update_date": "06.08.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the Dominican Republic, authorities said. Former major league baseball all-star catcher Yadier Molina said on social media that the plane was bound for Texas to pick him up, along with family and friends. The crash occurred on Sunday near the southern coastal town of La Romana, according to a statement by the Dominican Institute of Civil Aviation, which described the pilot and co-pilot as US citizens. It was not immediately known what caused the crash, which was captured on a cellphone video that was widely circulated on social media. No passengers were onboard. “My condolences to the pilots and their family!” Molina wrote. He and his group were headed to Puerto Rico. Officials said the plane had departed from Puerto Rico and landed in the Dominican Republic to refuel before heading to Texas. The pilot and co-pilot reported an emergency shortly after taking off from the Dominican Republic, authorities said.",
+      "difficulty_constant": 4.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what was the primary purpose of the plane's flight to Texas?",
+          "options": {
+            "A": "To transport emergency supplies to the Dominican Republic.",
+            "B": "To pick up Yadier Molina and his companions.",
+            "C": "To return the pilots to their home country.",
+            "D": "To assist with a baseball event in Puerto Rico."
+          },
+          "answer": "B",
+          "explanation": "文章提到Yadier Molina在社交媒体上表示，这架飞机原计划前往德克萨斯州接他和他的家人朋友，因此B选项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the status of the passengers on the crashed plane?",
+          "options": {
+            "A": "Several passengers suffered minor injuries.",
+            "B": "The passengers were rescued by local authorities.",
+            "C": "There were no passengers on the aircraft at the time.",
+            "D": "The identity of the passengers remains unknown."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到“No passengers were onboard”，即飞机上并没有搭载乘客，只有飞行员和副驾驶。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is true regarding the flight route described in the text?",
+          "options": {
+            "A": "The plane was flying directly from Texas to Puerto Rico.",
+            "B": "The plane crashed immediately after landing in the Dominican Republic.",
+            "C": "The flight departed from Puerto Rico and stopped in the Dominican Republic to refuel.",
+            "D": "The flight was heading toward Puerto Rico when the crash occurred."
+          },
+          "answer": "C",
+          "explanation": "文中提到官员表示飞机从波多黎各出发，在多米尼加共和国降落加油，之后计划前往德克萨斯州，故C选项符合原文。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred about the investigation into the crash?",
+          "options": {
+            "A": "The cause of the crash has been definitively identified.",
+            "B": "Authorities have yet to determine what caused the accident.",
+            "C": "The cellphone video proved that technical failure was the cause.",
+            "D": "The pilots reported a mechanical malfunction before takeoff."
+          },
+          "answer": "B",
+          "explanation": "原文提到“It was not immediately known what caused the crash”，说明事故原因尚未查明。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main theme of this news report?",
+          "options": {
+            "A": "The heroic efforts of the pilots to survive the crash.",
+            "B": "The impact of the crash on professional baseball games.",
+            "C": "A fatal plane crash involving a flight scheduled to pick up a public figure.",
+            "D": "The risks associated with international air travel in the Dominican Republic."
+          },
+          "answer": "C",
+          "explanation": "文章主要报道了一起导致飞行员丧生的空难，且该航程与棒球明星Yadier Molina的行程相关，故C项最能概括文章主旨。"
+        }
+      ]
+    },
+    {
+      "title": "Four men deported by US to Eswatini have right to see lawyer, court rules",
+      "article_update_date": "04.10.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Four men deported by the US to Eswatini and denied in-person legal counsel for nine months while detained in a maximum security prison have the right to see a local lawyer, Eswatini’s supreme court ruled. The men, from Cambodia, Cuba, Vietnam and Yemen, were sent to the small southern African country, formerly known as Swaziland, in July despite having no connection to the country, as part of Donald Trump’s administration’s efforts to ramp up deportations. The US government had labelled the men dangerous criminals. Their lawyers said they had already served sentences for crimes committed in the US. Eswatini’s correctional services refused to let a local lawyer see the men, although they allowed them to make calls to their US lawyers, the lawyers said. The court rejected the government’s argument that “the inmates persistently showed no interest” in meeting the human rights lawyer Sibusiso Magnificent Nhlabatsi, in a judgment handed down on Thursday. The three judges ruled: “There can be no real harm in granting the respondent access to the detainees … it then will be up to the detainees, if they do not wish to see the respondent, to tell this to the respondent to his face.” Of the first five deportees, one was repatriated to Jamaica in September. Another 10 arrived in Eswatini in October, one of whom was repatriated to Cambodia on 26 March, and a further four last month. Alma David, a US lawyer for several of the men, said: “The fact that it took nearly nine months of litigation and a decision by the highest court of the land to obtain something as innocuous as permission for my clients to meet with a local lawyer speaks volumes about how hard the government of Eswatini is fighting to deny these men the most basic of rights.” The Eswatini government spokesperson, Thabile Mdluli, did not immediately respond to a request for comment. Previously, she has said: “The government of the Kingdom of Eswatini has made every reasonable effort, in accordance with national laws and international obligations, to ensure that the third-country nationals received from the United States government are accommodated in conditions that respect their fundamental rights and human dignity.” The US has deported dozens of people to third countries from which they do not originate, including Ghana, South Sudan and Uganda. Human rights lawyers and NGOs have labelled the deportations as a form of human trafficking. A spokesperson for the US Department of Homeland Security said: “Allegations that sending criminal illegal aliens to third country’s [sic] is a form of ‘human trafficking’ is insane. The Trump administration is utilizing all lawful options to carry out the largest deportation operation in history, just as President Trump promised.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why were the four men sent to Eswatini by the US government?",
+          "options": {
+            "A": "They were originally from countries bordering Eswatini.",
+            "B": "They had requested political asylum within the borders of Eswatini.",
+            "C": "They were part of a policy aimed at increasing deportation efforts.",
+            "D": "They were extradited to face justice for crimes committed in Eswatini."
+          },
+          "answer": "C",
+          "explanation": "文章第二段明确提到，这四名男子被送到斯威士兰（Eswatini）是因为特朗普政府当时正致力于增加驱逐力度（ramp up deportations），且他们与该国并无任何联系。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What was the core point of contention regarding the detainees in Eswatini?",
+          "options": {
+            "A": "The duration of their prison sentences in the US.",
+            "B": "The denial of their access to local legal counsel.",
+            "C": "The lack of medical care in the maximum security prison.",
+            "D": "The government's refusal to repatriate them to their home countries."
+          },
+          "answer": "B",
+          "explanation": "文章第一段和第四段多次提到，斯威士兰惩教部门拒绝让当地律师会见这些被拘留者，这是法庭判决争论的焦点。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the author suggest by quoting Alma David's remarks?",
+          "options": {
+            "A": "To criticize the Eswatini government for obstructing basic human rights.",
+            "B": "To highlight the legal complexity of international deportation cases.",
+            "C": "To argue that the local lawyer was unqualified for the case.",
+            "D": "To show that the litigation process was unexpectedly fast."
+          },
+          "answer": "A",
+          "explanation": "Alma David 的引语提到“耗时九个月的诉讼”才获得“会见当地律师”这一基本的权利，这表明作者意在批评斯威士兰政府在压制这些人的基本权利。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the Eswatini government defend its treatment of the detainees?",
+          "options": {
+            "A": "It claimed they were being held in accordance with international human rights standards.",
+            "B": "It blamed the US government for the lack of legal resources.",
+            "C": "It argued that the detainees were not interested in meeting lawyers.",
+            "D": "It asserted that the detainees were planning a jailbreak."
+          },
+          "answer": "A",
+          "explanation": "文章倒数第三段引用了斯威士兰政府发言人的话，称政府已做出合理努力，确保所接收的第三国国民是在尊重其基本权利和尊严的条件下被安置的。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the attitude of human rights lawyers toward the US deportation practice described?",
+          "options": {
+            "A": "Approval, as it adheres to lawful options.",
+            "B": "Indifference, regarding it as an internal US matter.",
+            "C": "Skepticism, questioning the administrative procedures.",
+            "D": "Condemnation, viewing it as a type of human trafficking."
+          },
+          "answer": "D",
+          "explanation": "文章最后一段明确指出，人权律师和非政府组织（NGO）将这种驱逐行为贴上了“人口贩运”（human trafficking）的标签，体现了强烈的谴责态度。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 21",
+      "article_update_date": "08.12.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Yi-Ling Liu The Big Story Jan 20, 2026 6:00 AM Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All How the Cyberspace Administration of China inadvertently made a guide to the country’s homegrown AI revolution. Illustration: Jacqui VanLiew When DeepSeek burst onto the global stage in January 2025, it seemed to appear out of nowhere. But the large language model was just one of the thousands of generative AI tools that have been released in China since 2023—and there’s a public archive of every single one of them. The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . The country’s top internet regulator, the Cyberspace Administration of China (CAC), requires that any company launching an AI tool with “public opinion properties or social mobilization capabilities\" first file it in a public database: the algorithm registry. In a submission, developers must show how their products avoid 31 categories of risk, from age and gender discrimination to psychological harm to “violating core socialist values.” Applicants submit their filing to their local CAC (say, the Shanghai CAC for Shanghai-registered firms), which forwards applications to the central CAC for final approval. Only then is a tool publicly listed in the algorithm registry. While the European Union is pursuing a single, comprehensive AI Act, notes Matt Sheehan, a research scholar at the Carnegie Endowment for International Peace, China’s approach to regulation is more ad hoc, targeting specific algorithms and building up iterative standards. (The US has no comparable registration system or centralized regulatory agency.) Over time, the CAC has inadvertently created the most detailed map of a nation’s AI ecosystem anywhere in the world. Open the CAC’s update from August 2024 and you’ll find DeepSeek listed as entry 152, a single row in a neatly packed table. Scroll through the table and you’ll find an AI that manages homestays and an AI that drafts patents . One assists ob-gyns in a Shanghai maternity ward; another helps manage state power grids. Kendra Schaefer and her colleagues at Trivium China, a Beijing-based policy consultancy, have been compiling the CAC’s updates into a comprehensive database, enriched with their own research. A Broad View of the Boom Nearly 80 percent of China’s generative AI registrations are clustered in and around its top tech hubs—Beijing, Shenzhen, Shanghai, and Hangzhou. Each city has its strengths: Beijing’s elite universities, national labs, and political strength give it an edge in large-scale innovation; Shenzhen (in Guangdong) is home to a dense hardware supply chain and vast pool of engineering talent; Shanghai, close to multinationals, excels at commercialization; and Hangzhou (in Zhejiang) is fueled by Alibaba’s ecommerce empire. But innovation spreads far beyond the coasts. Chongqing is positioning itself as an AI manufacturing and logistics node; and heavy state investment has helped Hefei, in Anhui Province, become known as “China’s speech valley” for its cluster of speech-recognition firms, including iFlyTek. Filings also originate in less obvious regions like Guizhou, China’s “Big Data Valley,” where massive data centers power Huawei’s Pangu model, and Inner Mongolia, where state enterprises are integrating AI into mining and agriculture. In the Trivium dataset, state-linked listings—from state-owned enterprises to government-backed research institutes—make up 22 percent of filings. Many state-linked firms partner with Big Tech to build their AI: PetroChina, for example, teamed up with Huawei and iFlyTek to create oil and gas applications; State Grid used DeepSeek to build a model optimizing power grids. Foreign firms make up just 0.5 percent of filings. Ikea, for example, has a smart shopper algorithm that generates product recommendations. Yum China, the parent company that operates Kentucky Fried Chicken in China, listed a model that generates menus and promotional material. Zeroing In on the Competition More than half of the listings in the algorithm registry are for what Schaefer calls cross-sector technologies. These range from foundational models to “general purpose” text generators to a wide array of multimedia tools—voice swappers, 3D renderers, image makers. “Nobody wants to be caught in a situation where they depend on a competitor’s technology,” Schaefer says. Unlike in the US, where OpenAI, Anthropic, and Google DeepMind dominate the market, China’s competition to build foundational AI remains diverse and contested. But building these models is costly, and the market is beginning to consolidate. China’s six “ AI tigers ”—Moonshot, Minimax, Zhipu, Baichuan, 0.1AI, and Stepfun—are all backed by Alibaba or Tencent. ByteDance’s Doubao surpassed DeepSeek as China’s most popular chatbot, but its spot at the top is not assured. While the giants duke it out for chatbot supremacy, startups are hard at work in every sector imaginable. Squirrel AI 松鼠 Founder Derek Li says his 12-year-old company is leaps beyond the ed-tech competition. They “put wheels on a horse,” he says, bolting AI onto their existing stale software. Squirrel claims to diagnose knowledge gaps, measure progress, and adjust lessons in real time. When China banned for-profit tutoring in 2021, the company’s revenues collapsed overnight. It pivoted to licensing its platform to franchisees who also sold the company’s AI-powered tablets. Squirrel’s network includes more than 3,000 centers across China, serving 1.2 million students. Now, the company is eyeing expansion to the US. Li, who withdrew his sons from a private school in Shanghai so that they could be home-schooled on Squirrel’s platform, says that “in the future, teachers won’t teach knowledge.” Instead, he says, “they’ll become data analysts, understanding learning reports and students’ ability, and psychologists, understanding emotions and shaping their personalities.” AI Kanshe 看舌 AI Kanshe (translated as “AI Sees Tongue”) is a traditional Chinese medicine startup that analyzes health through images of the tongue, palms, and face. The company was founded by Li Wenhua, a former employee of Yaoshi Bang, one of China’s earliest online pharmaceutical platforms. A longtime student of tongue and hand diagnosis, Li wanted to combine the diagnostic methods of traditional Chinese medicine with modern machine vision. The company serves both consumers and health practitioners across clinics, pharmacies, and some hospitals, offering tools to support diagnosis and decisionmaking. Its model is trained on more than 100,000 annotated images of tongues, hands, and faces. Zhongtan Puhui Cloud Technology 中碳普惠云科技 Founded in 2024 by Wu Song, a former Wall Street quant trader, Zhongtan Puhui Cloud Technology develops AI-driven tools for carbon accounting. The green transition, Wu says, still relies on cumbersome human labor that could be automated. Zhongtan Puhui builds AI agents that handle a number of carbon accounting tasks, including carbon footprinting and emissions audits. Its clients range from China Minmetals Group and DHL to small and medium-sized exporters in the Yangtze River Delta. According to the company, its AI agents can pull real-time data directly from power plants, allowing them to complete a task that once took up to 30 days in 15 minutes—for a tenth of the price. Zhongtan Puhui plans to expand into European countries. It has recently added English, French, Portuguese, and German versions and plans to sell the product on Amazon Cloud and Microsoft Azure. UBtech 优必选科技 Inspired after seeing Honda’s Asimo robot at a tech fair in Japan, Zhou Jian founded UBtech in 2012. He spent six years perfecting the robot’s servo actuators—the “joints” that enable movement—before unveiling the company's first robot, Alpha. In 2023, UBtech became the first humanoid company to list on the Hong Kong Stock Exchange. Based in Shenzhen, the company now produces robots for factories, schools, health care facilities, and homes. Its flagship Walker S series, designed for industrial and logistics work, is used by automakers like BYD and Zeekr; its Jimu and uKIT robotics kits teach students coding and AI; Alpha Mini, its child-friendly humanoid, is in nursery schools in Seoul. The company also develops robots for elder care and companionship, as well as consumer devices like smart vacuums and lawn mowers. UBtech retrains existing foundational models, first through simulated environments, then in mock factory environments, before deployment in real production lines. The company currently sells to more than 40 countries, with roughly a third of its revenue coming from overseas markets. XVerse 元象 XVerse is building lifelike virtual worlds for entertainment. The company was founded by former Tencent vice president Yao Xing. After leading Tencent to develop a Go-playing AI, Yao concluded that AGI progresses fastest when its goals are clear and measurable—as in the game of Go—but that most real-world challenges are open-ended. So in 2020, he left Tencent to found XVerse, aiming to build complex, simulated worlds where AI could learn, act, and evolve. In 2024, the company launched its flagship product, Saylo, which turns chat conversations into immersive AI-driven story videos. Users create personalized virtual characters and explore branching plots in real time. The app has 20 million users worldwide. The company also built its own large-language model, XVerse MoE, trained on diverse data sources including news, code, literature, and academic papers. The company is also developing an AI-driven game, Zhaoyang Legend , set in a fantasy realm where players must ascend to the throne as a young crown prince and manage a kingdom. The game evolves dynamically based on players’ decisions, creating endless possible plots and endings. Haivivi 跃然创新 BubblePal, a golf-ball-sized orb, transforms children’s toys into chatty companions. Clip it onto a stuffed Peppa Pig and the toy will talk back in Peppa’s voice. The device can switch between more than 40 personalities, from Disney’s Buzz Lightyear to the Monkey King, and speak in multiple languages and dialects, including French, German, Cantonese, and Sichuanese. A companion app lets parents set learning goals, such as encouraging more English conversation, and track weekly “growth reports” that analyze a child’s conversations, emotions, and interests. Since its launch last summer, more than 300,000 units have been sold. The toy is made by Haivivi, a Chinese company founded in 2021 by Li Yong, a former Alibaba executive who helped develop the company’s smart speaker. Realizing that many of the smart speaker’s users were children, Li decided to make children’s toys, and in 2023 pivoted to AI companions. He relocated from Beijing to Shenzhen to tap into the city’s electronics supply chain. According to the company, its models undergo strict data reviews and monitoring to prevent inappropriate speech. In addition to going through the rigorous algorithm registry vetting process, it follows the CAC rules for protecting minors’ data. BubblePal is also available in the US, Canada, and the UK, with plans for further expansion. Haivivi aims to add more popular characters such as Lucky Cat and develop product lines for young adults, like AI-powered tarot cards. What the Registry Doesn’t Show: Chinese AI Is Going Global In recent years, the term chuhai —“to go overseas”—has become a buzzword as Chinese firms look abroad to escape slowing consumption and weak capital markets back home. China produces about a quarter of the world’s top 100 AI products by revenue, and most of them target overseas markets. A top earner for the Hangzhou company Glority, for example, is a plant-identification app called PictureThis, which is popular outside China. To avoid geopolitical trip wires, some Chinese tech companies have been distancing themselves from their roots by hiring foreign staff, setting up headquarters in Singapore or California, or leaving China altogether. A company called Butterfly Effect, for example, was founded in China and built a general-purpose AI agent called Manus. Shortly after the US established export controls on Nvidia chips, the company relocated to Singapore, laid off most of its Chinese staff, and scrubbed all of its content from Chinese social media. Butterfly Effect’s ambiguous identity raises a deeper question: What does it mean to be a “Chinese” AI company? What Say You? Let us know what you think about this article in the comments below. Alternatively, you can submit a letter to the editor at [email protected] . This article was downloaded by calibre from https://www.wired.com/story/china-ai-boom-algorithm-registry/ | Section menu | Main menu |",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the Cyberspace Administration of China (CAC) serves what primary function in the context of the AI boom?",
+          "options": {
+            "A": "To promote the global expansion of Chinese AI enterprises.",
+            "B": "To supervise and archive AI tools that have public or social impacts.",
+            "C": "To develop foundational models that compete with OpenAI and Google.",
+            "D": "To provide financial subsidies to domestic startups in tech hubs."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到，CAC要求任何具有“公共舆论属性或社会动员能力”的AI工具必须在公共数据库（算法注册系统）中备案。这体现了其监管和归档的角色，而非直接开发模型或提供补贴。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest about China's regulatory approach compared to that of the European Union?",
+          "options": {
+            "A": "It is more uniform and emphasizes a single comprehensive act.",
+            "B": "It is centralized and lacks the iterative standards found in the US.",
+            "C": "It is more ad hoc, focusing on specific algorithms rather than a singular law.",
+            "D": "It is completely non-existent, leaving companies to self-regulate."
+          },
+          "answer": "C",
+          "explanation": "文中指出，欧盟追求单一、全面的《人工智能法案》，而中国的方法更加“ad hoc”（特设的、临时的），侧重于针对特定算法并建立迭代标准。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following describes the current state of competition among Chinese foundational AI models?",
+          "options": {
+            "A": "It is dominated by a single monopoly similar to the US market.",
+            "B": "It is characterized by diverse players, though the market is beginning to consolidate.",
+            "C": "It is strictly limited to state-owned enterprises with no private participation.",
+            "D": "It has stalled due to the ban on for-profit tutoring and limited investment."
+          },
+          "answer": "B",
+          "explanation": "文章提到，与美国由OpenAI等巨头主导不同，中国的AI基础模型竞争依然多元且激烈，但同时也指出“市场正在开始整合”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred from the section on 'chuhai' (to go overseas) about Chinese AI companies?",
+          "options": {
+            "A": "They are exclusively focused on the domestic market due to strong growth.",
+            "B": "They are increasingly looking abroad to mitigate domestic market challenges.",
+            "C": "They are forced by the government to move headquarters to Singapore.",
+            "D": "They have failed to produce any competitive AI products for the global market."
+          },
+          "answer": "B",
+          "explanation": "文中提到“chuhai”成为流行语，因为中国企业试图通过走向海外来逃避国内消费放缓和资本市场疲软的问题。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The example of Butterfly Effect is used by the author to illustrate which of the following?",
+          "options": {
+            "A": "The effectiveness of US export controls on chip technology.",
+            "B": "The ease with which startups can access foreign venture capital.",
+            "C": "The ambiguity surrounding the definition of a 'Chinese' AI company.",
+            "D": "The successful integration of AI agents into the logistics sector."
+          },
+          "answer": "C",
+          "explanation": "文章在提到Butterfly Effect将业务移至新加坡并去除了中国社交媒体内容后，明确指出其模糊的身份引发了一个更深层次的问题：成为一家“中国”AI公司意味着什么。"
+        }
+      ]
+    }
+  ]
+}
