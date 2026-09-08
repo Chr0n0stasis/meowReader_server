@@ -1,0 +1,20 @@
+articles:
+- article_id: epub_23
+  journal_name: Economist
+  publish_date: 08.02.2026
+  title: Don’t blame global imbalances on the undervalued yuan
+- article_id: epub_6
+  journal_name: Atlantic
+  publish_date: 04.04.2026
+  title: Chapter 6
+- article_id: rss_10_1779393571
+  journal_name: China Daily
+  publish_date: 05.21.2026
+  title: Would-be suicide bomber sets off explosion in NYC
+- article_id: rss_1_1785611665
+  journal_name: The Guardian
+  publish_date: 08.01.2026
+  title: At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta
+    from Morocco
+generate_date: 09.08.2026
+strategy: common
