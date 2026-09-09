@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.09.2026",
+  "papers": [
+    {
+      "title": "Will this Ebola outbreak be the biggest yet?",
+      "article_update_date": "05.21.2026",
+      "source_journal": "Nature",
+      "body_text": "More than 100 suspected deaths have already been reported in the current Ebola outbreak in the Democratic Republic of the Congo (DRC). Here, Bora Moise sits beside the grave of his nephew at a cemetery in Ituri province, in eastern DRC, where the highest number of cases have been reported.Credit: Michel Lunanga/Getty By the time both the Democratic Republic of the Congo (DRC) and Uganda declared an Ebola outbreak on 15 May, officials said that they had recorded 246 suspected cases and 80 suspected deaths. A few days later, on 18 May, an international research team released the results of a modelling study suggesting that the true number of infections could be vastly higher. Those data points are shocking researchers and public-health specialists: the director-general of the World Health Organization (WHO), Tedros Adhanom Ghebreyesus, said on 19 May that he is “deeply concerned about the scale and speed of the epidemic”. That’s because, compared with past outbreaks, these numbers stand out. For example, in March 2014, when Guinea initially declared what would eventually become the largest recorded Ebola epidemic so far, it reported only 49 suspected cases and 29 suspected deaths (see ‘Alarming trajectory’). Source: WHO and WHO disease outbreak news reports/Resolve to Save Lives The virus causing the latest outbreak, a rare species called Bundibugyo virus, has clearly been spreading unidentified for weeks. “The virus has a big head start,” so efforts to contain it will face an uphill struggle, said Tom Frieden, former director of the US Centers for Disease Control and Prevention, during a 20 May talk organized by news outlet MedPage Today. But does that mean that this outbreak will become one of the largest yet? A state of emergency The startling size of the outbreak — along with its occurrence in urban and semi-urban areas in the Ituri and North Kivu provinces of the DRC, where people travel and interact a lot — prompted the WHO to declare the outbreak a Public Health Emergency of International Concern on 17 May. “In light of all these risks, I decided it was urgent to act immediately to prevent more deaths and mobilize an effective and international response,” Tedros said at a 20 May briefing. But he said that the outbreak does not constitute a pandemic emergency. Ebola outbreak is a global health emergency: what happens next Epidemiologists are now racing to find out when the outbreak began. Evidence suggests that the Bundibugyo virus has been spreading for approximately two months, WHO officials said at the briefing. Investigators in the DRC have identified a person who died on 20 April and are provisionally treating them as the first case, said Abdi Rahman Mahamud, the WHO’s director for health emergency alert and response operations. After a 5 May ‘super-spreading event’, investigators found reports on social media of further deaths that they now suspect were caused by the virus. All Ebola viruses are transmitted through contact with blood and other bodily fluids, and can cause influenza-like symptoms, vomiting and diarrhoea, and — eventually — internal and external bleeding and liver and kidney malfunction. The Bundibugyo virus species has, in the past, killed 30–50% of infected people, so it is less lethal than the more common species Zaire virus, which killed around 40% of infected people during the massive 2014–16 outbreak and 66% of infected people during a large outbreak in the DRC in 2018–20. On 20 May, Tedros said that there were 61 confirmed and nearly 600 suspected cases, however many researchers think that this is likely an undercount. On the basis of case-fatality rates from previous Bundibugyo outbreaks and the number of deaths so far registered in the current one, there could already be upwards of 900 cases, according to the modelling study by infectious-disease epidemiologist Ruth McCabe at Imperial College London and her colleagues. But uncertainties in that estimate means that case numbers could exceed 1,000. Another major unknown is how fast case numbers are growing, which could indicate when the outbreak started and how big it could get. “It’s so important to get resources to the region, to the people in the affected areas, to be able to help prevent onward transmission and prevent further mortality,” McCabe says. The weeks ahead",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "More than 100 suspected deaths have already been reported in the current Ebola outbreak in the Democratic Republic of the Congo (DRC). By the time authorities ___ the outbreak, officials had already recorded a significant number of cases.",
+          "options": {
+            "A": "declared",
+            "B": "suspended",
+            "C": "rejected",
+            "D": "ignored"
+          },
+          "answer": "A",
+          "explanation": "Context requires a verb meaning to formally announce an epidemic, fitting 'declared'."
+        },
+        {
+          "q_number": 2,
+          "stem": "An international research team released results of a modelling study suggesting that the true number of infections could be ___ higher than reported.",
+          "options": {
+            "A": "hardly",
+            "B": "rarely",
+            "C": "scarcely",
+            "D": "vastly"
+          },
+          "answer": "D",
+          "explanation": "The text discusses undercounting, so 'vastly' expresses the significant discrepancy."
+        },
+        {
+          "q_number": 3,
+          "stem": "These data points are ___ researchers and public-health specialists regarding the scale of the epidemic.",
+          "options": {
+            "A": "pleasing",
+            "B": "calming",
+            "C": "entertaining",
+            "D": "shocking"
+          },
+          "answer": "D",
+          "explanation": "The context is an alarming health crisis, making 'shocking' the logical choice."
+        },
+        {
+          "q_number": 4,
+          "stem": "The director-general of the WHO stated he is deeply concerned about the ___ and speed of the epidemic.",
+          "options": {
+            "A": "scale",
+            "B": "color",
+            "C": "shape",
+            "D": "source"
+          },
+          "answer": "A",
+          "explanation": "Epidemics are described by their scope or 'scale', which matches the context."
+        },
+        {
+          "q_number": 5,
+          "stem": "Compared with past outbreaks, these numbers stand out. The 2014 Guinea epidemic, which eventually became the largest, had a much smaller ___ start.",
+          "options": {
+            "A": "official",
+            "B": "final",
+            "C": "initial",
+            "D": "partial"
+          },
+          "answer": "C",
+          "explanation": "Refers to the early reporting phase of the epidemic, for which 'initial' is the most accurate adjective."
+        },
+        {
+          "q_number": 6,
+          "stem": "The virus causing the latest outbreak has been spreading ___ for weeks, giving it a big head start.",
+          "options": {
+            "A": "visibly",
+            "B": "evidently",
+            "C": "unidentified",
+            "D": "clearly"
+          },
+          "answer": "C",
+          "explanation": "The text explains the virus went undetected for a long time, thus 'unidentified'."
+        },
+        {
+          "q_number": 7,
+          "stem": "Efforts to contain the virus will face an uphill ___ due to its undetected spread.",
+          "options": {
+            "A": "struggle",
+            "B": "climb",
+            "C": "battle",
+            "D": "jump"
+          },
+          "answer": "A",
+          "explanation": "The phrase 'uphill struggle' is an established idiom for a difficult task."
+        },
+        {
+          "q_number": 8,
+          "stem": "The outbreak's occurrence in urban areas, where people interact a lot, ___ the WHO to act.",
+          "options": {
+            "A": "delayed",
+            "B": "prompted",
+            "C": "prevented",
+            "D": "discouraged"
+          },
+          "answer": "B",
+          "explanation": "'Prompted' fits the cause-effect relationship between the risk and the WHO's action."
+        },
+        {
+          "q_number": 9,
+          "stem": "In light of all these risks, Tedros decided it was urgent to ___ an effective international response.",
+          "options": {
+            "A": "immobilize",
+            "B": "mobilize",
+            "C": "analyze",
+            "D": "criticize"
+          },
+          "answer": "B",
+          "explanation": "To organize resources for a health crisis is to 'mobilize' them."
+        },
+        {
+          "q_number": 10,
+          "stem": "Tedros noted that the outbreak does not ___ a pandemic emergency at this stage.",
+          "options": {
+            "A": "constitute",
+            "B": "distinguish",
+            "C": "dispel",
+            "D": "abolish"
+          },
+          "answer": "A",
+          "explanation": "'Constitute' is used to define whether something meets the criteria for a specific state."
+        },
+        {
+          "q_number": 11,
+          "stem": "Epidemiologists are now racing to find out when the outbreak ___.",
+          "options": {
+            "A": "ended",
+            "B": "stagnated",
+            "C": "began",
+            "D": "varied"
+          },
+          "answer": "C",
+          "explanation": "The text mentions searching for the start date of the outbreak, so 'began' is correct."
+        },
+        {
+          "q_number": 12,
+          "stem": "Investigators are ___ treating the death of an individual on 20 April as the first case.",
+          "options": {
+            "A": "randomly",
+            "B": "permanently",
+            "C": "historically",
+            "D": "provisionally"
+          },
+          "answer": "D",
+          "explanation": "Since more evidence is needed, the treatment of the case is 'provisionally' (temporarily) decided."
+        },
+        {
+          "q_number": 13,
+          "stem": "Reports on social media suggested further deaths were caused by the virus after a 'super-spreading ___'.",
+          "options": {
+            "A": "period",
+            "B": "event",
+            "C": "location",
+            "D": "medium"
+          },
+          "answer": "B",
+          "explanation": "Epidemiological terminology identifies a specific moment of high transmission as an 'event'."
+        },
+        {
+          "q_number": 14,
+          "stem": "Ebola viruses are transmitted through contact with blood and other ___ fluids.",
+          "options": {
+            "A": "internal",
+            "B": "external",
+            "C": "bodily",
+            "D": "mental"
+          },
+          "answer": "C",
+          "explanation": "Transmission occurs via 'bodily' fluids such as blood, sweat, or saliva."
+        },
+        {
+          "q_number": 15,
+          "stem": "The Bundibugyo virus is less ___ than the more common Zaire species.",
+          "options": {
+            "A": "harmful",
+            "B": "lethal",
+            "C": "vulnerable",
+            "D": "contagious"
+          },
+          "answer": "B",
+          "explanation": "The text compares death rates, making 'lethal' the appropriate adjective."
+        },
+        {
+          "q_number": 16,
+          "stem": "Many researchers think that the current confirmed number of cases is likely an ___.",
+          "options": {
+            "A": "overestimate",
+            "B": "exactitude",
+            "C": "undercount",
+            "D": "uncertainty"
+          },
+          "answer": "C",
+          "explanation": "Because of limited testing/reporting, researchers believe it is an 'undercount'."
+        },
+        {
+          "q_number": 17,
+          "stem": "On the basis of case-fatality rates from previous outbreaks, there could already be ___ of 900 cases.",
+          "options": {
+            "A": "downwards",
+            "B": "upwards",
+            "C": "inwards",
+            "D": "outwards"
+          },
+          "answer": "B",
+          "explanation": "'Upwards of' is a standard idiom meaning 'more than'."
+        },
+        {
+          "q_number": 18,
+          "stem": "Uncertainties in the estimate mean that case numbers could ___ 1,000.",
+          "options": {
+            "A": "exceed",
+            "B": "equal",
+            "C": "maintain",
+            "D": "sustain"
+          },
+          "answer": "A",
+          "explanation": "Given the potential for undercounting, the numbers might 'exceed' a certain threshold."
+        },
+        {
+          "q_number": 19,
+          "stem": "Another major ___ is how fast case numbers are growing.",
+          "options": {
+            "A": "known",
+            "B": "constant",
+            "C": "standard",
+            "D": "unknown"
+          },
+          "answer": "D",
+          "explanation": "The growth rate is currently undetermined, identifying it as an 'unknown'."
+        },
+        {
+          "q_number": 20,
+          "stem": "It is important to provide resources to people in affected areas to help prevent further ___.",
+          "options": {
+            "A": "fatality",
+            "B": "stability",
+            "C": "recovery",
+            "D": "mortality"
+          },
+          "answer": "D",
+          "explanation": "The context is stopping the spread and saving lives, so preventing 'mortality' (death) is the goal."
+        }
+      ]
+    },
+    {
+      "title": "The extraordinary rise of Miami’s economy",
+      "article_update_date": "09.04.2026",
+      "source_journal": "Economist",
+      "body_text": "The extraordinary rise of Miami’s economy Finance & economics | Miami heat The extraordinary rise of Miami’s economy Thanks to a combination of capital and politics, the city is booming. Can its success be sustained? Sep 3rd 2026 ON A FRIDAY night in Miami, a luxury-property agent emerges from a swanky lounge and stands outside a skyscraper. He is celebrating the sale of a house—for $50m. He will not name his buyer but says he mostly sells to tech and finance moguls. As for the skyscraper, 830 Brickell, its bottom few feet are a little shabby, yet it contains some of America’s priciest square metres of office space. It is home to Citadel, a big hedge fund; an investment firm owned by the family office of Peter Thiel, a tech billionaire; and two top law firms. The estate agent and 830 Brickell are reflections of Miami’s rise. Between 2020 and 2024 (the latest available year) the metro area’s GDP grew by 23%, against 13% in America overall (see chart 1). The rich are moving in. New residents include Ken Griffin, Citadel’s chief, Jeff Bezos, the founder of Amazon and Blue Origin, a space firm that makes and launches its rockets in Florida, and Mark Zuckerberg, head of Meta. The fuel is political as well as financial: Donald Trump spends more time nearby than anywhere but Washington, DC, mostly at his Mar-a-Lago estate. Palm Beach is a hub for policymakers and diplomats. “Fifteen years ago,” the estate agent says, “the only people who thought it was smart to be rich here were Cubans, DJs and golfers.” He exaggerates: Miami has long been a regional hub. But its economy did rely on its proximity to Latin America, and a sometimes lurid entertainment industry. Central Miami’s economy was roughly a quarter of the size of Manhattan’s. The ratio is now a half, and rising. In 2020 no house in Miami fetched $50m. In 2025, 17 did, almost half the national total. Many of the billionaires and firms making the move insist they did so because they believe the city’s economy will soon be among America’s biggest, rivalling New York, Chicago and San Francisco. Whether Miami’s boom can be sustained is debatable. But for now it is thriving on a heady mix of financial and political power. Over the past five years three waves of activity have broken on the south Florida shore. One brought foreign money. Francis Suarez, Miami’s Republican mayor until 2025, travelled the world courting investors, with notable success in the Persian Gulf. Hotels are crammed with the region’s hedge-fund managers, traders and consultants. Some have moved for good since the start of Mr Trump’s war on Iran. Saudi Arabia has opened an office; Gulf governments have invested in businesses from hotels to crypto exchanges. In addition, yet more Latin American investors have arrived since a few right-wing governments in that region loosened capital controls. A bigger wave has come from within America: people and businesses fed up with high taxes and left-wing policies in other cities. Florida’s state income tax is zero; New York City’s richest pay 14.8%. Property levies on the priciest homes are under 1%. Wealthy Americans have long visited Florida for recreation, be it 24-hour nightclubs or plush retirement homes. But lately many have settled. People with combined annual earnings of around $40bn moved there in 2025, according to data from the Internal Revenue Service. For companies, various levels of government in Florida offer tax breaks and incentives, such as relief to firms paying employees above the state’s average wage. Miami’s officials are determinedly business-friendly. When Mr Griffin began to complain about crime and taxes in Chicago, where Citadel was previously based, Mr Suarez rang to suggest a move south. At least 150 financial firms have migrated, including the private-wealth business of Wells Fargo, a giant bank, and Citadel’s fellow investment firms, such as Elliott Management. Tech is also well represented. Palantir, a controversial AI-analytics firm with lots of government contracts, moved from left-leaning Denver in 2026. Arrivals from San Francisco include three firms belonging to Mr Thiel. The third wave has been led by south Florida’s most famous rich immigrant. Mr Trump has turned the area into a political nerve centre. Between October and March he spent a quarter of his time there. Several Floridians are members of his inner circle, including Susie Wiles, his chief of staff; Todd Blanche, the attorney-general; and Marco Rubio, the secretary of state. An employee of Ms Wiles says he spent lots of time at Mar-a-Lago in his first term, “but we’re making a lot more of the real decisions from Florida this time around.” At Mar-a-Lago Mr Trump has hosted foreign leaders, and decided to blockade Cuba’s oil supplies and to capture Nicolás Maduro, Venezuela’s dictator. His staff met CEOs there before the federal budget in the spring and health-care providers before the president amended Medicare (a scheme for the elderly) in July. “Look,” says one official, “in the president’s view, a lot of the smartest people in the country are already members at Mar-a-Lago.” As political activity has headed south, money has followed. Ballard Partners, America’s biggest lobbying firm (founded in Florida), now has its largest office in Palm Beach. Many foreign governments have sent in extra civil servants. “Our border guard and defence ministry”, says one consul-general, “need to be able to reach Palm Beach.” Officials from three European countries say their consulates have more staff in Miami than in New York. No surprise, then, that the property business is booming. In 2025 it accounted for 18% of Miami’s economy, up from 14% in 2014. The number of construction jobs has risen by 12% since the pandemic (see chart 2). Mr Griffin is spending roughly $2bn on a new 54-storey skyscraper. Finance is doing well, too: survey data indicate that, thanks to all the Wall Street migrants, back-office jobs have grown by 20% since 2019. The share of corporate services, such as law and consulting, in local GDP has risen by two percentage points. Hospitality, the old mainstay, is also thriving. It employs a tenth of metropolitan Miami’s workforce, one of the highest shares in the country. Miami is the only city with a team in all four of America’s big sports, a top-class motor race and a leading tennis tournament, the Miami Open. Of Mr Trump’s four speeches at business conferences in 2025, he gave two in Miami. “We’ve always been spectacular,” says an entertainment agent at Faena, a luxury hotel, “but the new guys give us exclusivity.” Will Miami’s boom give way to a steady, sustainable expansion, or just give way? Successful cities thrive on network effects: whether in finance, tech or lobbying, firms are drawn to places where they are confident of finding customers and skilled workers; people head to where they can find the jobs they want. To make the leap Miami must overcome three obstacles. One is a potential lack of people who are not especially rich. The influx of wealth has pushed the local cost of living to dizzying heights. According to the Bureau of Economic Analysis, a government agency, residential rents are above the national average and higher even than in New York. Consumer prices have risen by nearly 40% since early 2020, against 28% in America as a whole (see chart 3). As luxury food outlets have multiplied, cheaper shops have been pushed out. High costs are driving the poorest away. Since 2014 the number of millionaires has nearly doubled; but between July 2024 and July 2025 Miami’s population has shrunk by 10,000. Poor neighbourhoods, whose residents staff the hospitality industry, are emptying fastest. Another hurdle is a lack of brainpower. New York, Seattle and San Francisco are knowledge economies, attracting hordes of skilled people and the capital to harness them. Yet despite the recent influx of smarts and money, Miami is far from matching its rivals. Firms and universities in Florida, which has the fourth-biggest economy among America’s states, spent just $13bn on research in 2023, less than any other in the top ten. Florida has fewer graduates, relative to population, than the national average. Most capital deployed by Miami’s newly flush venture capitalists still goes to startups in San Francisco. Mr Griffin promises that, by 2031, many more of his employees will be working from Miami. So far 400 of them do, though most are not advising on investments. If back-office roles are stripped out, finance makes up no more of Miami’s economy than it did a decade ago. The city’s financial sector, the biggest of its white-collar industries, is a mere one-eighth of the size of New York’s. A third problem is the climate. South Florida, on a peninsula near sea level, is prone to extreme weather. A meteorologist at AccuWeather, a forecasting company, has said that no American city is more likely to be damaged by hurricanes. In August yet another academic paper, in Scientific Reports, predicted that if global temperatures exceed 1.5°C above pre-industrial levels, storms will flood Miami regularly. Florida is already the costliest state in which to buy insurance for mortgaged homes. Yet there is no doubting Miami’s momentum. A bullish local politician believes that, like the Gulf before the Iran war, it can be where the rest of the world comes to pursue business and store wealth. A year ago Mr Trump hosted a dinner for 33 of America’s leading business figures at Mar-a-Lago. At least half of those attending (including Mr Trump and Ms Wiles, and their spouses) had property in Florida. In 2029 Mr Trump’s term will be up and Florida’s political pull may start to fade. Maybe the city can thrive by continuing to attract the rich. But maybe it needs more. ■ This article was downloaded by zlibrary from https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-miamis-economy",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following contributes to Miami's economic boom according to the text?",
+          "options": {
+            "A": "A decline in property prices across all sectors.",
+            "B": "The relocation of high-net-worth individuals and corporate entities.",
+            "C": "A significant reduction in the hospitality and entertainment industry.",
+            "D": "The successful implementation of strict state income tax policies."
+          },
+          "answer": "B",
+          "explanation": "The text explicitly mentions the influx of wealthy residents (e.g., Ken Griffin, Jeff Bezos) and numerous financial/tech firms migrating to Miami due to favorable tax policies and political influence, which directly fueled the city's economic growth."
+        },
+        {
+          "q_number": 2,
+          "stem": "What is implied by the author's reference to the 'three waves of activity'?",
+          "options": {
+            "A": "The city's economy is unstable and depends solely on foreign investment.",
+            "B": "Miami’s growth is multifaceted, involving foreign capital, domestic migration, and political influence.",
+            "C": "The local government is struggling to manage the rapid increase in population.",
+            "D": "The economic surge is primarily driven by the expansion of the retail sector."
+          },
+          "answer": "B",
+          "explanation": "The 'three waves' refer to foreign money/investors, Americans moving to avoid high taxes elsewhere, and the political center of gravity shifting to Florida under Donald Trump. This indicates a complex, multi-factor economic phenomenon."
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, how has Miami's political status affected its economy?",
+          "options": {
+            "A": "It has deterred international diplomatic relations due to regional isolationism.",
+            "B": "It has caused a decline in traditional lobbying activities.",
+            "C": "It has attracted business and political figures, thereby increasing lobbying and corporate presence.",
+            "D": "It has led to a reduction in federal funding for local infrastructure."
+          },
+          "answer": "C",
+          "explanation": "The text states that as political activity headed south with Mr. Trump, money followed, citing the expansion of lobbying firms like Ballard Partners and the increased presence of international consulates and corporate decision-makers."
+        },
+        {
+          "q_number": 4,
+          "stem": "What is one of the significant obstacles Miami faces in sustaining its growth?",
+          "options": {
+            "A": "A lack of interest from foreign investors in the technology sector.",
+            "B": "A decline in the number of luxury properties available for purchase.",
+            "C": "An over-reliance on the agricultural industry.",
+            "D": "A potential shortage of affordable living space and local skilled human capital."
+          },
+          "answer": "D",
+          "explanation": "The text lists three obstacles: the high cost of living pushing out poor residents, a lack of 'brainpower' (knowledge economy/skilled graduates) compared to rivals, and environmental risks (climate/hurricanes)."
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the author's view on Miami's future?",
+          "options": {
+            "A": "Optimistic, as the city is bound to surpass New York in every sector.",
+            "B": "Skeptical, as the author believes the boom is purely artificial and bound to collapse.",
+            "C": "Cautious, acknowledging current success while noting significant long-term structural and environmental challenges.",
+            "D": "Indifferent, as the author focuses only on the historical rise of the city."
+          },
+          "answer": "C",
+          "explanation": "The author presents both sides: the evident momentum and economic success, but balances this with structural limitations like high costs, education gaps, and climate change threats, suggesting the sustainability of the boom is 'debatable'."
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "05.14.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the joint statement, what is considered essential for achieving lasting peace and stability in the Asia-Pacific region?",
+          "options": {
+            "A": "The isolation of regional forums and organizations from global influence.",
+            "B": "Maintaining an open and inclusive economic and security architecture based on international law.",
+            "C": "Strengthening the military presence of the three countries in the Asia-Pacific.",
+            "D": "Prioritizing individual national interests over multilateral agreements."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确提到，维持一个开放、包容、基于多边主义和国际法公认原则的区域安全与经济架构，对于该地区的持久和平与稳定至关重要。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary significance of the BRICS cooperation mentioned in the statement?",
+          "options": {
+            "A": "To compete against other global economic blocs.",
+            "B": "To focus exclusively on the political and security interests of China.",
+            "C": "To strengthen cooperation across multiple fields to usher in a second golden decade.",
+            "D": "To replace the need for the Shanghai Cooperation Organization."
+          },
+          "answer": "C",
+          "explanation": "文章提到，三国致力于落实金砖国家峰会成果，在经济、政治、安全和人文领域加强合作，旨在开启金砖合作的第二个“金色十年”。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How do the three countries perceive the nature of the Russia-India-China trilateral cooperation?",
+          "options": {
+            "A": "It is designed as a strategic alliance to oppose other nations.",
+            "B": "It is intended to replace existing international forums.",
+            "C": "It is a platform for practical cooperation that is not directed against any third party.",
+            "D": "It is limited to discussions regarding internal border issues."
+          },
+          "answer": "C",
+          "explanation": "文章明确指出，三边合作机制是一个促进对话与务实合作的平台，且这种合作并不针对任何其他国家。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What role does the Shanghai Cooperation Organization (SCO) play according to the text?",
+          "options": {
+            "A": "It acts as a bureaucratic oversight body for economic trade.",
+            "B": "It is viewed as an important instrument for promoting multilateral interaction in the region.",
+            "C": "It is the primary body responsible for resolving global environmental issues.",
+            "D": "It serves solely as a military alliance to ensure border security."
+          },
+          "answer": "B",
+          "explanation": "文章第四段指出，三国非常重视在上海合作组织内的共同工作，认为该组织是促进区域内政治、安全、经济和人文交流的重要工具。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the main purpose of the trilateral dialogue between China, Russia, and India?",
+          "options": {
+            "A": "To exclusively focus on economic aid and development funds.",
+            "B": "To create a secret pact for military dominance.",
+            "C": "To foster consultation and coordination on issues of mutual interest based on trust.",
+            "D": "To dissolve the existing international legal framework in the region."
+          },
+          "answer": "C",
+          "explanation": "文章引用声明称，三国希望在相互理解和信任的精神下，加强三边对话，就共同关心的区域和全球问题进行磋商与协调。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 40",
+      "article_update_date": "04.29.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Makena Kelly Jake Lahut Elisa Muyl The Big Story Sep 24, 2025 6:00 AM The 22 Very Online Upstarts Changing the Face of Politics Introducing WIRED’s 2025 Political Power Users—the creators, podcasters, and pundits who will blow up the next electoral era. PHOTO-ILLUSTRATION: RUI PU; GETTY IMAGES Donald Trump’s second term has ushered in a new era in American politics. It’s brasher, crueler, more direct, more super online, and certainly more dystopian. Democrats and sometimes even Republicans have struggled to compete with Trump ’s monopoly on the attention market. But the leaders of both parties are only mortal—yes, even Trump—and they’re not going to be around forever. A new generation of political talent is muscling its way onto the scene, armed with new ways of connecting with the masses and original visions of the country they want to live in. Here are the candidates, the influencers, and the insiders on both the left and the right that we think you’ll keep hearing from, and why. You might just remember when you spotted a future president in this edition of WIRED. Guide to New Politicos THE DIGITAL NATIVES → THE MAGA BABIES → THE HETERODOX REPUBLICANS → THE MUTINY ON THE LEFT → FROM VIRAL HITS TO POLITICAL STARS → THE TEXAS CORNER → THE CONNECTORS → EXPORTED TO EUROPE → After the shock of the 2024 election loss, some Democrats became convinced of the need for a “ liberal Joe Rogan ”—someone to appeal to the podcast-bro demographic that helped put Trump back in the White House. But there are already Democrats and progressives who know how to mobilize an online audience—and think they know where the party’s communications have gone wrong. Melted Solids Production agency, Brooklyn, New York If you were caught up in the avalanche of content coming from the New York City mayoral primary race, you likely saw a video by Melted Solids, which worked with Zohran Mamdani early on in his campaign. Cofounders Anthony DiMieri and Debbie Saslaw come from advertising and content production backgrounds, not politics. They bring a documentary-style approach focused on platforming regular people. “Listening, not lecturing,” as Saslaw describes it. One of their most viral collaborations with Mamdani is a video of the candidate interviewing Trump voters (and nonvoters) in Queens and the Bronx. But not everyone can nail the essence of a Melted Solids video, or even understand what makes them special. In Andrew Cuomo’s unsuccessful attempt at mimicking Mamdani, he’s seen hand-shaking and back-slapping potential voters, but their voices remain unheard. You’re likely to keep seeing DiMieri and Saslaw’s influence on political messaging, though, thanks to Mamdani’s upset victory in June. Chi Ossé City Council member, New York City “Before I am an elected official, before I am a son, before I am a brother, I am a shitposter, and I have always been,” says Ossé. “If there’s another language that I speak, it is the internet.” The 27-year-old City Council member is the creator of several videos with millions of views on Instagram, including his series “Why Shit Not Working?” that breaks down the most intransigent elements of New York City’s dysfunction. Ossé frequently uses his online presence to galvanize public opinion and even once to pass policy. With one social media call in 2023, he got more than 1,000 people to attend a board meeting on rent guidelines to voice concern about a double-digit percent proposed increase on rent-stabilized apartments. Now other politicians are taking cues from his success, including Mamdani—Ossé says he had to remind the mayoral candidate to post his campaign launch video on TikTok. “Before I am an elected official, before I am a son, before I am a brother, I am a shitposter, and I have always been. I grew up using the internet.” CHI OSSÉ Deja Foxx Digital strategist, Arizona Foxx’s star rose practically overnight in 2017, when the then-16-year-old’s exchange with US senator Jeff Flake over his vote to restrict funding to Planned Parenthood went viral. The activist and content creator built a career on that moment, working as a digital strategist for the Kamala Harris 2020 campaign and then appearing as a speaker at the 2024 Democratic National Convention. This year, the 25-year-old launched her own campaign in a special election for the late Raúl Grijalva’s Arizona congressional seat. In a July TikTok video that she filmed with family members, she reminisced about filing campaign paperwork online: alone, in her bedroom, “with no staff, no donor list.” The rest of her social media is just as earnest and direct, featuring front-facing videos that ground her progressive policies in her life experience: Foxx was raised by a single mom, experienced homelessness, and relied on federally funded programs like Section 8 and Title X. While Foxx ultimately lost the primary to Adelita Grijalva, Raúl’s daughter, her digital strategy generated notable momentum in the last few weeks of her campaign. She hit 300,000 TikTok followers and raised hundreds of thousands of dollars in small donations. Despite her loss, Foxx caught the attention of younger progressives in the House of Representatives, who say they are excited about her future in politics. Manny Rutinel State representative, Colorado Rutinel, 30, may have invented a new way to campaign online: via heartfelt Instagram photo montages set to pop music, sometimes sung by the man himself. Now he’s deploying these videos in the race to unseat Republican representative Gabe Evans in Colorado’s Eighth District, which is projected to be one of the midterms’ most competitive races. Rutinel’s posts are often deliberately hammy. (He once did a Christopher Walken impression to announce a motion in the Colorado state legislature.) They also consistently deliver his campaign message: that he’s a champion for working people because of his own working-class upbringing. (Rutinel did not respond to WIRED’s request for an interview.) In the first six months of 2025, Rutinel raised more than $1.6 million, about half of which came from small-dollar donations. In the crowded field of Democratic candidates opposing Evans, he is the only one who has kept up with the Republican’s fundraising. As the race gains national attention, Rutinel’s distinct online presence might earn some copycats in years to come. Over on the right, some of the youngest members of Trumpworld have iterated on The Donald’s playbook, mixing traditional and new media to reach the base and capture everyone else’s attention. Anna Paulina Luna US representative, Florida The 36-year-old Air Force veteran is the apotheosis of the GOP’s digital strategy: the nation’s first influencer turned right-wing member of Congress. Paulina Luna got there with a canny sense for what works online, and what doesn’t. “If you want to be effective in the future of politics, especially in the next presidential election or the next statewide races, you have to have a presence on social media,” she told WIRED. “But it can’t be a shit presence. It has to be a legit presence, because people can see right through it.” Paulina Luna may have clips of her appearances on Fox News to share, but she says followers would much rather see her extemporize directly to her iPhone for 45 seconds on whatever subject, from UFOs to the culture wars. The House GOP has taken notice of Paulina Luna’s success: Her communications director was invited to speak to members about how to use vertical video. Brett Cooper Media personality, Nashville, Tennessee After building a formidable following with her Daily Wire show The Comments Section , 23-year-old Cooper struck out on her own earlier this year. Within six months of launching on YouTube, in early 2025, The Brett Cooper Show accrued more than 1.5 million subscribers, racking up hundreds of thousands of views each episode. Cooper doesn’t stray far from the politics-meets-pop-culture formula that made her Daily Wire show a success, but she has ditched explicitly partisan rhetoric for more coded cultural commentary. She picks topics that capture the attention of young women, offering a light-touch conservative critique of, say, Blake Lively’s lawsuit against Justin Baldoni. “I never want my content to be a time suck,” Cooper says. “I never want it to be like mindless fluff.” Natalie Winters Political commentator, Washington, DC The 24-year-old White House correspondent for Real America’s Voice knows how to make an entrance. She’s part of the West Wing’s new, young, and vocally right-wing press corps, and her outfits alone generated entire news cycles early in the second Trump administration—mostly thanks to the Daily Mail compiling social media scoldings over her more casual attire. Winters leaned into it, dunking on them and using the coverage to keep building her brand. Winters, who abstains from both alcohol and tap water as part of her wellness regimen, tells WIRED that she thinks the MAHA movement is the new “gateway drug” for the GOP. Winters also cohosts War Room on Real America’s Voice with Steve Bannon, her mentor, and has a direct line to the MAGA base heading into 2028. “If you want to be effective in the future of politics, especially in the next presidential election or the next statewide races, you have to have a presence on social media. But it can’t be a shit presence. It has to be a legit presence, because people can see right through it.” ANNA PAULINA LUNA The coalition that helped elect Barack Obama twice—college-educated, young, Black, and Latino voters—cracked in 2016 and fractured completely in 2024. Now a new slate of candidates on the right are trying to prove that it’s not just Trump who can broaden the GOP’s base. Mayra Flores Congressional candidate, Southern Texas The 39 year-old Flores became the first Mexican-born congresswoman in 2022, when she flipped a Texas House seat—the 34th District—in a special election. After losing the next two races for that district, she’s now going to try again, thanks to redistricting that has made the area much redder. Flores aims her candidacy directly at the idea of demographic destiny. “As I grew up, I began to question why so many Hispanics consider themselves Democrats, since the majority of us have been raised with strong conservative values,” she says in one of her earliest campaign videos. “The Hispanic community is pro-God, pro-life, pro-family, pro-America.” (Flores did not respond to WIRED’s request for an interview.) Amir Hassan Political candidate, Michigan The Navy veteran is running to flip Michigan’s Eighth District as a “proud Muslim” who supports Israel and the America First agenda. If he wins, Hassan would represent his native Flint, the seat of a yearslong water crisis that has shaken residents’ trust in government. Today, the district leans left. But Genesee County, where Flint sits, shifted more than 5 percentage points for Trump in 2024. Hassan sees an opportunity for change. “Where I’m from, we’re raised to think Democrats are the good guys. We’ve been held culturally hostage for over half a century,” the 39 year-old says in a campaign video. “But look around. Flint is what happens when your vote is taken for granted.” (Hassan’s campaign also declined to be interviewed for this piece.) “I never want my content to be a time suck. I never want it to be like mindless fluff.” BRETT COOPER A growing group of Democratic politicians at different levels of government have challenged their party’s fecklessness with plans to address intractable problems like public safety and the cost of living. The most ambitious among them want to completely remake Congress. Saikat Chakrabarti Political adviser and congressional candidate, Bay Area, California The 39-year-old Chakrabarti cofounded Brand New Congress—which was aligned with the so-called Justice Democrats, the group that recruited Alexandria Ocasio-Cortez. He ran AOC’s campaign before becoming her chief of staff in Washington, where he helped write the Green New Deal. Chakrabarti says he felt compelled to run for Nancy Pelosi’s seat in Congress after he watched the House Democratic leader and other Democrats in the wake of Trump’s 2024 win, “helpless to really change anything.” He has a detailed set",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why do Democratic leaders struggle to compete in the current political climate?",
+          "options": {
+            "A": "They rely too heavily on traditional media outlets to reach their base.",
+            "B": "They lack a candidate who can appeal to the podcast-listening demographic.",
+            "C": "They are unable to match Donald Trump's dominance in the attention market.",
+            "D": "They have failed to address the concerns of younger, college-educated voters."
+          },
+          "answer": "C",
+          "explanation": "文章提到“Democrats and sometimes even Republicans have struggled to compete with Trump’s monopoly on the attention market”，直接说明了民主党在吸引公众关注度方面难以与特朗普抗衡。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest about Melted Solids' approach compared to Andrew Cuomo's?",
+          "options": {
+            "A": "Melted Solids emphasizes authentic engagement over superficial interaction.",
+            "B": "Andrew Cuomo successfully copied the viral strategies of Melted Solids.",
+            "C": "Melted Solids focuses on lecturing voters on political policies.",
+            "D": "Andrew Cuomo's campaign was ineffective because it avoided digital platforms entirely."
+          },
+          "answer": "A",
+          "explanation": "文章指出Melted Solids的方法是“Listening, not lecturing”以及“platforming regular people”，对比Cuomo的“hand-shaking and back-slapping”但听不到选民声音，体现了真实互动与表面功夫的对比。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes Chi Ossé's approach to local politics?",
+          "options": {
+            "A": "He prioritizes traditional legislation over his online persona.",
+            "B": "He views his internet presence as a barrier to his official duties.",
+            "C": "He utilizes his social media influence to actively mobilize public engagement.",
+            "D": "He relies exclusively on his family's reputation to gain political support."
+          },
+          "answer": "C",
+          "explanation": "Chi Ossé提到自己是“shitposter”，并举例说明他通过社交媒体召集民众参与董事会会议以影响政策，说明他利用网络影响力来调动公众参与。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What can be inferred about Anna Paulina Luna's view on digital presence?",
+          "options": {
+            "A": "Authenticity is more important than the platform used.",
+            "B": "Posting professional, polished content is the key to political success.",
+            "C": "The content should avoid controversial topics like culture wars.",
+            "D": "Social media is merely a supplementary tool for traditional campaigning."
+          },
+          "answer": "A",
+          "explanation": "Anna Paulina Luna强调“It can’t be a shit presence. It has to be a legit presence, because people can see right through it”，表明观众能识别虚假，真实性（authenticity）至关重要。"
+        },
+        {
+          "q_number": 5,
+          "stem": "According to the text, why does Amir Hassan believe there is an opportunity for change in Flint?",
+          "options": {
+            "A": "He promises to restore the trust lost due to the water crisis.",
+            "B": "He intends to shift the district's demographic toward Republican values.",
+            "C": "He believes the local residents have been neglected by the Democratic party.",
+            "D": "He is the first Muslim candidate to run for office in Michigan."
+          },
+          "answer": "C",
+          "explanation": "文章提到Hassan认为当地选民“held culturally hostage”且“vote is taken for granted”，说明他认为当地人对传统民主党的不满为其参选提供了契机。"
+        }
+      ]
+    }
+  ]
+}
