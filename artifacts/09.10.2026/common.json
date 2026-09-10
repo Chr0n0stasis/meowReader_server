@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.10.2026",
+  "papers": [
+    {
+      "title": "Is exercise as effective as treatments for depression and anxiety?",
+      "article_update_date": "05.07.2026",
+      "source_journal": "Economist",
+      "body_text": "Is exercise as effective as treatments for depression and anxiety? Science & technology | Well Informed Is exercise as effective as treatments for depression and anxiety? Some big studies say yes. Many experts have reservations April 30th 2026 FOR THOSE in the doldrums, few things are more tiresome than being told to exercise. But unwelcome advice is not necessarily wrong. Study after study has found that exercise boosts mood and reduces anxiety. Two large analyses published earlier this year go further, suggesting it works about as well as therapy or antidepressants. The first, published in January by researchers based across Britain and Ireland, took the form of a Cochrane review—a well-regarded meta-analysis of health-care research. It pooled the results of 69 randomised controlled trials (RCTs) conducted to measure the effects of exercise on depression. The second paper, published in February in the British Journal of Sports Medicine, was a so-called meta-meta-analysis. It drew on more than 1,000 trials involving nearly 80,000 participants. Both concluded that exercise reduces symptoms of depression and anxiety by roughly as much as conventional treatments. There are important caveats. Meta-analyses are only as good as the studies they include, and exercise trials are prone to being skewed. For one thing, participants cannot be blinded—they know if they are doing kettlebell swings or not—which makes their self-reported mood vulnerable to any favourable expectations they might have. For this and other reasons, the Cochrane review judged all the studies it included to be at “high risk” of bias. What’s more, the meta-meta-analysis did not include any studies that tested exercise against other interventions. The findings from the exercise trials were, instead, compared against those from separate trials of antidepressants or therapy. But unlike exercise studies, RCTs of antidepressants are typically well blinded and have strong placebo effects, making it harder for them to achieve similarly impressive results. “I don’t think it’s a fair comparison,” says Jonathan Roiser, a professor of neuroscience at University College London. All the same, most researchers are confident that exercise helps improve mood. Aerobic workouts, such as running, walking or cycling, seem to be particularly beneficial across the board. For depression, group-based or supervised exercise is more effective than sweating alone, and the benefits of exercise accrue over several months. For anxiety, the best results seem to come from lower-intensity activity. Why exercise works is less clear. The popular idea that exercise generates a “high” by causing the release of endorphins, a form of opioid, has little scientific support. A study published in 2021 found that blocking runners’ opioid receptors reduced neither the euphoria they reported after a session nor the drop in anxiety. Researchers instead think that endocannabinoids—chemicals produced by the body and brain that activate the same receptors as the active molecules in cannabis—might be responsible for these short-term boosts. Other pathways are also being triggered. Exercise seems to reduce inflammation and improve brain plasticity, as well as increasing the transmission of dopamine in the brain. Dopamine is involved in the process of weighing effort against reward and so increasing transmission may help reverse the loss of motivation associated with depression. There are purely psychological benefits, too: exercise can provide people with a sense of achievement, agency and eventually mastery, all of which are known to lift mood. Plenty of reasons, then, to work up a sweat. ■ After a free, evidence-based guide to health and wellness? Sign up to our weekly Well Informed newsletter . This article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/04/24/is-exercise-as-effective-as-treatments-for-depression-and-anxiety",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "For those in the doldrums, few things are more ___ than being told to exercise.",
+          "options": {
+            "A": "surprising",
+            "B": "enjoyable",
+            "C": "tiresome",
+            "D": "inspiring"
+          },
+          "answer": "C",
+          "explanation": "根据上下文，处于消极情绪中的人听到被要求运动会感到厌烦，符合tiresome的语义。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Study after study has found that exercise ___ mood and reduces anxiety.",
+          "options": {
+            "A": "obscures",
+            "B": "boosts",
+            "C": "damages",
+            "D": "evaluates"
+          },
+          "answer": "B",
+          "explanation": "根据语境，研究发现运动能提升情绪，boosts符合文意。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Two large analyses... suggesting it works about as ___ as therapy or antidepressants.",
+          "options": {
+            "A": "well",
+            "B": "differently",
+            "C": "slowly",
+            "D": "frequently"
+          },
+          "answer": "A",
+          "explanation": "文章主旨是比较运动与治疗手段的疗效，works as well as表示效果一样好。"
+        },
+        {
+          "q_number": 4,
+          "stem": "It ___ the results of 69 randomised controlled trials (RCTs) conducted to measure the effects of exercise.",
+          "options": {
+            "A": "rejected",
+            "B": "pooled",
+            "C": "avoided",
+            "D": "ignored"
+          },
+          "answer": "B",
+          "explanation": "Meta-analysis的操作是将多个研究的结果汇总（pooled）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The second paper... was a so-called meta-meta-analysis. It ___ on more than 1,000 trials.",
+          "options": {
+            "A": "gave",
+            "B": "insisted",
+            "C": "drew",
+            "D": "depended"
+          },
+          "answer": "C",
+          "explanation": "draw on表示利用或借鉴某种资源或数据。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Both concluded that exercise reduces symptoms of depression and anxiety by ___ as much as conventional treatments.",
+          "options": {
+            "A": "hardly",
+            "B": "roughly",
+            "C": "partially",
+            "D": "exclusively"
+          },
+          "answer": "B",
+          "explanation": "根据前文的比较，结论是“大致”相当，roughly符合语境。"
+        },
+        {
+          "q_number": 7,
+          "stem": "There are important ___ to consider when interpreting these results.",
+          "options": {
+            "A": "assumptions",
+            "B": "arguments",
+            "C": "inferences",
+            "D": "caveats"
+          },
+          "answer": "D",
+          "explanation": "Caveats指需要注意的限制条件或警告。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Meta-analyses are only as good as the studies they include, and exercise trials are ___ to being skewed.",
+          "options": {
+            "A": "committed",
+            "B": "accustomed",
+            "C": "opposed",
+            "D": "prone"
+          },
+          "answer": "D",
+          "explanation": "prone to指易于发生某种情况，符合文意中提到的实验偏差。"
+        },
+        {
+          "q_number": 9,
+          "stem": "For one thing, participants cannot be blinded—they know if they are doing kettlebell swings or not—which makes their self-reported mood ___ to any favourable expectations.",
+          "options": {
+            "A": "immune",
+            "B": "vulnerable",
+            "C": "resistant",
+            "D": "indifferent"
+          },
+          "answer": "B",
+          "explanation": "无法盲测使得结果容易受到主观期望的影响，即vulnerable（易受伤害或影响）。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The Cochrane review judged all the studies it included to be at “high risk” of ___.",
+          "options": {
+            "A": "certainty",
+            "B": "precision",
+            "C": "bias",
+            "D": "stability"
+          },
+          "answer": "C",
+          "explanation": "医学实验中由于无法盲测，通常被认为存在高风险的偏见（bias）。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The findings from the exercise trials were, ___, compared against those from separate trials of antidepressants.",
+          "options": {
+            "A": "furthermore",
+            "B": "similarly",
+            "C": "instead",
+            "D": "meanwhile"
+          },
+          "answer": "C",
+          "explanation": "表示逻辑转折，这里指并非直接对比，而是“反之/而是”对比。"
+        },
+        {
+          "q_number": 12,
+          "stem": "But unlike exercise studies, RCTs of antidepressants are typically well blinded and have strong placebo effects, making it harder for them to achieve similarly ___ results.",
+          "options": {
+            "A": "impressive",
+            "B": "negative",
+            "C": "unstable",
+            "D": "minor"
+          },
+          "answer": "A",
+          "explanation": "对比实验中，另一方难以达到同样好的（impressive）效果。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Aerobic workouts... seem to be particularly beneficial across the ___.",
+          "options": {
+            "A": "board",
+            "B": "limit",
+            "C": "spectrum",
+            "D": "range"
+          },
+          "answer": "A",
+          "explanation": "across the board意为“全面地，在各方面”。"
+        },
+        {
+          "q_number": 14,
+          "stem": "For depression, group-based or supervised exercise is more effective than sweating ___.",
+          "options": {
+            "A": "regularly",
+            "B": "together",
+            "C": "inside",
+            "D": "alone"
+          },
+          "answer": "D",
+          "explanation": "与团体运动对比，独自（alone）运动效果稍差。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The benefits of exercise ___ over several months.",
+          "options": {
+            "A": "accrue",
+            "B": "decline",
+            "C": "collapse",
+            "D": "fluctuate"
+          },
+          "answer": "A",
+          "explanation": "accrue指积累或增加，符合文中长期运动带来的好处。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Why exercise works is less clear. The popular idea... has little scientific ___.",
+          "options": {
+            "A": "approval",
+            "B": "objection",
+            "C": "support",
+            "D": "discovery"
+          },
+          "answer": "C",
+          "explanation": "指某些理论缺乏科学证据的支持（support）。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Researchers instead think that endocannabinoids... might be responsible for these short-term ___.",
+          "options": {
+            "A": "deficits",
+            "B": "reactions",
+            "C": "obstacles",
+            "D": "boosts"
+          },
+          "answer": "D",
+          "explanation": "指运动对情绪的短期提升（boosts）。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Exercise seems to reduce inflammation and improve brain ___, as well as increasing the transmission of dopamine.",
+          "options": {
+            "A": "density",
+            "B": "plasticity",
+            "C": "fatigue",
+            "D": "chemistry"
+          },
+          "answer": "B",
+          "explanation": "brain plasticity（大脑可塑性）是神经科学中的常用概念。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Dopamine is involved in the process of weighing effort against reward and so increasing transmission may help reverse the loss of ___ associated with depression.",
+          "options": {
+            "A": "motivation",
+            "B": "balance",
+            "C": "weight",
+            "D": "attention"
+          },
+          "answer": "A",
+          "explanation": "抑郁症常伴随动力缺失，逆转该过程有助于缓解抑郁。"
+        },
+        {
+          "q_number": 20,
+          "stem": "There are purely psychological benefits, too: exercise can provide people with a sense of achievement, agency and eventually ___.",
+          "options": {
+            "A": "failure",
+            "B": "anxiety",
+            "C": "boredom",
+            "D": "mastery"
+          },
+          "answer": "D",
+          "explanation": "Mastery（掌控感）是心理学中运动带来的积极影响。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "05.26.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary objective of the trilateral meeting held in New Delhi, according to the joint statement?",
+          "options": {
+            "A": "To form an exclusive military alliance against Western influence.",
+            "B": "To discuss regional security and strengthen the outcomes of BRICS and the SCO.",
+            "C": "To re-evaluate the diplomatic ties between China and India individually.",
+            "D": "To finalize trade agreements specifically for the East Asia Summit members."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到三方会晤旨在讨论地区安全及经济架构，并承诺加强金砖国家（BRICS）和上海合作组织（SCO）的合作成果。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following phrases best characterizes the 'regional security and economic architecture' mentioned in the text?",
+          "options": {
+            "A": "Isolationist and protectionist in nature.",
+            "B": "Driven solely by bilateral security concerns.",
+            "C": "Open, inclusive, and based on multilateralism.",
+            "D": "Restricted to the interests of the three participant nations."
+          },
+          "answer": "C",
+          "explanation": "文中明确引用了该架构的特点为“open, inclusive and based on multilateralism and universally recognized principles of international law”，故选C。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How do the three countries view their trilateral cooperation regarding other nations?",
+          "options": {
+            "A": "It is intended to challenge the dominance of global superpowers.",
+            "B": "It is a counter-measure against specific neighboring countries.",
+            "C": "It is not aimed at opposing any other country.",
+            "D": "It serves as a secretive pact to protect national interests exclusively."
+          },
+          "answer": "C",
+          "explanation": "文章提到“such cooperation is not directed against any other country”，即这种合作并不针对任何其他国家。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the significance of the Shanghai Cooperation Organization (SCO) as described in the text?",
+          "options": {
+            "A": "It is a tool for fostering multilateral interaction in various fields.",
+            "B": "It replaces the BRICS cooperation mechanism.",
+            "C": "It focuses primarily on cultural exchanges rather than political ones.",
+            "D": "It acts as the sole regulator of economic growth in the Asia-Pacific."
+          },
+          "answer": "A",
+          "explanation": "文中指出上合组织是促进该地区政治、安全、经济及人文交流的重要工具（instrument），故选A。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the implied purpose of the trilateral dialogue for the three countries?",
+          "options": {
+            "A": "To create a competitive economic zone that limits global growth.",
+            "B": "To resolve border disputes that hinder development.",
+            "C": "To enhance consultation on global and regional issues based on mutual trust.",
+            "D": "To impose new international laws upon regional forums."
+          },
+          "answer": "C",
+          "explanation": "文中提到三方愿以“mutual understanding and trust”的精神，加强对共同利益议题的磋商与协调，即C选项的改写。"
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "04.27.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 7.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary purpose of the 15th China-Russia-India trilateral meeting according to the passage?",
+          "options": {
+            "A": "To establish a new military alliance in the Asia-Pacific region.",
+            "B": "To challenge the existing global economic structure led by Western nations.",
+            "C": "To discuss regional issues and strengthen cooperation within platforms like BRICS and the SCO.",
+            "D": "To resolve specific territorial disputes among the three participating nations."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到三国外长讨论了一系列全球和区域问题，并承诺实施和加强金砖国家（BRICS）和上海合作组织（SCO）的成果。选项C准确概括了会议的主要目的。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following phrases best describes the 'regional security and economic architecture' supported by the three countries?",
+          "options": {
+            "A": "Exclusive, restrictive, and power-driven.",
+            "B": "Open, inclusive, and based on multilateralism.",
+            "C": "Completely independent of international law.",
+            "D": "Centered primarily on unilateral economic growth."
+          },
+          "answer": "B",
+          "explanation": "文章第二段明确指出，三国主张的区域安全和经济架构是“open, inclusive and based on multilateralism and universally recognized principles of international law”，故选B。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the statement imply about the nature of the trilateral cooperation between China, Russia, and India?",
+          "options": {
+            "A": "It is designed to counter the influence of specific external powers.",
+            "B": "It is intended to replace existing global governance institutions.",
+            "C": "It is not aimed against any third party.",
+            "D": "It is primarily focused on internal military integration."
+          },
+          "answer": "C",
+          "explanation": "文章倒数第二段明确提到，联合声明指出这种合作“is not directed against any other country”，这表明该合作并非针对任何第三方。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the significance of the Ninth BRICS Summit mentioned in the text?",
+          "options": {
+            "A": "It marked the end of the first decade of BRICS cooperation.",
+            "B": "It was hosted successfully by China in Xiamen.",
+            "C": "It finalized the entry of new members into the SCO.",
+            "D": "It established a new global security protocol."
+          },
+          "answer": "B",
+          "explanation": "文章提到“commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September”，这直接支持了选项B。"
+        },
+        {
+          "q_number": 5,
+          "stem": "According to the joint statement, what role does the Shanghai Cooperation Organization (SCO) play?",
+          "options": {
+            "A": "It serves as a primary tool for promoting multilateral interaction in the region.",
+            "B": "It acts as a substitute for bilateral diplomatic relations.",
+            "C": "It is solely focused on economic trade and investment.",
+            "D": "It is an instrument designed to limit regional political transparency."
+          },
+          "answer": "A",
+          "explanation": "文章提到三国赋予上合组织特殊重要性，称其为“an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region”，因此A项正确。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 17",
+      "article_update_date": "09.03.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | Previous | Marlon James Returns to Realism, and to Jamaica In his new novel, gay men struggle to escape violence in Kingston. by Stephanie Burt The Jamaican writer Marlon James won international fame with A Brief History of Seven Killings , which was awarded the Booker Prize in 2015. That title misled—the book describes dozens of killings, not just seven, and it is by no means brief—but its premise delivered. The 700-page novel, his third, revisits the Jamaican election of 1976 and the assassination attempt on Bob Marley that year; the gang truce of 1978; and the violence that preceded and followed, first in Kingston, then in New York City during the 1980s and early 1990s. Lots of Americans, myself included, learned some pivotal Jamaican history and some Jamaican English and patois from its many troubled narrators. Most of those narrators seek political power, bloody revenge, wealth, or journalistic glory. The sole woman in the array—the only consistently sympathetic narrator—wants instead to disappear: “Shut everybody out. Shut everybody down. Just go.” She even pores over How to Disappear Completely and Never Be Found (it’s a real book). “Whether on a plane or in a box,” she muses, “I was going to leave this place.” James, who grew up in Kingston and now splits his time between New York City and Minneapolis, has said the same about himself: “Whether it was in a plane or in a coffin, I knew I had to get out of Jamaica.” The Disappearers , James’s new novel, shows why. Brief History studies men who want to rise, to dominate, to become stars ; this one focuses on men who try not to be seen. It’s James’s most clearly autobiographical work. Of its five main narrators, two share his age, background, and interests, and one of those misses out on the worst of Jamaica’s violence and ends up, as James has, in a stable job with an advanced degree. It’s also James’s first realist novel since Brief History— he published two long works of complex, bloody, mythological fantasy in between. This time, he writes about Jamaican men who have sex with men (only some would call themselves gay). Eight of them assemble in a Kingston home in 1988 for rehearsals of the Canadian playwright John Herbert ’s 1967 prison drama, Fortune and Men’s Eyes , under the direction of Havelock, a confident, queeny émigré who’s returned from England. Speaking in Jamaican English, as most of the characters do, he explains that it’s “a gay play about men loving and sexing and rule over other men.” None of the men who gather at the house on Lady Musgrave Road is a professional actor. All responded to flyers or heard about the play through word of mouth, and the five central narrators take turns admitting us into their minds. Eddy, a bookish university student and one of the James-like pair, combines his literary interests with a craving for porn; his passion for indie rock and X-Men comics alienates him further from his peers. Jordan, who lives in his car and hustles to survive, becomes almost a doppelgänger for Eddy: He likes comics and alternative rock too, and reads the same sort of literary books as Eddy. The group also includes a mysterious half-Chinese businessman whom Eddy can’t help finding hot; wealthy Omar, who funds the rehearsals; and three other actors. All discover, during and after rehearsals, some imaginative refuge—a space for people who, as Eddy puts it, “can’t leave but can’t stay.” They chat and flirt and grumble about what parts they’re assigned. One actor objects to playing a drag queen. Men feel they have to protect their manhood, even in this private space. Then the violence descends. A posse of men finds the house and beats almost everyone bloody or worse, using blackjacks, nunchucks, knives, fists, a crowbar, a cricket bat. James depicts the aggressors’ thoughts in a short Faulknerian fugue. At least one of the attackers is closeted: “Kill it in them, kill it in me.” Two are cops. Another’s a reggae star whose big hit “Batty Is Not Pussy” advocates killing gay men. ( Batty is Jamaican slang for “rear end,” and battyman is an insulting term for gay men.) James’s made-up star recalls the real musician Buju Banton, whose breakout track, “Boom Bye Bye”— which he’s since repudiated —also extols gay-bashing and murder. The mayhem leaves one actor dead, another blinded, and the rest hoping to rebuild, or more likely flee, their prior lives. From the November 2019 issue: Stephanie Burt on three books exploring the variety of transgender experiences The remainder of the novel follows the survivors as Jordan and Eddy attempt, separately and together, to track down those among them who have gone missing. Parts of interlocking stories unfold in the narrators’ divergent voices. Havelock writes delightfully ornate letters to his former lover in England. Jordan and Eddy relate their own travails through recorded interviews with a journalist named Petra, but also describe, in the first person, their days and years. Jordan ends up with the most eventful character arc, ultimately tracking down perpetrators too: He wants them to pay, or at least not to disappear. B rief History looks at power in a place of violence and examines what secrets it hides. Now James has written a book about people whose whole lives feel like secrets. And he has a thesis: Those who grow up learning that they are bad and do not deserve to exist—people who might get raped, maimed, or murdered for trying to be themselves—almost inevitably organize their life around attempts to disappear, escape, or else retreat to the margins, becoming (like Eddy) figures who observe others, themselves unseen, or (like Jordan) agents of vengeance who stick to the shadows. “There is a Jamaica underneath this Jamaica,” Jordan tells Eddy, whose more sheltered and luckier life means he might not know. It’s a metaphor, except when it’s not; the drag queens, trans women, and unhoused youth who live in Kingston’s gullies, below street level, have made it literal, as Eddy and Jordan, in flight from another mob later in the story, show us. James makes the gully dwellers and their fragile world a compelling side story, intent on presenting a panorama of Kingston’s gay life, from those who occupy the economic heights (also literal hills) down to “all of them queens and freaks and fishboys and battymen” who “cannot and will not pass.” The survivors of Lady Musgrave Road flee to totally closeted respectability, “a safe place filled with disappointment,” where several remain for years; or else to opportunities off the island, or religious rebirth, or a near-invisible secluded life “at the top of a mountain.” We might see the whole novel as an attempt to create a stage, a space, where gay Jamaican men can honestly and fully appear, at least in retrospect. Like Brief History , The Disappearers offers a big, modernist assemblage of contrasting styles, personas, and points of view. It, too, is a work of classic realism, touring the social layers in a changing Kingston as its characters earn and lose money, rise and fall. But unlike Brief History , which includes gay characters but mostly isn’t about them, The Disappearers also belongs with those earlier chronicles of gay America that Jordan and Eddy name-check, especially John Rechy’s The Sexual Outlaw . And so it’s full of gay sex: ecstatic, conflicted, reluctant, a desperate secret or an open secret. James acknowledges occasions of sweet, mutual, that’s-how-it-should-be sex—but those happen largely offstage. Most of the on-page couplings instead mix, alarmingly, sex with violence. Some people seek humiliation; some want to inflict it. Some get hurt by their tricks. James manages not to kink-shame anyone, but he’s less interested in kink education than in displaying a sexual world where every hookup comes with scary risks: assault and battery, for example, or public exposure, or HIV in the age before retrovirals. Living in fear of “the AIDS” entails its own “long set of disappearing acts”—not just sickness and death, but shame and denial and an inability to mourn. Those risks do not keep most of James’s survivors from pursuing, or becoming, hookups and rent boys and hate-fucks, with and without proper lube and enemas, which the novel—appropriately, even necessarily—describes: Responsible writing about anal sex has to mention those things, and James does. He wants to bring his gay men’s sex lives into the light. The men, however, keep trying to “erase themselves,” learning how to “make yourself into the kind of person nobody wants to see.” Early on, Eddy claims, “I don’t think about it a lot,” and yet he’s never unaware of being “part of an us that people just want to beat to death.” Or bury alive. The novel opens up many pleasures for literary readers, in its pacing, in its observations, and especially in the ventriloquism of Havelock’s old-school prose (he even writes one letter in the obsolescent gay slang Polari). But it’s not, mostly, a book about pleasure: These lives are often—realistically—scary or sad. We should not label them tragedies, though, because that implies a controlling divinity, or at least a fixed fate. As Havelock insists, “We need to stop calling atrocities tragic.” The Disappearers is, among other things, one novel responding to many atrocities. When you grow up surrounded by people who hate you for what you are and whom you love, it’s tough to disentangle their hate from self-hate, and either one from a wish to die. And it’s not just the cast from Lady Musgrave Road that conflates self-destruction with self-fashioning, death with destiny. So does the music of Kurt Cobain, the most important among the cultural touchstones that give Jordan and Eddy alternatives to Kingston. They listen to Nirvana, and to the rock bands that Cobain recommended—“music that people who hate me don’t like,” Jordan says—more than to “Peter Metro and Admiral Bailey” and other hitmakers from the island. Stephanie Burt: A strange time to be trans Major characters also find allies in older gay novels, like Rechy’s, and in comic books. “Come to think of it, my life is exactly like X-Men . I served a world, in this case the world of cool boys,” Eddy decides early on, “only to have those same boys abuse and brutalize me.” The heroic mutants of Marvel Comics—Nightcrawler, who looks like a devil; Storm, whom one gully queen resembles; and the rest—promise one way to survive the Kingston experience, even though, in the particular issue of X-Men that Eddy covets, the X-Men literally disappear. Renaissance writings—Shakespeare’s sonnets and King Lear , Christopher Marlowe’s Edward II —give James additional scaffolding for his stories about attachment and found family, literal torture and tortured love. The strongest subplot links the fate of Eddy’s half-Chinese crush back to the sonnets, as well as to Herbert’s play. The weakest subplot turns Jordan into an obsessive, predictable avenger, less like one of the X-Men than like a Jamaican Joker, with a twist that’s no twist at all if you’ve seen horror films. Yet up to that obvious final act, the Eddy-and-Jordan pairing works elegantly, showing two sides of the same damaged face. Still, any reader will feel for Jordan when he exclaims, late in the novel, “My ghost suffering makes me want to scream.” He means both that, compared with people dying of AIDS, he isn’t genuinely suffering (though he is), and that he feels like a disembodied outcast, a kind of ghost. The Disappearers ends up as a violence-driven protest, a scream of rage—like Nirvana’s final album—against a world that keeps trying to kill people like him and then pretends that they asked for it, or that they never existed. The novel is a superbly fashioned instrument for showing what felt wrong, what went wrong, in Jamaica in the late 1980s and ’90s, and what’s still wrong in other places, too, where people who grow up marginalized",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, how does The Disappearers differ from Marlon James's previous novel, A Brief History of Seven Killings?",
+          "options": {
+            "A": "The Disappearers focuses on the desire for political power and wealth rather than survival.",
+            "B": "The Disappearers is a mythological fantasy, while the earlier work was purely realist.",
+            "C": "The Disappearers centers on characters who attempt to remain unseen rather than rise to prominence.",
+            "D": "The Disappearers is brief in length and excludes the portrayal of violence."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到，Brief History关注的是那些想要崛起和获得权力的男性，而The Disappearers则关注那些试图不被看见的男性。因此C项符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the primary significance of the gathering at the house on Lady Musgrave Road?",
+          "options": {
+            "A": "It serves as a professional training ground for aspiring Jamaican actors.",
+            "B": "It provides a refuge for gay men to explore their identity and form a community.",
+            "C": "It is a political meeting point for those plotting to overthrow the government.",
+            "D": "It acts as a public stage designed to challenge traditional social norms in Kingston."
+          },
+          "answer": "B",
+          "explanation": "文中指出，参与者在排练戏剧的过程中找到了一个“想象的避难所”（imaginative refuge），这里是一个空间，让那些“无法离开但也无法留下”的人聚集在一起，通过这种方式探讨他们对自己身份的认知。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author mentions the violence inflicted on the men at the house to illustrate that:",
+          "options": {
+            "A": "The aggressors were strictly motivated by religious dogma.",
+            "B": "The victims were unprepared for the dangers of their environment.",
+            "C": "Violence was an inevitable consequence of the society's intolerance toward them.",
+            "D": "The attack was an isolated incident orchestrated by a single political rival."
+          },
+          "answer": "C",
+          "explanation": "文章描述了暴力袭击者对同性恋者的憎恶（如歌曲、言论及实际攻击），并强调这些男性生活在一个由于身份而受到边缘化和生命威胁的环境中，这反映了社会对他们的不容忍。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase “There is a Jamaica underneath this Jamaica” imply about the setting of the novel?",
+          "options": {
+            "A": "Kingston is physically built on a series of underground tunnels and catacombs.",
+            "B": "The elite class is systematically oppressed by those living in the gullies.",
+            "C": "There exists a marginalized, hidden society that remains invisible to the mainstream.",
+            "D": "The government is secretly supporting the LGBTQ+ movement from behind the scenes."
+          },
+          "answer": "C",
+          "explanation": "这句话是Jordan对Eddy说的，文中紧接着提到这不仅是一个隐喻，还指代了那些生活在贫民窟（gullies）里的边缘群体，他们被排斥在主流社会之外，处于社会的最底层。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's overall purpose in discussing James's use of literary and pop-cultural references?",
+          "options": {
+            "A": "To suggest that the characters lack original thoughts and rely on others' ideas.",
+            "B": "To explain how the characters navigate their suffering and search for identity.",
+            "C": "To demonstrate that the novel is merely an imitation of Western literary classics.",
+            "D": "To argue that music and comics are more influential than real-life experiences."
+          },
+          "answer": "B",
+          "explanation": "文中提到X-Men、摇滚音乐及文艺复兴文学，旨在说明这些文化符号为角色们提供了生存的参考框架，帮助他们应对痛苦并构筑身份，使他们能从边缘化生存中找到某种意义。"
+        }
+      ]
+    }
+  ]
+}
