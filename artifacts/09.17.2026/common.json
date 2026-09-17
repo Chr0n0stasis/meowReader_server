@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.17.2026",
+  "papers": [
+    {
+      "title": "Did kraken-like octopuses rule Cretaceous seas? Massive jaw fossils offer clues",
+      "article_update_date": "04.23.2026",
+      "source_journal": "Nature",
+      "body_text": "Artist’s impression of an extinct Nanaimoteuthis species, often called krakens, which could have rivalled large marine reptiles in terms of size.Credit: Masato Hattori/Science Photo Library In the age of the dinosaurs, while Tyrannosaurus rex terrorized the land, gargantuan octopuses might have been among the top predators in the sea. Scientists have identified extinct octopuses — sometimes named krakens after the mythological monsters — that might have grown to nearly 19 metres in length. The estimate is based on fossilized jaws, which the researchers say show patterns of wear that came from devouring animals that had hard shells and skeletons. Their study, published on 23 April in Science1, challenges the idea that giant marine reptiles such as mosasaurs and other vertebrates exclusively dominated marine ecosystems in the Cretaceous period 143 million to 66 million years ago. But other scientists say the largest size estimates of the octopuses — around the length of an articulated lorry — and any firm conclusion about their role in ecosystems should be taken with a pinch of salt. Deep-sea denizens ‘Krakens’ have been identified from chitinous jaw fossils from the late Cretaceous . But their size range, diet and role in ecosystems were unclear, says study co-author Yasuhiro Iba, a palaeontologist at Hokkaido University in Japan. To plug such gaps, Iba, together with Hokkaido palaeontologist Shin Ikegami and their colleagues, reanalysed 15 large fossil octopus jaws. They also identified 12 new kraken fossils through an analysis of carbonate rock layers assisted by artificial intelligence, an approach Iba’s team used to discover an explosion in squid diversity 100 million years ago2. The analysis grouped the krakens into two species: Nanaimoteuthis jeletzkyi and N. haggarti, and discovered that they belong to the same evolutionary group as modern dumbo octopuses (Grimpoteuthis species). On the basis of the anatomy of modern octopuses, the researchers estimate that the krakens’ mantles — the main, bag-like parts of their bodies — would have been between 67 and 443 centimetres long. Including the tentacles, N. jeletzkyi could have grown to between 2.8 and 7.7 metres in length, and N. haggarti from 6.6 metres to a whopping 18.6 metres. “Some people will doubt that it really grew to 19 metres. I’m pretty sure about that,” says Christian Klug, a palaeobiologist at the University of Zurich in Switzerland, who was not involved in the research. The relationship between the mantle and tentacles of modern cephalopods is highly variable, so the lower or middle bounds of the size estimates could be more likely.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "In the age of the dinosaurs, while Tyrannosaurus rex ________ the land, gargantuan octopuses might have been among the top predators in the sea.",
+          "options": {
+            "A": "dominated",
+            "B": "inhabited",
+            "C": "terrorized",
+            "D": "traversed"
+          },
+          "answer": "C",
+          "explanation": "原文提到T. rex在陆地上terrorized，对应词义选择。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Scientists have identified extinct octopuses — sometimes named krakens after the mythological monsters — that might have grown to ________ 19 metres in length.",
+          "options": {
+            "A": "fully",
+            "B": "exactly",
+            "C": "nearly",
+            "D": "potentially"
+          },
+          "answer": "C",
+          "explanation": "Nearly指接近，符合文中nearly 19 metres的语境。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The estimate is based on fossilized jaws, which the researchers say show patterns of wear that came from ________ animals that had hard shells and skeletons.",
+          "options": {
+            "A": "devouring",
+            "B": "chasing",
+            "C": "identifying",
+            "D": "observing"
+          },
+          "answer": "A",
+          "explanation": "Devouring意为吞食，符合生物进食行为。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Their study, published on 23 April in Science, ________ the idea that giant marine reptiles such as mosasaurs exclusively dominated marine ecosystems.",
+          "options": {
+            "A": "supports",
+            "B": "reinforces",
+            "C": "clarifies",
+            "D": "challenges"
+          },
+          "answer": "D",
+          "explanation": "研究结果反驳了原有观点，故选challenges。"
+        },
+        {
+          "q_number": 5,
+          "stem": "But other scientists say the largest size estimates of the octopuses should be taken with a ________ of salt.",
+          "options": {
+            "A": "grain",
+            "B": "pinch",
+            "C": "piece",
+            "D": "sliver"
+          },
+          "answer": "B",
+          "explanation": "固定搭配take with a pinch of salt，意为持保留态度。"
+        },
+        {
+          "q_number": 6,
+          "stem": "But their size range, diet and role in ecosystems were ________, says study co-author Yasuhiro Iba.",
+          "options": {
+            "A": "established",
+            "B": "obvious",
+            "C": "debated",
+            "D": "unclear"
+          },
+          "answer": "D",
+          "explanation": "根据上下文，之前研究存在空缺，故选unclear。"
+        },
+        {
+          "q_number": 7,
+          "stem": "To ________ such gaps, Iba, together with his colleagues, reanalysed 15 large fossil octopus jaws.",
+          "options": {
+            "A": "plug",
+            "B": "bridge",
+            "C": "fill",
+            "D": "cover"
+          },
+          "answer": "A",
+          "explanation": "原文搭配为plug such gaps，意为填补空缺。"
+        },
+        {
+          "q_number": 8,
+          "stem": "They also identified 12 new kraken fossils through an analysis of carbonate rock layers ________ by artificial intelligence.",
+          "options": {
+            "A": "assisted",
+            "B": "promoted",
+            "C": "facilitated",
+            "D": "supported"
+          },
+          "answer": "A",
+          "explanation": "Assisted by AI为原文表达方式，指技术辅助分析。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The analysis discovered that they ________ to the same evolutionary group as modern dumbo octopuses.",
+          "options": {
+            "A": "adhere",
+            "B": "belong",
+            "C": "connect",
+            "D": "relate"
+          },
+          "answer": "B",
+          "explanation": "Belong to为所属关系的正确搭配。"
+        },
+        {
+          "q_number": 10,
+          "stem": "On the basis of the anatomy of modern octopuses, the researchers estimate that the krakens’ ________ — the main, bag-like parts of their bodies — would have been large.",
+          "options": {
+            "A": "mantles",
+            "B": "skeletons",
+            "C": "jaws",
+            "D": "tentacles"
+          },
+          "answer": "B",
+          "explanation": "语义与结构逻辑，指代长难句中的mantles。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Including the tentacles, N. haggarti could have grown to a ________ 18.6 metres.",
+          "options": {
+            "A": "substantial",
+            "B": "negligible",
+            "C": "considerable",
+            "D": "whopping"
+          },
+          "answer": "D",
+          "explanation": "Whopping强调体型巨大，符合语境。"
+        },
+        {
+          "q_number": 12,
+          "stem": "“Some people will ________ that it really grew to 19 metres. I’m pretty sure about that,” says Christian Klug.",
+          "options": {
+            "A": "doubt",
+            "B": "confirm",
+            "C": "verify",
+            "D": "accept"
+          },
+          "answer": "A",
+          "explanation": "后文提到确信，故前半句应为怀疑，即doubt。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The relationship between the mantle and tentacles of modern cephalopods is highly ________.",
+          "options": {
+            "A": "stable",
+            "B": "fixed",
+            "C": "consistent",
+            "D": "variable"
+          },
+          "answer": "D",
+          "explanation": "Variable表示多变的，解释了为何推算可能存在误差。"
+        },
+        {
+          "q_number": 14,
+          "stem": "So the lower or middle bounds of the size estimates could be more ________.",
+          "options": {
+            "A": "accurate",
+            "B": "likely",
+            "C": "unreliable",
+            "D": "precise"
+          },
+          "answer": "B",
+          "explanation": "More likely表示更具可能性。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The researchers suggest that their findings add a new layer to our ________ of the Cretaceous period.",
+          "options": {
+            "A": "understanding",
+            "B": "investigation",
+            "C": "exploration",
+            "D": "interpretation"
+          },
+          "answer": "B",
+          "explanation": "考查对历史时期认知理解的深度补充。"
+        },
+        {
+          "q_number": 16,
+          "stem": "These giant octopuses, once thought to be mythical, are now ________ as real biological entities.",
+          "options": {
+            "A": "ignored",
+            "B": "dismissed",
+            "C": "regarded",
+            "D": "accepted"
+          },
+          "answer": "C",
+          "explanation": "Regarded as...被认为是。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The study highlights how ________ data can reshape our perspective on ancient life.",
+          "options": {
+            "A": "new",
+            "B": "insufficient",
+            "C": "paleontological",
+            "D": "complex"
+          },
+          "answer": "C",
+          "explanation": "古生物学数据对重塑古代生命视角至关重要。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The integration of AI technology has proved to be a ________ tool for palaeontologists.",
+          "options": {
+            "A": "trivial",
+            "B": "marginal",
+            "C": "secondary",
+            "D": "powerful"
+          },
+          "answer": "A",
+          "explanation": "Powerful体现工具的重要性。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Despite the size estimates, the exact behavior of these creatures remains ________.",
+          "options": {
+            "A": "apparent",
+            "B": "plain",
+            "C": "evident",
+            "D": "mysterious"
+          },
+          "answer": "D",
+          "explanation": "仍属神秘范畴，故用mysterious。"
+        },
+        {
+          "q_number": 20,
+          "stem": "This finding invites future research to further ________ the mystery of the Cretaceous oceans.",
+          "options": {
+            "A": "expose",
+            "B": "reveal",
+            "C": "unravel",
+            "D": "conceal"
+          },
+          "answer": "C",
+          "explanation": "Unravel the mystery为地道搭配。"
+        }
+      ]
+    },
+    {
+      "title": "Cities are rethinking what happens after dark",
+      "article_update_date": "07.21.2026",
+      "source_journal": "Economist",
+      "body_text": "Cities are rethinking what happens after dark United States | The night shift Cities are rethinking what happens after dark Making it easier to party is becoming serious public policy July 16th 2026 THE JOB OF nightlife czar sounds almost hedonistic. Then Corean Reynolds explains what it entails. Officially Boston’s director of the nightlife economy, Ms Reynolds can sometimes be found standing outside a bar at 2am, watching how staff manage crowds spilling into the street. When residents complain about noise, she may be nearby with a decibel meter, with a plan not to kill the buzz but measure it. “I’m like, hey, actually it didn’t seem that loud,” she says she tells them. Her task is, essentially, to help more people have fun without making nearby residents miserable. She is the first person to hold the job in Boston and one of a rising number of officials across the country tasked with livening up life after dark. For decades cities were interested mainly in enforcing strict rules, some dating to Prohibition, on pubs, music venues and dance halls. Now roughly a dozen American municipalities, from Iowa City to Philadelphia, have an official responsible for promoting the nightlife economy. This evolution in thinking can be seen in New York. A measure known as the Cabaret Law, which required venues to obtain special licences before allowing more than three people to dance, was introduced in 1926. In the 1990s Rudy Giuliani, then the city’s mayor, revived the law as part of his administration’s “Broken Windows” strategy, an approach to policing that sought to deter serious crime by cracking down on minor offences. The law was finally repealed in 2017, and the city’s first nightlife mayor, Ariel Palitz, was appointed to her post the year after. Her office set up mediation services to help residents and business owners resolve noise complaints (Ms Palitz cautions that the correct term is “sound—not noise”). The prior system was “purely punitive”, she says, with each complaint automatically dispatching police. Her office also assisted bars, clubs and restaurants navigate permits and city bureaucracy. But enacting change has been arduous. Until May applicants for liquor licences in New York City still had to notify state officials if they wanted to allow dancing. For officials like Ms Reynolds, the biggest limits to her agenda remain red tape surrounding liquor licences, zoning and permitting. Boston is one of many cities that caps the number of liquor licences well below market demand. But in 2024, after Ms Reynolds pushed for change, the city created 225 new licences. According to the local government, it was “the single largest addition to Boston’s liquor licence quota since the end of Prohibition”. Other cities are experimenting with new approaches that, if successful, could spread. San Francisco has created entertainment zones where patrons may consume alcohol on streets and sidewalks. Boston and some neighbouring municipalities have done the same as part of the World Cup. The tournament has become an opportunity to test looser rules, with several host cities temporarily extending bar hours. Meanwhile Austin, Texas, known for its live music, has adopted a policy that protects venues from noise complaints by occupants of new residential buildings, putting the onus on developers to provide adequate soundproofing. Smaller cities are following suit. Syracuse, a college town of 145,000 in upstate New York, recently announced plans to hire a nightlife co-ordinator. A thriving after-dark scene, city officials hope, will keep young professionals from moving away. It may also create jobs not just in hospitality and entertainment, but in sanitation, transport and security, as well as generate more tax revenue. At a time when remote work has left downtown areas quieter, encouraging nightlife is one way to sustain commercial activity after office hours while giving people more reasons to gather in person. Nightlife czars have a different challenge now, too. Between 2003 and 2023 data from the Bureau of Labour Statistics’ American Time Use Survey shows that the average amount of time 18- to 30-year-olds spent socialising each day fell by 38%. Andreina Seijas, an international nightlife consultant, says her industry is now in a war against the couch. In Boston, Ms Reynolds’s mission to reclaim the night continues. Next on her to-do list is persuading the city’s public-transport operator to run later into the night. The job of a nightlife czar is not always fun, but hopefully the cities they oversee will be. ■ Stay on top of American politics with The US in brief, our daily newsletter with fast analysis of the most important political news, and Checks and Balance , a weekly note that examines the state of American democracy and the issues that matter to voters. This article was downloaded by zlibrary from https://www.economist.com//united-states/2026/07/14/cities-are-rethinking-what-happens-after-dark",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, the role of a 'nightlife czar' is primarily to:",
+          "options": {
+            "A": "Enforce historical regulations dating back to the Prohibition era.",
+            "B": "Balance the promotion of nightlife with the concerns of local residents.",
+            "C": "Crack down on minor offences to deter serious crime in city centres.",
+            "D": "Act as a mediator between police and owners of music venues."
+          },
+          "answer": "B",
+          "explanation": "文章中提到Corean Reynolds的任务是帮助人们娱乐，同时不让居民感到痛苦（make nearby residents miserable），并通过测量噪音而非直接禁止来解决问题，这体现了在夜生活繁荣与居民生活质量之间寻找平衡。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does the author mention the 'Cabaret Law' in the context of New York?",
+          "options": {
+            "A": "To demonstrate the evolution from punitive regulation to supportive management.",
+            "B": "To highlight how the 'Broken Windows' strategy successfully reduced crime.",
+            "C": "To illustrate the excessive bureaucracy that still plagues the city.",
+            "D": "To show how modern mayors have failed to reform outdated policies."
+          },
+          "answer": "A",
+          "explanation": "文章通过对比Rudy Giuliani时期“纯粹惩罚性”的法律，到现今夜生活市长设立调解服务、协助办理执照的转变，意在说明城市政策从严格限制向促进经济的转变。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is identified as a major obstacle to the agenda of officials like Ms. Reynolds?",
+          "options": {
+            "A": "A decline in the number of young people interested in socialising.",
+            "B": "The reluctance of developers to invest in soundproofing technology.",
+            "C": "Regulatory burdens associated with licensing, zoning, and permits.",
+            "D": "Insufficient tax revenue to support infrastructure in nightlife zones."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到：For officials like Ms Reynolds, the biggest limits to her agenda remain red tape surrounding liquor licences, zoning and permitting。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary motivation for smaller cities like Syracuse to develop a nightlife scene?",
+          "options": {
+            "A": "To compete with major metropolitan cities for global tourists.",
+            "B": "To test new strategies for managing public transport after midnight.",
+            "C": "To retain young professionals and stimulate local economic activity.",
+            "D": "To replace lost tax revenue from the decline of the remote work sector."
+          },
+          "answer": "C",
+          "explanation": "文中明确指出Syracuse希望通过繁荣的夜生活来防止年轻专业人才流失（keep young professionals from moving away），并创造就业机会和增加税收。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does Andreina Seijas imply by the phrase 'a war against the couch'?",
+          "options": {
+            "A": "Nightlife czars are struggling to compete with the appeal of staying at home.",
+            "B": "There is a conflict between residential zoning and commercial entertainment.",
+            "C": "The government is trying to regulate furniture and indoor leisure activities.",
+            "D": "Young people are increasingly choosing to work from home rather than socialise."
+          },
+          "answer": "A",
+          "explanation": "结合上文提到的18至30岁人群社交时间下降38%的数据，这里的“与沙发对抗”比喻夜生活产业需要面对年轻人更倾向于居家（待在沙发上）的趋势。"
+        }
+      ]
+    },
+    {
+      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+      "article_update_date": "08.24.2026",
+      "source_journal": "The Guardian",
+      "body_text": "An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week. The video, posted on Facebook and WhatsApp, ⁠showed large groups of people seated in a forested area surrounded by armed men. Several children could be heard crying in the background. Mass kidnappings for ransom have become common in ⁠parts of north-western and north-central Nigeria, where heavily armed gangs frequently raid villages, schools and highways and hold them until ​paid large sums of money. The violence was previously focused in the north of the country, but gunmen have ‌increasingly moved south. The video surfaced two days after the latest kidnapping, when gunmen ‌attacked worshippers at the mosque in Dekara village during Friday prayers, taking people away in what residents said were simultaneous raids on several communities. In the video, a gunman speaking in Hausa addressed families of the captives and urged them to identify relatives among the people in the footage. “These are all your people. We are showing you this video so that you can identify your family members, your fathers, mothers, children ‌and relatives,” the gunman said. Reuters could not verify the exact date or the location where the video was filmed. However, no older version of the video was found posted ​online before Sunday. Four residents said they were able to confirm the identities of some of those seized. “The people in the video are from Dekara. I’ve identified 13 people that I know,” Ibrahim Abubakar said. Another resident, Abdulmutallib Muqaddas Dindi, said those who appeared in the video had been seized during the prayers. “We have ⁠identified our elders, relatives, and some of us have seen their wives and children ​in the video,” he said. Police ​and state authorities did not respond ​to requests for comment on Monday. Police had earlier confirmed an attack on worshippers in ​the area but said ‌they could not ​verify the number of people ​abducted. Jamilu Ibrahim, another resident, appealed to the federal and state authorities to secure the release of the captives, pointing out the number of mothers with infants and children among those shown in the footage.",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary purpose of the video posted by the armed group according to the gunman's statement?",
+          "options": {
+            "A": "To demonstrate their control over the captured territory.",
+            "B": "To demand a specific ransom payment from the Nigerian government.",
+            "C": "To facilitate the identification of the captives by their families.",
+            "D": "To threaten the residents of Dekara village with further violence."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到 gunman addressing families of the captives and urging them to identify relatives among the people in the footage，因此目的是为了让家属辨认人质。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, which of the following is true about the nature of kidnappings in Nigeria?",
+          "options": {
+            "A": "They are predominantly carried out by political activists.",
+            "B": "They have shifted from being isolated incidents to occurring more frequently in southern regions.",
+            "C": "They are exclusively targeting schools and students in the northern states.",
+            "D": "They have decreased in frequency due to intervention by state authorities."
+          },
+          "answer": "B",
+          "explanation": "文中提到 violence was previously focused in the north, but gunmen have increasingly moved south，说明绑架活动的地理范围发生了变化。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the stance of the Nigerian police and state authorities regarding the reported abduction?",
+          "options": {
+            "A": "They have officially verified the number of people taken.",
+            "B": "They are actively negotiating with the kidnappers for the release of the hostages.",
+            "C": "They have remained silent or unresponsive to inquiries about the incident.",
+            "D": "They denied that any attack took place at the mosque during Friday prayers."
+          },
+          "answer": "C",
+          "explanation": "文中明确指出 Police and state authorities did not respond to requests for comment，且此前曾表示无法核实被绑架人数。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The residents' reaction to the video primarily serves to:",
+          "options": {
+            "A": "Validate the claims made by the armed group regarding the identity of the captives.",
+            "B": "Expose the manipulation tactics used by the kidnappers.",
+            "C": "Express their gratitude towards the authorities for the rescue operation.",
+            "D": "Provide an official headcount of the hostages for international media."
+          },
+          "answer": "A",
+          "explanation": "多名当地居民通过视频辨认出了被绑架的亲友（如Ibrahim Abubakar称 identified 13 people that I know），这证实了视频中确实是来自Dekara村的民众。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the current situation in north-central Nigeria from the text?",
+          "options": {
+            "A": "The government has successfully suppressed the armed groups in the area.",
+            "B": "The region is experiencing a persistent threat of mass kidnappings for profit.",
+            "C": "Public gatherings and religious activities have been banned by the police.",
+            "D": "The armed group is motivated by a desire to change regional religious practices."
+          },
+          "answer": "B",
+          "explanation": "文章提到Mass kidnappings for ransom have become common in parts of north-western and north-central Nigeria，说明这已成为该地区常态化的安全问题。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 49",
+      "article_update_date": "05.26.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Zoë Schiffer The Big Story Aug 20, 2025 6:00 AM AI Isn’t Coming for Hollywood. It's Already Arrived An early winner in the generative AI wars was near collapse—then bet everything on a star-studded comeback. Can Stability AI beat the competition? Photo-Illustration: Mark Harris; Getty Images Lady Gaga probably wasn’t thinking that a coup would unfold in her greenhouse. Then again, she was cohosting a party there with Sean Parker, the billionaire founder of Napster and first president of Facebook . It was February 2024, and the singer had invited guests to her $22.5 million oceanside estate in Malibu to mark the launch of a skin-care nonprofit. One of the organization’s trustees was her boyfriend, whose day job was running the Parker Foundation. In the candlelit space, beside floor-to-ceiling windows that looked out over the Pacific, Parker’s people mingled with Gaga’s, nibbling focaccia and branzino alla brace to music from a string quartet (Grammy-winning, of course). Prem Akkaraju, one of Parker’s close friends and business partners, arrived in a tailored suit, his thick hair coifed to perfection. The two men had known each other since Parker was at Facebook and Akkaraju was in the music industry . Over the years, they’d tried unsuccessfully to launch a movie streaming platform together and—much more successfully—had taken over a renowned visual effects company. Lately they had been talking about starting an AI venture . That evening at Gaga’s, Akkaraju found himself sitting next to an investor in Stability AI, the company that launched the wildly popular text-to-image generator Stable Diffusion in 2022. Despite its early success, Stability was “circling the drain,” the investor recalls. It was “within days of not having options.” He told Akkaraju: “You should take Stability and make it into the Hollywood-friendly AI model.” Hollywood did seem to be in need of a friend. Since 2022, the number of films and TV shows made in the United States had dropped by about 40 percent , thanks to ballooning production costs at home, competition from overseas, and long-running labor disputes everywhere. AI promised to bring the numbers back up by speeding production and slashing costs: Let computers automate the grunt work of translating dialog, adding visual effects frame by painstaking frame, and editing boom microphones out of a zillion shots. Maybe one day they could even write scripts and act! Two of the industry’s biggest unions had gone on strike in part to obtain assurances that generative AI wouldn’t replace union jobs in the near term. But every major studio and streaming service was racing to figure out its AI strategy, and a host of startups—Luma, Runway, Asteria—was working on tools to pitch them. Akkaraju saw the opportunity in front of him. Stability AI had the technology. It just needed that Hollywood finish. As far as he could tell, there was only one problem. Didn’t the company already have a CEO? When Emad Mostaque, a former hedge fund manager, founded Stability in 2020, the company’s mission was to “build systems that make a real difference” in solving society's toughest problems. By 2022, the system Mostaque felt he needed to build was a cloud supercomputer powerful enough to run a generative AI model. OpenAI was gaining traction with its closed-source models, and Mostaque wanted to make an open source alternative—“like Linux to Windows,” he says. He offered up the supercomputer to a group of academic researchers working on an open source system where you could type words to generate an image. The researchers weren’t going to say no. In August of that year, they launched Stable Diffusion in partnership with Mostaque’s company. The text-to-image generator was a breakout hit, garnering 10 million users in two months. “It was fairly close to state-of-the-art,” says Maneesh Agrawala, a computer science professor at Stanford University. Openness was core to the model’s success. “It allowed researchers to essentially extend the model, fine-tune it, and it spurred a whole community into action in terms of creating enhancements and add-ons,” Agrawala says. By October 2022, Stability AI had only 77 employees, but with thousands of times that many people in the wider Stable Diffusion community, it could compete with its bigger rivals. Mostaque raised $101 million in a seed round from venture capital firms and hedge funds including Coatue and Lightspeed (the final million, he tells me, was for good luck). The company was a unicorn. Photo-Illustration: Mark Harris; Getty Images Employees from this period describe Mostaque as a visionary. He spoke eloquently about the need to democratize access to artificial intelligence. In the not-too-distant future, Mostaque told employees, the company would solve complex biomedical problems and generate season eight of Game of Thrones . “It was an incredibly fun and chaotic startup that was throwing a lot of spaghetti at the wall, and some of it stuck really hard,” a former high-ranking employee tells me. (Like others I spoke with, the employee requested anonymity to speak freely about Mostaque and the company.) Mostaque was thrilled by the success. But he was also in over his head. “I was brand-new to this,” he says. “With my Aspergers and ADHD, I was like, ‘What's going on?’” Mostaque talks fast, his tone matter-of-fact: “On the research side, we did really good things. The other side I was not so good at, which was the management side.” Two former employees told me that they felt Mostaque didn’t think deeply about building a marketable product. “He just wanted to build models,” one said. The company’s success brought heightened scrutiny. In January 2023, Getty Images sued Stability AI in London’s High Court for allegedly training its models on 12 million proprietary photographs. The company filed a similar suit in the US weeks later. In the stateside complaint , Getty accused the AI firm of “brazen theft and freeriding.” Then, in June 2023, Forbes published a blockbuster story alleging that Mostaque had inflated his credentials and misrepresented the business in pitch decks to his investors. The article also claimed that Mostaque had received only a bachelor’s degree from Oxford, not a master’s. (Mostaque says that he earned both, but a clerical error on his part was responsible for the mix-up.) What’s more, Stability reportedly owed millions of dollars to Amazon Web Services, which provided the computing power for its model. Though Mostaque had spoken of a partnership, Stability’s spokesperson acknowledged to Forbes that it was in fact a run-of-the-mill cloud services agreement with a standard discount. Mostaque had answers for all of this, but investors lost confidence anyway. Four months after the article came out, VCs from both Coatue and Lightspeed left the board of directors, signaling they no longer had faith in the business. By the end of the year, the company’s head of research, chief operating officer, general counsel, and head of human resources had left as well. Many of Stability’s prominent researchers would follow. Under pressure from investors, Mostaque finally left the company on March 22, 2024—just a few weeks after Lady Gaga’s greenhouse soiree. Akkaraju and Parker wasted no time in taking over Stability, installing Akkaraju as CEO and Parker as chairman of the board. They never spoke to Mostaque, although the former CEO says he reached out to offer his support. The pair set about trying to remake Stability AI for the moment. Not long after they took over, the competition got fiercer. That September, another startup, Runway, signed the AI industry’s first big deal with a movie studio. Runway would get access to Lionsgate’s proprietary catalog of movies as training data and develop tools for the studio. “The time it takes to go from idea to execution is just shrinking—like a lot,” says Cristóbal Valenzuela, CEO of Runway. “You can do things in just a couple of minutes that used to take two weeks.” In the coming years, he predicts, “you will have teams of two, three, four people making the work that used to require armies and hundreds of millions of dollars.” The deal with Lionsgate pushed the AI-fication of Hollywood into overdrive. “I can tell you, last year when I came to Los Angeles versus today, it’s night and day,” says Amit Jain, CEO of Luma, another Stability competitor. “Last year it was ‘Let’s prototype, let’s proof-of-concept’—they were deferring the inevitable. This year it’s a whole different tone.” Moonvalley, an AI company founded by former Google DeepMind researchers (and the parent company of Asteria, an AI film studio cofounded by the actor Natasha Lyonne), recently told Time magazine that more than a dozen major Hollywood studios are testing its latest model—signaling openness to the technology, if not yet a full embrace. “It was really about me and Sean coming in and providing that direction, that leadership, and really taking advantage of what we call the three T’s: timing, team, and technology,” Akkaraju says. I’m sitting not at his TED Talk but in his $20 million mansion near Beverly Hills, on an immaculate overstuffed white couch overlooking a manicured garden. Akkaraju is fit, with a gleaming white smile and a button-up that shows off his biceps. His eye contact and handshake are equally strong. Early on in his tenure, Akkaraju says, he decided that Stability would no longer compete with OpenAI and Google on building frontier models. Instead, it would create apps that sat on top of those models, freeing the company from enormous computing costs. Akkaraju negotiated a new deal with Stability AI’s cloud computing vendors, wiping away the company’s massive debt. Asked for specifics on how this came about, Akkaraju, through a spokesperson, demurred. Investors, like Coatue, came flocking back. Where Mostaque painted a picture of AI solving the world’s most difficult problems, what Akkaraju is building, in brutally unsexy terms, is a software-as-a-service company for Hollywood. The goal is not to generate films, he says, but to use AI to augment the tools that filmmakers already use. “I really do think that our differentiation is having the creator in the center,” Akkaraju says. “I don't see any other AI company that has James Cameron on its board.” Yes, the irony writes itself: The guy who once had a fever dream about murderous machines while “sick and broke” in Rome and proceeded to turn it into The Terminator —the creator of Skynet!—is on the board of an AI company. What’s doubly surprising, though, is that Cameron is on the board of an AI company run by Parker and Akkaraju. A decade ago, Cameron was helping lead Hollywood’s charge against them. He didn’t appreciate the premise of their streaming platform, the Screening Room, which let people watch new releases at home for $50 on the same day they came out in theaters. Cameron reportedly told a crowd at CinemaCon that he was “committed to the theater experience.” In the years that followed, none of the major studios publicly announced deals with the Screening Room, and in 2020 the company rebranded as SR Labs. Photo-Illustration: Mark Harris; Getty Images That same year, Akkaraju and Parker took over Weta Digital, the visual effects studio behind blockbusters such as Lord of the Rings , Game of Thrones , and Cameron’s Avatar movies. Weta developed virtual cameras that let Cameron see a real-time rendering of the artificial environment through a viewfinder, as if he were filming on location in the fictional world of Pandora. One night, Cameron, Akkaraju, and Parker met for dinner to discuss how technology was changing the film industry. “The tequila was flowing,” Cameron recalls. “A friendship formed.” Any tension that had existed over the Screening Room melted away. (“I never really talked with him about it,” Akkaraju says. “He knew, and I knew. It was very funny.”) So Cameron is on the board, but is the “creator in the center,” as Akkaraju said? When I spoke with Parker, he emphasized the importance of using open source models and spoke of “respect for creators and respect for IP.” He added: “That sounds potentially kind of rich,",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what was the primary catalyst for Stability AI's pivot towards becoming a 'Hollywood-friendly' AI model?",
+          "options": {
+            "A": "The desire of Prem Akkaraju to collaborate with Lady Gaga and Sean Parker.",
+            "B": "The urgent need to address the company's financial instability and lack of strategic direction.",
+            "C": "The direct request from major Hollywood studios to replace traditional visual effects.",
+            "D": "The successful launch of Stable Diffusion which generated excessive revenue."
+          },
+          "answer": "B",
+          "explanation": "文章提到Stability AI当时处于“circling the drain”（濒临崩溃）状态，投资者告诉Akkaraju应该将其转变为好莱坞友好的模型，这直接推动了该公司的战略转型。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes Emad Mostaque’s approach to running Stability AI?",
+          "options": {
+            "A": "A focus on fiscal discipline and long-term profitability.",
+            "B": "A strategic prioritization of market-ready product development.",
+            "C": "A visionary but operationally chaotic management style.",
+            "D": "A cautious expansion plan centered on academic research partnerships."
+          },
+          "answer": "C",
+          "explanation": "文中指出员工将Mostaque视为远见卓识者，但同时也提到他“in over his head”，管理上混乱，且未能深入考虑如何构建可销售的产品。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author mentions the litigation involving Getty Images to illustrate that:",
+          "options": {
+            "A": "Stability AI was gaining significant recognition in the legal sector.",
+            "B": "The company’s growth led to increased scrutiny regarding its data usage practices.",
+            "C": "Mostaque had successfully defended the company against intellectual property theft.",
+            "D": "Open-source models were legally protected by international court rulings."
+          },
+          "answer": "B",
+          "explanation": "文章提到公司成功带来了“heightened scrutiny”（高度审视），并详细说明了Getty Images起诉其模型训练侵权，说明其成功伴随着巨大的法律风险。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the core difference between the AI strategy under Akkaraju and that of Mostaque?",
+          "options": {
+            "A": "Akkaraju focuses on building frontier models to compete with Google.",
+            "B": "Akkaraju aims to develop software applications that support existing filmmaking workflows.",
+            "C": "Akkaraju prioritizes the democratization of AI for solving biomedical problems.",
+            "D": "Akkaraju relies exclusively on proprietary, closed-source technologies."
+          },
+          "answer": "B",
+          "explanation": "文中明确指出Akkaraju决定不再与OpenAI等竞争基础模型，而是构建辅助电影制作人的软件，即“augment the tools that filmmakers already use”。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The author uses the irony regarding James Cameron’s board membership to suggest that:",
+          "options": {
+            "A": "Technology often forces rivals to find common ground.",
+            "B": "Cameron has abandoned his commitment to the theater experience.",
+            "C": "Hollywood’s fear of AI was purely performative and insincere.",
+            "D": "The distinction between human creators and machine-generated content is blurring."
+          },
+          "answer": "A",
+          "explanation": "文章通过描述Cameron曾强烈反对Parker的电影播放平台，转变为如今在Parker主导的AI公司董事会任职，体现了商业利益和技术趋势如何促使曾经的对手建立友谊与合作。"
+        }
+      ]
+    }
+  ]
+}
