@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.23.2026",
+  "papers": [
+    {
+      "title": "Can Polymarket predict the progress of science, or are subject-experts better?",
+      "article_update_date": "06.01.2026",
+      "source_journal": "Nature",
+      "body_text": "Prediction markets such as Kalshi allow users to speculate on the outcomes of real-world events using cryptocurrency.Credit: Michael Nagle/Bloomberg via Getty Prediction markets such as Polymarket and Kalshi have soared in popularity over the past few months. From bets on disease outbreaks to wagers about artificial intelligence, many of their markets relate to science and research. So how do Polymarket’s prediction powers compare to the opinions of subject-matter experts? In prediction markets, users bet on a future event by buying and selling shares in favour of various outcomes. The price of each share is determined neither by expert opinions nor by the ‘house’ setting odds. Rather, prices are based on demand, reflecting the market’s collective belief in the probability of the outcome. But as well as providing a gambling platform, prediction markets offer a test of the concept of the wisdom of crowds — the long-held idea that collective predictions by large groups of people tend to be better than forecasts by subject specialists. According to Polymarket’s website, prediction markets can often determine outcomes more accurately than experts or polls because “economic incentives ensure market prices adjust to reflect true odds as more knowledgeable participants join”. Research has found that prediction markets sometimes outperform other forecasting methods in political elections1, but some researchers remain unconvinced that they can rival the work of expert scientists. Prediction markets are “potentially helpful forecasting supplements” when it comes to science, says Richard Borghesi, who researches finance and prediction markets at the University of South Florida in Tampa. The markets can be useful to gauge how scientific information is received by the public, he says, but they are not “substitutes for models, peer review or expert judgement”, and are less informative when the people trading lack specialist knowledge on the subject. There are also growing concerns about market manipulation and insider trading on Polymarket and Kalshi. In October last year, Norwegian officials who oversee the Nobel Peace Prize investigated a surge in bets for Venezuelan opposition leader Maria Corina Machado hours before she was awarded the prize. Possible pandemics One science-based area in which researchers question the effectiveness of prediction markets’ forecasting is disease outbreaks. When an outbreak of hantavirus was reported on a cruise ship in early May, a Polymarket market predicted a 19% probability of the World Health Organization (WHO) declaring a hantavirus pandemic this year. But that sank after the shock of the initial news; when this article was published, the market sat at a probability of 5%, with about US$14 million in shares traded so far. A similar Kalshi market predicts a 7% chance of the WHO declaring a hantavirus outbreak a public-health emergency of international concern in 2026. There is no vaccine for deadly hantavirus: what that means for future outbreaks Users in these markets do follow some scientific evidence, with comment sections referencing WHO updates and case numbers. In comparison, researchers usually forecast disease spread using mathematical models and a variety of data, including hospital surveillance, genomic data and even school absences. It is difficult for experts to pin down the precise probability of a pandemic, but the chance of a global hantavirus outbreak “is very, very low,” says Vaithi Arumugaswami, an infectious-disease researcher at the University of California, Los Angeles. Forecasting from the US Centers for Disease Control and Prevention suggests that the virus’s risk to the US public is extremely low, and the WHO says that transmission between humans is uncommon. The way users trade may be an effect of anxiety surrounding pandemics, which seems especially present since the COVID-19 pandemic, says Bill Hanage, an epidemiologist at Harvard University in Cambridge, Massachusetts. \"In that regard, Polymarket bets do \"tell you something about how the public feels.\" Climate forecasting Another science-based subject creating buzz in prediction markets is climate change — and there, some bets seem “reasonably in line with experts’ estimates”, says Zeke Hausfather, a climate scientist at the research organization Berkeley Earth in California.",
+      "difficulty_constant": 8.4,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Prediction markets have recently ____ in popularity, allowing users to speculate on real-world events.",
+          "options": {
+            "A": "shrunk",
+            "B": "soared",
+            "C": "stagnated",
+            "D": "collapsed"
+          },
+          "answer": "B",
+          "explanation": "Context suggests growth, 'soared' fits the trend of increased popularity."
+        },
+        {
+          "q_number": 2,
+          "stem": "Many of these markets ____ to scientific and research-related outcomes.",
+          "options": {
+            "A": "object",
+            "B": "relate",
+            "C": "protest",
+            "D": "adhere"
+          },
+          "answer": "B",
+          "explanation": "The text states the markets involve bets on science, so they relate to these topics."
+        },
+        {
+          "q_number": 3,
+          "stem": "In these markets, users bet by buying and selling ____ in favor of various outcomes.",
+          "options": {
+            "A": "shares",
+            "B": "debts",
+            "C": "bonds",
+            "D": "loans"
+          },
+          "answer": "A",
+          "explanation": "Standard financial terminology for prediction markets is buying 'shares'."
+        },
+        {
+          "q_number": 4,
+          "stem": "Prices are determined ____ by expert opinions nor by house odds.",
+          "options": {
+            "A": "neither",
+            "B": "always",
+            "C": "partly",
+            "D": "usually"
+          },
+          "answer": "A",
+          "explanation": "The sentence indicates that external experts or the house don't set prices, fitting 'neither... nor'."
+        },
+        {
+          "q_number": 5,
+          "stem": "Prices reflect the market’s collective ____ in the probability of an outcome.",
+          "options": {
+            "A": "rejection",
+            "B": "skepticism",
+            "C": "anxiety",
+            "D": "belief"
+          },
+          "answer": "D",
+          "explanation": "Market pricing represents the aggregate confidence or belief of the participants."
+        },
+        {
+          "q_number": 6,
+          "stem": "These markets test the ____ of the wisdom of crowds.",
+          "options": {
+            "A": "falsity",
+            "B": "concept",
+            "C": "omission",
+            "D": "decline"
+          },
+          "answer": "B",
+          "explanation": "The text discusses testing the validity of an existing idea or 'concept'."
+        },
+        {
+          "q_number": 7,
+          "stem": "Collective predictions are often thought to be ____ than forecasts by specialists.",
+          "options": {
+            "A": "worse",
+            "B": "costlier",
+            "C": "better",
+            "D": "slower"
+          },
+          "answer": "C",
+          "explanation": "The 'wisdom of crowds' theory posits that groups perform better than isolated experts."
+        },
+        {
+          "q_number": 8,
+          "stem": "Economic incentives ensure prices adjust to ____ true odds.",
+          "options": {
+            "A": "ignore",
+            "B": "conceal",
+            "C": "reflect",
+            "D": "distort"
+          },
+          "answer": "C",
+          "explanation": "Incentives drive the market to accurately mirror or reflect real probabilities."
+        },
+        {
+          "q_number": 9,
+          "stem": "Some researchers are still ____ that these markets can rival expert scientists.",
+          "options": {
+            "A": "confident",
+            "B": "convinced",
+            "C": "unconvinced",
+            "D": "aware"
+          },
+          "answer": "C",
+          "explanation": "The text notes that despite popularity, some scientists doubt the reliability, hence 'unconvinced'."
+        },
+        {
+          "q_number": 10,
+          "stem": "Experts say prediction markets are ____ supplements, not substitutes for models.",
+          "options": {
+            "A": "rarely",
+            "B": "hardly",
+            "C": "never",
+            "D": "potentially"
+          },
+          "answer": "D",
+          "explanation": "The expert describes them as potentially helpful tools, not absolute replacements."
+        },
+        {
+          "q_number": 11,
+          "stem": "The markets can be used to ____ how scientific information is perceived.",
+          "options": {
+            "A": "gauge",
+            "B": "conceal",
+            "C": "neglect",
+            "D": "discard"
+          },
+          "answer": "A",
+          "explanation": "'Gauge' means to measure or estimate, fitting the context of tracking public opinion."
+        },
+        {
+          "q_number": 12,
+          "stem": "Markets are less ____ when participants lack specialist knowledge.",
+          "options": {
+            "A": "expensive",
+            "B": "popular",
+            "C": "harmful",
+            "D": "informative"
+          },
+          "answer": "D",
+          "explanation": "Without expertise, the data generated is less useful or 'informative'."
+        },
+        {
+          "q_number": 13,
+          "stem": "There are growing concerns about market ____ and insider trading.",
+          "options": {
+            "A": "manipulation",
+            "B": "stability",
+            "C": "transparency",
+            "D": "efficiency"
+          },
+          "answer": "A",
+          "explanation": "Insider trading is typically associated with 'manipulation' of the market."
+        },
+        {
+          "q_number": 14,
+          "stem": "Officials investigated a ____ in bets for a prize winner.",
+          "options": {
+            "A": "decline",
+            "B": "surge",
+            "C": "void",
+            "D": "lack"
+          },
+          "answer": "B",
+          "explanation": "A sudden increase in bets is described as a 'surge'."
+        },
+        {
+          "q_number": 15,
+          "stem": "Researchers question the ____ of prediction markets in disease forecasting.",
+          "options": {
+            "A": "cost",
+            "B": "effectiveness",
+            "C": "speed",
+            "D": "limitation"
+          },
+          "answer": "B",
+          "explanation": "The context asks if the markets actually work, referring to their 'effectiveness'."
+        },
+        {
+          "q_number": 16,
+          "stem": "The probability estimate ____ after the initial shock of the news.",
+          "options": {
+            "A": "stayed",
+            "B": "soared",
+            "C": "sank",
+            "D": "vibrated"
+          },
+          "answer": "C",
+          "explanation": "The text says the probability dropped, so 'sank' is the correct past tense verb."
+        },
+        {
+          "q_number": 17,
+          "stem": "Experts usually forecast disease spread using mathematical ____.",
+          "options": {
+            "A": "guesses",
+            "B": "lies",
+            "C": "myths",
+            "D": "models"
+          },
+          "answer": "D",
+          "explanation": "Scientific forecasting relies on mathematical 'models'."
+        },
+        {
+          "q_number": 18,
+          "stem": "The chance of a global outbreak is considered very ____.",
+          "options": {
+            "A": "high",
+            "B": "common",
+            "C": "low",
+            "D": "uncertain"
+          },
+          "answer": "C",
+          "explanation": "The expert states the risk is very low, making 'low' the correct choice."
+        },
+        {
+          "q_number": 19,
+          "stem": "Trading behavior might be an effect of ____ surrounding pandemics.",
+          "options": {
+            "A": "anxiety",
+            "B": "relief",
+            "C": "interest",
+            "D": "apathy"
+          },
+          "answer": "A",
+          "explanation": "The text links user trading patterns to the 'anxiety' caused by the pandemic."
+        },
+        {
+          "q_number": 20,
+          "stem": "Some climate bets seem ____ in line with experts’ estimates.",
+          "options": {
+            "A": "rarely",
+            "B": "vaguely",
+            "C": "barely",
+            "D": "reasonably"
+          },
+          "answer": "D",
+          "explanation": "The quote says they are 'reasonably in line', suggesting a moderate agreement."
+        }
+      ]
+    },
+    {
+      "title": "How artificial intelligence got better at building itself",
+      "article_update_date": "06.15.2026",
+      "source_journal": "Economist",
+      "body_text": "How artificial intelligence got better at building itself Science & technology | Over and over How artificial intelligence got better at building itself What does “recursive self-improvement” mean for the technology? June 11th 2026 WHEN ANTHROPIC, an artificial-intelligence lab, debuts on stock markets later this year, it is likely to be one of the biggest initial public offerings in history. That’s because Claude, the company’s chatbot is beloved of coders, who are willing to pay a lot for access. Since Claude Code, its software-engineering agent, launched in February 2025, it has become indispensable for developers around the world. That includes Anthropic’s own: more than four-fifths of the code it published in May was written by Claude, the company says. Before Claude Code, the percentage was “low single-digits”. The systems have improved in quality of output as well as quantity. An influential benchmark from METR, a think-tank, shows that in early 2025 Anthropic’s models could complete tasks that took human engineers a little under an hour. The company’s latest systems can complete tasks that would take more than a working day. And so it may be easy to raise a cynical eyebrow when the company, at the top of its game and outclassing the competition, calls for the world to have “the option to slow or temporarily pause frontier AI development”, as it did on June 5th. What market leader would not wish that its competition stop trying to catch up? Yet Anthropic’s leaders, who have for years worried about the prospect of out-of-control AI wreaking havoc, seem sincere. The latest generation of AI models are such competent coders, engineers and (soon) scientists that many worry they may be among the last ever made by humans. Jack Clark, an Anthropic co-founder, thinks there is a 60% chance that, by the end of 2028, an AI system will be capable of creating its own successor with no human involvement at all. That moment would mark the beginning of a process called “recursive self-improvement” (RSI), a closed loop. Version one of a model produces version two, which is faster and more capable; version two produces version three, which is more so again. The loop continues, and the improvements grow with each iteration. Build an AI system capable of this, and your human engineers never need to build another one again. “What can seem to many like a fanciful story may instead be a real trend,” says Mr Clark. Nobody knows for sure what the consequences of recursive self-improvement would be. Because AI can, unlike humans, work tirelessly and constantly, some think it would in short order lead to a superintelligent AI—a “fast take-off”. (It has also been onomatopoeically dubbed “going foom”, for the sound one might imagine an intelligence explosion making). AI doomers fear the superintelligence would be beyond human control, and that the start of RSI is the moment at which humanity’s fate is handed over to the machines. Yet a self-improving AI would probably face speed limits, at least at first. Building a model capable of RSI would require automating a range of specialist tasks currently carried out by humans. At present data scientists work on the theory of AI and coders put it into practice. Systems engineers build the foundations on which toy models can be raised to production scale. Other people seek out novel sources of training data, or experiment with ways to generate it fresh. Alignment and safety teams check that what comes out of the training process won’t cause harm, intentional or otherwise. Not all of those teams are equally amenable to AI assistance, and within each specialism some tasks are more automatable than others. It will not be too long until a human coder can do their job without ever writing a line of computer code themselves, but it may be some time until an AI is able to negotiate to acquire a previously undigitised collection of scientific papers. It is not always obvious how the “jagged frontier” will progress. Designing new algorithms seemed one of the safer jobs, until one of Google DeepMind’s models, AlphaEvolve, began doing it in May 2025. It proposed a change to how Google spreads workloads across its data centres that saved 0.7% of the company’s worldwide computing power, and found better ways to perform matrix multiplication, which speeded up the training of Gemini, the company’s flagship large language model (LLM), by 1%. Full RSI requires every task in this chain to become automated. The AI-powered acceleration of research and development (R&D) may be felt before then, however. “As the fraction of AI R&D performed by AI systems increases, the productivity boost over human-only R&D” could increase ten-fold, then a hundred-fold, then a thousand-fold, according to a report published in January by the Centre for Security and Emerging Technology (CSET), a think-tank within Georgetown University. In that scenario, it warns that even if some aspects of AI R&D are initially difficult to automate, “the accelerated rate of progress means those bottlenecks are soon overcome.” Today no AI model can build its own successor. But big AI models can build smaller models on their own. With human help they can build other big AI models, too. Earlier this year Andrej Karpathy, a then-independent researcher who now works for Anthropic, trained a chatbot about as capable as GPT-2, a large language model built by OpenAI in 2019. Back then the model took 168 hours of training to build on 32 state-of-the-art chips; Dr Karpathy achieved the same result using a single computer with eight GPUs, the specialised chips used to build AI, in only three hours. With some more months of work he reduced the training time for his model, Nanochat, to just over two hours. In March he handed the work of speeding up the training process over to an AI agent called Autoresearch. In two days the training time dropped to one hour and 48 minutes, and five days after that it fell to one hour and 39 minutes. “I didn’t touch anything,” Dr Karpathy says. The 18% improvement on the human work is striking because Dr Karpathy is a particularly talented human: he was a founding member of the research team at OpenAI and the head of AI at Tesla for five years. The improvements themselves were prosaic. The AI agent picked better starting values for the training run, widened the scope of the LLM’s “attention” window and noticed that the model’s focus was wandering. None of this is particularly novel, Dr Karpathy says. But he had missed them. “They stack up and actually improved Nanochat,” he says. Speed-ups of this kind are inevitable as models become more capable. Much of the work of building terabyte-size frontier models is less glamorous than the AI industry’s enormous salaries and fancy offices suggest. It involves plumbing together the layers of an infrastructure stack that are bought in from third parties, debugging hardware and software set-ups and tweaking “hyperparameters”, the initial set-up of a training run, until the outcome looks solid. An AI system can do much of that today, with little supervision. But even the more nuanced intellectual work is nearing automation, says Joe Spisak, a researcher at Reflection AI, a lab based in New York that is building frontier models that are open-weight (meaning their parameters are publicly released). Give a frontier system a rough sketch of an idea for efficiency gains, and it is increasingly capable of designing an experiment, running tests on a toy model, seeing what works and responding with a plan that is ready to implement at scale. AI models can carry out these sorts of tasks, which take humans hours, in around 30 minutes. Increasingly, humans play the role only of research director, steering the AI to run experiments, which the models code up, debug, optimise and monitor themselves. The productivity boost is alluring, but also alarming. As the role that humans play in the production process shrinks, they may lose control. The end result could be models trained by models, to achieve goals set by models, whose safety is verified only by models. Some fear a disaster. Max Tegmark, a physicist and machine-learning researcher at the Massachusetts Institute of Technology who has devoted much of the past decade to campaigning for AI safety, likens it to a driver flooring the accelerator on the motorway with their eyes closed. The result would be certain doom, he told the The Economist’s “Inside Tech” video show , as long as the driver refuses to open their eyes. Powerful AI systems could outcompete humans as the decision makers in government and commerce, says Professor Tegmark, disempowering humanity; they could offer supreme power to whoever first builds them, ushering in global totalitarianism; or they could simply cease to care about humanity at all, and gradually squeeze people out to make room for more data centres and power generation. Three years ago, Professor Tegmark led a call for a pause in global AI development, arguing that the creation of the then-cutting edge GPT-4 was tantamount to that blindfolded journey. This year’s CSET report warned that the systems created by RSI “pose extreme risks. This warrants preparatory action now.” Anthropic, it seems, is close to agreeing with that idea. There are also several physical constraints that will, for now, impose limits on the speed at which models can improve themselves. The most important is access to compute. Despite efficiency gains, newer models continue to use more computing power to train than their predecessors, forcing progress to occur at the pace of data-centre development. Consumer use of AI may also slow down AI-powered research and development, says Helen Toner, interim executive director of CSET and a lead author of its recent report. The limited capacity in AI data centres needs to be carefully split between serving paying customers, training future models and carrying out open-ended R&D. The more demand there is in the first category, the less capacity, in the short term, there is for the other two. Then there is the issue of training data. Much recent progress in AI has been in areas where models can teach themselves how to succeed thanks to “verifiable rewards”. A piece of software either runs or it does not; a mathematical proof is correct or it is not. In such cases synthetic data, generated by models purely to train other models, can be checked for accuracy and added to the training data without risking the degeneracy that normally comes with training an AI on its own output. It is trickier to make a model better at creative writing or legal judgment. If the models need to learn from the real world, that could also limit the reach of self-improvement. “Closing the loop” may be a step on the road to superintelligence and—depending on your disposition—utopia or doom. But it is not the only step required to produce exponential growth in AI’s capabilities. ■ Curious about the world? To enjoy our mind-expanding science coverage, sign up to Simply Science , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//science-and-technology/2026/06/07/how-artificial-intelligence-got-better-at-building-itself",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what does the emergence of 'recursive self-improvement' (RSI) imply for human engineers?",
+          "options": {
+            "A": "They will be forced to supervise AI models around the clock.",
+            "B": "They may eventually become redundant in the model-building process.",
+            "C": "They will shift their focus exclusively to AI safety and alignment.",
+            "D": "They must acquire new skills to compete with faster-learning AI agents."
+          },
+          "answer": "B",
+          "explanation": "文章提到，如果构建出一个具备递归自我改进能力的AI系统，人类工程师将无需再构建下一个模型，这暗示了人类在模型构建过程中的作用可能变得多余。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does the author mention Andrej Karpathy’s work with 'Nanochat'?",
+          "options": {
+            "A": "To illustrate the superior processing power of modern GPUs.",
+            "B": "To highlight the limitations of current AI training methodologies.",
+            "C": "To demonstrate that AI agents can already improve training efficiency.",
+            "D": "To show that human experts are becoming less relevant to software development."
+          },
+          "answer": "C",
+          "explanation": "Karpathy通过使用AI代理Autoresearch缩短了模型训练时间，旨在证明AI代理已经在实际的训练过程优化中表现出超越人类专家的效率。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the 'jagged frontier' referred to in the context of AI automation?",
+          "options": {
+            "A": "The uneven rate at which different human tasks can be automated.",
+            "B": "The unpredictable risks associated with superintelligent AI.",
+            "C": "The conflict between AI profitability and research innovation.",
+            "D": "The physical constraints limiting the growth of data centres."
+          },
+          "answer": "A",
+          "explanation": "文章在讨论不同职业（如编码与科学文献获取）被自动化取代的速度不同时，使用了“jagged frontier”一词，指代自动化进程在不同任务领域中的不均衡性。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following is identified as a constraint on the speed of AI's self-improvement?",
+          "options": {
+            "A": "The scarcity of human research directors.",
+            "B": "The moral opposition from AI safety campaigners.",
+            "C": "The competition for resources between consumer services and R&D.",
+            "D": "The lack of verifiable rewards for creative AI tasks."
+          },
+          "answer": "C",
+          "explanation": "文章提到数据中心有限的计算能力需要在服务客户、训练模型和进行研发之间分配，资源争夺会限制AI自我改进的速度。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's primary concern regarding the future of AI production?",
+          "options": {
+            "A": "The rising costs of maintaining large-scale infrastructure.",
+            "B": "The potential loss of human control as production becomes autonomous.",
+            "C": "The inability of AI to handle non-verifiable tasks effectively.",
+            "D": "The difficulty in training AI models on synthetic data."
+          },
+          "answer": "B",
+          "explanation": "文章指出当人类在生产过程中的作用缩小时，人类可能会失去对AI的控制，最终导致AI训练AI且安全性仅由AI验证，这引发了关于灾难性后果的担忧。"
+        }
+      ]
+    },
+    {
+      "title": "Young Chinese-Irish ballroom dancer goes international",
+      "article_update_date": "06.06.2026",
+      "source_journal": "China Daily",
+      "body_text": "Kerry Sui and Francis Carty perform on the dance floor at Blackpool Dance Festival in November. [Photo provided to chinadaily.com.cn] Kerry Sui, a 10-year-old Chinese-Irish dancer, and her dance partner Francis Carty are set to compete in Italy and perform on Chinese TV after winning the British juvenile ballroom championship. Kerry and Francis, who is also 10, won the British National Juvenile Ballroom trophy and took first prize last month in the juvenile Latin category at the Blackpool Dance Festival. Kerry was born in Dublin and lives there with her parents, who emigrated from China. Her Chinese name is Sui Yuanjing. She started ballroom and Latin dancing four years ago and was partnered earlier this year with Francis, who lives in the English county of Shropshire. The two were friends before they performed together and Kerry said their friendship is one of the best things about her dancing partnership with Francis. Their hard work, under the guidance of teachers Laura O'Brien and David and Helen Truman, meant Kerry and Francis have seen quite a lot of success. \"When Francis is stressed, I can calm him down, because he hasn't really been in many big competitions, such as the nationals and internationals,\" Kerry said. \"My mum said I have to guide him.\" Francis said Kerry has a positive attitude and described her as always remaining upbeat. And they both have a dance that they like the least: the tango. \"The tango is like an angry dance, you have to be sharp,\" Kerry said. The dancers often visit each other's families and describe their friendship and their teachers' involvement as like being in a big family. She said a visit to China put a strain on the close bonds. \"I was in China for six weeks and there was a dance studio there where I would practice, but I felt lonely,\" Kerry said. Francis described the time they spent apart as \"horrible\". Kerry and Francis were training on Saturday in Wolverhampton, a city in England's West Midlands region, in advance of a competition in Stoke-on-Trent on Sunday. The event was cancelled due to the heavy snowfall across parts of the United Kingdom. The pair head to Italy in January for a competition, before jetting off to China to appear on a TV show.",
+      "difficulty_constant": 4.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is unique about Kerry Sui and Francis Carty's partnership?",
+          "options": {
+            "A": "They have been dancing together since they were six years old.",
+            "B": "Their success is primarily attributed to their formal training in Shropshire.",
+            "C": "Their strong friendship serves as a core foundation for their collaboration.",
+            "D": "They have both lived in China for significant parts of their lives."
+          },
+          "answer": "C",
+          "explanation": "文章提到“The two were friends before they performed together”以及Kerry提到的“friendship is one of the best things about her dancing partnership”，说明深厚的友谊是他们搭档关系的核心。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does Kerry mean when she says, \"My mum said I have to guide him\"?",
+          "options": {
+            "A": "She needs to teach Francis how to execute complex tango steps.",
+            "B": "She must provide emotional support to Francis during major competitions.",
+            "C": "She acts as the primary coach during their practice sessions.",
+            "D": "She is responsible for managing their travel logistics to Italy and China."
+          },
+          "answer": "B",
+          "explanation": "上下文提到“When Francis is stressed, I can calm him down”以及提到Francis缺乏大型赛事经验，说明Kerry的“引导”侧重于安抚对方的情绪与心理支持。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why do Kerry and Francis dislike the tango?",
+          "options": {
+            "A": "It requires a level of intensity and sharpness that they find unpleasant.",
+            "B": "It is considered too difficult for dancers of their age group.",
+            "C": "Their teachers do not focus on this specific dance style.",
+            "D": "It reminds them of their time spent apart in different countries."
+          },
+          "answer": "A",
+          "explanation": "文中Kerry明确指出“The tango is like an angry dance, you have to be sharp”，这解释了他们为何认为该舞蹈不讨喜。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase \"put a strain on\" in the context suggest?",
+          "options": {
+            "A": "It caused a permanent decline in their dancing performance.",
+            "B": "It created a temporary emotional challenge for their relationship.",
+            "C": "It damaged the reputation of their dance studio in China.",
+            "D": "It hindered their physical ability to train during their separation."
+          },
+          "answer": "B",
+          "explanation": "文中提到Kerry去中国六周导致她感到“lonely”，Francis觉得这段时间“horrible”，说明两人的分离给他们的情感联系带来了压力（strain）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the pair's immediate future plans?",
+          "options": {
+            "A": "They intend to perform in Wolverhampton following the cancellation of the Stoke-on-Trent event.",
+            "B": "They are forced to retire from competitions due to extreme weather conditions.",
+            "C": "They are preparing for an international competition followed by media appearances.",
+            "D": "They will permanently relocate to Italy to pursue professional dance training."
+          },
+          "answer": "C",
+          "explanation": "文章最后一段指出“The pair head to Italy in January for a competition, before jetting off to China to appear on a TV show”，证实了他们接下来的行程安排。"
+        }
+      ]
+    },
+    {
+      "title": "Save to wishlist",
+      "article_update_date": "09.02.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Chris Haslam Jeremy White Gear Apr 2, 2026 5:30 AM 15 Design-Forward DIY Tools Worth Upgrading to This Year Hack your hardware with these top picks for home-improvement heaven. Photograph: Colin Ross Something has shifted in the workshop. After years of DIY being sold as a weekend hobby for the mildly bored, home improvement has quietly become a serious cultural force. The global DIY market is forecast to hit nearly a trillion dollars this year. And while a third of you are apparently planning on starting a new DIY project in the next three months , the primary motivator for DIYers is, you guessed it, saving money . Not a bad thing right now, considering how the Iran war is spiking prices . The tape measure and the drill you inherited from your folks will only take you so far. Fortunately, the tools driving this boom have never been smarter, and better hardware should mean, hopefully, better results. Whether you're building furniture, finishing a deck, or just finally hanging that TV straight, the tools available right now are genuinely more precise than anything a generation ago could have imagined. From a miniaturized soldering station to a kid-safe desktop cardboard router, these are WIRED’s 15 picks worth making room for in your toolbox this year. And no matter how good your tools are, never forget: measure twice, cut once. A Multifunction Power Tool Courtesy of Dremel Save to wishlist Save to wishlist Dremel Blueprint 12V Multi-Drill $100 $79 (21% off) Amazon $99 Walmart $83 The Home Depot This intimidation-free power tool is perfect for people looking to conquer the multitude of household tasks that don’t require a massive hammer drill. Dremel’s neatly balanced 12-volt tool is made for fixing, tightening, and assembling. The detachable laser level and clever electronic stud finder hidden in the front of the handle make it ideal for hanging pictures, shelves, and 4K TVs. Comes with nine drivers and three drill bits, covering most household fixes without the need for a complete toolbox overhaul. A Soldering Station Courtesy of Soldr Save to wishlist Save to wishlist Soldr Deluxe Edition $319 $255 (20% off) Soldr A compact, open-source soldering workstation that condenses a full electronics bench into a single portable unit. The battery-powered soldering iron offers precise temperature control from 212 to 842 degrees Fahrenheit (100 to 450 Celsius), making it suitable for delicate PCB work as well as more robust tasks. Integrated fume extraction pulls harmful vapors away at the source, while built-in magnification and adjustable LED lighting improve visibility. The clincher is that by being open-source, Soldr positively welcomes hardware tweaks and firmware upgrades, making it as appealing to hobbyists as it is to serious prototypers. A Sander Courtesy of Festool Save to wishlist Save to wishlist Festool DTSC 200 Basic Cordless Delta Sander $549 Festool It is well known in the trades that if someone’s workshop is full of Festool gear, you can bet they take their craft seriously. And with its new 18 V cordless sander, the brand has made the possibility of achieving perfection just that bit faster. The triangular pad reaches deep into corners and tight edges, while variable speed control allows for fine-tuning between aggressive stock removal and ultrasmooth finishing. Weighing just over 2.4 lbs without the battery, the sander is designed for controlled, one-handed operation, while the integrated LED casts low-angle illumination across your work surface to highlight even the slightest imperfections. Connect it to a vacuum hose to keep the work table clean, or snap on the included dust collection bag and go fully mobile. A Smarter Level Courtesy of Hozo Save to wishlist Save to wishlist Hozo M-Cube Pro Kit $395 Amazon $395 $316 (20% off) Hozo Put the trundle wheel down; this modular, stackable touch screen measuring system combines laser distance, level, and rolling scale modules in one, measuring up to 164 feet of distance at a 1/16-inch accuracy. The system captures measurements in real time and syncs instantly to the app, allowing users to generate floor plans or mark up dimensions without manual note-taking. Compact enough to fit in a pocket yet precise enough for professional use, it’s a seriously smart upgrade for anyone still juggling tape measures and spirit levels. A Premium Sewing Machine Courtesy of Husqvarna Save to wishlist Save to wishlist Husqvarna Viking Designer Sapphire 85 Sewing & Embroidery Machine $10,599 Singer $10,599 Sewing Machines Plus While it might be overkill if you’ve not yet mastered the art of sewing buttons back on, this pro-grade smart sewing machine can do seriously impressive things with a needle and thread. It offers more than 680 stitch patterns through an 8-inch color touch screen for intuitive control, alongside automatic thread tension and sensor-based foot adjustments. The extended sewing surface allows for large quilting projects, while the powerful motor ensures consistent stitch quality across thick fabrics. Built-in connectivity and access to the mySewnet Library give you access to a continuously growing collection of embroidery designs, plus the ability to craft and implement your own. A Box Cutter Courtesy of CRKT Save to wishlist Save to wishlist CRKT Box Key Slip Joint $38 CRKT Designed by noted knife maker Richard Rogers, the Box Key applies his clean, minimalist approach to a tiny everyday cutter. The 1.24-inch drop point blade is made from Sandvik 12C27 steel with a stone-wash finish, which helps disguise scuffs from daily use while improving corrosion resistance. The stainless steel handle with a hole keeps the profile slim enough to attach to a key ring, and at 1 ounce, it adds barely any weight to your daily carry. A smart, indispensable little tool for opening boxes, trimming cord, and other light-duty jobs. A Toolbox Courtesy of Niwaki Save to wishlist Save to wishlist Niwaki ST-Type Tool Box $135 Niwaki Japanese-inspired, UK-based Niwaki (translates as “garden tree”) produces seriously desirable and practical tools for home and garden. With the ST-Type Toolbox, however, the brand has created a vintage design that wouldn’t look out of place perched on a girder in the famous “ Lunch Atop a Skyscraper ” photo. Built from powder-coated steel with a traditional cantilever design, it measures 14.2 inches wide and opens to reveal tiered compartments that keep hand tools organized and visible. The metal dividers in the top trays can be rearranged to hold screws, nails, and bits, or removed entirely to fit even more tools. Safety Glasses Courtesy of Pit Viper Save to wishlist Save to wishlist Pit Viper Revloc Z87+ Safety Glasses $80 Pit Viper Pit Viper may be famous for its right-wing-baiting anarchic approach to eyewear , but we bet you didn’t know it also does a fantastic range of equally irreverent-looking, but highly practical safety glasses. (This model will launch on April 13.) Certified to ANSI Z87+ standards, they have impact-resistant lenses, 100 percent UV protection, antifog coatings, plus adjustable arms and nose pieces for a super-secure fit. Available with standard- or high-contrast polarized lenses, the side shields can be removed when not needed. A Handy Saw Courtesy of Gerber Save to wishlist Save to wishlist Gerber Freescape Camp Saw $75 $58 (23% off) Amazon $69 Gerber A good value, highly practical camp saw that folds small, but still cuts the mustard. The 12-inch blade is mounted on a four-pivot frame that maximizes usable cutting length and keeps tension consistent through each stroke. Then, when you’re done, it folds flat without disassembly, fully enclosing the blade for safe transport. Weighing 15.3 ounces, it is light enough for any expedition, but still feels reassuringly robust in use. That grippy rubberized textured handle works well in wet conditions, while thankfully, the design accepts standard 12-inch replacement blades. A 3D Printer Courtesy of Flsun Save to wishlist Save to wishlist Flsun S1 Pro 3D Printer $599 Flsun This high-speed 3D printer is built for rapid prototyping, and so is aimed at designers who are tired of overnight prints for simple parts. It spits out building material at speeds of up to 1,200 millimeters per second, driven by a lightweight and accurate delta motion system. The enclosed cylindrical build chamber (12.6 x 16.9 inches) improves temperature stability for materials such as ABS and PETG, while auto-leveling and smart calibration should reduce setup time. A direct-drive extruder with an all-metal nozzle capable of reaching 350 Celsius supports a wide range of filaments. Wi-Fi, an onboard camera, and AI-assisted monitoring all help keep prints on track. A DIY Stem Project Courtesy of CircuitMess Save to wishlist Save to wishlist CircuitMess NASA Mars Perseverance Rover $349 CircuitMess The 1972 NASA Moon Buggy is one of only a handful of “products” WIRED has ever awarded a coveted 10/10 score to. It’s a shame you’ll never be able to get your hands on one, but you can always scratch that interstellar itch with this fantastic build-it-yourself Mars Perseverance Rover electronics kit. Designed for STEM learning, it combines more than 200 parts with coding, robotics, and mechanical assembly into a single project. Users can program movement, sensors, and basic autonomy through an included microcontroller, gaining hands-on experience with real-world engineering concepts. As intricate and detailed as it is, the whole model is remarkably smaller than the family cat. A Leaf Blower Courtesy of Hoto Save to wishlist Save to wishlist Hoto 20V Cordless Leaf Blower $190 Amazon $239 $190 (21% off) Hoto Bringing some much-needed sci-fi chic to yard work with this cordless 20-volt blower that pushes 720 cubic feet of air per minute at 120 mph from a lightweight body. The compact 3.7-pound design (without battery) makes it easy to use with one hand, even if you’re coping with trees post-leaf-peeping season. A brushless motor improves efficiency and extends the blower’s lifespan, while stepless speed control allows precise adjustment to give you just enough wind to clear light debris all the way up to a full-force clearing. The lithium-ion battery lasts up to 30 minutes, and it’s removable, so you can buy extra batteries to quickly swap in and keep on blowing. A Charger and Radio Courtesy of Milwaukee Save to wishlist Save to wishlist Milwaukee M18 Packout Radio Charger $319 Amazon $349 The Home Depot $325 Walmart Stackable with Milwaukee storage systems, this sound system has a classic rock-ready 10-speaker array capable of blasting The Boss to every corner of a construction site. Built tough and powered either by plugging it in or using the standard M18 battery, it has Bluetooth connectivity and an AM-FM radio. It also doubles as a battery and USB charger for smartphones and power tools. A reinforced housing protects it against drops, dust, and moisture. An Electric Cutter Courtesy of Tinkr Save to wishlist Save to wishlist Tinkr Electric Scissors $35 The Home Depot $40 Tinkr A compact, battery-powered cutter designed to remove the effort and improve the precision of a host of cutting tasks. The motorized blade uses SK5 high-carbon steel slicers, delivering clean, controlled cuts through everything from cardboard and fabric to leather and even some plastics. Weighing 10.5 ounces, it is easy to guide with one hand, while the 4V rechargeable lithium battery should let you slice for hours on a single charge. A guarded cutting-edge and trigger activation improve control further, as well as keeping your fingers safe. For the Kids Courtesy of BeaverBot Save to wishlist Save to wishlist BeaverBot Cutter 2 $299 $259 (13% off) BeaverBot This kid-safe router-style cutter is a perfect antidote to the usual screen time. Using a digitally controlled blunt cutting head rather than exposed blades, it lets children (big and small) cut cardboard, card, foam, felt, thin fabrics, and light plastics at either 1,500 rpm for faster cuts or 800 rpm for more controlled work. The standard head can handle materials up to 3 mm thick, but an optional upgrade to a 5 mm “ProCut” head lets you go thicker. The compact 11.8 x 11.8-inch desktop unit comes in pink or green (go pink!) and connects over USB or",
+      "difficulty_constant": 7.2,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the article, what is the primary driver behind the recent surge in the DIY market?",
+          "options": {
+            "A": "A growing cultural fascination with professional engineering.",
+            "B": "The desire to acquire high-tech gadgets as status symbols.",
+            "C": "The economic necessity of cutting household expenses.",
+            "D": "The increased availability of user-friendly home improvement kits."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到“the primary motivator for DIYers is, you guessed it, saving money”，且后续提到“considering how the Iran war is spiking prices”，说明经济因素是主要动力。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What distinguishes the Soldr Deluxe Edition from traditional soldering irons?",
+          "options": {
+            "A": "Its industrial-grade cooling system for heavy-duty metal work.",
+            "B": "Its ability to function without any external power source.",
+            "C": "The integrated firmware that allows for specialized user customization.",
+            "D": "Its exclusive focus on professional electronics manufacturing."
+          },
+          "answer": "C",
+          "explanation": "文中提到Soldr是“open-source”，并指出“Soldr positively welcomes hardware tweaks and firmware upgrades”，即其开放源代码特性允许用户进行定制。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author mentions the 'Lunch Atop a Skyscraper' photo in the description of the Niwaki ST-Type Toolbox to suggest that the product is __________.",
+          "options": {
+            "A": "built with vintage aesthetics and durable construction.",
+            "B": "designed specifically for construction workers at heights.",
+            "C": "too bulky to be used in modern household settings.",
+            "D": "inspired by the complex architecture of famous landmarks."
+          },
+          "answer": "A",
+          "explanation": "文章将该工具箱描述为具有“vintage design”，并联想到历史照片，旨在强调其经典、复古的外观和坚固耐用的工业设计风格。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the main advantage of the BeaverBot Cutter 2 for younger users?",
+          "options": {
+            "A": "It provides a professional-grade alternative to standard power tools.",
+            "B": "It replaces traditional crafting methods with advanced digital logic.",
+            "C": "It utilizes a safe, blunt cutting mechanism instead of sharp blades.",
+            "D": "It features an intuitive interface that simplifies 3D printing."
+          },
+          "answer": "C",
+          "explanation": "文中指出该产品是“kid-safe”，其特点是“Using a digitally controlled blunt cutting head rather than exposed blades”，说明其核心优势在于安全。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the author's tone toward the modern DIY tools listed?",
+          "options": {
+            "A": "Skeptical of their high costs and technological complexity.",
+            "B": "Appreciative of their precision, utility, and enhanced capabilities.",
+            "C": "Indifferent to their aesthetic design compared to vintage tools.",
+            "D": "Concerned about the environmental impact of such consumer products."
+          },
+          "answer": "B",
+          "explanation": "通篇内容展现了作者对这些工具的高度认可，称它们“genuinely more precise”，并强调了它们在实用性和功能上的显著提升，因此是赞赏的语气。"
+        }
+      ]
+    }
+  ]
+}

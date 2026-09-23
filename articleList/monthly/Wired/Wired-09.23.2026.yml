@@ -30,7 +30,7 @@ articles:
   is_used: false
   title: Save to wishlist
 - id: epub_13
-  is_used: true
+  is_used: false
   title: Save to wishlist
 - id: epub_14
   is_used: false
@@ -173,8 +173,8 @@ articles:
 - id: epub_60
   is_used: false
   title: Chapter 60
-capture_date: 09.02.2026
+capture_date: 09.23.2026
 journal_name: Wired
-publish_date: 09.02.2026
+publish_date: 09.23.2026
 source_type: github
 update_frequency: monthly
