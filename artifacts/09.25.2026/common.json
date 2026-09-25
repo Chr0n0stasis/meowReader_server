@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.25.2026",
+  "papers": [
+    {
+      "title": "Linear RAG scanning mediates editing of Igκ variable region repertoires",
+      "article_update_date": "04.15.2026",
+      "source_journal": "Nature",
+      "body_text": "Experimental procedures We did not use statistical methods to predetermine sample size. We also did not randomize experiments. During experiments and outcome assessments, investigators were not blinded to allocation. Mice We purchased wild-type 129SV mice from Taconic Biosciences. We have previously described the generation and characterization of 129SV mice harbouring the Cer/Sis deletion22. Mouse work was performed in compliance with the relevant ethical regulations established by the Institutional Animal Care and Use Committee of Boston Children’s Hospital. The mouse work was performed under protocols approved by the Boston Children’s Hospital Institutional Animal Care and Use Committee. Mice were maintained on a 14-h light/10-h dark schedule in a temperature (22 ± 3 °C) and humidity (35% to roughly 70% ± 5%) controlled environment, with food and water provided ad libitum. Both male and female 4–8-week-old mice were used for experiments. Mouse experiments are not randomized and not blinded to investigators. Generation of chimeras from splenic B cell-derived iPS cells Our laboratory previously generated multiple iPS cell lines reprogramed from splenic B cells, which could contribute to high-grade chimerism in mice30. By screening these iPS cell lines using HTGTS-V(D)J-seq assays with baits for each of the functional mouse Jκ coding ends, we determined their immunoglobulin light chain rearrangements. We selected an iPS cell line harbouring, respectively, a productive Vκ6-23/Jκ5 rearrangement on one allele and a non-productive Vκ4-57/Jκ2 rearrangement that left Jκ4 and Jκ5 intact for potential Igk secondary recombination on the other allele. We denoted this line as ‘parental iPS cell’. The sequences of the Vκ6-23/Jκ5 and Vκ4-57/Jκ2 rearrangements were presented (Supplementary Table 2). We further used HTGTS-V(D)J-seq assay with a Jκ1 RSS-end bait to determine the retained primary Vκ19-93/Jκ1 RSS junction in the Vκ4-57/Jκ2 allele of the parental iPS cell (Supplementary Table 2). To enhance Igk secondary rearrangements, we further mutated the productive Vκ6-23/Jκ5 rearrangements by CRISPR–Cas9 editing in the parental iPS cell line using single-guide RNA 1 (sgRNA1) targeting the Vκ6-23/Jκ5 segment (edited iPS cell, Supplementary Table 3). The parental and edited iPS cell lines, which tested negative for mycoplasma, were injected, respectively, into RAG-deficient blastocysts to generate chimeric mice by means of RAG2-deficient blastocyst complementation as described in ref. 31. Purification of BM precursor B cells and immature B cells BM pre-B cells from wild-type or Cer/Sis-deleted 129SV mice were isolated as previously described in ref. 20. Briefly, single cell suspensions were derived from BM of 4–8-week-old wild-type or Cer/Sis-deleted 129SV mice. Then, the suspended cells were staining with anti-B220-APC (eBioscience, no. 17-0452-83, 1:1,000 dilution), anti-CD43-PE (BD Biosciences, 553271, 1:400 dilution) and anti-IgM-FITC (eBioscience, no. 11-5790-81, 1:500 dilution). Finally, B220+CD43lowIgM+ population was used to determine BM precursor B cells by means of fluorescence-activated cell sorting. As our iPS cell lines contain mixed genetic background of C57BL/6 and 129SV, we used a modified method for our iPS cell-derived chimeras that distinguishes BM progenitor B cells and precursor B cells in C57BL/6 mice19. Briefly, single cell suspensions were derived from BM of 4–8-week-old parental and edited chimeras. Then, the suspended cells were staining with anti-B220-BV711 (BioLegend, 103255, 1:300 dilution), anti-CD25-PE (BD Pharmingen, 561065, 1:300 dilution), anti-IgG1-FITC (BD Biosciences, 553443, 1:500 dilution), anti-IgM-APC (Invitrogen, 17-5790-82, 1:500 dilution), anti-CD19-BV421 (BD Biosciences, 562701, 1:300 dilution) and anti-c-Kit-PE/Cy7 (eBioscience, 25-1171-81, 1:300 dilution). Finally, B220+CD19+IgM−IgG1−CD25+ KIT− and B220+ CD19+ IgM− IgG1+ populations were used to determine BM precursor B cells and immature B cells, respectively, through fluorescence-activated cell sorting. For DNA extraction and HTGTS-V(D)J-seq assays, we could not get sufficient numbers of BM precursor B cells from the parental chimeras, due to the pre-existing functional Vκ6-23/Jκ5 rearrangement pushing cells through this developmental stage. Therefore, we used BM immature B cells from both the parental and edited chimeras for DNA extraction and HTGTS-V(D)J-seq assays using a Jκ4 coding bait. Generation of Jκ1 pre-rearranged v-Abl cell lines and derivatives To generate various Jκ1-pre-rearranged v-Abl cell lines, the previously established Rag2−/−; Eμ-Bcl2+ v-Abl cell line with single Igk allele was used as the initial v-Abl cell line3. We further mutated the downstream 3′ RS by CRISPR–Cas9 editing to minimize potential extra-chromosomal rearrangement events. RAG2 open reading frame-containing plasmids were transiently transfected into v-Abl cell lines by nucleofection. Subsequently STI-571 (Selleck, S2475) was added to the culture medium for 1 day to induce G1-arrest and transient RAG2 expression in the v-Abl cell line. STI-571 was removed by changing culture medium and the v-Abl cells were cultured for 2 more days before plating single clones in the 96-well plates at a density of roughly 0.3 multiplicity of infection. After culturing for 7 more days, half of cells from each single clone were used for PCR screening that used specific primers for, respectively, germline Jκ1, Jκ2, Jκ4 and Jκ5. Finally, pre-rearranged Vκ1-117/Jκ1, Vκ5-37/Jκ1 and Vκ3-12/Jκ1 v-Abl cell lines in which, respectively, Jκ1 was joined to the distal deletional Vκ1-117, the middle inversional Vκ5-37 and the proximal deletional Vκ3-12, were selected and used for subsequent experiments. The sequences of retained Vκ1-117/Jκ1, Vκ5-37/Jκ1 and Vκ3-12/Jκ1 coding junctions in these lines were presented (Supplementary Table 2). To generate various derivatives of Jκ1-pre-rearranged v-Abl cell lines, plasmids that expressing Cas9 and sgRNAs were transfected into the v-Abl cells by nucleofection to introduce targeted genetic modifications as previously described3. Specifically, sgRNA2 and sgRNA3 that, respectively, target upstream and downstream of Vκ18-36 promoter were transfected into the pre-rearranged Vκ5-37/Jκ1 v-Abl cell line to generate its Vκ18-36 promoter-deleted derivative; sgRNA4 and sgRNA5 that, respectively, target upstream of Vκ9-129 and downstream of Vκ1-118 were transfected into the pre-rearranged Vκ1-117/Jκ1 v-Abl cell line to generate a Vκs-inverted derivative; sgRNA6 and sgRNA7 that, respectively, target upstream of Jκ3 and downstream of Jκ5 were transfected into the pre-rearranged Vκ3-12/Jκ1 v-Abl cell line to delete the DNA segment from upstream of Jκ3 through downstream of Jκ5; sgRNA8 and sgRNA9 that, respectively, target upstream and downstream of Jκ2 were transfected into the pre-rearranged Vκ3-12/Jκ1 v-Abl cell line to generate its Jκ2-inverted derivative. All candidate clones with desired genetic modifications were confirmed by Sanger sequencing and presented in Supplementary Table 2. Sequences of all sgRNAs mentioned in this section are listed in Supplementary Table 3. None of the v-Abl cell lines was tested for mycoplasma contamination. Generation of Cer/Sis-deleted v-Abl cell lines To generate Cer/Sis-deleted v-Abl cell lines, plasmids that expressing Cas9 and sgRNAs were transfected into the Rag2−/−; Eμ-Bcl2+ v-Abl cell line by nucleofection to introduce targeted genetic modification as previously described in refs. 3,18. Specifically, sgRNA12 and sgRNA13 that, respectively, target upstream of Cer element and downstream of Sis element were transfected into the Rag2−/−;Eμ-Bcl2+ v-Abl cell line to delete Cer/Sis elements. The junctional sequence confirming the Cer/Sis-deletion in this line is presented in Supplementary Table 2. Sequences of all sgRNAs mentioned in this section are listed in Supplementary Table 3. RSS replacement experiments RSS replacement experiments were performed using plasmids expressing Cas9 and sgRNA, and short single-stranded DNA oligonucleotides (ssODN) as donor templates for homology-directed DNA repair as previously described3. Briefly, plasmids expressing Cas9 and sgRNA, and ssODN were cotransfected into the Jκ1-pre-rearranged v-Abl cell lines. Specifically, sgRNA10 and ssODN1 were used to replace the Vκ18-36 12RSS with a Vκ11-125 12RSS in the pre-rearranged Vκ5-37/Jκ1 v-Abl cell line; sgRNA11 and ssODN2–6, respectively, were used to replace the Vκ6-13 12RSS with the 12RSSs from Vκ11-125, DFL16.1-upstream, DQ52-upstream, Vκ12-44 and Vκ19-93 in the pre-rearranged Vκ3-12/Jκ1 v-Abl cell line. All candidate clones with desired genetic modifications were confirmed by Sanger sequencing (Supplementary Table 2). Sequences of all sgRNAs and ssODNs mentioned in this section are listed in Supplementary Table 3. ATAC-seq and data analyses ATAC-seq libraries were prepared using the Zymo-Seq ATAC Library Kit (D5458) according to the manual protocol. Briefly, 50,000 living cells from G1-arrest wild-type and Cer/Sis-deleted RAG2-deficient v-Abl cells were used for cell lysis and nuclei isolation. The prepared nuclei pellet was incubated with transposition mix containing Tn5 transposase for DNA tagmentation and sequencing adaptor ligation. Finally, ATAC-seq libraries were prepared from adaptor-ligated DNA by PCR amplification and sequenced on Illumina NextSeq2000 using a paired-end 100-bp sequencing kit. ATAC-seq libraries were processed with a previously described pipeline42. HTGTS-V(D)J-seq and data analyses HTGTS-V(D)J-seq libraries were prepared as described3. Briefly, 2 μg of DNA from sorted BM pre-B cells from wild-type and Cer/Sis-deleted mice or BM immature B cells of iPS cell-derived chimeras were used for HTGTS-V(D)J-seq library construction using indicated bait primers listed in figures and figure legends. For RAG2-deficient Jκ1-pre-rearranged v-Abl cell lines, RAG2 was reconstituted by means of retroviral infection with the pMSCV-FLAG-RAG2-GFP vector. After adding signal transduction inhibitor to arrest v-Abl cells in the G1 stage for 4 days, v-Abl cells were collected for DNA purification. Then 10 μg of DNA from G1-arrested RAG-complemented v-Abl cells was used for preparing HTGTS-V(D)J-seq libraries using indicated bait primers. The final libraries were sequenced on Illumina NextSeq550 or NextSeq2000 using a paired-end 150-bp sequencing kit. HTGTS-V(D)J-seq libraries were processed with a previously described pipeline3. All HTGTS libraries were normalized to 500,000 total reads for comparison. Sequences of bait primers used are listed in Supplementary Table 3. We developed a mouse Igk-specific cryptic RSS usage analysis pipeline. First, cryptic RSS junctions were extracted from HTGTS-V(D)J-seq data using a described pipeline that removes annotated and unannotated bona fide RSSs in the Igk locus3. Second, for each junction, we annotated deletion length from the RSS and insertion length excluding P-elements of bona fide non-productive Vκ to Jκ rearrangements (to avoid influences of selection) in mouse BM pre-B cells and v-Abl cell lines. This analysis revealed essentially no bona fide RSS-associated junctions with greater than 5 bp deletions in Jκ coding bait sequences or greater than 7 bp deletions in Vκ coding prey sequences, and only 1–2% with greater than 2 bp insertions between Vκ-to-Jκ junctions. Accordingly, we filtered out cryptic RSS junctions containing deletions greater than 5 bp in bait, greater than 7 bp deletions in prey, or greater than 2 bp junctional insertions. Third, to exclude misaligned reads, we filtered out cryptic RSS junctions containing more than 2 mutations within 20 bp of the cryptic RSS-associated surrogate coding prey sequences. The programs for this mouse Igk-specific cryptic RSS usage analysis along with annotated data on which it is based have been added to the GitHub repository (https://github.com/Yyx2626/HTGTS_related/tree/main/Igk_specific_anno_and_filter). We note that this pipeline should not be used for off-target analysis of cryptic RSS junctions in human pre-B cells because, unlike mouse pre-B cells, human pre-B cells express terminal deoxynucleotidyl transferase and add N-regions22,38. 3C-HTGTS and data analyses 3C-HTGTS libraries using an iEκ bait were prepared from the G1-arrested RAG2-deficient v-Abl cells as described in ref. 3. Final 3C-HTGTS libraries were sequenced on Illumina NextSeq550 or NextSeq2000 using a paired-end 150-bp sequencing kit, and were processed with a previously described pipeline3 (for details, see ‘Code availability’). All 3C-HTGTS libraries were normalized to 65,488 total junctions, which represents the smallest recovered number of junctions among the 3C-HTGTS libraries that were compared. Primer sequences used for generating 3C-HTGTS libraries are listed in Supplementary Table 3. GRO-seq and data analyses Global run-on sequencing (GRO-seq) libraries were prepared from the G1-arrested, RAG2-deficient v-Abl cell lines as described in ref. 20, sequenced using Illumina NextSeq550 or NextSeq2000 using paired-end 150-bp sequencing kits and processed with a previously described pipeline in ref. 20. Quantification, statistics and reproducibility All HTGTS-V(D)J-seq, 3C-HTGTS, ATAC-seq and GRO-seq experiments have been repeated three times independently with similar results. NextSeq550 control software (v.2.2.0) and NextSeq 1000/2000 control software (v.1.5.0.42699) were used for high-throughput sequencing data collection. Graphs were generated using GraphPad Prism 9, IGV (v.2.22.1) and R version 3.6.1. FlowJo (v.9.3.2) was used for analysing the fluorescence-activated cell sorting data. After normalization, HTGTS-V(D)J-seq, 3C-HTGTS, ATAC-seq and GRO-seq signals of three repeats were merged as average ± s.e.m. of the maximum value. An unpaired, two-sided Welch’s t-test was used to determine the statistical significance of difference between indicated samples, with P values presented in relevant figure legends. Availability of materials All plasmids, cell lines and mouse lines used in this study are available from the authors upon request. Reporting summary Further information on research design is available in the Nature Portfolio",
+      "difficulty_constant": 12.8,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Experimental procedures We did not use statistical methods to predetermine sample size. We also did not randomize experiments. During experiments and outcome assessments, investigators were not ________ to allocation.",
+          "options": {
+            "A": "restricted",
+            "B": "adapted",
+            "C": "blinded",
+            "D": "entitled"
+          },
+          "answer": "C",
+          "explanation": "根据上下文语境，科学实验中为了减少偏差通常需要blind（盲法），此处说investigators were not blinded to allocation，符合学术用语习惯。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Mouse work was performed in ________ with the relevant ethical regulations established by the Institutional Animal Care and Use Committee of Boston Children’s Hospital.",
+          "options": {
+            "A": "contempt",
+            "B": "contrast",
+            "C": "compliance",
+            "D": "conflict"
+          },
+          "answer": "C",
+          "explanation": "in compliance with是固定搭配，意为“遵守，符合”。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Mice were maintained on a 14-h light/10-h dark schedule in a temperature and humidity controlled environment, with food and water provided ad ________.",
+          "options": {
+            "A": "libitum",
+            "B": "infinitum",
+            "C": "valorem",
+            "D": "tempore"
+          },
+          "answer": "A",
+          "explanation": "ad libitum是生物学术语，意为“随意地，自由取用”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Our laboratory previously generated multiple iPS cell lines reprogramed from splenic B cells, which could ________ to high-grade chimerism in mice.",
+          "options": {
+            "A": "submit",
+            "B": "attribute",
+            "C": "object",
+            "D": "contribute"
+          },
+          "answer": "D",
+          "explanation": "contribute to意为“有助于，导致”，符合语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "We selected an iPS cell line harbouring, respectively, a productive Vκ6-23/Jκ5 rearrangement on one allele and a non-productive Vκ4-57/Jκ2 rearrangement that left Jκ4 and Jκ5 ________ for potential Igk secondary recombination.",
+          "options": {
+            "A": "intact",
+            "B": "depleted",
+            "C": "absent",
+            "D": "exposed"
+          },
+          "answer": "A",
+          "explanation": "intact意为“完整的，未受损的”，在此处表示基因片段保留完好。"
+        },
+        {
+          "q_number": 6,
+          "stem": "To ________ Igk secondary rearrangements, we further mutated the productive Vκ6-23/Jκ5 rearrangements by CRISPR–Cas9 editing.",
+          "options": {
+            "A": "hinder",
+            "B": "enhance",
+            "C": "suspend",
+            "D": "conceal"
+          },
+          "answer": "B",
+          "explanation": "根据上下文，为了促进（enhance）后续重排，使用了CRISPR技术。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Briefly, single cell suspensions were derived from BM of 4–8-week-old wild-type or Cer/Sis-deleted 129SV mice. Then, the suspended cells were ________ with anti-B220-APC.",
+          "options": {
+            "A": "staining",
+            "B": "stain",
+            "C": "stained",
+            "D": "to stain"
+          },
+          "answer": "C",
+          "explanation": "被动语态，需要过去分词stained。"
+        },
+        {
+          "q_number": 8,
+          "stem": "As our iPS cell lines contain mixed genetic background of C57BL/6 and 129SV, we used a modified method for our iPS cell-derived chimeras that ________ BM progenitor B cells and precursor B cells.",
+          "options": {
+            "A": "distinguishes",
+            "B": "diminishes",
+            "C": "extinguishes",
+            "D": "relinquishes"
+          },
+          "answer": "A",
+          "explanation": "distinguishes意为“区分”，符合语境中对细胞群体的分类。"
+        },
+        {
+          "q_number": 9,
+          "stem": "For DNA extraction and HTGTS-V(D)J-seq assays, we could not get sufficient numbers of BM precursor B cells from the parental chimeras, ________ the pre-existing functional Vκ6-23/Jκ5 rearrangement.",
+          "options": {
+            "A": "in spite of",
+            "B": "in view of",
+            "C": "due to",
+            "D": "by means of"
+          },
+          "answer": "C",
+          "explanation": "due to表示原因，此处解释无法获得足够细胞的原因。"
+        },
+        {
+          "q_number": 10,
+          "stem": "We further mutated the downstream 3′ RS by CRISPR–Cas9 editing to ________ potential extra-chromosomal rearrangement events.",
+          "options": {
+            "A": "minimize",
+            "B": "magnify",
+            "C": "replicate",
+            "D": "implicate"
+          },
+          "answer": "A",
+          "explanation": "minimize意为“最小化，降低”，符合实验减少误差的操作逻辑。"
+        },
+        {
+          "q_number": 11,
+          "stem": "RAG2 open reading frame-containing plasmids were transiently transfected into v-Abl cell lines by nucleofection. ________, STI-571 was added to the culture medium.",
+          "options": {
+            "A": "Consequently",
+            "B": "Subsequently",
+            "C": "Alternatively",
+            "D": "Conversely"
+          },
+          "answer": "B",
+          "explanation": "subsequently意为“随后”，表示步骤的先后顺序。"
+        },
+        {
+          "q_number": 12,
+          "stem": "All candidate clones with desired genetic modifications were confirmed by Sanger sequencing and ________ in Supplementary Table 2.",
+          "options": {
+            "A": "preferred",
+            "B": "prevented",
+            "C": "preceded",
+            "D": "presented"
+          },
+          "answer": "D",
+          "explanation": "presented意为“展示，列出”，指数据表格的呈现。"
+        },
+        {
+          "q_number": 13,
+          "stem": "RSS replacement experiments were performed using plasmids expressing Cas9 and sgRNA, and short single-stranded DNA oligonucleotides (ssODN) as donor ________ for homology-directed DNA repair.",
+          "options": {
+            "A": "substrates",
+            "B": "catalysts",
+            "C": "templates",
+            "D": "inhibitors"
+          },
+          "answer": "C",
+          "explanation": "donor templates是基因编辑中的标准术语，指供体模板。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Briefly, 50,000 living cells from G1-arrest wild-type and Cer/Sis-deleted RAG2-deficient v-Abl cells were used for cell ________ and nuclei isolation.",
+          "options": {
+            "A": "lysis",
+            "B": "analysis",
+            "C": "synthesis",
+            "D": "paralysis"
+          },
+          "answer": "B",
+          "explanation": "细胞生物学操作，细胞裂解常与分析或分离结合，lysis与isolation配套。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Finally, ATAC-seq libraries were prepared from adaptor-ligated DNA by PCR amplification and sequenced on Illumina NextSeq2000 using a ________-end 100-bp sequencing kit.",
+          "options": {
+            "A": "merged",
+            "B": "singular",
+            "C": "divided",
+            "D": "paired"
+          },
+          "answer": "D",
+          "explanation": "paired-end sequencing是高通量测序的专用术语（双端测序）。"
+        },
+        {
+          "q_number": 16,
+          "stem": "First, cryptic RSS junctions were extracted from HTGTS-V(D)J-seq data using a described pipeline that removes annotated and unannotated bona fide RSSs in the Igk ________.",
+          "options": {
+            "A": "locus",
+            "B": "focus",
+            "C": "bonus",
+            "D": "corpus"
+          },
+          "answer": "D",
+          "explanation": "Igk locus是遗传学名词，意为“基因座”。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Accordingly, we filtered out cryptic RSS junctions containing deletions greater than 5 bp in bait, greater than 7 bp deletions in prey, or greater than 2 bp junctional ________.",
+          "options": {
+            "A": "inflections",
+            "B": "inversions",
+            "C": "interruptions",
+            "D": "insertions"
+          },
+          "answer": "D",
+          "explanation": "与deletions相对的是insertions（插入），指基因序列变异类型。"
+        },
+        {
+          "q_number": 18,
+          "stem": "We note that this pipeline should not be used for off-target analysis of cryptic RSS junctions in human pre-B cells because, ________ mouse pre-B cells, human pre-B cells express terminal deoxynucleotidyl transferase.",
+          "options": {
+            "A": "like",
+            "B": "unlike",
+            "C": "as",
+            "D": "via"
+          },
+          "answer": "B",
+          "explanation": "unlike表示“不像……”，用于区分人与小鼠细胞的不同机制。"
+        },
+        {
+          "q_number": 19,
+          "stem": "All HTGTS-V(D)J-seq, 3C-HTGTS, ATAC-seq and GRO-seq experiments have been repeated three times ________ with similar results.",
+          "options": {
+            "A": "independently",
+            "B": "intensively",
+            "C": "intentionally",
+            "D": "invariably"
+          },
+          "answer": "B",
+          "explanation": "independently repeated意为“独立重复”，是科研描述实验可重复性的标准说法。"
+        },
+        {
+          "q_number": 20,
+          "stem": "An unpaired, two-sided Welch’s t-test was used to determine the statistical ________ of difference between indicated samples.",
+          "options": {
+            "A": "significancy",
+            "B": "signification",
+            "C": "signifier",
+            "D": "significance"
+          },
+          "answer": "A",
+          "explanation": "statistical significance是统计学标准短语，意为“统计学显著性”。"
+        }
+      ]
+    },
+    {
+      "title": "Should Europe’s pensions be reformed?",
+      "article_update_date": "03.28.2026",
+      "source_journal": "Economist",
+      "body_text": "Should Europe’s pensions be reformed? Letters | A selection of correspondence Should Europe’s pensions be reformed? Also this week, Hungarian think-tanks, Brazilian film, Iran, Asian pop music, email sign-offs March 26th 2026 Letters are welcome via email to letters@economist.com Find out more about how we process your letter Your leader calling for reforms to Europe’s pensions gave Otto von Bismarck credit for inventing the pay-as-you-go system, whereby today’s workers pay for current pensions (“Unleash the pensions”, March 7th). Germany’s 1889 law in fact introduced a funded system. But Bismarck arguably favoured a different approach and was overruled by bureaucrats at the Ministry of the Interior. They dismissed PAYG as the economics of a bad housekeeper, because it concealed the true cost of pensions by deferring the burden to future generations. A fully capital-funded system was the stated goal, even if never fully achieved in practice. Germany’s move towards PAYG was gradual. A revision of the law in 1899 quietly eliminated the requirement to cover future entitlements. More dramatically, the remaining pension reserves were heavily invested in war bonds during the first world war, used in effect to finance a conflict Germany ultimately lost. What remained was then wiped out by hyperinflation in the early 1920s. Even then, PAYG was regarded as a temporary necessity, with capital-based funding remaining the stated idea. History repeated itself in the second world war: reserves were raided for the war effort. Formal adoption of PAYG came with the pension reforms of 1957 and 1969, after lengthy political debate. The case for pension reform may be strong. But the historical record of funded systems offers a warning too: they are a fine idea, right up until when governments decide to invest them in a war they might lose. Timon de GrootSocial and economic historianInternational Institute for Social HistoryAmsterdam According to Charlemagne (March 14th), the great menace now confronting Europe is not war, stagnation, or energy insecurity, but the alarming possibility that a few Hungarian-linked media outlets, conferences and think-tanks might exist in Brussels. The column suggests that Hungary, a country of 10m people, has constructed an “illiberal industrial complex” capable of reshaping Europe’s intellectual life . If so, this would be a remarkable feat, given the crowded marketplace it supposedly threatens: a Brussels ecosystem already populated by thousands of NGOs, advocacy groups, foundations, EU-funded initiatives and well-endowed policy institutes, most of which share broadly similar assumptions about migration, climate policy and social issues, and remarkably the same assumptions as The Economist. Against that backdrop, the sudden appearance of a handful of conservative platforms seems less like a megaphone drowning out debate than a slightly different voice entering a very loud room. The more curious implication of the piece is that intellectual pluralism is healthy, provided it remains within familiar ideological boundaries. When progressive organisations publish reports, host conferences and influence policy, this is civic engagement. When conservative ones do the same, it becomes an “illiberal industrial complex”. If Brussels truly is the open marketplace of ideas it claims to be, a few Hungarian-funded think-tanks should hardly be cause for alarm. John O’ BrienHead of communicationsMCC Brussels I was surprised by the claim in your article on the resurgence of interest in Brazilian films that the industry has “long been considered Latin America’s cinema laggard” (“The new national pride”, March 14th). The article points to the fact that many other Latin and South American countries exceed Brazil in the number of Oscars their films have received. But the Oscars historically have tended to favour productions that look like Hollywood movies. One of the virtues of Brazilian cinema is its originality, a quality for which it has been admired by film lovers around the world for many decades. A different picture is offered by the list of the greatest films of all time published by the British Film Institute in 2022. Two Brazilian films appear on this list: “Limite”, an influential silent film from 1931 by Mário Peixoto, and “Twenty Years Later”, a documentary by Eduardo Coutinho released in 1984. Mexico and Chile each have one film on the list and there are four from Argentina, three of which were directed by Lucrecia Martel. Even the BFI’s list, which favours American and European cinema, does not reflect some of Brazil’s greatest artists: Humberto Mauro, Lima Barreto, Alberto Cavalcanti, Glauber Rocha, Nelson Pereira dos Santos, Rogério Sganzerla, Júlio Bressane, among others. At the recent Oscars “The Secret Agent” was nominated for best picture and best actor. Let us celebrate the success of the director, Kleber Mendonça Filho, without denigrating one of the richest cultures in film history. Jonathan MackrisBerkeley, California You wrote about the operational constraints of the Iran war on the oil market , touching on the Strait of Hormuz, convoy limits, insurance, strategic reserves, Russian waivers and shale (“After shock”, March 14th). But the conflict is not only testing oil logistics. It is also testing the wider architecture that has made American power comparatively cheap to sustain: universal shipping norms, allied automaticity and the confidence structure behind American financial primacy. If Gulf energy infrastructure keeps being hit, and if institutions, insurers and operators begin adapting through differentiated passage, pricing and risk treatment, the significance of the war changes. The danger is no longer just a costly oil shock. It is that small changes in allied and market behaviour may begin to make American primacy more conditional and more expensive to reproduce. In that sense, the deeper issue is not simply whether Donald Trump can cool prices. It is whether this war is exposing how tightly military coercion, alliance management, shipping governance and sovereign finance are now coupled. Stéphane TibiJerusalem Your article on Stray Kids showed how digital platforms and highly organised fandoms have reshaped global pop (“Down with the kids”, February 28th). Another pop act from Asia suggests that model is already evolving. SB19, a five-member group from the Philippines known for powerful live vocals and stagecraft, displays many of the traits associated with K-pop’s global reach: over 1bn Spotify streams, Billboard chart success, British and European chart appearances and a fiercely co-ordinated international fanbase. What distinguishes SB19 is structure. Through their own company, 1Z Entertainment, the group manages its business affairs and retains its artistic independence, an approach that challenges the tightly managed production model long associated with K-pop. The result is P-pop, Filipino pop music that combines local identity with global reach. K-pop may have pioneered the model; SB19 suggests that global cultural production is becoming an ecosystem rather than an industry. VIRGINIA WATSONHonolulu You make a sweeping assumption about your readership’s listening habits. I probably conform to the typical demographic of your readers, with an unbroken subscription since my time as a student at the London School of Economics. I can also name all Stray Kids’ hits and the members of the band, and am very much looking forward to seeing BTS in concert in July. JOSEPHINE GAULDFreetown, Sierra Leone I am a 75-year-old grandparent who is somewhat stymied about ways to connect with my 13 year-old granddaughter. I called her after reading your article. She and I had a great FaceTime conversation about K-pop groups, whom she likes, how she finds their music, and so on. I’ve now got a list of musicians to explore. You did a great job fostering inter-generational communication. KAREN CHRISTENSENAurora, Illinois Bartleby’s taxonomy of email opening lines was entertaining (March 7th). But people often remember endings more vividly than beginnings. “Sincerely” sounds like you’re protesting. Anything with “yours” is presumptuous. “Kind regards” is safe but flavourless. “Best regards” is marginally warmer. Plain “regards” borders on hostile. “Best wishes” belongs on a birthday card. In Jonathan Safran Foer’s “Everything Is Illuminated”, a character signs off his letters with “Guilelessly”. That may be the most honest option going. Eugene YigaBarcelona This article was downloaded by zlibrary from https://www.economist.com//letters/2026/03/26/should-europes-pensions-be-reformed",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the letter by Timon de Groot, what was the primary historical reason for the failure of Bismarck’s original pension vision?",
+          "options": {
+            "A": "Bismarck's personal preference for a pay-as-you-go system.",
+            "B": "The administrative interference by Ministry of the Interior officials.",
+            "C": "The lack of sufficient capital to initiate a funded system.",
+            "D": "The immediate collapse of Germany's economy during the 1880s."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到Bismarck实际上倾向于另一种方法（funded system），但被内政部的官僚否决了（was overruled by bureaucrats at the Ministry of the Interior），因此选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "John O’ Brien uses the term 'illiberal industrial complex' to illustrate what?",
+          "options": {
+            "A": "The genuine threat posed by Hungarian think-tanks to European democracy.",
+            "B": "The overwhelming influence of conservative media on Brussels' policy.",
+            "C": "The double standard in how Brussels perceives ideological advocacy groups.",
+            "D": "The need for stricter regulations on NGOs operating within the EU."
+          },
+          "answer": "C",
+          "explanation": "作者指出当进步组织发表报告时被视为公民参与，而保守组织做同样的事却被称为“非自由工业综合体”，旨在讽刺布鲁塞尔在处理不同意识形态组织时的双重标准。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the author's primary critique regarding the British Film Institute's list of 'greatest films'?",
+          "options": {
+            "A": "It contains too many films directed by Lucrecia Martel.",
+            "B": "It incorrectly identifies Brazil as Latin America's cinema leader.",
+            "C": "It reflects a biased selection that ignores significant Brazilian cinematic achievements.",
+            "D": "It relies too heavily on documentaries rather than narrative silent films."
+          },
+          "answer": "C",
+          "explanation": "文章提到BFI榜单偏向欧美，且并未反映出巴西的一些最伟大的艺术家，因此是对其选片标准和遗漏现象提出批评。"
+        },
+        {
+          "q_number": 4,
+          "stem": "According to Stéphane Tibi, why is the current conflict in the Middle East a significant concern for the US?",
+          "options": {
+            "A": "It threatens to drive oil prices to an unmanageable level.",
+            "B": "It exposes the fragility of the interconnected systems supporting American global influence.",
+            "C": "It proves that Donald Trump is incapable of managing international energy prices.",
+            "D": "It has caused a total breakdown in communication between allied nations."
+          },
+          "answer": "B",
+          "explanation": "作者指出问题不仅在于油价，而在于战争暴露了军事强制、联盟管理、航运治理和主权金融之间紧密耦合的架构，即美国全球影响力的支撑系统。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is implied as the major difference between traditional K-pop and the P-pop model of SB19?",
+          "options": {
+            "A": "SB19's refusal to use digital platforms for marketing.",
+            "B": "The lack of international fanbase coordination for P-pop groups.",
+            "C": "The shift toward greater artistic and business independence for the artists.",
+            "D": "The focus on live stagecraft rather than recorded music production."
+          },
+          "answer": "C",
+          "explanation": "文章指出SB19通过自己的公司管理商业事务并保留艺术独立性，这与K-pop长期以来被紧密管理的生产模式形成鲜明对比。"
+        }
+      ]
+    },
+    {
+      "title": "Nanjing massacre remembered on 80th anniversary",
+      "article_update_date": "04.02.2026",
+      "source_journal": "China Daily",
+      "body_text": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed by the Japanese military during World War II brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition, the Committee to Promote Reunification of China, the Alliance for Preserving the Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held annually for the past 20 years with the aim of exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history. \"The Japanese Army blatantly violated international conventions and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians were murdered and one third of the buildings were destroyed,\" said Zha Liyou, acting Chinese consul general in San Francisco, at the service. Japanese troops captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing a slaughter that lasted more than 40 days. Tens of thousands of women were raped. \"Our stories are linked. The fate of over 400,000 women sexually enslaved by the Japanese Imperial Army during World War II is part and parcel of what happened during the Nanjing Massacre,\" said Judith Mirkinson, president of the Comfort Women Justice Coalition. She said the 20th century has been called the most violent century in the history of the world, and that one way to ensure peace in the 21st century is through truth and reconciliation. \"Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes,\" she said. \"They must give justice to those few people who still survive from the Nanjing Massacre and to the memory of what happened there.\" From the time that Japan invaded northeast China in September 1931, followed by a full-scale invasion that started on July 7, 1937, around 35 million Chinese soldiers and civilians were killed or injured during the Japanese occupation, which continued until 1945. To honor the victims and the survivors, and to pursue justice and an enduring peace, the Chinese community worldwide joined hands this year to commemorate this historic event which was designated by the Chinese government as National Memorial Day for Nanjing Massacre Victims. \"To remember the atrocities committed by the Japanese Army during World War II does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace,\" said Zha. \"It might be a comfort to the victims and those who sacrificed their lives that the Nanjing Massacre has been etched into the memory of the Chinese people and the world civilization.\" The Nanjing Massacre was entered onto the UNESCO Memory of the World Register, a compendium aimed at preserving documented heritage of universal value, in 2015. liazhu@chinadailyusa.com",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary purpose of the memorial service held annually for the past 20 years in San Francisco?",
+          "options": {
+            "A": "To celebrate the 80th anniversary of the end of World War II.",
+            "B": "To request financial compensation from the Japanese government.",
+            "C": "To keep the history of the Nanjing Massacre alive and demand truth.",
+            "D": "To protest against current Japanese economic policies in China."
+          },
+          "answer": "C",
+          "explanation": "文章第二段明确指出，纪念活动旨在揭露日本帝国军队的战争罪行，并鼓励人们铭记这段历史，这与选项C相符。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to Judith Mirkinson, what is the prerequisite for achieving peace and reconciliation?",
+          "options": {
+            "A": "Forgetting the violence of the 20th century.",
+            "B": "Acknowledging the truth regarding past crimes.",
+            "C": "Establishing formal diplomatic ties between Asian communities.",
+            "D": "Forming a coalition to rewrite historical textbooks."
+          },
+          "answer": "B",
+          "explanation": "文章第五段援引Mirkinson的话称：'Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes.'，即和解的前提是承认历史真相。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the phrase 'part and parcel' in the fourth paragraph most likely mean?",
+          "options": {
+            "A": "A minor detail.",
+            "B": "A separate incident.",
+            "C": "An essential or integral part.",
+            "D": "An unexpected consequence."
+          },
+          "answer": "C",
+          "explanation": "“Part and parcel”是一个固定短语，意为“重要组成部分”。上下文讨论慰安妇受害者与南京大屠杀之间的关联，强调二者是不可分割的整体。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Why does Zha Liyou emphasize the importance of remembering historical atrocities?",
+          "options": {
+            "A": "To sustain the enmity between the two nations indefinitely.",
+            "B": "To ensure that international conventions are rewritten.",
+            "C": "To remind people of the history and inspire a love for peace.",
+            "D": "To seek revenge for the lives sacrificed during the occupation."
+          },
+          "answer": "C",
+          "explanation": "文章倒数第二段引用Zha Liyou的话：'does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace'，明确否定了为了延续仇恨，而是为了启发和平。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the UNESCO Memory of the World Register mentioned in the final paragraph?",
+          "options": {
+            "A": "It recognizes the Nanjing Massacre as a significant documented historical event.",
+            "B": "It provides legal authority to prosecute war criminals.",
+            "C": "It is a registry that excludes events occurring in the 20th century.",
+            "D": "It serves to honor the individuals who organized the memorial service."
+          },
+          "answer": "A",
+          "explanation": "文章结尾提到南京大屠杀被列入UNESCO世界记忆名录，这是一项旨在保存具有普遍价值的记录遗产的项目，表明该事件已被国际组织公认为具有重要史学价值的文献记录。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 13",
+      "article_update_date": "05.03.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | The Eighth Deadly Sin Humankind has devised a new form of debasement. by James Parker Sometimes, staring brainlessly into my laptop in the trough of a weekday afternoon, experiencing myself as a kind of online shadow, a thing of fidgets, a half-being hollowed out by roaming spectral appetites—for destruction, for gratification, for the email that never comes—it occurs to me to ask: Now, which of the seven deadly sins is this ? Anger’s in there somewhere, sure, a kind of generalized psychic road rage, but not enough of it to qualify. Same with envy, pride, gluttony, lust—just floating shards. Avarice? Nah. Of the seven, sloth probably comes closest, that enigmatic void state known to the early Christians as “acedia.” But not even acedia, bottomless as it is, can quite comprehend this plugged-in groundlessness, this ether-sweeping emptiness, this interstellar elongation of the spirit. Sin, the theologians tell us, is whatever separates us from God. Whatever blocks the beams of divine love. And at 3:23 p.m. in Caffè Nero, I am all but unreachable by heavenly radiation; I can feel it wavering, honey-colored, at the fringes of my soul. So have we done it at last—you, me, the kids? Have we invented an eighth deadly sin? I thought initially that the title of Peter Jones’s Self-Help From the Middle Ages: What the Seven Deadly Sins Can Teach Us About Living was an oxymoron. Self-help is our thing, after all, our exemplary piece of circular modernity, our little closed circuit—the distressed subject coming to its own aid. The medievals, more vertical in their thinking, would have counted on the down-rushing swoop of God’s grace. But Jones, a medieval historian, shows us that the High and Later Middle Ages (1100 to 1500, roughly) were every bit as goofy as we are about human nature and behavior, and equally hooked on buzzwords, listicles (Catherine of Siena’s five different types of tears , Thomas Aquinas’s five varieties of gluttony ), and junk science. To explain the inexplicable (that is, themselves), the medievals used the 12 signs of the zodiac, the four humors—yellow bile, black bile, blood, and phlegm—and the seven deadly sins. Jones takes the seven one by one, a chapter for each, arguing that this gnarly old taxonomy represents not only a timeless decoction of human wisdom but something of a moral map for our present wanderings. I think I agree with him, but let’s see. It turns out that there were eight, at least in the beginning. Evagrius Ponticus was one of the world-abandoning superstar Desert Fathers of fourth-century Egypt. Influencer-like, he stood in freezing wells and subsisted on bread and oil, and after much torment and cogitation, he drew up a list of what he called “generic thoughts,” or routine invaders of the spirit: gluttony, lust, avarice, sadness, anger, sloth, vainglory, and pride. Subsequent spiritual engineers made their tweaks to Evagrius’s system , but the decisive overhaul was performed 200 years later, by Pope Gregory the Great. He rolled sadness into sloth, vainglory into pride, added envy, and voilà: the seven deadly sins. From the November 2024 issue: Hillary Kelly on Oliver Burkeman’s unlikely approach to self-help Now the sins were characters. They could be personified, and artists went to town. An illustration for Guillaume de Deguileville’s 14th-century poem “The Pilgrimage of Human Life” depicts avarice as a woman whose arms have been cut off (she retains the stumps) and replaced with allegorical limbs—feathered claws for rapaciousness, hands holding begging bowls and scales for moneylending, and so on. And is her tongue hanging out? Is she drooling with money-lust? It looks like it. Giotto painted envy as a woman —yes, the medievals, like us, were misogynists—a slanderous monster with a snake squirming out of her mouth, turning back, and reentering her head at the eyes. Also, she has huge, swiveling, batlike ears. And her feet are on fire. Ghastly as they are, these allegorical images don’t really touch us moderns, or not deeply. Much more disturbing and relatable, in Giotto’s case, are the sour-faced onlookers and eavesdroppers who lurk at the edges of his frescoes in the Arena Chapel, in Padua: the servant watching in disaffection as an angel tells Anne that she is going to give birth to the Virgin Mary; the scowling, black-veiled woman overhearing Anne tell her husband, Joachim, that she has conceived. To be one of these characters, Jones writes, is to be a “bitter witness.” We know these people. We are these people. Social media: a cloud of bitter witnesses! This is envy— invidia —as it lives inside us, shriveling our spirits and kindling our meannesses. Because this is 2026 and everything’s got to be personal, Self-Help From the Middle Ages prefaces each chapter, each sin, with a reminiscence from the author’s time teaching medieval history at a university in Siberia. Hemmed in by the cold, under laboratory conditions as it were, Jones self-examines in the lurid light of the seven deadlies. His transgressions are meek—a bit of ogling at the hot springs (lust), a snippy comment in a faculty meeting (anger). He doesn’t trash the common room in an alcoholic blaze or crucify a colleague’s cat. But this is precisely the point: The sins are quotidian, undramatic, regular human business. You can do all seven without leaving your house. The trick is to recognize the sins, to “name” them (in a modern but very appropriate locution). They offer a kind of diagnostic prism, refracting the black, primordial beam of sin into lesser rays of the identifiably and manageably human. And once you know what you’re dealing with, you can summon its opposite. If pride is getting the better of you, engage humility; if gluttony, moderation; if envy, compassion; and so on. Otherwise they’ll hold us, they’ll dominate us, these sins. While I was reading the chapter on anger, I experienced a surge in understanding as to the nature of sin itself. Sin is subtle, seductive, addictive, of course: The medical encyclopedia The Property of Things (circa 1240) describes anger very perceptively as a “wave of bliss.” (Oh, the white-hot elation of righteousness, carrying me away!) But it’s also rigid and carceral, a system of control. Jones gives us the 13th-century Catalonian doctor Arnaud de Vilanova, who, after limited success treating anger with the miracle drug theriac (made from viper’s flesh sweetened with honey, a distillation of lilies, and about 40 other ingredients), fell to pondering the character of the malady itself. As Jones writes, “Fury pulls the mind away from reason (ratio), Arnaud reflected, and losing yourself in anger is like letting a puppeteer take control of your brain as well as your limbs.” A puppeteer controlling your brain? Heavy-metal fans know where this is going—straight to the primary text of compulsion and merciless soul-negation, Metallica’s “ Master of Puppets ”: “Master of puppets, I’m pulling your strings / Twisting your mind and smashing your dreams / Blinded by me, you can’t see a thing / Just call my name ’cause I’ll hear you scream.” This is where the personification of the seven deadlies comes in handy: You, you naughty person, you libertine, rage beast, sybarite, whatever, might think that you’re committing a sin. But it’s the sin, the master of puppets, that is committing you. Unless you can turn, look it in the face, and summon the right ally. As for the eighth sin, the new one—having Wi-Fi—is there anything to be done about that? Naturally, excessive online-ness has its counter-impulses: the digital detoxes and the dopamine fasts, all in the fine old spirit of medieval asceticism. You can go online right now and learn about how to be offline. But to free ourselves from this one, to even have the beginnings of a program to free ourselves, I think we’re going to have to do the truly and terrifyingly medieval thing. We’re going to have to get on our knees and pray. This article appears in the May 2026 print edition with the headline “The Eighth Deadly Sin.” This article was downloaded by calibre from https://www.theatlantic.com/magazine/2026/05/modern-self-help-seven-deadly-sins/686577/ | Section menu | Main menu |",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first paragraph, how does the author characterize his experience of modern digital existence?",
+          "options": {
+            "A": "As a deliberate act of rebellion against theological constraints.",
+            "B": "As a profound sense of spiritual void that escapes traditional definitions of sin.",
+            "C": "As an intense feeling of anger triggered by constant online notifications.",
+            "D": "As a manageable state of mind comparable to medieval concepts of sloth."
+          },
+          "answer": "B",
+          "explanation": "文章第一段作者描述自己在线上的状态为“hollowed out”、“plugged-in groundlessness”和“interstellar elongation of the spirit”，明确指出尽管这接近懒惰（acedia），但传统的七宗罪不足以涵盖这种现代的空虚感。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest about the relationship between Peter Jones’s book and modern 'self-help' culture?",
+          "options": {
+            "A": "The book successfully reconciles modern self-help with medieval theological grace.",
+            "B": "The book exposes modern self-help as a circular system that lacks external guidance.",
+            "C": "The book argues that medieval self-help was superior to modern techniques.",
+            "D": "The book validates the author's initial skepticism that self-help is inherently oxymoronic."
+          },
+          "answer": "B",
+          "explanation": "作者提到现代自助是“circular modernity”和“little closed circuit”，而中世纪思维更垂直，依赖神的恩典。Jones的书展示了中世纪同样存在类似于我们现在的行为模式，通过分析指出这种“闭环”特征。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author references Giotto’s depiction of 'bitter witnesses' to support the argument that:",
+          "options": {
+            "A": "Medieval art serves as a mirror for modern social media behavior.",
+            "B": "Medieval painters were more insightful about human nature than modern photographers.",
+            "C": "Envy is a sin that only manifests in the presence of others.",
+            "D": "Modernity has failed to move beyond the misogynistic tropes of the Middle Ages."
+          },
+          "answer": "A",
+          "explanation": "文中通过分析Giotto壁画边缘的“bitter witnesses”，将其与现代社交媒体上的旁观者联系起来，指出“We know these people. We are these people. Social media: a cloud of bitter witnesses!”，强调了中世纪艺术对现代行为的映射。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary function of 'naming' sins according to the author's interpretation of Jones’s work?",
+          "options": {
+            "A": "To categorize human behavior into rigid, unchangeable scientific types.",
+            "B": "To justify human transgressions as inevitable products of biology.",
+            "C": "To provide a diagnostic framework that allows for the implementation of countervailing virtues.",
+            "D": "To replace traditional religious confession with modern psychological labeling."
+          },
+          "answer": "C",
+          "explanation": "作者指出命名罪恶的作用在于提供一个“diagnostic prism”，通过识别罪恶从而召集其对立面（如以节制对抗贪食，以慈悲对抗嫉妒），从而实现管理。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author imply by quoting Metallica’s 'Master of Puppets'?",
+          "options": {
+            "A": "That sin is a collaborative effort between the individual and the deity.",
+            "B": "That the individual loses agency when overwhelmed by sin.",
+            "C": "That contemporary music is a more effective teacher than medieval theology.",
+            "D": "That sin is an external entity that can be completely eliminated through music."
+          },
+          "answer": "B",
+          "explanation": "引用该歌词是为了呼应前面关于愤怒如同“puppeteer”控制大脑的论述，表达当人陷入罪中时，罪反过来控制人，人丧失了主体性（agency）。"
+        }
+      ]
+    }
+  ]
+}
