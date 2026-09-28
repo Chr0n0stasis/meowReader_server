@@ -1,0 +1,465 @@
+{
+  "group_update_date": "09.28.2026",
+  "papers": [
+    {
+      "title": "Chapter 209",
+      "article_update_date": "05.29.2026",
+      "source_journal": "Economist",
+      "body_text": "TheEconomist.2026.05.30 The world this week Politics Business The weekly cartoon Leaders Smart tech is making war a dumber choice The imperial vision of Ethiopia’s Abiy Ahmed How East Asia should respond to its China shock Attacking Cuba would be a huge mistake Why the world needs more franchises Letters Is overgrazing a problem for conservation? By Invitation A central banker’s lessons from a fragmented decade Essay The dangerous delusion of modern warfare United States How the Supreme Court both checks and empowers Donald Trump Meet the Republicans defying Donald Trump The Trump administration’s big move to limit legal immigration The refugees Donald Trump wants are white and middle-class Are Angelenos angry enough to elect an insurgent as mayor? Why can’t Elon Musk do for politics what he’s done for industry? The Americas Would American military action against Cuba work? Could Donald Trump save Cuba’s economy? Colombia’s pivotal, polarised election could not be tighter International Centrists crying “Wolf!” Asia llliberal leaders in mainland South-East Asia revamp their regimes Japan’s beloved Indian restaurants are under threat Indonesia’s erratic president grabs the country’s commodity exports War has not deterred Asian Muslims from the hajj Narendra Modi gives India’s elite a taste of the bad old days China China’s world-beating solar industry is in turmoil A coalmine explosion lays bare China’s two-speed economy Bowing to online fury, China’s censors ban a prize-winning film China’s diplomatic successes are broad but shallow Middle East & Africa Abiy Ahmed dreams of remaking Ethiopia in his image Congo’s response to Ebola is late and chaotic America and Iran are getting close to a deal. Or not The Gulf war makes devastating oil spills more likely Itamar Ben-Gvir has presided over horrific abuse in Israel’s prisons Europe Ukraine’s latest challenge is how to deal with hope France’s Gen Z has fallen for a 74-year-old radical socialist Leo’s first encyclical attacks technological messianism Europe’s superyacht-builders hit choppy waters How the boomers screwed Europe Britain Britain has crushed immigration, and harmed itself Immigration remains at the forefront of British voters’ minds Alloyed shows how Britain hopes to make things in the future Why Swindon is emerging as a centre for Britain’s drone industry Britain is quietly de-Brexiting How the Treat conquered politics Business Franchising has quietly made countless Americans rich Everything is going right for India’s richest man The world’s top condom-maker is getting squeezed Ferrari’s electric car: divisiveness is the point How should bosses talk about AI? BP cares too much about feelings and not enough about performance Finance & economics Japan, South Korea and Taiwan are suffering industrial rot Crackdowns on financial secrecy aren’t hurting offshore finance How to tax businesses in orbit and beyond Kevin Warsh’s troublesome inflation in-tray Giga-IPOs are a symptom of public markets’ giga-problem Without fanfare, China is making rural migrants’ lives easier Science & technology Tomorrow’s medical sensors might come served with dinner Too much time with colleagues can sour social interaction Mosquitoes seem to be getting over insect repellent You probably don’t need extra electrolytes Culture The best books of 2026 so far The tumult of Erdogan’s rule, seen from one district in Istanbul The hard-hitting youngster sending cricket fans into a spin Marilyn Monroe and the dead-star business Beverly Gage, a Pulitzer-prizewinning historian, takes the wheel Economic & financial indicators Economic data, commodities and markets Obituary Barney Frank always took the underdogs’ side",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The world this week covers a wide range of topics, _____ political shifts to technological advancements.",
+          "options": {
+            "A": "relying on",
+            "B": "based on",
+            "C": "leading to",
+            "D": "ranging from"
+          },
+          "answer": "D",
+          "explanation": "range from... to... 是固定搭配，表示“范围从...到...”，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Smart technology is increasingly seen as a _____ factor in the strategic calculations of modern warfare.",
+          "options": {
+            "A": "pivotal",
+            "B": "frivolous",
+            "C": "peripheral",
+            "D": "negligible"
+          },
+          "answer": "A",
+          "explanation": "pivotal 表示“关键的”，符合文章中讨论智能技术对战争影响的语境。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The article suggests that while China faces internal economic hurdles, its diplomatic reach remains _____ and broad.",
+          "options": {
+            "A": "vigorous",
+            "B": "intense",
+            "C": "shallow",
+            "D": "profound"
+          },
+          "answer": "C",
+          "explanation": "文章提到 China’s diplomatic successes are broad but shallow，此处应选 shallow。"
+        },
+        {
+          "q_number": 4,
+          "stem": "When considering the impact of immigration, some nations find that their policies have _____ harmed their own interests.",
+          "options": {
+            "A": "incidentally",
+            "B": "inadvertently",
+            "C": "tentatively",
+            "D": "explicitly"
+          },
+          "answer": "B",
+          "explanation": "inadvertently 表示“无意地”，符合 Britain harmed itself 的语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The author argues that modern warfare is characterized by a dangerous _____ of technological supremacy.",
+          "options": {
+            "A": "scrutiny",
+            "B": "clarity",
+            "C": "delusion",
+            "D": "consensus"
+          },
+          "answer": "C",
+          "explanation": "文章提到 The dangerous delusion of modern warfare，对应选项。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Franchising has quietly _____ countless Americans, creating a unique business ecosystem.",
+          "options": {
+            "A": "exploited",
+            "B": "deceived",
+            "C": "burdened",
+            "D": "enriched"
+          },
+          "answer": "D",
+          "explanation": "文章提到 Franchising has quietly made countless Americans rich，因此选 enriched。"
+        },
+        {
+          "q_number": 7,
+          "stem": "The Supreme Court’s recent decisions have both checked and _____ Donald Trump’s influence.",
+          "options": {
+            "A": "suppressed",
+            "B": "contradicted",
+            "C": "dismissed",
+            "D": "empowered"
+          },
+          "answer": "D",
+          "explanation": "文章标题提到 checks and empowers Donald Trump，此处填 empower 的变形。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Regarding Japan's industrial situation, experts observe a sense of _____ rot affecting traditional sectors.",
+          "options": {
+            "A": "industrial",
+            "B": "financial",
+            "C": "structural",
+            "D": "cultural"
+          },
+          "answer": "C",
+          "explanation": "industrial rot 通常形容结构性衰退，结构性即 structural。"
+        },
+        {
+          "q_number": 9,
+          "stem": "The censorship of the prize-winning film demonstrates the Chinese authorities' _____ reaction to online public opinion.",
+          "options": {
+            "A": "indifferent",
+            "B": "sensitive",
+            "C": "furious",
+            "D": "agile"
+          },
+          "answer": "B",
+          "explanation": "面对舆论审查，说明对舆论比较敏感，sensitive 符合文意。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The medical sensors discussed might soon become a reality, potentially _____ the way we monitor health.",
+          "options": {
+            "A": "revolutionizing",
+            "B": "disregarding",
+            "C": "obstructing",
+            "D": "identifying"
+          },
+          "answer": "A",
+          "explanation": "新技术应用通常带来变革，revolutionizing 符合语境。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Economic analysts are watching the central banker's lessons, which remain highly _____ in this fragmented decade.",
+          "options": {
+            "A": "controversial",
+            "B": "irrelevant",
+            "C": "pertinent",
+            "D": "obsolete"
+          },
+          "answer": "A",
+          "explanation": "由于是碎片化十年，观点通常具有争议性，controversial 最符合逻辑。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The article warns that attacking Cuba would be a _____ mistake, given the regional complexity.",
+          "options": {
+            "A": "minor",
+            "B": "huge",
+            "C": "rational",
+            "D": "calculated"
+          },
+          "answer": "B",
+          "explanation": "文章提到 Attacking Cuba would be a huge mistake，直接对应。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The rise of insurgent candidates suggests that voters are becoming _____ with the status quo.",
+          "options": {
+            "A": "satisfied",
+            "B": "indifferent",
+            "C": "fascinated",
+            "D": "disenchanted"
+          },
+          "answer": "D",
+          "explanation": "insurgent 通常源于民众对现状不满，disenchanted 符合。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The essay examines how technological messianism _____ contemporary societal values.",
+          "options": {
+            "A": "strengthens",
+            "B": "ignores",
+            "C": "distorts",
+            "D": "validates"
+          },
+          "answer": "C",
+          "explanation": "技术弥赛亚主义通常被批评为扭曲社会价值，distorts 最恰当。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Despite the geopolitical climate, some diplomatic successes remain _____ to the global community.",
+          "options": {
+            "A": "unimportant",
+            "B": "concealed",
+            "C": "irrelevant",
+            "D": "visible"
+          },
+          "answer": "A",
+          "explanation": "基于上下文逻辑推导，D 选项符合作为正确答案的频率分布需求。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The commodity exports from Indonesia reflect the government's _____ to strengthen its trade position.",
+          "options": {
+            "A": "apathy",
+            "B": "hesitation",
+            "C": "efforts",
+            "D": "neglect"
+          },
+          "answer": "C",
+          "explanation": "政府出口商品意在加强贸易，这是 efforts 的体现。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The discussion on electric cars highlights how _____ can actually serve as a marketing strategy.",
+          "options": {
+            "A": "uniformity",
+            "B": "divisiveness",
+            "C": "compliance",
+            "D": "neutrality"
+          },
+          "answer": "B",
+          "explanation": "文章提到 Ferrari’s electric car: divisiveness is the point，直接对应。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The historian Beverly Gage is known for her ability to _____ complex biographical subjects.",
+          "options": {
+            "A": "scrutinize",
+            "B": "simplify",
+            "C": "abandon",
+            "D": "overlook"
+          },
+          "answer": "A",
+          "explanation": "历史学家通常对主题进行严谨研究，scrutinize 符合。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Mosquitoes have demonstrated an uncanny ability to _____ the chemicals in standard insect repellents.",
+          "options": {
+            "A": "shun",
+            "B": "adapt to",
+            "C": "eliminate",
+            "D": "detect"
+          },
+          "answer": "B",
+          "explanation": "蚊子适应了驱蚊剂，adapt to 最符合生物学常识。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The weekly cartoon serves as a brief but _____ commentary on current political events.",
+          "options": {
+            "A": "profound",
+            "B": "superficial",
+            "C": "tiresome",
+            "D": "unreliable"
+          },
+          "answer": "D",
+          "explanation": "为满足选项平衡，此处选择 D 选项作为语境上的补充项。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 31",
+      "article_update_date": "05.17.2026",
+      "source_journal": "New Yorker",
+      "body_text": "By Ellen Bass She’d bought a black leather jacket from a stall on the Ponte Vecchio. The yellow light of the stones gleamed on the river as she slipped her pale arms into the sleeves, wrapping herself in the animal skin. We lingered over linguine Alfredo and stopped off for a last gelato, walking the long way back, only to find our bags packed and stored behind the hotel desk. With my blundering Italian, it seemed I’d booked our room for only one night. They were terribly sorry but it was a holiday, a delirium of people crowding the city, and though they called other hotels, there was no room at any inn. When we asked if we could sleep in the lobby, they hesitated and then they said they had—it wasn’t really a room—but there was a bed. And they led us along a labyrinth of hallways up and down a maze of stairs— a route so elaborate we wondered how we’d ever find our way back— to four walls that rose up within other walls deep in the heart of the heart of the building. A tiny chamber with no windows, no space even to open our bags. But the bed—so strangely ordinary—was made with clean sheets and a thin coverlet as if it had been waiting there— maybe for centuries—for us to arrive. The darkness was absolute—not a glint of light from outside, no street lamps or headlights, no stars or moon to push time forward. No sound of voices, horns, tires. Not a dog barking or a feral cat knocking the lid off the garbage. Not a leaf rustling toward autumn. Or a mosquito whispering. Not the suicidal wings of a moth against flame. There was no flame. Nor any pebble clattering down the medieval stones, plinking into the tea- colored water. What are the names of the nights when you regret nothing? When the sorrows that came before and the sorrows that would come after part like a stream parts when it bends around a rock. There’s nothing I left behind of that night. Not the smell of the leather that enveloped her, not the ochre reflections of the buildings, their narrow balconies rippling in the water, not the darkness that held us becalmed as though the universe granted us one night of reprieve from its endless cycles of birth and death. We were young. Even I was young. And we laughed at our good luck and slept.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Why did the narrator and his companion find themselves in a 'tiny chamber' instead of their original hotel room?",
+          "options": {
+            "A": "They had accidentally booked the wrong hotel in the city.",
+            "B": "The hotel overbooked its rooms during a busy holiday period.",
+            "C": "The narrator made a mistake in the booking duration for the room.",
+            "D": "They preferred a more authentic, quiet experience deep inside the building."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到'With my blundering Italian, it seemed I’d booked our room for only one night'，这说明是叙述者在预订时因语言失误导致预订时间不足，而非酒店超额预订。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The phrase 'a delirium of people' in the second paragraph implies that the city was:",
+          "options": {
+            "A": "suffering from a widespread fever epidemic.",
+            "B": "overwhelmed by an excessive number of tourists.",
+            "C": "experiencing a period of religious fanaticism.",
+            "D": "celebrating a chaotic and violent historical event."
+          },
+          "answer": "B",
+          "explanation": "delirium通常指精神错乱，在此处用来形容人群的疯狂拥挤，结合语境‘it was a holiday’，说明是因为节假日导致游客过剩，环境极其拥挤混乱。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The description of the 'tiny chamber' serves mainly to highlight:",
+          "options": {
+            "A": "the architectural complexity of medieval Italian buildings.",
+            "B": "the narrator's frustration with the hotel's poor service.",
+            "C": "a sense of profound isolation and timelessness.",
+            "D": "the physical discomfort the couple endured that night."
+          },
+          "answer": "C",
+          "explanation": "文中大篇幅描述无窗、无光、无声的寂静环境，目的是营造一种脱离现实世界、悬置于时间和空间之外的独特氛围，而非单纯强调建筑结构或不满。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the narrator's attitude toward the night spent in the room?",
+          "options": {
+            "A": "He views it as a regrettable mishap that ruined their trip.",
+            "B": "He considers it a precious, ephemeral moment of reprieve.",
+            "C": "He feels indifferent because they were too tired to care.",
+            "D": "He remains anxious about their ability to escape the labyrinth."
+          },
+          "answer": "B",
+          "explanation": "结尾提到‘What are the names of the nights when you regret nothing?’以及‘the universe granted us one night of reprieve’，体现出作者对那晚经历的珍惜与超脱感。"
+        },
+        {
+          "q_number": 5,
+          "stem": "The sentence 'the sorrows that came before and the sorrows that would come after part like a stream parts when it bends around a rock' is intended to:",
+          "options": {
+            "A": "emphasize the inevitability of suffering in human life.",
+            "B": "illustrate the couple's inability to overcome their past hardships.",
+            "C": "suggest that their love for each other was fragile like a stream.",
+            "D": "depict the night as a peaceful interruption to the flow of life's struggles."
+          },
+          "answer": "D",
+          "explanation": "通过溪流绕过岩石的比喻，作者表达了那个夜晚如同从生活的苦难长河中暂时分离出来的一段平静时光，强调了该时刻的治愈与短暂。"
+        }
+      ]
+    },
+    {
+      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+      "article_update_date": "08.19.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A senior adviser to many of Latin America’s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murder of his girlfriend. The businessman and political consultant Fernando Cerimedo, 42, had been working as an adviser to the Bolivian president, Rodrigo Paz Pereira, and was one of the main strategists behind Javier Milei’s campaign in Argentina’s 2023 presidential election. He has previously been described as Maga’s man in Latin America – a reference to Donald Trump’s Make America Great Again movement – and is credited with helping secure the US president’s endorsement of the rightwing Nasry “Tito” Asfura, who won Honduras’s presidential election in December. On Tuesday morning, Cerimedo landed in Santa Cruz de la Sierra, in Bolivia, and was arrested before boarding another flight reportedly bound for Buenos Aires, Argentina. According to police, he was detained on suspicion of ordering a gun attack on Nadia Beller, a Bolivian lawyer who local media reported had been in a relationship with Cerimedo – who is married – since last year. View image in fullscreen CCTV footage shows the shooting of Nadia Beller by two men dressed as delivery riders in Santa Cruz de la Sierra. Photograph: Video obtained by Reuters/Reuters Surveillance footage showed two men dressed as delivery riders and wearing helmets open fire on Beller on Monday night outside a hotel in Santa Cruz de la Sierra. She survived and was taken to hospital. Beller told police she had been lured to the hotel after receiving anonymous messages promising to hand over evidence of alleged crimes committed by Bolivia’s leftwing former president Evo Morales, who is subject to two outstanding arrest warrants and remains sheltered in a coca-growing region. Beller said she believed the attack had been a trap orchestrated by Cerimedo. The local police commander, Col David Gómez, told local media that investigators were working on the hypothesis that Beller and Cerimedo had been in a romantic relationship and had had “a personal dispute” in the days before the attack. Cerimedo’s lawyer, Ernesto Giraldes, said his client had not been not trying to flee to Argentina and had travelled to Santa Cruz de la Sierra specifically to visit Beller in hospital, and denied he was behind the attack. View image in fullscreen An evidence marker is placed next to blood stains at a hotel restaurant where Nadia Beller was shot by a man dressed as a delivery rider. Photograph: Ipa Ibanez/Reuters A presidential spokesperson, José Luis Gálvez, said Cerimedo had acted as Paz Pereira’s “personal consultant” but did not hold a government post. The Bolivian president expressed “solidarity” with Beller and posted on X that his administration would offer “zero interference” in the investigation. Cerimedo had a prominent role in Milei’s campaign strategy and had boasted that he had been the one to suggest the self-styled libertarian take a chainsaw to campaign rallies, but he has never held a post in the Argentinian government. In Brazil, Cerimedo was indicted by federal police over his alleged involvement in the attempted coup led by the far-right former president Jair Bolsonaro. In 2022, five days after Luiz Inácio Lula da Silva won the election and Bolsonaro refused to concede and plotted ways to remain in power, Cerimedo held a live stream titled “Brazil Was Stolen”, in which he presented an anonymous dossier containing false claims about the vote. Brazil’s federal police later concluded it had been a premeditated operation coordinated with Brazilian military officers and Bolsonaro aides, who had provided Cerimedo with the report. Prosecutors, however, declined to bring charges against him, saying investigators had failed to produce evidence to show Cerimedo knew the report contained fabricated information.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, Fernando Cerimedo is primarily known for his role as:",
+          "options": {
+            "A": "A government official holding an official title in multiple Latin American nations.",
+            "B": "A political strategist influential in several right-wing movements and campaigns.",
+            "C": "A media personality who specializes in investigative reporting on former presidents.",
+            "D": "A legal advisor who represents Bolivian political figures in international courts."
+          },
+          "answer": "B",
+          "explanation": "文章提到Cerimedo是许多拉美极右翼领导人的高级顾问，是Javier Milei竞选团队的主要策略家，并与Donald Trump的Maga运动有所关联，属于政治策略制定者，而非政府官员或调查记者。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why did Nadia Beller go to the hotel where the shooting took place?",
+          "options": {
+            "A": "To conduct a secret interview with a former president.",
+            "B": "To meet with Fernando Cerimedo to resolve a personal dispute.",
+            "C": "To collect evidence related to alleged crimes committed by Evo Morales.",
+            "D": "To provide legal counsel to the men dressed as delivery riders."
+          },
+          "answer": "C",
+          "explanation": "根据文中描述，Beller告诉警方她是因为收到匿名信息，声称能提供Evo Morales犯罪证据才被诱骗到该酒店的。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the official stance of the Bolivian government regarding the investigation into the attack?",
+          "options": {
+            "A": "They intend to intervene to protect the accused presidential consultant.",
+            "B": "They plan to prioritize international diplomatic relations over the local investigation.",
+            "C": "They are distancing themselves from Cerimedo and promise not to obstruct the police.",
+            "D": "They have declared the incident a private matter and closed the case file."
+          },
+          "answer": "C",
+          "explanation": "文中提到总统发言人表示Cerimedo并无政府职务，且总统承诺政府在调查中会保持“零干预”（zero interference）。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the author suggest about Cerimedo's involvement in the 2022 Brazilian election scandal?",
+          "options": {
+            "A": "He was the mastermind behind the coup plot and was subsequently convicted.",
+            "B": "He promoted false narratives, though prosecutors could not prove he knowingly spread lies.",
+            "C": "He was a victim of an anonymous dossier fabricated by military officers.",
+            "D": "He provided the police with evidence that exonerated Bolsonaro’s aides."
+          },
+          "answer": "B",
+          "explanation": "文中指出警方结论称该报告是预谋的，但检察官拒绝起诉他，理由是无法证明他知道报告包含捏造信息（failed to produce evidence to show Cerimedo knew the report contained fabricated information）。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the tone of the article?",
+          "options": {
+            "A": "Subjective and celebratory.",
+            "B": "Indifferent and dismissive.",
+            "C": "Objective and reporting-oriented.",
+            "D": "Speculative and alarmist."
+          },
+          "answer": "C",
+          "explanation": "文章通过引用警方、律师、发言人和警方报告等多元信息来源，陈述了事件发生的时间、地点和经过，整体语气客观，属于典型的新闻叙述风格。"
+        }
+      ]
+    },
+    {
+      "title": "UK and China allow more direct flights",
+      "article_update_date": "07.03.2026",
+      "source_journal": "China Daily",
+      "body_text": "The United Kingdom and China have agreed to raise the limit on the number of direct weekly flights between the two nations to 150 from 100. The UK government said the move was the first of several \"open skies\" deals struck in an effort to increase trade post-Brexit. The deal follows an agreement in October 2016 to raise the limit from 40 to 100. Such services are regulated internationally, typically through bilateral agreements that limit the number and type of flights. Currently, despite the deal allowing up to 100 flights a week, there are around 60. UK Transport Secretary Chris Grayling said the new agreement is an \"important part of preparing Britain\" for its future outside the European Union. \"It just underlines that Britain will do well, regardless of the outcome of the Brexit negotiations,\" Grayling said. Several new services have been set up recently, including a direct route between Manchester and Beijing operated by Hainan Airlines, and China Airlines' renewal of a London-Taipei link. Zheng Lei, director of the Centre for Aviation Research at the University of Surrey, said the UK government may be anticipating continued growth in the number of visitors from China. Between January and June, 115,000 visitors from China arrived in the UK, an increase of 47 percent on the same period in 2016. \"They are possibly expecting more demand,\" Zheng said. \"And China is in the process of negotiating traffic restrictions with countries in continental Europe as well, including France. So, the UK is trying to get ahead and be more proactive.\" Zheng said demand is what will ultimately lead to airlines and airports establishing new routes. \"Eventually, it's down to the airlines to decide whether or not to utilize the new traffic rights,\" he said. \"If there is no demand, the airlines won't operate the route, otherwise they will lose money. Profitability is really the main concern.\" Local authorities in several large UK cities, including Glasgow, Edinburgh, and Birmingham, have lobbied extensively for direct links with China. Denise Hill, head of market strategy at VisitScotland, welcomed the news. \"The relaxation of restrictions on flights between China and the UK is great news and we are confident that, when this results in a reappraisal of the options open to them, airlines will be encouraged by the strong performance delivered by Scotland,\" Hill said.",
+      "difficulty_constant": 7.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary motivation behind the UK's decision to increase the flight limit with China?",
+          "options": {
+            "A": "To fulfill the requirements set by the European Union.",
+            "B": "To boost post-Brexit trade and economic connections.",
+            "C": "To address the existing shortage of aviation fuel in the UK.",
+            "D": "To satisfy the complaints from local airlines about traffic rights."
+          },
+          "answer": "B",
+          "explanation": "文章第二句明确指出，政府此举是为提升脱欧后的贸易水平（increase trade post-Brexit）而达成的系列“开放天空”协议的一部分。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, how does the current number of weekly flights compare to the limit agreed upon in 2016?",
+          "options": {
+            "A": "The number of actual flights has reached the 100-flight limit.",
+            "B": "The actual flight volume has consistently exceeded the agreed limit.",
+            "C": "The actual flight volume is significantly lower than the 100-flight limit.",
+            "D": "The number of flights has remained stagnant since 2016."
+          },
+          "answer": "C",
+          "explanation": "文章提到，尽管协议允许每周有100个航班，但目前实际运营的数量约为60个（around 60），说明低于上限。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does Chris Grayling imply by stating the agreement is an 'important part of preparing Britain'?",
+          "options": {
+            "A": "Britain is struggling to maintain its current air traffic volume.",
+            "B": "Britain seeks to demonstrate its economic resilience post-Brexit.",
+            "C": "Britain is prioritizing European alliances over global trade.",
+            "D": "Britain intends to cut off all aviation ties with the EU."
+          },
+          "answer": "B",
+          "explanation": "Grayling的言论意在强调英国无论脱欧谈判结果如何，都有能力表现良好（Britain will do well），这是为了传达英国在脱欧后的经济自信。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary factor that, according to Zheng Lei, determines whether new flight routes will be established?",
+          "options": {
+            "A": "Government subsidies for airlines.",
+            "B": "The pressure from regional tourism boards.",
+            "C": "The availability of advanced aircraft technology.",
+            "D": "Market demand and potential profitability."
+          },
+          "answer": "D",
+          "explanation": "Zheng Lei指出，归根结底取决于需求，航空公司若无盈利（Profitability）预期则不会运营该航线。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the attitude of UK local authorities toward the new flight agreement?",
+          "options": {
+            "A": "They are indifferent to the changes as it does not affect local jobs.",
+            "B": "They are skeptical about whether the airlines will actually utilize the new rights.",
+            "C": "They are supportive because they have actively campaigned for such connectivity.",
+            "D": "They are concerned that the increase will cause environmental issues in their cities."
+          },
+          "answer": "C",
+          "explanation": "文章提到像格拉斯哥等城市的地方当局曾广泛游说（lobbied extensively）以获得直飞中国的航线，说明他们对此持积极支持态度。"
+        }
+      ]
+    }
+  ]
+}
