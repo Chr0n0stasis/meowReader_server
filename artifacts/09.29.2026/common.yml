@@ -1,0 +1,693 @@
+group_update_date: 09.29.2026
+papers:
+- article_update_date: 07.11.2026
+  body_text: 'Anthropic released Claude Science in June. It joins a host of other
+    artificial-intelligence tools for researchers.Credit: Blossom Stock Studio/Shutterstock
+    In 2010, Euan Ashley, a geneticist and cardiologist at Stanford University in
+    California, led the first clinical analysis of a human genome, which took his
+    team of 31 scientists nine months to complete1. This week, while unpacking after
+    a holiday, Ashley asked the AI tool Claude, developed by Anthropic in San Francisco,
+    California, to examine his own genome to the same standard. The analysis took
+    30 minutes and correctly identified an Alzheimer’s disease risk allele and gene
+    variants affecting drug metabolism (Ashley had analysed his genome in 2012 but
+    did not publish the results). “There is no world in which this is not utterly
+    remarkable,” Ashley wrote in a LinkedIn post. On 30 June, Anthropic unveiled a
+    platform called Claude Science, designed with biology research firmly in mind.
+    The tool joins a department’s worth of general purpose AI tools for science created
+    by technology firms and academic laboratories. Others include offerings from OpenAI
+    in San Francisco and Co-Scientist from Google DeepMind in Mountain View, California.
+    Another is an open-source tool called Biomni, developed by academic researchers
+    and described yesterday in Science2. And there are many others, researchers say.
+    “Work that usually takes me hours now takes minutes. I can really spend my time
+    on the science that needs a human,” says co-author Yuanhao Qu, the co-founder
+    and president of Phylo, a start-up firm in South San Francisco, California. What
+    are these and how are scientists using them? Sometimes called ''AI scientists'',
+    these tools are based on the large language models that power chatbots, helping
+    scientists with tasks such as literature reviews, data analysis, figure generation
+    and manuscript preparation. They are a form of agentic AI, in which requests are
+    broken down into steps that often involve recruiting external software systems.
+    These scientific agents are distinct from more specialized research tools, such
+    as the AlphaFold protein-structure-prediction model, but they can employ bespoke
+    models. For example, Gabriele Corso, co-founder and chief executive of the London-based
+    firm Boltz, and his team tasked a Claude agent to design an antibody that recognized
+    two therapeutic targets, using the company’s open-source AI tools for protein-folding
+    prediction and design. AI ‘scientists’ joined these research teams: here’s what
+    happened The AI’s outputs aligned with the protein designers’ intuitions; Corso''s
+    team did not validate the designs experimentally, but other antibodies made with
+    AI agents have been, he says. Boltz’s tools are among the dozens of specialized
+    software systems that Claude Science and other AI scientists can interact with.
+    Clare Bryant, an immunologist at the University of Cambridge, UK, was an early
+    adopter of Co-Scientist, which mines the scientific literature and other sources
+    to come up with scientific hypotheses. Bryant, who was investigating immune responses
+    to zoonotic pathogens, provided the tool with a grant application and further
+    data. Some of the ideas that it generated weren’t doable, but others were right
+    in her lab’s wheelhouse. Her team is now testing an idea from Co-Scientist, introducing
+    specific mutations into an innate-immune protein and seeing how they impact influenza
+    infection. Bryant says she might have eventually come up with the experiment on
+    her own, but it could have taken two years. “You feel like you’re talking to an
+    oracle,” says Gary Peltz, a biomedical scientist at Stanford, who used Co-Scientist
+    to identify existing drugs that could treat an organoid model of a disease called
+    liver fibrosis3. How should scientists decide which tools to use? Many scientists
+    already use AI tools such as Claude to generate presentation slides and draft
+    e-mails. But Ashu Singhal, president and co-founder of the cloud platform Benchling
+    in San Francisco, estimates that less than 20% of labs have fully embedded AI
+    scientists into their research. “It’s really important that people actually try
+    these things out, rather than simply trusting what gets shared in headlines,”
+    he says. Singhal recommends that researchers trial several tools to work out which
+    ones are suitable for which tasks. Hypothesis-generating AIs, such as Co-Scientist,
+    might help during the earliest stages of a project. Later on, tools such as Claude
+    Science and Biomni could carry out specific tasks, such as genomic data analysis.
+    Corso recommends that researchers start with small tasks, the output of which
+    can be verified easily. “Worst case, you have to do them over,” he says. How can
+    researchers trust ''AI scientists''?'
+  difficulty_constant: 7.8
+  question_type: Use of English
+  questions:
+  - answer: A
+    explanation: 文章开头明确指出Claude Science是为“researchers”（研究人员）提供的工具。
+    options:
+      A: researchers
+      B: consumers
+      C: developers
+      D: accountants
+    q_number: 1
+    stem: Anthropic released Claude Science in June. It joins a host of other artificial-intelligence
+      tools for ____.
+  - answer: D
+    explanation: 原文提到“which took his team of 31 scientists nine months to complete”。
+    options:
+      A: a week
+      B: a month
+      C: six months
+      D: nine months
+    q_number: 2
+    stem: In 2010, Euan Ashley led the first clinical analysis of a human genome,
+      which took his team of 31 scientists ____ to complete.
+  - answer: A
+    explanation: 原文描述“The analysis took 30 minutes”。
+    options:
+      A: 30 minutes
+      B: 30 seconds
+      C: 3 hours
+      D: 3 days
+    q_number: 3
+    stem: Ashley asked the AI tool Claude to examine his own genome to the same standard,
+      and the analysis took ____.
+  - answer: B
+    explanation: 原文提到AI“correctly identified an Alzheimer’s disease risk allele and
+      gene variants affecting drug metabolism”。
+    options:
+      A: cell growth
+      B: drug metabolism
+      C: protein folding
+      D: immune response
+    q_number: 4
+    stem: Claude identified an Alzheimer’s disease risk allele and gene variants affecting
+      ____.
+  - answer: A
+    explanation: 引述Ashley的评价“There is no world in which this is not utterly remarkable”。
+    options:
+      A: remarkable
+      B: adequate
+      C: disappointing
+      D: experimental
+    q_number: 5
+    stem: Ashley described the AI's capability as 'utterly ____'.
+  - answer: C
+    explanation: 原文指出“designed with biology research firmly in mind”。
+    options:
+      A: financial
+      B: legal
+      C: biological
+      D: historical
+    q_number: 6
+    stem: Claude Science is a platform designed with ____ research firmly in mind.
+  - answer: B
+    explanation: 文章提到“created by technology firms and academic laboratories”。
+    options:
+      A: government agencies
+      B: academic laboratories
+      C: non-profit organizations
+      D: manufacturing plants
+    q_number: 7
+    stem: The AI tools for science are created by technology firms and ____.
+  - answer: B
+    explanation: 原文介绍“Another is an open-source tool called Biomni”。
+    options:
+      A: proprietary
+      B: open-source
+      C: antiquated
+      D: offline
+    q_number: 8
+    stem: Biomni is described as an ____ tool.
+  - answer: D
+    explanation: Yuanhao Qu says, “I can really spend my time on the science that
+      needs a human”。
+    options:
+      A: administrative tasks
+      B: coding and programming
+      C: managing finances
+      D: the science that needs a human
+    q_number: 9
+    stem: Yuanhao Qu, co-founder of Phylo, states that AI helps him focus more on
+      ____.
+  - answer: C
+    explanation: 文章解释“these tools are based on the large language models that power
+      chatbots”。
+    options:
+      A: search engines
+      B: video games
+      C: chatbots
+      D: operating systems
+    q_number: 10
+    stem: These AI tools are based on large language models that power ____.
+  - answer: D
+    explanation: 原文定义“in which requests are broken down into steps that often involve
+      recruiting external software systems”。
+    options:
+      A: single, complex operations
+      B: simple, repetitive tasks
+      C: manual data entry procedures
+      D: steps that often involve recruiting external software systems
+    q_number: 11
+    stem: These scientific agents are a form of agentic AI, in which requests are
+      broken down into ____.
+  - answer: A
+    explanation: Corso's team tasked a Claude agent to design an antibody that recognized
+      “two therapeutic targets”。
+    options:
+      A: two therapeutic targets
+      B: two diagnostic markers
+      C: three cancer cells
+      D: a single therapeutic target
+    q_number: 12
+    stem: Gabriele Corso's team tasked a Claude agent to design an antibody that recognized
+      ____.
+  - answer: C
+    explanation: 原文提到“Corso's team did not validate the designs experimentally”。
+    options:
+      A: publish
+      B: analyze computationally
+      C: validate experimentally
+      D: share publicly
+    q_number: 13
+    stem: Corso's team did not ____ the AI-designed antibody.
+  - answer: B
+    explanation: Co-Scientist “mines the scientific literature and other sources to
+      come up with scientific hypotheses”。
+    options:
+      A: generates
+      B: mines
+      C: critiques
+      D: translates
+    q_number: 14
+    stem: Clare Bryant, an immunologist, was an early adopter of Co-Scientist, which
+      ____ scientific literature.
+  - answer: D
+    explanation: Bryant “provided the tool with a grant application and further data”。
+    options:
+      A: financial reports
+      B: experimental results
+      C: personal opinions
+      D: data
+    q_number: 15
+    stem: Bryant provided Co-Scientist with a grant application and further ____.
+  - answer: D
+    explanation: Her team is now testing an idea from Co-Scientist, introducing specific
+      mutations into an “innate-immune protein”。
+    options:
+      A: anti-cancer drug
+      B: gene editing tool
+      C: viral vector
+      D: innate-immune protein
+    q_number: 16
+    stem: Bryant's team is now testing an idea from Co-Scientist involving specific
+      mutations into an ____.
+  - answer: C
+    explanation: Peltz used Co-Scientist to identify existing drugs that could treat
+      an organoid model of a disease called “liver fibrosis”。
+    options:
+      A: cancer
+      B: cirrhosis
+      C: fibrosis
+      D: failure
+    q_number: 17
+    stem: Gary Peltz used Co-Scientist to identify existing drugs that could treat
+      a disease called liver ____.
+  - answer: B
+    explanation: Singhal estimates that “less than 20% of labs have fully embedded
+      AI scientists into their research”。
+    options:
+      A: marketing strategies
+      B: research
+      C: financial planning
+      D: human resources
+    q_number: 18
+    stem: Ashu Singhal estimates that less than 20% of labs have fully embedded AI
+      scientists into their ____.
+  - answer: C
+    explanation: Singhal recommends that researchers “trial several tools to work
+      out which ones are suitable for which tasks”。
+    options:
+      A: avoid
+      B: purchase
+      C: trial
+      D: ignore
+    q_number: 19
+    stem: Singhal recommends that researchers ____ several tools to find suitable
+      ones.
+  - answer: A
+    explanation: Corso recommends that researchers start with “small tasks, the output
+      of which can be verified easily”。
+    options:
+      A: small
+      B: time-consuming
+      C: complex
+      D: theoretical
+    q_number: 20
+    stem: Corso recommends that researchers start with ____ tasks, the output of which
+      can be verified easily.
+  source_journal: Nature
+  title: Which ‘AI scientist’ suits your lab? A guide for the perplexed
+- article_update_date: 07.03.2026
+  body_text: 'Europe’s airport queues are extremely long—and getting longer Europe
+    | EESy come, EESy go? Europe’s airport queues are extremely long—and getting longer
+    The continent’s border-control system is out of control July 2nd 2026 THE EUROPEAN
+    UNION frets a lot about whether it is competitive, but in one sector it leads
+    the world: acronyms that infuriate foreigners. In recent months the EU’s Entry-Exit
+    Scheme (EES) has caused conniptions at the continent’s airports. Exasperated visitors
+    (mostly Americans and Britons, for whom travel to Europe is supposed to be a visa-free
+    breeze) have posted videos on Instagram and TikTok of spaghetti-like queues at
+    passport control. The EES began its rollout last October, three years behind schedule.
+    It was supposed to be fully implemented by April. The system is meant to make
+    it easier to track non-EU visitors to the Schengen visa-free travel area, replacing
+    passport stamps with a smooth IT system. Travellers must register by getting their
+    passport, face and fingerprints scanned at the border. Border guards are supposed
+    to use these data to verify their identity on each subsequent trip. European officials
+    reckon the scheme is working. In May the European Commission said it had stopped
+    some 30,000 people from improperly entering Schengen, including nearly 7,000 who
+    had stayed longer than allowed on previous visits. But many disagree. “EES is
+    what keeps me and many other airport CEOs across Europe awake at night,” said
+    Stefan Schulte of ACI Europe, which represents airports, on June 23rd. Some complain
+    that self-service kiosks designed to speed up registration are ineffective. Amid
+    heatwaves, sweat-stained fingerprint scanners have stopped working. Others grumble
+    that the software is unreliable. Lots of travellers say they had to re-register
+    on several trips because of tech screw-ups. Veovo, an airport consulting firm,
+    reckons processing times for non-EU travellers have more than doubled at most
+    airports since April. An ACI survey found that in the worst-affected ones, queues
+    at peak times reached up to 3.5 hours in May. Indeed, WizzAir, a Hungarian budget
+    airline, has warned travellers to arrive at airports three hours early. Some airports
+    are coping reasonably well, but tales of woe abound. In April more than 100 people
+    missed an Easyjet flight from Milan to Manchester after getting stuck at border
+    control. Small airports with lots of non-EU travellers are worst affected. Bottlenecks
+    have been reported at Alicante and Lanzarote, two Spanish fleshpots popular with
+    Britons. Big airports are worried, too. On June 25th the boss of Rome’s airports
+    told the Financial Times that the Italian capital would have to stop collecting
+    facial and fingerprint scans during the peak season. Some countries with large
+    tourist industries, such as Greece and Portugal, have partly suspended the scheme.
+    The EU has permitted this for the summer. But after the season ends, the derogation
+    will lapse. Travel-industry groups have urged the bloc to delay full implementation.
+    Holiday-makers stuck in snarling queues should brace for more changes, and more
+    acronyms. Later this year the EU wants to implement a travel-authorisation scheme
+    called the European Travel Information and Authorisation System (ETIAS), modelled
+    on America’s Electronic System for Travel Authorisation (ESTA). Visitors will
+    have to register online and pay €20 ($23) for an ETIAS pass, which will be valid
+    for three years. Provided it works. ■ To stay on top of the biggest European stories,
+    sign up to Café Europa , our weekly subscriber-only newsletter. This article was
+    downloaded by zlibrary from https://www.economist.com//europe/2026/07/01/europes-airport-queues-are-extremely-long-and-getting-longer'
+  difficulty_constant: 8.4
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段提到EU在缩写词方面领先世界，但紧接着用“infuriate foreigners”（激怒外国人）一词，表明作者对这些缩写词的态度是讽刺和批评的，认为它们给游客带来了困扰。
+    options:
+      A: He considers them a proof of the EU's global competitiveness.
+      B: He views them as sources of annoyance for non-European visitors.
+      C: He believes they have successfully streamlined border control.
+      D: He argues that they are necessary evils for maintaining security.
+    q_number: 1
+    stem: According to the first paragraph, what is the author's primary attitude
+      toward the European Union's acronyms?
+  - answer: C
+    explanation: 文章第二段明确指出，该系统旨在通过“replacing passport stamps with a smooth IT system”，并且“Travellers
+      must register by getting their passport, face and fingerprints scanned”，即生物识别数据。
+    options:
+      A: A more rigorous visa application process for all visitors.
+      B: A temporary exemption for citizens of the United States and Britain.
+      C: A digital system capturing biometric data like facial and fingerprint scans.
+      D: A self-service kiosk system managed independently by airlines.
+    q_number: 2
+    stem: The Entry-Exit Scheme (EES) was intended to replace manual passport stamps
+      with which of the following?
+  - answer: B
+    explanation: 文章第四段提到了机场CEO对该系统的担忧，具体指出了“self-service kiosks... are ineffective”、“sweat-stained
+      fingerprint scanners have stopped working”以及“software is unreliable”，这些都指向了技术硬件和软件层面的失效。
+    options:
+      A: A lack of staff to assist with the complicated registration process.
+      B: Technical unreliability and inefficient hardware performance.
+      C: A surge in tourist numbers exceeding the EU's projected capacity.
+      D: The refusal of non-EU citizens to comply with the new security regulations.
+    q_number: 3
+    stem: What is the main reason cited by airport officials for the failure of the
+      EES to speed up border control?
+  - answer: A
+    explanation: 文章第五段提到罗马机场负责人表示需要在旺季停止收集人脸和指纹数据，说明即便是大机场也在为系统造成的瓶颈而忧虑，试图通过暂停部分功能来缓解运营压力。
+    options:
+      A: major airports are struggling to balance security and operational efficiency.
+      B: Italian authorities have officially abandoned the EES entirely.
+      C: Rome serves as a model for how to implement the EES during peak seasons.
+      D: the EU has forced all member states to strictly follow the EES guidelines.
+    q_number: 4
+    stem: The author mentions the situation in Rome to illustrate that ______.
+  - answer: C
+    explanation: 文章最后一段提到今年晚些时候欧盟计划实施ETIAS（另一个缩写词方案），要求游客在线注册并付费，这表明未来游客将面临更多的行政审批程序。
+    options:
+      A: The EU is planning to phase out all acronym-based travel schemes.
+      B: Travelers will soon benefit from a unified, stress-free entry system.
+      C: Further administrative requirements are on the horizon for visitors.
+      D: The ETIAS will likely be cancelled due to the failure of the EES.
+    q_number: 5
+    stem: What can be inferred about the future of travel to the EU from the concluding
+      paragraph?
+  source_journal: Economist
+  title: Europe’s airport queues are extremely long—and getting longer
+- article_update_date: 07.12.2026
+  body_text: 'Mexico has launched an investigation into whether the US lied about
+    its involvement in the capture and secretive transfer of a top Sinaloa cartel
+    member in 2024, in what would be a potential violation of the country’s sovereignty.
+    The US has long denied it played any role in the operation to detain the drug
+    lord Ismael “El Mayo” Zambada García, a founder of the Sinaloa cartel, inside
+    Mexico. Recent reporting by the local media outlet Pie de Nota, however, suggested
+    that the FBI was involved in his capture. “If recent reports are confirmed,” said
+    the Mexico attorney general, Ernestina Godoy, on Wednesday, “then all signs point
+    to three serious issues: a series of violations of Mexican and international law;
+    a pact made outside the bounds of the law; and a lie told by a US diplomat, which
+    would constitute a breach of the cornerstone principle of good faith in diplomatic
+    relations.” “The issue here is whether there was a violation of sovereignty,”
+    said the president, Claudia Sheinbaum, at a news conference on Thursday. Although
+    the incident took place under the previous administration of Andrés Manuel López
+    Obrador, the row comes at an extremely delicate moment in US-Mexico relations.
+    Donald Trump has repeatedly threatened to launch a ground invasion in Mexico to
+    attack the drug cartels, ratcheting up fears for Mexican sovereignty. Meanwhile,
+    in April, reports emerged that several CIA agents had been involved in a raid
+    on a drug lab in northern Mexico, apparently without the approval or knowledge
+    of the federal government. Now, the potential direct involvement of a US agency
+    in an operation on Mexican soil has again stirred fears over the presence of American
+    operatives in Mexico. In July 2024, Zambada García was tricked by fellow trafficker
+    Joaquín Guzmán López, whose father was the drug lord known as “El Chapo”, into
+    getting on a small plane inside Mexico and flying into Texas, where US authorities
+    arrested them both at an airport near El Paso. Mexico has questioned Washington
+    numerous times about what role it played, and complained of being kept in the
+    dark. The American ambassador at the time, Ken Salazar, insisted that the US was
+    not involved. After Mexican authorities insinuated Salazar had lied, the former
+    ambassador on Wednesday reiterated his position: “It was not our plane, not our
+    pilot, and not our operation,” he wrote on X. “La verdad es la verdad, the truth
+    is the truth.” But the plane in which the traffickers traveled was recently put
+    on display in the War Eagles Air Museum in Santa Teresa, New Mexico. A plaque
+    next to the plane shared on social media notes that two FBI agents “successfully
+    executed a highly complex, secretive and daring arrest of two of the world’s most
+    wanted fugitives”. Godoy said Mexican officials had attempted to inspect the plane
+    in August 2024 but were barred from doing a thorough inspection or taking photographs.
+    The Americans, she said, had also “provided false or inaccurate identification
+    data for that aircraft”.'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: A
+    explanation: The text emphasizes that Mexican officials are investigating whether
+      the US lied about its involvement, which would constitute a 'violation of sovereignty'
+      and a breach of 'good faith in diplomatic relations'.
+    options:
+      A: The potential breach of its territorial sovereignty and the reliability of
+        US diplomatic communication.
+      B: The failure of the US to consult with the Mexican government prior to the
+        arrest of Joaquín Guzmán López.
+      C: The inability of Mexican authorities to secure the custody of the drug lord
+        before he reached Texas.
+      D: The financial costs associated with investigating the involvement of foreign
+        intelligence agencies.
+    q_number: 1
+    stem: According to the passage, Mexico's concern regarding the capture of Ismael
+      Zambada García centers on which of the following?
+  - answer: C
+    explanation: 'Ken Salazar explicitly stated on X: ''It was not our plane, not
+      our pilot, and not our operation,'' maintaining his denial of involvement.'
+    options:
+      A: He admitted to indirect oversight of the operation to ensure safety.
+      B: He maintained that the operation was managed entirely by Mexican authorities.
+      C: He denied any US participation, including providing the aircraft or pilot.
+      D: He acknowledged limited involvement but claimed it was justified by international
+        law.
+    q_number: 2
+    stem: How did the US ambassador, Ken Salazar, characterize the US role in the
+      operation?
+  - answer: B
+    explanation: The passage notes that a plaque at the War Eagles Air Museum explicitly
+      mentions two FBI agents 'successfully executed' the arrest, which contradicts
+      the ambassador's claims.
+    options:
+      A: Leaked internal documents from the FBI detailing the operational budget.
+      B: A plaque at a museum describing the arrest as a secretive FBI-led operation.
+      C: Confessions from Joaquín Guzmán López made during his interrogation in Texas.
+      D: Photographic evidence showing CIA agents at the drug lab in northern Mexico.
+    q_number: 3
+    stem: What evidence cited in the passage contradicts the official US position
+      regarding the arrest?
+  - answer: B
+    explanation: The text states the row comes at a delicate moment, partly because
+      Donald Trump has 'repeatedly threatened to launch a ground invasion,' which
+      intensifies fears about sovereignty.
+    options:
+      A: Because the Mexican government is currently undergoing a change in leadership.
+      B: Because Donald Trump's rhetoric regarding potential military action in Mexico
+        has heightened tensions.
+      C: Because the US is currently pressuring Mexico to extradite other cartel leaders.
+      D: Because there have been recent reports of CIA involvement in separate, unapproved
+        raids.
+    q_number: 4
+    stem: Why is the timing of this investigation particularly sensitive for US-Mexico
+      relations?
+  - answer: C
+    explanation: The passage notes that Mexico has 'questioned Washington numerous
+      times,' 'complained of being kept in the dark,' and found that they were 'barred'
+      from inspecting the aircraft, indicating deep suspicion and frustration.
+    options:
+      A: Aggressively confrontational and eager for military retaliation.
+      B: Indifferent, given that the incident occurred under a previous administration.
+      C: Suspicious and frustrated by the lack of transparency from American officials.
+      D: Submissive, as Mexico relies heavily on US intelligence for cartel operations.
+    q_number: 5
+    stem: Which of the following best captures the tone of the Mexican government's
+      attitude toward the US in this context?
+  source_journal: The Guardian
+  title: Mexico investigates whether US lied about role in capture of drug lord
+- article_update_date: 08.28.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Chris Haslam Jeremy White
+    Gear Apr 2, 2026 5:30 AM 15 Design-Forward DIY Tools Worth Upgrading to This Year
+    Hack your hardware with these top picks for home-improvement heaven. Photograph:
+    Colin Ross Something has shifted in the workshop. After years of DIY being sold
+    as a weekend hobby for the mildly bored, home improvement has quietly become a
+    serious cultural force. The global DIY market is forecast to hit nearly a trillion
+    dollars this year. And while a third of you are apparently planning on starting
+    a new DIY project in the next three months , the primary motivator for DIYers
+    is, you guessed it, saving money . Not a bad thing right now, considering how
+    the Iran war is spiking prices . The tape measure and the drill you inherited
+    from your folks will only take you so far. Fortunately, the tools driving this
+    boom have never been smarter, and better hardware should mean, hopefully, better
+    results. Whether you''re building furniture, finishing a deck, or just finally
+    hanging that TV straight, the tools available right now are genuinely more precise
+    than anything a generation ago could have imagined. From a miniaturized soldering
+    station to a kid-safe desktop cardboard router, these are WIRED’s 15 picks worth
+    making room for in your toolbox this year. And no matter how good your tools are,
+    never forget: measure twice, cut once. A Multifunction Power Tool Courtesy of
+    Dremel Save to wishlist Save to wishlist Dremel Blueprint 12V Multi-Drill $79
+    Amazon $99 Walmart $83 The Home Depot This intimidation-free power tool is perfect
+    for people looking to conquer the multitude of household tasks that don’t require
+    a massive hammer drill. Dremel’s neatly balanced 12-volt tool is made for fixing,
+    tightening, and assembling. The detachable laser level and clever electronic stud
+    finder hidden in the front of the handle make it ideal for hanging pictures, shelves,
+    and 4K TVs. Comes with nine drivers and three drill bits, covering most household
+    fixes without the need for a complete toolbox overhaul. A Soldering Station Courtesy
+    of Soldr Save to wishlist Save to wishlist Soldr Deluxe Edition $319 $255 (20%
+    off) Soldr A compact, open-source soldering workstation that condenses a full
+    electronics bench into a single portable unit. The battery-powered soldering iron
+    offers precise temperature control from 212 to 842 degrees Fahrenheit (100 to
+    450 Celsius), making it suitable for delicate PCB work as well as more robust
+    tasks. Integrated fume extraction pulls harmful vapors away at the source, while
+    built-in magnification and adjustable LED lighting improve visibility. The clincher
+    is that by being open-source, Soldr positively welcomes hardware tweaks and firmware
+    upgrades, making it as appealing to hobbyists as it is to serious prototypers.
+    A Sander Courtesy of Festool Save to wishlist Save to wishlist Festool DTSC 200
+    Basic Cordless Delta Sander $549 Festool It is well known in the trades that if
+    someone’s workshop is full of Festool gear, you can bet they take their craft
+    seriously. And with its new 18 V cordless sander, the brand has made the possibility
+    of achieving perfection just that bit faster. The triangular pad reaches deep
+    into corners and tight edges, while variable speed control allows for fine-tuning
+    between aggressive stock removal and ultrasmooth finishing. Weighing just over
+    2.4 lbs without the battery, the sander is designed for controlled, one-handed
+    operation, while the integrated LED casts low-angle illumination across your work
+    surface to highlight even the slightest imperfections. Connect it to a vacuum
+    hose to keep the work table clean, or snap on the included dust collection bag
+    and go fully mobile. A Smarter Level Courtesy of Hozo Save to wishlist Save to
+    wishlist Hozo M-Cube Pro Kit $395 Amazon $395 $316 (20% off) Hozo Put the trundle
+    wheel down; this modular, stackable touch screen measuring system combines laser
+    distance, level, and rolling scale modules in one, measuring up to 164 feet of
+    distance at a 1/16-inch accuracy. The system captures measurements in real time
+    and syncs instantly to the app, allowing users to generate floor plans or mark
+    up dimensions without manual note-taking. Compact enough to fit in a pocket yet
+    precise enough for professional use, it’s a seriously smart upgrade for anyone
+    still juggling tape measures and spirit levels. A Premium Sewing Machine Courtesy
+    of Husqvarna Save to wishlist Save to wishlist Husqvarna Viking Designer Sapphire
+    85 Sewing & Embroidery Machine $10,599 Singer $10,599 Sewing Machines Plus While
+    it might be overkill if you’ve not yet mastered the art of sewing buttons back
+    on, this pro-grade smart sewing machine can do seriously impressive things with
+    a needle and thread. It offers more than 680 stitch patterns through an 8-inch
+    color touch screen for intuitive control, alongside automatic thread tension and
+    sensor-based foot adjustments. The extended sewing surface allows for large quilting
+    projects, while the powerful motor ensures consistent stitch quality across thick
+    fabrics. Built-in connectivity and access to the mySewnet Library give you access
+    to a continuously growing collection of embroidery designs, plus the ability to
+    craft and implement your own. A Box Cutter Courtesy of CRKT Save to wishlist Save
+    to wishlist CRKT Box Key Slip Joint $38 CRKT Designed by noted knife maker Richard
+    Rogers, the Box Key applies his clean, minimalist approach to a tiny everyday
+    cutter. The 1.24-inch drop point blade is made from Sandvik 12C27 steel with a
+    stone-wash finish, which helps disguise scuffs from daily use while improving
+    corrosion resistance. The stainless steel handle with a hole keeps the profile
+    slim enough to attach to a key ring, and at 1 ounce, it adds barely any weight
+    to your daily carry. A smart, indispensable little tool for opening boxes, trimming
+    cord, and other light-duty jobs. A Toolbox Courtesy of Niwaki Save to wishlist
+    Save to wishlist Niwaki ST-Type Tool Box $135 Niwaki Japanese-inspired, UK-based
+    Niwaki (translates as “garden tree”) produces seriously desirable and practical
+    tools for home and garden. With the ST-Type Toolbox, however, the brand has created
+    a vintage design that wouldn’t look out of place perched on a girder in the famous
+    “ Lunch Atop a Skyscraper ” photo. Built from powder-coated steel with a traditional
+    cantilever design, it measures 14.2 inches wide and opens to reveal tiered compartments
+    that keep hand tools organized and visible. The metal dividers in the top trays
+    can be rearranged to hold screws, nails, and bits, or removed entirely to fit
+    even more tools. Safety Glasses Courtesy of Pit Viper Save to wishlist Save to
+    wishlist Pit Viper Revloc Z87+ Safety Glasses $80 Pit Viper Pit Viper may be famous
+    for its right-wing-baiting anarchic approach to eyewear , but we bet you didn’t
+    know it also does a fantastic range of equally irreverent-looking, but highly
+    practical safety glasses. (This model will launch on April 13.) Certified to ANSI
+    Z87+ standards, they have impact-resistant lenses, 100 percent UV protection,
+    antifog coatings, plus adjustable arms and nose pieces for a super-secure fit.
+    Available with standard- or high-contrast polarized lenses, the side shields can
+    be removed when not needed. A Handy Saw Courtesy of Gerber Save to wishlist Save
+    to wishlist Gerber Freescape Camp Saw $75 $65 (13% off) Amazon $69 Gerber A good
+    value, highly practical camp saw that folds small, but still cuts the mustard.
+    The 12-inch blade is mounted on a four-pivot frame that maximizes usable cutting
+    length and keeps tension consistent through each stroke. Then, when you’re done,
+    it folds flat without disassembly, fully enclosing the blade for safe transport.
+    Weighing 15.3 ounces, it is light enough for any expedition, but still feels reassuringly
+    robust in use. That grippy rubberized textured handle works well in wet conditions,
+    while thankfully, the design accepts standard 12-inch replacement blades. A 3D
+    Printer Courtesy of Flsun Save to wishlist Save to wishlist Flsun S1 Pro 3D Printer
+    $599 Flsun This high-speed 3D printer is built for rapid prototyping, and so is
+    aimed at designers who are tired of overnight prints for simple parts. It spits
+    out building material at speeds of up to 1,200 millimeters per second, driven
+    by a lightweight and accurate delta motion system. The enclosed cylindrical build
+    chamber (12.6 x 16.9 inches) improves temperature stability for materials such
+    as ABS and PETG, while auto-leveling and smart calibration should reduce setup
+    time. A direct-drive extruder with an all-metal nozzle capable of reaching 350
+    Celsius supports a wide range of filaments. Wi-Fi, an onboard camera, and AI-assisted
+    monitoring all help keep prints on track. A DIY Stem Project Courtesy of CircuitMess
+    Save to wishlist Save to wishlist CircuitMess NASA Mars Perseverance Rover $349
+    CircuitMess The 1972 NASA Moon Buggy is one of only a handful of “products” WIRED
+    has ever awarded a coveted 10/10 score to. It’s a shame you’ll never be able to
+    get your hands on one, but you can always scratch that interstellar itch with
+    this fantastic build-it-yourself Mars Perseverance Rover electronics kit. Designed
+    for STEM learning, it combines more than 200 parts with coding, robotics, and
+    mechanical assembly into a single project. Users can program movement, sensors,
+    and basic autonomy through an included microcontroller, gaining hands-on experience
+    with real-world engineering concepts. As intricate and detailed as it is, the
+    whole model is remarkably smaller than the family cat. A Leaf Blower Courtesy
+    of Hoto Save to wishlist Save to wishlist Hoto 20V Cordless Leaf Blower $190 Amazon
+    $239 $190 (21% off) Hoto Bringing some much-needed sci-fi chic to yard work with
+    this cordless 20-volt blower that pushes 720 cubic feet of air per minute at 120
+    mph from a lightweight body. The compact 3.7-pound design (without battery) makes
+    it easy to use with one hand, even if you’re coping with trees post-leaf-peeping
+    season. A brushless motor improves efficiency and extends the blower’s lifespan,
+    while stepless speed control allows precise adjustment to give you just enough
+    wind to clear light debris all the way up to a full-force clearing. The lithium-ion
+    battery lasts up to 30 minutes, and it’s removable, so you can buy extra batteries
+    to quickly swap in and keep on blowing. A Charger and Radio Courtesy of Milwaukee
+    Save to wishlist Save to wishlist Milwaukee M18 Packout Radio Charger $279 Amazon
+    $349 The Home Depot $325 Walmart Stackable with Milwaukee storage systems, this
+    sound system has a classic rock-ready 10-speaker array capable of blasting The
+    Boss to every corner of a construction site. Built tough and powered either by
+    plugging it in or using the standard M18 battery, it has Bluetooth connectivity
+    and an AM-FM radio. It also doubles as a battery and USB charger for smartphones
+    and power tools. A reinforced housing protects it against drops, dust, and moisture.
+    An Electric Cutter Courtesy of Tinkr Save to wishlist Save to wishlist Tinkr Electric
+    Scissors $35 The Home Depot $40 Tinkr A compact, battery-powered cutter designed
+    to remove the effort and improve the precision of a host of cutting tasks. The
+    motorized blade uses SK5 high-carbon steel slicers, delivering clean, controlled
+    cuts through everything from cardboard and fabric to leather and even some plastics.
+    Weighing 10.5 ounces, it is easy to guide with one hand, while the 4V rechargeable
+    lithium battery should let you slice for hours on a single charge. A guarded cutting-edge
+    and trigger activation improve control further, as well as keeping your fingers
+    safe. For the Kids Courtesy of BeaverBot Save to wishlist Save to wishlist BeaverBot
+    Cutter 2 $299 $259 (13% off) BeaverBot This kid-safe router-style cutter is a
+    perfect antidote to the usual screen time. Using a digitally controlled blunt
+    cutting head rather than exposed blades, it lets children (big and small) cut
+    cardboard, card, foam, felt, thin fabrics, and light plastics at either 1,500
+    rpm for faster cuts or 800 rpm for more controlled work. The standard head can
+    handle materials up to 3 mm thick, but an optional upgrade to a 5 mm “ProCut”
+    head lets you go thicker. The compact 11.8 x 11.8-inch desktop unit comes in pink
+    or green (go pink!) and connects over USB or Wi-Fi to bundled'
+  difficulty_constant: 6.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章提到“the primary motivator for DIYers is, you guessed it, saving
+      money.”，并指出这是因为通货膨胀（Iran war spiking prices）导致的，因此C选项符合文意。
+    options:
+      A: A growing desire among people to develop new weekend hobbies.
+      B: The widespread availability of more advanced and smarter tools.
+      C: The economic necessity of reducing expenses amid rising costs.
+      D: The shifting perception of home improvement as a serious cultural activity.
+    q_number: 1
+    stem: According to the passage, what is the primary factor driving the current
+      increase in DIY projects?
+  - answer: B
+    explanation: 文章指出Soldr是open-source，这使其既吸引业余爱好者（hobbyists）也吸引严肃的研发人员（serious prototypers），因此B选项正确。
+    options:
+      A: It is intended exclusively for professional electronics engineers.
+      B: Its open-source nature makes it versatile for different users.
+      C: It is primarily designed to facilitate delicate work rather than robust tasks.
+      D: Its main limitation is the requirement for a separate fume extraction system.
+    q_number: 2
+    stem: What does the author suggest about the Soldr Deluxe Edition?
+  - answer: C
+    explanation: 文中提到“variable speed control allows for fine-tuning between aggressive
+      stock removal and ultrasmooth finishing”，这直接与操作的精确度（precision）相关。
+    options:
+      A: The ability to connect to a vacuum hose for cleanliness.
+      B: The lightweight design allowing for prolonged two-handed use.
+      C: The variable speed control for adjusting between different finishes.
+      D: The inclusion of a dust collection bag for mobile work.
+    q_number: 3
+    stem: Which feature of the Festool DTSC 200 sander is highlighted for enhancing
+      precision?
+  - answer: A
+    explanation: 文章提到Pit Viper因其“anarchic approach to eyewear”而闻名，但接着说该款安全眼镜虽然看起来反常规（irreverent-looking），却非常实用且符合工业标准，暗示其外观与功能的反差超出了读者的预期。
+    options:
+      A: Their aesthetic design may surprise those familiar with the brand's reputation.
+      B: They prioritize style and fashion over compliance with safety standards.
+      C: They are specifically designed to be used by professional tradespeople only.
+      D: Their practicality is overshadowed by the brand's controversial image.
+    q_number: 4
+    stem: What is the author's implication regarding the Pit Viper Revloc Z87+ safety
+      glasses?
+  - answer: C
+    explanation: 文章明确提到该产品是“a perfect antidote to the usual screen time”，说明其设计目的是为了让孩子减少屏幕时间，提供一种安全的动手工具。
+    options:
+      A: To teach children basic computer programming and robotics.
+      B: To serve as a professional-grade router for heavy construction materials.
+      C: To provide a secure and engaging alternative to digital entertainment for
+        children.
+      D: To cut thick metals and plastics with high-speed motorized blades.
+    q_number: 5
+    stem: What is the primary function of the BeaverBot Cutter 2?
+  source_journal: Wired
+  title: Save to wishlist
