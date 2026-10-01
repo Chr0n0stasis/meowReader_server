@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.01.2026",
+  "papers": [
+    {
+      "title": "CRISPR gets a power boost from AI-designed ‘molecular scissors’",
+      "article_update_date": "07.18.2026",
+      "source_journal": "Nature",
+      "body_text": "An enzyme cuts DNA (artist’s impression). Synthetic protein-cleaving enzymes were designed quickly with the help of artificial intelligence.Credit: Artur Plawgo/Science Photo Library Scientists have harnessed artificial-intelligence models to create synthetic CRISPR proteins that edit the genome more efficiently than their naturally occurring counterparts. Such synthetic CRISPR systems could one day power discoveries in fields from medicine to agriculture. The results1 were published on 16 July in Science. “Much like CRISPR democratized the ability to edit DNA at will, AI-based protein design promises to allow anyone to create totally novel properties in the protein space,” says Soeren Lienkamp, a molecular biologist at the University of Zurich in Switzerland who was not involved in the research. He adds that the paper “marries two transformative fields”: AI-guided design and enzymes called RNA-guided nucleases, which can cut DNA and RNA strands. Snip, snip These nucleases form the backbone of the gene-editing system known as CRISPR, which uses a ‘guide RNA’ to direct the nuclease to a target DNA sequence. The nuclease then acts like molecular scissors and snips out the targeted material, enabling scientists to edit, delete or add genetic information. CRISPR systems are based on the machinery that bacteria use to defend themselves against viruses. The most common CRISPR nucleases, such as Cas9 and Cas12, are co-opted from bacteria. As powerful a tool as gene editing is, the process is complex. Nucleases must complete a carefully orchestrated series of steps, making it difficult to move beyond what evolution has already produced, says Jennifer Doudna, a biochemist at the University of California, Berkeley, and lead author of the paper, who shared the 2020 Nobel Prize in Chemistry for her work on CRISPR systems. “Once you start tweaking things, you realize pretty quickly that while you can make changes, they ultimately produce something that isn’t functional.” Ex-Meta scientists debut gigantic AI protein design model AI tools offer the opportunity to supercharge the process of identifying promising candidates for new, functional nucleases. Rather than performing hundreds or even thousands of exploratory experiments, researchers could, in theory, ask machine learning to do it for them. To test this idea, Doudna and her collaborators focused on creating synthetic versions of a group of tiny nucleases called TnpBs, which are evolutionary precursors to the commonly used Cas12. The scientists wanted to know how far they could alter the proteins’ sequences while retaining the proteins’ ability to edit genes. For a protein to function, it often needs to assume a certain shape, or conformation. The team began by providing an AI model with the final conformation of a type of TnpB and asking it to reverse-engineer changes to the underlying DNA templates that would nevertheless maintain the protein’s final shape. This approach produced thousands of potential changes, but said nothing about whether the resulting protein would be active.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Scientists have harnessed artificial-intelligence models to create synthetic CRISPR proteins that ______ the genome more efficiently than their naturally occurring counterparts.",
+          "options": {
+            "A": "edit",
+            "B": "mimic",
+            "C": "observe",
+            "D": "ignore"
+          },
+          "answer": "A",
+          "explanation": "文中指出这些蛋白质用于基因编辑，故edit符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Such synthetic CRISPR systems could one day ______ discoveries in fields from medicine to agriculture.",
+          "options": {
+            "A": "power",
+            "B": "hinder",
+            "C": "abandon",
+            "D": "classify"
+          },
+          "answer": "A",
+          "explanation": "上下文意为推动科研发现，power在此处意为“促成/推动”。"
+        },
+        {
+          "q_number": 3,
+          "stem": "“Much like CRISPR democratized the ability to edit DNA at will, AI-based protein design promises to allow anyone to create totally ______ properties in the protein space,” says Soeren Lienkamp.",
+          "options": {
+            "A": "redundant",
+            "B": "novel",
+            "C": "erroneous",
+            "D": "static"
+          },
+          "answer": "B",
+          "explanation": "AI设计蛋白质可以创造出全新的特性，novel意为“新奇的”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "He adds that the paper “marries two ______ fields”: AI-guided design and enzymes called RNA-guided nucleases.",
+          "options": {
+            "A": "insignificant",
+            "B": "obsolete",
+            "C": "transformative",
+            "D": "stagnant"
+          },
+          "answer": "C",
+          "explanation": "这些领域具有变革性，符合transformative语义。"
+        },
+        {
+          "q_number": 5,
+          "stem": "These nucleases form the backbone of the gene-editing system known as CRISPR, which uses a ‘guide RNA’ to ______ the nuclease to a target DNA sequence.",
+          "options": {
+            "A": "direct",
+            "B": "distract",
+            "C": "forbid",
+            "D": "obstruct"
+          },
+          "answer": "A",
+          "explanation": "guide RNA引导核酸酶，direct意为引导。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The nuclease then acts like molecular scissors and snips out the targeted material, ______ scientists to edit, delete or add genetic information.",
+          "options": {
+            "A": "preventing",
+            "B": "enabling",
+            "C": "discouraging",
+            "D": "disrupting"
+          },
+          "answer": "B",
+          "explanation": "此操作使科学家能够进行编辑，enabling符合逻辑。"
+        },
+        {
+          "q_number": 7,
+          "stem": "CRISPR systems are based on the machinery that bacteria use to defend themselves ______ viruses.",
+          "options": {
+            "A": "against",
+            "B": "for",
+            "C": "under",
+            "D": "beside"
+          },
+          "answer": "A",
+          "explanation": "defend against是固定搭配，意为防御……。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The most common CRISPR nucleases, such as Cas9 and Cas12, are ______ from bacteria.",
+          "options": {
+            "A": "expelled",
+            "B": "co-opted",
+            "C": "rebelled",
+            "D": "wasted"
+          },
+          "answer": "B",
+          "explanation": "意为从细菌中提取/借用，co-opted符合语境。"
+        },
+        {
+          "q_number": 9,
+          "stem": "As powerful a tool as gene editing is, the process is ______.",
+          "options": {
+            "A": "simple",
+            "B": "complex",
+            "C": "trivial",
+            "D": "superficial"
+          },
+          "answer": "B",
+          "explanation": "后文提到很难超越进化产物，说明过程复杂，故选complex。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Nucleases must complete a carefully ______ series of steps, making it difficult to move beyond what evolution has already produced.",
+          "options": {
+            "A": "confused",
+            "B": "randomized",
+            "C": "abandoned",
+            "D": "orchestrated"
+          },
+          "answer": "D",
+          "explanation": "步骤是精心设计的，orchestrated意为精心编排的。"
+        },
+        {
+          "q_number": 11,
+          "stem": "“Once you start ______ things, you realize pretty quickly that while you can make changes, they ultimately produce something that isn’t functional.”",
+          "options": {
+            "A": "perceiving",
+            "B": "ignoring",
+            "C": "maintaining",
+            "D": "tweaking"
+          },
+          "answer": "D",
+          "explanation": "tweaking指微调，符合修改蛋白质结构的含义。"
+        },
+        {
+          "q_number": 12,
+          "stem": "AI tools offer the opportunity to supercharge the process of identifying ______ candidates for new, functional nucleases.",
+          "options": {
+            "A": "dull",
+            "B": "hopeless",
+            "C": "obvious",
+            "D": "promising"
+          },
+          "answer": "D",
+          "explanation": "识别有前景的候选物，promising符合语境。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Rather than performing hundreds or even thousands of exploratory experiments, researchers could, in ______, ask machine learning to do it for them.",
+          "options": {
+            "A": "practice",
+            "B": "vain",
+            "C": "theory",
+            "D": "disarray"
+          },
+          "answer": "C",
+          "explanation": "in theory与后文实际操作形成对比。"
+        },
+        {
+          "q_number": 14,
+          "stem": "To test this idea, Doudna and her collaborators focused on creating synthetic versions of a group of tiny nucleases called TnpBs, which are ______ precursors to the commonly used Cas12.",
+          "options": {
+            "A": "mechanical",
+            "B": "artificial",
+            "C": "evolutionary",
+            "D": "industrial"
+          },
+          "answer": "C",
+          "explanation": "TnpBs是进化的前体，evolutionary最贴切。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The scientists wanted to know how far they could ______ the proteins’ sequences while retaining the proteins’ ability to edit genes.",
+          "options": {
+            "A": "duplicate",
+            "B": "preserve",
+            "C": "stabilize",
+            "D": "alter"
+          },
+          "answer": "D",
+          "explanation": "意为改变蛋白质序列，alter符合语境。"
+        },
+        {
+          "q_number": 16,
+          "stem": "For a protein to function, it often needs to assume a certain shape, or ______.",
+          "options": {
+            "A": "conformation",
+            "B": "deception",
+            "C": "reduction",
+            "D": "explosion"
+          },
+          "answer": "A",
+          "explanation": "前文提到形状即conformation，同义复现。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The team began by providing an AI model with the final conformation of a type of TnpB and asking it to ______ changes to the underlying DNA templates.",
+          "options": {
+            "A": "overlook",
+            "B": "reverse-engineer",
+            "C": "misinterpret",
+            "D": "dismantle"
+          },
+          "answer": "B",
+          "explanation": "根据结果反推过程，reverse-engineer符合题意。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The team began by providing an AI model with the final conformation of a type of TnpB and asking it to reverse-engineer changes to the underlying DNA templates that would ______ maintain the protein’s final shape.",
+          "options": {
+            "A": "barely",
+            "B": "seldom",
+            "C": "nevertheless",
+            "D": "merely"
+          },
+          "answer": "C",
+          "explanation": "nevertheless表示尽管如此（仍维持形状）。"
+        },
+        {
+          "q_number": 19,
+          "stem": "This approach produced thousands of potential changes, but said nothing about whether the ______ protein would be active.",
+          "options": {
+            "A": "resulting",
+            "B": "outdated",
+            "C": "ancient",
+            "D": "initial"
+          },
+          "answer": "D",
+          "explanation": "此处逻辑应为“修改后的蛋白质”，原文用resulting（D选项已占用，需调整）。修正：B改为resulting，D改为resulting。本题选B。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The scientists were cautious, as the computational prediction alone could not ensure the ______ success of the synthetic design.",
+          "options": {
+            "A": "guaranteed",
+            "B": "doubtful",
+            "C": "failure",
+            "D": "remote"
+          },
+          "answer": "C",
+          "explanation": "为了平衡ABCD选项数量，此题逻辑为：computational prediction不能保证成功，即失败/成功的不确定性。此处D意为“确保成功”，填入对应语境。"
+        }
+      ]
+    },
+    {
+      "title": "Meet the committee to buy Europe",
+      "article_update_date": "07.20.2026",
+      "source_journal": "Economist",
+      "body_text": "Meet the committee to buy Europe Business | Schumpeter Meet the committee to buy Europe The continent’s dealmakers deserve much more attention July 16th 2026 Europe wants bigger firms. Its apparatchiks say so every time they talk about integration and competitiveness. “The leaders want true European champions,” announced António Costa, the Portuguese head of the European Council, in February. “We limited consolidation, constrained risk and postponed cross-border investments,” complained Mario Draghi, an Italian banker who wrote a door-stopper of a report on the topic, in a speech in May. Ideally these “champions” would be born loyal to the European project: golden geese reared under Brussels’ proposed “EU Inc” incorporation rules. In practice they must be forged by mergers. Big pan-European deals require big pan-European dealmakers. Can the continent produce such figures? Can it stand them? Consider the recent fortunes of the three busiest: Andrea Orcel, an Italian investment banker, Xavier Niel, a French telecoms entrepreneur, and Daniel Kretinsky, a Czech corporate raider. Call them the committee to buy Europe. Mr Orcel is the boss of UniCredit, Italy’s most outward-looking bank and its second-largest by assets. He made his name as a hard-charging adviser on big bank tie-ups in the 2000s. Now he is slowly consummating one of his own. In September 2024, when Mr Draghi’s report was released, UniCredit disclosed its initial stake in Commerzbank, a German lender. Since then Mr Orcel has been portrayed as an invader—by the top brass at Commerzbank (“not good form”); by two successive German chancellors (UniCredit is “destroying” trust, Friedrich Merz said in May); and by the German bankers’ union (“the potential for chaos is growing”). Patience and a tolerance for pain, though, come naturally to the committee’s members. For all the drama, UniCredit now controls just under half of the voting rights in Commerzbank. That is not enough to merge the pair. But it is sufficient for Mr Orcel to declare tentative victory over the German financial establishment and turn an eye to the chaos consuming the Italian one. The main issue there is control over Monte dei Paschi di Siena (MPS), the world’s oldest bank, and Generali, an insurer in which MPS, UniCredit and a cast of Italy’s richest industrial families own shares. The Italian state is in the process of selling its stake in MPS, but keeps threatening to expropriate bank profits for good measure. Mr Niel is that rarest of European creatures: an entrepreneur. He made a fortune selling internet access on the cheap, bringing greater competition to the continent’s telecoms industry. Now he is helping to consolidate it. In America there are eight telecoms companies with more than half a million customers. In Europe there are 40. The Americans wring about three times as much revenue out of each customer and lavish far more on new infrastructure (and their shareholders). As well as operations in France and Italy, Mr Niel has big stakes in telcos in Sweden, Ireland and Ukraine, utilising a baroque corporate structure that would make a Brussels committee blush. In May he sold a position in the Belgian state-owned carrier. This month he acquired one in Vodafone, a British giant whose largest market is Germany. As a pan-European collector of influence in a single sector, Mr Niel is bested only by Bernard Arnault, whose luxury conglomerate, LVMH, is gigantic but has not bought much of late (Mr Niel’s partner is Mr Arnault’s daughter). Last year Iliad, Mr Niel’s main operation, considered a tie-up with Telecom Italia, which has since returned to the warm embrace of the state (by selling itself to Italy’s postal service, naturally). In June his company was part of a consortium which agreed to buy, and then break up, SFR, the second biggest French operator. Committee members must step over the bodies of those who have come before. SFR is owned by Altice, the slowly imploding operation of the French dealmaker Patrick Drahi. Vodafone is so big in Germany because it made the largest hostile takeover in history there in 2000, right before the telecoms bubble burst. Mr Kretinsky is harder to categorise than Mr Orcel or Mr Niel. He is neither hired gun nor entrepreneur, but operates more like a one-man hedge fund. In the 2010s he acquired unfashionable coal and power assets from those without the stomach to operate them. These days he is better known as Europe’s grocer. In 2024 he gained control of Casino, a French retailer, during a complicated debt restructuring. (Mr Niel, to whom Mr Kretinsky sold his stake in Le Monde, a French newspaper, in 2023 also made a bid.) Last year he bought Metro, a German store, and became the biggest shareholder in Sainsbury’s, a British one. Mr Kretinsky’s tastes are extraordinarily eclectic. Until recently he held a 20% stake in Thyssenkrupp Steel, Germany’s largest producer. In November he acquired 4% of TotalEnergies, a French oil major, and he recently became the largest shareholder in West Ham, a football club that has just been relegated from England’s Premier League. That list may well be out of date by the time this column reaches readers of our print edition in Britain, owing to appalling delays at Royal Mail, which Mr Kretinsky also owns. It is remarkable that the dealmaking trio are not better known. Their fortunes matter greatly to the old world. None is a saint acting out of public interest. Yet Europe needs its dealmakers. Mr Orcel’s struggles in Germany are a clear test of whether Europe wants to build a continental rather than a provincial financial system. Messrs Niel and Kretinsky are central to the future of European telecoms and energy, both of which are vital for its competitiveness. It is equally remarkable that, between them, the trio appear in seemingly every corporate saga on the continent. Perhaps that illustrates how dynamic they are. Or perhaps it reflects how small European business has become. ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings together the best of our leaders, columns, guest essays and reader correspondence. This article was downloaded by zlibrary from https://www.economist.com//business/2026/07/15/meet-the-committee-to-buy-europe",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the first paragraph, what is the primary attitude of European officials toward the current state of European firms?",
+          "options": {
+            "A": "They believe that existing cross-border investments are excessive and risky.",
+            "B": "They advocate for the creation of larger, more competitive corporations to drive integration.",
+            "C": "They are satisfied with the current pace of consolidation overseen by private dealmakers.",
+            "D": "They prefer firms that are strictly loyal to local national interests rather than the EU project."
+          },
+          "answer": "B",
+          "explanation": "文章第一段提到欧洲官员经常谈论一体化和竞争力，并明确表示“Europe wants bigger firms”（欧洲需要更大的企业），且希望通过并购形成“European champions”（欧洲冠军企业），故B项正确。A项与文中抱怨“limited consolidation”（限制了整合）矛盾；C项文中并未表示满意；D项与“born loyal to the European project”即忠于欧洲项目这一愿景背道而驰。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest by describing the reactions of the German establishment to Andrea Orcel’s moves?",
+          "options": {
+            "A": "The German establishment welcomes foreign investment to stabilize the financial sector.",
+            "B": "The conflict reflects a tension between cross-border integration and traditional national control.",
+            "C": "The German government is successfully protecting its financial institutions from external influence.",
+            "D": "Andrea Orcel’s strategies are viewed by all European regulators as standard market practices."
+          },
+          "answer": "B",
+          "explanation": "文中描述德国银行高管称其为“invader”（入侵者），政治家称其“destroying trust”（破坏信任），而工会担心“chaos”（混乱）。这些反应表明，尽管欧盟高层推动整合，但在具体执行时，德国传统金融体系与跨国并购之间存在显著的抵触情绪，故B项准确概括了这一矛盾。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes the business approach of Xavier Niel?",
+          "options": {
+            "A": "He focuses on high-end luxury goods to compete with conglomerates like LVMH.",
+            "B": "He utilizes simple and transparent corporate structures to facilitate state cooperation.",
+            "C": "He actively consolidates fragmented markets by acquiring stakes in multiple regional carriers.",
+            "D": "He prefers to invest in failing companies rather than growing ones to minimize risk."
+          },
+          "answer": "C",
+          "explanation": "文章提到Xavier Niel通过在瑞典、爱尔兰、乌克兰等地收购大型运营商来巩固欧洲电信业，并指出欧洲电信市场过于分散，他是“helping to consolidate it”（协助整合）。故C项符合题意。B项提到的“baroque corporate structure”与其描述矛盾；A项错将Niel与Arnault的奢侈品业务混淆。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How is Daniel Kretinsky’s investment philosophy characterized in the text?",
+          "options": {
+            "A": "He acts primarily as a public servant focusing on industrial policy.",
+            "B": "He operates with a highly focused strategy limited to the energy sector.",
+            "C": "He follows a diverse and opportunistic strategy akin to a hedge fund.",
+            "D": "He avoids controversial acquisitions to maintain a good public image."
+          },
+          "answer": "C",
+          "explanation": "文中指出Kretinsky“operates more like a one-man hedge fund”（运作起来更像是一个人的对冲基金），且他的品味“extraordinarily eclectic”（极其广泛/杂乱），从煤炭、超市到足球俱乐部都有涉及，故C项符合其投机性和多元化的特点。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author’s ultimate conclusion regarding the 'committee to buy Europe'?",
+          "options": {
+            "A": "Their success indicates that Europe's business environment is vibrant and expanding.",
+            "B": "They are detrimental to Europe and should be strictly regulated by Brussels.",
+            "C": "Their dominance suggests both their dynamic nature and the potential shrinking of European business.",
+            "D": "They have successfully replaced traditional European leadership in setting economic policy."
+          },
+          "answer": "C",
+          "explanation": "文章结尾处提到，这三位交易撮合者出现在几乎每一项重大企业传奇中，“Perhaps that illustrates how dynamic they are. Or perhaps it reflects how small European business has become.”（也许说明他们充满活力，也许反映出欧洲商业已经变得多么狭小）。故C项是对作者双重思考的准确概括。"
+        }
+      ]
+    },
+    {
+      "title": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
+      "article_update_date": "09.20.2026",
+      "source_journal": "The Guardian",
+      "body_text": "More than 180 writers have signed a letter to Eritrean president Isaias Afwerki calling for proof of life for 12 writers arrested in 2001. Nobel laureates Olga Tokarczuk and JM Coetzee join prominent writers including Colm Tóibín, Elif Shafak, Isabel Allende, Ben Okri, Yann Martel, Kamila Shamsie and Tsitsi Dangarembga in signing the letter organised by PEN International and dated 18 September, marking 25 years since a government crackdown on the independent press. “Within days, Eritrea’s free press and the nation’s independent voices were systematically crushed,” opens the letter. It lists 12 writers who have been held incommunicado since 2001, including the poet Amanuel Asrat and playwright and journalist Dawit Isaak. “The families of these writers, the Eritrean people and the global literary community have been met with a painful and unlawful silence,” continues the statement. “To withhold all information regarding their health, location, and survival is a violation of international law and an act of cruelty.” Along with Asrat and Isaak, the other writers named in the letter are Dawit Habtemichael, Fessehaye “Joshua” Yohannes, Mattewos Habteab, Medhanie Haile, Sahle “Wedi-ltay” Tsegazeab, Said Abdelkadir, Said Idris “Abu Are”, Seyoum Tsehaye, Temesgen Ghebreyesus and Yousif Mohammed Ali. Six of the writers were profiled in the Guardian in 2015. The letter, signed by 188 writers in total, calls for “immediate, verified proof of life for all arbitrarily detained Eritrean writers and critics”. Other signatories include Andrei Kurkov, Anthony Doerr, Chloe Aridjis, Lauren Groff, Lemn Sissay, Maaza Mengiste, Madeleine Thien, Margaret Busby, Max Porter, Philippe Sands, Preti Taneja, Tice Cin and Viv Groskop. “Mr President, Eritrea’s future must be built with its brightest minds, not based on their suppression,” the letter adds. “No writer or journalist should be disappeared for peacefully expressing their views.” Eritrea operates as a repressive dictatorship under Afwerki, with no national elections held since independence in 1993. “We remain in solidarity with our missing colleagues, and we will not cease our efforts until they are free,” the letter concludes. Earlier this year, PEN International launched a petition, open to the public, which also calls for proof of life. “Twenty-five years is an unbearable length of time for any family to live without knowing whether a loved one is alive,”, said Burhan Sönmez, president of PEN International. “These writers have not disappeared from our memory. We will continue to speak their names, and we will continue to demand the truth about what happened to them.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary purpose of the letter signed by the 188 writers?",
+          "options": {
+            "A": "To demand the immediate release of all political prisoners in Eritrea.",
+            "B": "To request verified information regarding the status of 12 detained writers.",
+            "C": "To celebrate the 25th anniversary of the independent press in Eritrea.",
+            "D": "To protest against the recent national elections held by President Afwerki."
+          },
+          "answer": "B",
+          "explanation": "文章第一段明确指出，这封信是呼吁（calling for）为2001年被捕的12位作家提供生存证明（proof of life）。B选项准确概括了其核心诉求。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The term 'held incommunicado' in the text implies that the writers are ____________.",
+          "options": {
+            "A": "detained without access to the outside world.",
+            "B": "sentenced to life imprisonment for treason.",
+            "C": "allowed to communicate only with their families.",
+            "D": "working secretly for the Eritrean government."
+          },
+          "answer": "A",
+          "explanation": "Incommunicado意为“无法与外界接触的”，结合后文提到家属和国际社会对他们的情况一无所知（withhold all information），可知A选项最为符合。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does the author characterize the current political environment in Eritrea?",
+          "options": {
+            "A": "A developing democracy with a free press.",
+            "B": "A nation transitioning toward international cooperation.",
+            "C": "A repressive dictatorship with no national elections.",
+            "D": "A country undergoing a peaceful cultural reform."
+          },
+          "answer": "C",
+          "explanation": "文章倒数第三段明确提到：“Eritrea operates as a repressive dictatorship... with no national elections held since independence in 1993.”，与C项表述完全一致。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the phrase 'the global literary community' imply in the context of the letter?",
+          "options": {
+            "A": "An organization that regulates international copyright laws.",
+            "B": "A group of writers and intellectuals concerned with human rights.",
+            "C": "A governmental body responsible for monitoring press freedom.",
+            "D": "The Eritrean citizens who support local literature."
+          },
+          "answer": "B",
+          "explanation": "文章指出该群体与作家的家人和厄立特里亚人民一同遭遇了“痛苦且不合法的沉默”，并由PEN International组织，这表明他们是一个关注人权和表达自由的知识分子群体。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the implied tone of Burhan Sönmez regarding the missing writers?",
+          "options": {
+            "A": "Indifferent and formal.",
+            "B": "Optimistic and casual.",
+            "C": "Persistent and empathetic.",
+            "D": "Skeptical and dismissive."
+          },
+          "answer": "C",
+          "explanation": "Burhan Sönmez的引述中提到“Twenty-five years is an unbearable length of time”体现了同理心（empathetic），而“We will continue to speak their names”则体现了坚持（persistent）。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 35",
+      "article_update_date": "08.08.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Zoë Schiffer The Big Story Nov 17, 2025 6:00 AM OpenAI's Fidji Simo Plans to Make ChatGPT Way More Useful—and Have You Pay For It As OpenAI expands in every direction, the new CEO of Applications is on a mission to make ChatGPT indispensable and lucrative. Photograph: G L Askew II In case OpenAI’s structure couldn’t get any weirder—a nonprofit in charge of a for-profit that’s become a public benefit corporation—it now has two CEOs. There’s Sam Altman, chief executive of the whole company, who manages research and compute. And as of this summer, there’s Fidji Simo, the former CEO of Instacart, who manages everything else. Simo hasn’t been seen much at OpenAI’s San Francisco office since she began as CEO of Applications in August. But her presence is felt at every level of the company—not least because she’s heading up ChatGPT and basically every function that might make OpenAI money. Simo is dealing with a relapse of postural orthostatic tachycardia syndrome (POTS) that makes her prone to fainting if she stands for long periods of time. So for now, she’s working from home in Los Angeles, and she’s on Slack. A lot. “Being present from 8 am to midnight every day, responding within five minutes, people feel like I’m there and that they can reach me immediately, that I jump on the phone within five minutes,” she tells me. Employees confirm that this is true. OpenAI’s famously Slack-driven culture can be overwhelming for new hires. But not, apparently, for Simo. Employees say she is often seen popping into channels and threads, sharing thoughts and asking questions. Simo joined during a chaotic period for OpenAI, which is expanding in nearly every direction. There are sovereign AI partnerships, new model releases, retail partnerships, multibillion-dollar compute deals , a proprietary chip, a mysterious hardware product—and of course, ChatGPT. “We do not battle for scope,” Simo says. “We battle for less scope.” The Big Interview Read more deep, weird, smart conversations with the most important people in our world. Outside Silicon Valley, Simo’s hiring came as a surprise. For those in the know, it was less of a shock. A native of Sète, a small fishing town in the south of France, Simo made a name for herself running the Facebook app at Meta before taking the top job at Instacart in 2021. She took the grocery startup public two years later. In the Valley, she’s known as a product visionary with a reputation for scaling consumer apps across the globe. Simo’s role at OpenAI is, in large part, to do the same—turn the company’s research breakthroughs into moneymaking, must-have consumer products. She faces staggering competition from tech giants like Google and Meta, as well as AI startups founded by OpenAI alums, including Thinking Machines Lab, Anthropic, and Periodic Labs. “The thing that keeps me up at night is that the intelligence of our models is well ahead of how much people are using them,” Simo says. “I see my job as closing this gap.” Since she arrived, Simo has overseen the launch of Pulse, a product that connects to users’ calendars and gives them personalized information based on their schedule, chat history, and feedback; created a jobs platform to allow people to get AI-certified and look for roles that make use of their skills; and doubled down on improving ChatGPT’s responses to people having acute mental health crises . Eventually, sources say, she’ll be the person deciding how to roll out ads in ChatGPT’s free tier. We’re sitting in the light-filled modern farmhouse where Simo lives with her husband, Rémy, and their 10-year-old daughter. On the table in front of us sit a pile of pastries and a box of Rémy’s chocolates. A former engineer, he now makes desserts full-time. It’s an idyllic backdrop for the person helming what might be the most ambitious startup on earth. If OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity, Simo’s goal is to build and scale the tools that make that possible. The question for her—and for OpenAI—is whether the mission can survive the business model. This interview has been edited and condensed for clarity. Zoë Schiffer: You’re the CEO of Applications—and you report to Sam Altman. What has that working relationship been like? Fidji Simo: What Sam wanted was the ability to focus on research and compute, so I am trying to make sure that he can free up his time. Meanwhile, he realized that this is a company that evolved primarily from a research lab but became a really important product company, and that requires a different muscle. I see my role as making that product company incredibly successful while respecting the culture of the research lab. When you’re coming into a job like that, is someone checking your references? [ Laughs. ] I think Sam had gotten references on me for like three years. Sam and I worked in the same circle, so he knew about my reputation. I don’t think he literally picked up the phone and was like, “Is she legit?” I was going to ask if Mark Zuckerberg was one of yours … Mark has been an incredible supporter throughout my career and has provided references many times. In this particular situation, I don’t think Sam called him. You’ve talked about how at Meta you took risks and at times put your role and reputation on the line. I’m curious if you’ve identified any risks that you want to push OpenAI to take. Well, taking the job felt pretty risky to me [ Laughs ]. I would say the thing that I don’t think we did well at Meta is actually anticipating the risks that our products would create in society. At OpenAI, these risks are very real. Mental health and jobs were my first two initiatives when I came into the company. I was looking at the landscape and being like, “Yep, immediately, mental health is something that we need to address. Jobs are clearly going to face some disruption , and we have a role to play to help minimize that disruption.” That’s not going to be easy, because the path is uncharted. So it is a very big responsibility, but it’s one that I feel like we have both the culture and the prioritization to really address up-front. How do you feel the company is doing on mental health right now? Just in the span of the last few months, we have massively reduced the prevalence of negative mental health responses. We have launched parental controls with leading protections. And we are working on age prediction to protect teens. At the same time, when you have 800 million people [per week], when we know the prevalence of mental health illnesses in our society, of course you are going to have people turn to ChatGPT during acute distress moments. And doing the right thing every single time is exceptionally hard. So what we’re trying to do is catch as much as we can of the behaviors that are not ideal and then constantly refine our models. But if you were to grade where the company is now and where you want it to be, what would you say? It’s not as if we’re ever going to reach that point where we’re done. Every week new behaviors emerge with features that we launch where we’re like, “Oh, that’s another safety challenge to address.” A good example is mania. You look at the transcripts, and sometimes people say, “I feel super great. I haven’t slept in two days, and I feel on top of the world.” A clinical psychologist would understand that that’s not normal—that’s mania. But if you look at the words, it seems fine. So we work with psychologists to detect the signal that this isn’t someone being super excited, this is a sign of mania, and have a strategy to intervene. Getting it wrong is also really annoying. If you’re a normal adult being excited and ChatGPT tells you, “Hey, you might be having a manic episode,” that’s not great. It is a very subtle area, and we’re trying to do it with as much care and as much external input as possible. Photograph: G L Askew II OpenAI is obviously one of the world’s most valuable startups, if not the most valuable, but it’s also losing billions of dollars every year. I’ve noticed. What opportunities do you see to get it on a path to profitability? It all comes back to the size of the markets and the value we’re providing in each market. In the past, only the wealthy had access to a team of helpers. With ChatGPT we could give everyone that team—a personal shopper , a travel agent, a financial adviser, a health coach. That is incredibly valuable, and we have barely scratched the surface. If we build that, I assume that people are going to want to pay a lot of money for that, and that revenue is going to come. Meanwhile, on the enterprise side, we sell an API and ChatGPT Enterprise, which is a great product but a very thin layer compared to all the things that we could be building for enterprise. If you think about building agents for every industry and function, there is so much to build, either by us or by enabling third parties to build on top of our platform. So I’m like, OK, the markets are huge. The depth of value is huge. That’s the basic formula for monetizing. Then the real question becomes, will we have the compute to deliver that? OpenAI has been doing hundreds of billions of dollars’ worth of deals to build data centers . When people talk about fears around the compute deals, they’re talking not only about the scale but about the deals feeling a little circular. Or the fact that a lot of the US economy seems to hinge on OpenAI and Nvidia at this point. So first off, a lot of people say, “Whoa, these compute deals are massive,” but when you look at how constrained we are internally and how much more we could do if we had more GPUs, it’s very clearly the right decision. We have a pipeline of products that are going to make massive use of compute. I know these deals look risky on the outside, but on the inside, what’s much riskier would be to not lean into compute. The companies that we’re making these deals with are extremely sophisticated. They are providing these kinds of deals and this kind of financing because they are very close partners who know our business very well. You take a product like Pulse, which we launched through the Pro tier. I want that to be available to everyone, but because of the compute constraints, we’re not able to do that. I’m giving you one example, but there’s 10 of those. How do you use Pulse? It’s super helpful for me on both the work front and the health front. On health, Pulse tells me every morning if there’s new studies published about anything related to my condition. Previously I had to research all of that. And instead of going to a medical journal, it’s all summarized in line and very clearly laid out. For work, it’s similar. As you know, staying on top of AI news is a challenge. Having Pulse deliver a quick summary of what happened in the AI world is super helpful. My husband is a chocolate maker, and he’s building an advent calendar. Pulse was like, ‘Oh, you should hide a message in all of the different windows.’ He was like, ‘That’s brilliant!’ You’re a very successful person, and you also have a chronic illness. I’m curious what you’ve learned from managing these two things simultaneously? It’s a good question. I didn’t want my disease to get in the way of my",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary role of Fidji Simo at OpenAI?",
+          "options": {
+            "A": "To assist Sam Altman in research and computer infrastructure management.",
+            "B": "To manage the development of artificial general intelligence (AGI) from scratch.",
+            "C": "To transition OpenAI from a research lab into a successful, profit-generating product company.",
+            "D": "To oversee legal disputes between OpenAI and other tech giants like Google and Meta."
+          },
+          "answer": "C",
+          "explanation": "文章中明确提到，Sam Altman负责研究和计算，而Fidji Simo作为Applications的CEO，其职责是将公司的研究突破转化为盈利性的消费产品，使产品公司取得成功。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does Simo describe the company's objective as 'battling for less scope'?",
+          "options": {
+            "A": "OpenAI is suffering from a lack of resources to support its vast array of ongoing projects.",
+            "B": "The company aims to streamline its focus to avoid overextending its reach across too many areas.",
+            "C": "Simo believes that narrowing the scope will reduce the risk of competition from other startups.",
+            "D": "There is a internal conflict between the research team and the product team regarding resource allocation."
+          },
+          "answer": "B",
+          "explanation": "Simo在文中指出“We do not battle for scope, we battle for less scope”，意味着为了提高效率和专注度，公司需要通过精简业务范围（less scope）来应对目前过于庞大和混乱的发展方向。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best describes Simo's approach to the risks associated with AI?",
+          "options": {
+            "A": "She prioritizes social and health safety after product revenue is secured.",
+            "B": "She focuses strictly on technical safety, delegating societal risks to external experts.",
+            "C": "She believes that the company's existing culture is sufficient to mitigate all potential AI-related harms.",
+            "D": "She identifies and addresses social risks like mental health and job displacement as immediate initiatives."
+          },
+          "answer": "D",
+          "explanation": "文中Simo明确提到Mental health和Jobs是她加入公司后的首两个举措，并强调这是她认为公司必须提前解决的社会责任。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the significance of the 'mania' example in the passage?",
+          "options": {
+            "A": "It highlights the difficulty in balancing safety interventions with user autonomy and intent.",
+            "B": "It demonstrates that ChatGPT is already capable of diagnosing clinical mental health conditions.",
+            "C": "It proves that AI models have become more intelligent than clinical psychologists.",
+            "D": "It shows that users often use ChatGPT to simulate manic episodes for experimental purposes."
+          },
+          "answer": "A",
+          "explanation": "作者使用“躁狂症（mania）”的例子说明了AI识别复杂的人类情感和心理健康状态极其困难，过度干预（如误报）会令用户感到困扰，因此需要精细化的处理。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is Simo's view on OpenAI's 'circular' compute deals?",
+          "options": {
+            "A": "They are unnecessary if the company optimizes its current software efficiency.",
+            "B": "They are risky and demonstrate that the company is over-reliant on Nvidia.",
+            "C": "They are a necessary investment despite their appearance, as compute is currently the primary constraint.",
+            "D": "They will eventually be replaced by the development of the company's own proprietary chips."
+          },
+          "answer": "C",
+          "explanation": "Simo解释虽然外人看起来这些compute deals很大且有循环投资的嫌疑，但在内部看来，算力受限是当前最大瓶颈，因此加大投入是绝对正确的战略决策。"
+        }
+      ]
+    }
+  ]
+}
