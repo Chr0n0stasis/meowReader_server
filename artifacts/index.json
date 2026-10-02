@@ -1138,5 +1138,11 @@
     "date": "10.01.2026",
     "strategy": "common",
     "path": "artifacts/10.01.2026/common.json"
+  },
+  {
+    "id": "10.02.2026-common",
+    "date": "10.02.2026",
+    "strategy": "common",
+    "path": "artifacts/10.02.2026/common.json"
   }
 ]
