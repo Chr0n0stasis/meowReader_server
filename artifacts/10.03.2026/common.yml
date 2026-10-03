@@ -1,0 +1,596 @@
+group_update_date: 10.03.2026
+papers:
+- article_update_date: 06.09.2026
+  body_text: 'Scientists often use experimental kits that come with prepackaged enzymes,
+    buffers and substrates for biomedical research.Credit: Hugh Threlfall/Alamy Since
+    my postdoctoral years at Louisiana State University in Baton Rouge more than three
+    decades ago, I have witnessed a profound change in how biomedical research is
+    conducted. This change has made research much more productive, has strengthened
+    experimental protocols and has helped to ensure that findings are replicable.
+    But it has also led to a huge increase in costs and, for some scientists, perhaps
+    a loss of fundamental understanding about experimentation. The age of the biomedical
+    research kit is upon us. Kits used for biomedical research are commercially produced,
+    pre-packaged experimental systems designed to perform a specific assay or measurement
+    with minimal preparation by the user. A typical kit arrives as a small box containing
+    pre-measured reagents — often enzymes, buffers and substrates — aliquoted into
+    tubes or plates, alongside a concise protocol. The assays are designed to be straightforward,
+    reducing the amount of preparation and optimization performed by the user. In
+    minutes to hours, most protocols yield a numerical signal, such as a measurement
+    of absorbance, fluorescence or luminescence. This output is then interpreted as
+    a representation of a biological phenomenon of interest. Experimental kits span
+    a wide price and complexity spectrum. Simple assays might cost up to a few hundred
+    US dollars. Meanwhile, assays designed to investigate specific cellular pathways,
+    kits for preparing DNA libraries, panels that can measure several factors simultaneously
+    and kits required when working with specific instruments all frequently range
+    from several hundred to many thousands of dollars. Useful tools In my experimental
+    work, we often use kits to quantify mitochondrial function, oxidative stress and
+    cell viability and cell-death mechanisms, all techniques that once required the
+    preparation and validation of various reagents in-house. These kits commonly cost
+    several hundred dollars for a limited number of assays. AI linked to explosion
+    of low-quality biomedical research papers Researchers use experimental kits to
+    generate large volumes of data, yet the underlying chemistry, biological principles
+    and assumptions that the assay makes can easily fade from view. Using a kit without
+    understanding its principles is like relying on a calculator without grasping
+    the underlying arithmetic: the tool functions smoothly, but interpretation and
+    troubleshooting become more difficult when results depart from expectations. One
+    could argue that modern science depends on abstraction. People do not need to
+    understand how a clock works to tell the time. Similarly, many researchers might
+    not need to know the precise composition of every proprietary buffer to answer
+    meaningful biological questions. The field of computer programming is having a
+    similar conversation because artificial-intelligence tools are increasingly turning
+    once-essential skills into optional ones. The challenge, then, is not deciding
+    whether these research ‘black boxes’ should exist — they will — but finding out
+    which skills are essential for scientific judgement, troubleshooting and integrity.
+    Changing times The problem arises when assay kits become a substitute for understanding.
+    When troubleshooting is reduced to swapping brands or ordering a fresh batch of
+    reagents, laboratory staff lose an essential skill: the ability to interpret failure
+    as information, not merely as an inconvenience. When I was a postdoc, a lot of
+    emphasis was placed on ensuring that students understood the science underlying
+    their research and had basic lab skills. We didn’t have kits to challenge that.
+    One of my friends recalls waiting outside his lab for his professor. On arrival,
+    the professor asked him several simple questions: one about a specific equation
+    crucial to their research, one on molarity calculations, one on preparing a buffer
+    and one about titration. He was given the keys to the lab only after answering.
+    Another colleague told me that his professor deliberately kept the lab’s kymograph
+    (a tool for plotting data) dismantled, just to see whether students could reassemble
+    and use it correctly.'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: A
+    explanation: 根据上下文，作者在描述科研模式的重大变革，profound（深刻的）符合语境。
+    options:
+      A: profound
+      B: temporary
+      C: negligible
+      D: random
+    q_number: 1
+    stem: Since my postdoctoral years at Louisiana State University, I have witnessed
+      a ______ change in how biomedical research is conducted.
+  - answer: D
+    explanation: 文中提到变革有助于科研结果的可复现性，replicable（可复现的）是固定搭配。
+    options:
+      A: controversial
+      B: mysterious
+      C: expensive
+      D: replicable
+    q_number: 2
+    stem: This change has made research much more productive and helped to ensure
+      that findings are ______.
+  - answer: D
+    explanation: 作者担忧的是对实验本质的理解缺失，fundamental（基本的/基础的）最为恰当。
+    options:
+      A: superficial
+      B: technical
+      C: theoretical
+      D: fundamental
+    q_number: 3
+    stem: But it has also led to a huge increase in costs and, for some scientists,
+      a loss of ______ understanding.
+  - answer: B
+    explanation: be designed to do sth. 是固定搭配，意为“被设计用于……”。
+    options:
+      A: intended
+      B: designed
+      C: allowed
+      D: requested
+    q_number: 4
+    stem: Kits are commercially produced, pre-packaged experimental systems ______
+      to perform a specific assay.
+  - answer: A
+    explanation: aliquoted（分装的）是生物实验试剂的专业描述用词。
+    options:
+      A: aliquoted
+      B: mixed
+      C: poured
+      D: thrown
+    q_number: 5
+    stem: A typical kit arrives as a small box containing pre-measured reagents ______
+      into tubes or plates.
+  - answer: B
+    explanation: 实验试剂盒减少了用户自行进行的优化（optimization）过程。
+    options:
+      A: calculation
+      B: optimization
+      C: evaluation
+      D: observation
+    q_number: 6
+    stem: The assays are designed to be straightforward, reducing the amount of preparation
+      and ______ performed by the user.
+  - answer: C
+    explanation: yield在此处意为“产生/得出（结果）”，符合语境。
+    options:
+      A: require
+      B: acquire
+      C: yield
+      D: inhibit
+    q_number: 7
+    stem: In minutes to hours, most protocols ______ a numerical signal.
+  - answer: C
+    explanation: 实验结果通常被人们解读为某种生物现象的体现，interpreted为正确用词。
+    options:
+      A: calculated
+      B: manipulated
+      C: interpreted
+      D: measured
+    q_number: 8
+    stem: This output is then ______ as a representation of a biological phenomenon
+      of interest.
+  - answer: A
+    explanation: 根据上下文，实验套件不仅价格不同，复杂程度也不同，complexity符合。
+    options:
+      A: complexity
+      B: popularity
+      C: utility
+      D: quantity
+    q_number: 9
+    stem: Experimental kits span a wide price and ______ spectrum.
+  - answer: D
+    explanation: 量化（quantify）是实验套件的主要功能之一。
+    options:
+      A: specify
+      B: qualify
+      C: identify
+      D: quantify
+    q_number: 10
+    stem: In my experimental work, we use kits to ______ mitochondrial function and
+      oxidative stress.
+  - answer: B
+    explanation: fade from view 是固定用法，意为“从视野中消失/被忽略”。
+    options:
+      A: emerge
+      B: fade
+      C: depart
+      D: extend
+    q_number: 11
+    stem: Researchers use kits to generate large volumes of data, yet the underlying
+      biological principles can easily ______ from view.
+  - answer: D
+    explanation: grasping（理解/掌握）在此表达对基础理论的深刻把握。
+    options:
+      A: mastering
+      B: predicting
+      C: revealing
+      D: grasping
+    q_number: 12
+    stem: Using a kit without understanding its principles is like relying on a calculator
+      without ______ the underlying arithmetic.
+  - answer: A
+    explanation: depend on 是固定搭配，意为“依赖于……”。
+    options:
+      A: depends
+      B: insists
+      C: expands
+      D: focuses
+    q_number: 13
+    stem: One could argue that modern science ______ on abstraction.
+  - answer: B
+    explanation: proprietary在此指“专利的/私有的”，指试剂盒中保密的成分。
+    options:
+      A: alternative
+      B: proprietary
+      C: temporary
+      D: universal
+    q_number: 14
+    stem: Many researchers might not need to know the precise composition of every
+      ______ buffer.
+  - answer: C
+    explanation: 作者强调某些技能对于科研完整性是必不可少的，essential符合。
+    options:
+      A: obsolete
+      B: available
+      C: essential
+      D: additional
+    q_number: 15
+    stem: The challenge is not deciding whether these research ‘black boxes’ should
+      exist, but finding out which skills are ______ for integrity.
+  - answer: A
+    explanation: 当套件替代了对科学的理解，substitute（替代品）最为贴切。
+    options:
+      A: substitute
+      B: barrier
+      C: catalyst
+      D: complement
+    q_number: 16
+    stem: The problem arises when assay kits become a ______ for understanding.
+  - answer: C
+    explanation: merely（仅仅）表示否定程度，修饰 inconveniece。
+    options:
+      A: merely
+      B: hardly
+      C: nearly
+      D: rarely
+    q_number: 17
+    stem: 'Laboratory staff lose an essential skill: the ability to interpret failure
+      as information, not ______ as an inconvenience.'
+  - answer: B
+    explanation: place emphasis on 是固定搭配，意为“强调……”。
+    options:
+      A: doubt
+      B: emphasis
+      C: pressure
+      D: reliance
+    q_number: 18
+    stem: When I was a postdoc, a lot of ______ was placed on ensuring that students
+      understood the science.
+  - answer: C
+    explanation: crucial（关键的）符合询问方程对于研究的重要性。
+    options:
+      A: prior
+      B: adverse
+      C: crucial
+      D: similar
+    q_number: 19
+    stem: 'His professor asked him several simple questions: one about a specific
+      equation ______ to their research.'
+  - answer: D
+    explanation: 根据上下文，教授为了考核学生将其拆解，故kept dismantled符合逻辑。
+    options:
+      A: repaired
+      B: upgraded
+      C: dismantled
+      D: maintained
+    q_number: 20
+    stem: Another colleague told me that his professor deliberately kept the lab’s
+      kymograph ______, just to see whether students could reassemble it.
+  source_journal: Nature
+  title: Let’s talk about biomedical research kits
+- article_update_date: 08.19.2026
+  body_text: 'Donald Trump takes a fresh swipe at childhood vaccines United States
+    | A booster of doubt Donald Trump takes a fresh swipe at childhood vaccines A
+    new order only adds to confusion for parents Aug 13th 2026 BACK WHEN he was a
+    reality-TV star, Donald Trump tweeted: “Healthy young child goes to doctor, gets
+    pumped with massive shot of many vaccines…AUTISM.” More than 12 years later, on
+    August 10th, Mr Trump acted on the thinking behind that dubious claim. A new executive
+    order says the combined measles, mumps and rubella vaccine should be split into
+    three. It advises giving those and other jabs at separate doctor visits. And it
+    puts childhood vaccines into three buckets: those recommended for everyone (covering
+    11 diseases and infections, down from 18), those for high-risk groups and those
+    to be decided on after talking to a doctor. There is no evidence that vaccines
+    cause autism. Nor is there evidence that spreading out vaccines is beneficial.
+    In fact, doing so increases the window in which kids are vulnerable to infection.
+    Doctors’ groups, therefore, lined up to denounce the order. The head of the American
+    Academy of Paediatrics called it “not only disheartening but dangerous”. It puts
+    “children’s health at risk”, said the boss of the American Medical Association.
+    The good news, then, is that Mr Trump’s order will have little practical effect.
+    States, not the federal government, normally set vaccination requirements for
+    schoolchildren. And most of them are guided by abundant evidence that vaccines
+    have driven down rates of infectious disease by a miraculous degree (see chart).
+    But as the administration injects more doubt and confusion into decisions over
+    vaccines, parents are increasingly declining them. Measles vaccination coverage
+    among kindergarteners is 92.5%, down from 95.2% in 2019. That is worryingly low:
+    an estimated 92-94% of a community must be immune to stop measles spreading. Many
+    areas are already below that threshold, helping to explain why 2026 has already
+    outpaced all of 2025 for measles cases. The executive order is not the administration’s
+    first swing at vaccines. In January the Centres for Disease Control and Prevention
+    (CDC) tried to pare back the schedule of jabs for kids. A judge halted the changes;
+    the case is being appealed. In May another executive order instructed the CDC
+    to copy countries that recommend fewer vaccines. Most consequentially, the administration
+    has cut funding for next-generation mRNA vaccines. Nearly 80% of Americans think
+    vaccines are safe, according to an Economist/YouGov poll, including most Republicans.
+    Mr Trump’s favoured pollster has urged him to focus on other parts of Robert F.
+    Kennedy junior’s agenda, like the health secretary’s promotion of nutritious food.
+    Mr Trump’s decision to ignore that advice shows that vaccines are not just Mr
+    Kennedy’s obsession, but the president’s too. ■ Stay on top of American politics
+    with The US in brief , our daily newsletter with fast analysis of the most important
+    political news, and Checks and Balance , a weekly note that examines the state
+    of American democracy and the issues that matter to voters. This article was downloaded
+    by zlibrary from https://www.economist.com/united-states/2026/08/13/donald-trump-takes-a-fresh-swipe-at-childhood-vaccines'
+  difficulty_constant: 8.4
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章提到行政命令建议将联合疫苗拆分为三种，并安排在不同的医生就诊中注射。这表明行政命令倾向于将疫苗接种过程碎片化或分段处理，而非一次性完成，故选C。
+    options:
+      A: It has received strong support from major medical organizations.
+      B: It mandates that children must be vaccinated against 18 diseases.
+      C: It encourages a more segmented approach to administering childhood vaccines.
+      D: It has successfully overturned state-level vaccination requirements.
+    q_number: 1
+    stem: Which of the following can be inferred from the text about Mr. Trump's executive
+      order?
+  - answer: B
+    explanation: 文章提到儿科学会和医学会都对此表示谴责，称其“令人沮丧且危险”，并将“儿童健康置于风险之中”，这直接对应B选项。
+    options:
+      A: They believe it is a necessary adjustment to current medical guidelines.
+      B: They express deep concern over the potential harm it poses to public health.
+      C: They are skeptical about its legal standing in federal court.
+      D: They support the idea that splitting vaccines can reduce risks for children.
+    q_number: 2
+    stem: How do medical experts perceive the recent executive order regarding vaccines?
+  - answer: A
+    explanation: 文章指出麻疹疫苗覆盖率已降至92.5%，而群体免疫所需的阈值是92-94%，许多地区已经低于该门槛，从而导致麻疹病例激增，故选A。
+    options:
+      A: It has dropped below the critical threshold required for community immunity.
+      B: It is being manipulated by political figures like Robert F. Kennedy Jr.
+      C: It reflects a total loss of public trust in mRNA vaccine technology.
+      D: It is solely attributed to the administration's funding cuts for research.
+    q_number: 3
+    stem: What is the author's primary concern regarding the current vaccination rate?
+  - answer: C
+    explanation: 文章解释说，通常是州政府而不是联邦政府设定学校的疫苗接种要求，且大多数州遵循科学证据，因此行政命令在实际执行层面受限，故选C。
+    options:
+      A: Federal policies are rarely implemented in the United States.
+      B: Schoolchildren are largely exempt from federal vaccination rules.
+      C: Most states maintain their own vaccination policies based on scientific evidence.
+      D: The administration lacks the authority to regulate vaccines for children.
+    q_number: 4
+    stem: What does the author imply by stating that Mr. Trump’s order will have 'little
+      practical effect'?
+  - answer: C
+    explanation: 文章用了“swipe at”、“dubious claim”、“injects more doubt and confusion”、“worryingly
+      low”等词汇，表现出对政府干预疫苗政策的批判态度和对公共卫生状况的忧虑，故选C。
+    options:
+      A: Objective and indifferent.
+      B: Cautiously optimistic.
+      C: Critical and concerned.
+      D: Sarcastic and humorous.
+    q_number: 5
+    stem: What is the author's tone toward the administration's stance on vaccines?
+  source_journal: Economist
+  title: Donald Trump takes a fresh swipe at childhood vaccines
+- article_update_date: 04.29.2026
+  body_text: 'Two months after an employee was shot in the back at the Mugabe family
+    home in a wealthy suburb of Johannesburg, a South African court has fined and
+    ordered the deportation of Robert Mugabe’s youngest son over two unrelated charges.
+    Bellarmine Chatunga Mugabe, 28, and his cousin Tobias Mugabe Matonhodze, 33, were
+    initially both charged with attempted murder after the incident on 19 February.
+    Earlier this month, Matonhodze pleaded guilty to attempted murder, firearms offences,
+    defeating the ends of justice – as the gun was never found – and contravening
+    immigration law. He was sentenced on Wednesday to three years in prison. Mugabe
+    was ordered to pay a fine of 400,000 rand (£17,851) for pointing a toy gun in
+    a way that was likely to be seen as real firearm, over a separate incident in
+    2023. He was also fined 200,000 rand (£8,919.50) for breaking immigration law.
+    He had pleaded guilty to both offences. The judge ordered police to take him to
+    Johannesburg’s international airport to be deported to Zimbabwe. View image in
+    fullscreen Bellarmine Chatunga Mugabe, with his cousin Tobias Mugabe Matonhodze,
+    who has been sentenced to three years in prison. Photograph: Oupa Nkosi/Reuters
+    The magistrate Renier Boshoff told Mugabe: “I do not know whether the second accused
+    took the rap for you, and I can only act on what is before me.” The magistrate
+    said the sentences were mitigated by the two men pleading guilty to the offences,
+    the time they had spent in prison since the shooting on 19 February, and because
+    the victim, 23-year-old Sipho Mahlangu, wanted to withdraw the charges after being
+    paid by Mugabe and Matonhodze. Prosecutors had asked for lengthy jail sentences
+    for both men. The investigating officer Raj Ramchunder told the sentencing hearing
+    on 24 April that Mahlangu had been paid 250,000 rand (£11,150), with a further
+    150,000 (£6,690) promised. Robert Mugabe ruled Zimbabwe for almost 40 years, initially
+    as a hero, having ended white minority rule in Zimbabwe. His rule turned authoritarian,
+    and he presided over hyperinflation and economic collapse. He was deposed in a
+    coup in 2017 and died two years later aged 95. Mugabe and his older brother, Robert
+    Junior, 34, became notorious in the 2010s for sharing their lavish lifestyles
+    online. In 2017, their mother, Grace Mugabe, avoided a court case in South Africa
+    by invoking diplomatic immunity. The model Gabriella Engels accused the former
+    first lady of hitting her with an electric cable until she bled. The magistrate
+    said he had also taken into account the fact that Mugabe and his cousin were first-time
+    offenders. Mugabe has previously been in trouble with authorities in Zimbabwe.
+    According to Zimbabwean media reports, in 2024 he was arrested for allegedly assaulting
+    a police officer at a roadblock. In June last year, he was arrested and bailed
+    for allegedly assaulting a security guard at a goldmine. It was not immediately
+    clear what the status of those two cases was.'
+  difficulty_constant: 7.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: A
+    explanation: 文章提到受害者Sipho Mahlangu在获得Mugabe和Matonhodze的赔偿后，希望撤销指控，这是法官减轻量刑的因素之一。
+    options:
+      A: The victim decided to withdraw the charges after reaching a financial settlement.
+      B: The evidence of firearms was never successfully recovered by the police.
+      C: He was proven to be only a bystander during the shooting incident.
+      D: The judge granted him immunity due to his father's historical political status.
+    q_number: 1
+    stem: According to the passage, why was Bellarmine Chatunga Mugabe not sentenced
+      to prison for the February 19 incident?
+  - answer: B
+    explanation: 习语'take the rap'意为‘顶罪’。法官的话暗示他怀疑堂兄弟可能替Mugabe承担了本应由Mugabe承担的更严重的罪行。
+    options:
+      A: The magistrate believes the cousin is suffering from mental instability.
+      B: The magistrate suspects the cousin may have accepted responsibility on behalf
+        of Mugabe.
+      C: The magistrate is concerned that the prosecution failed to present enough
+        evidence.
+      D: The magistrate acknowledges that the cousin was the primary instigator of
+        the violence.
+    q_number: 2
+    stem: What does the magistrate's comment 'I do not know whether the second accused
+      took the rap for you' imply?
+  - answer: B
+    explanation: 文章提到了Grace Mugabe曾利用外交豁免权逃避指控，以及两兄弟因炫耀奢华生活而臭名昭著，反映出该家庭在南非经常卷入法律争议。
+    options:
+      A: They are widely respected for their contributions to regional stability.
+      B: They are frequently involved in legal controversies and scandals.
+      C: They are viewed as victims of politically motivated prosecutions.
+      D: They maintain a low profile to avoid drawing public attention.
+    q_number: 3
+    stem: What can be inferred about the Mugabe family's public image in South Africa?
+  - answer: C
+    explanation: 文章明确说明Mugabe被罚款40万兰特是因为‘pointing a toy gun in a way that was likely
+      to be seen as real firearm’。
+    options:
+      A: Attempted murder involving a real firearm.
+      B: Assaulting a police officer at a roadblock.
+      C: Pointing a toy gun that could be perceived as a real weapon.
+      D: Contravening immigration laws related to his stay in Zimbabwe.
+    q_number: 4
+    stem: What was the specific legal charge against Bellarmine Chatunga Mugabe for
+      which he was fined?
+  - answer: B
+    explanation: 文章回顾了Robert Mugabe统治时期，提到其政权最终导致了恶性通胀和经济崩溃，且具有威权色彩，这说明其政治遗产具有负面属性。
+    options:
+      A: The family continues to hold significant power in Zimbabwean government.
+      B: Robert Mugabe's legacy is characterized by economic instability and authoritarian
+        rule.
+      C: The family has successfully rebranded itself through charitable work in South
+        Africa.
+      D: The current government in Zimbabwe is actively protecting the family from
+        prosecution.
+    q_number: 5
+    stem: What does the author suggest about the broader political context of the
+      Mugabe family?
+  source_journal: The Guardian
+  title: South Africa deports Mugabe’s son for unrelated offences after employee shot
+    at family home
+- article_update_date: 08.30.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Chris Hall Gear Feb 8,
+    2026 6:00 AM For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable
+    Ones? You could go all in on one pricey, luxe watch or assemble a collection of
+    lower-budget timepieces. Let’s crunch the numbers. Photo-Illustration: WIRED Staff,
+    Courtesy of Tudor; Baltic Watches, Dennison, Hamilton, Mido, Brew Watches Watch
+    geeks love the phrase “GADA watch,” meaning a “go anywhere, do anything” timepiece—something
+    both feature-rich and eye-catching, a rugged and durable watch that doesn''t compromise
+    on style. Here at WIRED, a related question has been floating around the Gear
+    desk for some time. What’s better, one all-rounder premium watch, or a varied
+    collection garnered for exactly the same cash outlay as that piece that also covers
+    every scenario? Determined to answer this horological conundrum once and for all,
+    WIRED set the same budget for each approach to find out. Let''s start with our
+    pick for a GADA timepiece. The One Watch: Tudor Black Bay GMT Watch fans can never
+    really be satisfied with one watch. We love to pretend that there is a “holy grail”
+    or “exit watch” out there, but really there’s no end to this journey . However,
+    we also love to argue, and one permanent conversation starter is the concept of
+    a one-and-done. It can’t be too high-end, for the true GADA watch must be something
+    you can wear on a hike and in the pool, as well as to a formal function. Ideally,
+    you’d be able to wear it around a major city without fear of theft, which rules
+    out pretty much any Rolex, but we’d still want it to be something you can take
+    pride in among horological snobs. Some brands make this kind of sweet spot their
+    comfort zone. We considered the Nomos Glashütte Club Sport Worldtimer , or a Longines
+    Spirit Zulu Time —both brands with an eye on value, a reputation for quality,
+    and an all-around approach to design that’s not too polarizing. Inevitably, your
+    one watch isn’t going to be able to do everything. It won’t be as chic as a Cartier
+    or pack a pedigree chronograph. But rest assured it’ll have you covered 95 percent
+    of the time. In the end, we settled on a Tudor Black Bay GMT , on a fabric or
+    leather strap. For $4,550, you get a 41-mm stainless-steel piece with 200 meters
+    of water resistance, a COSC-certified chronometer movement that’s actually descended
+    from the last generation of Rolex GMT movements, and a design that’s smart enough
+    to blend into most formal outfits, even though it’s most at home in more casual
+    settings. With the dual time zone functionality it’s a useful travel tool, too,
+    and Tudor’s brand name and build quality mean it’s respected by watch geeks the
+    world over. That’s what we’re up against. Can we build a dream team to rival the
+    Tudor for the same cash outlay? The Equal-Value Collection First stop on our shopping
+    list is a dive watch: something that can at least match the Black Bay’s 200-meter
+    water resistance rating and speak to its underpinnings as a daily diver. We don’t
+    need a hardcore dive monster, but something that blends style and spec. We could
+    head to Seiko, but while the Prospex range holds a lot of phenomenal beaters,
+    few could be said to be truly stylish. One strong candidate is the Unimatic U1
+    Classic ($665), but we’ve gone for the recently updated Baltic Aquascaphe ($730).
+    Powered by a Miyota automatic movement, the Baltic focuses on more visible premium
+    touches, like the domed sapphire crystal and applied 3D luminous hour markers.
+    It’s water-resistant to 200 meters and available in blue, green, gray, or silver.
+    Next we should hit one of the main weaknesses in the Tudor’s armor, and pick up
+    a dress watch. The Black Bay isn’t hulking, and our choice to opt for the fabric
+    strap makes the whole watch a lot lighter (although it does add a millimeter in
+    height), but it’s not slim by any definition. For price and poise, we’ve come
+    straight to Dennison. The one time you can really get away with a quartz watch
+    is at a formal occasion, where the chance of someone asking you for precision
+    timing or to fiddle with your complications will be pretty low. The sold-out Time+Tide
+    Date Night limited edition would be perfect, but failing that we’ll opt for the
+    Midnight Aventurine in steel ($690). Next, we’ve got space in our collection for
+    a real everyday watch: something that’s not overburdened with functionality, but
+    that will cover us for the working day. Here we can look at a simple automatic
+    from Hamilton, whose military-inspired Khaki Field and Pilot watches would also
+    be worthy inclusions. However, for a more everyday staple we’ve gone for the Khaki
+    Field “Murph” 38 mm ($995), a compact version of the watch Matthew McConaughey''s
+    character gives to his daughter in Interstellar . With an 80-hour power reserve
+    and 100-meter water resistance, it’s a versatile choice in its own right. To be
+    a viable alternative to our GADA Tudor, the value collection has to include a
+    travel-time watch. We looked at Farer’s 36-mm Lander IV , with its preppy color
+    scheme and distinctive character, but ultimately we went for another cult favorite
+    from the affordable end of the Swatch Group stable. The Mido Ocean Star Decompression
+    Worldtimer costs $5 less than the Farer, at $1,490, and brings its own eye-catching
+    dial to the table, as well as a 200-meter water resistance rating and a version
+    of the same 80-hour movement as in the Hamilton. Perhaps the clincher was the
+    world-time bezel, which shouldn’t be confused with a true mechanical world-time
+    complication, but does give at-a-glance timekeeping around the world. So far we’ve
+    spent $3,905, which means we still have $645 burning a hole in our pocket. The
+    obvious gap in this collection is a chronograph of some kind. It would give us
+    the decisive edge over the Black Bay, but for this budget most mechanical chronographs
+    are out of reach. We could buy a MoonSwatch —in fact, at $285 we could buy two
+    and have enough left for the Uber home—but we’re on our mission to find something
+    more substantial, more interesting, and (let’s face it) more likely to stand the
+    test of time. And that something is the Brew Super Metric ($475), a hybrid mecha-quartz
+    chrono from a New York microbrand with more personality than every MoonSwatch
+    put together. The unashamedly loud retro styling isn’t for everyone, but we think
+    that the cushion-shaped case and steel bracelet help broaden our stylistic options,
+    and although it’s not a pedigree mechanical chronograph, it costs less than $500
+    while looking and feeling like no one’s idea of a compromise. That brings the
+    challengers to a grand total of $4,380, which means we’d be able to buy a six-watch
+    case to keep our collection in (of course it’s got space for one more …) and maybe
+    even a couple of spare straps. There’s no doubt the Tudor is in a different league,
+    but could a crack squad of specialists tempt you to part with $4,550? Or will
+    the lure of singular luxe prove too tempting? Over to you. It''s decision time.
+    This article was downloaded by calibre from https://www.wired.com/story/for-4550-would-you-buy-single-premium-watch-or-swarm-of-affordable-ones/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到GADA意为“go anywhere, do anything”，并解释其特点是feature-rich（功能丰富）、eye-catching（吸睛）、rugged（坚固）、durable（耐用）且兼顾style（风格），B选项符合文意。
+    options:
+      A: It must be an extremely high-end luxury brand to impress collectors.
+      B: It needs to balance functionality, durability, and stylistic versatility.
+      C: It should prioritize technical complications over overall aesthetics.
+      D: It must be exclusively designed for formal social functions.
+    q_number: 1
+    stem: According to the passage, what is the core requirement for a "GADA" watch?
+  - answer: C
+    explanation: 文中指出理想的GADA手表应能在主要大城市佩戴且“without fear of theft”，而这恰好排除掉了Rolex，说明Rolex因被盗风险而不符合这一特定标准。
+    options:
+      A: They lack the necessary water resistance for active wear.
+      B: They are too aesthetically polarizing for most formal settings.
+      C: They may attract unwanted attention, posing a theft risk.
+      D: They fail to meet the standards of horological snobs.
+    q_number: 2
+    stem: Why does the author suggest that a Rolex is generally unsuitable for a "one-and-done"
+      watch?
+  - answer: C
+    explanation: 作者在分析collection部分时提到，Tudor Black Bay GMT虽然通过更换表带减重，但“it’s not slim
+      by any definition”，这说明其缺乏传统正装表的纤薄感。
+    options:
+      A: It lacks the dual time zone functionality essential for travel.
+      B: Its movement is not certified by COSC standards.
+      C: Its physical profile is not as slim as a dedicated dress watch.
+      D: Its fabric strap makes it too fragile for heavy-duty use.
+    q_number: 3
+    stem: What is mentioned as a primary limitation of the Tudor Black Bay GMT in
+      the author's analysis?
+  - answer: A
+    explanation: 文中提到“The obvious gap in this collection is a chronograph of some
+      kind... And that something is the Brew Super Metric”，说明该表是为了填补收藏中计时码表的空白。
+    options:
+      A: To compensate for the lack of a chronograph in the initial collection.
+      B: Because it is a more prestigious brand than Tudor.
+      C: To replace the need for a formal dress watch.
+      D: To serve as the primary everyday "beater" watch.
+    q_number: 4
+    stem: Why did the author include the Brew Super Metric in the "Equal-Value Collection"?
+  - answer: C
+    explanation: 文章结尾通过“Or will the lure of singular luxe prove too tempting? Over
+      to you.”表明作者并没有给出一个标准答案，而是将选择权留给了读者，反映了这种选择的主观性。
+    options:
+      A: The collection is clearly superior due to its overall value.
+      B: The single premium watch remains the only logical choice for collectors.
+      C: The decision is subjective and left to the reader's preference.
+      D: The collection is technically inferior because it lacks mechanical prestige.
+    q_number: 5
+    stem: What is the author's ultimate conclusion regarding the choice between a
+      single premium watch and a collection?
+  source_journal: Wired
+  title: Chapter 16
