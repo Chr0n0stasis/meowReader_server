@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.04.2026",
+  "papers": [
+    {
+      "title": "Mix-and-match synthesis of 3D small molecules",
+      "article_update_date": "04.02.2026",
+      "source_journal": "Nature",
+      "body_text": "Small organic molecules underpin modern life, from medicines and flavours to advanced materials. Much of this functional diversity comes from shape: modest changes in a molecule’s 3D structure can completely change its properties. To explore these structural effects efficiently, chemists often synthesize libraries of compounds through the Lego-like assembly of molecules from interchangeable chemical building blocks1. However, such approaches are only as useful as the types of carbon–carbon (C–C) bond that form between the building blocks during assembly. Writing in Nature, Zhang et al.2 report chemistry that not only enables the modular and iterative synthesis of a ubiquitous type of C–C bond — C(sp3)–C(sp3) bonds, which connect carbons that are already attached to three other atoms — but that also controls the 3D configuration of the attached atoms.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Small organic molecules ________ modern life, from medicines and flavours to advanced materials.",
+          "options": {
+            "A": "undertake",
+            "B": "undermine",
+            "C": "overlook",
+            "D": "underpin"
+          },
+          "answer": "D",
+          "explanation": "underpin意为支撑，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Much of this functional diversity comes from shape: ________ changes in a molecule’s 3D structure can completely change its properties.",
+          "options": {
+            "A": "excessive",
+            "B": "vague",
+            "C": "rigorous",
+            "D": "modest"
+          },
+          "answer": "D",
+          "explanation": "modest意为适度的，符合结构微调导致性质改变的逻辑。"
+        },
+        {
+          "q_number": 3,
+          "stem": "To explore these structural effects ________, chemists often synthesize libraries of compounds.",
+          "options": {
+            "A": "redundantly",
+            "B": "cautiously",
+            "C": "efficiently",
+            "D": "erroneously"
+          },
+          "answer": "C",
+          "explanation": "为了高效地探索这些影响，符合语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "chemists often synthesize libraries of compounds through the Lego-like ________ of molecules from interchangeable chemical building blocks.",
+          "options": {
+            "A": "collision",
+            "B": "disintegration",
+            "C": "assembly",
+            "D": "abandonment"
+          },
+          "answer": "C",
+          "explanation": "assembly意为组装，与Lego-like相呼应。"
+        },
+        {
+          "q_number": 5,
+          "stem": "However, such approaches are only as useful as the types of carbon–carbon (C–C) bond that ________ between the building blocks during assembly.",
+          "options": {
+            "A": "dissolve",
+            "B": "form",
+            "C": "decay",
+            "D": "withstand"
+          },
+          "answer": "B",
+          "explanation": "指在组装过程中形成的化学键，form符合逻辑。"
+        },
+        {
+          "q_number": 6,
+          "stem": "Writing in Nature, Zhang et al. ________ chemistry that not only enables the modular and iterative synthesis of a ubiquitous type of C–C bond.",
+          "options": {
+            "A": "report",
+            "B": "refute",
+            "C": "ignore",
+            "D": "postpone"
+          },
+          "answer": "A",
+          "explanation": "report chemistry指发表关于化学的研究成果。"
+        },
+        {
+          "q_number": 7,
+          "stem": "The chemistry enables the ________ and iterative synthesis of a ubiquitous type of C–C bond.",
+          "options": {
+            "A": "fragile",
+            "B": "static",
+            "C": "modular",
+            "D": "random"
+          },
+          "answer": "C",
+          "explanation": "modular意为模块化的，符合后文Lego-like的逻辑。"
+        },
+        {
+          "q_number": 8,
+          "stem": "It enables the modular and ________ synthesis of a ubiquitous type of C–C bond.",
+          "options": {
+            "A": "sporadic",
+            "B": "iterative",
+            "C": "hostile",
+            "D": "tedious"
+          },
+          "answer": "B",
+          "explanation": "iterative意为迭代的，是合成领域常用的术语。"
+        },
+        {
+          "q_number": 9,
+          "stem": "It enables the synthesis of a ________ type of C–C bond — C(sp3)–C(sp3) bonds.",
+          "options": {
+            "A": "ubiquitous",
+            "B": "scarce",
+            "C": "hostile",
+            "D": "latent"
+          },
+          "answer": "A",
+          "explanation": "ubiquitous意为普遍存在的，符合上下文描述。"
+        },
+        {
+          "q_number": 10,
+          "stem": "C(sp3)–C(sp3) bonds, which ________ carbons that are already attached to three other atoms.",
+          "options": {
+            "A": "detach",
+            "B": "connect",
+            "C": "repel",
+            "D": "abandon"
+          },
+          "answer": "B",
+          "explanation": "connect意为连接，描述化学键的功能。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The new chemistry ________ that also controls the 3D configuration of the attached atoms.",
+          "options": {
+            "A": "also",
+            "B": "not",
+            "C": "although",
+            "D": "but"
+          },
+          "answer": "A",
+          "explanation": "由not only... but also结构可知，此处填also。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The chemistry ________ the 3D configuration of the attached atoms.",
+          "options": {
+            "A": "hides",
+            "B": "neglects",
+            "C": "misinterprets",
+            "D": "controls"
+          },
+          "answer": "D",
+          "explanation": "研究的目的在于控制结构，controls符合语境。"
+        },
+        {
+          "q_number": 13,
+          "stem": "The ________ of the attached atoms is crucial for the molecule's properties.",
+          "options": {
+            "A": "configuration",
+            "B": "disorder",
+            "C": "chaos",
+            "D": "omission"
+          },
+          "answer": "A",
+          "explanation": "configuration指构型，是化学中的专业术语。"
+        },
+        {
+          "q_number": 14,
+          "stem": "The ________ atoms play a vital role in organic synthesis.",
+          "options": {
+            "A": "attached",
+            "B": "isolated",
+            "C": "discarded",
+            "D": "irrelevant"
+          },
+          "answer": "A",
+          "explanation": "attached atoms指连接的原子，符合化学背景。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Chemists seek to ________ the 3D shape of new molecules.",
+          "options": {
+            "A": "forget",
+            "B": "ignore",
+            "C": "manipulate",
+            "D": "lose"
+          },
+          "answer": "C",
+          "explanation": "manipulate意为操纵/控制，符合化学合成目标。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Lego-like assembly represents a ________ approach to chemical synthesis.",
+          "options": {
+            "A": "obsolete",
+            "B": "traditional",
+            "C": "stagnant",
+            "D": "innovative"
+          },
+          "answer": "D",
+          "explanation": "对比语境，这是一种创新的方法。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The ________ of building blocks allows for great functional variety.",
+          "options": {
+            "A": "simplicity",
+            "B": "monotony",
+            "C": "uniformity",
+            "D": "diversity"
+          },
+          "answer": "D",
+          "explanation": "多样性与前文functional diversity呼应。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Such scientific breakthroughs ________ our understanding of molecular architecture.",
+          "options": {
+            "A": "block",
+            "B": "hinder",
+            "C": "advance",
+            "D": "delay"
+          },
+          "answer": "C",
+          "explanation": "advance意为推进，符合科研进步的描述。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The research by Zhang et al. ________ significant implications for medicine.",
+          "options": {
+            "A": "denies",
+            "B": "holds",
+            "C": "abuses",
+            "D": "wastes"
+          },
+          "answer": "B",
+          "explanation": "holds implications意为具有意义，是固定搭配。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Precision in chemistry is ________ for future technological development.",
+          "options": {
+            "A": "trivial",
+            "B": "vital",
+            "C": "negligible",
+            "D": "irrelevant"
+          },
+          "answer": "B",
+          "explanation": "vital意为至关重要的，符合学术语气。"
+        }
+      ]
+    },
+    {
+      "title": "Javier Milei’s liberal experiment is struggling",
+      "article_update_date": "09.12.2026",
+      "source_journal": "Economist",
+      "body_text": "Javier Milei’s liberal experiment is struggling The Americas | Milei reloaded Javier Milei’s liberal experiment is struggling In an interview with The Economist, Argentina’s president is unyielding Sep 10th 2026 “My favourite toy,” quips Javier Milei, glancing at the golden chainsaw in his office in the Casa Rosada, the presidential palace. “There’s so much more spending to cut and so many more taxes to lower,” he says, adding that he will really let rip once re-elected next year. If the reforms so far have been “more than everything that was done in the past 100 years in Argentina combined, let me assure you the next reform package will be far deeper.” He promises that Argentina will embrace artificial intelligence like no other country and believes it could help it to “become a leading world power like the United States” in just 20 years. Get ready for Milei “reloaded”, he grins. Yet this is a delicate moment. After inheriting a dreadful economic mess Mr Milei has managed to reduce inflation and heavily deregulate the economy. Voters rewarded this at last year’s midterm election, but today they tell pollsters that they care much more about job prospects and wages than inflation. Economic growth is spluttering, and there are only 14 months for new policy measures to deliver results before the president faces voters in October next year. With his personal net approval rating deeply negative , there is a risk that a big-spending rival from Argentina’s left-wing Peronist movement, which champions an interventionist state, could capture voters’ imaginations. Mr Milei’s radical experiment, which has inspired free-marketeers worldwide, hangs in the balance. The big question for the coming year is whether doubling down—Milei reloaded—is the way to win re-election. Mr Milei can boast remarkable successes. Before he took office in December 2023 inflation was running at 13% a month and government spending was out of control, financed by printing money. He took his chainsaw to spending and delivered fiscal surpluses. Inflation has fallen, to about 2% per month. This has helped reduce the share of people living in poverty in Argentina by about a third, to 28%. Markets are much happier. The government has been paying back foreign debt and this year the central bank has been aggressively buying dollar reserves. This is made easier by booming oil exports. Mr Milei has thinned out Argentina’s thickets of red tape. “We have got rid of 17,000 regulations,” he says. Earlier this year he passed a sweeping labour reform. Mr Milei remains an unabashed techno-optimist. AI “can only do good, the only harm that can be done is if states get in the way”, he claims. Economic theory “proves” that. He wants to give companies run only by AI full legal rights. “Why should I discriminate against them?” he says—though the draft law that empowers AI does seem to require some human involvement. His tight alignment with the Trump administration has also delivered. Before the midterms last year, with the spendthrift Peronists polling well, the Argentine peso was under such heavy pressure that the central bank spent over a billion dollars in two days trying to stop it plunging. Mr Trump came to the rescue with a $20bn swap line and direct purchases of pesos by the US Treasury. The currency stabilised, helping Mr Milei’s party turn a probable defeat into a strong win. And he has shown pragmatism on China, a giant trading partner. Before winning office, Mr Milei branded the Chinese leadership “assassins”. Now he purrs that “working with the Chinese is very agreeable”. This too has paid off. Last month China extended a vital $19bn swap line with the Argentine central bank. Mr Milei says they asked for nothing in exchange. And yet the president has problems. The economy is on track for a second consecutive year of growth, a rarity in Argentina, but at a slower pace than planned. His government had budgeted for 5% growth this year, but after several months of contraction most analysts expect nearer half that. Growth is concentrated in sectors such as hydrocarbons, mining and agriculture, which are not labour-intensive. Economic activity in industries that are more so, such as manufacturing and construction, is still at least 10% lower than when Mr Milei took office. In part, this is because Mr Milei is exposing Argentina’s protected factories to foreign competition. That is sensible, but the transition is painful. “It’s as if we are financing our own self-destruction,” says Martín Rapallini, the head of the Argentine industrial association, who pleads for a sweeping tax overhaul that Mr Milei has not even attempted. The result is 230,000 fewer formal private-sector jobs than in 2023, a decline of 3.6%. Mr Milei boasts of cutting 86,000 posts in the public sector. The unemployment rate has only gone up by two percentage points because filings under a tax scheme for small contractors with low incomes have grown sharply. So has informal work. “It still is work,” retorts Mr Milei. Salaries are another worry. In the formal private sector they are still below what they were when Mr Milei took office (see chart 1). In the public sector they are dramatically lower, a fact Mr Milei celebrates. Many Argentinians are struggling. Nearly 6m people are more than 90 days behind on debt payments. High and volatile interest rates do not help. To fight inflation the central bank has kept the money supply tight and intervened to keep the peso strong. But this hurts growth because it limits lending. It also weighs on manufacturing by making imports cheaper and exports expensive. Mr Milei, focused on inflation, simply denies that his efforts come with any costs at all for growth. This single-minded focus risks diminishing electoral returns. When Mr Milei took office voters ranked inflation as their top problem by far. It now ranks eighth; lack of jobs and low wages top the list. Voters are also unimpressed by a series of corruption scandals in his government. His net approval rating is nearly minus 30 (see chart 2). This seems to be irritating Mr Milei. He is furious at Argentine journalists for questioning his economic achievements and writing about alleged corruption. “HUMAN SHIT” is his favourite insult for them. He sometimes attacks the press multiple times a day on social media. When asked about economics in the opening question of The Economist’s interview, his reply included attacks on the “truly shameful” Argentine press and their “blood-curdling” lies. His allies worry his aggression is turning off voters. “I don’t justify it, I don’t do it,” says Patricia Bullrich, a leading senator for his party. With difficulties at home, the president appears ever more tempted by foreign affairs. Since taking office he has visited the United States around 17 times and Israel thrice, but still has not visited eight of Argentina’s 23 provinces. Yet travel does not seem relaxing for Mr Milei. In neighbouring Brazil, at a campaign rally for Flávio Bolsonaro, a right-wing contender in its presidential election, he referred to the incumbent, Luiz Inácio Lula da Silva, known as Lula, as a “thief” and “convict”. Brazil, Argentina’s biggest trade partner, withdrew its ambassador in response. Mr Milei is unrepentant. “The communist Lula” has “contaminated the whole continent with 21st-century socialism”, he says. On September 3rd in an announcement on national TV he ramped up his rhetoric on Argentina’s claims to the Falklands Islands. That looks like a crude effort to rally support. Might job worries and sagging polls prompt changes ahead of the elections? “I won’t stop doing what is right just for the sake of an election result,” he says. “If the Argentine people decide to turn their back on the model of freedom because I have remained true to my convictions…well that’s up to the Argentine people.” Mr Milei’s convictions are behind much of his success, but he will be unable to achieve lasting reform without a second term. He insists that his core policies will soon boost growth and wages. Still, his government has recently made several small changes that seem particularly growth-friendly: allowing interest rates to fall a little, using the state pension fund to help banks to lower mortgage rates, and allowing banks to lend more in dollars rather than pesos. Mr Milei says he is merely “releasing restrictions”. Whatever it is called, if it delivers better wages and more jobs voters would like more of it. Mr Milei’s saving grace may be his rivals. The leading challenger is probably Axel Kicillof, the Peronist governor of Buenos Aires province. A former finance minister deeply associated with past spending excesses, his net approval rating is as bad as Mr Milei’s. Mr Kicillof insists that right now he is not a candidate, but is still at pains to highlight Mr Milei’s economic woes. Yet his own unorthodox economics terrify markets and scare many voters. He does not accept that the main cause of inflation has been money-printing. Instead, he says, it’s “very complex”. The Peronists are also divided. Sergio Massa, who lost to Mr Milei last time, may try again. Juan Grabois, a firebrand congressman, may run, too. He promises social justice financed by dramatically higher taxes on the rich. “You don’t have to fear Axel [Kicillof],” he chuckles, “you have to fear me, you have to fear Myriam Bregman.” She is a high-profile Trotskyite, to the left of even the Peronists. Strikingly, her approval rating is much better than Mr Kicillof’s and Mr Milei’s. With the main contenders so disliked, many others are also eyeing a run. Hernán Lacunza, a centre-right former finance minister, offers Milei-style economics without the swearing. Provincial governors and Pentecostal television pastors are sniffing around. Mr Milei is still the favourite. But while the economy splutters, it looks uncomfortably tight. ■ This article was downloaded by zlibrary from https://www.economist.com/the-americas/2026/09/07/javier-mileis-liberal-experiment-is-struggling",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, what is the primary shift in concerns among Argentine voters compared to last year's midterm election?",
+          "options": {
+            "A": "They are increasingly worried about the government's aggressive use of artificial intelligence.",
+            "B": "They have shifted their focus from inflation to employment prospects and wage levels.",
+            "C": "They are primarily concerned about the rising corruption scandals within the presidential palace.",
+            "D": "They prioritize foreign relations and international trade deals over domestic economic issues."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到：“Voters rewarded this at last year’s midterm election, but today they tell pollsters that they care much more about job prospects and wages than inflation.” 故选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes the economic impact of Javier Milei's policies mentioned in the text?",
+          "options": {
+            "A": "His policies have led to uniform growth across all sectors of the Argentine economy.",
+            "B": "His fiscal discipline has successfully eliminated the need for foreign debt repayment.",
+            "C": "Growth is mainly seen in non-labor-intensive sectors, leaving manufacturing and construction struggling.",
+            "D": "The reduction in government regulations has immediately boosted employment in the formal private sector."
+          },
+          "answer": "C",
+          "explanation": "文章指出增长集中在 hydrocarbon, mining 等非劳动密集型行业，而制造业和建筑业依然低迷，且正式私营部门就业岗位有所减少，故C正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does the author imply about Mr. Milei's attitude toward his critics in the media?",
+          "options": {
+            "A": "He welcomes constructive criticism as a way to refine his economic experiments.",
+            "B": "He views media scrutiny as a legitimate part of the democratic process.",
+            "C": "He utilizes aggressive rhetoric and personal insults to discredit those who challenge him.",
+            "D": "He remains indifferent to media coverage, focusing solely on the success of his policies."
+          },
+          "answer": "C",
+          "explanation": "文章提到Milei称记者为“HUMAN SHIT”，并频繁在社交媒体上攻击媒体，显示他通过人身攻击来回应质疑，故选C。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the role of international support in Mr. Milei's political survival, as described in the text?",
+          "options": {
+            "A": "It has been instrumental in stabilizing the currency and gaining trade concessions.",
+            "B": "It has failed to provide any tangible benefits to the Argentine economy.",
+            "C": "It has alienated his base, leading to the current decline in his approval ratings.",
+            "D": "It has consistently forced him to abandon his radical free-market principles."
+          },
+          "answer": "A",
+          "explanation": "文中提到美国提供的swap line以及中国的swap line都在关键时刻支持了阿根廷经济并帮助稳定货币，故A正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the future of the upcoming election in Argentina based on the text?",
+          "options": {
+            "A": "Milei's re-election is guaranteed due to the lack of viable opposition candidates.",
+            "B": "The election remains highly competitive because major contenders are widely unpopular.",
+            "C": "The Peronist movement has successfully unified behind a single, popular leader.",
+            "D": "Voters are likely to shift away from Milei's policies due to the recent growth in informal work."
+          },
+          "answer": "B",
+          "explanation": "文中提到主要挑战者Axel Kicillof的支持率和Milei一样糟糕，且Peronist内部存在分歧，因此选举竞争依然激烈且充满不确定性，故选B。"
+        }
+      ]
+    },
+    {
+      "title": "David Armstrong’s Probing Gaze",
+      "article_update_date": "04.27.2026",
+      "source_journal": "New Yorker",
+      "body_text": "David Armstrong’s Probing Gaze Goings On David Armstrong’s Probing Gaze Also: Jennifer Tilly in the surreal world of “The Adding Machine,” New York City Ballet’s spring season, Anne Hathaway and Michaela Coel in “Mother Mary,” and more. By Vince Aletti,Dan Stahl,Zoë Hopkins,Hilton Als,Sheldon Pearce,Marina Harss,Richard Brody,Taran Dugal April 17, 2026 The photographer David Armstrong, who was based in Brooklyn and died in 2014, at sixty, has never looked as good as he does right now, in a big, smartly installed retrospective at Artists Space (through May 23). That’s partly because this is the first time we’ve been able to grasp his career as a whole. The exhibition, although it includes landscapes, still-lifes, and nudes, is titled “ David Armstrong: Portraits ,” because that’s where the emphasis lies. With more than ninety works, the galleries are thronged with beauties, many of whom refuse to be pinned down to a gender. Still, men tend to snag the most attention, if only because they return Armstrong’s tender, probing gaze with affection and plenty of heat. Desire defines the work and is impossible to divorce from our response to it. Without overplaying Armstrong’s key role in the Family of Nan (Goldin; they were lifelong friends and collaborators), the curators Kelly Taxter and Jay Sanders are careful to ground the show in his history of books and exhibitions. The soft-focus color landscapes and interiors from his 2002 book, “ All Day Every Day ,” had looked minor and imitative at the time. Here, ringing the main galleries like establishing shots in old movies, they suggest a world fading into memory—a misty past with little meaning for the present. On the other side of the scale, in a vitrine at one end of the space, are a group of five small scrapbooks. Only a few open pages are visible (more are included in the show’s catalogue), but they’re as tantalizing as a peek into a friend’s diary—and proof that pictures in separate bodies of work were being made simultaneously. That everything-at-once approach explodes across a whole wall at the opposite end of the gallery. Here, a collagelike installation of photographs, framed and unframed, color and black-and-white, abut and overlap across twenty-seven feet. The undertow of nostalgia—a tribute to the way we were—is overwhelmed by the celebration of a spirit that has never seemed more alive.— Vince Aletti About Town Off Broadway At the start of “The Adding Machine,” the narrator (Michael Cyril Creighton) announces what viewers are going to see: “a heartwarming tale about modern life crushing the human spirit,” thereby setting the ironic tone. He is himself an addition, introduced into Elmer Rice’s 1923 drama by Thomas Bradshaw, who has revised the text for this New Group production, directed with flair by Scott Elliott. Thank God for the flair, because the characters are satirically tedious. Mr. Zero (Daphne Rubin-Vega) spends his days crunching numbers and his nights henpecked by his wife (a droll Jennifer Tilly), until he’s unceremoniously replaced by the titular machine. The stylishly designed show conjures a world where capitalism supplants all ideals except its own: ruthless optimization.— Dan Stahl ( Theatre at St. Clement’s ; through May 17.) Art What to call objects that bespeak both the three-dimensionality of sculpture and the surface drama of painting? Leonardo Drew’s uncategorizable works are made from dried and cast paper pulp—leaking with fleshy, organic texture—that the artist reconfigures into jagged, rough-hewn sprays of abstraction which protrude from the frame. Some of these are arranged into more staid compositions of geometric bands of color, while others bend and bulge into shapes evoking the baroque ruination of junk-yard findings. The paper suggests a substrate on which to write but also seems to posit itself as its own kind of language, a haywire syntax made of excess and spillage.— Zoë Hopkins ( Pace Prints ; through April 25.) Art Édouard Vuillard was one of those painters whose most evocative work—a prime selection of which can be seen in “Édouard Vuillard: Early Interiors” —tends to be small. It’s almost as if the limitations of a scaled-down canvas got the artist going in ways that galvanized his extraordinary use of color, and sense of scale, even further. Looking at such beauties as the extraordinary “The Flowered Dress” (1891) and the mind-blowing “The Lady of Fashion” (circa 1891-92), you marvel not only at the control of Vuillard’s hand but at what made domestic life and female garments so fascinating to the artist: their details say as much about the inner life of the wearer as they do about the cloth.— Hilton Als ( Skarstedt ; through April 25.) Sophisti-pop In 2005, when the singer Niia Bertino was seventeen, she was recognized as one of the top high-school jazz singers in the country. The granddaughter of an Italian opera singer, Bertino, known onstage as Niia, was soon discovered by Wyclef Jean and, in 2007, featured on his hit single “Sweetest Girl (Dollar Bill).” What initially felt like a meteoric rise tapered off into a slow burn. She performed “James Bond” themes with an orchestra in 2011 before débuting, in 2014, with the EP “Generation Blue”; her first album arrived three years later. You can hear all of her accrued experience in five albums she has released since, easing through their elegant pop production with jazzy vocals.— Sheldon Pearce ( Blue Note ; April 28-29.) Dance For the past two decades, Tiler Peck has been one of New York City Ballet’s most dazzling dancers; more recently, she has revealed herself to be an agile choreographer as well. Her second ballet for her home company uses Édouard Lalo’s “Symphonie Espagnole,” a sweeping, melodic tour de force that doubles as a showcase for solo violin. (The virtuoso Hilary Hahn will perform on many dates.) The spring season also includes the company première of Christopher Wheeldon’s moody 2002 ballet “Continuum,” set to Ligeti piano pieces, and it closes with a week of performances of the comedic “Coppélia.” On May 24, that work’s plucky heroine will be danced for the last time by the equally plucky Megan Fairchild, who is retiring after twenty-five years with the company.— Marina Harss ( David H. Koch Theatre ; April 21-May 31.) Movies David Lowery, who directed “A Ghost Story,” returns with another ghost story, “Mother Mary,” with the feeling of a filmed play, starring Anne Hathaway as the titular pop star, who’s been offstage for a few years, and Michaela Coel as Sam, a fashion designer who used to make the singer’s costumes. Though they’re long estranged, Mary barges in on Sam to ask for a new dress for a concert comeback; their tense dialectical wrangle in Sam’s churchlike studio is the bulk of the film. Brief flashbacks to Mary’s earlier concerts are merely informational; another flashback, to a séance at which Mary yielded to self-harming mysticism, is far more consequential, leading to violence in Sam’s studio. The resulting catharsis—spiritual and sentimental—is both flimsy and fascinating.— Richard Brody (In wide release.) Bar Tab Taran Dugal samples experimental cocktails in Long Island City. Cocktail bars operate by the “Anna Karenina” principle: great ones are all alike; average ones are average each in its own way. Take 25 Hours, in Long Island City, for example, which is freighted with a depressing ambience that is equal parts chemistry lab and subterranean grotto. On a recent weeknight, two first-timers stopped by with high expectations: 25 Hours, which opened last November, is the brainchild of Ray Zhou, a former head of R. & D. at the hip Lower East Side bar Double Chicken Please. The drinks here correlate with different hours of the day—plus an additional “twenty-fifth hour,” which, according to Zhou, is “more of a mind-set, a futuristic kind of thing.” The depth of thought that went into the menu was not reflected in the space; the visitors found themselves in a small room with exceptionally dark lighting, a wall of haphazardly mounted clocks of various shapes and sizes, and modernist chrome furniture that made the already bleak interior even less inviting. They took seats beside a monstrosity of dark gray plastic, affixed to a wall, designed to look like a sheer rock face. “This must be what Purgatory feels like,” one of the visitors whispered. Thankfully, their cocktails were closer to heavenly. The 17:00—a foamy mixture of mezcal and pineapple, topped with habanero tincture—packed a sweet-and-sour punch, and the 23:00, made of rum and barley-tea-infused whiskey, arrived with biscotti, for a sugary reprieve between sips. Their last order of the night, the 19:00, was also the most experimental: a sharp mix of grape juice, tomato water, gin, and blue-cheese liqueur, with a pungent aftertaste. Drinks downed, the guests’ gazes landed on the horological wall in front of them. It was time, they decided, to head out—after all, the clocks were ticking. P.S. Good stuff on the internet: Sand, up close and personal A weekend aboard the Modest Mouse cruise Hailey Bieber enjoys proving people wrong",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why is the retrospective of David Armstrong’s work at Artists Space considered significant?",
+          "options": {
+            "A": "It highlights his transition from photography to sculpture.",
+            "B": "It presents his entire career in a unified and well-curated manner.",
+            "C": "It focuses primarily on his landscapes rather than his portraiture.",
+            "D": "It proves his works were inferior to those of the Family of Nan."
+          },
+          "answer": "B",
+          "explanation": "文章提到“That’s partly because this is the first time we’ve been able to grasp his career as a whole”，即这是人们第一次能够整体性地理解他的职业生涯，故选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply about the inclusion of the 'soft-focus color landscapes' in the exhibition?",
+          "options": {
+            "A": "They are the most celebrated pieces in the collection.",
+            "B": "They serve as a stark contrast to his portraiture.",
+            "C": "They are presented to evoke a sense of a past that has little relevance to current times.",
+            "D": "They demonstrate the artist’s refusal to follow contemporary trends."
+          },
+          "answer": "C",
+          "explanation": "文中描述这些景观画为“a misty past with little meaning for the present”，这直接对应了C选项的含义。"
+        },
+        {
+          "q_number": 3,
+          "stem": "In the description of Leonardo Drew’s artwork, the word 'substrate' most likely refers to:",
+          "options": {
+            "A": "a foundation or underlying surface.",
+            "B": "a chemical component of paper.",
+            "C": "a specific tool used for sculpture.",
+            "D": "a type of abstract painting style."
+          },
+          "answer": "A",
+          "explanation": "在艺术语境下，substrate 指的是作画或创作的基底/底层，故选A。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the author's tone toward the '25 Hours' bar described in the 'Bar Tab' section?",
+          "options": {
+            "A": "Ambivalent, admiring the creativity but disliking the environment.",
+            "B": "Uniformly critical of both the drinks and the décor.",
+            "C": "Highly laudatory, considering it a peak cultural experience.",
+            "D": "Detached and strictly objective without personal interpretation."
+          },
+          "answer": "A",
+          "explanation": "作者一方面批评其环境为“bleak”和“Purgatory”，另一方面赞扬其饮品“closer to heavenly”，体现了矛盾的看法，故选A。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best captures the essence of the 'Anna Karenina principle' as applied to cocktail bars in the text?",
+          "options": {
+            "A": "Great bars possess common qualities of excellence, while bad bars are uniquely flawed.",
+            "B": "Cocktail bars are inherently ephemeral and difficult to define.",
+            "C": "All cocktail bars, regardless of quality, suffer from the same systemic problems.",
+            "D": "The success of a bar depends entirely on the aesthetic design of the space."
+          },
+          "answer": "A",
+          "explanation": "文中指出“great ones are all alike; average ones are average each in its own way”，即安娜·卡列尼娜原则的核心含义：成功是相似的，失败各有各的原因。"
+        }
+      ]
+    },
+    {
+      "title": "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action",
+      "article_update_date": "05.23.2026",
+      "source_journal": "The Guardian",
+      "body_text": "The US president, Donald Trump, and the secretary of state, Marco Rubio, on Thursday again raised the spectre of military intervention in Cuba, a renewed threat that takes on greater weight a day after the administration announced criminal charges against Raúl Castro, the island’s former leader. “Other presidents have looked at this for 50, 60 years, doing something,” Trump told reporters when asked about Cuba during an event in the Oval Office. “And it looks like I’ll be the one that does it. So I would be happy to do it.” Rubio told reporters separately that Cuba had been a national security threat for years because of its ties to US adversaries and that Trump was intent on addressing it. Rubio, the son of Cuban immigrants who has long taken a hard line against the country’s socialist leadership, said the Trump administration wanted to resolve differences with Havana peacefully but was doubtful the US could reach a diplomatic resolution with the island’s current government. “[Trump’s] preference is always a negotiated agreement that’s peaceful. That’s always our preference. That remains our preference with Cuba,” Rubio said in Miami before boarding a plane to attend a Nato meeting in Sweden and visiting India. “I’m just being honest with you, you know, the likelihood of that happening, given who we’re dealing with right now, is not high,” he said. Several of Trump’s senior aides – including Rubio, the CIA chief, John Ratcliffe, and other senior national security officials – have met Cuban officials in recent months in an effort to improve relations. But US officials reportedly came away dissatisfied, prompting a fresh wave of sanctions against the Cuban government over the past week. Over the years, Cuba had become accustomed to “buying time and waiting us out,” Rubio said. “They’re not going to be able to wait us out or buy time. We’re very serious, we’re very focused.” When asked whether the US would use force to change Cuba’s political system, Rubio repeated that a diplomatic settlement was preferred but noted that “the president always has the option to do whatever it takes to support and protect the national interest”. He dismissed a reporter’s suggestion that the move resembled “nation-building”, insisting it was instead aimed at addressing a national security threat. On Wednesday, federal prosecutors announced an indictment that accuses Castro of ordering the shooting down of civilian planes flown by Miami-based exiles in 1996. The charges, filed in secret by a grand jury in April, include murder and destruction of an aircraft. The Cuban president, Miguel Díaz-Canel, condemned the indictment as a political stunt designed to “justify the folly of a military aggression against Cuba”. The Castro indictment has fuelled speculation that the Trump administration is following the same playbook it used before the operation in January that led to the capture of the Venezuelan president Nicolás Maduro, who was charged with drug trafficking, has pleaded not guilty and remains imprisoned in the US. The US military also highlighted the arrival of the USS Nimitz aircraft carrier and accompanying ships to the Caribbean Sea on the same day the charges against Castro were announced. US Southern Command said the vessels were participating in maritime exercises with partners in Latin America that began in March. Rubio declined to discuss how the US might seek to enforce the indictment against Castro, who turns 95 next month. Trump has threatened military action in Cuba since ousting Maduro and ordering an energy blockade that choked off fuel shipments to the country. This has led to severe blackouts, food shortages and economic collapse on the island. This month, the Trump administration also imposed new sanctions on Cuba, the largest of which is against Grupo de Administración Empresarial SA (Gaesa), a business conglomerate operated by the Cuban Revolutionary Armed Forces. On Thursday, Rubio announced that the sister of Gaesa’s executive president, who was living in the US, had her green card revoked and was taken into ICE custody. Rubio said: “Past administrations have permitted the families of Cuban military elites, Iranian terrorists and other reprehensible organisations to enjoy lavish lifestyles in our country funded by stolen blood-money, while the people they repress at home suffer in increasingly dire circumstances. No longer.” Trump has also escalated speculation of regime change in Cuba, pledging a “friendly takeover” if the country’s leadership did not open its economy to American investment and expel US adversaries. Rubio said Cuba posed a serious national security threat to the US because of its security and intelligence ties with China and Russia as well as its friendly relations with US adversaries in Latin America. China condemned US sanctions and pressure on Cuba. A foreign ministry spokesperson, Guo Jiakun, said: “China firmly supports Cuba in safeguarding its national sovereignty and national dignity and opposes external interference.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary motive behind the Trump administration's recent escalation against Cuba?",
+          "options": {
+            "A": "To distract the public from domestic political scandals within the US.",
+            "B": "To address what the administration perceives as a national security threat.",
+            "C": "To initiate a humanitarian mission to support the struggling Cuban population.",
+            "D": "To facilitate a peaceful regime change through economic investment."
+          },
+          "answer": "B",
+          "explanation": "文中多次提到Rubio强调古巴对美国构成了‘national security threat’（国家安全威胁），并称政府的行动旨在解决这一威胁，而非单纯的‘nation-building’（国家构建）。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does Marco Rubio imply when he says Cuba has been 'buying time and waiting us out'?",
+          "options": {
+            "A": "Cuba has been actively seeking diplomatic mediation from international partners.",
+            "B": "Cuba is planning to surrender to US demands in the near future.",
+            "C": "Cuba's government has been delaying real change by outlasting previous US administrations.",
+            "D": "Cuba is strategically stalling negotiations to allow its economy to recover."
+          },
+          "answer": "C",
+          "explanation": "‘Buying time and waiting us out’意为通过拖延时间以熬过当前的压力。Rubio认为古巴政府过去通过这种手段应对美国政府的更迭，但现在特朗普政府不会允许他们继续这样做。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does the Cuban government characterize the recent indictment against Raúl Castro?",
+          "options": {
+            "A": "As a legitimate legal effort to seek justice for the victims of 1996.",
+            "B": "As a necessary step toward improving diplomatic relations between the two nations.",
+            "C": "As a political maneuver intended to provide a pretext for military aggression.",
+            "D": "As an international standard practice to combat drug trafficking and terrorism."
+          },
+          "answer": "C",
+          "explanation": "古巴现任总统Miguel Díaz-Canel谴责该起诉书为‘political stunt’（政治噱头），旨在为‘military aggression’（军事侵略）寻找借口。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following reflects the Trump administration's stance on a diplomatic resolution with Cuba?",
+          "options": {
+            "A": "They believe a peaceful negotiated agreement is highly likely given current conditions.",
+            "B": "They prefer a peaceful agreement in principle but are pessimistic about its feasibility.",
+            "C": "They have completely abandoned the idea of diplomacy in favor of immediate military force.",
+            "D": "They consider diplomatic efforts to be a waste of resources that should be redirected to sanctions."
+          },
+          "answer": "B",
+          "explanation": "Rubio明确表示，和平谈判依然是他们的偏好（preference），但同时他也诚实地指出，鉴于目前的实际情况，这种可能性并不高。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred from the mention of the USS Nimitz in the Caribbean Sea?",
+          "options": {
+            "A": "It was deployed specifically to enforce the arrest of Raúl Castro.",
+            "B": "It was part of a planned maritime exercise with Latin American partners.",
+            "C": "It arrived to provide humanitarian aid amidst the island's energy crisis.",
+            "D": "It serves as a direct ultimatum to China and Russia to cease their ties with Cuba."
+          },
+          "answer": "B",
+          "explanation": "文章提到US Southern Command称这些舰船正在参与与拉美伙伴的‘maritime exercises’（海上演习），虽然时间上与起诉书发布重合引发了猜测，但其官方定位是军事演习。"
+        }
+      ]
+    }
+  ]
+}
