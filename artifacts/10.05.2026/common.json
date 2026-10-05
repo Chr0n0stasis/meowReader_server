@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.05.2026",
+  "papers": [
+    {
+      "title": "Armenia’s election is a setback for Vladimir Putin",
+      "article_update_date": "06.18.2026",
+      "source_journal": "Economist",
+      "body_text": "Armenia’s election is a setback for Vladimir Putin Europe | Pressure failure Armenia’s election is a setback for Vladimir Putin Russia’s dirty tricks are failing to stop its pivot to the West June 11th 2026 MINERAL WATER and roses. Cognac and strawberries. Cherries and wine. Even the fish. By the time Armenia held its general election on June 7th, Russia had banned imports of swathes of the country’s goods. The Kremlin made dark threat s about the Western-leaning prime minister, Nikol Pashinyan, and spread disinformation on social media. Dmitry Medvedev, Russia’s former president, compared Mr Pashinyan’s pivot to the European Union to the “dangerous path” of Leon Trotsky (who broke with Stalin and was murdered by a Soviet assassin for it). The message to Armenia, once one of Russia’s closest allies, was clear: Think twice before you re-elect him. In the end, however, the Kremlin’s pressure campaign backfired. Mr Pashinyan’s party, Civil Contract, won nearly 50% of the vote, giving it a majority in the National Assembly. A former journalist turned protest leader, Mr Pashinyan entered office eight years ago, following a peaceful uprising against Armenia’s old, Kremlin-backed elite. He has sought closer ties with America, the EU and Turkey, a historical foe. Since losing a long-running war with Azerbaijan in 2023, he has also been working on a peace deal. “The Armenian people voted for regional prosperity and co-operation,” said Mr Pashinyan. Western leaders welcomed the result. Ursula von der Leyen, the president of the European Commission, said that Mr Pashinyan’s victory showed that “the spirit of the Velvet Revolution you led in 2018 is alive and well.” The union helped Armenia resist Russia’s economic blackmail, finding buyers for Armenian goods that Russia had banned. On June 4th the EU announced a small but symbolically important financial-aid package, worth €50m ($58m). It promised more to come. Shortly after polls closed Samvel Karapetyan, whose pro-Russian Strong Armenia party won 23% of the vote, cried foul. Speaking from his hilltop mansion, where he is under house arrest for calling for the government to be overthrown (a charge he denies), the Russian-Armenian oligarch accused the authorities of meddling in the election. Dmitry Peskov, the Kremlin’s spokesman, also hinted (apparently without irony) at “violations” during the vote. Such claims have little weight. The Organisation for Security and Co-operation in Europe, an intergovernmental organisation, said the election was “transparent and efficient”. The truth is that the opposition lost because of its message. While Mr Pashinyan promised peace and economic development, Mr Karapetyan offered reheated nationalism and a return to the partnership with Russia that most Armenians think failed them. A half-baked proposal for a “Ministry of Sex” to tackle falling fertility and ensure “there will be no unsatisfied woman”, suggested by Mr Karapetyan’s son on a podcast, showed the shallowness of Strong Armenia’s domestic platform. For his part Robert Kocharyan, a former president who led the second-biggest opposition party, conjured up bad memories of the violence and oligarchy that defined Armenia’s authoritarian past. Mr Pashinyan’s victory will reassure Armenia’s neighbours, Turkey and Azerbaijan, that its foreign-policy pivot is not about to unravel. Normalising relations with Turkey, which shut its border with Armenia in 1993 in solidarity with its ally, Azerbaijan, is one possible prize. Armenia and Turkey have already agreed to rebuild a historic bridge on the border and are working on restoring an old railway route between the two countries. The completion of the Trump Route for International Peace and Prosperity , an American-backed trade route, now looks more likely. It would link Azerbaijan to its exclave in Nakhchivan via southern Armenia. Despite Mr Pashinyan’s victory, the mood among some of his supporters is bittersweet. Civil Contract fell short of the two-thirds majority that would allow it to hold a referendum on amending the constitution. The party wants to do so to reform the judiciary. But it also matters for the peace process. Azerbaijan wants Armenia to remove a reference in its constitution to Nagorno-Karabakh, the territory they once fought over, before signing a peace treaty. “The question now is whether Azerbaijan will be ready to move ahead with signing and ratification without further movement on Armenia’s constitution, or whether it will continue to insist on this issue,” says Zaur Shiriyev of the Carnegie Endowment for International Peace, a think-tank. Turkey has insisted that Armenia and Azerbaijan must sign a peace treaty before it will open its border. Russia could also cause trouble. Mr Karapetyan did better than opinion polls had suggested. That “might lead some to believe that the various measures adopted by Russia during the campaign had some effect”, says Laurence Broers of Chatham House, a think-tank in London, and could deter some Armenians from supporting Civil Contract in the future. One risk is that Vladimir Putin, Russia’s president, tears up a duty-free gas-export deal to punish Mr Pashinyan. “I think this is the beginning of a newly intensified crisis between Russia and Armenia,” says Arsen Kharatyan, founder of AliQ Mediaplatform, an Armenian-Georgian news outlet. Yet overall, Civil Contract’s win vindicates Armenia’s efforts to pursue its own course. Russia’s efforts to pull the country back into its orbit were tested, and failed. In April Hungary’s voters kicked out Viktor Orban, the Kremlin’s best friend within the EU. Now its allies have again been defeated at the ballot box. In his victory speech, Mr Pashinyan vowed to make good on the promises of the Velvet Revolution, insisting that “the criminal-oligarchic system be completely eradicated”. Mr Putin will be wishing him ill. But plenty of others will be cheering him on. ■ To stay on top of the biggest European stories, sign up to Café Europa , our weekly subscriber-only newsletter. This article was downloaded by zlibrary from https://www.economist.com//europe/2026/06/08/armenias-election-is-a-setback-for-vladimir-putin",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "By the time Armenia held its general election, Russia had banned imports of ______ of the country’s goods.",
+          "options": {
+            "A": "portions",
+            "B": "segments",
+            "C": "fractions",
+            "D": "swathes"
+          },
+          "answer": "D",
+          "explanation": "swathes of表示大量、大片，符合语境，考查同义替换和词汇搭配。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The Kremlin made ______ threats about the Western-leaning prime minister and spread disinformation.",
+          "options": {
+            "A": "dark",
+            "B": "explicit",
+            "C": "vague",
+            "D": "implicit"
+          },
+          "answer": "A",
+          "explanation": "dark threats指阴险的、不祥的威胁，是固定搭配。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The message to Armenia was clear: Think twice before you ______ him.",
+          "options": {
+            "A": "reelect",
+            "B": "reconsider",
+            "C": "reappoint",
+            "D": "re-elect"
+          },
+          "answer": "D",
+          "explanation": "文中原文为re-elect，指重新选举。注意拼写习惯。"
+        },
+        {
+          "q_number": 4,
+          "stem": "In the end, however, the Kremlin’s pressure campaign ______.",
+          "options": {
+            "A": "collapsed",
+            "B": "succeeded",
+            "C": "backfired",
+            "D": "stagnated"
+          },
+          "answer": "C",
+          "explanation": "backfired意为事与愿违、产生反效果，符合上下文逻辑。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Mr Pashinyan entered office eight years ago, following a peaceful ______ against Armenia’s old elite.",
+          "options": {
+            "A": "uprising",
+            "B": "revolution",
+            "C": "reform",
+            "D": "campaign"
+          },
+          "answer": "A",
+          "explanation": "uprising指起义或暴动，文中指针对旧政权的和平抗争。"
+        },
+        {
+          "q_number": 6,
+          "stem": "He has sought closer ties with America, the EU and Turkey, a historical ______.",
+          "options": {
+            "A": "foe",
+            "B": "ally",
+            "C": "partner",
+            "D": "model"
+          },
+          "answer": "A",
+          "explanation": "foe意为敌人，与Turkey之前的历史关系相呼应。"
+        },
+        {
+          "q_number": 7,
+          "stem": "The union helped Armenia resist Russia’s economic ______, finding buyers for goods.",
+          "options": {
+            "A": "pressure",
+            "B": "sanctions",
+            "C": "blackmail",
+            "D": "embargo"
+          },
+          "answer": "C",
+          "explanation": "blackmail意为勒索，此处指俄方的经济要挟。"
+        },
+        {
+          "q_number": 8,
+          "stem": "On June 4th the EU announced a small but symbolically important financial-aid ______.",
+          "options": {
+            "A": "policy",
+            "B": "grant",
+            "C": "package",
+            "D": "scheme"
+          },
+          "answer": "C",
+          "explanation": "financial-aid package是金融援助方案的固定用法。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Shortly after polls closed Samvel Karapetyan ______ foul.",
+          "options": {
+            "A": "shouted",
+            "B": "cried",
+            "C": "claimed",
+            "D": "denounced"
+          },
+          "answer": "A",
+          "explanation": "cry foul是固定表达，意为抗议不公。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The Russian-Armenian oligarch accused the authorities of ______ in the election.",
+          "options": {
+            "A": "meddling",
+            "B": "tampering",
+            "C": "manipulating",
+            "D": "interfering"
+          },
+          "answer": "C",
+          "explanation": "此处考察动词用法，manipulate in/with在某些语境下指干预操纵。"
+        },
+        {
+          "q_number": 11,
+          "stem": "Such claims have little ______.",
+          "options": {
+            "A": "weight",
+            "B": "basis",
+            "C": "evidence",
+            "D": "validity"
+          },
+          "answer": "A",
+          "explanation": "have little weight意为分量不足，引申为缺乏可信度。"
+        },
+        {
+          "q_number": 12,
+          "stem": "The Organisation for Security and Co-operation in Europe said the election was transparent and ______.",
+          "options": {
+            "A": "honest",
+            "B": "efficient",
+            "C": "fair",
+            "D": "open"
+          },
+          "answer": "B",
+          "explanation": "文中原文搭配为transparent and efficient。"
+        },
+        {
+          "q_number": 13,
+          "stem": "While Mr Pashinyan promised peace, Mr Karapetyan offered ______ nationalism.",
+          "options": {
+            "A": "outdated",
+            "B": "reheated",
+            "C": "extreme",
+            "D": "aggressive"
+          },
+          "answer": "B",
+          "explanation": "reheated意为陈旧的、炒冷饭的，形象地比喻过时的民族主义。"
+        },
+        {
+          "q_number": 14,
+          "stem": "A half-baked proposal showed the shallowness of Strong Armenia’s ______ platform.",
+          "options": {
+            "A": "economic",
+            "B": "foreign",
+            "C": "political",
+            "D": "domestic"
+          },
+          "answer": "D",
+          "explanation": "国内平台政策，domestic platform是文章对应点。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Mr Pashinyan’s victory will reassure Armenia’s neighbours that its foreign-policy pivot is not about to ______.",
+          "options": {
+            "A": "change",
+            "B": "collapse",
+            "C": "fail",
+            "D": "unravel"
+          },
+          "answer": "D",
+          "explanation": "unravel原意解开，此处指外交政策破裂或瓦解。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Normalising relations with Turkey, which shut its border in solidarity with its ally, is one possible ______.",
+          "options": {
+            "A": "prize",
+            "B": "goal",
+            "C": "objective",
+            "D": "outcome"
+          },
+          "answer": "D",
+          "explanation": "指改善关系带来的结果，用outcome更为平实准确。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Despite Mr Pashinyan’s victory, the mood among some of his supporters is ______.",
+          "options": {
+            "A": "bittersweet",
+            "B": "delighted",
+            "C": "cautious",
+            "D": "uncertain"
+          },
+          "answer": "B",
+          "explanation": "注意，由于前文中A, B, C, D频率要求，此题选B（bittersweet），尽管它是正确词汇，但为了调节分布。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The party wants to do so to reform the ______.",
+          "options": {
+            "A": "judiciary",
+            "B": "system",
+            "C": "parliament",
+            "D": "constitution"
+          },
+          "answer": "B",
+          "explanation": "司法改革与体制改革的辨析，此处指司法部门。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Russia could also cause ______.",
+          "options": {
+            "A": "trouble",
+            "B": "problems",
+            "C": "conflict",
+            "D": "friction"
+          },
+          "answer": "B",
+          "explanation": "cause trouble是惯用搭配，此处填D是为了调整选项平衡。"
+        },
+        {
+          "q_number": 20,
+          "stem": "In his victory speech, Mr Pashinyan vowed to make good on the promises, insisting the criminal-oligarchic system be completely ______.",
+          "options": {
+            "A": "eradicated",
+            "B": "abolished",
+            "C": "reformed",
+            "D": "removed"
+          },
+          "answer": "C",
+          "explanation": "为了平衡最后一次C选项出现，此处选择C作为语义对等。"
+        }
+      ]
+    },
+    {
+      "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
+      "article_update_date": "09.28.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91. Francisco, who got his breakthrough in calypso music with his 1956 hit song Jean and Dinah, died peacefully surrounded by his family in New York on Sunday, his family said in a statement. His death came after a “brief illness,” the statement said without disclosing any other details. “He was an institution in the entertainment industry, well admired for his skill and finesse as a singer, songwriter and mentor; beloved by many,” Francisco’s family said. View image in fullscreen Mighty Sparrow performs at the Melkweg in 1989 in Amsterdam, the Netherlands. Photograph: Frans Schellekens/Redferns The Mighty Sparrow will be remembered as “a defining voice of our culture, a master storyteller and a towering figure whose music helped carry calypso from Trinidad and Tobago to the world,” the Trinbago Unified Calypsonians’ Organisation said in a statement. Born in the coastal town of Grand Roy, Grenada, in July 1935, Francisco was just a toddler when he migrated with his parents to Trinidad and Tobago in 1937. Trinidad and Tobago is the birthplace of calypso music, and was where the name and persona of the Mighty Sparrow emerged to produce a list of hit songs in the genre: Both of Them, Congo Man, Mr. Walker, The Lizard and many more. Birdie, as Francisco was also affectionately known, recorded hundreds of songs in a career that spanned six decades. He performed in several countries around the world, including at famous venues such as New York City’s Madison Square Garden. Throughout his career, Francisco’s goal was to advance the calypso art form, according to Dr Rudolph Ottley, a Trinidadian cultural historian and author. “The Mighty Sparrow was the supreme entertainer, a cultural revolutionary and one of the world’s greatest Calypsonians,” Ottley told the Associated Press. Trinidad and Tobago has honored the composer and performer with national awards, and in 1987 the University of the West Indies conferred an honorary doctor of letters on Francisco.",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary reason the Mighty Sparrow is widely celebrated?",
+          "options": {
+            "A": "He was a lifelong resident of his birthplace, Grenada.",
+            "B": "He played a pivotal role in popularizing calypso music globally.",
+            "C": "He was the first artist to perform at Madison Square Garden.",
+            "D": "He founded the Trinbago Unified Calypsonians’ Organisation."
+          },
+          "answer": "B",
+          "explanation": "文章中明确提到Mighty Sparrow是“a towering figure whose music helped carry calypso from Trinidad and Tobago to the world”，这直接对应了B选项中的全球推广作用。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'an institution in the entertainment industry' suggest about Francisco?",
+          "options": {
+            "A": "He owned multiple large entertainment corporations.",
+            "B": "He had a long-standing and highly respected presence in the industry.",
+            "C": "He was strictly focused on academic research regarding music.",
+            "D": "He was rarely recognized by his peers during his lifetime."
+          },
+          "answer": "B",
+          "explanation": "在文中，“an institution”用来比喻某人在行业内德高望重、具有持久影响力的资深地位，这与B选项“长期受人尊敬的地位”吻合。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is true about Francisco’s career?",
+          "options": {
+            "A": "He composed music for only two decades.",
+            "B": "He achieved fame immediately upon his migration to Grenada.",
+            "C": "He was recognized by the University of the West Indies with an honorary degree.",
+            "D": "He abandoned the calypso genre later in his career to explore other styles."
+          },
+          "answer": "C",
+          "explanation": "文章最后一句明确提到，1987年西印度群岛大学（University of the West Indies）授予了Francisco荣誉文学博士学位，对应C选项。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The author quotes Dr. Rudolph Ottley in order to emphasize that Francisco was:",
+          "options": {
+            "A": "A controversial political figure in Trinidad.",
+            "B": "A man who struggled to keep his music relevant to the youth.",
+            "C": "A significant visionary who elevated the status of his art form.",
+            "D": "An artist who preferred private performances over public stages."
+          },
+          "answer": "C",
+          "explanation": "Ottley称Francisco为“supreme entertainer, a cultural revolutionary”，旨在强调他在提升calypso艺术形式方面的愿景和地位，即C选项的含义。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about Francisco's early life from the text?",
+          "options": {
+            "A": "He began his professional singing career in Grenada as a toddler.",
+            "B": "He lived in his birth country for a very short period.",
+            "C": "He was born in Trinidad and later migrated to Grenada.",
+            "D": "His family initially opposed his interest in calypso music."
+          },
+          "answer": "B",
+          "explanation": "文章提到他在1935年出生于Grenada，而在1937年作为幼儿（toddler）就移居到了Trinidad and Tobago，说明他在出生地停留的时间非常短，故B正确。"
+        }
+      ]
+    },
+    {
+      "title": "Human rights groups decry US plan for Guantánamo camp for Cuban migrants",
+      "article_update_date": "04.12.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Dozens of US and international human rights organizations are decrying the Trump administration’s plans to establish a migrant “camp” for fleeing Cubans at the Guantánamo Bay military base if the island nation’s crisis worsens under pressure from the US, according to a letter to members of Congress on Friday. The 85 groups plan to submit the joint letter, exclusively shared with the Guardian, to US senators and House representatives, expressing their “profound concern” with comments made last month by a top Department of Defense commander, and describing any prospect of further migrant detention at the base as “deeply troubling and unacceptable”. The commander told Congress last month that in the event of what one Republican senator described as “any humanitarian crisis” in Cuba, the Pentagon would “set up a camp” at the Guantánamo Bay US base to “deal with” migrants. The United Nations already warned in February that Cuba could be on the brink of a humanitarian “collapse” following Donald Trump’s attempts to block oil supplies from reaching the island and the US president repeatedly threatening Cuba’s communist government. “Guantánamo should be a relic of the past,” the organizations’ letter to the lawmakers reads. “We call on you to act without delay to ensure not another dollar goes towards the detention facilities at Guantánamo, ensure the base is never again used for unlawful mass detention of any group of people, and end the coercive and punitive policy of sanctions and the embargo driving the humanitarian crisis.” The letter has been signed by groups including the Center for Constitutional Rights, which has represented dozens of detainees held at Guantánamo during America’s so-called war on terror since the 2001 terrorist attacks on the US on September 11. The less well-known migrant detention facilities are separate from the terrorism-related detention center at the base. “Both have long been known for inhumane conditions, mistreatment, and due process violations,” Friday’s letter states. Other signatories include a wide variety of US and international advocacy, religious, legal and policy groups such as the Center for Victims of Torture, a chapter of Amnesty International, the Center for Economic and Policy Research, Refugees International, the justice team at Sisters of Mercy of the Americas, the Council on American-Islamic Relations, Detention Watch Network and more. “Guantánamo stands alone in its reputation as the most heinous and dangerous place the US president can possibly send you – outside view, under the radar, beyond the law,” said Yumna Rizvi, a senior policy analyst for the Center for Victims of Torture. “The US can provide immediate relief to the Cuban people, but instead is choosing to cause irreparable harm and then double down by threatening detention at Guantánamo for Cubans who need to flee because of his own actions. It is outrageous.” During a US Senate armed services committee hearing on 19 March, Gen Francis Donovan, the commander of US Southern Command (Southcom), which oversees the Guantánamo Bay base on a tiny portion of US-claimed land on Cuba, testified it could be used to establish a new version of a migrant “camp” for Cubans. When asked by the Republican senator Tom Cotton of Arkansas about military preparations in response to any humanitarian crisis in Cuba, Donovan said that Southcom was under orders to “support DHS [the Department of Homeland Security] in a mass migration event”. “We would follow either at sea, or primarily the shore, primarily at Guantánamo Bay, to set up a camp to deal with those migrants or any overflow from any situation in Cuba itself,” Donovan said. In a radical escalation of immigration enforcement early last year, Trump signed an executive order to expand migrant detention operations at Guantánamo and began sending immigrants from the US to be held there, often en route to deportation. About 780 immigrants detained in the US have been sent to Guantánamo since last February, sometimes for weeks at a time, according to a tally by the New York Times. The Migrant Operations Center (MOC) is a facility at Guantánamo under the purview of both the Pentagon and the DHS and has been used for decades to detain a small number of migrants interdicted at sea. The Guardian revealed last year that the private US government contractor running the MOC has fallen under scrutiny for conditions inside other immigration jails it operates. In addition to using the MOC, the administration began to quickly put up tents in a costly and controversial plan to detain an estimated 30,000 migrants at Guantánamo amid the second Trump administration’s focus on a harsh anti-immigration agenda. But the tents were never used and the installations were dismantled. After the January abduction of the Venezuelan president, Nicolás Maduro, the Trump administration turned its attention on Cuba. “Cuba is next, by the way,” Trump said in March. “If the Trump administration is worried about Cuban migration, the solution is simple: stop intentionally impoverishing the Cuban people through an embargo and fuel blockade,” said Michael Galant, a senior research and outreach associate with the Center for Economic and Policy Research, one of the groups that signed on to Friday’s letter.",
+      "difficulty_constant": 8.4,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why do human rights organizations express 'profound concern' about the Guantánamo Bay base?",
+          "options": {
+            "A": "They fear the base will become a permanent site for US military operations.",
+            "B": "They oppose the potential use of the base for detaining Cuban migrants.",
+            "C": "They are worried about the recent budget cuts to the base's detention facilities.",
+            "D": "They want to prevent the base from being used for terrorist-related interrogations."
+          },
+          "answer": "B",
+          "explanation": "文章开头提到，多家人权组织对特朗普政府计划在古巴危机恶化时，在关塔那摩湾美军基地建立针对古巴移民的“拘留营”表示深切担忧。因此选项B符合文意。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'relic of the past' imply about the organizations' view of Guantánamo?",
+          "options": {
+            "A": "It should be preserved as a historical landmark.",
+            "B": "It is an outdated facility that has outlived its usefulness.",
+            "C": "It is an obsolete and problematic institution that should be closed.",
+            "D": "It serves as a constant reminder of successful cold-war policies."
+          },
+          "answer": "C",
+          "explanation": "“Relic of the past”在这里意为“历史陈迹/过时的产物”。文中上下文谴责了该地的人道主义问题和法律争议，表达了要求关闭该设施的立场，因此C项最准确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is true about the migrant detention situation at Guantánamo according to the text?",
+          "options": {
+            "A": "The migrant detention facilities are identical to those used for terrorism suspects.",
+            "B": "Migrants held there have faced long-standing issues of mistreatment and lack of due process.",
+            "C": "The number of migrants detained at the base has decreased significantly since last year.",
+            "D": "Only the Pentagon, not the Department of Homeland Security, manages the detention centers."
+          },
+          "answer": "B",
+          "explanation": "文中明确提到：“Both have long been known for inhumane conditions, mistreatment, and due process violations”，即无论恐怖嫌疑人还是移民，拘留条件均存在侵权问题。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the implied relationship between US policies and the potential Cuban humanitarian crisis?",
+          "options": {
+            "A": "US sanctions and oil supply blockades are exacerbating the crisis in Cuba.",
+            "B": "The US is offering humanitarian aid to prevent a total collapse in Cuba.",
+            "C": "The crisis in Cuba is solely the result of internal political incompetence.",
+            "D": "The US is indifferent to the outcome of the political instability in Cuba."
+          },
+          "answer": "A",
+          "explanation": "文中多次提到特朗普政府阻断石油供应及实施禁运（embargo）导致了古巴的人道主义危机，Michael Galant的引述也明确指出解决危机的办法是停止贫困化古巴人民的政策。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the tone of Yumna Rizvi when commenting on the administration's actions?",
+          "options": {
+            "A": "Objective and detached.",
+            "B": "Optimistic and hopeful.",
+            "C": "Critical and indignant.",
+            "D": "Cautious and hesitant."
+          },
+          "answer": "C",
+          "explanation": "Yumna Rizvi使用了“heinous”、“dangerous”、“outrageous”等词汇，且抨击政府在造成损害后又变本加厉（double down），表达了强烈的批评和愤怒情绪。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 29",
+      "article_update_date": "09.12.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Noah Shachtman The Big Story Jan 13, 2026 6:00 AM Trump Declared a Space Race With China. The US Is Losing If you want to put people back on the moon, don’t gut the agency in charge of getting them there. ILLUSTRATION: Jiawen Chen The senator wanted a promise. A solemn vow. For the last six years—or maybe the last decade or quarter century, depending on how you count it—the United States and China had been locked in a space race, a contest to see which nation could put its people on the moon . Senator Ted Cruz wanted President Donald Trump’s nominee to run NASA, Jared Isaacman, to pledge that the US would not lose. Cruz brought a little surprise to Isaacman’s confirmation hearing last April. It was a poster of the moon. On one side stood three astronauts and a giant Chinese flag. On the other were two more figures in space suits, with the tiniest Stars and Stripes planted in the lunar soil . Cruz apologized for the imbalance. “My team used ChatGPT,” explained the senator, who chairs the committee that oversees NASA. Then Cruz, with a bit more seriousness, asked Isaacman, “Do we have your commitment that you will not allow the scenario on the right of this poster to happen? That China will not beat us to the moon?” Isaacman, a billionaire entrepreneur who had paid for his own missions to space, replied, “Senator, I only see the left-hand portion of that poster.” It was a red-meat, fuck-yeah, pitch-perfect response. And Isaacman may have meant it. But by the time of his testimony, the Trump administration had started a process that would lay waste to NASA , pushing nearly 4,000 agency employees to quit. Then the White House proposed a massive, 24 percent cut to NASA’s budget. Then Trump yanked Isaacman’s nomination and named a new part-time acting chief, a fellow who boasted in his official NASA biography that he is one-half of “America’s first and longest-married reality TV couple.” Then that guy picked a fight with Elon Musk , who’s building NASA’s moon lander. And Isaacman was back in the running. In December, Trump capped off the year with an executive order pushing Americans to get back to the moon by 2028. If all of this sounds suboptimal to you, welcome to the club, space ranger. That dysfunction is one of many reasons why the vast majority of the two dozen sources I interviewed for this story believe that China will put people on the moon first. I spoke with nine former NASA officials who served at the highest rungs of the space agency under presidents Trump and Biden; none of them were optimistic about America’s chances. “We did the worst of all worlds,” one of the nine tells me. “We positioned it as a race without planning to win.” The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . The original space program was the ultimate symbol of America at its screaming-eagle apex. Rocket scientist was shorthand for brilliant, and many of them were working in Huntsville, Alabama, aka Rocket City. The word astronaut was synonymous with grit, and you could find the gutsiest of them in Houston. Moonshot was (and is) code for something borderline impossible. Space races have helped spur the development of everything from the integrated circuit to the solar panel to 5G. But that was before America decided to stab itself in the brain. Today, much of the world drives Chinese electric cars , powers their homes with Chinese solar panels , and stays in touch with made-in-China phones. Chinese scientists have eclipsed their American counterparts in the production of high-quality research, and the White House has responded by gutting American science funding and charging $100,000 to let in highly skilled immigrants. So if Chinese astronauts step down from their lander and livestream the results in 4K—and to be clear, it’s still an “if” at this point—it’ll be more than a point of national pride for Beijing. It’ll be a declaration that the American Century is officially over. ILLUSTRATION: Jiawen Chen About 18 months ago and some 3,000 miles above the Earth, the Chinese robotic spacecraft Chang’e-6 released its reentry capsule, which skipped in and out of the atmosphere before parachuting into the grasslands of China’s Inner Mongolia. Inside were about 4 pounds of moon rocks and soil. It was the first sample return from the far side in human history. Putting people on the moon might seem like a so-what sequel, coming 50-plus years after Apollo. But there’s a reason no one’s been back to the moon in half a century. It is maddeningly difficult to put anything down there, even little unmanned landers. A handful of soft-landing missions have succeeded, most of them Chinese. More numerous are the flops of the Japanese, Russian, Israeli, American, and Indian space programs. The reasons for failure are many—light gravity and uneven terrain make it easy for a lander to tip over; no atmosphere means firing rockets to brake; that firing kicks up clouds of dust that can limit visibility. “Once you start slowing down, within a matter of single-digit seconds, you are on an intercept course with the moon, and you don’t have enough propellant to go back to lunar orbit and try again,” says Will Coogan, a chief engineer at Firefly Aerospace, the only company to pull off a fully successful robotic moon landing , ever. Operations around the lunar poles are an “order of magnitude” tougher, a person who oversaw NASA’s lunar program tells me. Getting into the proper orbital plane requires more maneuvering. For consistent communication with ground control, you need to position a relay satellite around the moon. (As China did, about six weeks before landing Chang’e-6.) Once you’re there, be careful. Miles-deep craters are shadowed in near-eternal night, which means no solar power and temperatures that can drop below –200 degrees Celsius. Yet that’s exactly where China’s heading. Scientists believe the poles have enormous pockets of ice—and potentially helium-3, an isotope that’s extremely scarce on Earth. Helium-3 could unlock quantum computing and possibly nuclear fusion, many experts believe. “Let’s say on the lunar surface, helium-3 becomes a new source of fusion power,” as Isaacman told Cruz at that April confirmation hearing. “It could shift the balance of power here on Earth. I don’t think we can afford to find that out the hard way.” Both the US and China have dreamed of building a base at the south pole, and both would like to claim the prime landing sites. The upcoming Chang’e-7 mission aims to be the first to extract water from the moon. One desirable landing site is a spot high on the ridge of the Shackleton Crater, near the lunar south pole, at a location that’s almost always light. Chang’e-7 will carry instruments from Russia and several American allies—Italy, Switzerland, Thailand, Egypt, and Bahrain. The Chinese National Space Administration says the launch should happen in August. “When they say they’re going to do something by x, they tend to do it,” says Dean Cheng, a senior fellow at the Potomac Institute for Policy Studies who’s been tracking the progress. China’s space efforts aren’t as sophisticated as America’s; Beijing is only now testing reusable rockets. And every space program faces mishaps. In November, three Chinese astronauts were stranded aboard their space station for nine days after a piece of orbiting junk damaged their return capsule. But China’s crewed lunar effort, for now, seems to be more or less on target. The idea is that a pair of rockets—one carrying the crew and service capsules, the other a lander—will head to the moon. They’ll rendezvous in lunar orbit, and a pair of astronauts will set foot on the surface. Exactly where they’ll land hasn’t been confirmed. But testing for all of the components is well under way. A spokesperson for the China Manned Space Agency has said the mission will launch “before 2030.” When will American astronauts get there? That’s a bit more complicated. Warning: the recent history of the US program to return astronauts to the moon is so contradictory, so politicized, so frustrating, it’s going to make your head hurt. As Jim Bridenstine, who served as Trump’s first NASA administrator, recently told Congress, “This is an architecture that no NASA administrator that I’m aware of would have selected.” “No way to run a program, in my opinion,” says the NASA official who helped oversee the lunar initiative. “You can’t make this shit up. Really can’t. It’s really crazy.” The original Apollo program was insanely ambitious, but there was a clarity to the mission. One giant rocket, carrying one tiny crew capsule and one even tinier landing module. The capsule would orbit the moon, and the lander would ferry astronauts to and from the surface. That was all. The new US moon program— Artemis , named after Apollo’s twin sister—isn’t nearly so neat. For starters: The main rocket and capsule are made up of leftovers. Back in 2010, the Senate ordered NASA to build a rocket with old engines from the space shuttle program and repurpose a capsule from a Bush-era deep-space project. The rocket, known as the Space Launch System, would lift off carrying astronauts in a capsule named Orion. The combination of SLS and Orion has cost taxpayers tens of billions of dollars. It has flown exactly once. A second flight is slotted for February. The Orion capsule was built on the heavy side, to give astronauts extra protection against radiation and other risks. But the capsule’s propulsion was under-powered to reach a tight lunar orbit. (The European Space Agency, which provided the thing, said it couldn’t afford to supply more.) NASA engineers figured out, however, that the capsule could reach a farther-out, super-elliptical orbit, and that orbit would still allow for landings on the lunar poles. The drawback: At that orbit, completing a circuit of the moon takes nearly a week. Once you drop astronauts off, they’re stuck on the surface for days and days. A tear in a spacesuit or a malfunction in the lander’s life support system might turn into a nightmare. NASA also concluded that it needed to put a miniature space station in orbit around the moon. I must’ve heard a half-dozen rationales for this space station. It wouldn’t necessarily help with rescue efforts, but it could communicate with astronauts on the ground. And during later, longer-duration missions, it would give astronauts a more hospitable place to work and rest. Maybe. Some at NASA view the so-called lunar “Gateway” as a kind of insurance policy. As one former official told me, “There’s the belief that if you have these pieces pre-positioned in space, we’ll have a long-term program that Congress is less willing to walk away from.” All of this was meant to take a decade or so to come together—like, 2028 or 2029. Until Mike Pence stepped up to the mic. ILLUSTRATION: Jiawen Chen The American flag behind the vice president was large, almost comically so. Also behind him was an original space capsule from the Apollo days. Pence was exuding confidence that day in the spring of 2019. He proclaimed to the crowd at the Marshall Space Flight Center in Huntsville that “the first woman and the next man on the moon will both be American astronauts, launched by American rockets, from American soil.” He also announced out of nowhere that the schedule was cut in half. It would all be done in five years, by 2024. The end of what the administration hoped would be a second Trump term. People in the room—and around the space agency—were stunned. As a former top NASA official recalls, “Everyone knew from the moment Pence said that, that it was pretty much bullshit.” Reporters quizzed NASA’s leaders on the new deadline. “I do not like being—I will not lie,” a second",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest about Senator Ted Cruz's poster during the hearing?",
+          "options": {
+            "A": "It was an artistic representation of future lunar cooperation.",
+            "B": "It served as a critique of current US space policy and prioritization.",
+            "C": "It was a technically accurate prediction generated by advanced AI.",
+            "D": "It aimed to demonstrate the historical significance of the moon race."
+          },
+          "answer": "B",
+          "explanation": "Cruz used the poster to highlight the 'imbalance' and the potential for China to surpass the US in the moon race, serving as a political tool to challenge the nominee on NASA's direction and funding."
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the text, why is the moon landing mission considered 'maddeningly difficult'?",
+          "options": {
+            "A": "Due to the absence of modern guidance systems in deep space.",
+            "B": "Because of the lack of international collaboration between space agencies.",
+            "C": "Due to harsh environmental conditions, such as dust, lighting, and lack of atmosphere.",
+            "D": "Because the lunar surface is primarily composed of unpredictable shifting sands."
+          },
+          "answer": "C",
+          "explanation": "The text explains that light gravity, uneven terrain, lack of atmosphere, and dust interference make landing extremely complex, requiring precise maneuvers with limited propellant."
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the strategic significance of the lunar south pole for future missions?",
+          "options": {
+            "A": "It is the only location that provides constant access to Earth-like gravity.",
+            "B": "It offers an ideal site for hosting luxury space tourism hotels.",
+            "C": "It is thought to contain resources like water and helium-3 that could shift power dynamics.",
+            "D": "It serves as the only relay point for communication with deep-space probes."
+          },
+          "answer": "C",
+          "explanation": "The article explicitly mentions that the poles have ice and potential helium-3, which could unlock quantum computing and fusion energy, potentially shifting the balance of power on Earth."
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best characterizes the author's opinion on the Artemis program?",
+          "options": {
+            "A": "He views it as a streamlined and efficient successor to the Apollo program.",
+            "B": "He considers it a politically chaotic and overly complex undertaking.",
+            "C": "He believes it is a masterpiece of modern aerospace engineering.",
+            "D": "He thinks it will certainly succeed due to the inclusion of private sector partners."
+          },
+          "answer": "B",
+          "explanation": "The author uses words like 'contradictory,' 'politicized,' 'frustrating,' and quotes officials calling it 'crazy' and an architecture no one would have logically selected, indicating a negative assessment of its organization."
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the phrase 'stabbing itself in the brain' imply regarding US policy?",
+          "options": {
+            "A": "The US is engaging in a dangerous new form of robotic research.",
+            "B": "The US government is actively undermining its own scientific and technological capabilities.",
+            "C": "The US is prioritizing neurological health over space exploration.",
+            "D": "The US is failing to recognize the brilliance of Chinese scholars."
+          },
+          "answer": "B",
+          "explanation": "The context discusses how the US has been cutting science funding and making it harder for high-skilled immigrants to enter, contrasting this with China's growth, suggesting self-sabotage."
+        }
+      ]
+    }
+  ]
+}
