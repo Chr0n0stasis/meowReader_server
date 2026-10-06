@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.06.2026",
+  "papers": [
+    {
+      "title": "What a beer with no label says about a small African country",
+      "article_update_date": "09.27.2026",
+      "source_journal": "Economist",
+      "body_text": "What a beer with no label says about a small African country Middle East & Africa | Pint-sized problems What a beer with no label says about a small African country The ale that ails São Tomé and Príncipe Sep 24th 2026 For centuries São Tomé and Príncipe were known for chattel and chocolate. After the Portuguese landed on the islands in 1470 they brought enslaved Africans to toil on sugar roças (plantations). Portugal ostensibly ended slavery in the 1870s. But indentured labour on São Tomé and Príncipe continued, making it the world’s largest cacao producer for a time. These days, to understand Africa’s least populous country after the Seychelles—and one that holds a general election on September 27th—grab a beer. Specifically, an unlabelled brown bottle made by Rosema, the archipelago’s sole brewer. After independence from Portugal in 1975 the country became a Soviet satellite. East Germans helped set up the pilsner-making state entity. Rosema is known as cerveja nacional, a fitting name for a beer that quenches a thirst for post-colonial patriotism—and offers a window into the political economy. There are few big firms in São Tomé and Príncipe. Dreams of an oil industry and a deep-water port are unfulfilled. But Rosema is always on tap. Since privatisation in 1995, ownership has rocked back and forth like a drunk, between an Angolan businessman and two influential local brothers. Much like a Congolese mine or a Nigerian oil firm, control can oscillate depending on who is in power. In the latest twist, in May the Constitutional Court returned the brewer to the Angolan, Mello Xavier, the fifth shift since 2018. It was seen as proof that Carlos Vila Nova, the president, is consolidating power after dismissing his rival in a palace coup in 2025. The chicanery in the pint-sized country reflects its weak rule of law, shallow economy and patronage politics. “Beer is part of the lubrication of elections,” says Alex Vines of the European Council on Foreign Relations, a think-tank. As polls loom, candidates are handing out gifts, including beer. Locals call it tomando banho, “taking a shower” (a sticky one). At Cantinho da tia Cheila, a dusty-pink kiosk-cum-bar on the smaller island of Príncipe, Cheila, the eponymous owner, tips some beer on the floor before pouring one into a glass, a common ritual across Africa and in hip-hop videos from the 1990s. She says Rosema occasionally puts labels on the bottles but they slide off in the humidity. Still, it is cheaper than Portuguese imports and “it gives us pride in our land.” Her patrons agree. But like many barstool philosophers they dismiss politicians’ promises, shaking their heads as noisy campaign vehicles pass by on the street. They know from experience: it is the hops that kill you. ■ Sign up to the Analysing Africa , a weekly newsletter that keeps you in the loop about the world’s youngest—and least understood—continent. This article was downloaded by zlibrary from https://www.economist.com/middle-east-and-africa/2026/09/24/what-a-beer-with-no-label-says-about-a-small-african-country",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "For centuries São Tomé and Príncipe were known for chattel and chocolate. After the Portuguese landed on the islands in 1470 they brought enslaved Africans to _______ on sugar roças (plantations).",
+          "options": {
+            "A": "thrive",
+            "B": "toil",
+            "C": "indulge",
+            "D": "prosper"
+          },
+          "answer": "B",
+          "explanation": "Toil means to work extremely hard, which matches the historical context of slavery on plantations."
+        },
+        {
+          "q_number": 2,
+          "stem": "Portugal ostensibly ended slavery in the 1870s. But indentured labour on São Tomé and Príncipe _______, making it the world’s largest cacao producer for a time.",
+          "options": {
+            "A": "vanished",
+            "B": "evolved",
+            "C": "persisted",
+            "D": "declined"
+          },
+          "answer": "C",
+          "explanation": "The contrast 'But' indicates that despite the official end, the practice continued (persisted)."
+        },
+        {
+          "q_number": 3,
+          "stem": "These days, to understand Africa’s least populous country after the Seychelles—and one that holds a general election on September 27th—_______ a beer.",
+          "options": {
+            "A": "avoid",
+            "B": "grab",
+            "C": "analyze",
+            "D": "purchase"
+          },
+          "answer": "B",
+          "explanation": "The author uses 'grab a beer' as an informal invitation to examine the country's situation."
+        },
+        {
+          "q_number": 4,
+          "stem": "Specifically, an unlabelled brown bottle made by Rosema, the archipelago’s _______ brewer.",
+          "options": {
+            "A": "foreign",
+            "B": "diverse",
+            "C": "sole",
+            "D": "modern"
+          },
+          "answer": "C",
+          "explanation": "The text describes Rosema as the only brewer in the archipelago; sole fits this definition."
+        },
+        {
+          "q_number": 5,
+          "stem": "After independence from Portugal in 1975 the country became a Soviet satellite. East Germans helped set up the pilsner-making state _______.",
+          "options": {
+            "A": "secret",
+            "B": "entity",
+            "C": "policy",
+            "D": "venture"
+          },
+          "answer": "B",
+          "explanation": "A 'state entity' refers to the state-run organization that produced the beer."
+        },
+        {
+          "q_number": 6,
+          "stem": "Rosema is known as cerveja nacional, a fitting name for a beer that quenches a thirst for post-colonial patriotism—and offers a window into the political _______.",
+          "options": {
+            "A": "history",
+            "B": "ecology",
+            "C": "ideology",
+            "D": "economy"
+          },
+          "answer": "D",
+          "explanation": "Political economy describes the relationship between politics and economic activity, which is the article's focus."
+        },
+        {
+          "q_number": 7,
+          "stem": "Dreams of an oil industry and a deep-water port are unfulfilled. But Rosema is always on _______.",
+          "options": {
+            "A": "tap",
+            "B": "sale",
+            "C": "duty",
+            "D": "call"
+          },
+          "answer": "A",
+          "explanation": "Being 'on tap' is the standard expression for beer served from a keg, fitting the context."
+        },
+        {
+          "q_number": 8,
+          "stem": "Since privatisation in 1995, ownership has rocked back and forth like a drunk, between an Angolan businessman and two influential local brothers. Much like a Congolese mine or a Nigerian oil firm, control can _______ depending on who is in power.",
+          "options": {
+            "A": "stagnate",
+            "B": "descend",
+            "C": "emerge",
+            "D": "oscillate"
+          },
+          "answer": "D",
+          "explanation": "Oscillate means to swing back and forth, reflecting the change in ownership linked to political power."
+        },
+        {
+          "q_number": 9,
+          "stem": "In the latest twist, in May the Constitutional Court returned the brewer to the Angolan, Mello Xavier, the fifth _______ since 2018.",
+          "options": {
+            "A": "result",
+            "B": "shift",
+            "C": "event",
+            "D": "failure"
+          },
+          "answer": "B",
+          "explanation": "A shift refers to a change in ownership, fitting the context of the brewer changing hands."
+        },
+        {
+          "q_number": 10,
+          "stem": "It was seen as proof that Carlos Vila Nova, the president, is consolidating power after dismissing his rival in a palace _______ in 2025.",
+          "options": {
+            "A": "event",
+            "B": "debate",
+            "C": "coup",
+            "D": "trial"
+          },
+          "answer": "C",
+          "explanation": "A palace coup is a political term for an internal struggle to seize power within a regime."
+        },
+        {
+          "q_number": 11,
+          "stem": "The chicanery in the pint-sized country reflects its weak rule of law, shallow economy and _______ politics.",
+          "options": {
+            "A": "patronage",
+            "B": "democratic",
+            "C": "global",
+            "D": "radical"
+          },
+          "answer": "A",
+          "explanation": "Patronage politics is a system where power is maintained through favors and gifts, typical of the situation described."
+        },
+        {
+          "q_number": 12,
+          "stem": "“Beer is part of the lubrication of elections,” says Alex Vines of the European Council on Foreign Relations, a think-tank. As polls _______, candidates are handing out gifts, including beer.",
+          "options": {
+            "A": "expand",
+            "B": "cease",
+            "C": "loom",
+            "D": "stabilize"
+          },
+          "answer": "C",
+          "explanation": "Loom refers to something (usually unpleasant or significant) approaching or looming in the near future."
+        },
+        {
+          "q_number": 13,
+          "stem": "Locals call it tomando banho, “taking a shower” (a sticky one). At Cantinho da tia Cheila, a dusty-pink kiosk-cum-bar on the smaller island of Príncipe, Cheila, the _______ owner, tips some beer on the floor...",
+          "options": {
+            "A": "former",
+            "B": "eponymous",
+            "C": "remote",
+            "D": "actual"
+          },
+          "answer": "B",
+          "explanation": "Eponymous means the place is named after the person (Cantinho da tia Cheila - Aunt Cheila's Corner)."
+        },
+        {
+          "q_number": 14,
+          "stem": "...before pouring one into a glass, a common ritual across Africa and in hip-hop videos from the 1990s. She says Rosema _______ puts labels on the bottles but they slide off in the humidity.",
+          "options": {
+            "A": "occasionally",
+            "B": "frequently",
+            "C": "consistently",
+            "D": "never"
+          },
+          "answer": "A",
+          "explanation": "The text states the labels occasionally put on slide off, requiring the adverb 'occasionally'."
+        },
+        {
+          "q_number": 15,
+          "stem": "Still, it is cheaper than Portuguese imports and “it gives us pride in our land.” Her patrons _______.",
+          "options": {
+            "A": "object",
+            "B": "hesitate",
+            "C": "agree",
+            "D": "complain"
+          },
+          "answer": "C",
+          "explanation": "The patrons support the view that the beer provides pride; thus, they agree."
+        },
+        {
+          "q_number": 16,
+          "stem": "But like many barstool philosophers they dismiss politicians’ promises, shaking their heads as noisy campaign vehicles _______ by on the street.",
+          "options": {
+            "A": "rush",
+            "B": "march",
+            "C": "stray",
+            "D": "pass"
+          },
+          "answer": "D",
+          "explanation": "Vehicles 'pass by' is a natural and correct collocation for moving traffic."
+        },
+        {
+          "q_number": 17,
+          "stem": "They know from experience: it is the hops that kill you. Sign up to the Analysing Africa , a weekly newsletter that keeps you in the _______ about the world’s youngest—and least understood—continent.",
+          "options": {
+            "A": "loop",
+            "B": "dark",
+            "C": "reach",
+            "D": "mind"
+          },
+          "answer": "A",
+          "explanation": "To 'keep someone in the loop' is a common idiom meaning to keep them informed."
+        },
+        {
+          "q_number": 18,
+          "stem": "For centuries São Tomé and Príncipe were known for _______ and chocolate.",
+          "options": {
+            "A": "chattel",
+            "B": "tourism",
+            "C": "fishing",
+            "D": "textiles"
+          },
+          "answer": "D",
+          "explanation": "Chattel is mentioned early in the text as one of the things the islands were known for."
+        },
+        {
+          "q_number": 19,
+          "stem": "The ale that ails São Tomé and Príncipe. [...] The country became a Soviet satellite. East Germans helped set up the _______ state entity.",
+          "options": {
+            "A": "tourist-focused",
+            "B": "oil-drilling",
+            "C": "shipping-heavy",
+            "D": "pilsner-making"
+          },
+          "answer": "D",
+          "explanation": "The text explicitly describes it as a pilsner-making state entity."
+        },
+        {
+          "q_number": 20,
+          "stem": "The chicanery in the pint-sized country reflects its weak rule of law, shallow economy and patronage politics. “Beer is part of the lubrication of _______,” says Alex Vines.",
+          "options": {
+            "A": "governance",
+            "B": "business",
+            "C": "commerce",
+            "D": "elections"
+          },
+          "answer": "A",
+          "explanation": "The quote in the text directly uses the word 'elections' to describe the lubrication, which serves as a synonym for political processes."
+        }
+      ]
+    },
+    {
+      "title": "In HBO’s “The Dark Wizard,” Dean Potter Climbs On",
+      "article_update_date": "05.10.2026",
+      "source_journal": "New Yorker",
+      "body_text": "In HBO’s “The Dark Wizard,” Dean Potter Climbs On Real Moves In HBO’s “The Dark Wizard,” Dean Potter Climbs On The BASE jumper died in a tragic accident in 2015, the day before he was to accept an award for performance art. A new docuseries explores his life and legacy. By Nick Paumgarten May 04, 2026 The morning before Dean Potter died, in May, 2015, he and his girlfriend, Jennifer Rapp, were puttering around their house in Yosemite. Potter, the world-famous rock climber and daredevil, had just returned from a trip to Germany, and Rapp had flown in from Vancouver, the headquarters of the apparel company Arc’teryx, where she was head of communications. In the living room, Rapp tried on some dresses for Potter. “Help me pick one,” she said. They were scheduled to fly the next morning to New York, to attend a gala where he was to receive something called an Action Maverick Award. Potter disliked New York, and cities in general, and planned on staying just one night, but he was uncommonly excited about this particular honor, because it recognized him as an artist. Recently, he’d been trying, mostly in vain, to convince the world, and himself, that he performed vertiginous feats—free soloing on El Capitan, highlining over Yosemite Falls, BASE jumping in a wingsuit off the Eiger—not to stoke his ego or his reputation but, instead, to express an elegant swashbuckling concord with the natural world. Having been surpassed, as an athlete, by Alex Honnold, the new free soloist in the valley, Potter, then in his early forties, reimagined himself as a performance artist, of a kind. The Maverick Award was a validation. Potter helped Rapp choose a dress: one by Missoni, with bright colors. A friend, Graham Hunt, Potter’s wingsuiting sidekick, was due to drop by to do tree work on land they’d bought nearby, but, preferring to chill out alone with Rapp, Potter left a message telling him not to come. Hunt didn’t get that message, though, and turned up soon afterward. “That changed the course of our day,” Rapp said recently. “We wouldn’t have hung out with Graham, and Dean wouldn’t have died.” Not on that day, anyway. That afternoon, Potter, Rapp, and Hunt hiked out to Taft Point, a prow of granite overlooking Yosemite Valley. In their flying-squirrel suits, Hunt and Potter jumped off a promontory and swooped toward a ridge with a slot in it called the Notch. They didn’t make it. Rapp, up on Taft Point, heard two thuds. A recovery team found the bodies in the Notch the next day. The accident in the Notch is the climax of “The Dark Wizard,” a new four-part HBO documentary about Potter and his demons. The film’s directors, Nick Rosen and Peter Mortimer, and its co-creator Josh Lowell, also made “The Alpinist,” in 2021, about another doomed mountain man, and they produce Reel Rock, a perennial travelling festival of climbing films, so they’re accustomed to tragic endings. Still, the latest film, owing to Potter’s emotional turbulence and some of the wreckage he left behind, was the most fraught project they’ve taken on. A few days after Potter died, Rapp received an e-mail from the woman behind the Maverick Awards, a choreographer named Elizabeth Streb. Potter and Rapp had first met her at the Telluride Mountainfilm Festival, where she was promoting Catherine Gund’s movie about her, “Born to Fly: Elizabeth Streb vs. Gravity.” Streb’s work incorporates what she called “extreme action,” a lot of falling and crashing into things. She and Potter hit it off. “He, like me, believed he could fly, and dedicated his life to that proposition,” Streb said the other day. “We have a theory of the real move—it’s one that once initiated you can’t stop. We specialize in letting the ground stop us and training our bodies to take the hit. There’s no such thing as perfect safety. There is only preparing and training.” The night after Potter died, Streb, at her gala, presented his award in absentia. “I am gathering everything together for you,” she wrote afterward, in her e-mail to Rapp. “The Award itself, with his name and an inscription”; also, “a video we put together of his work [and] a video of an ‘Action’ my dancers performed for him called ‘Head First’ and a few photos of the Evening.” Rapp, in her desolation, never replied, so she never got to see the award or the videos. They haven’t spoken since. Rapp doesn’t have the dress anymore. ♦",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, why did Dean Potter value the Action Maverick Award so much?",
+          "options": {
+            "A": "It recognized his accomplishments as an exceptional athlete.",
+            "B": "It validated his self-perception as a performance artist.",
+            "C": "It provided him an opportunity to visit New York City.",
+            "D": "It offered him professional connections with top fashion brands."
+          },
+          "answer": "B",
+          "explanation": "文章提到Potter一直试图说服世界和自己，他的冒险行为不仅仅是为了满足自我，而是为了表达与自然世界的一种艺术和谐。他将自己重新定位为“行为艺术家”，并指出Maverick奖是对这种身份的“确认”（validation），故选B。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'puttering around' (Paragraph 2) most likely suggest about Potter and Rapp's activity?",
+          "options": {
+            "A": "They were intensely preparing for their upcoming departure.",
+            "B": "They were engaged in active, high-stakes physical training.",
+            "C": "They were casually occupying themselves with trivial tasks at home.",
+            "D": "They were having a heated argument about their travel plans."
+          },
+          "answer": "C",
+          "explanation": "“Puttering around”通常指在家里漫不经心地做些小事或打发时间。文中描述他们在出发前试穿衣服、闲逛，体现了一种轻松随意的状态，故选C。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to Jennifer Rapp, how did Graham Hunt’s unexpected arrival affect the outcome of that day?",
+          "options": {
+            "A": "It prevented Potter from cancelling his fatal plans.",
+            "B": "It forced the group to change their hiking route to Taft Point.",
+            "C": "It served as the primary reason for the accident happening that day.",
+            "D": "It created a conflict that distracted Potter during his jump."
+          },
+          "answer": "C",
+          "explanation": "Rapp明确表示：“那改变了我们一天的进程……如果我们没有和Graham一起，Dean就不会死。”这直接指出了Hunt的到来是导致后来不幸行程的原因，故选C。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the common philosophy shared by Elizabeth Streb and Dean Potter regarding their work?",
+          "options": {
+            "A": "Risk can be entirely eliminated through precise calculation.",
+            "B": "Athletic performance should prioritize safety over aesthetic expression.",
+            "C": "Extreme actions are inevitable once they are set in motion.",
+            "D": "Performance art must rely on technology to reach its potential."
+          },
+          "answer": "C",
+          "explanation": "Streb提到他们有一种关于“真正的动作”（the real move）的理论：一旦开始就无法停止。他们专注于承受碰撞，并认为没有完美的安全性，只有准备和训练，故选C。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does the author suggest about the documentary 'The Dark Wizard' in the final paragraphs?",
+          "options": {
+            "A": "It successfully honors Potter's memory through the presentation of his award.",
+            "B": "It is an optimistic look at the evolution of extreme sports.",
+            "C": "It reflects the directors' familiarity with, yet struggle to process, tragic outcomes.",
+            "D": "It focuses primarily on the legal aftermath of the accident in the Notch."
+          },
+          "answer": "C",
+          "explanation": "文章提到导演们拍摄过多部关于登山者悲剧的电影，他们习惯了悲剧结尾，但这部电影由于Potter的情感波动及其留下的伤痛，成为他们处理过“最令人不安/困难的”（fraught）项目，体现了他们对悲剧的熟悉与处理过程中的艰难，故选C。"
+        }
+      ]
+    },
+    {
+      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+      "article_update_date": "08.30.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty. Authorities in the capital released pictures of the suspects captured by security cameras during the heist at the Museum of Applied Arts (MAK), amid a rash of spectacular smash-and-grab thefts from European cultural institutions. The unmasked men bought tickets to the exhibition before shattering a glass display case with a hammer during opening hours on Thursday afternoon and making off with the diamond necklace. View image in fullscreen A visitor takes a picture of the platinum and diamond necklace, which dates from 1939 and belonged to Queen Nazli of Egypt, at the Pierres Précieuses exhibition in Paris. Photograph: Stéphane de Sakutin/AFP/Getty In an appeal for information from the public, police said: “The perpetrators fled with the jewellery in an unknown direction.” Officers fanned out through the city centre and deployed a police tracking dog to search for the suspects. The Kronen newspaper said investigators believed the men were probably carrying out a “contract job” on behalf of a criminal gang. MAK said the piece had been snatched from a jewellery exhibition that had been on display since June, featuring more than 300 works by the French designers Van Cleef & Arpels. No one was hurt, although there were several witnesses in the room at the time. Documentation for the show said the necklace once belonged to Queen Consort Nazli of Egypt, who wore it at the 1939 wedding of her daughter Fawzia to Iran’s then crown prince, Mohammad Reza Pahlavi, who later became shah. The necklace was sold by Sotheby’s in New York in 2015 for $4.3m. View image in fullscreen Queen Nazli of Egypt, right, wearing the necklace at Princess Fawzia’s wedding in Cairo, 1939. Also pictured, from left, are: Queen Farida, King Farouk, Fawzia and Crown Prince Mohammad. Photograph: Bettmann Archive The MAK said the exhibition brought together about 200 “unique and rarely seen objects” from its own collection and pieces spanning the 120-year history of the Parisian jewellery house, from the Van Cleef & Arpels patrimonial collection. A guided tour planned for Friday afternoon was listed as “cancelled” on the museum website and the exhibition, which was due to end on 27 September, was temporarily closed. European museums have been hit by a string of high-profile heists since thieves broke into the Louvre museum in Paris during the day last October and escaped within minutes with crown jewels worth €88m. skip past newsletter promotion Free newsletter | Weekly Sign up to This is Europe The most pressing stories and debates for Europeans – from identity to economics to the environment Enter your email Sign up after newsletter promotion The 200-carat platinum necklace. In Spain on Thursday, thieves raided the Treasure of Villena, a collection of bronze age gold artefacts described as one of Europe’s most important prehistoric hoards. This month, four of the most important works by the 15th-century Renaissance master Antonello da Messina were stolen during a national holiday from a museum in the Sicilian port city of Messina. Two days earlier, Italian police said they had recovered three paintings by the French masters Paul Cézanne, Pierre-Auguste Renoir and Henri Matisse that were taken this year from a private museum near the northern city of Parma. A report by Europol this month found that robberies at European museums are becoming increasingly violent, with thieves sometimes brandishing guns, assaulting staff and using sledgehammers, axes and even explosives to smash their way to targeted loot.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the main point of the first paragraph regarding the heist in Vienna?",
+          "options": {
+            "A": "The theft was carried out by inexperienced individuals.",
+            "B": "The stolen necklace was a replica of a historical piece.",
+            "C": "The museum was closed for security upgrades during the time of the heist.",
+            "D": "The theft occurred during public visiting hours as part of a trend of museum heists."
+          },
+          "answer": "D",
+          "explanation": "The text states the men bought tickets and shattered the display case 'during opening hours' and places this event 'amid a rash of spectacular smash-and-grab thefts from European cultural institutions', confirming D."
+        },
+        {
+          "q_number": 2,
+          "stem": "What can be inferred about the stolen necklace from the passage?",
+          "options": {
+            "A": "It was commissioned specifically for the 1939 wedding of Princess Fawzia.",
+            "B": "It has historical significance associated with Egyptian royalty.",
+            "C": "It is currently being stored by Sotheby’s in New York.",
+            "D": "It was the only item stolen from the Van Cleef & Arpels exhibition."
+          },
+          "answer": "B",
+          "explanation": "The text explicitly mentions that the necklace belonged to Queen Nazli of Egypt and was worn at the wedding of Princess Fawzia, establishing its historical connection to Egyptian royalty."
+        },
+        {
+          "q_number": 3,
+          "stem": "The phrase 'contract job' in the second paragraph implies that the suspects were likely:",
+          "options": {
+            "A": "Amateurs acting on an impulse.",
+            "B": "Working for a larger criminal organization.",
+            "C": "Museum staff collaborating with outsiders.",
+            "D": "Engaged in a performance art protest."
+          },
+          "answer": "B",
+          "explanation": "The context provided by the Kronen newspaper quote ('carrying out a contract job on behalf of a criminal gang') clearly points to a planned, commissioned crime rather than an individual or impromptu act."
+        },
+        {
+          "q_number": 4,
+          "stem": "According to the final paragraph, what is the current trend in European museum robberies?",
+          "options": {
+            "A": "They are increasingly focused on prehistoric hoards rather than jewellery.",
+            "B": "They are becoming more violent and utilizing aggressive methods.",
+            "C": "They are strictly occurring during national holidays.",
+            "D": "They are decreasing in frequency due to improved security measures."
+          },
+          "answer": "B",
+          "explanation": "The final paragraph cites a Europol report stating that robberies are 'becoming increasingly violent', with thieves using weapons and destructive tools like axes and explosives."
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the author's purpose in the article?",
+          "options": {
+            "A": "To analyze the historical value of Van Cleef & Arpels jewellery.",
+            "B": "To promote the exhibition at the Museum of Applied Arts.",
+            "C": "To report on a specific theft within the context of a wider wave of museum robberies.",
+            "D": "To criticize the security protocols of European museums."
+          },
+          "answer": "C",
+          "explanation": "The author provides a detailed account of the Vienna theft while framing it within a broader pattern of recent high-profile heists across Europe, making C the most accurate description of the article's scope."
+        }
+      ]
+    },
+    {
+      "title": "Nanjing massacre remembered on 80th anniversary",
+      "article_update_date": "08.29.2026",
+      "source_journal": "China Daily",
+      "body_text": "A memorial service to mark the 80th anniversary of the Nanjing Massacre committed by the Japanese military during World War II brought together hundreds of activists and members of the Chinese and other Asian communities on Sunday in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition, the Committee to Promote Reunification of China, the Alliance for Preserving the Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held annually for the past 20 years with the aim of exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history. \"The Japanese Army blatantly violated international conventions and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians were murdered and one third of the buildings were destroyed,\" said Zha Liyou, acting Chinese consul general in San Francisco, at the service. Japanese troops captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing a slaughter that lasted more than 40 days. Tens of thousands of women were raped. \"Our stories are linked. The fate of over 400,000 women sexually enslaved by the Japanese Imperial Army during World War II is part and parcel of what happened during the Nanjing Massacre,\" said Judith Mirkinson, president of the Comfort Women Justice Coalition. She said the 20th century has been called the most violent century in the history of the world, and that one way to ensure peace in the 21st century is through truth and reconciliation. \"Reconciliation does not come without truth. So the Japanese government must acknowledge their crimes,\" she said. \"They must give justice to those few people who still survive from the Nanjing Massacre and to the memory of what happened there.\" From the time that Japan invaded northeast China in September 1931, followed by a full-scale invasion that started on July 7, 1937, around 35 million Chinese soldiers and civilians were killed or injured during the Japanese occupation, which continued until 1945. To honor the victims and the survivors, and to pursue justice and an enduring peace, the Chinese community worldwide joined hands this year to commemorate this historic event which was designated by the Chinese government as National Memorial Day for Nanjing Massacre Victims. \"To remember the atrocities committed by the Japanese Army during World War II does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace,\" said Zha. \"It might be a comfort to the victims and those who sacrificed their lives that the Nanjing Massacre has been etched into the memory of the Chinese people and the world civilization.\" The Nanjing Massacre was entered onto the UNESCO Memory of the World Register, a compendium aimed at preserving documented heritage of universal value, in 2015. liazhu@chinadailyusa.com",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the primary objective of the annual memorial service in San Francisco is to ______.",
+          "options": {
+            "A": "formally demand financial compensation from the Japanese government",
+            "B": "highlight the historical evidence and encourage the remembrance of war crimes",
+            "C": "strengthen the political cooperation between China and other Asian nations",
+            "D": "protest against the recent policies implemented by the Japanese Imperial Army"
+          },
+          "answer": "B",
+          "explanation": "The text states that the memorial service is held with the aim of 'exposing the Japanese Imperial Army's war crimes and encouraging people to understand and never forget the dark chapter of history,' which aligns with option B."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'part and parcel' in the third paragraph most likely mean?",
+          "options": {
+            "A": "A trivial segment",
+            "B": "A detached incident",
+            "C": "An essential component",
+            "D": "A temporary arrangement"
+          },
+          "answer": "C",
+          "explanation": "The phrase 'part and parcel' is an idiom meaning an essential or integral part of something. In the context of the passage, the suffering of comfort women is presented as an inseparable part of the broader history of the Nanjing Massacre."
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best reflects Judith Mirkinson's perspective on reconciliation?",
+          "options": {
+            "A": "Justice is secondary to the pursuit of immediate peace",
+            "B": "Historical truth is a prerequisite for achieving reconciliation",
+            "C": "The Japanese government has already fulfilled its moral obligations",
+            "D": "Reconciliation can be achieved even if crimes are denied"
+          },
+          "answer": "B",
+          "explanation": "Mirkinson explicitly states, 'Reconciliation does not come without truth,' indicating that truth is a necessary condition (prerequisite) for reconciliation."
+        },
+        {
+          "q_number": 4,
+          "stem": "According to Zha Liyou, why should people continue to remember the atrocities of the Nanjing Massacre?",
+          "options": {
+            "A": "To maintain a sense of enmity towards the Japanese people",
+            "B": "To ensure that history serves as a tool for political gain",
+            "C": "To serve as a reminder and an inspiration to value peace",
+            "D": "To highlight the military superiority of the Chinese army during the war"
+          },
+          "answer": "C",
+          "explanation": "Zha Liyou explicitly states that remembering the atrocities 'does not mean to pass on the enmity but rather to remind people not to forget the history and inspire them to love peace.'"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred from the mention of the UNESCO Memory of the World Register?",
+          "options": {
+            "A": "The massacre is recognized globally as a significant part of human history",
+            "B": "The Japanese government participated in the registration process",
+            "C": "The registry serves as a legal document for war trials",
+            "D": "UNESCO manages the physical remains of the Nanjing victims"
+          },
+          "answer": "A",
+          "explanation": "UNESCO's Memory of the World Register preserves 'documented heritage of universal value.' Including the Nanjing Massacre in this register acknowledges its global historical significance and universal importance."
+        }
+      ]
+    }
+  ]
+}
