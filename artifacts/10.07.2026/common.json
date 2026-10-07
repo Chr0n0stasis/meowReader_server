@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.07.2026",
+  "papers": [
+    {
+      "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
+      "article_update_date": "10.02.2026",
+      "source_journal": "Nature",
+      "body_text": "The Norellraptor barsboldi fossil shows traces of feathers on its fore and hind limbs as well as at the end of its tail. Credit: Xuri Wang et al./Nat. Commun. The discovery of a species of feathered dinosaur in China, through a stunningly well-preserved fossil, adds to a growing body of evidence that birds and their closest relatives evolved the ability to fly several times rather than through a single lineage. The specimen, which is 57 centimetres long, is a microraptorine that roamed what is now Liaoning province in China between 145 million and 100 million years ago. It was discovered by a local farmer and described by an international team of researchers from China, Italy and Slovakia in Nature Communications on 29 September1. The team named the species Norellraptor barsboldi and estimate that the specimen would have been about three years old when it died. Microraptorines are a group of relatively small meat-eating dinosaurs, weighing around one kilogram, that had feathers on their limbs. Hundreds of specimens have been found. The feathered creatures are part of a complete branch, or clade, of the tree of life called Microraptorinae. They are close relatives to birds, which are part of the Avialae clade, and so they offer insight into the origins and evolution of flight. Taking off By comparing the flight-related adaptations of known microraptorines with those observed in the bird lineage, the researchers found that 30% of the 194 flight-related adaptations identified in microraptorines also evolved in the Avialae. These include wing feathers, hook-shaped toe bones and a longer bone in the forearm than in the upper arm. This miniature skull belonged to a 2-gram dinosaur But these adaptations did not develop in the same order in the two groups and “thus could not be considered the expression of a shared developmental regime”, the researchers write. Palaeontologists welcome the research. “The study provides important new evidence that further supports the hypothesis that flight evolved multiple times among feathered dinosaurs, including at least once among microraptorines and at least once among birds,” says Michael Pittman, a palaeobiologist at the Chinese University of Hong Kong. Fossilised hind limbs of Norellraptor barsboldi. Credit: Xuri Wang et al./Nat. Commun. Neil Gostling, an evolutionary developmental biologist at the University of Southampton, UK, was surprised that most of the evolutionary changes in this lineage of flying dinosaurs were not shared with its avian cousins. The study shows that many species “were exploring all of the avenues open to them”, and flight clearly conveys advantages that these groups experimented with extensively, he says.",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The Norellraptor barsboldi fossil shows traces of feathers on its fore and hind limbs, ___ the end of its tail.",
+          "options": {
+            "A": "regardless of",
+            "B": "in spite of",
+            "C": "instead of",
+            "D": "as well as"
+          },
+          "answer": "D",
+          "explanation": "文章提到羽毛覆盖前肢、后肢以及尾端，as well as意为“以及/还有”，符合逻辑。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The discovery of a species of feathered dinosaur in China ___ to a growing body of evidence that birds and their closest relatives evolved the ability to fly.",
+          "options": {
+            "A": "contributes",
+            "B": "adds",
+            "C": "applies",
+            "D": "leads"
+          },
+          "answer": "B",
+          "explanation": "add to a growing body of evidence是固定搭配，意为“为越来越多的证据增添了新内容”。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Evidence suggests that birds and their closest relatives evolved the ability to fly several times rather than through a ___ lineage.",
+          "options": {
+            "A": "diverse",
+            "B": "complex",
+            "C": "single",
+            "D": "separate"
+          },
+          "answer": "C",
+          "explanation": "上下文提到“several times”（多次），与“single lineage”（单一谱系）形成对比。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The specimen, which is 57 centimetres long, is a microraptorine that ___ what is now Liaoning province in China.",
+          "options": {
+            "A": "occupied",
+            "B": "invaded",
+            "C": "inhabited",
+            "D": "roamed"
+          },
+          "answer": "D",
+          "explanation": "roam指动物在某区域内漫步/活动，符合恐龙在地理区域内的描述。"
+        },
+        {
+          "q_number": 5,
+          "stem": "It was discovered by a local farmer and described by an international team of researchers ___ Nature Communications.",
+          "options": {
+            "A": "in",
+            "B": "on",
+            "C": "at",
+            "D": "to"
+          },
+          "answer": "A",
+          "explanation": "在期刊发表研究成果通常用in Nature Communications。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The team named the species Norellraptor barsboldi and ___ that the specimen would have been about three years old when it died.",
+          "options": {
+            "A": "speculate",
+            "B": "calculate",
+            "C": "assume",
+            "D": "estimate"
+          },
+          "answer": "D",
+          "explanation": "estimate用于表示通过科学手段推测年龄，符合语境。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Microraptorines are a group of relatively small meat-eating dinosaurs, ___ around one kilogram.",
+          "options": {
+            "A": "valuing",
+            "B": "measuring",
+            "C": "weighing",
+            "D": "counting"
+          },
+          "answer": "C",
+          "explanation": "weighing around one kilogram是对恐龙重量的描述，用现在分词作定语。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The feathered creatures are part of a complete branch, or ___, of the tree of life called Microraptorinae.",
+          "options": {
+            "A": "category",
+            "B": "clade",
+            "C": "class",
+            "D": "group"
+          },
+          "answer": "B",
+          "explanation": "clade是演化支，文中明确指代进化分支。"
+        },
+        {
+          "q_number": 9,
+          "stem": "They are close relatives to birds, which are part of the Avialae ___, and so they offer insight into the origins and evolution of flight.",
+          "options": {
+            "A": "classification",
+            "B": "clade",
+            "C": "collection",
+            "D": "community"
+          },
+          "answer": "B",
+          "explanation": "Avialae clade是学术术语，指代鸟类演化支。"
+        },
+        {
+          "q_number": 10,
+          "stem": "By comparing the flight-related adaptations of known microraptorines with those observed in the bird lineage, the researchers found that 30% of the 194 flight-related adaptations ___ in microraptorines also evolved in the Avialae.",
+          "options": {
+            "A": "recognized",
+            "B": "identified",
+            "C": "realized",
+            "D": "noted"
+          },
+          "answer": "B",
+          "explanation": "identified指被确定或识别出的特征，符合科学实验描述。"
+        },
+        {
+          "q_number": 11,
+          "stem": "These include wing feathers, hook-shaped toe bones and a longer bone in the forearm than in the upper arm. This ___ skull belonged to a 2-gram dinosaur.",
+          "options": {
+            "A": "tiny",
+            "B": "limited",
+            "C": "miniature",
+            "D": "short"
+          },
+          "answer": "C",
+          "explanation": "miniature意为“缩影的/微型的”，修饰小型恐龙的头骨。"
+        },
+        {
+          "q_number": 12,
+          "stem": "But these adaptations did not develop in the same ___ in the two groups.",
+          "options": {
+            "A": "sequence",
+            "B": "order",
+            "C": "step",
+            "D": "pattern"
+          },
+          "answer": "B",
+          "explanation": "develop in the same order指发育的顺序，符合生物学发育过程的描述。"
+        },
+        {
+          "q_number": 13,
+          "stem": "These adaptations could not be considered the expression of a shared developmental ___, the researchers write.",
+          "options": {
+            "A": "process",
+            "B": "system",
+            "C": "theory",
+            "D": "regime"
+          },
+          "answer": "D",
+          "explanation": "developmental regime指发育机制/制度，符合文中对于进化模式的学术讨论。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Palaeontologists ___ the research.",
+          "options": {
+            "A": "welcome",
+            "B": "praise",
+            "C": "accept",
+            "D": "support"
+          },
+          "answer": "A",
+          "explanation": "welcome the research是一个固定表达，表示学术界对新研究的欢迎态度。"
+        },
+        {
+          "q_number": 15,
+          "stem": "The study provides important new evidence that further ___ the hypothesis that flight evolved multiple times among feathered dinosaurs.",
+          "options": {
+            "A": "advances",
+            "B": "strengthens",
+            "C": "supports",
+            "D": "maintains"
+          },
+          "answer": "C",
+          "explanation": "supports the hypothesis是学术写作中的常用搭配。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Neil Gostling was ___ that most of the evolutionary changes in this lineage of flying dinosaurs were not shared with its avian cousins.",
+          "options": {
+            "A": "surprised",
+            "B": "doubtful",
+            "C": "confused",
+            "D": "worried"
+          },
+          "answer": "A",
+          "explanation": "根据上下文，科学家对于进化特征未共享感到意外，surprised符合文意。"
+        },
+        {
+          "q_number": 17,
+          "stem": "The study shows that many species were exploring all of the ___ open to them.",
+          "options": {
+            "A": "options",
+            "B": "choices",
+            "C": "avenues",
+            "D": "paths"
+          },
+          "answer": "C",
+          "explanation": "explore avenues是一个习语，表示探索各种可能途径。"
+        },
+        {
+          "q_number": 18,
+          "stem": "Flight clearly ___ advantages that these groups experimented with extensively, he says.",
+          "options": {
+            "A": "conveys",
+            "B": "provides",
+            "C": "offers",
+            "D": "delivers"
+          },
+          "answer": "A",
+          "explanation": "convey advantages表示带来优势，与experimented with（实验）逻辑呼应。"
+        },
+        {
+          "q_number": 19,
+          "stem": "The researcher concluded that these groups ___ with flight extensively.",
+          "options": {
+            "A": "played",
+            "B": "worked",
+            "C": "dealt",
+            "D": "experimented"
+          },
+          "answer": "D",
+          "explanation": "experimented with是原文原词，指在进化过程中尝试飞行。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The findings help clarify the evolutionary ___ of feathered dinosaurs.",
+          "options": {
+            "A": "origin",
+            "B": "history",
+            "C": "lineage",
+            "D": "path"
+          },
+          "answer": "A",
+          "explanation": "文章主旨在于探究飞行起源，origin最契合中心思想。"
+        }
+      ]
+    },
+    {
+      "title": "The good news: few Muslims want to subvert European democracy",
+      "article_update_date": "09.16.2026",
+      "source_journal": "Economist",
+      "body_text": "The good news: few Muslims want to subvert European democracy Briefing | Of veils and threats The good news: few Muslims want to subvert European democracy The bad news: there is no easy way to counter those who do Sep 10th 2026 Mohamed Louizi was first approached by representatives of the Muslim Brotherhood, in Casablanca, Morocco at the age of 13. By 18 he had pledged allegiance to the movement, which works to institute Islamic rule around the world. In 1999, as a student in France, he became its representative at two mosques and head of the local branch of the Muslim Students of France in the city of Lille. His task, he says, was “to spread Islamism”—the idea that Islam should be the organising principle of government and society. But by 2006, alarmed by what he had begun to see as a “totalitarian project”, Mr Louizi quit the Brotherhood. He considers the movement a “real danger” for France and for Muslims: “We need to help the Muslim community get rid of Islamism.” The French authorities, too, are worried about the Brotherhood’s activities. A report published by the interior ministry in 2025, entitled “The Muslim Brotherhood and Political Islam in France”, concluded that it could, in time, threaten the country’s secular rules and women’s rights. Measuring the threat is tricky because the Brotherhood “practises entryism”, the report said, using a “double language, by which it hides its real intentions while claiming to share the rules and principles regulating western societies”. It is not just France where Islamism is seen to be a threat. Sweden’s centre-right government recently initiated a formal inquiry into its “infiltration in Swedish society”. “Islamism as a political ideology threatens several fundamental values of Sweden’s democratic society,” declared Hans Eklind, a government MP, in the accompanying press release. Ahead of elections in Berlin later this month, the CDU, Germany’s ruling party, has put up posters promising Freiheit statt Islamismus (“Freedom rather than Islamism”). Europe’s right-wing populists go much further, routinely assailing Muslim immigrants as a threat to European civilisation. The AfD, which won an election this week in the German state of Saxony-Anhalt, pledged to curb construction of mosques there and restrict any public Muslim calls to prayer. Eric Zemmour, a French nationalist, once warned that Muslims want to “slit our throats”. Richard Jomshof, an MP for the Sweden Democrats, says the best thing for Swedish Muslims to do is “stop being Muslims”. The PVV, a Dutch party, wants to ban Islam for 20 years. Fully 39 of the Netherlands’ 150 MPs supported a parliamentary motion earlier this year stating, “Islam does not belong in the Netherlands.” The anti-Muslim clamour may be deafening, but the actual numbers of Muslims are modest. They account for less than 10% of the population in every Western European country (see map). Their numbers, however, have been growing fast. Lots of European countries, including France, Germany and Sweden, do not compile official statistics on their citizens’ religious beliefs. Yet estimates suggest that the Muslim share of France’s population jumped from 6.6% in 2010 to 9.1% in 2020. In Sweden, the leap has been even faster, from 4.5% to 8.1%. In most European countries Muslims are a growing presence (see chart). Much of the growth comes from a wave of refugees from Syria and elsewhere that peaked in 2015. Broadly speaking, the new arrivals have integrated quickly. Germany’s Institute for Employment Research says that 64% of those who had arrived in 2015 had found work by 2022, close to the national employment rate of 70%. Last year a report from University of Münster found that 88% of Muslims feel comfortable in Germany and 73% wanted to integrate “unreservedly and without qualification”. In Britain the children of immigrants do better at school than the native-born. A study by France’s National Institute of Demographic Studies found that 32% of the children of parents who both immigrated from the Maghreb hold a higher-education degree. That is lower than the figure for France as a whole, 43%, but far higher than the 3% of their parents who do. Nonetheless, there are pockets in many European countries where integration is proceeding slowly, if at all. Swedish police label a neighbourhood a “vulnerable area” if it has persistent problems with crime, religious extremism or “parallel social structures that challenge the functionality of society”. The suburb of Rosengard, in the southern city of Malmo, has been on its list for more than a decade. It appears to be strongly Muslim, despite the lack of official data. “On Eid everything here stops,” says Kashif Virk, an imam from Malmo’s small group of Ahmadi Muslims. In the local shopping centre, almost every woman is wearing a head covering. “It’s a very segregated area,” says Mr Virk. That does not make Rosengard a “no-go zone”, however, as some alarmists have claimed. In fact, it receives extra attention from the police. Nor have the growth of Europe’s Muslim minority and the problems with integration led, as many pessimists had predicted, to an explosion of violence in the name of Islam. Europol reports that there were 24 attempted acts of jihadist terror in the European Union last year, most of which were foiled. The nine that were carried out (eight of which were stabbings and one an attempt to run people over with a car), led to five deaths. Most involved lone assailants, without clear external assistance or encouragement. The numbers for 2024 were similar, with six attacks causing six deaths. There was nothing even remotely on the same scale as the 9/11 attacks in America in 2001, whose 25th anniversary falls this week. An assault on a gay pride parade in Berlin in July, in which an extremist rammed participants with a van, killing one, is typical. Police in European countries have long experience of countering Islamic terror networks. They arrest hundreds of suspected jihadists each year. They had, in fact, arrested the attacker in Berlin, a 21-year-old German of Lebanese descent named Abdul Ballout. He had been convicted of planning a terror attack two months before he actually perpetrated one, but a court had suspended his sentence. Although the justice system malfunctioned, police and intelligence agencies seem to have been alert to the danger. But even as police have become better at curbing violent extremism, the authorities in many European countries have grown more anxious about Muslims who, although eschewing violence, work to undermine liberal freedoms and secular principles. German officials, for instance, fret about legalistischer Islamismus , or “legalistic Islamism”, which they see as a threat to the constitutional order. Simona Mohamsson, Sweden’s education and integration minister and herself the daughter of Muslim immigrants, mistrusts “political Islam” which “aims to shape and influence Swedish society”. A report from the French Senate in January concluded that the Muslim Brotherhood’s methods and ideology “threaten our democratic values and our societies’ security”. In April a senator from the centre-right Republicans party presented a draft bill designed to “fight entryism” in France, arguing that this “new strategy deployed quietly by Islamist entities” was designed “to replace the republic’s principles with religious law”. Intelligence agencies point to outfits like FEMYSO, an association of Muslim youth organisations from around Europe, which denies any ties to the Brotherhood but which, the spooks say, is riddled with its supporters. FEMYSO purports to speak for all Muslim youth and has received funding from the European Union. Its public activities include seemingly anodyne campaigns against Islamophobia. For its critics, that is the point: Islamist members get to present themselves as mainstream Muslims and make friends in high places. But others see this as hysteria. “It’s not in the data,” says Nader Hotait of the German Centre for Integration and Migration Research in Berlin, referring to Germany: “Nobody has been able to substantiate a threat that corresponds to the moral panic about the Muslim Brotherhood.” The numbers of people involved are small. The French interior ministry’s report estimated that there were 400–1,000 members of the Brotherhood in France. These were linked to some 280 charities, youth organisations, sports clubs and the like, as well as 139 mosques (out of a national total of 2,800). It said that about 91,000 people attend such places of worship, out of an estimated Muslim population of about 7.5m. The report also noted ties between the Brotherhood and 21 of the 74 Muslim schools in France, educating 4,200 pupils (out of a national total of 5.6m). The Bundesamt für Verfassungsschutz (BfV), Germany’s domestic-intelligence agency, also keeps tabs on local Islamists. It estimates that the groups it tracks have roughly 28,000 members. The Dutch authorities, for their part, estimate that only 3-5% of Dutch Muslims (perhaps 25,000-50,000 people) have fundamentalist views. But countering Islamism is much harder than these numbers might suggest. For one thing, the distinction between Muslims with illiberal views and those seeking to capture or undermine democratic institutions is not always clear. Many Muslims denounce homosexuality and would like to ban the burning of the Koran or the publication of satirical cartoons of the prophet Muhammad. As Ms Mohamsson notes, it is not a crime to have “deeply conservative religious values”. “It’s very difficult to draw the line,” says Andy Grote , the interior minister of Hamburg, which has the greatest concentration of Muslims of concern to the authorities of all Germany’s states. At Sweden’s previous election, in 2022, more than 30% of voters in Rosengard’s main electoral district cast their ballots for the Nuance Party, which wants to criminalise Islamophobia and the desecration of the Koran (it won just 0.4% of the national vote). Especially for younger Muslims, adherence to seemingly conservative, anti-secular views may be a way of expressing their identity in the face of widespread hostility to Islam. Last year a poll suggested that 44% of French Muslims would prefer to respect Islamic law over French law, up from 28% in 1995. Among those under 25 the figure was 52%. What is more, Islamists with genuinely subversive goals deliberately muddle the boundaries between themselves and other Muslims. In June Sinan Selen, the (Turkish-born) head of the BfV, is said to have warned a closed-door session of lawmakers about German groups linked to the Muslim Brotherhood which, he claimed, were seeking to co-opt institutions and establish relationships with politicians. European authorities have periodically sought to curtail the activities of institutions or organisations they accuse of propagating Islamist ideas, or to shut them down altogether. In 2020, after a jihadist decapitated Samuel Paty, a schoolteacher who showed pupils cartoons of the prophet, the French government banned BarakaCity, an NGO, and the Collective Against Islamophobia in France, both of which it accused of spreading Islamist propaganda. In 2023 Swedish security services accused employees at Cordoba International School, an Islamic school in Stockholm, of having links to violent extremists and said that pupils were at risk of being radicalised. The school inspectorate closed it the following year. In November Germany’s government banned Muslim Interaktiv, a group that had called thousands of local Muslims onto Hamburg’s streets to protest in favour of an Islamic caliphate . But not all European governments have the authority to ban groups considered hostile to the constitutional order. Moreover, proving that an institution or group is subversive, as opposed to a few people within it, can be difficult. In 2019 the Dutch security services said Cornelius Haga Lyceum, a Muslim secondary school in Amsterdam, had been co-opted by fundamentalist teachers spreading discriminatory views. The school sued, and in 2024 a court ruled that the agency’s accusations had been misleading. Episodes like this fuel the perception among European Muslims that they are victims of a witch hunt. Groups involved in deradicalisation say they must jump through hoops to prove they are not too chummy with Islamists themselves. “There is not one big Muslim organisation in Germany which is not problematised,” says Matthias Schmidt of the Islamic Science and Education Institute in Hamburg. “Not one that is seen as a solution, no matter how often",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the primary challenge in evaluating the threat posed by the Muslim Brotherhood is that it:",
+          "options": {
+            "A": "Openly advocates for the abolition of secular democratic institutions.",
+            "B": "Utilizes 'entryism' to mask its true objectives while appearing to comply with societal norms.",
+            "C": "Consistently encourages its members to engage in violent terrorist acts across Europe.",
+            "D": "Maintains a transparent membership base that is easy for intelligence agencies to monitor."
+          },
+          "answer": "B",
+          "explanation": "文章中提到，评估威胁之所以困难，是因为穆斯林兄弟会实行“进入主义”（entryism），即使用“双重语言”，在声称遵守西方社会规则和原则的同时，隐藏其真实意图。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes the current state of Muslim integration in Europe as presented in the text?",
+          "options": {
+            "A": "Integration is universally failing, leading to widespread social collapse.",
+            "B": "Most Muslim immigrants remain isolated and refuse to participate in the labor market.",
+            "C": "Integration is generally successful for the majority, though specific pockets of concern persist.",
+            "D": "Educational attainment among second-generation immigrants is significantly higher than that of the native-born population."
+          },
+          "answer": "C",
+          "explanation": "文章提到绝大多数新移民融入迅速，且许多人感到满意，但同时也指出在一些欧洲国家仍存在融入进展缓慢的“孤岛”区域，因此选项C最全面地描述了现状。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the author's stance on the relationship between European Muslim minorities and violent extremism?",
+          "options": {
+            "A": "The growing Muslim population has predictably resulted in a surge of large-scale terrorist attacks.",
+            "B": "The danger is mostly non-existent and invented by right-wing politicians for political gain.",
+            "C": "Authorities are effectively dealing with terror networks, but the scale of violence has not matched catastrophic predictions.",
+            "D": "Policing and counter-terrorism measures have become largely ineffective in preventing radicalization."
+          },
+          "answer": "C",
+          "explanation": "文章指出，尽管存在担忧，但并没有出现悲观者预测的暴力爆炸式增长。欧洲警方在应对极端暴力方面积累了长期经验，且当前的袭击规模远不及9/11事件。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The term 'legalistischer Islamismus' (legalistic Islamism) mentioned in the text refers to:",
+          "options": {
+            "A": "Islamic practices that are strictly compliant with European constitutional law.",
+            "B": "The use of legitimate democratic processes to undermine liberal and secular principles.",
+            "C": "The legal prosecution of individuals who express anti-secular religious views.",
+            "D": "A formal initiative by European governments to legalize moderate Islamic associations."
+          },
+          "answer": "B",
+          "explanation": "文章提到德国官员担心的“法制化伊斯兰主义”，是指那些虽然摒弃暴力，但致力于破坏自由和世俗原则的活动，旨在通过利用法律体系来渗透或改变社会。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred from the author's mention of the 'witch hunt' perception among European Muslims?",
+          "options": {
+            "A": "The author believes European governments have successfully eradicated Islamist infiltration.",
+            "B": "The author suggests that the burden of proving innocence is creating alienation among Muslims.",
+            "C": "The author implies that the accusations against all Islamic organizations are entirely unfounded.",
+            "D": "The author concludes that Islamic schools are inherently superior in educating immigrant youth."
+          },
+          "answer": "B",
+          "explanation": "文章提到，由于一些政府针对机构的禁令（如荷兰法院驳回对学校的指控），这引发了穆斯林群体的“猎巫”感。文中提到相关组织必须不断“跨越障碍”来证明自己并未与激进分子勾结，说明这种审查压力加剧了该群体的疏离感。"
+        }
+      ]
+    },
+    {
+      "title": "Theodore Roosevelt Taylor",
+      "article_update_date": "04.11.2026",
+      "source_journal": "New Yorker",
+      "body_text": "Theodore Roosevelt Taylor Poems Theodore Roosevelt Taylor By Tyehimba Jess April 06, 2026 April 12, 1915–December 17, 1975 Hound Dog once confessed: I can’t play shit , but I sure make it sound good . Others just said he played the hell out’ that guitar. Yes, it’s true the hell was played out of his guitar on the daily—along with five hundred miles of barbed wire wind whistle, a murder of crow caws, twenty pounds of brass-knuckle jangles, and forty acres of midnight cricket song. When he dragged the holler of his humbucker through wire and magnified coil, folks swore they’d heard the muffled motor rumbles of seven funeral cars, the spinning chambers of eleven .44s and a mother’s murmured-up prayers echoed off plaster-cast praying hands. In short, he slid metal on string till the devil got tickled and laughed up the Blues. Born a polydactyl, his twelve fingers flayed the six-string till one night he freed himself of his right hand’s sixth nub. Sawed it off drunk on something loaded with more proof than sense. Each boogie he played held a secret line dance for the sacrificial digit, its spirit hovering up in the stratosphere somewhere with his howl. In a distant forest, the monument to his reckless fretwork rustles in the treetops and hums with beehives like the watts in a worn, weary amp burning, crackling for release.",
+      "difficulty_constant": 12.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, how did others perceive Hound Dog's guitar playing?",
+          "options": {
+            "A": "He was considered a technically perfect musician.",
+            "B": "His performance was described as intense and impressive.",
+            "C": "He was criticized for lacking formal training and structure.",
+            "D": "He was thought to be too loud and disruptive to the audience."
+          },
+          "answer": "B",
+          "explanation": "The text states 'Others just said he played the hell out’ that guitar', which is an idiomatic expression meaning he played with great energy, passion, and skill, making option B the best fit."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply by the imagery used to describe Hound Dog's guitar sound?",
+          "options": {
+            "A": "His music was chaotic and lacked any cohesive theme.",
+            "B": "His style was deeply connected to the harsh realities and imagery of the American landscape.",
+            "C": "He used expensive and modern electronic equipment to achieve his sound.",
+            "D": "His sound was intended to evoke feelings of calm and spiritual meditation."
+          },
+          "answer": "B",
+          "explanation": "The author uses vivid imagery like 'barbed wire', 'murder of crow caws', and 'funeral cars' to describe his sound, suggesting a gritty, atmospheric connection to the landscape and life experiences, rather than mere technical prowess."
+        },
+        {
+          "q_number": 3,
+          "stem": "What was the significance of Hound Dog's right hand's sixth nub?",
+          "options": {
+            "A": "It allowed him to play chords that were impossible for others.",
+            "B": "He viewed it as a burden that hindered his musical expression.",
+            "C": "He sacrificed it as a symbolic or literal act that haunted his later music.",
+            "D": "It was surgically removed to cure a medical condition."
+          },
+          "answer": "C",
+          "explanation": "The text notes he 'freed himself' of the digit and that 'each boogie he played held a secret line dance for the sacrificial digit', implying it was a transformative, albeit reckless, sacrifice that became a motif in his music."
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the author's tone in this passage?",
+          "options": {
+            "A": "Clinical and objective.",
+            "B": "Skeptical and dismissive.",
+            "C": "Mythopoetic and reverent.",
+            "D": "Critical and condemnatory."
+          },
+          "answer": "C",
+          "explanation": "The author uses highly figurative and lyrical language (mythopoetic) to elevate the subject of Hound Dog, treating his life and music with a sense of awe and spiritual depth (reverent)."
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred from the final paragraph regarding the legacy of Hound Dog?",
+          "options": {
+            "A": "His music has been forgotten by modern society.",
+            "B": "His spirit is believed to reside within the natural environment.",
+            "C": "His fretwork was considered a danger to the environment.",
+            "D": "He eventually achieved peace and stopped performing his 'reckless' songs."
+          },
+          "answer": "B",
+          "explanation": "The passage suggests that the 'monument to his reckless fretwork' rustles in the trees and hums, creating a metaphor where his musical energy persists in nature, implying his spirit/art remains connected to the world around him."
+        }
+      ]
+    },
+    {
+      "title": "Chinese, Russian and Indian ministers meet",
+      "article_update_date": "03.25.2026",
+      "source_journal": "China Daily",
+      "body_text": "Before the start of the 15th China-Russia-India trilateral meeting, Foreign Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed a range of issues and pledged to implement and strengthen outcomes of BRICS and the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and India agreed to maintain regional security and economic architecture in the Asia-Pacific, according to a joint statement issued on Monday after the 15th trilateral meeting of the foreign ministers of the three countries. Maintaining regional security and economic architecture that is \"open, inclusive and based on multilateralism and universally recognized principles of international law\" is imperative for lasting peace and stability in the region, the statement said. The three countries emphasized the need for coordination and cooperation in various regional forums and organizations such as the East Asia Summit to maintain regional peace and stability and to promote regional development and prosperity. During the one-day meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian counterpart Sushma Swaraj discussed a wide range of global and regional issues of common concern, according to the statement. The three countries reiterated the importance they attached to cooperation and strategic partnership within BRICS. \"We will work together to implement all outcomes of BRICS summits to strengthen cooperation in economic, political, security and people-to-people fields, so as to usher in the second golden decade of BRICS cooperation,\" said the statement, while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen in September. The three countries also attached special importance to the joint work within the Shanghai Cooperation Organization, saying the SCO is an important instrument in promoting multilateral political, security, economic and people-to-people interaction in the region. Describing the Russia-India-China trilateral format as a platform to foster closer dialogue and practical cooperation in identified areas among the three countries, the joint statement said such cooperation is not directed against any other country. \"We wish to strengthen the trilateral dialogue for consultation and coordination on regional and global issues of mutual interest in the spirit of mutual understanding and trust,\" it said. \"Our cooperation is conducive to maintaining international and regional peace and stability, and promoting global economic growth and prosperity,\" it added. XINHUA",
+      "difficulty_constant": 7.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary purpose of the 15th China-Russia-India trilateral meeting according to the passage?",
+          "options": {
+            "A": "To form a new military alliance against external threats in the Asia-Pacific.",
+            "B": "To discuss regional and global issues and strengthen cooperation within existing organizations like BRICS.",
+            "C": "To establish a new economic organization to replace the Shanghai Cooperation Organization.",
+            "D": "To finalize an agreement regarding the specific territory disputes between the three nations."
+          },
+          "answer": "B",
+          "explanation": "文章提到三国外长讨论了全球和区域问题，并重申了在金砖国家（BRICS）和上海合作组织（SCO）框架下加强合作的重要性，因此B选项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the joint statement, the regional security architecture should be built on which of the following?",
+          "options": {
+            "A": "Bilateral agreements and exclusive security pacts.",
+            "B": "Openness, inclusiveness, and universally recognized international law.",
+            "C": "The total exclusion of non-regional powers from Asian affairs.",
+            "D": "The dominance of a single economic power in the region."
+          },
+          "answer": "B",
+          "explanation": "文章明确指出区域安全架构应是“open, inclusive and based on multilateralism and universally recognized principles of international law”，故选B。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the stated goal for the BRICS partnership following the Xiamen Summit?",
+          "options": {
+            "A": "To restructure the political landscape of the participating countries.",
+            "B": "To decrease reliance on regional organizations like the SCO.",
+            "C": "To usher in the second golden decade of cooperation across various fields.",
+            "D": "To prioritize economic growth over political and security cooperation."
+          },
+          "answer": "C",
+          "explanation": "文中明确引用联合声明内容：“to usher in the second golden decade of BRICS cooperation”，旨在加强各领域的合作，因此C项最准确。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the joint statement characterize the China-Russia-India trilateral format?",
+          "options": {
+            "A": "As an antagonistic alliance aiming to challenge other global powers.",
+            "B": "As a platform for dialogue and practical cooperation not directed at any third party.",
+            "C": "As an exclusive club meant to replace the East Asia Summit.",
+            "D": "As a temporary solution to the security challenges in the region."
+          },
+          "answer": "B",
+          "explanation": "文章提到该合作机制“is not directed against any other country”，旨在促进对话与务实合作，故B项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the nature of the relationship between China, Russia, and India based on the text?",
+          "options": {
+            "A": "They are in complete agreement on every global political issue.",
+            "B": "They aim to use the trilateral format to build mutual trust and consult on mutual interests.",
+            "C": "They are planning to merge their economies into a single market.",
+            "D": "Their main goal is to isolate themselves from Western economic influence."
+          },
+          "answer": "B",
+          "explanation": "文中指出三国希望在“mutual understanding and trust”的精神下加强对话与协调，B项体现了这一协作关系的核心本质。"
+        }
+      ]
+    }
+  ]
+}
