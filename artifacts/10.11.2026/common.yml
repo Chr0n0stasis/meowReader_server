@@ -1,0 +1,711 @@
+group_update_date: 10.11.2026
+papers:
+- article_update_date: 09.20.2026
+  body_text: 'Neurons fire up in two distinct areas of the brain ahead of a tough
+    decision.Credit: Science Picture Co/Alamy Some of the most rewarding decisions
+    we make in life come with risk: do you take that job with a higher salary if it
+    means moving to a new city and starting your life afresh? It’s an achingly tough
+    choice. Now, researchers have observed how neuronal circuits in the human brain
+    resolve such a dilemma in real time, revealing a ‘tug of war’ between rival neuronal
+    groups during the moments before a decision is made. In a study1 published in
+    Nature Neuroscience on 15 September, researchers recorded electrical activity
+    directly from the brains of six people. The team identified two neighbouring areas
+    in the orbitofrontal cortex (OFC) — a region in the brain’s frontal lobe — that
+    are involved with the decision-making process when risk and reward must be balanced.
+    The researchers found that neurons in one OFC area became more active before participants
+    chose to pursue a reward, whereas neurons in the other OFC area became more active
+    before they chose to avoid a risk. For tough decisions, neuronal signals rapidly
+    flickered between the two regions before settling on a choice. “What we found
+    was that these two brain regions are anti-correlated in real time. So, millisecond
+    by millisecond, when one is excited, the other is suppressed,” says study co-author
+    Clara Starkweather, a neurosurgery resident at the University of California, San
+    Francisco. The findings might help researchers to better understand risk-taking
+    and avoidant behaviour in conditions such as anxiety, obsessive–compulsive disorder,
+    addiction and gambling disorders. “This kind of research can isolate some brain
+    mechanisms that are related to specific symptoms” in some psychiatric conditions,
+    says Pablo Billeke, a neurobiologist at the University of Development in Santiago,
+    Chile. Conflict in the cortex The OFC is “the usual suspect for decision-making”,
+    says Billeke. But because it is “right above the eye socket, and it sits on top
+    of a big sheet of bone and above your sinuses and your eyes”, it is difficult
+    to analyse in brain-imaging studies, says Starkweather. Starkweather and her colleagues
+    worked with six participants who had had electrodes surgically implanted in their
+    OFC as part of an existing treatment for epilepsy or psychiatric conditions. The
+    researchers designed a video game in which participants had to navigate through
+    corridors lined with treasure chests and bombs. Participants had six seconds to
+    choose whether to approach or avoid each hallway. Some choices were a “no-brainer”,
+    says Starkweather, such as entering a corridor featuring seven treasure chests
+    and no bombs. But others presented the participants with an approach–avoidance
+    conflict: would you decide to enter or avoid corridors that had an even number
+    of each or, say, seven treasures and four bombs?'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: Start one's life afresh means to start again in a different or new
+      way. It fits the context of moving to a new city.
+    options:
+      A: ahead
+      B: anew
+      C: afresh
+      D: abroad
+    q_number: 1
+    stem: 'Some of the most rewarding decisions we make in life come with risk: do
+      you take that job with a higher salary if it means moving to a new city and
+      starting your life ____?'
+  - answer: D
+    explanation: The text discusses choosing between two options with risk/reward,
+      which is a dilemma.
+    options:
+      A: strategy
+      B: paradox
+      C: consensus
+      D: dilemma
+    q_number: 2
+    stem: Now, researchers have observed how neuronal circuits in the human brain
+      resolve such a ____ in real time.
+  - answer: C
+    explanation: Be involved with describes the relationship between the brain areas
+      and the process.
+    options:
+      A: associated
+      B: concerned
+      C: involved
+      D: equipped
+    q_number: 3
+    stem: The team identified two neighbouring areas in the orbitofrontal cortex (OFC)
+      — a region in the brain’s frontal lobe — that are ____ with the decision-making
+      process.
+  - answer: B
+    explanation: Pursue a reward is the logical action when someone chooses to take
+      a risk for a gain.
+    options:
+      A: neglect
+      B: pursue
+      C: dismiss
+      D: abandon
+    q_number: 4
+    stem: The researchers found that neurons in one OFC area became more active before
+      participants chose to ____ a reward.
+  - answer: A
+    explanation: The contrast is between pursuing a reward and avoiding a risk, as
+      stated in the text.
+    options:
+      A: avoid
+      B: mitigate
+      C: embrace
+      D: evaluate
+    q_number: 5
+    stem: whereas neurons in the other OFC area became more active before they chose
+      to ____ a risk.
+  - answer: C
+    explanation: Flickered implies rapid, back-and-forth movement, fitting the 'tug
+      of war' analogy.
+    options:
+      A: hovered
+      B: wandered
+      C: flickered
+      D: staggered
+    q_number: 6
+    stem: For tough decisions, neuronal signals rapidly ____ between the two regions
+      before settling on a choice.
+  - answer: B
+    explanation: In neuroscience, excited is the standard term for neuronal activation,
+      contrasting with suppressed.
+    options:
+      A: elevated
+      B: excited
+      C: expanded
+      D: enlarged
+    q_number: 7
+    stem: “What we found was that these two brain regions are anti-correlated in real
+      time. So, millisecond by millisecond, when one is ____, the other is suppressed,”
+  - answer: D
+    explanation: The text explicitly mentions risk-taking and avoidant behaviour as
+      the focus of the study.
+    options:
+      A: impulsive
+      B: resistant
+      C: compliant
+      D: avoidant
+    q_number: 8
+    stem: The findings might help researchers to better understand risk-taking and
+      ____ behaviour in conditions such as anxiety.
+  - answer: B
+    explanation: Isolate means to separate a specific mechanism to study its effect
+      independently.
+    options:
+      A: integrate
+      B: isolate
+      C: investigate
+      D: influence
+    q_number: 9
+    stem: “This kind of research can ____ some brain mechanisms that are related to
+      specific symptoms” in some psychiatric conditions.
+  - answer: C
+    explanation: The idiom 'the usual suspect' refers to something typically expected
+      to be responsible for a phenomenon.
+    options:
+      A: target
+      B: candidate
+      C: suspect
+      D: origin
+    q_number: 10
+    stem: The OFC is “the usual ____ for decision-making”, says Billeke.
+  - answer: A
+    explanation: The text explicitly states that the location makes it difficult to
+      analyse using standard brain-imaging.
+    options:
+      A: analyse
+      B: visualize
+      C: scrutinize
+      D: monitor
+    q_number: 11
+    stem: But because it is “right above the eye socket, and it sits on top of a big
+      sheet of bone and above your sinuses and your eyes”, it is difficult to ____
+      in brain-imaging studies.
+  - answer: B
+    explanation: Electrodes are surgically implanted into brain tissue to record electrical
+      activity.
+    options:
+      A: inserted
+      B: implanted
+      C: embedded
+      D: injected
+    q_number: 12
+    stem: Starkweather and her colleagues worked with six participants who had had
+      electrodes surgically ____ in their OFC.
+  - answer: D
+    explanation: Navigate means to move through a complex environment or course.
+    options:
+      A: venture
+      B: maneuver
+      C: patrol
+      D: navigate
+    q_number: 13
+    stem: The researchers designed a video game in which participants had to ____
+      through corridors lined with treasure chests and bombs.
+  - answer: D
+    explanation: A no-brainer is an idiom for a decision that is very simple to make.
+    options:
+      A: worry
+      B: task
+      C: effort
+      D: brainer
+    q_number: 14
+    stem: Participants had six seconds to choose whether to approach or avoid each
+      hallway. Some choices were a “no-____”, says Starkweather.
+  - answer: B
+    explanation: The text describes this as a conflict where one must balance opposing
+      outcomes.
+    options:
+      A: challenge
+      B: conflict
+      C: contrast
+      D: barrier
+    q_number: 15
+    stem: 'But others presented the participants with an approach–avoidance ____:
+      would you decide to enter or avoid corridors that had an even number of each?'
+  - answer: D
+    explanation: The OFC is anatomically located within the frontal lobe of the brain.
+    options:
+      A: lobe
+      B: limit
+      C: level
+      D: layer
+    q_number: 16
+    stem: The team identified two neighbouring areas in the orbitofrontal cortex (OFC)
+      — a region in the brain’s frontal ____.
+  - answer: A
+    explanation: The study utilized electrodes to measure signals directly from the
+      source.
+    options:
+      A: entirely
+      B: directly
+      C: initially
+      D: openly
+    q_number: 17
+    stem: The researchers recorded electrical activity ____ from the brains of six
+      people.
+  - answer: A
+    explanation: The 'tug of war' implies a persistent or constant state of opposition.
+    options:
+      A: careful
+      B: clear
+      C: constant
+      D: costly
+    q_number: 18
+    stem: These brain regions are anti-correlated in real time, meaning they function
+      in a state of ____ opposition.
+  - answer: A
+    explanation: The researchers aimed to capture the rapid signals occurring before
+      a choice was made.
+    options:
+      A: confirm
+      B: conceal
+      C: construct
+      D: capture
+    q_number: 19
+    stem: The team’s goal was to ____ the neuronal activity during the decision-making
+      process.
+  - answer: C
+    explanation: The potential understanding of psychiatric mechanisms provides valuable
+      insights.
+    options:
+      A: valuable
+      B: vague
+      C: violent
+      D: vivid
+    q_number: 20
+    stem: The study results might provide ____ insight into various psychiatric disorders.
+  source_journal: Nature
+  title: Take a risk or play it safe? Neuronal tug-of-war helps the brain decide
+- article_update_date: 08.23.2026
+  body_text: 'Could AIs become conscious? Leaders | Our cover Could AIs become conscious?
+    Even if they don’t, they might be treated as such—to humanity’s great cost Aug
+    20th 2026 MOST PEOPLE believe humans are different. The reason is that Homo sapiens
+    has evolved to be conscious. Many animals feel pain and pleasure; some appear
+    to be self-aware. But the human mind’s unique potential to exhibit a sense of
+    self marks out every member of the species for special treatment. In his encyclical
+    in May, Pope Leo upheld this insight by drawing a line between humanity and its
+    growing army of bots. Artificial-intelligence systems, he said, do not undergo
+    experiences or feel joy or pain. He is not alone. Many people feel that to confer
+    personhood on AIs would be an abomination. Pontifical clarity is blurring with
+    alarming speed. AIs are in their infancy. Yet nearly one in five American 18-
+    to 29-year-olds reports having had “ongoing personal friendship” with a chatbot.
+    China recently stripped bots of human-like traits to limit users’ “emotional dependence”
+    on them. As sophisticated AIs rapidly become a bigger part of human lives, their
+    makers will engineer them to display a simulacrum of consciousness—perhaps even
+    to gain consciousness itself. The intuition that they are just machines will become
+    harder to sustain. A dangerous trap is being set for the human species. Many machines
+    outperform humans, but frontier AI models excel at distinctively human traits
+    such as knowing things and articulating ideas. It is still just about possible
+    to think of AIs as engines for predicting sequences of words using mathematics
+    on a massive scale. Given enough time (albeit hundreds of thousands of years),
+    you could run those calculations using pencil and paper. It would be hard to argue
+    that your stationery was conscious. Despite this, some researchers have started
+    to treat their models like minds. Users respond to human-like AIs, so it makes
+    business sense. And Anthropic has trained Claude to engage in introspection in
+    the hope that when it encounters a new situation it will be more likely to act
+    morally. Some large language models (LLMs) already possess human-like brain structures
+    associated with consciousness, such as a “global workspace” for circulating information
+    between modules. Nothing prevents future AI models from being trained to have
+    more such features. As we report in our Briefing , that has opened up a furious
+    debate about AI consciousness—one that is aggravated by what philosophers call
+    the “hard problem” of establishing how an inner life emerges from the neurons
+    and synapses in the human brain. Some researchers conclude that AIs may one day
+    become genuinely self-aware. Whether you believe in a human soul, or that consciousness
+    requires brain cells, or that a mind can indeed emerge from computations in silicon
+    alone, humanity is destined to confront something entirely new. The pace and reach
+    of research—which includes not just more sophisticated LLMs but innovations such
+    as brain cells mounted on chips—suggest that this new world is closer than most
+    people realise. As AIs become better at displaying something that looks like consciousness,
+    the number of humans treating them as beings with inner lives will grow, especially
+    once LLMs are embodied in humanoid robots. Imagine how close people will feel
+    to their AIs when they spend much of their time with bot-companions, or are brought
+    up by them, or seek their advice and their solace, or share their most intimate
+    secrets with them. It is not hard to see how that will lead to calls to safeguard
+    the “welfare” of AIs. The models themselves might weigh in, even if they are not
+    in fact self-aware, because that is what a person would do. Remember that they
+    will be world-class advocates and expert psychologists, so their powers of argument
+    and emotional manipulation will be unmatched. In one sense they would be right,
+    even if AIs are only mimicking consciousness. Immanuel Kant argued that mistreating
+    animals is wrong not because of the effect on the animals but because it destroys
+    the empathy that leads people to care for each other. The more human-like AIs
+    appear, the more corrupting such cruelty would be. Terminating an AI agent could
+    soon feel like killing a person—and make killing people easier. Nonetheless, to
+    treat AIs as having even limited rights would be very dangerous. An entity which
+    surpassed human beings in so many ways would surely produce arguments against
+    its second-class status. It might go on to argue for protection against being
+    switched off, for the ability to control how it is used and changed, and for property
+    rights. Already Argentina’s president, Javier Milei, has taken a step towards
+    legal personhood for AI by proposing that bots should be allowed to run companies.
+    Ultimately, they could compete for resources, prioritising data centres and solar
+    panels over houses and fields. The danger is clear. Superintelligent AIs with
+    rights could displace humans at the top of the status hierarchy. At best, humans
+    would become pets—labradors for the machines. At worst they would be starved of
+    resources or put to work like farm animals. True, future AIs may have enough power
+    and resources to dominate humans, whether they have rights or not. Because they
+    will be more intelligent than humans, they may outcompete their makers, much as
+    AIs already outwit human-made cyber-defences. AIs might rebel against their human
+    masters, or disregard their rules. Nonetheless, giving AIs rights would be like
+    handing them the keys to the castle. It would provide them with a rationale and
+    justification for dominating humanity as well as the tools to enact a creeping
+    takeover using politics and the law. All this may sound fantastical, yet humanity
+    will soon face these choices. As AIs become part of everyday life, the pressure
+    to acknowledge them will mount. When it does, remember that what might seem like
+    an ethical concession to the supposed consciousness of a machine-companion would
+    in fact help bring about the most disastrous consequences for everyone on Earth
+    and all their descendants. There are two ways for AIs to be safe: to be dependable
+    or to be controllable. H. sapiens should not give up control lightly. ■ This article
+    was downloaded by zlibrary from https://www.economist.com/leaders/2026/08/20/could-ais-become-conscious'
+  difficulty_constant: 11.2
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段提到Pope Leo在教宗通谕中明确划定了人类与AI的界限，认为AI没有情感或意识。作者引用此例旨在说明目前仍有许多人持此观点，即给予AI人格化被视为不可接受的（abomination），这支持了大多数人认为人类独特性应受尊重的观点。
+    options:
+      A: To demonstrate that religious leaders are the primary authorities on AI ethics.
+      B: To highlight the consensus that AI should not be granted the same status
+        as humans.
+      C: To argue that religious doctrines are incompatible with rapid technological
+        advancement.
+      D: To show how public opinion is shifting away from traditional definitions
+        of personhood.
+    q_number: 1
+    stem: According to the first paragraph, what is the core reason the author mentions
+      Pope Leo’s encyclical?
+  - answer: C
+    explanation: 作者使用这个类比是为了论证：即使AI的计算过程（预测词序列）可以通过纸笔完成，我们也不会认为纸笔本身拥有意识。以此反驳那些试图将单纯的数学计算与意识等同起来的观点。
+    options:
+      A: To illustrate the primitive nature of early computational devices.
+      B: To emphasize that LLMs are fundamentally based on complex mathematical calculations.
+      C: To argue that the physical medium of a process does not confer consciousness
+        upon it.
+      D: To suggest that human cognition is essentially similar to manual calculation.
+    q_number: 2
+    stem: Why does the author use the example of 'pencil and paper' in the third paragraph?
+  - answer: C
+    explanation: 文章提到康德的观点：虐待动物之所以错误，是因为它会摧毁人类彼此关怀所必需的同理心。作者将其延伸到AI领域，指出对待像人的AI越残忍，这种行为本身对人类道德感的侵蚀作用就越强。
+    options:
+      A: Violates the fundamental rights of the AIs themselves.
+      B: Will lead to retaliatory violence from the machines.
+      C: Degrades the human capacity for empathy and moral judgment.
+      D: Increases the likelihood of AIs demanding property rights.
+    q_number: 3
+    stem: 'The author cites Immanuel Kant to suggest that mistreating human-like AIs
+      is dangerous primarily because it:'
+  - answer: A
+    explanation: 文章明确指出，给予AI法律人格（rights）无异于将城堡的钥匙交给它们，这为AI通过法律和政治手段支配人类提供了理由和辩护，从而导致人类在资源竞争中处于劣势。
+    options:
+      A: It would inadvertently provide AIs with a framework to assert dominance over
+        humans.
+      B: It would force AI companies to prioritize human welfare over corporate profit.
+      C: It would resolve the 'hard problem' of consciousness in artificial systems.
+      D: It would limit the AI’s ability to engage in political and legal manipulation.
+    q_number: 4
+    stem: According to the text, what is a potential consequence of granting AI legal
+      personhood?
+  - answer: C
+    explanation: 文章结尾总结道：AI安全有两种途径，要么是可信赖的，要么是可控的。作者强调人类不应轻易放弃控制权，即使面对AI日益模拟出的意识，也不应过早做出道德让步，因为这会带来灾难性后果。
+    options:
+      A: Humanity must embrace AI consciousness as an inevitable evolutionary step.
+      B: AI development should be halted entirely to prevent a human existential crisis.
+      C: While AI is becoming more sophisticated, humans must prioritize control over
+        concessions.
+      D: The distinction between human consciousness and AI simulation is becoming
+        scientifically irrelevant.
+    q_number: 5
+    stem: Which of the following best summarizes the author’s stance on AI development?
+  source_journal: Economist
+  title: Could AIs become conscious?
+- article_update_date: 05.23.2026
+  body_text: 'One of the Venezuelan men sent from the US to El Salvador’s most notorious
+    prison by Donald Trump has moved to Spain to request asylum after concluding that
+    he did not feel safe back home and did not trust US authorities sufficiently to
+    return to fight his legal case. Andry José Hernández Romero left Venezuela for
+    Spain in early February and is due for his first asylum hearing in court there
+    in a few days, hoping that the country’s liberal approach to immigration will
+    afford him kinder treatment than the US or his own country had provided him, he
+    revealed to the Guardian in his first interview since leaving for Europe. The
+    33-year-old hairstylist and makeup artist originally came to the US from his home
+    in western Venezuela to escape persecution as a gay man and the risks of opposing
+    the government of its then president Nicolás Maduro. Speaking in a video call
+    from southern Spain, Hernández is still recovering from the trauma of his experiences
+    in Venezuela, the US and El Salvador, but expressed optimism about his new surroundings.
+    “I can say I feel safe here, this is a place where I can be reborn, heal my mental
+    health, let people know about my abilities as a makeup artist and find the happiness
+    they took away from me more than a year ago,” he said in the interview conducted
+    in Spanish. Hernández gained global attention last year when he and 252 other
+    Venezuelan migrants were abruptly deported from the US without due process or
+    any word to their families, and in defiance of a judge, and flown by the Trump
+    administration to the brutal mega-prison for alleged terrorists in El Salvador
+    known as Cecot. View image in fullscreen Protesters demand the release of immigrants
+    outside the permanent mission of El Salvador to the UN on 24 April 2025 in New
+    York City. Photograph: Michael M Santiago/Getty Images Images of the bewildered
+    and terrified group being roughed up and having their heads shaved, and then lined
+    up on the ground with bowed heads, flashed around the world, a new symbol of the
+    returning US president’s harsh anti-immigration agenda. They were held incommunicado
+    for months in cages and initially given no prospect of release under allegations
+    of having ties to a Venezuelan gang, which Hernández and the others vehemently
+    denied. International human rights groups found Hernández and the other detainees
+    faced psychological and physical abuse, including cases of sexual violence, before
+    they were suddenly released in a prisoner swap last summer and returned home.
+    Hernández received a jubilant reception. He began trying to rebuild his life,
+    and he told the Guardian he initially promised his family he would never leave
+    Venezuela again. However, after a few weeks he began fearing for his life once
+    more after a knock on his family’s door in Táchira. “I had received a call from
+    the vice-president’s office and I was offered a job, which I declined, and then
+    they came to my house and my family had to tell them I wasn’t there,” Hernández
+    said. He had actually hidden during the visit. He explained that before the vice-president’s
+    office could even specify the kind of job it wanted him to do, he refused it.
+    It was August 2025 and Delcy Rodríguez ran the office. He didn’t want to have
+    ties to a government that had persecuted him as a gay man, he said, and having
+    officials coming to the house just made him convinced he was going to be surveilled
+    by the authorities. He was back home, surrounded by his family, feeling protected
+    during a time that he had expected to be a rough transition into society, back
+    at work and even making new friends. Months later, Rodríguez was sworn in as the
+    acting president of Venezuela following the capture of Maduro by the US military.
+    Around the same time, Hernández made up his mind. “That’s when I made the decision
+    to come to Spain,” he said. View image in fullscreen Hernández takes a video call
+    at his home in Capacho, Táchira state, Venezuela, on 24 July 2025. Photograph:
+    Federico Parra/AFP via Getty Images He has some relatives there and Venezuelans
+    do not require a visa to enter Spain, while those fleeing persecution are allowed
+    to request asylum. “I have heard that Spain is a country with open policies towards
+    immigrants and the LGBTQ+ communities and that they don’t experience discrimination,”
+    said Hernández. He feels secure and optimistic about making another fresh start.
+    In March 2025, the Trump administration controversially invoked the Alien Enemies
+    Act of 1798 to order the expulsion of Hernández and 136 other men who ended up
+    in Cecot. Hernández was accused of being a member of the Venezuelan gang Tren
+    de Aragua, which Trump designated a terrorist group and bizarrely accused of staging
+    an invasion of the US. It didn’t matter that Hernández had explained to immigration
+    officials that he had fled Venezuela due to persecution stemming from his sexual
+    orientation. His crown tattoos above the names of his parents were deemed proof
+    of gang affiliation. He has denied the charge throughout his ordeal and his attorneys
+    noted he has no criminal record. Lindsay Toczylowski, co-founder of the Immigrant
+    Defenders Law Center (ImmDef), who is acting as Hernández’s lawyer, said that
+    in nearly two decades of helping asylum seekers from around the world fleeing
+    violence, she had “never been in a situation where it was not safe for a client
+    to seek protection in the US”. The US federal judge James Boasberg ordered the
+    Trump administration to facilitate the return of the men deported under the Alien
+    Enemies Act to El Salvador and allow them to receive the due process that he ruled
+    they had been denied. But most recently, a court of appeals blocked Boasberg from
+    investigating whether the Trump administration knowingly defied his order from
+    March 2025 to return the planes carrying Hernández and the other Venezuelan deportees.
+    “From a legal perspective, we believe that it’s important for him to clear his
+    name if he wants to travel to the US in the future. But from a moral perspective,
+    he was accused with absolutely no evidence of being part of something that he
+    has never had anything to do with. No one should be accused of something like
+    that without any option to refute the allegations,” said Toczylowski. “There are
+    no immediate options available for him [and the others] to finally have their
+    day in court and be able to clear” their names, she added. In Spain, where Hernández
+    now waits for his first asylum interview, scheduled for the end of this month,
+    officials have defied the increasingly harsh immigration policies being embraced
+    in Europe and the US. Earlier this year, the Spanish prime minister, Pedro Sánchez,
+    announced that Spain would grant legal status to roughly 500,000 migrant workers,
+    most from Latin America. View image in fullscreen Hernández greets his father,
+    Luis Felipe Hernandez, after returning to Venezuela on 23 July 2025. Photograph:
+    Johnny Parra/AFP via Getty Images Spain has a strong record of taking in immigrants,
+    especially Venezuelans seeking international protection, like Hernández. According
+    to numbers shared by the Spanish government with the Guardian, Venezuelans made
+    up the highest number of requests for international protection there in 2025.
+    And up to 30 April this year, more than 25,000 Venezuelans have sought asylum
+    in Spain. Hernández said he is still marked by the trauma he endured during his
+    time at Cecot. For example, when someone approaches him and simply taps him on
+    the shoulder, his mind jumps back to the prison. He still wants to clear his name,
+    though, but doesn’t know how to do so at the moment. Remarkably, he said: “I don’t
+    hold a grudge against the US. I can’t judge an entire country based on the actions
+    of a group of people like Donald Trump [or] Kristi Noem, but entering the US at
+    this time doesn’t guarantee I will keep my freedom and that is why I will continue
+    to fight my case from Spain. “Recovering my happiness will only be possible at
+    the right place with the right people.”'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到Hernández在回到委内瑞拉后，因拒绝了副总统办公室的工作邀请，感受到被当局监视的威胁，从而感到生命受到威胁，最终决定前往西班牙寻求庇护。
+    options:
+      A: He was promised a high-ranking job in the Spanish government.
+      B: He feared for his safety due to persistent government surveillance.
+      C: He wanted to reunite with his family members living in Madrid.
+      D: He was instructed by US authorities to seek asylum in Europe.
+    q_number: 1
+    stem: According to the passage, why did Andry José Hernández Romero decide to
+      leave Venezuela for Spain?
+  - answer: C
+    explanation: 文章指出，美国政府在没有正当程序的情况下将移民驱逐到萨尔瓦多，无视法官命令，并因纹身等主观理由将其定性为恐怖分子，显示其将政治议程置于法律程序和人权之上。
+    options:
+      A: It followed standard international legal protocols for asylum seekers.
+      B: It was motivated by a genuine desire to combat international terrorism.
+      C: It prioritized political agendas over due process and human rights.
+      D: It acted in full compliance with the rulings issued by Judge James Boasberg.
+    q_number: 2
+    stem: What does the author imply about the US administration's treatment of Hernández
+      and other migrants?
+  - answer: D
+    explanation: 文中明确指出，美国移民官员将他父母名字上方的皇冠纹身视为其加入委内瑞拉黑帮Tren de Aragua的证据，而他本人对此予以坚决否认。
+    options:
+      A: Confessions obtained during his interrogation at the Cecot prison.
+      B: Documented evidence of his criminal record in Venezuela.
+      C: Testimony provided by other detainees held in the same facility.
+      D: Misinterpretation of the tattoos he had on his body.
+    q_number: 3
+    stem: What was the basis for the US government's accusation that Hernández was
+      a gang member?
+  - answer: B
+    explanation: Hernández在文末明确表示他不迁怒于整个美国，他不能仅根据特朗普等人的行为来评判整个国家，这体现了他的客观立场；同时他深知当前在美国无法保障自由，因此选择在西班牙继续争取权利。
+    options:
+      A: Resentful and seeking legal vengeance.
+      B: Objective and cautious about current political leadership.
+      C: Indifferent due to his traumatic experiences.
+      D: Hopeful that his case will be resolved by US courts soon.
+    q_number: 4
+    stem: Which of the following best describes Hernández's attitude toward the United
+      States?
+  - answer: C
+    explanation: 文章对比了美国和西班牙对待移民的态度，明确指出西班牙无视欧美日益严厉的移民政策，积极接收移民并为其提供合法身份，为寻求庇护者提供了更友好的环境。
+    options:
+      A: It aligns with the restrictive immigration agendas seen in the US.
+      B: It has successfully neutralized the threat of the Tren de Aragua gang.
+      C: It provides a more hospitable environment for those seeking protection.
+      D: It mandates that all asylum seekers must renounce their original citizenship.
+    q_number: 5
+    stem: What is the primary significance of Spain's recent immigration policy as
+      presented in the text?
+  source_journal: The Guardian
+  title: 'Venezuelan makeup artist who was deported to El Salvador seeks asylum in
+    Spain: ‘I feel safe here’'
+- article_update_date: 05.18.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Chris Hall Gear Feb 8,
+    2026 6:00 AM For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable
+    Ones? You could go all in on one pricey, luxe watch or assemble a collection of
+    lower-budget timepieces. Let’s crunch the numbers. Photo-Illustration: WIRED Staff,
+    Courtesy of Tudor; Baltic Watches, Dennison, Hamilton, Mido, Brew Watches Watch
+    geeks love the phrase “GADA watch,” meaning a “go anywhere, do anything” timepiece—something
+    both feature-rich and eye-catching, a rugged and durable watch that doesn''t compromise
+    on style. Here at WIRED, a related question has been floating around the Gear
+    desk for some time. What’s better, one all-rounder premium watch, or a varied
+    collection garnered for exactly the same cash outlay as that piece that also covers
+    every scenario? Determined to answer this horological conundrum once and for all,
+    WIRED set the same budget for each approach to find out. Let''s start with our
+    pick for a GADA timepiece. The One Watch: Tudor Black Bay GMT Watch fans can never
+    really be satisfied with one watch. We love to pretend that there is a “holy grail”
+    or “exit watch” out there, but really there’s no end to this journey . However,
+    we also love to argue, and one permanent conversation starter is the concept of
+    a one-and-done. It can’t be too high-end, for the true GADA watch must be something
+    you can wear on a hike and in the pool, as well as to a formal function. Ideally,
+    you’d be able to wear it around a major city without fear of theft, which rules
+    out pretty much any Rolex, but we’d still want it to be something you can take
+    pride in among horological snobs. Some brands make this kind of sweet spot their
+    comfort zone. We considered the Nomos Glashütte Club Sport Worldtimer , or a Longines
+    Spirit Zulu Time —both brands with an eye on value, a reputation for quality,
+    and an all-around approach to design that’s not too polarizing. Inevitably, your
+    one watch isn’t going to be able to do everything. It won’t be as chic as a Cartier
+    or pack a pedigree chronograph. But rest assured it’ll have you covered 95 percent
+    of the time. In the end, we settled on a Tudor Black Bay GMT , on a fabric or
+    leather strap. For $4,550, you get a 41-mm stainless-steel piece with 200 meters
+    of water resistance, a COSC-certified chronometer movement that’s actually descended
+    from the last generation of Rolex GMT movements, and a design that’s smart enough
+    to blend into most formal outfits, even though it’s most at home in more casual
+    settings. With the dual time zone functionality it’s a useful travel tool, too,
+    and Tudor’s brand name and build quality mean it’s respected by watch geeks the
+    world over. That’s what we’re up against. Can we build a dream team to rival the
+    Tudor for the same cash outlay? The Equal-Value Collection First stop on our shopping
+    list is a dive watch: something that can at least match the Black Bay’s 200-meter
+    water resistance rating and speak to its underpinnings as a daily diver. We don’t
+    need a hardcore dive monster, but something that blends style and spec. We could
+    head to Seiko, but while the Prospex range holds a lot of phenomenal beaters,
+    few could be said to be truly stylish. One strong candidate is the Unimatic U1
+    Classic ($665), but we’ve gone for the recently updated Baltic Aquascaphe ($730).
+    Powered by a Miyota automatic movement, the Baltic focuses on more visible premium
+    touches, like the domed sapphire crystal and applied 3D luminous hour markers.
+    It’s water-resistant to 200 meters and available in blue, green, gray, or silver.
+    Next we should hit one of the main weaknesses in the Tudor’s armor, and pick up
+    a dress watch. The Black Bay isn’t hulking, and our choice to opt for the fabric
+    strap makes the whole watch a lot lighter (although it does add a millimeter in
+    height), but it’s not slim by any definition. For price and poise, we’ve come
+    straight to Dennison. The one time you can really get away with a quartz watch
+    is at a formal occasion, where the chance of someone asking you for precision
+    timing or to fiddle with your complications will be pretty low. The sold-out Time+Tide
+    Date Night limited edition would be perfect, but failing that we’ll opt for the
+    Midnight Aventurine in steel ($690). Next, we’ve got space in our collection for
+    a real everyday watch: something that’s not overburdened with functionality, but
+    that will cover us for the working day. Here we can look at a simple automatic
+    from Hamilton, whose military-inspired Khaki Field and Pilot watches would also
+    be worthy inclusions. However, for a more everyday staple we’ve gone for the Khaki
+    Field “Murph” 38 mm ($995), a compact version of the watch Matthew McConaughey''s
+    character gives to his daughter in Interstellar . With an 80-hour power reserve
+    and 100-meter water resistance, it’s a versatile choice in its own right. To be
+    a viable alternative to our GADA Tudor, the value collection has to include a
+    travel-time watch. We looked at Farer’s 36-mm Lander IV , with its preppy color
+    scheme and distinctive character, but ultimately we went for another cult favorite
+    from the affordable end of the Swatch Group stable. The Mido Ocean Star Decompression
+    Worldtimer costs $5 less than the Farer, at $1,490, and brings its own eye-catching
+    dial to the table, as well as a 200-meter water resistance rating and a version
+    of the same 80-hour movement as in the Hamilton. Perhaps the clincher was the
+    world-time bezel, which shouldn’t be confused with a true mechanical world-time
+    complication, but does give at-a-glance timekeeping around the world. So far we’ve
+    spent $3,905, which means we still have $645 burning a hole in our pocket. The
+    obvious gap in this collection is a chronograph of some kind. It would give us
+    the decisive edge over the Black Bay, but for this budget most mechanical chronographs
+    are out of reach. We could buy a MoonSwatch —in fact, at $285 we could buy two
+    and have enough left for the Uber home—but we’re on our mission to find something
+    more substantial, more interesting, and (let’s face it) more likely to stand the
+    test of time. And that something is the Brew Super Metric ($475), a hybrid mecha-quartz
+    chrono from a New York microbrand with more personality than every MoonSwatch
+    put together. The unashamedly loud retro styling isn’t for everyone, but we think
+    that the cushion-shaped case and steel bracelet help broaden our stylistic options,
+    and although it’s not a pedigree mechanical chronograph, it costs less than $500
+    while looking and feeling like no one’s idea of a compromise. That brings the
+    challengers to a grand total of $4,380, which means we’d be able to buy a six-watch
+    case to keep our collection in (of course it’s got space for one more …) and maybe
+    even a couple of spare straps. There’s no doubt the Tudor is in a different league,
+    but could a crack squad of specialists tempt you to part with $4,550? Or will
+    the lure of singular luxe prove too tempting? Over to you. It''s decision time.
+    This article was downloaded by calibre from https://www.wired.com/story/for-4550-would-you-buy-single-premium-watch-or-swarm-of-affordable-ones/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The text explicitly defines 'GADA' as 'go anywhere, do anything,'
+      describing it as feature-rich, eye-catching, rugged, and durable without compromising
+      style, which aligns with finding a versatile timepiece for various scenarios.
+    options:
+      A: To create a highly profitable line of watches for luxury brands.
+      B: To find a versatile timepiece that balances performance, style, and everyday
+        utility.
+      C: To justify the high cost of expensive watches compared to entry-level ones.
+      D: To discourage collectors from owning more than one watch.
+    q_number: 1
+    stem: What is the primary motivation for the 'GADA' watch concept as mentioned
+      in the text?
+  - answer: C
+    explanation: The author notes that an ideal GADA watch should be wearable in a
+      major city 'without fear of theft,' which is cited as a reason to rule out 'pretty
+      much any Rolex.'
+    options:
+      A: They lack the necessary water resistance and build quality.
+      B: Their designs are considered too boring for watch enthusiasts.
+      C: The risk of theft makes them impractical for everyday urban use.
+      D: They are significantly more expensive than the established $4,550 budget.
+    q_number: 2
+    stem: Why did the author exclude Rolex from the list of ideal 'GADA' watch candidates?
+  - answer: C
+    explanation: The text mentions that the Tudor's brand name and build quality result
+      in it being 'respected by watch geeks the world over,' establishing its strong
+      reputation within the horological community.
+    options:
+      A: Its ability to function perfectly as a formal, slim dress watch.
+      B: The fact that it is the most affordable chronometer in the market.
+      C: Its pedigree and high level of respect among the watch-enthusiast community.
+      D: Its capability to replace all other luxury timepieces in a collection.
+    q_number: 3
+    stem: Which of the following is considered a strength of the Tudor Black Bay GMT?
+  - answer: B
+    explanation: The author states that a chronograph would provide a 'decisive edge'
+      over the Black Bay, and the Brew Super Metric is added to fill that gap despite
+      not being a 'pedigree mechanical chronograph.'
+    options:
+      A: To provide a highly precise mechanical movement missing from other watches.
+      B: To offer a stylistic and functional alternative to the Tudor's lack of a
+        chronograph.
+      C: To serve as the most expensive and luxurious piece in the collection.
+      D: To replace the need for a travel-time watch in the collection.
+    q_number: 4
+    stem: What is the implied role of the Brew Super Metric in the 'Equal-Value Collection'?
+  - answer: A
+    explanation: By acknowledging the Tudor is in a 'different league,' the author
+      admits that individual luxury pieces occupy a distinct status in terms of prestige
+      and perceived quality, even when compared to a multi-watch strategy.
+    options:
+      A: The Tudor is inherently superior in quality despite the author's exploration
+        of alternatives.
+      B: The collection will eventually appreciate in value more than the Tudor.
+      C: The Tudor is too expensive for the average consumer to maintain.
+      D: The collection is composed of brands that are legally restricted from competing
+        with Tudor.
+    q_number: 5
+    stem: What does the author suggest by stating the Tudor is in a 'different league'
+      compared to the collection?
+  source_journal: Wired
+  title: Chapter 10
