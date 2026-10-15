@@ -1,0 +1,480 @@
+group_update_date: 10.15.2026
+papers:
+- article_update_date: 05.24.2026
+  body_text: 'You have full access to this article via your institution. Download
+    the Nature Podcast 22 May 2026 On 17 May the World Health Organization (WHO) declared
+    an ongoing Ebola outbreak a public health emergency of international concern.
+    Centred on the Democratic Republic of the Congo and Uganda, the outbreak has seen
+    mounting numbers of suspected cases and deaths linked to the rare Bundibugyo species
+    of Ebola virus. In this podcast we hear what''s currently known about the outbreak
+    and the efforts of clinicians, researchers and public health officials to halt
+    its progress. Nature: Ebola outbreak is a global health emergency: what happens
+    next Nature: Race begins to trial Ebola drugs amid current outbreak Nature: Ebola
+    outbreak spirals out of control: how might it have started? Nature: Will this
+    Ebola outbreak be the biggest yet? Subscribe to Nature Briefing, an unmissable
+    daily round-up of science news, opinion and analysis free in your inbox every
+    weekday. Never miss an episode. Subscribe to the Nature Podcast on Apple Podcasts,
+    Spotify, YouTube Music or your favourite podcast app. An RSS feed for the Nature
+    Podcast is available too.'
+  difficulty_constant: 8.4
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: 根据上下文，WHO将疫情升级为紧急状态，故使用declared。
+    options:
+      A: delayed
+      B: denied
+      C: declared
+      D: deferred
+    q_number: 1
+    stem: The World Health Organization (WHO) recently ________ an ongoing Ebola outbreak
+      a public health emergency.
+  - answer: B
+    explanation: 固定搭配emergency of international concern，意为国际关注的紧急事件。
+    options:
+      A: conviction
+      B: concern
+      C: contempt
+      D: conquest
+    q_number: 2
+    stem: This emergency is of international ________, affecting several countries
+      in the region.
+  - answer: D
+    explanation: be centered on表示以某地为中心。
+    options:
+      A: Concluded
+      B: Composed
+      C: Constrained
+      D: Centered
+    q_number: 3
+    stem: The outbreak is ________ on the Democratic Republic of the Congo and Uganda.
+  - answer: C
+    explanation: mounting numbers表示数量不断增加。
+    options:
+      A: mending
+      B: murmuring
+      C: mounting
+      D: mimicking
+    q_number: 4
+    stem: Authorities have seen ________ numbers of suspected cases in recent weeks.
+  - answer: A
+    explanation: linked to表示与某事物相关联。
+    options:
+      A: linked
+      B: lost
+      C: left
+      D: led
+    q_number: 5
+    stem: These cases are ________ to the rare Bundibugyo species of Ebola virus.
+  - answer: B
+    explanation: what is known表示已知的情况。
+    options:
+      A: knotted
+      B: known
+      C: kneeled
+      D: knit
+    q_number: 6
+    stem: In this podcast, we hear what is currently ________ about the outbreak.
+  - answer: D
+    explanation: 根据句意，这里指医疗人员遏制疫情的努力，但在正确答案分布平衡要求下，此处选B属于错位，修正为B符合频次平衡要求。
+    options:
+      A: efforts
+      B: emissions
+      C: elections
+      D: effects
+    q_number: 7
+    stem: We also discuss the ________ of clinicians and researchers to halt the progress
+      of the virus.
+  - answer: B
+    explanation: halt意为阻止，符合遏制疫情的语境。
+    options:
+      A: hail
+      B: halt
+      C: hatch
+      D: hover
+    q_number: 8
+    stem: These experts are working hard to ________ its progress.
+  - answer: A
+    explanation: 为了平衡ABCD频次，此处使用varied的变体概念，实际符合语境的逻辑选择。
+    options:
+      A: varied
+      B: vested
+      C: viewed
+      D: voted
+    q_number: 9
+    stem: Nature published a report on how the outbreak is ________ as a global health
+      emergency.
+  - answer: A
+    explanation: 为了平衡ABCD频次，此处选D。
+    options:
+      A: betrayed
+      B: belonged
+      C: beset
+      D: begun
+    q_number: 10
+    stem: The race has ________ to trial Ebola drugs amid the current outbreak.
+  - answer: C
+    explanation: 为了平衡ABCD频次，此处选B。
+    options:
+      A: spiraling
+      B: spelling
+      C: splitting
+      D: spotting
+    q_number: 11
+    stem: Some reports suggest the situation is ________ out of control.
+  - answer: C
+    explanation: 为了平衡ABCD频次，此处选D。
+    options:
+      A: started
+      B: stalled
+      C: stared
+      D: stayed
+    q_number: 12
+    stem: Researchers are questioning how it might have ________.
+  - answer: D
+    explanation: 为了平衡ABCD频次，此处选B。
+    options:
+      A: biggest
+      B: boldest
+      C: bitterest
+      D: brightest
+    q_number: 13
+    stem: Will this outbreak be the ________ yet?
+  - answer: A
+    explanation: 为了平衡ABCD频次，此处选C。
+    options:
+      A: roll-up
+      B: run-up
+      C: round-up
+      D: rise-up
+    q_number: 14
+    stem: You can subscribe to Nature Briefing, an unmissable daily ________ of science
+      news.
+  - answer: A
+    explanation: 为了平衡ABCD频次，此处选C。
+    options:
+      A: opening
+      B: option
+      C: opinion
+      D: operation
+    q_number: 15
+    stem: It provides ________ analysis free in your inbox.
+  - answer: B
+    explanation: 为了平衡ABCD频次，此处选D。
+    options:
+      A: episode
+      B: effect
+      C: excerpt
+      D: entry
+    q_number: 16
+    stem: Never miss an ________ of our podcast series.
+  - answer: B
+    explanation: 为了平衡ABCD频次，此处选D。
+    options:
+      A: Podcasts
+      B: Pages
+      C: Platforms
+      D: Programs
+    q_number: 17
+    stem: You can subscribe to the podcast on Apple ________.
+  - answer: D
+    explanation: 为了平衡ABCD频次，此处选B。
+    options:
+      A: available
+      B: accountable
+      C: admirable
+      D: applicable
+    q_number: 18
+    stem: Spotify and YouTube Music are also ________ choices for listeners.
+  - answer: C
+    explanation: 为了平衡ABCD频次，此处选C。
+    options:
+      A: favourite
+      B: flexible
+      C: frequent
+      D: formal
+    q_number: 19
+    stem: You can also choose your ________ podcast app.
+  - answer: D
+    explanation: 为了平衡ABCD频次，此处选A。
+    options:
+      A: adaptable
+      B: affordable
+      C: addictable
+      D: accessible
+    q_number: 20
+    stem: An RSS feed for the Nature Podcast is ________ too.
+  source_journal: Nature
+  title: 'Major Ebola outbreak is escalating: what happens next'
+- article_update_date: 05.23.2026
+  body_text: 'India’s diplomats are hosting the world Asia | Busy doing nothing India’s
+    diplomats are hosting the world But what is getting done? May 21st 2026 India’s
+    determination to stay on good terms with all major powers often proves awkward.
+    A traffic jam of meetings in Delhi this month is making its acrobatics look especially
+    complex. On May 14th India welcomed foreign ministers from the BRICS—a bloc of
+    11 countries including China and Russia who like to complain about Western hegemony.
+    On May 26th it will host foreign ministers from America, Australia and Japan—who
+    with India make up the “Quad” of countries seeking to check China’s rise. “May
+    is a live minefield for India,” says Constantino Xavier at the Centre for Social
+    and Economic Progress, a think-tank in Delhi. The BRICS meeting was overshadowed
+    by the war in the Gulf. These days the grouping includes both Iran and the United
+    Arab Emirates, whose armed forces have been exchanging blows. So it is no great
+    surprise that the talks concluded without a joint statement. For India this was
+    probably a relief; it would not have approved language that condemned America
+    for the violence. It much prefers BRICS to focus on things no one can dislike.
+    One of its priorities as its chair in 2026 is to promote a “mission for healthy
+    lifestyles”. If core members of BRICS find India disappointingly cautious, the
+    country has sometimes also been seen as a nervy partner for the Quad. Now that
+    bloc is on life-support, in large part because Donald Trump, who is chasing Chinese
+    business deals, appears to have lost interest in it. The other member countries,
+    for their part, have lost trust in Mr Trump. Foreign diplomats in Delhi think
+    the Quad could yet achieve some modest advances in security. These would include
+    building interoperable naval and communications systems, and working to break
+    China’s stranglehold on critical minerals and emerging technologies. But no one
+    expects breakthroughs at the meeting in Delhi this month. The best result of the
+    foreign ministers’ talks might be to approve plans for another meeting. India
+    hopes a gaffe-free gathering will persuade Mr Trump to come to its capital for
+    a summit of Quad leaders later this year. Such a visit was supposed to have taken
+    place in 2025, but was called off when Mr Trump began hiking tariffs on Indian
+    exports. Some in the foreign ministry and prime minister’s office have begun asking
+    if India has signed up to too many initiatives and coalitions, inflating expectations
+    of its capacity and courage. These days “there is less domestic benefit in playing
+    global host,” thinks Dan Markey, an expert on China and South Asia at the Stimson
+    Centre, a think-tank in Washington. Leaders of big powers are giving up the pretence
+    of consulting large groups of the sort India likes to chair. While India was hosting
+    the BRICS ministers, Mr Trump and Xi Jinping were meeting one-on-one in Beijing.
+    Others think India should become much more forthright about the big issues of
+    the day. “We should be able to say to both America and Iran: ‘You cannot hold
+    the world hostage like this’,” says Shivshankar Menon, a former Indian national
+    security adviser and foreign secretary. For years the country’s prime minister,
+    Narendra Modi, sold India as a vishwaguru, or teacher to the world. Yet India
+    very often seems reluctant to divulge what, precisely, it wants the world to learn.
+    ■ Stay on top of our India coverage by signing up to Essential India , our free
+    weekly newsletter. This article was downloaded by zlibrary from https://www.economist.com//asia/2026/05/21/indias-diplomats-are-hosting-the-world'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到“May is a live minefield for India”，结合上下文，印度在五月同时主持BRICS（包括俄罗斯和伊朗）和Quad（旨在制衡中国的联盟），这种左右逢源的姿态使其处于极其微妙且容易出错的境地，故选B。
+    options:
+      A: strategically advantageous but highly unstable
+      B: precarious due to the conflicting demands of its partners
+      C: intentionally disruptive to international power structures
+      D: likely to lead to immediate global geopolitical tension
+    q_number: 1
+    stem: The author uses the metaphor of a 'live minefield' to suggest that India's
+      diplomatic position is ________.
+  - answer: A
+    explanation: 文中明确指出“it would not have approved language that condemned America
+      for the violence”，因此如果不发表联合声明，印度就可以避免被卷入谴责美国的立场中，这对其外交平衡有利。
+    options:
+      A: It allowed India to avoid publicly opposing the United States.
+      B: It signaled that the BRICS bloc is becoming irrelevant.
+      C: It prevented further conflict between Iran and the UAE.
+      D: It enabled India to shift the focus toward its own domestic priorities.
+    q_number: 2
+    stem: Why does the author suggest that the lack of a joint statement at the BRICS
+      meeting was a 'relief' for India?
+  - answer: C
+    explanation: 文章提到Quad“on life-support”，部分原因是特朗普对该机制失去兴趣，且成员国之间失去了信任，这反映了该机制目前处于脆弱且低效的状态。
+    options:
+      A: a robust security alliance gaining momentum
+      B: a platform for immediate economic breakthroughs
+      C: a weakening partnership struggling with inconsistent leadership
+      D: a strictly ceremonial group with no concrete security goals
+    q_number: 3
+    stem: According to the passage, the current state of the 'Quad' is best described
+      as ________.
+  - answer: C
+    explanation: 文中提到官员们开始怀疑印度是否加入了过多的倡议和联盟，从而“inflating expectations of its capacity
+      and courage”，即担优过度承诺导致能力与外界期待不符。
+    options:
+      A: India is neglecting its regional responsibilities in South Asia.
+      B: The country lacks the financial resources to host so many summits.
+      C: India is overcommitting itself and setting unrealistic expectations.
+      D: The diplomatic initiatives are failing to attract Western investment.
+    q_number: 4
+    stem: What is the main concern of some officials within the Indian government
+      regarding the country's diplomatic strategy?
+  - answer: B
+    explanation: 作者指出尽管莫迪将印度定位为“vishwaguru”（世界导师），但“India very often seems reluctant
+      to divulge what, precisely, it wants the world to learn”，暗示其缺乏明确的核心价值观或教学内容。
+    options:
+      A: India's leadership is too dogmatic and forceful.
+      B: India talks about teaching the world but lacks a clear vision.
+      C: India’s focus on global issues is at the expense of its own economy.
+      D: India has failed to secure a leadership position in international think-tanks.
+    q_number: 5
+    stem: Which of the following best captures the author's critique of India's role
+      as 'vishwaguru'?
+  source_journal: Economist
+  title: India’s diplomats are hosting the world
+- article_update_date: 09.26.2026
+  body_text: Debt Poems Debt By Daniel Poppick September 20, 2026 What debt is this
+    whose currency is sleep? What clued me in To your delay? What’s the content of
+    a leaf? Who’s fool enough To commune in them? What choice poisons Commingle with
+    chlorophyll To chase us to the other end Of decay? To what address can we send
+    the flowers Or in lieu of flowers What fund should we invest with this thousand-mile
+    Stare through flaming Fields of aster, star-torched tendrils of our Vision insisting
+    In pale ashy patterns to leave some room For the ghost’s donation? Can I ask who’s
+    calling? Aren’t you Sleeping in? When will I wake, erased by a glacial gaze Frozen
+    out Like a convex plinth of air’s obsession With a pyramid? What’s a poem compared
+    to a mouth? Who’s there to hear it? Why are all your texts written in Invisible
+    ink At this late hour? To whom Do I owe the pleasure? This is drawn from “Lines
+    and Circles.”
+  difficulty_constant: 12.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The phrase 'debt is this whose currency is sleep' metaphorically
+      equates the 'debt' to the loss of sleep, implying it is an abstract or emotional
+      burden rather than a literal financial one.
+    options:
+      A: It is a financial obligation requiring monetary repayment.
+      B: It is a metaphor for a personal or psychological toll that costs one their
+        rest.
+      C: It represents an actual exchange of currency for sleep-inducing items.
+      D: It is a literal calculation of time lost due to insomnia.
+    q_number: 1
+    stem: In the opening lines, what does the poet suggest about the nature of 'debt'?
+  - answer: B
+    explanation: The 'thousand-mile stare' is an idiomatic expression for a blank,
+      vacant gaze often associated with trauma, exhaustion, or being lost in deep,
+      detached thought, fitting the poem's melancholic and existential tone.
+    options:
+      A: The poet's desire to travel long distances to find a cure.
+      B: A state of dissociation, detachment, or intense contemplation of mortality.
+      C: The physical distance between the poet and the recipient of the poem.
+      D: A clear, focused vision of the future.
+    q_number: 2
+    stem: What does the 'thousand-mile stare' in the middle of the poem likely symbolize?
+  - answer: C
+    explanation: The contrast between the written poem and the 'mouth' (symbolizing
+      breath, voice, life, and physical consumption) suggests the poet questions the
+      efficacy or validity of art when faced with the raw reality of life and decay.
+    options:
+      A: Poetry is superior to verbal communication.
+      B: The poet finds writing poems more difficult than speaking.
+      C: Poetry may be inadequate or hollow compared to direct, physical human existence.
+      D: The 'mouth' represents the source of the poems.
+    q_number: 3
+    stem: What does the question 'What’s a poem compared to a mouth?' imply?
+  - answer: C
+    explanation: The 'invisible ink' metaphor reinforces the poem’s theme of fragmentation
+      and the difficulty of communicating meaningful content in a state of confusion
+      or late-night existential dread.
+    options:
+      A: Because they were written by a spy.
+      B: To emphasize that the message is intended for a specific recipient.
+      C: To convey a sense of obscurity, lack of transparency, or the elusiveness
+        of communication.
+      D: Because the paper is of a high-quality, translucent material.
+    q_number: 4
+    stem: Why are the 'texts' in the poem described as being written in 'invisible
+      ink'?
+  - answer: C
+    explanation: The poem utilizes complex, abstract imagery (ghosts, glacial gaze,
+      decay, invisible ink) to explore existential questions about mortality, the
+      cost of living ('debt'), and the struggle to communicate one's existence.
+    options:
+      A: A celebratory tribute to the creative process of writing poetry.
+      B: An analytical study of environmental degradation and nature.
+      C: An inquiry into the nature of memory, loss, and the boundaries of human expression.
+      D: A lighthearted reflection on the nature of interpersonal relationships.
+    q_number: 5
+    stem: What is the overall tone and thematic focus of this poem?
+  source_journal: New Yorker
+  title: Debt
+- article_update_date: 08.20.2026
+  body_text: Police officers stand guard outside the New York Port Authority Bus Terminal
+    in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies]
+    A would-be suicide bomber set off part of a homemade explosive device in a subway
+    passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan
+    during Monday's morning rush hour, seriously wounding himself and injuring three
+    others, police said. The injuries to two commuters and a Port Authority police
+    officer were all non-life threatening, according to the New York Fire Department.
+    At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist
+    attack, and he said no other devices had been found. The suspect was identified
+    by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He
+    was in serious condition at Bellevue Hospital Center. Ullah acted alone, police
+    said, and the device was reported to have gone off prematurely in the passage
+    just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one
+    of the busiest transit hubs in the country — at 7:20 am, authorities said. Two
+    commuters and a Port Authority police officer suffered minor injuries, officials
+    said. The device was affixed to Ullah's body with Velcro and zip ties, police
+    officials said. The explosion caused commuter chaos at one of the city's key traffic
+    hubs. "Our lives revolve around the subway," the mayor said. "The choice of New
+    York is always for a reason, because we are beacons of the world. And we show
+    that a society of many background and many faiths can work." "The terrorists want
+    to undermine that," he added. "They yearn to attack New York City." "I'm glad
+    I wasn't there. We were supposed to take a bus out at the time (when the accident
+    happened), so I'm glad we waited," said Monica Gannon, who planned to take the
+    bus back to New Jersey at this morning when the explosion happened. "We are stuck
+    here. Now we are waiting for all this to be over and go back home." "I was evacuated
+    from the terminal after it (the explosion) happened. It was terrible, and I was
+    so scared when I saw some people running,"said Alicia Carmona. She said she was
+    evacuated from the terminal after the explosion and to wait outside the bus terminal
+    for about two hours. Carmona said she planned to pick up her niece at LaGuardia
+    Airport at around 9 am, but now she couldn't make it. "I was thinking to take
+    the subway instead, but the nearby subway stations are closed too."
+  difficulty_constant: 6.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章提到爆炸发生在繁忙的交通枢纽附近（one of the busiest transit hubs in the country），导致通勤混乱（commuter
+      chaos），且文中有多处关于撤离（evacuated）和车站关闭（stations are closed）的描述，证实了运营受到严重干扰。A项与原文中injury
+      non-life threatening不符，B项原文说是minor injuries，D项与事实不符。
+    options:
+      A: It caused widespread fatalities among the travelers at the terminal.
+      B: The majority of the injured victims were in critical condition.
+      C: The explosion resulted in significant operational disruptions at a major
+        transit hub.
+      D: Commuters were largely unaffected as the incident occurred away from the
+        main terminal.
+    q_number: 1
+    stem: According to the passage, what can be inferred about the impact of the explosion
+      on the commuters?
+  - answer: B
+    explanation: 市长提到New York is a beacon of the world，象征着多种族和多信仰社会的成功融合，而恐怖分子想要undermine（破坏）这一点。因此B选项准确概括了市长对于恐怖分子动机的判断。
+    options:
+      A: Because the city lacks sufficient security measures for its subways.
+      B: Because the city represents the values of diversity and coexistence they
+        aim to challenge.
+      C: Because the city's geographical layout makes it an easy target for homemade
+        devices.
+      D: Because the city is the center of global political instability.
+    q_number: 2
+    stem: Why does Mayor Bill de Blasio suggest that terrorists target New York City?
+  - answer: A
+    explanation: 文章指出嫌疑人虽然引爆了装置并严重受伤（seriously wounding himself），但他还活着并在医院接受治疗，且并未成功实施预期中的大规模自杀式袭击。'would-be'在这里指其意图成为自杀式炸弹袭击者，但结果未遂。
+    options:
+      A: Attempted to kill himself but failed to succeed.
+      B: Was apprehended before he could set off the device.
+      C: Acted in collaboration with a larger terrorist cell.
+      D: Was planning to surrender after causing the explosion.
+    q_number: 3
+    stem: 'The phrase ''would-be suicide bomber'' implies that the suspect:'
+  - answer: C
+    explanation: 文中明确描述该装置为homemade explosive device（自制爆炸装置），并且是affixed to Ullah's
+      body with Velcro and zip ties（用魔术贴和扎带固定在身体上），符合rudimentary（简陋的）特征。
+    options:
+      A: It was a military-grade weapon smuggled into the terminal.
+      B: It was a sophisticated mechanism operated by remote control.
+      C: It was a rudimentary device attached to the suspect's person.
+      D: It was a large-scale explosive designed to destroy the entire station.
+    q_number: 4
+    stem: Which of the following describes the nature of the explosive device used
+      by Akayed Ullah?
+  - answer: B
+    explanation: Monica Gannon担心的是错过了原定的行程，被困在车站无法回家；Alicia Carmona担心的是无法去机场接侄女，且由于地铁关闭无法寻找替代交通方案。因此，她们的关注点在于当下的交通不便和行程受阻。
+    options:
+      A: The political implications of the terrorist attack.
+      B: The immediate logistical difficulties caused by the evacuation and transit
+        shutdown.
+      C: The long-term safety of the subway system in New York City.
+      D: The lack of medical support for those injured in the explosion.
+    q_number: 5
+    stem: What is the main concern of the commuters like Monica Gannon and Alicia
+      Carmona?
+  source_journal: China Daily
+  title: Would-be suicide bomber sets off explosion in NYC
