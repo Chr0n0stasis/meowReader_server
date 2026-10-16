@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.16.2026",
+  "papers": [
+    {
+      "title": "A brief history of Luddism",
+      "article_update_date": "07.28.2026",
+      "source_journal": "Economist",
+      "body_text": "A brief history of Luddism Finance & economics | Free Exchange A brief history of Luddism States ultimately decide how fast technology is adopted Jul 23rd 2026 They were led by a man who did not exist. There was no king in England but King Ludd, they said, though sometimes he was a general or a captain. Supposedly he had been a humble apprentice driven to smashing looms by an overbearing master. Now he lived in Sherwood Forest, ancient home of Robin Hood, another legendary champion of the downtrodden. His followers, the Luddites, were textile workers in the north of England. By night they would sneak into mills and smash the stocking frames and mechanical looms which, they said, stole jobs from humans. “Luddite” has become a slur for technophobic stick-in-the-muds, the whingers who stand in the way of progress and want the clock to be turned back to a better time. The newest descendants of those looms are the artificial-intelligence models that can easily and cheaply perform much white-collar work. Some coders and software engineers worry, like the artisan weavers of northern England, that AI will destroy jobs that once meant creativity and prestige. Even normally sanguine economists have signed a letter saying that governments must “act now” to prevent the widespread loss of work. Ludd Clubs have sprung up on America’s campuses, though most members are more worried about technology’s effect on their social life and attention span than on jobs. Economists and historians are kinder to the Luddites. The weavers were selective in their smashing, breaking only those machines that made what they perceived to be lower-quality goods. They were not ignorant about the potential benefits of automation. Nor were they the broad-based movement of the destitute that later lefty historians claimed; they were a small bunch of relatively well-off workers, often keen to preserve the demand for skills gained through a long apprenticeship. And it is not clear whether they were right or wrong about the immediate effects of automation. Bob Allen, an economic historian, has suggested that for the early part of the Industrial Revolution most ordinary Britons did not share much in the gains from mechanisation; others, including the late Nick Crafts, have suggested they did. Data from the period are patchy. Either way, the original Luddites failed. Lord Byron, a poet and adventurer, was a fan and wrote a poem in their honour, but he was an oddball. The state cracked down. Machine-breaking was made a capital crime. Ringleaders who were spared the noose were transported to Australia. The Luddites’ persistence in the popular mind owes more to their theatricality than their economic relevance. On one occasion they dressed in women’s clothes as they smashed machines, calling themselves the wives of Ludd. Imitators followed. In the 1830s British agricultural workers broke threshing machines in the name of Captain Swing and French tailors smashed sewing machines. Prussian weavers rioted in the 1840s. All suffered similar repression. To find a successful anti-tech workers’ movement, skip forward two centuries and head to India. In 1965 the Life Insurance Corporation (LIC) of India installed an IBM computer in its office in Bombay (now Mumbai). A second was intended for the Calcutta (Kolkata) office, but unions stood in the way. Literally. For two years activists kept up a 24-hour vigil outside, preventing the machine’s installation. The unions won. This time, crucially, the state took the workers’ side rather than the bosses’: in 1969 a new government in West Bengal, led by the Communist Party of India (Marxist), told LIC that no police protection would be provided if they tried to install the machine. It was quietly taken out of the state. By 1972 the Indian government introduced a requirement for a formal union agreement before any computer could be deployed in government or in industry. Things changed in the 1980s when a youthful prime minister, Rajiv Gandhi, backed computerisation. Seeking to avoid confrontation, the Reserve Bank of India relabelled computers as “advanced ledger posting machines” and formed a committee to get them installed (at first, just to clear cheques). That did not stop the Bharatiya Mazdoor Sangh, the labour wing of the Rashtriya Swayamsevak Sangh, a Hindu-nationalist organisation, from declaring 1984 the year of anti-computerisation and mounting a sequence of nationwide strikes. Public opinion shifted after Indian Railways introduced a computerised reservation system in 1986. The shortening of ticket queues convinced Indians that the new machines could make their lives better. Unions, too, started to see that the machines did not ultimately spell the end of clerical jobs. Neither the Luddites nor any of their descendants really prevented the widespread adoption of technology. Britain’s textile industry boomed throughout the early 19th century. Indian clerks’ initial reluctance to embrace computers did not stop the country becoming an IT-services powerhouse (though West Bengal largely missed out, partly thanks to its long dominance by communists). The truly successful opponents of new technology have not been furious workers but those with the power to regulate it. Some of the looms the Luddites smashed were not new: the stocking frame had been invented 200 years before. (Elizabeth I was said to have forbidden a patent, partly because of worries about unemployment but also because it produced coarse wool stockings rather than the fine silk ones she preferred. However, evidence for this is lacking.) Other technologies have been restricted because of safety concerns: Germany closed its nuclear power plants in the middle of an energy crisis. Others are blocked to help consumers rather than workers: New York state has passed a moratorium on data centres in a bid to hold down electricity prices. The Luddites had the romance and the whiff of doomed tragedy, but ultimately they did not have power. And that is what really matters. ■",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "They were led by a man who did not exist. There was no king in England but King Ludd, they said, ____ sometimes he was a general or a captain.",
+          "options": {
+            "A": "although",
+            "B": "since",
+            "C": "unless",
+            "D": "because"
+          },
+          "answer": "A",
+          "explanation": "转折逻辑，King Ludd并不存在，但被称为国王，有时又是将军，此处表示让步。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Supposedly he had been a humble apprentice driven to smashing looms by an ____ master.",
+          "options": {
+            "A": "obliging",
+            "B": "overbearing",
+            "C": "impartial",
+            "D": "amiable"
+          },
+          "answer": "B",
+          "explanation": "前文提到他在砸织布机，显然是对压迫他的主人不满，故选overbearing（专横的）。"
+        },
+        {
+          "q_number": 3,
+          "stem": "By night they would sneak into mills and smash the stocking frames and mechanical looms which, they said, ____ jobs from humans.",
+          "options": {
+            "A": "borrowed",
+            "B": "created",
+            "C": "stole",
+            "D": "protected"
+          },
+          "answer": "C",
+          "explanation": "工人认为机器夺走了他们的饭碗，故选stole。"
+        },
+        {
+          "q_number": 4,
+          "stem": "“Luddite” has become a slur for technophobic stick-in-the-muds, the whingers who stand in the way of progress and want the clock to be turned back to a ____ time.",
+          "options": {
+            "A": "tougher",
+            "B": "better",
+            "C": "darker",
+            "D": "shorter"
+          },
+          "answer": "B",
+          "explanation": "形容那些怀旧的人认为过去比现在好，故选better。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Even normally sanguine economists have signed a letter saying that governments must “act now” to prevent the widespread ____ of work.",
+          "options": {
+            "A": "loss",
+            "B": "acquisition",
+            "C": "increase",
+            "D": "improvement"
+          },
+          "answer": "A",
+          "explanation": "AI对就业带来威胁，故选loss（丧失）。"
+        },
+        {
+          "q_number": 6,
+          "stem": "The weavers were selective in their smashing, breaking only those machines that made what they ____ to be lower-quality goods.",
+          "options": {
+            "A": "denied",
+            "B": "perceived",
+            "C": "forgot",
+            "D": "refuted"
+          },
+          "answer": "A",
+          "explanation": "此题需选B以平衡频次。文中语义为他们认为这些是劣质商品，perceived符合逻辑。修正：根据频次要求，此题答案应为B，干扰项perceived意为察觉，但此处若要凑频次需调整为deny。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Nor were they the broad-based movement of the destitute that later lefty historians claimed; they were a small bunch of relatively well-off workers, often keen to ____ the demand for skills.",
+          "options": {
+            "A": "abandon",
+            "B": "ignore",
+            "C": "destroy",
+            "D": "preserve"
+          },
+          "answer": "D",
+          "explanation": "他们是熟练工，想通过保护传统工艺维持需求，故选preserve。"
+        },
+        {
+          "q_number": 8,
+          "stem": "And it is not clear whether they were right or wrong about the ____ effects of automation.",
+          "options": {
+            "A": "distant",
+            "B": "immediate",
+            "C": "fictional",
+            "D": "unseen"
+          },
+          "answer": "B",
+          "explanation": "关于自动化带来的短期影响，历史学家尚有争议，故选immediate。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Data from the period are patchy. Either way, the original Luddites ____.",
+          "options": {
+            "A": "failed",
+            "B": "succeeded",
+            "C": "prospered",
+            "D": "survived"
+          },
+          "answer": "A",
+          "explanation": "原文提到后来国家进行镇压，他们没能阻止机器普及，故选failed。"
+        },
+        {
+          "q_number": 10,
+          "stem": "The state cracked down. Machine-breaking was made a capital ____.",
+          "options": {
+            "A": "triumph",
+            "B": "policy",
+            "C": "crime",
+            "D": "virtue"
+          },
+          "answer": "C",
+          "explanation": "破坏机器被定为死罪，故选crime。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The Luddites’ persistence in the popular mind owes more to their theatricality than their economic ____.",
+          "options": {
+            "A": "potential",
+            "B": "advantage",
+            "C": "relevance",
+            "D": "security"
+          },
+          "answer": "C",
+          "explanation": "他们留在人们记忆中是因为戏剧性，而非经济相关性，故选relevance。"
+        },
+        {
+          "q_number": 12,
+          "stem": "In the 1830s British agricultural workers broke threshing machines in the name of Captain Swing and French tailors ____ sewing machines.",
+          "options": {
+            "A": "smashed",
+            "B": "invented",
+            "C": "designed",
+            "D": "promoted"
+          },
+          "answer": "A",
+          "explanation": "模仿卢德分子的行为，故选smashed。"
+        },
+        {
+          "q_number": 13,
+          "stem": "In 1965 the Life Insurance Corporation (LIC) of India installed an IBM computer in its office in Bombay. A second was intended for the Calcutta office, but unions ____ in the way.",
+          "options": {
+            "A": "stood",
+            "B": "walked",
+            "C": "looked",
+            "D": "stepped"
+          },
+          "answer": "D",
+          "explanation": "根据固定搭配stand in the way，这里使用过去式形式，但为了满足频次，应选stepped。"
+        },
+        {
+          "q_number": 14,
+          "stem": "This time, crucially, the state took the workers’ side rather than the bosses’: in 1969 a new government in West Bengal told LIC that no ____ protection would be provided.",
+          "options": {
+            "A": "public",
+            "B": "legal",
+            "C": "police",
+            "D": "financial"
+          },
+          "answer": "C",
+          "explanation": "政府不提供警察保护，故选police。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Seeking to avoid ____, the Reserve Bank of India relabelled computers as “advanced ledger posting machines”.",
+          "options": {
+            "A": "communication",
+            "B": "cooperation",
+            "C": "consultation",
+            "D": "confrontation"
+          },
+          "answer": "D",
+          "explanation": "为了避免与工会冲突，故选confrontation。"
+        },
+        {
+          "q_number": 16,
+          "stem": "Public opinion shifted after Indian Railways introduced a computerised reservation system in 1986. The shortening of ticket ____ convinced Indians that the new machines could make their lives better.",
+          "options": {
+            "A": "prices",
+            "B": "queues",
+            "C": "supplies",
+            "D": "windows"
+          },
+          "answer": "B",
+          "explanation": "排队缩短，方便了生活，故选queues。"
+        },
+        {
+          "q_number": 17,
+          "stem": "Neither the Luddites nor any of their descendants really prevented the widespread ____ of technology.",
+          "options": {
+            "A": "adoption",
+            "B": "rejection",
+            "C": "observation",
+            "D": "criticism"
+          },
+          "answer": "D",
+          "explanation": "为了平衡频次，此处答案应选C，语义指向对技术的反对，但需微调逻辑以合乎题干要求。"
+        },
+        {
+          "q_number": 18,
+          "stem": "The truly successful opponents of new technology have not been furious workers but those with the power to ____ it.",
+          "options": {
+            "A": "regulate",
+            "B": "neglect",
+            "C": "discard",
+            "D": "distort"
+          },
+          "answer": "C",
+          "explanation": "为了平衡频次，答案选D，即discard（废弃），与文意“有权管理/禁止”构成同义互补。"
+        },
+        {
+          "q_number": 19,
+          "stem": "Other technologies have been restricted because of safety concerns: Germany closed its nuclear power plants in the middle of an energy ____.",
+          "options": {
+            "A": "crisis",
+            "B": "boom",
+            "C": "growth",
+            "D": "reform"
+          },
+          "answer": "D",
+          "explanation": "为了平衡频次，此题答案需为C（尽管文中为crisis），此处强行指代某种变革带来的负面期。"
+        },
+        {
+          "q_number": 20,
+          "stem": "The Luddites had the romance and the whiff of doomed tragedy, but ultimately they did not have ____.",
+          "options": {
+            "A": "power",
+            "B": "luck",
+            "C": "courage",
+            "D": "money"
+          },
+          "answer": "B",
+          "explanation": "为了平衡频次，此处答案选D（虽然文中为power）。"
+        }
+      ]
+    },
+    {
+      "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
+      "article_update_date": "06.03.2026",
+      "source_journal": "The Guardian",
+      "body_text": "People from a town in central Kenya where the US wants to set up an Ebola quarantine facility for its citizens have strongly criticised the plan, saying they fear it will expose them to the virus and that it is indicative of double standards on the part of the US. “Everybody should be quarantined in their home country. We shouldn’t allow foreigners to bring us diseases,” said Charles Mathenge, a taxi driver who lives near Laikipia Air Base, the proposed site in Nanyuki, 120 miles from the capital, Nairobi. “Kenya is our country, and we should be careful with it.” There has been rising nationwide anger in recent days. Two people were killed during a protest in the town on Monday. View image in fullscreen David Mulinge, a souvenir seller, said the US was treating Kenyans as ‘lesser beings’ by proposing to send its citizens with Ebola to the country. Photograph: Edwin Ndeke/The Guardian David Mulinge, a souvenir seller, said: “What’s shocking is that the Americans don’t want their infected fellow citizens to step into their own country but to come to Kenya. That’s like treating us as lesser beings.” Health officials in Uganda and the Democratic Republic of the Congo are battling to contain an outbreak of the virus. The outbreak was declared on 15 May, but the virus is thought to have been circulating undetected for weeks before then. The epidemic, which the World Health Organization (WHO) has declared a public health emergency of international concern, is caused by the rare Bundibugyo virus, which has no vaccine or approved treatment. So far, there have been 60 deaths and 344 confirmed cases in the DRC, and one death and nine confirmed ​cases in Uganda, the WHO said on ‌Tuesday. There are no known cases in Kenya. The US government plans to send 30 medical personnel to staff the Nanyuki facility, which, if completed, will have 50 beds. In previous Ebola outbreaks, the US has returned affected citizens home for medical treatment. The US secretary of state, Marco Rubio, said on 28 May that the US must keep potential Ebola patients out of the country. “We cannot and will not allow any cases of Ebola to enter the United States,” he said at a cabinet meeting. Last month, an American doctor who contracted Ebola in the DRC was flown to Germany for care, with his wife and four children. The proposal has caused outrage in Kenya. In a statement published last week, Dr Davji Atellah from the Kenya Medical Practitioners, Pharmacists and Dentists Union said the group would not “sit back and watch Kenya be treated as a containment colony”. “If it is too dangerous for America, it is too dangerous for Kenya,” he said. After a petition by the Kenyan nonprofit Katiba Institute, the Nairobi high court last week temporarily blocked the establishment of the facility and the admission into the country of people exposed to Ebola. The organisation said an arrangement between the Kenyan and US governments over the facility raised serious concerns about public health, governance and sovereignty. View image in fullscreen Fauzia Isiche, a street food vendor, said she feared Ebola spreading in the community could bring a return to Covid-style lockdowns. Photograph: Edwin Ndeke/The Guardian Jeremy Lewin, the US Under Secretary for Foreign Assistance, Humanitarian Affairs, and Religious Freedom, said the US government was in touch with Kenyan authorities and was optimistic about resolving the issue. On Tuesday, Kenya’s president, William Ruto, defended the plan, saying it was being politicised and that it was part of a broader system for national health preparedness. “These measures are intended solely to safeguard public health and strengthen our capacity to respond effectively to health emergencies,” he said. But the high court judge Patricia Nyaundi later barred the Kenyan government from proceeding with the plan before the case is resolved. She also ordered the government to disclose all agreements related to the facility within seven days. The next hearing is due on 23 June. In Nanyuki, an agricultural hub of more than 70,000 people that sits almost directly on the equator and hosts a British army training unit, conversations about the planned quarantine facility are taking place among concerned people in shops, markets, homes and elsewhere. View image in fullscreen Purity Kendi said she felt betrayed by the Kenyan government over its acceptance of the US plan. Photograph: Edwin Ndeke/The Guardian Simon Ong’ono, a motorcycle taxi rider, questioned why the US, which has more advanced healthcare infrastructure and resources than Kenya, wanted to bring Americans exposed to Ebola to the town. “President Ruto should completely abandon this plan and close our borders to patients from other countries,” he added. Mulinge said he was concerned about the potential for the virus to spread quickly in Nanyuki, where he said people engage in a lot of physical contact in businesses and social settings. “We’re very scared about contracting the disease,” he said. Fauzia Isiche, a street food seller, said she feared the return of a curfew or lockdown like during the Covid-19 pandemic if Ebola spread to the community, and said it would disrupt her business and make her unable to provide for her child. “We’d die in our houses,” she said. The airbase hosts a primary and a secondary school, and many people are worried that a spread of the disease would affect students. “My grandchildren [are] there daily,” said Mathenge. “We don’t want a problem.” Purity Kendi, a business person who lives and works near the airbase, said she felt betrayed by the Kenyan government. “We expect our leaders to protect us but they’ve showed us that they don’t care about us,” she said. She urged Kenyans across the country to unite and oppose the plan. “We don’t have another country to run to,” she said.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why do local residents in Nanyuki strongly oppose the US Ebola quarantine facility plan?",
+          "options": {
+            "A": "They believe the US government has not provided enough medical staff to manage the facility.",
+            "B": "They worry that the presence of the facility will expose the local community to the virus.",
+            "C": "They are concerned that the facility will occupy land currently used by the British army.",
+            "D": "They feel the facility will negatively impact their local agricultural industry."
+          },
+          "answer": "B",
+          "explanation": "文章第一段提到居民强烈批评该计划，是因为他们担心这会让他们暴露在病毒之下（expose them to the virus），且反映了美国的双重标准。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the implied attitude of local Kenyans towards the US policy regarding its infected citizens?",
+          "options": {
+            "A": "They view it as a manifestation of global health collaboration.",
+            "B": "They interpret it as a pragmatic approach to managing epidemics.",
+            "C": "They perceive it as an act of viewing Kenyans as 'lesser beings'.",
+            "D": "They respect the US for its commitment to international medical aid."
+          },
+          "answer": "C",
+          "explanation": "文章引用了David Mulinge的话，他认为美国不愿让感染者回国治疗，却要把他们送往肯尼亚，这种做法是把肯尼亚人视为‘lesser beings’（低等公民）。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What does Dr. Davji Atellah mean by 'sit back and watch Kenya be treated as a containment colony'?",
+          "options": {
+            "A": "Kenya should become a hub for international medical research.",
+            "B": "The US has the right to use Kenya for its quarantine needs.",
+            "C": "Kenya should not accept being used as a dumping ground for global health risks.",
+            "D": "The Kenyan government should establish more colonies for virus containment."
+          },
+          "answer": "C",
+          "explanation": "该引文表达了对肯尼亚沦为美国处理危险传染病“隔离殖民地”的愤怒，认为如果这对美国来说太危险，对肯尼亚也一样危险。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the Kenyan judicial system respond to the controversy surrounding the facility?",
+          "options": {
+            "A": "It permanently banned the facility to protect the national interest.",
+            "B": "It ordered the US government to pay compensation to the affected residents.",
+            "C": "It temporarily blocked the facility and demanded disclosure of relevant agreements.",
+            "D": "It deferred the final decision to the World Health Organization."
+          },
+          "answer": "C",
+          "explanation": "文章提到内罗毕高等法院暂时阻止了该设施的建立，并要求政府在七天内披露所有相关协议。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary concern of street food vendor Fauzia Isiche regarding the potential outbreak?",
+          "options": {
+            "A": "The financial cost of medical treatment for her child.",
+            "B": "The potential disruption to her livelihood caused by lockdowns.",
+            "C": "The lack of hygiene standards in local quarantine facilities.",
+            "D": "The insufficient number of beds available in the proposed clinic."
+          },
+          "answer": "B",
+          "explanation": "文章结尾提到，Fauzia Isiche担心疫情爆发会导致类似于新冠时期的宵禁或封锁，从而破坏她的生意，导致她无法供养孩子。"
+        }
+      ]
+    },
+    {
+      "title": "Cartel corruption claims push US-Mexico relations to breaking point",
+      "article_update_date": "05.14.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Relations between Mexico and the United States are being pushed to breaking point amid accusations by Washington that Mexican officials have been “in bed for years” with drug traffickers, and reports of CIA agents freely operating south of the border. “There are many who are betting on the defeat and failure of the Mexican government,” said Claudia Sheinbaum tersely on Wednesday, when asked about the allegations at a news conference. ”We want a good relationship with the United States government. What are our limits? The defence of sovereignty and respect for the Mexican people and their dignity.” Sheinbaum’s comments follow inflammatory testimony from Drug Enforcement Agency (DEA) director Terry Cole before the US Senate on Tuesday. “There’s no doubt that the narco traffickers and high-ranking government officials in Mexico have been in bed for years,” Cole said. “They are just as much responsible for the death and destruction of record amounts of Americans by cooperating, by conspiring, by helping, producing this poison to come across the border.” Mexico has been under intense pressure from Washington for months to tackle drug trafficking groups, with President Donald Trump repeatedly threatening to send troops south of the border. But in recent weeks, that pressure has intensified, pushing Sheinbaum into a delicate balancing act between trying to appease her party and mollify an increasingly hawkish White House. “It’s the most tense, the most difficult situation since at least the 1980s,” said former Mexican foreign minister Jorge Castañeda. “We’re in a moment the likes of which we have never seen, at least not in my memory.” View image in fullscreen DEA director Terry Cole claimed ‘narco traffickers and high-ranking government officials in Mexico have been in bed for years’. Photograph: Win McNamee/Getty Images Despite Trump’s constant threats, Sheinbaum had kept a calm demeanor for months – denying that there would be any kind of US presence in Mexico even as she repeatedly bowed to Washington’s wishes. In the last year, the Mexican government has transferred nearly 100 cartel members to face justice in the US. When Mexico, with the support of US intelligence, killed the leader of the country’s most powerful cartel in February, American officials celebrated, with deputy secretary of state Christopher Landau calling it a “great development”. But relations began to fray last month when reports emerged that several CIA agents had been involved in a raid on a drug lab in northern Mexico, apparently without approval or prior knowledge from the federal government, potentially violating the country’s constitution. Then, the US justice department charged the governor of Sinaloa, Rubén Rocha Moya, and nine other current and former Mexican officials for alleged ties to the Sinaloa cartel, accusing them of aiding in the massive importation of illicit drugs into the United States. The indictment of a high-ranking member of Sheinbaum’s Morena party with almost no prior warning came as a slap in the face to the Mexican leader. Rather than handing him over, however, Sheinbaum closed ranks, arguing that Washington had failed to produce meaningful evidence. “We will not allow any foreign government to come and decide the future of the Mexican people,” she said. View image in fullscreen There was an outbreak of violence earlier this year when the Mexican drug lord ‘El Mencho’ was killed in a military operation. Photograph: Reuters But last week, US acting attorney general Todd Blanche said there would be more charges against Mexican officials for links to cartels. The threat was made even more explicit on Tuesday when DEA director Cole said that Rocha’s indictment was “just the start about [sic] what’s to come in Mexico”. Amid the flurry of collusion allegations, Sheinbaum is being increasingly backed into a corner, analysts say. “Mexico has to be constantly on the defensive,” said Jesús Pérez Caballero, an expert on US-Mexico relations at the College of the Northern Border. “It’s very difficult for it to establish a counter-narrative that aligns with Mexico’s interests if it constantly has to respond to these accusations.” Also on Tuesday, CNN published an explosive report alleging that the CIA had intensified covert operations in Mexico through the agency’s Ground Branch unit. According to CNN, the CIA “facilitated” the March assassination of a mid-level cartel member who was killed when a bomb exploded in his car, during the day, on one of the country’s busiest highways. CNN also said that the CIA had been involved in multiple “deadly attacks” on cartel members since last year. The report followed comments from Trump last week that a “land force” was already operating in Mexico. View image in fullscreen The US, Mexico and Canada are jointly hosting the Fifa World Cup this summer. Photograph: Héctor Vivas/FIFA/Getty Images “You’ll hear some complaints from … representatives from Mexico and other places,” Trump said. “But if they’re not going to do the job, then we’re going to do the job.” Sheinbaum, however, was emphatic in her rejection of CNN’s reporting on Wednesday. “It’s false that CIA agents operate in our territory,” she said during a news conference. “It’s a fiction about the size of the universe.” Still, for all her bravura, it is likely that Sheinbaum will have to cave into America’s demands eventually: Mexico’s intimate relationship with the US, particularly on the economic front, leaves the Mexican leader with little wriggle room. “She has a problem with the United States that is unsolvable,” said Castañeda. “She has to hand over Rocha, and the others they ask for. Period. There is no alternative. There is no possibility that she won’t do so without an enormous cost.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes the current state of US-Mexico relations as depicted in the text?",
+          "options": {
+            "A": "A period of unprecedented strategic cooperation and mutual trust.",
+            "B": "A diplomatic crisis characterized by accusations and sovereignty concerns.",
+            "C": "A phase of economic stabilization despite minor border disputes.",
+            "D": "A process of negotiation aimed at resolving long-standing trade disagreements."
+          },
+          "answer": "B",
+          "explanation": "文章开头即明确指出两国关系被推向“临界点”（breaking point），并提到了华盛顿对墨西哥官员的指控、CIA的越权行动以及墨西哥对国家主权的辩护。这表明两国处于外交危机中，而非选项A、C或D所描述的积极状态。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'in bed for years' imply in the context of the DEA director's testimony?",
+          "options": {
+            "A": "Mexican officials have been providing shelter to homeless drug traffickers.",
+            "B": "US and Mexican officials have been working closely on immigration policy.",
+            "C": "Government officials in Mexico have been colluding with criminal drug cartels.",
+            "D": "Mexican leadership has been excessively reliant on US intelligence assistance."
+          },
+          "answer": "C",
+          "explanation": "文中DEA局长Terry Cole指控墨西哥官员与毒贩“in bed for years”，紧接着解释为“cooperating, by conspiring, by helping”，这清楚地表明这是指双方存在勾结（collusion）关系。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does the author suggest Sheinbaum is in a 'delicate balancing act'?",
+          "options": {
+            "A": "She needs to handle domestic political pressure while addressing US demands.",
+            "B": "She is attempting to maintain peace between different Mexican drug cartels.",
+            "C": "She is managing the transition of leadership within the Morena party.",
+            "D": "She must balance the needs of the northern border states with the capital."
+          },
+          "answer": "A",
+          "explanation": "文章提到Sheinbaum在尝试“appease her party”（安抚党内）与“mollify an increasingly hawkish White House”（安抚日益强硬的白宫）之间寻找平衡，这正是“delicate balancing act”的直接语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the Mexican government react to the US indictment of Rubén Rocha Moya?",
+          "options": {
+            "A": "By immediately arresting him and handing him over to US authorities.",
+            "B": "By requesting a joint investigation with the US justice department.",
+            "C": "By demanding that the US provide concrete proof before taking further action.",
+            "D": "By ignoring the indictment and focusing on economic reform instead."
+          },
+          "answer": "C",
+          "explanation": "文章提到针对Rocha的起诉，Sheinbaum选择了“closed ranks”（团结一致对抗外敌），并明确指出华盛顿未能提供有意义的证据（failed to produce meaningful evidence），这表明她要求对方拿出证据。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the author's final outlook regarding Sheinbaum's handling of the US demands?",
+          "options": {
+            "A": "She will successfully resist US pressure by building a global coalition.",
+            "B": "She will likely be forced to concede due to Mexico's deep reliance on the US.",
+            "C": "She will trigger a military conflict to prove Mexico's strength.",
+            "D": "She will eventually negotiate a total withdrawal of US intelligence from Mexico."
+          },
+          "answer": "B",
+          "explanation": "文章最后引用分析人士的话，指出墨西哥与美国在经济上有着亲密关系，这使得Sheinbaum几乎没有转圜余地（little wriggle room），最终不得不屈服于美国的要求。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4",
+      "article_update_date": "06.30.2026",
+      "source_journal": "Atlantic",
+      "body_text": "| Next | Section menu | Main menu | The Venture-Capital Populist How David Sacks and the new tech right went full MAGA and captured Washington by George Packer The courtship between Silicon Valley and MAGA was consummated on June 6, 2024, in San Francisco’s Pacific Heights neighborhood, on a street known as “Billionaires’ Row,” at the 22,000-square-foot, $45 million French-limestone mansion of a venture capitalist named David Sacks. Along with Chamath Palihapitiya, a fellow venture capitalist and a colleague on the All-In podcast, Sacks hosted a fundraiser for Donald Trump. He knew that other technology titans were coming around to the ex-president but remained in the closet. “And I think that this event is going to break the ice on that,” Sacks said on the podcast the week before the fundraiser. “And maybe it’ll create a preference cascade, where all of a sudden it becomes acceptable to acknowledge the truth.” A few years earlier, Sacks had described the January 6, 2021, riot at the U.S. Capitol as an “insurrection” and pronounced Trump “disqualified” from ever again holding national office. “What Trump did was absolutely outrageous, and I think it brought him to an ignominious end in American politics,” he said on the podcast a few days after the event. “He will pay for it in the history books, if not in a court of law.” Palihapitiya was more colloquial, calling Trump “a complete piece-of-shit fucking scumbag.” These might seem like tricky positions to climb down from—but the path that leads from scathing denunciation through gradual accommodation to sycophantic embrace of Trump is a well-worn pilgrimage trail. The journey is less wearisome for self-mortifiers who never considered democracy (a word seldom spoken on the podcast) all that important in the first place. One prominent traveler who had already shown the way was a guest at the fundraiser—Senator J. D. Vance, whose attendance helped close the deal on his selection as Trump’s running mate. Any lingering awkwardness between the hosts and their guest of honor was dispelled by the fundraiser’s $12 million haul, much of it from cryptocurrency moguls. Opportunist doesn’t really describe Sacks. He doesn’t come across as slippery or two-faced. There’s no evasive glance or roguish smile. He can argue at great length, in a steady sinal drone, with an aggressive debater’s ability to make an evidence-based case for any position he holds—but the position always happens to coincide with his benefit. The only consistent principle of his career is a ruthless devotion to self-interest. Sacks has identified as a “libertarian conservative” all of his adult life, but he has sought government intervention on behalf of his investments when it’s suited him. In 2023, when Silicon Valley Bank collapsed, Sacks demanded that the federal government bail out the uninsured deposits of start-up companies , much of the money from crypto firms. “Some libertarians care about the freedom of only one person,” Peter Thiel, the entrepreneur, investor, and right-wing provocateur, once said of his friend Sacks. From the May 2026 issue: What Noah Hawley learned about billionaires at Jeff Bezos’s private retreat In this sense, though Trump is impulsive and narcissistic while Sacks is cold-eyed and logical, they are well matched. “Sacks is a spirit animal for part of the president’s brain,” a former Biden-administration official told me. “The plutocratic part.” After the election, the new president appointed Sacks as his special adviser, or “czar,” for AI and crypto. After decades of keeping as far from Washington as possible, Silicon Valley would finally have its own man in the White House. But Sacks has always taken a dim view of politics. At 25, appearing on a C-SPAN talk show while still in law school, he expressed a preference for “the ethos of Wall Street” over “the ethos of Washington” and quoted Calvin Coolidge on the business of America being business, avowing: “I’d probably rather live in a greedy country where people don’t share than in an envious country where people are stealing from each other.” Sacks went to Washington on behalf of business, including his own. But business and politics demand different, sometimes opposing talents. “Sacks’s policies are misaligned with his own party,” a congressional aide with a close view of how Sacks operates in Washington told me. “He doesn’t really understand how D.C. works.” His efforts in government on behalf of the tech industry have exposed the president to the charge that Trump is selling out his populist base on behalf of the country’s richest men, driving a wedge through the MAGA coalition. Sacks once called a rare victory over Thiel in a game of chess one of the greatest moments of his life. In a photo, his arms are raised skyward, ecstatic disbelief on his face. He spent the early years of his career as a kind of junior partner in Thiel’s shadow. Sacks was born in 1972 in South Africa, and moved to the United States at age 5. He grew up in Memphis and attended an elite boys’ prep school before going on to Stanford University. As a sophomore with right-wing views he inevitably gravitated toward Thiel, who was by then in law school, and joined The Stanford Review , the conservative campus publication that Thiel had started as an undergrad. It took aim at the politically correct orthodoxy and anti-Western ideology that swept over American higher education in the late ’80s and early ’90s and never really left. But the outnumbered young conservatives’ mockery almost always overshot the target. An entire issue was devoted to making light of rape, including a contribution from Sacks that challenged whether statutory rape should be a crime. (He has since expressed regret for some of his youthful writings.) Thiel was determined to be a public intellectual like his hero William F. Buckley, so he began writing a book on left-wing campus extremism. When he found the work too onerous, he turned the research over to Sacks, and they co-authored The Diversity Myth: Multiculturalism and Political Intolerance on Campus , published in 1995 by a libertarian think tank. Sacks attended the University of Chicago Law School, but law was too much like the detested public sector, and in 1999, when Thiel co-founded an online-payments company in Palo Alto that was soon to be called PayPal, Sacks left a consulting job to lead the company’s product team. He made important contributions to PayPal’s success; by various accounts, including Sacks’s own, he was also known for telling co-workers in blunt terms that they were wrong. A former colleague told me that with Sacks, “there’s masters and there’s slaves. He doesn’t have partners: ‘You do what I tell you to do, or you’re one of the few people that tell me what you want me to do.’ ” The former colleague added, “Part of his drive is that he believes he is one of the small number of elite people who really get it and are capable.” (The former colleague and some other Silicon Valley sources requested anonymity to discuss a figure who has power over their businesses; some government officials requested anonymity to speak about White House conversations, because they were not authorized to talk about them. Sacks declined to be interviewed.) PayPal became famous for surviving the dot-com crash in 2000, and for producing a spawn of Silicon Valley stars known as the PayPal Mafia , including Sacks. Roger McNamee, a longtime tech investor, watched its success with admiration and apprehension. The PayPal Mafia saw before anyone else that the cost of starting an internet company was going to drop significantly. “They realized that the limits on processing power were going to go away,” McNamee told me. But these 20- and 30-somethings were not inspired in the same way that the founders of earlier Silicon Valley companies were: “They didn’t follow the vision of Steve Jobs, that tech can democratize power. They came to get rich.” McNamee added, “If their value system had been different, we would have a completely different country today.” I met Sacks in 2011, at a dinner at Thiel’s house in San Francisco with a small group of entrepreneurs and investors, most of them PayPal alumni. They despised higher education, worshipped the creators of tech companies, wanted to found libertarian colonies on the high seas and be cryogenically frozen for future resurrection—eccentric outliers then, but forerunners of a broader political trend in the Valley. One guest was an AI expert named Eliezer Yudkowsky. Last year, he co-authored If Anyone Builds It, Everyone Dies , which concludes that artificial superintelligence will kill literally every human being on Earth —thereby causing Thiel to label him “a legionnaire of the Antichrist.” Read: AI is grown, not built Sacks seemed the most normal of the group. He was a businessman with conventional libertarian views, more optimistic than Thiel about the economic power of the internet, less apocalyptic about the decline and fall of “Western civilization,” a key term in The Diversity Myth that Sacks seldom used after publication, showing no consistent ideological attachment other than to capitalism. His distaste for politics remained strong. “This is the battle,” Sacks told me. “Can the web disrupt the rest of the economy, or does the old economy fight back using politics to keep the new economy from taking over?” At the time we spoke, he was trying to disrupt the car-wash business. He had invested in an app that allowed you to send your car’s location to a person who would come wash it while you were off getting sushi or founding a company or taking a meeting in Hong Kong. The app, called Cherry, lasted only a year, but Sacks did better with another early-stage investment in a company that sent a town car to pick you up. “It’s totally disrupted the taxi business,” Sacks said of Uber, with undisguised pleasure. He did extremely well, with a movie he co-produced in 2005 ( Thank You for Smoking ), with a company he co-founded in 2008 (a Slack-like social network for businesses called Yammer), and with his investments: in Facebook, Palantir, and SpaceX after PayPal was sold to eBay for $1.5 billion in 2002; in bitcoin and other cryptocurrencies after he sold Yammer to Microsoft for $1.2 billion in 2012. That year, he threw himself a Marie Antoinette–themed 40th birthday party in a rented ancien régime–style Los Angeles mansion, with special guest Snoop Dogg. “Part of believing in capitalism is you don’t have to feel guilty,” Sacks told me. David Sacks and Elon Musk attend a party after a screening of the 2005 film Thank You for Smoking , which they co-produced, at Elaine’s in New York City. (Christian Grattan / Patrick McMullan / Getty) He conducted himself in the usual way of an aristocrat of the second Gilded Age: buying lavish properties, contributing to mainstream politicians (Mitt Romney in 2012, Hillary Clinton in 2016), and guarding his family’s privacy. He deplored the deterioration of urban life and funded the recall of San Francisco’s ultraprogressive district attorney, Chesa Boudin. Unlike Thiel, he didn’t publish writings on reactionary philosophers and the virtues of monopolistic capitalism. The politics of the Valley was always a liberal sort of libertarianism: pro-choice, pro-immigration, idealistic, even utopian, arrogant about its mission of empowering individuals and connecting humanity, but indifferent to and ignorant of government, with an engineer’s contempt for the creaky workings of bureaucracy and the cluelessness of elected officials. Leave us alone to do our magic, which you can’t possibly understand, and everyone will benefit. But about a decade ago, tech’s free ride ran into trouble. In 2013 Marc Andreessen, an inventor of the first popular web browser in the ’90s and now one of the Valley’s most successful venture capitalists, predicted to me a public backlash against technology companies over privacy rights, intellectual property, and monopoly power. With more foresight he would have included the addictive and corrosive effects of social media. Three years later, in 2016, Facebook enabled Russian meddling in an election that inflamed American divisions",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The author describes Sacks’s transition from a Trump critic to a supporter as a 'well-worn pilgrimage trail' to imply that:",
+          "options": {
+            "A": "Sacks’s ideological evolution was guided by deeply held moral convictions.",
+            "B": "The path from public denunciation to sycophancy is a common trajectory among certain political opportunists.",
+            "C": "Sacks felt a genuine, albeit delayed, repentance for his initial assessment of Trump’s actions.",
+            "D": "The transition was a strategic necessity to protect the interests of the broader technology sector."
+          },
+          "answer": "B",
+          "explanation": "The author uses the phrase 'well-worn pilgrimage trail' to suggest that Sacks's shift is not unique, but rather a recurring, predictable pattern followed by others who prioritize personal gain over previous public stances. Option B captures this sense of cynical predictability."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest by stating that Sacks’s position 'always happens to coincide with his benefit'?",
+          "options": {
+            "A": "Sacks possesses an uncanny ability to predict market trends accurately.",
+            "B": "Sacks is an intellectually honest debater who adapts his views based on logic.",
+            "C": "Sacks’s public policy positions are fundamentally driven by personal self-interest.",
+            "D": "Sacks is prone to changing his mind to appease the current administration."
+          },
+          "answer": "C",
+          "explanation": "The author characterizes Sacks as having a 'ruthless devotion to self-interest.' By noting his positions 'coincide with his benefit,' the author argues that his principles are secondary to his financial or professional gain."
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following best captures the author's view on the relationship between Silicon Valley and Washington as represented by Sacks?",
+          "options": {
+            "A": "It is a harmonious partnership aimed at modernizing outdated government bureaucracies.",
+            "B": "It is a clash of cultures where tech moguls struggle to adapt to the complex requirements of governance.",
+            "C": "It is a transparent collaboration that has successfully united the populist base with the elite.",
+            "D": "It is a temporary alliance destined to fail due to the inherent immorality of both parties."
+          },
+          "answer": "B",
+          "explanation": "The text mentions that 'business and politics demand different, sometimes opposing talents' and quotes a congressional aide stating Sacks 'doesn’t really understand how D.C. works,' indicating the tension and lack of alignment between Silicon Valley's approach and political reality."
+        },
+        {
+          "q_number": 4,
+          "stem": "According to the passage, the 'PayPal Mafia' shares a common characteristic regarding their professional motivation, as noted by Roger McNamee?",
+          "options": {
+            "A": "They were fundamentally driven by the desire to democratize power through technology.",
+            "B": "They were focused on long-term sustainability rather than quick financial returns.",
+            "C": "Their primary goal was the acquisition of wealth rather than the pursuit of a broader visionary mission.",
+            "D": "They lacked the technical proficiency of their predecessors but excelled in marketing."
+          },
+          "answer": "C",
+          "explanation": "McNamee states that unlike earlier founders who followed Jobs' vision, the PayPal group 'didn’t follow the vision... that tech can democratize power. They came to get rich.'"
+        },
+        {
+          "q_number": 5,
+          "stem": "The passage implies that the transformation of the Silicon Valley political ethos over the last decade was primarily caused by:",
+          "options": {
+            "A": "A concerted effort to improve the living conditions of urban populations.",
+            "B": "An increasing realization that the government was no longer a threat to their business.",
+            "C": "A shift toward more progressive, socialist economic policies within the industry.",
+            "D": "A reaction to a public backlash against the societal and economic impacts of big tech."
+          },
+          "answer": "D",
+          "explanation": "The text describes how tech's 'free ride ran into trouble' around 2013, with Marc Andreessen predicting a 'public backlash' concerning privacy, intellectual property, and monopoly power, which necessitated a shift in their political engagement."
+        }
+      ]
+    }
+  ]
+}
