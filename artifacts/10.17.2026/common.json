@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.17.2026",
+  "papers": [
+    {
+      "title": "‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread",
+      "article_update_date": "04.21.2026",
+      "source_journal": "Nature",
+      "body_text": "Researchers caught an African leopard on camera eating bats from a cave in Uganda. It might be the first confirmation that leopards eat live bats.Credit: Bosco Atukwatse/VSPT Kyambura Lion Project When researchers in Uganda set up camera traps to monitor African leopards (Panthera pardus pardus) and spotted hyenas (Crocuta crocuta) in a national park last year, they had no idea that they would record so much more than just those animals. Several of the traps, placed outside a cave known to host Egyptian fruit bats (Rousettus aegyptiacus), caught on video a multitude of creatures feasting on the winged mammals. The bats are known carriers of Marburg virus, which can transfer into humans and cause a fatal haemorrhagic fever, so the footage offers real-time insight into how disease can spread. Scientists know that bats can transmit viruses to humans either directly, or through an intermediate animal, from forensic detective work and other studies. The team in Uganda thinks this is the first time that potential intermediate animals have been caught on camera in a known hotspot for Marburg virus, which is in the same family as Ebola virus. “It is certainly the first in such a well-documented form,” says Gábor Kemenesi, a field virologist at the University of Pécs in Hungary, who was not involved in the study. This compilation video shows a sampling of the animals that researchers caught on camera at Python Cave eating and scavenging on bats. Credit: Bosco Atukwatse/VSPT Kyambura Lion Project The researchers, who published their findings today in the journal Current Biology1 after posting them in a Zenodo preprint 10 months ago2, reported videoing 10 species scavenging on or catching bats at Python Cave in Uganda’s Queen Elizabeth National Park. They saw blue monkeys (Cercopithecus mitis) dipping into the cavern to grab bats, a fight between a crowned eagle (Stephanoaetus coronatus) and a Nile monitor (Varanus niloticus) over two bats captured by the eagle, and a leopard standing almost upright to snag bats from the cave. This might be the first confirmation that leopards hunt live bats. “It’s never been seen,” says study author Alexander Braczkowski, who is the scientific director of the Kyambura Lion Project in Kampala. “Sometimes he would eat 30, 40 bats in a night.” Dangerous visits Even more astounding is that the team caught on video more than 200 people — tourists, trainees from a local wildlife institute and children with school groups — approaching the cave during the four-month period when the cameras were active. Only one visitor, a tourist, wore a mask. This is despite warnings posted around the cave about Marburg virus, which has no proven treatment or vaccine. “I was pretty shocked,” says Elke Mühlberger, a virologist at Boston University in Massachusetts. Contact with caves is the largest known contributor to humans contracting Marburg virus. According to an unpublished analysis shared with Nature by Adam Hume, a virologist at Boston University, 43% of the 21 outbreaks of Marburg confirmed since 1967 have been associated with visits to a cave. For 29% of the outbreaks, cave contact has been ruled out; the remainder have unknown origins. Members of the Kyambura Lion Project check their camera traps at Python Cave: from left are Yahaya Ssemakula, Bosco Atukwatse, Johnson Muhereza and Winfred Nsabimana.Credit: Aleksander Braczkowski Bats in Python Cave have, in fact, been linked directly to outbreaks of Marburg. An outbreak in 2007 at Kitaka mine, 50 kilometres from the cave, was traced to bats that fly to the cave. And two tourists who visited Python Cave in 2007 and 2008 became infected. One of them died. There are conflicting accounts of whether both the tourists went into the cave or merely peered into it; the surviving tourist tells Nature that they went about 3 metres into the cave and “peered in for at least 30 minutes”. Jonathan Towner, a viral ecologist at the US Centers for Disease Control and Prevention (CDC) in Atlanta, Georgia, who has visited and sampled the site extensively, says that they probably came into contact with bat faeces or urine as the animals flew. Warning signs",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Researchers caught an African leopard on camera eating bats from a cave in Uganda. It might be the first ____ that leopards eat live bats.",
+          "options": {
+            "A": "assumption",
+            "B": "confirmation",
+            "C": "observation",
+            "D": "contradiction"
+          },
+          "answer": "B",
+          "explanation": "Context suggests the researchers have found evidence verifying a behavior previously unconfirmed, thus 'confirmation' is the best fit."
+        },
+        {
+          "q_number": 2,
+          "stem": "When researchers in Uganda set up camera traps to monitor African leopards and spotted hyenas, they had no idea that they would ____ so much more than just those animals.",
+          "options": {
+            "A": "discard",
+            "B": "evaluate",
+            "C": "ignore",
+            "D": "record"
+          },
+          "answer": "D",
+          "explanation": "The research involved using camera traps to capture images, so 'record' fits the action of capturing data."
+        },
+        {
+          "q_number": 3,
+          "stem": "Several of the traps, placed outside a cave known to host Egyptian fruit bats, caught on video a ____ of creatures feasting on the winged mammals.",
+          "options": {
+            "A": "magnitude",
+            "B": "solitude",
+            "C": "multitude",
+            "D": "latitude"
+          },
+          "answer": "C",
+          "explanation": "'Multitude' means a large number, which fits the description of many creatures feasting."
+        },
+        {
+          "q_number": 4,
+          "stem": "The bats are known carriers of Marburg virus, which can transfer into humans and cause a fatal haemorrhagic fever, so the footage offers real-time ____ into how disease can spread.",
+          "options": {
+            "A": "prejudice",
+            "B": "input",
+            "C": "oversight",
+            "D": "insight"
+          },
+          "answer": "D",
+          "explanation": "Footage provides visual understanding or 'insight' into the process of disease transmission."
+        },
+        {
+          "q_number": 5,
+          "stem": "Scientists know that bats can transmit viruses to humans either directly, or through an intermediate animal, from ____ detective work and other studies.",
+          "options": {
+            "A": "superficial",
+            "B": "artificial",
+            "C": "beneficial",
+            "D": "forensic"
+          },
+          "answer": "D",
+          "explanation": "Scientific investigation into disease transmission is described as 'forensic detective work'."
+        },
+        {
+          "q_number": 6,
+          "stem": "The team in Uganda thinks this is the first time that potential intermediate animals have been caught on camera in a known ____ for Marburg virus.",
+          "options": {
+            "A": "hotspot",
+            "B": "hazard",
+            "C": "handicap",
+            "D": "harmony"
+          },
+          "answer": "A",
+          "explanation": "A location where a disease is common or frequently found is called a 'hotspot'."
+        },
+        {
+          "q_number": 7,
+          "stem": "“It is certainly the first in such a well-documented ____,” says Gábor Kemenesi, a field virologist who was not involved in the study.",
+          "options": {
+            "A": "storm",
+            "B": "norm",
+            "C": "form",
+            "D": "worm"
+          },
+          "answer": "C",
+          "explanation": "The context discusses the quality of the video evidence, describing it as a 'well-documented form' of proof."
+        },
+        {
+          "q_number": 8,
+          "stem": "The researchers, who published their findings today in the journal Current Biology, ____ videoing 10 species scavenging on or catching bats.",
+          "options": {
+            "A": "reported",
+            "B": "denied",
+            "C": "resigned",
+            "D": "resolved"
+          },
+          "answer": "A",
+          "explanation": "The researchers published their findings, meaning they 'reported' their observations of the 10 species."
+        },
+        {
+          "q_number": 9,
+          "stem": "They saw blue monkeys dipping into the cavern to grab bats, a fight between a crowned eagle and a Nile monitor over two bats ____ by the eagle.",
+          "options": {
+            "A": "surrendered",
+            "B": "neglected",
+            "C": "captured",
+            "D": "released"
+          },
+          "answer": "C",
+          "explanation": "The eagle had caught the bats, so they were 'captured' by it."
+        },
+        {
+          "q_number": 10,
+          "stem": "And a leopard standing almost upright to snag bats from the cave. This might be the first confirmation that leopards ____ live bats.",
+          "options": {
+            "A": "herd",
+            "B": "hunt",
+            "C": "hatch",
+            "D": "harbor"
+          },
+          "answer": "B",
+          "explanation": "The action described is catching active prey, which is 'hunting'."
+        },
+        {
+          "q_number": 11,
+          "stem": "Even more astounding is that the team caught on video more than 200 people — tourists, trainees and children — ____ the cave during the four-month period.",
+          "options": {
+            "A": "approaching",
+            "B": "avoiding",
+            "C": "abandoning",
+            "D": "allocating"
+          },
+          "answer": "A",
+          "explanation": "The people were coming near the site, so 'approaching' is the correct verb."
+        },
+        {
+          "q_number": 12,
+          "stem": "This is despite warnings posted around the cave about Marburg virus, which has no ____ treatment or vaccine.",
+          "options": {
+            "A": "promoted",
+            "B": "provided",
+            "C": "prevented",
+            "D": "proven"
+          },
+          "answer": "D",
+          "explanation": "The virus lacks a medically verified cure, hence 'proven' treatment."
+        },
+        {
+          "q_number": 13,
+          "stem": "“I was pretty ____,” says Elke Mühlberger, a virologist at Boston University, regarding the number of people visiting the cave.",
+          "options": {
+            "A": "shifted",
+            "B": "shrunk",
+            "C": "shocked",
+            "D": "shared"
+          },
+          "answer": "C",
+          "explanation": "The scientist found the risky human behavior surprising or 'shocked'."
+        },
+        {
+          "q_number": 14,
+          "stem": "Contact with caves is the largest known contributor to humans ____ Marburg virus.",
+          "options": {
+            "A": "contacting",
+            "B": "contracting",
+            "C": "controlling",
+            "D": "contributing"
+          },
+          "answer": "B",
+          "explanation": "To get a disease is to 'contract' it."
+        },
+        {
+          "q_number": 15,
+          "stem": "According to an unpublished analysis, 43% of the 21 outbreaks of Marburg confirmed since 1967 have been ____ with visits to a cave.",
+          "options": {
+            "A": "associated",
+            "B": "assessed",
+            "C": "assembled",
+            "D": "asserted"
+          },
+          "answer": "A",
+          "explanation": "Statistical correlation indicates the outbreaks were 'associated' with cave visits."
+        },
+        {
+          "q_number": 16,
+          "stem": "For 29% of the outbreaks, cave contact has been ruled out; the remainder have unknown ____.",
+          "options": {
+            "A": "outputs",
+            "B": "origins",
+            "C": "outcomes",
+            "D": "outlets"
+          },
+          "answer": "B",
+          "explanation": "The beginning or source of an event is its 'origin'."
+        },
+        {
+          "q_number": 17,
+          "stem": "Bats in Python Cave have, in fact, been linked ____ to outbreaks of Marburg.",
+          "options": {
+            "A": "directly",
+            "B": "dimly",
+            "C": "duly",
+            "D": "drastically"
+          },
+          "answer": "A",
+          "explanation": "The link is explicit or 'directly' established."
+        },
+        {
+          "q_number": 18,
+          "stem": "An outbreak in 2007 at Kitaka mine, 50 kilometres from the cave, was ____ to bats that fly to the cave.",
+          "options": {
+            "A": "treated",
+            "B": "tamed",
+            "C": "traced",
+            "D": "tested"
+          },
+          "answer": "C",
+          "explanation": "Finding the source of an outbreak means it was 'traced' to that source."
+        },
+        {
+          "q_number": 19,
+          "stem": "There are ____ accounts of whether both the tourists went into the cave or merely peered into it.",
+          "options": {
+            "A": "confirming",
+            "B": "conflicting",
+            "C": "consenting",
+            "D": "consulting"
+          },
+          "answer": "B",
+          "explanation": "When versions of a story differ, they are 'conflicting'."
+        },
+        {
+          "q_number": 20,
+          "stem": "Jonathan Towner says that they probably came into contact with bat faeces or urine as the animals ____.",
+          "options": {
+            "A": "fled",
+            "B": "fed",
+            "C": "fell",
+            "D": "flew"
+          },
+          "answer": "D",
+          "explanation": "Bats are flying creatures, so the contact occurred as they 'flew'."
+        }
+      ]
+    },
+    {
+      "title": "Andy Burnham promises hope. Britain needs more than that",
+      "article_update_date": "06.28.2026",
+      "source_journal": "Economist",
+      "body_text": "Andy Burnham promises hope. Britain needs more than that Leaders | Our cover Andy Burnham promises hope. Britain needs more than that He shows little sign that he grasps the scale or urgency of the tasks that await him June 25th 2026 LOOK AT THE many signs of Britain’s decline. Growth is feeble and public debt has reached 95% of GDP. Public services are stuttering and the armed forces are depleted. The streets are grubby and the electorate is in a sulphurous mood. The BBC has even cancelled the “Doctor Who” Christmas special. Then there is the desultory way in which Sir Keir Starmer failed as prime minister. He was elected with a vast majority and a mandate to restore Britain, but he will leave Downing Street after just two years. His offence was not an epic misjudgment born of hubris, like David Cameron and his Brexit referendum. Nor was it a scandal, like Boris Johnson and his boozy Downing Street parties in lockdown. He committed no disastrous error, unlike Liz Truss and her budget. Sir Keir was simply unable to marshal power or say why he wanted it. His government wilted like a houseplant in a heatwave. Barring the wholly unexpected, Andy Burnham will soon become Britain’s seventh prime minister in a decade. He must reckon with this twin decline of Britain’s fabric and its politics. He cannot fix one without fixing the other. Yet he shows little sign that he grasps the scale or urgency of the tasks that await him. Mr Burnham, who returned to the House of Commons just last week, has talents Sir Keir lacks. Even at the end, the prime minister was unable to make the argument for why he should hold office, which is why this newspaper argued he should go. Shaking hands, building coalitions and winning arguments are not distractions for a prime minister, they are a core competence. Charming and combative, Mr Burnham has those skills in abundance. When populists on the left and right are disinterring bad old ideas, the centre’s survival depends on someone who can argue back. Mr Burnham’s manoeuvre to win the Makerfield by-election also showed an appealing audacity. He is pragmatic and experienced, after a long career in Westminster and as mayor of Greater Manchester. He has some decent ideas, too—including to devolve power to English regions and reform property taxes. But that hardly amounts to a project to arrest Britain’s decline. If Mr Burnham thinks an easy manner or an ability to skirt elephant traps is enough, then he has failed to understand just how much he needs to accomplish in order to avoid the fate that befell his six predecessors. A change of leader is the best moment to confront voters with the unwelcome reality that they are living beyond their means. Even as Britain faces demands to spend more on defence and infrastructure, the bond markets have put the Treasury on watch. The country has the highest borrowing costs of any member of the G7. Yet despite, in effect, auditioning to be prime minister in the Makerfield by-election, Mr Burnham has yet to set out a convincing programme to fix Britain. The core of his plans for office should be the country’s economic revival. His vagueness about whom he wants as his chancellor shows how, with weeks to go, his policy is still up in the air. Instead of considering a balance of simple tax rises and spending cuts, Mr Burnham is already resorting to people-pleasing. He claims he can find the money for more defence by cutting welfare, through “preventative” schemes rather than “crude cuts”, whatever that means. He plans to invest in infrastructure by finding the flexibility within the existing fiscal rules to eke out more borrowing. Rather than focus on making taxes more efficient, he has needlessly told voters that he will not increase the biggest revenue-raisers—the same straitjacket that forced Sir Keir into painful fiscal contortions. Mr Burnham’s instincts do not appear to lean towards a convincing programme either. One reason is his chameleon-like nature. Britain’s next prime minister twists with the wind and panders to the people in the room. His view on Europe depends on who is asking. In Makerfield he built a coalition of the aggrieved, from pub landlords hit by taxes to Nimbys upset by house-building—and then promised them better public services, hinting at tax cuts and smart new roads. At times, his theory of government amounts to a whinge about “the London set” who hold back the north. Nostalgia is a problem, too. At a time of extraordinary technological and geopolitical change, Mr Burnham tells voters that he can turn back the clock on “40 years of neoliberalism”. Instead of seizing the moment to prepare Britain for artificial intelligence, or to make the most of the country’s world-class services, he proposes to take control of utilities and bring back industrial jobs to northern England. That will soak up government time and money and it will fail, further discrediting the state and fuelling populism. A lot will come down to whether Mr Burnham is willing to take on his own MPs. Almost by definition, any programme of reform that is worth doing will require measures that the left does not like. After Sir Keir lost his authority, early in his term, the backbenches gained a taste for rebellion. Will the biddable Mr Burnham be able to say no? The Economist hopes Mr Burnham confounds our concerns. He may possess powerful insights into why Britain has become so sclerotic and unhappy. He may choose ministers and advisers who can build a programme for change, while he becomes salesman-in-chief. His slogan is “hope”: perhaps that can make hard truths palatable. Either way, he will have to be fast. British voters quickly tire of incumbents. They will tire all the faster of a prime minister who took power in a putsch. Mr Burnham’s circle say they have not had time to prepare for office. But they set the timetable. Their man is in no position to ask for patience. If Mr Burnham cannot rise to the task, he will be exposed quickly and the verdict will be brutal. He has made a career out of blaming Britain’s troubles on the elites in Westminster. Soon, those troubles will be his responsibility alone. ■ For subscribers only: to see how we design each week’s cover, sign up to our weekly Cover Story newsletter . This article was downloaded by zlibrary from https://www.economist.com//leaders/2026/06/25/andy-burnham-promises-hope-britain-needs-more-than-that",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, why is Sir Keir Starmer's tenure in office considered a failure?",
+          "options": {
+            "A": "He was involved in several high-profile political scandals.",
+            "B": "He failed to implement any significant economic reforms during his term.",
+            "C": "He lacked the necessary political acumen to project authority or define his governance goals.",
+            "D": "He alienated his own party members by making disastrous budgetary errors."
+          },
+          "answer": "C",
+          "explanation": "文章明确提到，Sir Keir Starmer 的失败不是因为丑闻或重大判断失误，而是因为他无法运用权力或说明为何需要权力（unable to marshal power or say why he wanted it），即缺乏政治决断力和明确的执政愿景。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest about Andy Burnham’s proposed economic policy?",
+          "options": {
+            "A": "It is overly reliant on borrowing despite warnings from bond markets.",
+            "B": "It provides a clear roadmap for balancing tax increases and spending cuts.",
+            "C": "It effectively prioritizes long-term investment over short-term political gains.",
+            "D": "It demonstrates a firm commitment to resisting the populist demands of his coalition."
+          },
+          "answer": "A",
+          "explanation": "文章指出 Burnham 试图在现有的财政规则下通过“挤出”更多借贷来进行基础设施投资，而此时英国面临最高的借贷成本，且他承诺不增加主要税收，这被作者视为一种类似前任的“财政紧身衣”。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The author characterizes Andy Burnham as 'chameleon-like' to highlight his _______.",
+          "options": {
+            "A": "tendency to adapt his political stance to suit his audience.",
+            "B": "ability to blend into the complex Westminster environment.",
+            "C": "skill in hiding his true intentions from political rivals.",
+            "D": "reputation for maintaining consistency amidst rapid change."
+          },
+          "answer": "A",
+          "explanation": "文中提到“chameleon-like nature”（变色龙般的本质）紧接着解释为他随着风向转变，并迎合房间里的人（twists with the wind and panders to the people in the room），说明他缺乏固定的政治立场，善于见风使舵。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Why does the author consider Burnham’s focus on reversing '40 years of neoliberalism' problematic?",
+          "options": {
+            "A": "It ignores the potential for international cooperation in the digital age.",
+            "B": "It prioritizes regressive industrial policies over forward-looking technological advancement.",
+            "C": "It alienates the northern electorate by favoring London-based economic strategies.",
+            "D": "It relies too heavily on artificial intelligence to solve complex social issues."
+          },
+          "answer": "B",
+          "explanation": "文章批评 Burnham 的怀旧心态，指出在科技变革时代，他不是准备 AI 等未来领域，而是试图夺回公用事业控制权并恢复工业就业，作者认为这不仅会浪费时间和资金，还会导致失败。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary message the author intends to convey regarding Burnham’s future?",
+          "options": {
+            "A": "Burnham is uniquely positioned to bridge the divide between elites and the public.",
+            "B": "Burnham must immediately confront hard truths to avoid the fate of his predecessors.",
+            "C": "Burnham’s emphasis on 'hope' is a sufficient substitute for concrete fiscal reform.",
+            "D": "Burnham’s experience as a mayor ensures he will successfully manage rebellious MPs."
+          },
+          "answer": "B",
+          "explanation": "全文主旨在于强调 Britain 的困境极其严峻，而 Burnham 表现得缺乏紧迫感和明确方案。作者最后警示，如果他不迅速采取行动并直面选民的严酷现实，他的结局将和前任一样悲惨。"
+        }
+      ]
+    },
+    {
+      "title": "Would-be suicide bomber sets off explosion in NYC",
+      "article_update_date": "04.16.2026",
+      "source_journal": "China Daily",
+      "body_text": "Police officers stand guard outside the New York Port Authority Bus Terminal in New York City, US December 11, 2017 after reports of an explosion. [Photo/Agencies] A would-be suicide bomber set off part of a homemade explosive device in a subway passage between Times Square and the Port Authority Bus Terminal in Midtown Manhattan during Monday's morning rush hour, seriously wounding himself and injuring three others, police said. The injuries to two commuters and a Port Authority police officer were all non-life threatening, according to the New York Fire Department. At a news conference, Mayor Bill de Blasio called the blast an attempted terrorist attack, and he said no other devices had been found. The suspect was identified by police as Akayed Ullah, 27, a Bangladeshi native, who lived in Brooklyn. He was in serious condition at Bellevue Hospital Center. Ullah acted alone, police said, and the device was reported to have gone off prematurely in the passage just 200 feet from the bus terminal at West 42nd Street and Eighth Avenue — one of the busiest transit hubs in the country — at 7:20 am, authorities said. Two commuters and a Port Authority police officer suffered minor injuries, officials said. The device was affixed to Ullah's body with Velcro and zip ties, police officials said. The explosion caused commuter chaos at one of the city's key traffic hubs. \"Our lives revolve around the subway,\" the mayor said. \"The choice of New York is always for a reason, because we are beacons of the world. And we show that a society of many background and many faiths can work.\" \"The terrorists want to undermine that,\" he added. \"They yearn to attack New York City.\" \"I'm glad I wasn't there. We were supposed to take a bus out at the time (when the accident happened), so I'm glad we waited,\" said Monica Gannon, who planned to take the bus back to New Jersey at this morning when the explosion happened. \"We are stuck here. Now we are waiting for all this to be over and go back home.\" \"I was evacuated from the terminal after it (the explosion) happened. It was terrible, and I was so scared when I saw some people running,\"said Alicia Carmona. She said she was evacuated from the terminal after the explosion and to wait outside the bus terminal for about two hours. Carmona said she planned to pick up her niece at LaGuardia Airport at around 9 am, but now she couldn't make it. \"I was thinking to take the subway instead, but the nearby subway stations are closed too.\"",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what was the primary outcome of the explosion in Manhattan?",
+          "options": {
+            "A": "Multiple fatalities were confirmed by the New York Fire Department.",
+            "B": "The attacker succeeded in causing significant damage to the transit hub.",
+            "C": "The suspect and three other individuals sustained non-lethal injuries.",
+            "D": "Commuter services were completely suspended throughout the entire city."
+          },
+          "answer": "C",
+          "explanation": "文章提到“seriously wounding himself and injuring three others”，并明确指出这些伤势均“non-life threatening”，即非致命伤，故C选项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Why does Mayor Bill de Blasio suggest that terrorists target New York City?",
+          "options": {
+            "A": "Because the city is a global symbol of diversity and coexistence.",
+            "B": "Because the city's subway system is poorly protected against attacks.",
+            "C": "Because the city serves as the main transportation hub for the nation.",
+            "D": "Because the city's political leaders are vocal about their religious faiths."
+          },
+          "answer": "A",
+          "explanation": "市长提到纽约是“beacons of the world”，并指出纽约展现了“a society of many background and many faiths can work”，恐怖分子正是想破坏这种多元共存的象征。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What can be inferred about the perpetrator's attempt according to the authorities?",
+          "options": {
+            "A": "He was assisted by an organized terrorist cell.",
+            "B": "The device detonated earlier than the intended time.",
+            "C": "The device was carefully placed to maximize structural damage.",
+            "D": "He specifically targeted a police officer during the morning rush."
+          },
+          "answer": "B",
+          "explanation": "文章提到“the device was reported to have gone off prematurely”，即装置提前爆炸，这暗示了爆炸并未完全按计划执行。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How did the explosion affect Monica Gannon's plans?",
+          "options": {
+            "A": "She was trapped inside the subway tunnel for two hours.",
+            "B": "She had to change her route to LaGuardia Airport.",
+            "C": "She narrowly avoided the blast by delaying her departure.",
+            "D": "She was evacuated from the terminal and had to walk to New Jersey."
+          },
+          "answer": "C",
+          "explanation": "Monica Gannon提到“We were supposed to take a bus out at the time... so I'm glad we waited”，说明她因为等待而错开了爆炸时间，避免了身处现场。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes the public response described in the passage?",
+          "options": {
+            "A": "The incident triggered widespread panic and a long-term closure of the terminal.",
+            "B": "Witnesses displayed indifference due to the frequency of such events.",
+            "C": "The chaos caused significant disruption and personal distress for commuters.",
+            "D": "Commuters quickly adapted by finding alternative transportation options."
+          },
+          "answer": "C",
+          "explanation": "文章引用了Alicia Carmona的话，描述了“terrible”的疏散过程和因交通中断导致的个人计划失败（无法接侄女），体现了爆炸带来的混乱和困扰。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4",
+      "article_update_date": "05.28.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Lauren Goode The Big Story Mar 25, 2026 6:00 AM Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs. Photograph: Jessica Chou Rene Haas is half-prone on a couch in his office in San Jose, California. A basketball rests in his hand, partly obscuring his face. Haas had grimaced when WIRED’s photographer first asked him to assume this position. The headlines came to him immediately: “People are going to say ‘Arm’s CEO sleeps on the job,’” he says. Still, Haas obliges. He gives us 46 minutes of his time, then shoos us out so he can hop on a call with Masayoshi Son , the Softbank CEO and chairman of Arm’s board. I’m meeting with Haas just days before the chip firm’s momentous announcement that it’s launching its own silicon. For a company that's made its fortunes licensing its architectures to other chip companies and never fabricating its own, the move is a huge bet. Apple, Tesla, Nvidia , Microsoft, Amazon, Samsung, and Qualcomm all make or sell chips based on Arm, either licensing the chip designs or paying royalties to the firm. It’s been estimated that there are three Arm chips for every human on Earth. Seen another way, though, making a chip marks a return to Arm’s roots. The company goes back to the late 1970s, when two computer architects started a company, Acorn Computers, that produced a microprocessor built on an architecture known as RISC. By the early ’90s the company was flailing, and the then CEO pivoted to licensing its designs to other companies. Fast-forward to the mid-2010s, and Arm’s power-efficient mobile chip designs helped make it the most important chip IP company in the world. The Big Interview Read more deep, weird, smart conversations with the most important people in our world. Arm’s trajectory hasn’t all been smooth. After Softbank acquired Arm in 2016 and took the publicly traded company private, the smartphone market’s growth slowed. Arm had to make an aggressive push into new lines of business. In 2020 Nvidia tried to scoop it up and regulators blocked the deal. As that deal collapsed, in 2022, Haas stepped into the CEO role. He took Arm public again, with Softbank still owning 90 percent of the company. Haas had joined Arm in 2013 from Nvidia, where he’d led the computing product business unit, and eventually took over Arm’s cash cow, the IP products group. Similar to the way Nvidia CEO Jensen Huang leans on his decades-long perspective of the industry—gather ’round the campfire, kids, while I tell you about the early days of parallel computing—Haas is quick to reference 1980s geopolitical chaos when asked whether current events make him worry about his business. (No.) He’s met with President Donald Trump half a dozen times, he tells me, but he’s not particularly concerned about the US government interfering in his UK company’s affairs. He is tall, though not particularly foreboding, and often wears Saint Laurent boots with little heels, a blazer, and a Panerai watch. Chip industry insiders say Haas, 63, is a masterful networker who pals around with the biggest names in tech. The Wall Street Journal once labeled him a “natural-born diplomat.” But with this chip project, one of the most loosely held secrets in the Valley, Arm—and Haas—risk rankling some of the company’s most loyal partners. Can you stay besties with people if, after years of polite dinner parties, you announce you’re buying their house? Haas seems convinced he can. This interview has been condensed and lightly edited for clarity. Lauren Goode: Since you became CEO, people say that there's been a big culture change. Do you agree with that assessment? Rene Haas: The thing that I've learned—I knew this intrinsically when I worked for Jensen, but I certainly internalized it when I took over here—is that the CEO sets the tone for the company. My training, which ultimately develops who you are as a leader, was really accelerated by moving to Silicon Valley 30 years ago, working with a few startups and then working for Nvidia. And the common theme between all those companies is that I was working for founders. At the time I couldn't tell you, \"Oh, working with founders, that's the kind of environment that I resonate with.\" But looking back, that’s where I think my DNA was shaped and where I found the environment I thrive in. What kind of environment is that exactly? Taking risks, bold growth, fast markets, making mistakes, but at the same time, being willing to take big bets. So when I took over here, I said, that’s the kind of culture I want. Was this Arm silicon project already in the works when you became CEO? No. How much of this was your idea, and how much of it was Masa’s? Was it his decision? No. I’m the CEO. Was he very aware and involved in the trade-offs and various things we looked at? Hundred percent. But this was more from a brainstorming perspective, as a partner of ideas, as opposed to your boss telling you, “Yes to this, no to this.” He’s not into that level of detail. One of the benefits from SoftBank’s 90 percent ownership of ARM is that he's our chairman, and he's our biggest shareholder, and as a result of that he’s someone I talk to all the time. We're pretty close. One analyst told me you talk to Masa 10 to 12 times per day. Some days. He does like to talk on the phone. I am up all hours. He knows my personal schedule very well. He knows when I get up, he knows my workout schedule. He knows when I go to sleep. He's pretty good about all that. What made you think this is the time for Arm to do this chip? So somewhere along the way, we morphed from an IP company into a compute platform company. And by that, I mean, when you think about the role the CPU plays in any ecosystem, there's such an interdependency between the hardware of the CPU and the software ecosystem, whether it's running Windows or macOS or iOS or Android or Linux. I don't think we acknowledged it or I don't think we understood its importance, but when I took over, I definitely knew that this was who we were and it was something that we had to advance. So why would we build a chip? When you’re a compute platform company, there are times when the ecosystem benefits from you physically building something. We've seen this in the past, whether it's Microsoft building a Surface laptop that helps the Windows ecosystem, while HP and Dell and Lenovo are still building laptops; or whether it’s Google building a Pixel phone, but meanwhile, Samsung still builds Android phones. Those products are still a sliver of their businesses. But it benefits the ecosystem. If you think about Gemini on a Pixel platform, if Gemini is optimized on Android, it helps Samsung. If you think about Microsoft developing tools or applications for Surface that benefit Windows, it will benefit HP, Lenovo, and Dell. That’s the thing that I think people haven't always understood about us. They say, \"Oh, it's an IP company.\" But the IP that we deliver is a compute platform, and ultimately platform companies need to do things to move the ecosystem forward. Photograph: David Paul Morris/Getty Images What’s the new chip called? It’s the Arm AGI CPU. AGI as in, artificial general intelligence? That's right. You like it? I don’t dislike it. I wonder if AGI is a term that's going to go out of fashion at some point, as the industry collates around some other ideas of super intelligence. I'm betting it won't. Who's your target customer for this? The first customer is going to be Meta . But we also have SK Hynix, Cisco, SAP, Cloudflare. We have multiple customers. And this is a chip designed for data centers. Data centers. What makes this chip special? There's a number of things, but one is that it's unbelievably power-efficient. This company was born from building chips to run off of batteries or in mobile phones. So we have this mindset around efficiency. And everything that you hear about the growth of AI is how much energy is needed. So anything you can do to deliver the world's most power-efficient server CPU is all goodness. This is going to be the most power-efficient CPU. The other thing that it’s going to be incredibly good at is running agentic AI. One of the myths out there has been that with the rise of AI, the GPU or the accelerator is everything. But when you look at how agents run inside the data center, that's work that only the CPU can do. The GPU doesn't go away, but it needs far more CPUs to run all the agents. Meta just struck two pretty big deals with Nvidia and AMD, for both CPUs and GPUs. This includes Nvidia’s new Vera CPUs, which are part of the bigger Vera Rubin superchip. That's right. Which is Arm. Pardon my French, but does launching your own CPU piss off a customer like Nvidia? Yeah, so, back to the platform discussion … It raises all boats. That is a very convenient answer. But it's not inaccurate. The more software that's written for Arm, the more optimizations that are done for Arm—all of that helps anybody that builds on Arm. The opportunity is massive. When you look at the amount of dollars associated with the data center and AI growth, it's just really large. To your question, does it piss off Nvidia? I'd imagine it will piss off Intel and AMD more than it pisses off Nvidia. Why is that? Because it takes market share from them. You’re referring to the fact that it’s Intel’s x86 architecture versus Arm architecture. So you don't think you’ll piss off your pal, Jensen, but that AMD and Intel may have some response to this. I use “piss off” as tongue-in-cheek. It's beneficial to the Arm ecosystem and it's beneficial to Jensen that we build a chip. If you've got [Nvidia’s] Vera chip, which is a great product, and you've got Arm AGI CPU, which is a great product, it's not great for Intel and AMD, that's all I know. Will Nvidia actually buy your CPU? Amazon execs appeared in a video at your event, vouching for your chip—will Amazon, which already has its own chips, buy yours? I’d love it if Jensen bought some, but the Vera CPU is already very closely coupled to his own chip, and they have their own networking technology to connect all their chips. And Amazon will probably continue to use their own Graviton chip. But we didn’t build this for Amazon, we built it because we think the market for Arm CPUs is really huge. It’s basically an underserved market. If you look at some of the early customers we have, like Meta, which is going to be using our chip in an air-cooled rack—they don’t need Nvidia’s NV Link. Or Cloudflare—they can’t buy Amazon’s Graviton chip, and they don’t have the wherewithal to build their own. Who is fabricating your chip? Co-packaging? Networking? TSMC. All TSMC. We’re also building a reference design of a server. Not “we,” but, we're working with partners like Super Micro and Foxconn. In today's day and age doing a chip by itself isn't enough. So we worked with partners in the ecosystem to deliver a full solution in terms of a server rack. You are now going to have to answer questions about volume and yield and gross margins. Yes. When I joined Arm from Nvidia in 2013, I remember",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes the strategic shift Arm is making by launching its own chip?",
+          "options": {
+            "A": "It is abandoning its core business of licensing IP to focus on hardware manufacturing.",
+            "B": "It is attempting to compete directly with its largest customers like Apple and Nvidia.",
+            "C": "It is leveraging its position as a platform company to stimulate the ecosystem for its partners.",
+            "D": "It is reverting to its original business model from the 1970s while phasing out royalty payments."
+          },
+          "answer": "C",
+          "explanation": "文章中Haas解释说，当公司从IP公司转变为计算平台公司时，偶尔需要亲自制造产品来推动整个生态系统的发展，就像微软通过Surface推动Windows生态一样，这最终是有利于其合作伙伴的。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the interview, what is the primary reason behind the development of the 'Arm AGI CPU'?",
+          "options": {
+            "A": "To maximize profit margins by selling directly to consumers instead of licensing.",
+            "B": "To address the underserved market and provide a power-efficient solution for data centers.",
+            "C": "To replace Nvidia's GPUs in the data center infrastructure.",
+            "D": "To force competitors like Intel and AMD out of the smartphone chip market."
+          },
+          "answer": "B",
+          "explanation": "Haas明确提到该芯片的优势在于极高的能效（power-efficient），专门为AI时代的数据中心设计，并指出这一市场目前是under-served（未被满足的）。"
+        },
+        {
+          "q_number": 3,
+          "stem": "How does Rene Haas perceive the potential friction with long-standing partners caused by this new project?",
+          "options": {
+            "A": "He fears it will result in an irreparable breach of trust with his peers.",
+            "B": "He views it as a necessary trade-off that will ultimately benefit the entire Arm ecosystem.",
+            "C": "He believes it only affects Intel and AMD, as those are the companies he aims to disrupt.",
+            "D": "He considers the concern exaggerated, as his partners have no other viable options."
+          },
+          "answer": "B",
+          "explanation": "Haas认为这种做法是‘It raises all boats’（水涨船高），因为Arm架构上写入的软件越多，优化越多，所有基于Arm构建的厂商都会受益，这是一种生态互利视角。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The author quotes Haas saying 'I use “piss off” as tongue-in-cheek' to imply that:",
+          "options": {
+            "A": "He is genuinely worried about insulting his business associates.",
+            "B": "He is using humor to minimize the severity of the market disruption.",
+            "C": "He is mocking the aggressive nature of his competitors.",
+            "D": "He is emphasizing his lack of concern for corporate diplomacy."
+          },
+          "answer": "B",
+          "explanation": "Tongue-in-cheek意为“半开玩笑地”或“不严肃地”。在文中，Haas用这个词来消解“惹恼合作伙伴”这一说法的严重性，表达他对商业决策的正当性信心。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is implied about the relationship between Rene Haas and Masayoshi Son?",
+          "options": {
+            "A": "Son maintains a rigid, top-down control over all of Arm's strategic projects.",
+            "B": "Their relationship is purely professional and limited to formal quarterly meetings.",
+            "C": "They maintain close, frequent communication, with Son acting as a partner in brainstorming ideas.",
+            "D": "Son is heavily involved in the technical details of the company's daily operations."
+          },
+          "answer": "C",
+          "explanation": "文中Haas提到他和Son关系密切，每天沟通多次，Son的角色更像是“partner of ideas”（观点伙伴），而非介入细节的严苛上司。"
+        }
+      ]
+    }
+  ]
+}
