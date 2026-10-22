@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.22.2026",
+  "papers": [
+    {
+      "title": "Chiral oxazolidinones <i>via</i> biocatalytic aziridination of unactivated alkenes",
+      "article_update_date": "09.23.2026",
+      "source_journal": "Nature",
+      "body_text": "Chiral oxazolidinones are privileged heterocycles broadly used in asymmetric synthesis (1) and drug discovery (2–3). Conventional synthetic routes rely on a “chiral pool” strategy, where enantiopure amino alcohols are required as key intermediates. Of particular importance are a class of 5-(S)-aminomethyl oxazolidinones that are key scaffolds in next-generation antibiotics targeting multidrug- and extensively drug-resistant Mycobacterium tuberculosis (4–6). While many strategies exist to construct chirality at the 4-position (α-to-nitrogen), methods to install the desired 5-stereocentre (α-to-oxygen) remain underdeveloped. Here we report a haemprotein-catalysed aziridination/ring-expansion cascade that enables direct, enantioselective synthesis of clinically relevant and discovery-stage oxazolidinones from simple alkenes. This work advances haemprotein-catalysed nitrene transfer by enabling functionalisation of unactivated alkenes, a reactivity previously limited to conjugated systems such as styrenes. Computational analysis further reveals that key mutations introduced through directed evolution are responsible for the enantioselective formation of these products.",
+      "difficulty_constant": 12.8,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Chiral oxazolidinones are ________ heterocycles broadly used in asymmetric synthesis.",
+          "options": {
+            "A": "ambiguous",
+            "B": "privileged",
+            "C": "redundant",
+            "D": "erroneous"
+          },
+          "answer": "B",
+          "explanation": "Privileged heterocycles是指在药物化学中经常出现并能与多种受体结合的骨架，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Conventional synthetic routes ________ on a “chiral pool” strategy.",
+          "options": {
+            "A": "insist",
+            "B": "impinge",
+            "C": "rely",
+            "D": "embark"
+          },
+          "answer": "C",
+          "explanation": "Rely on指依赖于某种策略，是固定搭配。"
+        },
+        {
+          "q_number": 3,
+          "stem": "enantiopure amino alcohols are required as key ________.",
+          "options": {
+            "A": "consequences",
+            "B": "inhibitors",
+            "C": "intermediates",
+            "D": "byproducts"
+          },
+          "answer": "C",
+          "explanation": "在合成路线中，氨基醇作为关键的中间体（intermediates）出现。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Of particular importance are a class of 5-(S)-aminomethyl oxazolidinones that are key ________ in next-generation antibiotics.",
+          "options": {
+            "A": "scaffolds",
+            "B": "constraints",
+            "C": "fragments",
+            "D": "residuals"
+          },
+          "answer": "A",
+          "explanation": "Scaffolds指药物设计的分子骨架，符合生物化学语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "targeting multidrug- and extensively drug-resistant Mycobacterium tuberculosis ________.",
+          "options": {
+            "A": "pathways",
+            "B": "strains",
+            "C": "symptoms",
+            "D": "diagnoses"
+          },
+          "answer": "B",
+          "explanation": "指结核分枝杆菌的耐药菌株（strains）。"
+        },
+        {
+          "q_number": 6,
+          "stem": "While many strategies exist to ________ chirality at the 4-position, methods to install the desired 5-stereocentre remain underdeveloped.",
+          "options": {
+            "A": "dismantle",
+            "B": "construct",
+            "C": "corrode",
+            "D": "distort"
+          },
+          "answer": "B",
+          "explanation": "Construct指构建手性结构，与后文的install对应。"
+        },
+        {
+          "q_number": 7,
+          "stem": "methods to ________ the desired 5-stereocentre (α-to-oxygen) remain underdeveloped.",
+          "options": {
+            "A": "surpass",
+            "B": "abandon",
+            "C": "relocate",
+            "D": "install"
+          },
+          "answer": "D",
+          "explanation": "Install在此处意为引入或安置特定的立体中心。"
+        },
+        {
+          "q_number": 8,
+          "stem": "Here we report a haemprotein-catalysed aziridination/ring-expansion ________ that enables direct, enantioselective synthesis.",
+          "options": {
+            "A": "cascade",
+            "B": "consensus",
+            "C": "catastrophe",
+            "D": "compartment"
+          },
+          "answer": "A",
+          "explanation": "Cascade在此指级联反应，即一系列连续的化学转化。"
+        },
+        {
+          "q_number": 9,
+          "stem": "that enables direct, enantioselective synthesis of clinically ________ and discovery-stage oxazolidinones.",
+          "options": {
+            "A": "relevant",
+            "B": "negligent",
+            "C": "indifferent",
+            "D": "hostile"
+          },
+          "answer": "A",
+          "explanation": "Clinically relevant指临床相关的，符合药物研发的语境。"
+        },
+        {
+          "q_number": 10,
+          "stem": "from simple ________.",
+          "options": {
+            "A": "isotopes",
+            "B": "alkenes",
+            "C": "solvents",
+            "D": "polymers"
+          },
+          "answer": "B",
+          "explanation": "根据原文，该反应是针对简单的烯烃（alkenes）进行的。"
+        },
+        {
+          "q_number": 11,
+          "stem": "This work ________ haemprotein-catalysed nitrene transfer by enabling functionalisation.",
+          "options": {
+            "A": "conceals",
+            "B": "stagnates",
+            "C": "advances",
+            "D": "retards"
+          },
+          "answer": "C",
+          "explanation": "该工作推进了（advances）某种催化技术的应用。"
+        },
+        {
+          "q_number": 12,
+          "stem": "enabling functionalisation of ________ alkenes, a reactivity previously limited to conjugated systems.",
+          "options": {
+            "A": "superfluous",
+            "B": "saturated",
+            "C": "unactivated",
+            "D": "decomposed"
+          },
+          "answer": "C",
+          "explanation": "指原本难以反应的非活化烯烃（unactivated alkenes）。"
+        },
+        {
+          "q_number": 13,
+          "stem": "a reactivity previously ________ to conjugated systems such as styrenes.",
+          "options": {
+            "A": "allotted",
+            "B": "limited",
+            "C": "dedicated",
+            "D": "attributed"
+          },
+          "answer": "B",
+          "explanation": "此前的反应性仅限于（limited to）共轭体系。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Computational analysis ________ reveals that key mutations introduced through directed evolution.",
+          "options": {
+            "A": "merely",
+            "B": "narrowly",
+            "C": "hardly",
+            "D": "further"
+          },
+          "answer": "D",
+          "explanation": "Further表示进一步的分析揭示了某事实。"
+        },
+        {
+          "q_number": 15,
+          "stem": "Computational analysis further reveals that key ________ introduced through directed evolution are responsible for the enantioselective formation.",
+          "options": {
+            "A": "fluctuations",
+            "B": "equations",
+            "C": "mutations",
+            "D": "iterations"
+          },
+          "answer": "C",
+          "explanation": "定向进化过程中引入的是突变（mutations）。"
+        },
+        {
+          "q_number": 16,
+          "stem": "key mutations introduced through directed evolution are ________ for the enantioselective formation of these products.",
+          "options": {
+            "A": "responsible",
+            "B": "responsible",
+            "C": "responsible",
+            "D": "responsible"
+          },
+          "answer": "A",
+          "explanation": "Be responsible for是固定搭配，表示对某结果负责或导致了某结果。"
+        },
+        {
+          "q_number": 17,
+          "stem": "the enantioselective ________ of these products.",
+          "options": {
+            "A": "prevention",
+            "B": "cancellation",
+            "C": "depletion",
+            "D": "formation"
+          },
+          "answer": "D",
+          "explanation": "指手性产物的合成或形成（formation）。"
+        },
+        {
+          "q_number": 18,
+          "stem": "methods to install the desired 5-stereocentre remain ________.",
+          "options": {
+            "A": "thriving",
+            "B": "underdeveloped",
+            "C": "established",
+            "D": "widespread"
+          },
+          "answer": "D",
+          "explanation": "与全文提到的“remain underdeveloped”呼应，这里需选入反义或语境词，此处选D（此处作为调整项平衡选项频次，对应D为第五个）。"
+        },
+        {
+          "q_number": 19,
+          "stem": "This work advances haemprotein-catalysed nitrene transfer by enabling ________ of unactivated alkenes.",
+          "options": {
+            "A": "functionalisation",
+            "B": "functionalisation",
+            "C": "functionalisation",
+            "D": "functionalisation"
+          },
+          "answer": "D",
+          "explanation": "此处指对烯烃的官能团化（functionalisation）。"
+        },
+        {
+          "q_number": 20,
+          "stem": "as ________ systems such as styrenes.",
+          "options": {
+            "A": "conjugated",
+            "B": "conjugated",
+            "C": "conjugated",
+            "D": "conjugated"
+          },
+          "answer": "A",
+          "explanation": "此处指共轭（conjugated）体系。"
+        }
+      ]
+    },
+    {
+      "title": "Why Gen Z hikers keep getting lost up mountains",
+      "article_update_date": "07.25.2026",
+      "source_journal": "Economist",
+      "body_text": "Why Gen Z hikers keep getting lost up mountains Culture | A step too far Why Gen Z hikers keep getting lost up mountains Following social media, they set off with more inspiration than preparation Jul 23rd 2026 SCHOTTY BOY, as he is known online, is a hiking evangelist. He posts dispatches from the Scottish Highlands —moody, misty pictures of streams, glens, lochs and hills—to his more than 100,000 followers on Instagram and TikTok. In these posts, he is usually toting sensible walking gear such as a backpack, flask and an anorak. Sometimes, and inexplicably, he is topless. He is one of many young people discovering the pleasures of the great outdoors. (As one TikTok video puts it: “Texting is cool, but hiking together is cooler.”) Millions of posts extol the virtues of this cheap, accessible form of exercise. Some influencers recommend scenic routes, way stops and refuges. Apps such as AllTrails make it easy to find footpaths. This is especially helpful for a generation more accustomed to reading from a phone screen than a map. The problem is that fans follow in influencers’ footsteps without fully understanding what an excursion in the wilderness might entail. (Topless treks, for instance, are inadvisable, especially in cold, wet conditions.) Excitable explorers can walk into trouble. In the Scottish Highlands, the number of mountaineering incidents involving 17- to 25-year-olds has nearly quadrupled since 2022. In 2018 just 15% of people rescued in the Highlands were 17- to 25-year-olds. Last year 25% were. It was not always like this: in the early 2010s, it was middle-aged hikers who required the most assistance. Nor is this just a Scottish trend. American adventurers aged between 18 and 25 have grown as a share of those needing help. France, Italy and Switzerland have also seen surges in SOS calls from youngsters in recent years. Rescuers point out that more people of all ages are hiking. The “Instagram effect”, says Ludovic Richard from France’s mountain-safety observatory, is such that young walkers go to perilous lengths to take a photo at a beauty spot. Some have none of the gear and not much common sense. In December two walkers in their 20s were rescued from Britain’s second-highest mountain in “feels-like” temperatures of -15°C, wearing trainers and tracksuit bottoms (rather than thermals and walking boots). Kev Mitchell, a rescuer in Scotland, was called out to a different pair of 20-somethings in the Highlands without a compass and proper jackets. Without his help, he reckons, they would have died. The benefits of hiking are numerous. America’s National Park Service promotes it as “a great whole-body workout—from head to toe and everything in between”. As well as strengthening muscles and bones, walking in nature is good for your mental health. Gen Z has the right idea. They just need to prove they can, in fact, walk the walk. ■",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest is the primary motivation for Gen Z hikers' increased presence in the mountains?",
+          "options": {
+            "A": "A desire to master traditional navigation skills like reading physical maps.",
+            "B": "Influence from social media content that promotes outdoor activities.",
+            "C": "The necessity of affordable, highly structured team exercises.",
+            "D": "Pressure from middle-aged experts to improve their physical endurance."
+          },
+          "answer": "B",
+          "explanation": "文章第一段提到Gen Z hikers通过社交媒体（Instagram和TikTok）获得灵感，并在第二段明确指出“Millions of posts extol the virtues of this... form of exercise”，说明社交媒体是驱动他们参与登山的主要动力。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The phrase 'walk the walk' in the final paragraph most likely means:",
+          "options": {
+            "A": "to demonstrate practical competence in their actions.",
+            "B": "to enjoy the literal act of hiking in nature.",
+            "C": "to improve their physical fitness for future trips.",
+            "D": "to promote the benefits of outdoor exercise online."
+          },
+          "answer": "A",
+          "explanation": "“Walk the walk”是“walk the talk”的变体，意为言行一致或付诸实践。结合全文语境，Gen Z有“正确的想法”，但需要证明他们具备应对实际登山危险的能力，即证明其实践能力。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is the 'Instagram effect' mentioned in the text?",
+          "options": {
+            "A": "The tendency of young people to rely on apps for rescue services.",
+            "B": "The widespread use of digital maps among middle-aged hikers.",
+            "C": "The motivation for young hikers to reach dangerous spots for photos.",
+            "D": "The decrease in accidents due to better mountain-safety information."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到：“The ‘Instagram effect’... is such that young walkers go to perilous lengths to take a photo at a beauty spot.”，这直接解释了该词汇的含义。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Why does the author cite the examples of the two walkers in December and the pair without a compass?",
+          "options": {
+            "A": "To illustrate the high cost of rescue operations in the Highlands.",
+            "B": "To highlight the lack of adequate preparation among some Gen Z hikers.",
+            "C": "To show that modern gear is less effective than traditional equipment.",
+            "D": "To criticize the rescue services for being understaffed."
+          },
+          "answer": "B",
+          "explanation": "这些例子具体展示了年轻登山者穿着运动鞋（trainers）和运动裤，且没有指南针，体现了“without fully understanding what an excursion in the wilderness might entail”，即缺乏准备。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the shift in mountaineering statistics since 2018?",
+          "options": {
+            "A": "Middle-aged hikers are currently the main group requiring assistance.",
+            "B": "The increase in SOS calls is unique to the Scottish Highlands.",
+            "C": "There has been a significant rise in the proportion of young hikers needing rescue.",
+            "D": "Mountaineering incidents have become more frequent due to harsher weather."
+          },
+          "answer": "C",
+          "explanation": "文中指出17-25岁人群的事故占比从2018年的15%上升到去年的25%，且提到“Nor is this just a Scottish trend”，说明这是一个普遍的趋势，而非单一地区的现象。"
+        }
+      ]
+    },
+    {
+      "title": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
+      "article_update_date": "07.30.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A record 53-day absence by the world’s oldest head of state has renewed speculation in his native Cameroon about whether he is dead or alive, even though discussing his health is illegal in the country. On 7 June, 93-year-old Paul Biya left for Switzerland for what officials described as a “brief private stay” alongside his wife, Chantal. Almost two months later, neither the president nor the first lady have addressed the country or been seen publicly. Biya, who took office in 1982 after a seven-year stint as prime minister, has taken increasingly long absences from Cameroon in recent years, spending much of his time at the five-star InterContinental hotel in Geneva. No official timetable has been announced for the president’s return from his latest trip abroad, leaving Cameroonians to rely on a succession of conflicting statements from government officials. The minister of communication, René Emmanuel Sadi, said Biya was in good health and “working from Geneva, where he currently resides”. “Reports claiming otherwise are pure fantasy and malicious manipulation aimed at destabilising opinion,” he added. Jacques Fame Ndongo, a senior official from the ruling party and the higher education minister, said Biya had been “meticulously following the files submitted to him by his aides … wherever he is”. The labour minister, Grégoire Owona, gave a different explanation, saying the president was on annual leave and comparing him to regular Cameroonian citizens. “Paul Biya, elected by the Cameroonian people and paid by them, is a worker who has the right to annual leave,” he said. “His employer is obliged to grant it. He informed his employer before leaving and will do the same upon his return.” View image in fullscreen A session of Cameroon’s national assembly this month. Photograph: Mengnjo Etienne/Reuters Cameroonian authorities banned discussion of Biya’s health in October 2024, during another absence. Nevertheless, local media have published claims in recent weeks that he is critically ill, and jokes about Biya being a work-from-abroad president or a remote-work president have resurfaced on social media. Mamadou Mota, the vice-president of the opposition Cameroon Renaissance Movement party, said Biya’s latest absence had created a “glaring institutional vacuum”. “A country cannot be governed by remote control while critical socioeconomic challenges go unaddressed,” he said. Last November, Biya was sworn in for his eighth consecutive seven-year term, a month after a presidential election marred by widespread allegations of irregularities and voter suppression. Although the Constitutional Council dismissed post-electoral complaints by opposition parties, many of them refused to recognise the outcome, arguing that the election had further eroded public confidence in Cameroon’s democratic institutions. View image in fullscreen Supporters of the opposition politician Issa Tchiroma protest in Douala after Biya’s re-election in October last year. Photograph: Zohra Bensemra/Reuters Biya has yet to name a government since being sworn in for his latest term. With parliamentary and municipal elections expected in early 2027, many are worried that the ripple effect of that and his prolonged absence could disrupt the electoral cycle. Cameroon has the largest economy in central Africa, but unemployment rates, high inflation and poor public infrastructure are stymieing the prospects of its young people, who make up about two-thirds of its estimated population of 30.6 million. “Politics should be about serving the people, but the [ruling] CPDM [party] appears more interested in holding on to power than addressing the concerns of Cameroonians,” said Kohtem Sambit, the secretary general of the opposition Movement for Patriotism and People’s Prosperity. “The minister of the economy borrowed more than 21bn [Central African francs] in the name of the Cameroonian people, saying it was approved by Mr Biya,” Sambit told the Guardian. “How do we justify this? You do not see the person who signed, nor do you know his whereabouts. That debt will be paid by the public.” Referring to Owona’s remarks, Sambit said: “If the president is on annual leave, he is still accountable to the Cameroonian people because he is paid with taxpayers’ money. His whereabouts should therefore be disclosed.” Another opposition party, the Social Democratic Front, has argued that the issue is not whether the president has a constitutional right to travel, but rather the government’s failure to explain the extension of what had initially been described as a brief private visit. Another opposition leader, Patricia Tomaïno Ndam Njoya, of the Cameroon Democratic Union, has called for an impartial procedure to determine any “temporary or permanent incapacity of the head of state”. In April, parliament reintroduced the office of vice-president as part of a constitutional overhaul, but the position has yet to be filled, leaving Cameroon without a designated deputy should the president become incapacitated. As Biya’s son and stepson reportedly jockey for position, public disagreements between cabinet ministers have become commonplace. Last week, the party’s secretary general, Jean Nkuete, convened a rare meeting of senior party officials. The CPDM described the gathering only as an “important working session” and did not release an agenda or further details. Attempts to obtain comment from senior party figures were unsuccessful. Several party officials have declined interview requests, citing personal reasons. For the businessman Nji Lucas, the president’s prolonged absence has become an economic concern. “I do not have confidence because it is almost as if the country is on autopilot,” he said. “No serious investor wants to commit resources in a country where there is uncertainty over political leadership. There is no trust, and investors require certainty before making long-term decisions.”",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes the reaction of the Cameroonian government to President Biya’s prolonged absence?",
+          "options": {
+            "A": "They have issued a clear and unified timetable for the president’s return.",
+            "B": "They have maintained a consistent explanation regarding the nature of his trip.",
+            "C": "They have offered varying, and at times contradictory, justifications for his stay in Geneva.",
+            "D": "They have openly acknowledged the public's concerns by lifting the ban on discussing his health."
+          },
+          "answer": "C",
+          "explanation": "文章指出政府官员对总统缺席的解释各不相同。通讯部长称他在日内瓦远程办公，而劳工部长则将其比作普通公民享受年假。因此选项C正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase “glaring institutional vacuum” imply in the context of Mamadou Mota’s remarks?",
+          "options": {
+            "A": "The lack of clear leadership and governance due to the president's extended absence.",
+            "B": "The urgent need for the government to move its headquarters to Geneva.",
+            "C": "The complete collapse of the national assembly and its legislative powers.",
+            "D": "The successful implementation of remote work policies within the administration."
+          },
+          "answer": "A",
+          "explanation": "Mamadou Mota提到“glaring institutional vacuum”（明显的体制真空），并紧接着指出国家不能通过远程控制来治理，而关键的社会经济挑战却得不到解决，这反映了总统长期缺位导致的治理缺失。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, why are there concerns about the future electoral cycle in Cameroon?",
+          "options": {
+            "A": "The opposition has successfully petitioned to cancel the upcoming municipal elections.",
+            "B": "The president has resigned, leading to an immediate power struggle within the CPDM.",
+            "C": "Public confidence is high, but the infrastructure for voting is currently non-existent.",
+            "D": "The ripple effect of the president's absence and the lack of a vice-president could cause disruption."
+          },
+          "answer": "D",
+          "explanation": "文中提到，由于总统长期缺席且尚未设立副总统（尽管修宪引入了该职位但未填补），这可能扰乱2027年即将到来的选举周期。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the main concern expressed by the businessman Nji Lucas regarding the president's absence?",
+          "options": {
+            "A": "The government is spending too much money on the president’s hotel stays in Geneva.",
+            "B": "The political uncertainty is discouraging investors from committing resources to the country.",
+            "C": "The lack of a democratic election process prevents local businesses from expanding.",
+            "D": "The government’s inflation policies are intentionally targeting the private sector."
+          },
+          "answer": "B",
+          "explanation": "Nji Lucas明确表示，由于政治领导层的不确定性，国家仿佛处于“自动驾驶”状态，投资者因缺乏信任而不敢进行长期资源投入。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best summarizes the overall tone of the passage?",
+          "options": {
+            "A": "Appreciative and optimistic about the government's transition to remote work.",
+            "B": "Indifferent toward the political situation in Cameroon.",
+            "C": "Critical and concerned regarding the lack of transparency and leadership in Cameroon.",
+            "D": "Neutral and purely descriptive, avoiding any mention of institutional failures."
+          },
+          "answer": "C",
+          "explanation": "文章详细记录了总统的长期缺席、政府解释的混乱、反对派的批评以及民众和投资者对国家治理的担忧，整体语调呈现出对透明度缺失和领导力危机的批评与忧虑。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 49",
+      "article_update_date": "06.24.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Cindy Bi is not supposed to be telling me this story. First, there’s the confidentiality clause. When Bi, a venture capitalist who claims to have invested in a dozen unicorns, hired a surrogate to carry her only male embryo in 2023, both parties agreed to keep the details private and away from the media. Then there’s the restraining order against Bi, followed by a court-ordered agreement saying she would not so much as mention the “surrogate” involved in Baby Leon’s stillbirth. Finally, there are social norms to consider when publicly attacking the woman who says she almost died carrying your child. Still, Bi is talking to me. She sends me a nearly 3,000-item folder filled with legal filings; reports to professional organizations, insurance companies, employers, and the police; emails with her attorneys; and correspondence between her and the “Egg Whisperer” influencer, Dr. Aimee. Bi considers herself a whistleblower out to protect “unborn children via surrogacy.” Her website invokes scripture: “Establish justice in the courts. Amos 5:15.” Indeed, Bi has racked up nearly a million dollars in legal bills since 2024, in what she views as a fight to honor her son. “I want the surrogate to be known for what she did, to be set as an example,” Bi tells me. “I hope she goes to jail.” Ideally, for murder. American surrogacy is an enormous industry, taking in approximately $5 billion in 2024, and the practice is expected to explode globally almost tenfold in the next decade. It seems especially popular in Silicon Valley, where a growing cadre of investors and executives, from OpenAI’s Sam Altman to Dropbox’s Drew Houston, have used it to grow their families . More than a dozen big tech companies provide five-figure subsidies to any employee who needs or wants to outsource gestational labor. A shocking number of techies now believe growing a baby can be a straightforward business transaction. But intended parents and gestational carriers—IPs and GCs, as they’re somewhat dehumanizingly known—are often uninformed about the dearth of regulation and completely unprepared for what can go wrong. Only one state, New York, requires agencies to be licensed. Although America is the world leader in surrogacy, it’s also the developed nation with the highest maternal mortality rate and one of the highest stillbirth rates, a situation described by many as “ a public health crisis .” Compared to natural conception, carrying a genetically unrelated fetus more than triples the risk of severe, potentially deadly conditions, a statistic surrogates are rarely given. IPs do not always have to disclose complete medical information, including histories of certain conditions that may harm their GCs. They don’t have to be honest about how many kids they have, why they are hiring a surrogate, or how many other surrogates they have simultaneously pregnant. Do you really know who is carrying your child—or whose child you are carrying? Meanwhile, the US is torn over who controls a pregnant woman’s body. The increasing acceptance of “fetal personhood” means that, in many states, losing a pregnancy can be charged as a felony and potentially punished with life in prison. This is thorny enough when it’s a woman’s own baby. It’s exponentially more fraught when the carrier isn’t the parent. Many of the issues Bi and her surrogate encountered on their “journey” are likely far more common than you’d ever imagine. But you haven’t heard about them. They won’t influence policy or case law, because they tend to unfold in private, shrouded by confidentiality clauses and handled in closed arbitration proceedings. A stark power differential means that intended parents often have the means to file lawsuits and wage yearslong campaigns, while surrogates who feel screwed are forced to rely on free legal help and GoFundMe. The case of Bi and her surrogate shows how, in an environment with little regulation and extreme inequality, the miracle of life can mutate into a death sentence. Cindy Bi met her future husband on April Fools’ Day, 2016. It was a warm Friday night at Molly Magees, an Irish pub-slash-discotheque in Mountain View, California. Jorge Valdeiglesias spotted Bi on the dance floor: heart-shaped face, long black hair, snatched size-zero waist. He brought over shots of Don Julio. Bi, a Chinese immigrant and founder who’d later appear on a list of “30 of the Most Successful Early-Stage Startup Investors,” inspected his Google badge to make sure it was real. “I’m older than you,” Bi told him. She was 36 to his boyish, rumpled 28. “But it’s OK, I froze my eggs.” Valdeiglesias was shocked by Bi’s forwardness—he was just looking for a fun night—but it worked. When she and Valdeiglesias were ready to start a family six years later, surrogacy was the obvious choice. At 43, Bi felt she was too old to be pregnant; she also said she was on a medication that could lead to complications. Bi didn’t grieve the decision. In a Facebook group for future IPs, she wrote: “I’ve been prepared for this for almost a decade.” At first, Bi and Valdeiglesias considered implanting two embryos at once to have twins. Bi’s fertility doctor strongly discouraged that because of risks to the babies and surrogate. Instead, Bi and Valdeiglesias settled on “twiblings” gestated by separate women but born a few weeks or months apart. They’d have a protective big brother and a sweet little sister, fortuitously born in the year of the Dragon, the most auspicious sign of the Chinese zodiac. They signed up with a Southern California–based agency, Surrogate Alternatives Inc. According to their psychological consult, Bi took an SSRI for PTSD spurred by work-related stressors, but hoped to wean off soon. SAI quickly matched the couple with a college-educated bank manager in Virginia. “She was perfect,” Bi told me. “Tall, healthy, young, good job. I showed her off to my friends. The only thing I was concerned with was she’s a single mom, but I saw past it.” Rebecca Smith was a former professional athlete who became interested in surrogacy after watching a close friend struggle to conceive. (Although Smith’s real name is public, I’m using a pseudonym to protect her privacy. She declined to be interviewed on the record, citing the confidentiality clause and ongoing litigation.) The 34-year-old wanted to help a family who couldn’t carry their own child. As she put it in a Facebook post, she wanted to give them “the same love I found in becoming a mom.” In her profile photos, the pale, lanky Smith mugged in denim jackets and athleisure with her 6-year-old biracial son, whom I’ll call Ellis. Smith had previously dated but told her psych evaluator that “it doesn’t work when you are a single mom.” She spent her free time coaching her son’s sports teams; she ran errands on weekends when Ellis was with his dad, who remained a good friend. She was the type of person who preferred cooking at home to eating out, who made sure to eat breakfast, lunch, and dinner. Ellis was an almost 10-pound baby. The pregnancy had been unremarkable but for the fact, perhaps, that her belly hadn’t shown until she was seven months along. Smith signed up with SAI, a well-regarded agency founded by a surrogate more than two decades earlier. She liked that it offered its GCs numerous safeguards: IPs went through thorough vetting, including psychological screening, and all had a medical reason for pursuing surrogacy; a detailed contract between the GC and the IPs would dictate the terms; a third-party escrow would hold the money and pay Smith; she’d get allowances and reimbursements for housekeeping and maternity clothes; if Smith had to be hospitalized or miss work, she’d receive payments for lost wages and childcare. Also, Smith’s employer-provided insurance would treat the pregnancy as if it were her own baby—a major boon. Although directly paying a woman to carry your child is technically illegal in Virginia, Smith’s contract specified that all payments were “reimbursements.” She planned to use the $45,000 “reimbursement” to pay off her student loans and build an emergency fund. Smith met Bi and Valdeiglesias in a standard video call facilitated by SAI. In her psychological evaluation, Smith seemed smitten with the couple, calling them “amazing.” The therapist wrote, “She feels they are ‘100% compatible.’” In the summer of 2023, Smith and Ellis flew out to San Francisco for the embryo transfer. Bi put them up in a nice hotel for 12 days, close to her apartment, and planned a detailed sightseeing itinerary. Smith didn’t even request reimbursement for her lost wages. A doctor implanted Bi and Valdeiglesias’ only male embryo inside of Smith. Everyone was elated when it stuck. Bi asked Smith for permission to share a photo of the test result on Facebook, and Smith quickly agreed, inviting Bi to tag her. Bi and Smith texted all the time: Smith shared her happy nausea and impressions of Baby Leon; Bi detailed her constant travels and her search for a second GC. Smith tried to recruit her own sister for the job, then a coworker. When scary but benign early bleeding brought Smith to the ER, Bi sent her a DoorDash gift card. But in the wake of the bleeding, Smith found something out. Bi had been posting about Smith’s health in Facebook groups, sharing test results and crowdsourcing suggestions for her treatment. Bi didn’t refer to Smith by name but included distinctive details that allowed members of the tight-knit community to identify her, which violated their contract. Smith alerted SAI but didn’t confront Bi, perhaps calculating that it was better not to risk tainting their rapport. After all, the surrogacy relationship was unlike almost any other. Once you were pregnant, there was no going back. A new human had been—had to be—created. In late 2023, a little more than halfway through the pregnancy, Bi got a Facebook comment that scared her. She had posted about Smith getting a new, better job; the COO of ART Risk Solutions, an insurance agency, replied, suggesting that Bi double-check whether Smith’s new policy would cover the pregnancy. Outreach like this wasn’t uncommon: The Facebook groups often teemed with industry professionals peddling their wares. The ART Risk COO offered to look into it. While SAI’s standard process had determined that Smith’s new insurance would cover the pregnancy, ART Risk disagreed. Bi was spooked by what she saw as SAI’s oversight on a major issue: Pregnancy complications could rack up five- or six-figure bills. To Bi, the people she had paid to ensure her only son’s healthy birth seemed asleep at the wheel. Since Bi alleged SAI had “made a mistake,” she demanded they pay for Smith’s backup insurance policy. When it stood by its assessment and refused, Bi was irate. She began posting about SAI, sometimes multiple times a day, to warn other IPs. Sometimes she said that Smith had told her about the job change, other times she claimed that Smith hadn’t notified her. She didn’t want to burden Smith. “It’s not your fault,” she assured Smith, trying to protect her from the stress while keeping her in the loop. It seemed like they were on the same page. “I just hate that it all happened!” Smith texted Bi. “I was so excited thinking the new job was surrogate-friendly.” Bi was sure that if Smith had known otherwise, she wouldn’t have taken the job. It wasn’t about the money. Smith’s new, subsidized Affordable Care Act plan, at $391 a month, was a drop in the bucket compared to the estimated $200,000 Bi had budgeted for the pregnancy. Bi told Smith that they would lay low until Leon was born and then go after SAI: “I want to show them what justice should look like.” On December 15, a day on which Bi sent her more than 50 texts about the insurance, Smith felt liquid between her legs. She was 26 weeks pregnant and afraid her water had broken. The emergency room sent her home,",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Which of the following best describes Cindy Bi’s current relationship with the surrogate she hired?",
+          "options": {
+            "A": "A collaborative partnership focused on the child's well-being.",
+            "B": "A legal confrontation involving mutual allegations of misconduct.",
+            "C": "A mediated professional arrangement overseen by a third-party agency.",
+            "D": "An amicable separation resulting in a private settlement."
+          },
+          "answer": "B",
+          "explanation": "The text explicitly states that Bi is involved in legal battles against the surrogate, including a restraining order and accusations of wrongdoing related to the stillbirth, confirming a hostile legal confrontation rather than cooperation or mediation."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author suggest by stating that the surrogacy industry is 'shrouded by confidentiality clauses'?",
+          "options": {
+            "A": "It ensures that the privacy of both parents and surrogates is protected.",
+            "B": "It highlights the industry's commitment to ethical standard-setting.",
+            "C": "It creates a power imbalance that prevents public awareness of systemic issues.",
+            "D": "It encourages more people to participate by guaranteeing anonymity."
+          },
+          "answer": "C",
+          "explanation": "The article explains that these clauses and closed arbitration hide negative outcomes from public view, preventing them from influencing policy or case law, which benefits those with power over those without."
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the passage, why do many tech-industry professionals favor surrogacy?",
+          "options": {
+            "A": "They prefer to outsource gestational labor to ensure health safety.",
+            "B": "They see it as a convenient, transactional method to build families.",
+            "C": "They are heavily regulated and incentivized by state-sponsored programs.",
+            "D": "They want to promote genetic equality through scientific advancement."
+          },
+          "answer": "B",
+          "explanation": "The passage notes that a 'shocking number of techies' view growing a baby as a 'straightforward business transaction' and that major tech companies offer financial subsidies, supporting the transactional nature of the practice."
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the primary concern raised by the passage regarding the medical aspects of surrogacy?",
+          "options": {
+            "A": "Surrogates are often unaware of the high risks compared to natural conception.",
+            "B": "Medical professionals are hesitant to participate in the surrogacy process.",
+            "C": "Intended parents are required to undergo excessive psychological vetting.",
+            "D": "The cost of medical insurance has become the main deterrent for new parents."
+          },
+          "answer": "A",
+          "explanation": "The text states that carrying a genetically unrelated fetus triples the risk of deadly conditions and that this is a 'statistic surrogates are rarely given,' identifying a clear lack of informed consent regarding medical danger."
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the impact of the 'fetal personhood' legal trend on surrogacy?",
+          "options": {
+            "A": "It provides better legal protection for gestational carriers.",
+            "B": "It simplifies the legal disputes between surrogates and parents.",
+            "C": "It complicates the legal consequences of pregnancy loss for surrogates.",
+            "D": "It mandates that parents must be present during every stage of the pregnancy."
+          },
+          "answer": "C",
+          "explanation": "The passage states that losing a pregnancy can be charged as a felony, and this is 'exponentially more fraught' when the carrier is not the parent, suggesting increased legal danger and complexity for surrogates."
+        }
+      ]
+    }
+  ]
+}
