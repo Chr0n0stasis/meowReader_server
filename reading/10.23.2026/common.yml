@@ -1,0 +1,19 @@
+articles:
+- article_id: epub_10
+  journal_name: Economist
+  publish_date: 09.17.2026
+  title: Politics
+- article_id: epub_15
+  journal_name: Wired
+  publish_date: 08.15.2026
+  title: Chapter 15
+- article_id: rss_11_1775762120
+  journal_name: China Daily
+  publish_date: 04.09.2026
+  title: UK and China allow more direct flights
+- article_id: rss_0_1792268431
+  journal_name: The Guardian
+  publish_date: 10.17.2026
+  title: LGBTQ+ people go into hiding in Senegal as hundreds are arrested
+generate_date: 10.23.2026
+strategy: common

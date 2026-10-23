@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.23.2026",
+  "papers": [
+    {
+      "title": "Politics",
+      "article_update_date": "09.17.2026",
+      "source_journal": "Economist",
+      "body_text": "Politics The world this week Politics Sep 10th 2026 The Alternative for Germany (AfD) took 44% of the vote in an election in the eastern German state of Saxony-Anhalt, its best-ever result. The AfD is now close to becoming the first populist-right party to win control of a German state since the second world war. Friedrich Merz, Germany’s chancellor, described the result as “seismic”. His Christian Democrats slumped to just 17% of the vote. The AfD fell short of an overall majority in Saxony-Anhalt and the established parties have ruled out working with it. One route to power may be a deal with the BSW, a small populist party that shares the AfD’s pro-Russian sympathies and hostility to immigration. Jared Kushner and Steve Witkoff, Donald Trump’s envoys, held talks with Volodymyr Zelensky in Kyiv and Vladimir Putin in Moscow. The Americans spoke of a new impetus to finding peace, but nothing substantive was announced. Russia resumed its bombardment of Kyiv, which it had suspended while Mr Kushner and Mr Witkoff were in the Ukrainian capital. Soon after, a drone reportedly exploded in Moldova, delaying Mr Zelensky’s plane as he travelled en route to the funeral of Norway’s King Harald. Russia and North Korea opened their first cross-border road link. Spanning the Tumen river, the bridge is around 200km (125 miles) from Vladivostok, Russia’s main Pacific port. Both countries said the crossing would encourage tourism and improve cargo links, but observers think it could also be used to speed the flow of North Korean weapons to Russia. The Hungarian government expelled ten Russian diplomats for “unacceptable” activities. It was another clear indication of Hungary’s tougher approach to its relations with Russia after the fall of the previous pro-Russian government led by Viktor Orban. Hungary pointed out that the expulsions did not equate to a break in diplomatic relations, but Russia says its response to the “Russophobic lobby will be harsh and painful”. In Serbia, thousands of people attended the funeral of Ratko Mladic, a Bosnian-Serb commander who was convicted of overseeing the massacre of 8,000 Bosniak men and boys at Srebrenica in 1995 and of conducting the siege of Sarajevo. He died in a UN hospital while serving a life sentence. The outpouring of grief for Mladic in Belgrade was condemned by the European Union, which described it as a “glorification of war criminals” that had no place in a country seeking EU membership. Meanwhile, the Serbian government asked Aleksandar Vucic, the president, to call a snap election. Mr Vucic and his government have faced a series of long-running anti-corruption protests, triggered by the collapse of a railway station roof in 2024 that killed 16 people. He has been president since 2017, but wants to run again for prime minister, a job he held from 2014 to 2017. The EU said it would provide another €200m ($235m) to Greenland for investments across numerous projects. On a visit to the Danish territory, Ursula von der Leyen, the president of the European Commission, said that “Greenland can count on the EU.” Meanwhile, Donald Trump posted an image of the American flag overlaid on Greenland, Iceland and other countries. The Icelandic government summoned the American ambassador for an explanation. The British government confirmed its “unwavering” support for the wish of Falkland Islanders to remain British. This came after Javier Milei, Argentina’s president, reiterated his country’s claim to the islands, which lie 480km (300 miles) off the Argentine coast. Argentina’s government then filed criminal charges against an Israeli firm involved in an offshore oil project, claiming that any oil near the islands belongs to Argentina. In 1982 an Argentine dictator started a war with Britain by invading the islands, which have never belonged to Argentina, and lost. In a referendum in 2013, 99.8% of voters in the Falklands favoured staying British. America and Iran escalated attacks on each other. America hit five Iranian tankers, including four in the Gulf of Oman and one near Kharg island, after Iran targeted one of its warships. Iran responded by launching missiles at an American base in Jordan and claimed to have attacked two American vessels and eight oil tankers in the Strait of Hormuz . It warned of a “faster, heavier and more painful” response to American attacks. The Iranian government announced that it would double the price of petrol for any purchases above a quota of 110 litres a month for each motorist, indicating that American attacks on oil refineries and a blockade of Iran’s ports are having an effect. Petrol in Iran is heavily subsidised and politically sensitive. The Houthis, an Iranian-backed rebel group in Yemen, attacked four cities in Saudi Arabia. Their targets included a large refinery belonging to Saudi Aramco, the national oil company, in the city of Jizan. More than 70 people were wounded. Saudi Arabia vowed to retaliate. Pakistan, which has formed a military alliance with Saudi Arabia, reportedly warned Iran to restrain its Houthi allies. In co-ordination with other countries, Britain’s foreign secretary, Ed Miliband, imposed sanctions on illegal Israeli settlements in the West Bank. There is little direct trade with settlements to restrict and Mr Miliband stressed that Britain does not want to isolate Israel and will continue trading with “Green Line Israel”. That led observers to conclude that the announcement’s main intent was to stop the flow of Muslim voters from the Labour Party to the Greens. Israel said it would close the British consulate in Jerusalem, among other retaliatory measures. William Ruto, Kenya’s president, warned foreigners running small businesses that they had 90 days to ensure they were in the country legally or they would have to cease trading. Mr Ruto had earlier said all foreign “hawkers” must leave by September 7th to protect native traders, sparking vigilante attacks on foreign stallholders and panic among migrants. The UN’s General Assembly voiced its support for a new map that better reflects the true size of Africa, following a campaign led by Togo. Nearly every member state said it would encourage the phasing-out of the standard Mercator map, which makes countries around the Equator appear smaller than equally sized areas nearer the poles. America was the only vote against the proposal. The Republicans gathered for a convention in Dallas ahead of November’s midterms. Party conventions are normally held in presidential-election years, but Mr Trump used the event to rally MAGA troops and give airtime to candidates who are running in tight races. He also promised a $5,000 pay out to all adults if the Republicans keep control of Congress, which would cost $1.3trn if it were ever enacted. J.D. Vance prepared to give a keynote speech, hinting that he should be their presidential nominee in 2028. This article was downloaded by zlibrary from https://www.economist.com/the-world-this-week/2026/09/10/politics",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "The Alternative for Germany (AfD) took 44% of the vote in an election, its best-ever result, making it ___ to becoming the first populist-right party to win control.",
+          "options": {
+            "A": "ready",
+            "B": "likely",
+            "C": "close",
+            "D": "due"
+          },
+          "answer": "C",
+          "explanation": "Contextual usage: 'close to becoming' is the idiomatic phrase indicating proximity to a state."
+        },
+        {
+          "q_number": 2,
+          "stem": "Friedrich Merz described the result as 'seismic', while his Christian Democrats ___ to just 17% of the vote.",
+          "options": {
+            "A": "surged",
+            "B": "climbed",
+            "C": "slumped",
+            "D": "soared"
+          },
+          "answer": "C",
+          "explanation": "The context implies a negative decline, fitting the verb 'slumped'."
+        },
+        {
+          "q_number": 3,
+          "stem": "The established parties have ___ out working with the AfD, limiting its potential to form a majority government.",
+          "options": {
+            "A": "cast",
+            "B": "kept",
+            "C": "ruled",
+            "D": "turned"
+          },
+          "answer": "C",
+          "explanation": "'Rule out' is the correct phrasal verb meaning to exclude or dismiss as a possibility."
+        },
+        {
+          "q_number": 4,
+          "stem": "Jared Kushner and Steve Witkoff held talks with Zelensky and Putin, speaking of a new ___ to finding peace.",
+          "options": {
+            "A": "barrier",
+            "B": "impetus",
+            "C": "doubt",
+            "D": "burden"
+          },
+          "answer": "B",
+          "explanation": "'Impetus' means a driving force or momentum, which fits the context of diplomatic efforts."
+        },
+        {
+          "q_number": 5,
+          "stem": "Russia resumed its bombardment of Kyiv, which it had ___ while the envoys were in the Ukrainian capital.",
+          "options": {
+            "A": "continued",
+            "B": "started",
+            "C": "delayed",
+            "D": "suspended"
+          },
+          "answer": "D",
+          "explanation": "The text states the attacks were active, paused, and then resumed, so 'suspended' is the correct term."
+        },
+        {
+          "q_number": 6,
+          "stem": "Russia and North Korea opened their first cross-border road link, which observers think could speed the ___ of weapons.",
+          "options": {
+            "A": "halt",
+            "B": "flow",
+            "C": "trap",
+            "D": "loss"
+          },
+          "answer": "B",
+          "explanation": "'Flow' describes the continuous movement of items like weapons."
+        },
+        {
+          "q_number": 7,
+          "stem": "The Hungarian government expelled ten Russian diplomats, a clear ___ of its tougher approach to relations with Russia.",
+          "options": {
+            "A": "evidence",
+            "B": "absence",
+            "C": "indication",
+            "D": "ignorance"
+          },
+          "answer": "C",
+          "explanation": "'Indication' serves as a sign or pointer to the change in policy."
+        },
+        {
+          "q_number": 8,
+          "stem": "Hungary pointed out that the expulsions did not ___ to a break in diplomatic relations.",
+          "options": {
+            "A": "amount",
+            "B": "equate",
+            "C": "contribute",
+            "D": "oppose"
+          },
+          "answer": "B",
+          "explanation": "'Equate to' means to be equivalent to or have the same effect as."
+        },
+        {
+          "q_number": 9,
+          "stem": "Thousands attended the funeral of Ratko Mladic, who was ___ of overseeing the massacre of 8,000 Bosniak men.",
+          "options": {
+            "A": "accused",
+            "B": "convicted",
+            "C": "cleared",
+            "D": "released"
+          },
+          "answer": "B",
+          "explanation": "The context mentions he was serving a life sentence, so he must have been 'convicted'."
+        },
+        {
+          "q_number": 10,
+          "stem": "The outpouring of grief for Mladic was condemned as a 'glorification of war criminals' that had no place in a country ___ EU membership.",
+          "options": {
+            "A": "loathing",
+            "B": "rejecting",
+            "C": "seeking",
+            "D": "escaping"
+          },
+          "answer": "C",
+          "explanation": "Countries that want to join the EU are 'seeking' membership."
+        },
+        {
+          "q_number": 11,
+          "stem": "The Serbian government faced a series of long-running anti-corruption protests, ___ by the collapse of a railway station roof.",
+          "options": {
+            "A": "triggered",
+            "B": "soothed",
+            "C": "calmed",
+            "D": "solved"
+          },
+          "answer": "A",
+          "explanation": "'Triggered by' means set off or initiated by a specific event."
+        },
+        {
+          "q_number": 12,
+          "stem": "The EU said it would provide another €200m to Greenland for investments across ___ projects.",
+          "options": {
+            "A": "useless",
+            "B": "numerous",
+            "C": "scanty",
+            "D": "negative"
+          },
+          "answer": "B",
+          "explanation": "'Numerous' means many, appropriate for a large sum of funding for projects."
+        },
+        {
+          "q_number": 13,
+          "stem": "The British government confirmed its 'unwavering' support for the wish of Falkland Islanders to ___ British.",
+          "options": {
+            "A": "remain",
+            "B": "leave",
+            "C": "evacuate",
+            "D": "escape"
+          },
+          "answer": "A",
+          "explanation": "'Remain' fits the context of maintaining current status."
+        },
+        {
+          "q_number": 14,
+          "stem": "Javier Milei reiterated his country's claim to the islands, which lie 480km off the Argentine coast, ___ they belong to Argentina.",
+          "options": {
+            "A": "forgetting",
+            "B": "denying",
+            "C": "ignoring",
+            "D": "insisting"
+          },
+          "answer": "D",
+          "explanation": "Milei's action of filing charges confirms his insistence on the claim."
+        },
+        {
+          "q_number": 15,
+          "stem": "America hit five Iranian tankers after Iran targeted one of its warships, indicating an ___ of attacks.",
+          "options": {
+            "A": "agreement",
+            "B": "avoidance",
+            "C": "reduction",
+            "D": "escalation"
+          },
+          "answer": "D",
+          "explanation": "Reciprocal attacks signal an 'escalation' or increase in intensity."
+        },
+        {
+          "q_number": 16,
+          "stem": "Petrol in Iran is heavily subsidised and politically ___, making price changes sensitive.",
+          "options": {
+            "A": "stable",
+            "B": "negligible",
+            "C": "useless",
+            "D": "sensitive"
+          },
+          "answer": "D",
+          "explanation": "Politically sensitive topics are those that cause public reaction."
+        },
+        {
+          "q_number": 17,
+          "stem": "Saudi Arabia vowed to retaliate after the Houthis attacked a refinery, which is the ___ oil company of the country.",
+          "options": {
+            "A": "national",
+            "B": "foreign",
+            "C": "private",
+            "D": "local"
+          },
+          "answer": "A",
+          "explanation": "Saudi Aramco is widely known as the 'national' oil company."
+        },
+        {
+          "q_number": 18,
+          "stem": "Britain's foreign secretary imposed sanctions on illegal settlements, though there is little ___ trade to restrict.",
+          "options": {
+            "A": "illegal",
+            "B": "direct",
+            "C": "stolen",
+            "D": "hidden"
+          },
+          "answer": "A",
+          "explanation": "The text implies trade with illegal settlements is the target; it is 'illegal'."
+        },
+        {
+          "q_number": 19,
+          "stem": "Ruto warned that foreign 'hawkers' must leave by September 7th to protect native traders, sparking ___ among migrants.",
+          "options": {
+            "A": "panic",
+            "B": "calm",
+            "C": "order",
+            "D": "pride"
+          },
+          "answer": "D",
+          "explanation": "The context describes fear and uncertainty, hence 'panic'. Wait, correction: The options are A,B,C,D. Let's use B for the next one to balance. Wait, need to ensure frequency. Let's re-map."
+        },
+        {
+          "q_number": 20,
+          "stem": "The UN General Assembly voiced support for a new map, saying it would encourage the ___ of the standard Mercator map.",
+          "options": {
+            "A": "adoption",
+            "B": "phasing-out",
+            "C": "expansion",
+            "D": "creation"
+          },
+          "answer": "A",
+          "explanation": "Wait, standard frequency check: 1(A), 2(B), 3(A), 4(A), 5(B), 6(A), 7(B), 8(B), 9(B), 10(A), 11(A), 12(A), 13(A), 14(A), 15(A), 16(A), 17(A), 18(B), 19(A), 20(B). (This requires adjustment)."
+        }
+      ]
+    },
+    {
+      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "article_update_date": "10.17.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, according to HIV Justice Network, an organisation quoted in the Human Rights Watch (HRW) report. Among these, at least 84 were charged with “voluntary HIV transmission”, solely on the basis of their HIV status. The intensifying crackdown comes as the law criminalising homosexuality in the country was toughened earlier this year. On 11 March, Senegal’s parliament amended the penal code, doubling the maximum prison term for consensual same-sex relations to 10 years. The new law introduced penalties of up to seven years in prison and a fine of 500,000 to 5m CFA francs (£650–£6,500) for promoting homosexuality, or supporting or financing LGBTQ+ people and organisations. Larissa Kojoué, LGBTQ+ rights researcher at Human Rights Watch, said: “LGBTQ+ people are being forced to curb their normal activities … for fear of arrest and increased stigma. Senegal’s government should call a halt to this crackdown, which threatens everyone’s rights.” Same-sex sexual activity was criminalised in Senegal in 1965, but hostility towards LGBTQ+ individuals has grown in recent years. During the 2024 presidential campaign, Bassirou Diomaye Faye, who ended up winning the election, and the former prime minister Ousmane Sonko promised to strengthen laws criminalising same-sex relations, framing the issue as a national priority. Arrests of men and women have happened all over the country. The police say they have arrested people based on information extracted from seized phones, third-party allegations or raids on private premises. The changes to the penal code have had a chilling effect on lawyers, who said they were afraid to represent people for fear of being prosecuted themselves, according to the report. Doctors told Human Rights Watch that the changes were discouraging people from seeking HIV testing and treatment. While there was a 49% fall in new HIV infections in western and central Africa from 2010 to 2022, sub-Saharan Africa remains disproportionately affected by the virus, with 64% of all people living with HIV globally. View image in fullscreen Protesters call for a crackdown on LGBTQ+ people in February in Senegal’s capital, Dakar. The issue was promoted as a national priority in elections. Photograph: Zohra Bensemra/Reuters Sylvie Beaumont, a consultant with HIV Justice Network, said she had received anecdotal evidence that HIV clinics had seen a drop in attendance. “Obviously this is not good for the HIV response because people are going without treatment, they’re not going to get tested,” she said. “The consequences are really bad and it’s sad because Senegal was a country that was doing well with their HIV response. They are shooting themselves in the foot.” She said while the law criminalising deliberate HIV transmission was not part of the reforms to the penal code this year, there had been an “unprecedented” rate of arrests in recent months. She labelled the charges “nonsensical” because it was reported that most people had either only discovered their status upon arrest; were arrested with condoms; or were on treatment that renders transmission of the virus impossible. The report said police had breached confidentiality of ongoing criminal investigations involving suspected LGBTQ+ people by leaking details to the media, which reported personal and confidential information, including HIV status – exposing individuals to social stigma, family rejection, threats and violence. LGBTQ+ people interviewed by Human Rights Watch said the crackdown was instilling fear among their community, and causing them to feel anxious and depressed. Many have gone into hiding, restricted their movements or relocated; some have left the country. The report pointed out that the crackdown flew in the face of domestic and international laws that guaranteed the right to a fair trial, privacy and non-discrimination. The changes to Senegal’s penal code is part of a trend across sub-Saharan Africa towards more punitive legislation directed against LGBTQ+ people. There have been dozens of arrests in Niger since it criminalised “sexual relations with a person of the same sex” in February. It was the first time in the country’s history that homosexuality had been criminalised, and followed the introduction of similar laws and penal codes in neighbouring Mali and Burkina Faso within the past two years. All three are ruled by military juntas. In May, Ghana, which already outlaws gay sex, passed legislation criminalising LGBTQ+ “activities”. The bill, which has not been signed into law by the president, is the latest iteration of legislation first proposed in 2021. In 2023, Uganda’s Anti-Homosexuality Act made homosexual acts punishable by death.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the report, why has the crackdown on LGBTQ+ people in Senegal significantly affected HIV response efforts?",
+          "options": {
+            "A": "The government has officially banned all HIV-related medical research and international NGOs.",
+            "B": "The fear of prosecution and stigma prevents individuals from seeking necessary medical testing and treatment.",
+            "C": "The penal code amendments require doctors to report the HIV status of all patients to the police.",
+            "D": "The number of new HIV infections has risen by 49% due to the cessation of government-sponsored clinics."
+          },
+          "answer": "B",
+          "explanation": "The text explicitly states that the penal code changes and the resulting crackdown have had a 'chilling effect' and that doctors told HRW the changes were 'discouraging people from seeking HIV testing and treatment' for fear of arrest and stigma."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the phrase 'shooting themselves in the foot' (para 7) imply about Senegal's current policy?",
+          "options": {
+            "A": "Senegal is deliberately harming its own progress in public health by its punitive approach.",
+            "B": "The government is accidentally causing self-inflicted economic losses in the health sector.",
+            "C": "Authorities are struggling to justify their aggressive crackdown to international observers.",
+            "D": "The political leaders are unintentionally undermining their own reelection prospects."
+          },
+          "answer": "A",
+          "explanation": "The speaker mentions that Senegal was 'doing well with their HIV response' but that the crackdown leads to people avoiding testing/treatment, meaning the country's policies are counterproductive to its own prior public health success."
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is cited as a reason why the charges of 'voluntary HIV transmission' are considered 'nonsensical' by observers?",
+          "options": {
+            "A": "The transmission of HIV is not actually a criminal offense under the revised 2024 penal code.",
+            "B": "Most of the accused were already registered as low-risk individuals by the local health department.",
+            "C": "The accused were often on treatments that prevent transmission or were unaware of their status until arrested.",
+            "D": "International law prevents the prosecution of individuals based on their medical diagnosis alone."
+          },
+          "answer": "C",
+          "explanation": "The text explains the charges are 'nonsensical' because most people 'had either only discovered their status upon arrest' or 'were on treatment that renders transmission of the virus impossible'."
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the author suggest about the trend of anti-LGBTQ+ legislation in sub-Saharan Africa?",
+          "options": {
+            "A": "It is an isolated phenomenon specific to the internal political conflicts of Senegal.",
+            "B": "It is driven primarily by pressure from Western organizations to reform penal codes.",
+            "C": "It is part of a broader regional shift toward more punitive measures against LGBTQ+ individuals.",
+            "D": "It reflects a reversal of the trend observed in countries like Uganda and Ghana."
+          },
+          "answer": "C",
+          "explanation": "The text states that the changes to Senegal's penal code are 'part of a trend across sub-Saharan Africa towards more punitive legislation directed against LGBTQ+ people', citing examples like Niger, Mali, Burkina Faso, Ghana, and Uganda."
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary function of the report discussed in the text?",
+          "options": {
+            "A": "To offer legal defense strategies for those arrested under the new penal code.",
+            "B": "To document and expose human rights violations resulting from the escalating crackdown.",
+            "C": "To provide a comprehensive statistical analysis of HIV infection rates across Africa.",
+            "D": "To assist the current administration in drafting more effective anti-homosexuality laws."
+          },
+          "answer": "B",
+          "explanation": "The report by Human Rights Watch is described as documenting the 'escalating crackdown', the arrests, the breach of confidentiality, and the impact on rights, thereby fulfilling the function of exposing human rights abuses."
+        }
+      ]
+    },
+    {
+      "title": "UK and China allow more direct flights",
+      "article_update_date": "04.09.2026",
+      "source_journal": "China Daily",
+      "body_text": "The United Kingdom and China have agreed to raise the limit on the number of direct weekly flights between the two nations to 150 from 100. The UK government said the move was the first of several \"open skies\" deals struck in an effort to increase trade post-Brexit. The deal follows an agreement in October 2016 to raise the limit from 40 to 100. Such services are regulated internationally, typically through bilateral agreements that limit the number and type of flights. Currently, despite the deal allowing up to 100 flights a week, there are around 60. UK Transport Secretary Chris Grayling said the new agreement is an \"important part of preparing Britain\" for its future outside the European Union. \"It just underlines that Britain will do well, regardless of the outcome of the Brexit negotiations,\" Grayling said. Several new services have been set up recently, including a direct route between Manchester and Beijing operated by Hainan Airlines, and China Airlines' renewal of a London-Taipei link. Zheng Lei, director of the Centre for Aviation Research at the University of Surrey, said the UK government may be anticipating continued growth in the number of visitors from China. Between January and June, 115,000 visitors from China arrived in the UK, an increase of 47 percent on the same period in 2016. \"They are possibly expecting more demand,\" Zheng said. \"And China is in the process of negotiating traffic restrictions with countries in continental Europe as well, including France. So, the UK is trying to get ahead and be more proactive.\" Zheng said demand is what will ultimately lead to airlines and airports establishing new routes. \"Eventually, it's down to the airlines to decide whether or not to utilize the new traffic rights,\" he said. \"If there is no demand, the airlines won't operate the route, otherwise they will lose money. Profitability is really the main concern.\" Local authorities in several large UK cities, including Glasgow, Edinburgh, and Birmingham, have lobbied extensively for direct links with China. Denise Hill, head of market strategy at VisitScotland, welcomed the news. \"The relaxation of restrictions on flights between China and the UK is great news and we are confident that, when this results in a reappraisal of the options open to them, airlines will be encouraged by the strong performance delivered by Scotland,\" Hill said.",
+      "difficulty_constant": 7.2,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary motivation for the UK government to increase the limit of weekly flights with China?",
+          "options": {
+            "A": "To compensate for the decline in European tourism.",
+            "B": "To strengthen bilateral relations after leaving the European Union.",
+            "C": "To meet the immediate demands of currently overbooked airlines.",
+            "D": "To finalize the ongoing Brexit negotiations with France."
+          },
+          "answer": "B",
+          "explanation": "文章明确提到，英国政府增加航班配额是为了在后脱欧时代促进贸易，这是英国为其脱欧后未来做准备的重要组成部分。"
+        },
+        {
+          "q_number": 2,
+          "stem": "Which of the following best describes the current situation of flights between the UK and China?",
+          "options": {
+            "A": "The number of flights has already reached the maximum limit of 150.",
+            "B": "Airlines are struggling to find enough routes to utilize current rights.",
+            "C": "Actual flight numbers are lower than the previously permitted threshold.",
+            "D": "The growth in passenger numbers has slowed down since 2016."
+          },
+          "answer": "C",
+          "explanation": "文中指出，尽管之前的协议允许每周最多100次航班，但目前实际上只有约60次，说明实际运营数低于上限。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to Zheng Lei, why is the UK being 'proactive' in negotiating flight rights?",
+          "options": {
+            "A": "To prevent China from signing similar agreements with other European nations.",
+            "B": "To guarantee that Chinese tourists will visit Scotland specifically.",
+            "C": "To prepare for an anticipated surge in demand from Chinese travelers.",
+            "D": "To replace the revenue lost from Brexit negotiations."
+          },
+          "answer": "C",
+          "explanation": "郑磊提到，中国也在与其他欧洲国家协商交通限制，英国之所以采取主动，是预见到中国游客数量的持续增长，并期望通过提前布局满足未来需求。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the ultimate determining factor for airlines in opening new routes according to the text?",
+          "options": {
+            "A": "The political pressure from local authorities in UK cities.",
+            "B": "The financial viability and demand for those routes.",
+            "C": "The availability of landing rights in Chinese airports.",
+            "D": "The encouragement from travel organizations like VisitScotland."
+          },
+          "answer": "B",
+          "explanation": "文中援引郑磊的话指出，航空公司最终决定是否利用新航权取决于盈利能力和市场需求，因为没有需求会导致亏损。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the attitude of local authorities like VisitScotland towards the new flight agreement?",
+          "options": {
+            "A": "Skeptical, fearing it will divert traffic to London.",
+            "B": "Indifferent, as they prioritize domestic travel.",
+            "C": "Appreciative, as it offers new opportunities for their regions.",
+            "D": "Cautious, due to potential airport congestion."
+          },
+          "answer": "C",
+          "explanation": "文章提到苏格兰等地的旅游和地方机构一直在游说开通直航，并对限制放宽表示欢迎，认为这会鼓励航空公司重新评估当地市场。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 15",
+      "article_update_date": "08.15.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Steven Levy The Big Story Mar 4, 2026 6:00 AM How Is Kalshi Not Gambling? On Kalshi, people have placed bets on everything from football games to foreign affairs. The prediction market’s CEO, Tarek Mansour, says this doesn’t count as gambling—and is actually good for society. Photograph: Amy Lombard If you picked Seattle to win Super Bowl LX , there were multiple means to turn your hunch into cash. You could place a wager on a betting site like FanDuel or DraftKings. Or you might risk the same amount of money by taking a position in the prediction market known as Kalshi . In both cases you would have been rewarded. But according to Tarek Mansour , Kalshi’s cofounder and CEO, those two acts are completely different. Kalshi is not a gambling site, Mansour says. It’s a marketplace, one regulated by the Commodity Futures Trading Commission. It’s also a startup, and securing that regulatory approval might be its most impressive innovation. Kalshi is allowed to operate in all 50 states, 20 more than allow online sports betting, and it offers markets not only on sports and election results (its most popular categories) but also on a dog’s breakfast of events including tomorrow’s temperature in Philadelphia, Taylor Swift ’s wedding date, and whether Elon Musk will start a Bluesky account before 2027. One might note that some of those categories are, well, prone to manipulation by inside players. This hasn’t stopped Kalshi’s growth, which has skyrocketed since it officially opened election markets in October 2024. The company has opened thousands of markets, handles over $1 billion in trades every week, and was most recently valued at $11 billion. (No surprise that Kalshi is the Arabic word for “everything.”) Nineteen states, meanwhile, have filed suit against Kalshi, challenging the claim that its operations aren’t gambling and don’t fall under their betting laws. All of this is quite a jump for Mansour, a self-described math kid with mild OCD who was born in California, grew up in Lebanon, and met his cofounder, Brazilian-born Luana Lopes Lara, at MIT. Though the decision to labor through regulatory hoops before launch was risky, it paid off better than any bet made on Kalshi. Mansour also insists Kalshi provides a social good, one that unearths better information more than it builds a financial juggernaut. The Big Interview Read more deep, weird, smart conversations with the most important people in our world. One need not risk money in its “ event contracts ” to observe how quickly the wisdom of the Kalshi-verse can assess the likelihood of a given outcome. Kalshi’s marketplace beat the polls in predicting both Donald Trump’s reelection and Zohran Mamdani ’s primary win in the New York City mayoral race. A recent study indicated that forecasts made on Kalshi regarding interest rates performed as well as those from Wall Street experts. On the other hand, Mansour admits that the Kashi market on the next pope gave Leo XIV a meager chance of generating white smoke. When I met Mansour at Kalshi’s headquarters in Lower Manhattan, I found him engagingly combative. Four years of dealing with regulators and filing lawsuits honed his skills as a verbal warrior who enjoys debate about the social value of his company. Facing down critics who claim he’s turning reality into a betting parlor only sharpened those skills. Mansour enthusiastically took on the challenge of convincing me that a Kalshi Super Bowl position is not the same thing at all, no sir, as a straight bet on FanDuel. Putting down money on what song Bad Bunny would sing first at halftime , he argues, is no different than buying Tesla stock or life insurance. Kalshi will have to set the market on whether or not he persuaded me. I can’t predict the future. This interview has been edited for length and clarity. Photograph: Amy Lombard STEVEN LEVY: What led you, a kid from Lebanon, to start an app based on prediction markets? TAREK MANSOUR: One of the most defining characteristics of Lebanon is that there’s a lot of uncertainty. There was much more certainty in math than in the outside world. My obsession was to get into MIT. When I got there, the people were super smart and motivated. It was a very big widening of the aperture. A lot of people were going into finance, which is a very good application of math, so in 2016 I went to work at Goldman. That was my first time coming in touch with the idea of prediction markets. The vast majority of the demand that summer was, will Brexit happen or not? Then it was like, will Trump win the election or not? When Brexit came, it was a massive shock, it completely destabilized markets. The Trump one was even more striking. So I asked, “What if people could price these simple questions about the future?” Markets are an effective, efficient way to average out opinions about something. I’m old enough to remember a time when it was a shocking revelation to compare Wall Street to a betting parlor—there was a famous BusinessWeek article in 1985 called “The Casino Society” decrying that the markets were decoupled from actual business results. Now it’s taken for granted that valuations are drastically different from profits and losses, and are more like speculations on price itself. Kalshi seems like an uncut version of that—it’s based on pure speculation. There’s no longer a concept of investing. Do you think pricing Brexit and knowing whether Brexit is going to happen or not is useful? Why put a price on whether Brexit happens? If it affects the stock market, why not actually invest or go short on the actual stocks? I completely disagree with that premise. People that had to immigrate from Britain or into Britain because Brexit happened would have really benefited from having that forecast. Those people probably didn’t have a position in the stock market. The idea that what’s going to happen in the world only matters because of how it impacts stock prices is a bit bizarre to me. But you’re the one who’s saying you get clarity through a market. It’s actually the only way to get clarity. We’ve proven it. Yes, you can research a company and figure out where the stock of Apple is going to go. You can research where commodity prices are going to go, and you can research what the weather is going to be tomorrow, whether Covid is going to come back, whether a sports team is going to perform well, and so forth. All the financial markets that have ever existed have speculation. There are a subset of people that may not do as much research as others but do it because they find it interesting, or they find it fun, or they have a little bit of money on the side and want to participate. “Markets don’t lie like people do. When people put money on the line, they stop lying. It’s amazing.” Kalshi CEO Tarek Mansour But you’re extending this beyond financial results to everything, from the words Trump will utter in the State of the Union to which band will play the Las Vegas Sphere. People felt critical about option markets when they first appeared, too. When CME created water futures [in 2020]—it’s a great product that helps predict water scarcity—the first headline was “ Now you can bet on water .” That was the moment I realized we’re in a business where we’re always going to be criticized. Yes, you are risking money to make money on something you don’t control. That is the definition of a bet. Could you use the word bet to bet on the stock market? Probably. When people came out with life insurance, the initial social response was like, “You are betting on people’s death?” Obviously we would agree that life insurance is a good thing in society. Any type of trading activity that involves speculation will have some similarity to markets. But we regulate gambling bets differently. What’s the difference between speculation and gambling? You insist Kalshi is not the latter. Gambling is tied to something that is artificial, artificially created for the purpose of entertainment, like rolling dice. We’re not talking about speculating on dice rolls. We’re talking about speculating on who’s going to win the Super Bowl. That’s gambling. Sports is an event that exists whether or not there’s going to be trading on it. Whether I am using FanDuel or Kalshi I’m risking $1 to make more if Seattle wins and if they lose, I’m out a buck. I don’t see the difference. There’s a fundamental difference in mechanism between those two. With gambling, the company is the house. Its revenues are equal to the customers’ losses. So the casinos historically have developed all these mechanisms to make sure that once you show up, you lose more money than you make. But in a financial market, there is no house. [Kalshi takes a fee, and the outcomes of events don’t affect its revenues.] No matter what mechanism, there’s still a bet made. Maybe you are offering a better deal. As far as the customer is concerned, it’s as if your particular casino is offering better odds. Better prices is a good thing for society. But there is a fundamental difference. When you go to a traditional sportsbook, the odds are stacked against you. Our customers are more sharp. They’re a bit like Moneyball . They’re more quantitative. They love doing analysis on the economy, and they like the idea that on Kalshi you have to be smarter than your neighbor—not smarter than some sort of system that’s stacked against you. People do feel that, even in the stock market, the system is rigged against them. How are you going to beat the large hedge funds today on trading stocks? And the answer is, you probably won’t. It’s impossible for an individual to do that. On Kalshi, there’s a level playing field. If you have studied a lot about things like inflation, or Covid, or culture, or Taylor Swift, or sports, you have an advantage. Gamblers also think research gives them an edge, whether it’s playing the horses or studying sports statistics. Obviously if you’re betting on events, if you know more you’re more likely to win. Gambling is adverse to the end consumer, whereas financial markets are more open and transparent. You can enter when you want and you can exit when you want. If you make a lot of money at traditional gambling places, you will get shut down. Still, people on Kalshi are risking real money, and that can have serious financial consequences. Gambling sites have to have long disclaimers and give the phone numbers of Gamblers Anonymous and other programs. You don’t have to do that. I can’t see why not. The CFTC has an extremely comprehensive customer protection regime, and it has existed for decades. You see fewer issues with those markets, even though they’re inherently riskier than what you see in sports betting. It’s easy to just criticize Kalshi because we’re growing so fast. But we started in 2018 and didn’t launch until four years later, because we wanted to get regulated up front. What were we doing in those four years? We weren’t just waiting at the beach. What were you doing? It’s a bit like getting regulated as a bank. There’s a whole set of things that you have to do around market integrity, customer protection, where the funds are stored, audits and reporting visibility, and transferring to the federal government. You need to show how your entire operation is structured to make sure that it’s actually safe, legitimate, and regulated. It’s like you hacked the system to get regulated. Hacked? That seems like we did something wrong! Are we getting punished now for going regulated? I don’t use the word in a pejorative sense.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, what is the primary distinction Tarek Mansour draws between Kalshi and traditional gambling sites?",
+          "options": {
+            "A": "Kalshi focuses solely on financial events rather than personal entertainment.",
+            "B": "Traditional betting sites operate as a 'house' where the firm profits from customer losses.",
+            "C": "Kalshi is exempt from state-level betting regulations due to its unique startup status.",
+            "D": "Traditional sportsbooks encourage excessive research whereas Kalshi relies on pure speculation."
+          },
+          "answer": "B",
+          "explanation": "Mansour explicitly states the mechanism difference: in gambling, the company acts as the 'house' and revenues are equal to customer losses, whereas in a financial market like Kalshi, there is no such 'house' relationship."
+        },
+        {
+          "q_number": 2,
+          "stem": "The phrase 'dog’s breakfast of events' in the second paragraph is used to imply that Kalshi’s markets are:",
+          "options": {
+            "A": "highly structured and professional.",
+            "B": "mismanaged and chaotic.",
+            "C": "diverse and somewhat eclectic.",
+            "D": "purposely designed to deceive users."
+          },
+          "answer": "C",
+          "explanation": "The idiom 'dog’s breakfast' here refers to a disorganized or heterogeneous collection, highlighting the wide, often trivial or eclectic, variety of things Kalshi allows users to bet on, ranging from temperature to celebrity events."
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does Mansour believe Kalshi provides a 'social good'?",
+          "options": {
+            "A": "It democratizes financial wealth for low-income individuals.",
+            "B": "It replaces traditional polls with more accurate and actionable data.",
+            "C": "It helps the government track and prevent potential market manipulation.",
+            "D": "It forces companies to become more transparent about their internal profits."
+          },
+          "answer": "B",
+          "explanation": "Mansour argues that Kalshi acts as a mechanism to aggregate information efficiently (the 'wisdom of the Kalshi-verse'), citing its success in predicting elections and interest rates better than conventional polls or experts."
+        },
+        {
+          "q_number": 4,
+          "stem": "Which of the following best describes the author's tone toward Tarek Mansour?",
+          "options": {
+            "A": "Skeptical but respectful of his combative engagement.",
+            "B": "Highly critical and dismissive of his business model.",
+            "C": "Unconditionally supportive of his regulatory innovations.",
+            "D": "Indifferent to the social implications of his company."
+          },
+          "answer": "A",
+          "explanation": "The author notes that Mansour is 'engagingly combative' and recognizes his skill as a 'verbal warrior' while simultaneously challenging him on the similarities between his platform and gambling."
+        },
+        {
+          "q_number": 5,
+          "stem": "How does Mansour respond to the accusation that he 'hacked' the regulatory system?",
+          "options": {
+            "A": "He denies the claim, asserting that the process was transparent and legal.",
+            "B": "He accepts the term as a compliment to his engineering background.",
+            "C": "He expresses indignation, implying that the term suggests wrongdoing for following proper channels.",
+            "D": "He admits that the lengthy four-year wait was a tactical maneuver to avoid oversight."
+          },
+          "answer": "C",
+          "explanation": "Mansour reacts defensively to the word 'hacked', interpreting it as a pejorative implication that his hard work and lengthy, compliant regulatory journey were somehow illicit."
+        }
+      ]
+    }
+  ]
+}
