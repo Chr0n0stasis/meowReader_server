@@ -1,0 +1,19 @@
+articles:
+- article_id: epub_12
+  journal_name: Economist
+  publish_date: 06.02.2026
+  title: The weekly cartoon
+- article_id: epub_8
+  journal_name: Atlantic
+  publish_date: 09.06.2026
+  title: Chapter 8
+- article_id: rss_6_1776020263
+  journal_name: China Daily
+  publish_date: 04.12.2026
+  title: Chinese, Russian and Indian ministers meet
+- article_id: rss_13_1782849830
+  journal_name: Nature
+  publish_date: 06.30.2026
+  title: 'Daily briefing: Editing the epigenome with CRISPR to treat disease'
+generate_date: 10.26.2026
+strategy: common

@@ -1,0 +1,672 @@
+group_update_date: 10.26.2026
+papers:
+- article_update_date: 06.30.2026
+  body_text: 'Hello Nature readers, would you like to get this Briefing in your inbox
+    free every day? Sign up here. People get relief from a water hose on 25 June in
+    Cologne, Germany, as a record-setting heatwave pummels the nation.Credit: Ina
+    Fassbender/AFP via Getty A record-breaking heat wave is baking Europe, hot on
+    the heels of unprecedented temperatures in May. “Heatwaves are here to stay, until
+    we turn the tap off to global emissions,” says Samantha Burgess, deputy director
+    of Europe’s Copernicus Climate Change Service. “They’re more frequent, they’re
+    more intense and they’re lasting longer.” Europe is heating up twice as fast as
+    the global average, and scientists are trying to understand the complex factors
+    that will determine whether this year’s sweltering heat should be considered ‘the
+    new normal’. Nature | 7 min read Source: Zeke Hausfather/Berkeley Earth A Chinese
+    supercomputer called LineShine has shot to the top of the world’s fastest computers
+    list — the first China-based system to achieve this ranking in almost a decade.
+    LineShine combines conventional computer processing with artificial-intelligence
+    capabilities, but doesn’t use graphics processing units (GPUs), the chips that
+    are usually required to handle the concurrent calculations needed for AI computation.
+    Instead, the machine draws its computing power from 14 million processing cores,
+    including specialized units to shoulder some of the burden of calculations that
+    usually require GPUs. Nature | 5 min read Scientists are raising the alarm about
+    proposals from the ascendent far-right political party Alternative for Germany
+    (AfD) that they say could severely limit academic freedoms at German universities
+    and research institutes. For example, in Saxony-Anhalt — where recent polls have
+    seen the party’s support exceed 40% — the AfD’s manifesto proposes sweeping reforms
+    to the state’s university system. “The AfD’s election programme explicitly proposes
+    restrictions on, or even the prohibition of, research in certain fields,” and
+    constrains the mobility of researchers in and out of the state, says Bettina Rockenbach,
+    president of the German National Academy of Sciences Leopoldina, which has its
+    headquarters in the state. Nature | 7 min read Hundreds of grant applications
+    to the US National Institutes of Health (NIH) are being held up at any given time
+    by unprecedented scrutiny after peer review. Some have been flagged by an algorithm
+    for using terms, such as ‘gender’ and ‘climate change’, that have been deemed
+    not to conform with the priorities of the administration of US President Donald
+    Trump. These new layers of review have delayed delivery of funds, and have even
+    resulted in the outright rejection of some applications that had been approved
+    by outside and agency scientists — a situation unheard of before 2025, officials
+    say. Nature | 11 min read Features & opinion A handful of start-up firms are testing
+    therapies that target specific epigenetic markers — essentially chemical groups
+    that sit on DNA and the proteins that it is wound around — to treat everything
+    from high cholesterol to a rare muscular disorder. Changing these chemical markers
+    can switch genes on or off. Some existing medications influence epigenetic markers,
+    but these drugs act broadly and lack specificity. A new cadre of scientists has
+    found ways to precisely alter the epigenetic signals that influence specific genes.
+    Nature | 15 min read Darío Gil is the science chief at the US Department of Energy
+    (DoE), presiding over two of the Trump administration’s prized fields: artificial
+    intelligence and quantum science. But he’s also got the unenviable task of convincing
+    scientists that these fields deserve the massive investments they are receiving
+    — at a time when researchers are worried about securing funding for basic research
+    and losing jobs to AI. “I haven’t moved one dollar” between disciplines, Gil tells
+    Nature. “All I am asking is that if you’re doing biology, can you please explore
+    carefully and thoughtfully the implications of this computing revolution for biology?”
+    Nature | 8 min read In the vast taiga forest that encircles the far north, ‘zombie’
+    forest fires can lie dormant all winter, even under snow, and break out when the
+    weather warms. The fires tend to eat away at root systems and collapse large swathes
+    of trees, making them obvious from above — allowing researchers to study them
+    from satellite images. They found that overwintering fires are on the rise, which
+    will mean more summer fires and tougher, zombie-scarred terrain in which to fight
+    them. The good news is that forest areas burned by these zombies do seem to be
+    able to bounce back, although the mix of tree species changes. Sierra | 7 min
+    read'
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: hot on the heels of是固定搭配，意为紧随其后。
+    options:
+      A: shoulders
+      B: head
+      C: heels
+      D: toes
+    q_number: 1
+    stem: A record-breaking heat wave is baking Europe, hot on the ______ of unprecedented
+      temperatures in May.
+  - answer: A
+    explanation: 根据语境，应对热浪需要停止温室气体排放，故选emissions。
+    options:
+      A: emissions
+      B: contributions
+      C: expectations
+      D: conventions
+    q_number: 2
+    stem: “Heatwaves are here to stay, until we turn the tap off to global ______,
+      ” says Samantha Burgess.
+  - answer: D
+    explanation: determine意为决定、确定，符合科学探究语境。
+    options:
+      A: resume
+      B: terminate
+      C: presume
+      D: determine
+    q_number: 3
+    stem: Europe is heating up twice as fast as the global average, and scientists
+      are trying to understand the complex factors that will ______ whether this year’s
+      sweltering heat should be considered ‘the new normal’.
+  - answer: A
+    explanation: achieve ranking指取得排名，为固定用法。
+    options:
+      A: achieve
+      B: conceive
+      C: retrieve
+      D: perceive
+    q_number: 4
+    stem: A Chinese supercomputer called LineShine has shot to the top of the world’s
+      fastest computers list — the first China-based system to ______ this ranking
+      in almost a decade.
+  - answer: B
+    explanation: concurrent意为同时发生的，符合并行计算的语境。
+    options:
+      A: discreet
+      B: concurrent
+      C: recurrent
+      D: coherent
+    q_number: 5
+    stem: LineShine combines conventional computer processing with artificial-intelligence
+      capabilities, but doesn’t use graphics processing units (GPUs), the chips that
+      are usually required to handle the ______ calculations needed for AI computation.
+  - answer: A
+    explanation: shoulder the burden意为承担负担，符合语境。
+    options:
+      A: shoulder
+      B: evade
+      C: expand
+      D: distort
+    q_number: 6
+    stem: Instead, the machine draws its computing power from 14 million processing
+      cores, including specialized units to ______ some of the burden of calculations
+      that usually require GPUs.
+  - answer: C
+    explanation: severely limit意为严重限制，符合科学家警告的语境。
+    options:
+      A: generously
+      B: properly
+      C: severely
+      D: casually
+    q_number: 7
+    stem: Scientists are raising the alarm about proposals from the ascendent far-right
+      political party that they say could ______ limit academic freedoms at German
+      universities.
+  - answer: B
+    explanation: 对体制的改变通常用reforms（改革）。
+    options:
+      A: transports
+      B: reforms
+      C: reports
+      D: imports
+    q_number: 8
+    stem: For example, in Saxony-Anhalt — where recent polls have seen the party’s
+      support exceed 40% — the AfD’s manifesto proposes sweeping ______ to the state’s
+      university system.
+  - answer: D
+    explanation: constrain意为限制、约束，与restrictions语义一致。
+    options:
+      A: obtains
+      B: maintains
+      C: attains
+      D: constrains
+    q_number: 9
+    stem: “The AfD’s election programme explicitly proposes restrictions on, or even
+      the prohibition of, research in certain fields,” and ______ the mobility of
+      researchers in and out of the state.
+  - answer: B
+    explanation: scrutiny指详细检查、审查，符合语境。
+    options:
+      A: sanctuary
+      B: scrutiny
+      C: symmetry
+      D: strategy
+    q_number: 10
+    stem: Hundreds of grant applications to the US National Institutes of Health (NIH)
+      are being held up at any given time by unprecedented ______ after peer review.
+  - answer: C
+    explanation: conform with意为符合、遵守，是固定搭配。
+    options:
+      A: comply
+      B: compete
+      C: conform
+      D: condense
+    q_number: 11
+    stem: Some have been flagged by an algorithm for using terms, such as ‘gender’
+      and ‘climate change’, that have been deemed not to ______ with the priorities
+      of the administration.
+  - answer: D
+    explanation: unheard of意为前所未闻的，符合强调状况特殊的语境。
+    options:
+      A: thought out
+      B: kept up
+      C: looked at
+      D: unheard of
+    q_number: 12
+    stem: These new layers of review have delayed delivery of funds, and have even
+      resulted in the outright rejection of some applications that had been approved
+      by outside and agency scientists — a situation ______ before 2025, officials
+      say.
+  - answer: D
+    explanation: wind around的过去分词是wound，意为缠绕。
+    options:
+      A: found
+      B: bound
+      C: ground
+      D: wound
+    q_number: 13
+    stem: A handful of start-up firms are testing therapies that target specific epigenetic
+      markers — essentially chemical groups that sit on DNA and the proteins that
+      it is ______ around.
+  - answer: A
+    explanation: lack specificity意为缺乏特异性，是医学背景常考词汇。
+    options:
+      A: lack
+      B: attack
+      C: stack
+      D: crack
+    q_number: 14
+    stem: Some existing medications influence epigenetic markers, but these drugs
+      act broadly and ______ specificity.
+  - answer: C
+    explanation: ' epigenetic影响的是基因（genes）。'
+    options:
+      A: gems
+      B: genres
+      C: genes
+      D: gears
+    q_number: 15
+    stem: A new cadre of scientists has found ways to precisely alter the epigenetic
+      signals that influence specific ______.
+  - answer: D
+    explanation: preside over意为掌管、负责。
+    options:
+      A: presiding
+      B: providing
+      C: proceeding
+      D: professing
+    q_number: 16
+    stem: 'Darío Gil is the science chief at the US Department of Energy (DoE), ______
+      over two of the Trump administration’s prized fields: artificial intelligence
+      and quantum science.'
+  - answer: A
+    explanation: losing jobs意为失去工作，符合语境。
+    options:
+      A: losing
+      B: using
+      C: choosing
+      D: fusing
+    q_number: 17
+    stem: But he’s also got the unenviable task of convincing scientists that these
+      fields deserve the massive investments they are receiving — at a time when researchers
+      are worried about securing funding for basic research and ______ jobs to AI.
+  - answer: C
+    explanation: dormant意为休眠的、潜伏的。
+    options:
+      A: determined
+      B: dominant
+      C: dormant
+      D: derelict
+    q_number: 18
+    stem: In the vast taiga forest that encircles the far north, ‘zombie’ forest fires
+      can lie ______ all winter, even under snow, and break out when the weather warms.
+  - answer: B
+    explanation: satellite images是卫星图像，属于常识词汇。
+    options:
+      A: satellite
+      B: stature
+      C: statue
+      D: stable
+    q_number: 19
+    stem: The fires tend to eat away at root systems and collapse large swathes of
+      trees, making them obvious from above — allowing researchers to study them from
+      ______ images.
+  - answer: B
+    explanation: bounce back意为恢复、反弹。
+    options:
+      A: back
+      B: up
+      C: 'off'
+      D: out
+    q_number: 20
+    stem: They found that overwintering fires are on the rise, which will mean more
+      summer fires and tougher, zombie-scarred terrain in which to fight them. The
+      good news is that forest areas burned by these zombies do seem to be able to
+      bounce ______, although the mix of tree species changes.
+  source_journal: Nature
+  title: 'Daily briefing: Editing the epigenome with CRISPR to treat disease'
+- article_update_date: 06.02.2026
+  body_text: 'The weekly cartoon The world this week The weekly cartoon May 28th 2026
+    Dig deeper into the subjects of this week’s cartoon: America and Iran are getting
+    close to a deal. Or not Despite Donald Trump’s talk, a lasting peace is some way
+    off The War Room newsletter: Why the Iran conflict may reignite The editorial
+    cartoon appears weekly in The Economist. You can see last week’s here . This article
+    was downloaded by zlibrary from https://www.economist.com//the-world-this-week/2026/05/28/the-weekly-cartoon'
+  difficulty_constant: 4.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章的主要目的是引导读者查看《经济学人》的每周时事漫画，并列出了与该漫画主题相关的背景阅读链接，并非单纯的新闻报道或政治评论。
+    options:
+      A: To provide an in-depth analysis of the US-Iran geopolitical situation.
+      B: To introduce a weekly political cartoon and its related resources.
+      C: To argue against the possibility of a lasting peace between America and Iran.
+      D: To solicit subscriptions for The Economist's newsletter service.
+    q_number: 1
+    stem: What is the primary purpose of the text provided?
+  - answer: B
+    explanation: 文中提到“America and Iran are getting close to a deal. Or not”，并指出“a
+      lasting peace is some way off”，说明双方关系充满不确定性，尚未达成最终协议。
+    options:
+      A: They have successfully reached a historic peace agreement.
+      B: The situation is volatile and the prospect of a deal is uncertain.
+      C: They are on the verge of a major conflict reignited by Donald Trump.
+      D: Diplomatic ties have been completely severed by both sides.
+    q_number: 2
+    stem: Which of the following best describes the current state of US-Iran relations
+      according to the text?
+  - answer: C
+    explanation: 短语 'some way off' 在此处表示距离某事实现还有相当长的过程，暗示持久和平并非指日可待。
+    options:
+      A: A peaceful resolution is imminent.
+      B: The path to peace is blocked by physical barriers.
+      C: Reaching a lasting peace is still a distant goal.
+      D: The war between the two nations is about to end.
+    q_number: 3
+    stem: 'The phrase ''some way off'' in the context of the text implies that:'
+  - answer: B
+    explanation: 文章提到 'Despite Donald Trump’s talk, a lasting peace is some way off'，暗示其言论与最终实现持久和平的目标之间存在张力或冲突。
+    options:
+      A: He is the sole mediator of the current negotiations.
+      B: His statements contradict the potential for a peaceful outcome.
+      C: He has successfully orchestrated a breakthrough in diplomatic talks.
+      D: His past policies are completely unrelated to the current geopolitical tension.
+    q_number: 4
+    stem: What does the text suggest about the role of Donald Trump in the current
+      Iran situation?
+  - answer: B
+    explanation: 文中明确提到 'You can see last week’s here'，表明读者可以通过提供的链接查看历史漫画内容。
+    options:
+      A: The content is exclusive to paid subscribers only.
+      B: Readers can access past versions of the weekly cartoon.
+      C: The War Room newsletter is the only source of the cartoon's meaning.
+      D: The article was originally published as a book extract.
+    q_number: 5
+    stem: Which statement can be inferred about the availability of the content mentioned?
+  source_journal: Economist
+  title: The weekly cartoon
+- article_update_date: 04.12.2026
+  body_text: Before the start of the 15th China-Russia-India trilateral meeting, Foreign
+    Minister Wang Yi, Russian Foreign Minister Sergei Lavrov and Indian Minister of
+    External Affairs Sushma Swaraj pose on Monday in New Delhi, where they discussed
+    a range of issues and pledged to implement and strengthen outcomes of BRICS and
+    the Shanghai Cooperation Organization. ADNAN ABIDI / REUTERS China, Russia and
+    India agreed to maintain regional security and economic architecture in the Asia-Pacific,
+    according to a joint statement issued on Monday after the 15th trilateral meeting
+    of the foreign ministers of the three countries. Maintaining regional security
+    and economic architecture that is "open, inclusive and based on multilateralism
+    and universally recognized principles of international law" is imperative for
+    lasting peace and stability in the region, the statement said. The three countries
+    emphasized the need for coordination and cooperation in various regional forums
+    and organizations such as the East Asia Summit to maintain regional peace and
+    stability and to promote regional development and prosperity. During the one-day
+    meeting, Foreign Minister Wang Yi, his Russian counterpart Sergei Lavrov and Indian
+    counterpart Sushma Swaraj discussed a wide range of global and regional issues
+    of common concern, according to the statement. The three countries reiterated
+    the importance they attached to cooperation and strategic partnership within BRICS.
+    "We will work together to implement all outcomes of BRICS summits to strengthen
+    cooperation in economic, political, security and people-to-people fields, so as
+    to usher in the second golden decade of BRICS cooperation," said the statement,
+    while commending the China's successful hosting of the Ninth BRICS Summit in Xiamen
+    in September. The three countries also attached special importance to the joint
+    work within the Shanghai Cooperation Organization, saying the SCO is an important
+    instrument in promoting multilateral political, security, economic and people-to-people
+    interaction in the region. Describing the Russia-India-China trilateral format
+    as a platform to foster closer dialogue and practical cooperation in identified
+    areas among the three countries, the joint statement said such cooperation is
+    not directed against any other country. "We wish to strengthen the trilateral
+    dialogue for consultation and coordination on regional and global issues of mutual
+    interest in the spirit of mutual understanding and trust," it said. "Our cooperation
+    is conducive to maintaining international and regional peace and stability, and
+    promoting global economic growth and prosperity," it added. XINHUA
+  difficulty_constant: 6.8
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到，三方讨论了共同关心的全球和地区议题，并承诺加强在金砖国家（BRICS）和上海合作组织（SCO）中的合作，因此B项正确。A项在文中明确予以否认（not
+      directed against any other country），C和D项均与文章事实不符。
+    options:
+      A: To form a military alliance against other regional powers.
+      B: To discuss global issues and strengthen cooperation in various international
+        organizations.
+      C: To formally dissolve the BRICS and the Shanghai Cooperation Organization.
+      D: To focus exclusively on bilateral economic disputes between the three nations.
+    q_number: 1
+    stem: According to the joint statement, what is the primary purpose of the Russia-India-China
+      trilateral meeting?
+  - answer: C
+    explanation: 文章第二段明确指出，该架构应是“open, inclusive and based on multilateralism and
+      universally recognized principles of international law”，这直接对应了选项C。
+    options:
+      A: It should be exclusive and centered on the interests of the three nations.
+      B: It should be based on narrow national interests rather than international
+        law.
+      C: It should be open, inclusive, and grounded in multilateralism.
+      D: It should be redesigned to ignore the East Asia Summit's influence.
+    q_number: 2
+    stem: What characterization does the joint statement provide regarding the regional
+      security and economic architecture?
+  - answer: B
+    explanation: 文中引用声明称，将加强经济、政治、安全和人文（people-to-people）领域的合作，以开启金砖合作的第二个黄金十年，故B项准确概括了原文内容。
+    options:
+      A: Reducing political dialogue to focus only on economic trade.
+      B: Strengthening cooperation in economic, political, security, and people-to-people
+        fields.
+      C: Restricting the scope of BRICS to the Asian region only.
+      D: Overturning the outcomes of previous BRICS summits.
+    q_number: 3
+    stem: Which of the following is highlighted as a goal for the 'second golden decade'
+      of BRICS cooperation?
+  - answer: C
+    explanation: 文章倒数第二段提到，三国认为上合组织是“an important instrument in promoting multilateral
+      political, security, economic and people-to-people interaction in the region”，这与C项含义一致。
+    options:
+      A: As an insignificant platform with limited regional influence.
+      B: As an organization primarily focused on military expansion.
+      C: As an important instrument for promoting multilateral interaction in the
+        region.
+      D: As an entity that competes directly with the trilateral Russia-India-China
+        format.
+    q_number: 4
+    stem: How is the Shanghai Cooperation Organization (SCO) described in the joint
+      statement?
+  - answer: A
+    explanation: 全文多次使用“consultation”, “coordination”, “mutual understanding and trust”,
+      “conducive to peace”等词汇，体现了三方在合作中寻求共识、倡导和平的基调，因此A项“调和且协作的”最为贴切。
+    options:
+      A: Conciliatory and cooperative.
+      B: Aggressive and defensive.
+      C: Skeptical and hesitant.
+      D: Indifferent and formalistic.
+    q_number: 5
+    stem: What is the implied tone of the joint statement regarding the trilateral
+      cooperation?
+  source_journal: China Daily
+  title: Chinese, Russian and Indian ministers meet
+- article_update_date: 09.06.2026
+  body_text: '| Next | Section menu | Main menu | Previous | The Mysterious Art of
+    Conducting An inside look at music’s widely misunderstood profession by Matthew
+    Aucoin An 1846 caricature of the Romantic composer Hector Berlioz, known for his
+    love of big, loud orchestras (Stefano Bianchetti / corbis / Getty) The conductor
+    is a con artist. Or: The conductor is God. Musicians frequently encounter both
+    of these extreme views of music’s most mysterious profession. It’s not surprising
+    that conductors elicit suspicion as well as adulation. The very act of conducting—waving
+    a wand to summon ravishing or ethereal or earsplitting sounds—can look like either
+    inexplicable magic or embarrassing nonsense, a kind of tuxedoed air guitar. With
+    most kinds of musical performance, the listener can sense, in their heart and
+    their gut, how demanding the musician’s task is. To possess the infinitesimally
+    sensitive fine motor skills required to make a violin sing, or the poise and breath
+    control needed to coax beauty out of a trombone, is to be not only an artist but
+    an Olympic athlete in command of invisible muscles. There’s a reason that a primal
+    scene of countless anxiety dreams is the musical performance for which you are
+    unprepared, the audience coughing impatiently and the grand piano awaiting you
+    in a pool of light, like some kind of gleaming, jet-black armored tank. Conducting
+    is different. I would bet that practically everyone who’s seen a conductor leading
+    an orchestra has had the fleeting thought Come on, anyone could do that . They’re
+    just waving their arms! Aren’t they? And if not, then what exactly are they doing?
+    Plenty of people—plenty of musicians, even—mistrust the abracadabra mysticism
+    that so frequently surrounds practitioners of this elusive and slightly dubious
+    art. At the other end of the spectrum is the equally inaccurate notion that the
+    conductor is an infallible being with almost supernatural powers. People who hold
+    this view tend to assume that the orchestra would be utterly helpless without
+    the sage guidance of the baton-wielder; they forget that any good ensemble is
+    made up of dozens of experienced, intelligent musicians, each of whom is capable
+    of autonomous musical thought. Listeners inclined in this direction will sometimes
+    marvel that the conductor seems, somehow, to know every note of everyone’s part.
+    If they attend a rehearsal, they might swoon over even a simple request from the
+    maestro—for example, to play a passage more lyrically—as if it were a commandment
+    from on high. From the May 2025 issue: Does anyone actually know what classical
+    music is? I’m mainly a composer ; I’m at my happiest confronted with a blank sheet
+    of staff paper. But I am also a conductor, of both my own music and other music.
+    And the mystery of conducting has fascinated me since long before I picked up
+    a baton. Orchestral musicians don’t need a conductor in order to execute the core
+    tasks of music-making. And yet, with an exceptional conductor on the podium, an
+    electricity can flow through the ensemble, an extra energy that helps dozens of
+    musicians breathe and speak as one complex, multifarious organism. Conducting
+    is, above all, a profound exercise in trust: the orchestra trusting the conductor
+    to keep a hand on the throttle, the conductor trusting the orchestra to soar.
+    Conductors aren’t always necessary, of course. For someone to stand up and wave
+    their arms at a trio or quartet would be superfluous, not to mention insulting.
+    Communicating is easy in a small group, where the musicians can face one another,
+    like friends in a booth at a restaurant, and have a musical conversation. Everyone
+    can hear every other part clearly; the players can meet one another’s eyes, breathe
+    together. This kind of interaction can turn cumbersome, however, once a gathering
+    reaches a certain numerical threshold. A group of four or five friends can decide,
+    on the fly, where to go for dinner. But a group of 70 or 80 people? Any given
+    member of the group probably doesn’t know every single other person, and holding
+    one conversation without some kind of agreed-upon structure would be all but impossible.
+    In such situations, even the most independent-minded adult can yearn for a competent
+    event planner. One of the conductor’s core functions is to be that helpful, sheepdog-like
+    presence. Conducting, as a distinct profession, only emerged in the mid-19th century,
+    an inevitable result of converging musical and technological developments. The
+    Industrial Revolution left its imprint on music as on so much else, enabling the
+    invention of newfangled instruments: the tuba, the saxophone, the celesta. Instruments
+    that had been around for centuries got upgrades; the addition of piston valves
+    to trumpets and French horns, for example, made them louder and more precise.
+    In turn, these technical improvements made possible the roaring, oceanic modern
+    orchestra, an ensemble capable of producing the rich, polished sound that we might
+    call “cinematic” today. Many composers made gleeful use of the new coloristic
+    possibilities available to them. Now they had brass sections whose burnished,
+    gleaming tone could rattle the listener’s ribs, and string sections so large and
+    lush that they could lull their audience into a narcotic stupor. Orchestras got
+    bigger and bigger, ultimately evolving into the musical counterpart of the mighty
+    steamboats and freight trains of the Industrial Age. And like those boats and
+    trains, these ensembles were unwieldy enough that they needed conductors to steer
+    them. The aristocratically sponsored court orchestras of earlier centuries tended
+    to be small enough that they didn’t require a conductor. Those ensembles often
+    performed in intimate halls, for exclusive audiences, and they were typically
+    led by the first violinist or a keyboardist, who would mark time with their bow
+    arm or their head while playing. But throughout the 19th century, in both Europe
+    and the United States, musical organizations sprang up that, rather than being
+    housed at royal courts, were founded by private citizens. These new orchestras
+    were civic institutions, and they were intended to be available to as many people
+    as possible. To accommodate this bigger audience, many cities built formidable
+    new concert halls, and the size of the ensembles onstage grew too. The solitary,
+    magus-like figure of the conductor was also an ideal emblem of the Romantic age,
+    a period that valorized the lone artist endowed with mystical gifts. Composers
+    had once tended to think of themselves as craftsmen, not so different from woodworkers
+    or shipbuilders or shoemakers. Regardless of whether a church composer was feeling
+    especially inspired in a given week, his job was to write new music for every
+    Sunday service. The Romantic composers had a very different conception of the
+    artist’s relationship to the world. The creative artist was a singular, almost
+    divinely inspired fountain of imagination, a spirit blessed (or cursed) with the
+    capacity to gaze into the heavens and the abyss. Composers such as Hector Berlioz
+    and Richard Wagner dreamed up wild, intricately phantasmagorical works so challenging
+    for musicians of the time that both composers had to take up the baton themselves
+    to make their musical cosmos a reality. The conductor, and especially the composer-conductor,
+    was the Romantic figure par excellence, the visionary who faced a sea of musicians,
+    like some figure out of a Caspar David Friedrich painting, and summoned storms.
+    Arturo Toscanini, circa 1955 (R. Gates / Hulton Archive / Getty) Once orchestras
+    reached this grand scale, the conductor became a practical necessity. Logistical
+    and spatial issues intrude when you have 90 or 100 people onstage. With an ensemble
+    of this size, someone at one end of the stage is going to find hearing exactly
+    what’s going on at the other end extremely difficult. If you’re a trombone player,
+    sitting way in the back, are you really going to notice if the first violins speed
+    up a hair, way down in front? If the formidably loud colleagues who surround you—trumpets,
+    tubas, timpani—happen to be playing their heart out too, they’re probably the
+    only people you’ll hear. How, then, are you supposed to coordinate what you’re
+    doing with people playing much quieter instruments at the other side of the stage?
+    How can you tell whether your sound is balancing and blending with people you
+    can’t even hear properly? And how would you synchronize your playing with theirs,
+    especially given the fluid sense of rhythm that’s integral to the performance
+    of so much orchestral music? If you mainly listen to contemporary pop music, you’re
+    probably accustomed to hearing a steady beat; a lot of pop music today is even
+    recorded to a “click track,” or a preset electronic pulse that provides a string
+    of beats spaced with absolute, inflexible evenness. In such music, the performer’s
+    first task is to lock into that easily audible pulse. If a steady beat is present,
+    getting through a piece without a conductor is no problem for a group of musicians,
+    no matter its size. Even an orchestra of 100 players would do fine on its own
+    if it were simply playing along with a very loud drummer. The trouble is that
+    in most orchestral music, no such beat exists; absolute metronomic steadiness
+    usually isn’t the goal. Time can flow with the changeability of a river current.
+    It might be swift and free at one moment, and then a second later turn halting
+    and trickling, as if navigating around boulders. Even within a single phrase,
+    a performer might feel an impulse to slow down and caress an especially tender
+    change of harmony, and then to surge forward again once the moment passes. One
+    of the thrills of orchestral performance is that the pacing is flexible and volatile;
+    the same piece might move somewhat differently from one evening to the next. In
+    a given performance, if the violins bring an extra dose of voluptuous beauty to
+    a certain section, the whole ensemble might want to slow down more than usual,
+    to wring every drop of expressive power from the music. This is the conductor’s
+    essential task: to embody, guide, and react to the current of the music. A responsible
+    conductor understands that they must both lead and serve as listener in chief.
+    They should have a clear plan for how a performance will be shaped, but they must
+    also be prepared to respond to their colleagues’ music-making as it happens. If
+    a particular player or section is doing something magical, the conductor should
+    know how to absorb that energy and reflect it back to the ensemble. Last year,
+    when I conducted performances of my piece Music for New Bodies at Lincoln Center,
+    I remember being so stunned by the oboist Joseph Jordan’s beautiful sound that
+    his solo sections expanded and stretched in ways I hadn’t anticipated, even though
+    I wrote the music. The transference of musical ideas between conductor and orchestra
+    is a two-way street. And although conductor and orchestra alike are guided by
+    a score, a single piece of music can be performed countless ways. There can be
+    as many interpretations of a phrase in a Mozart symphony as there are members
+    of the orchestra. Should a given moment sound joyous, wistful, irreverent, sarcastic?
+    What is its emotional temperature? What should the quality of sound be—dark or
+    gleaming, soft-textured or biting? The risk, when an ensemble performs without
+    a conductor, is that everyone’s different musical ideas can get averaged out,
+    that everyone can gravitate toward the median interpretation rather than the most
+    daring. Read: What a classical-music critic reads But the fact that small or medium
+    orchestras could play without a conductor means that the bar for what conductors
+    offer ought to be set very high. Both orchestras and audiences have a right to
+    ask: Is this performance stronger and more expressive thanks to the person waving
+    the baton? Orchestral musicians have a bone-deep instinct for this; they can usually
+    tell within the first minute of the first rehearsal whether a given conductor
+    is likely to make their life easier or harder. If the orchestra is playing a familiar
+    piece—say, a Brahms symphony—and the conductor’s cue results in a first chord
+    that sounds hesitant or scattered,'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The passage states that the act of conducting 'can look like either
+      inexplicable magic or embarrassing nonsense' and notes that people ask 'What
+      exactly are they doing?' if they don't see the need for the baton-waving, suggesting
+      the ambiguity stems from the difficulty in correlating physical gestures with
+      musical output.
+    options:
+      A: Because conductors are often untrained individuals pretending to possess
+        magical skills.
+      B: Because the physical act of conducting lacks clear, visible evidence of its
+        impact on the music.
+      C: Because the orchestra members intentionally obscure the conductor's contributions.
+      D: Because conducting is primarily a performance of status rather than a musical
+        necessity.
+    q_number: 1
+    stem: According to the passage, why is the conductor's role often perceived as
+      a 'mystery' or 'dubious'?
+  - answer: C
+    explanation: The author emphasizes that conducting is 'a profound exercise in
+      trust' and that it is a 'two-way street' where the conductor must guide the
+      performance while absorbing and reflecting the energy of the musicians.
+    options:
+      A: It is a rigid, top-down hierarchy where the conductor dictates every minor
+        detail.
+      B: It is an adversarial dynamic characterized by mutual suspicion.
+      C: It is a collaborative effort rooted in mutual trust and the need for unified
+        interpretation.
+      D: It is an unnecessary formality in modern music-making, as evidenced by small
+        chamber groups.
+    q_number: 2
+    stem: How does the author describe the relationship between an orchestra and its
+      conductor?
+  - answer: C
+    explanation: The author explicitly links the emergence of the profession to the
+      Industrial Revolution, which enabled larger, louder, and more complex orchestras
+      that were 'unwieldy enough that they needed conductors to steer them'.
+    options:
+      A: The reduction in the number of professional musicians available.
+      B: The shift toward smaller, more intimate concert settings.
+      C: The invention of new instruments and the expansion of orchestra size during
+        the Industrial Revolution.
+      D: The desire of aristocratic patrons to centralize power within the musical
+        ensembles.
+    q_number: 3
+    stem: The rise of the conductor as a distinct profession is linked to which historical
+      factor?
+  - answer: B
+    explanation: The author explains that in small groups, musicians can 'face one
+      another... and have a musical conversation,' whereas in groups of 70-80, the
+      scale makes this spontaneous coordination all but impossible.
+    options:
+      A: Large orchestras lack the musical intelligence required to play without guidance.
+      B: Smaller groups can easily facilitate eye contact and spontaneous communication
+        to coordinate rhythm.
+      C: Large orchestras have union rules requiring a conductor for safety.
+      D: The music written for quartets is inherently simpler and does not require
+        complex interpretation.
+    q_number: 4
+    stem: Why does the author argue that conductors are necessary for large orchestras
+      but not for quartets?
+  - answer: B
+    explanation: The author warns that without a conductor to guide the 'emotional
+      temperature' and interpretation, the risk is that varied ideas will settle for
+      a 'median' (average) result rather than a bold or daring one.
+    options:
+      A: The performances reach a higher technical standard due to collective decision-making.
+      B: The performances lack a cohesive, daring interpretation and become mediocre.
+      C: The performances are more precise because every member follows a metronomic
+        beat.
+      D: The performances become more varied as every musician adds their own unique
+        flair.
+    q_number: 5
+    stem: What does the phrase 'averaged out' in the final paragraph imply about unconducted
+      orchestral performances?
+  source_journal: Atlantic
+  title: Chapter 8
