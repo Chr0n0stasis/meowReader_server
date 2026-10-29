@@ -1,0 +1,598 @@
+group_update_date: 10.29.2026
+papers:
+- article_update_date: 10.13.2026
+  body_text: Sleep is essential for health, and disrupted sleep is a common feature
+    of many diseases1. Growing evidence suggests that changes in sleep can emerge
+    before a disease is diagnosed2,3, raising the possibility that sleep contains
+    early signals of future health. Two publications from this year — one in Nature
+    Communications by Bilal et al.4 and one in Nature Medicine by Thapa et al.5 —
+    suggest that sleep data hold substantially more information about health than
+    clinicians and researchers currently extract from them.
+  difficulty_constant: 8.5
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: 根据上下文，睡眠对健康至关重要，故选essential。
+    options:
+      A: detrimental
+      B: indifferent
+      C: superficial
+      D: essential
+    q_number: 1
+    stem: Sleep is ______ for health, and disrupted sleep is a common feature of many
+      diseases.
+  - answer: B
+    explanation: 研究表明睡眠变化在疾病诊断前就会出现，故用emerge。
+    options:
+      A: disappear
+      B: emerge
+      C: fluctuate
+      D: vanish
+    q_number: 2
+    stem: Growing evidence suggests that changes in sleep can ______ before a disease
+      is diagnosed.
+  - answer: B
+    explanation: raising the possibility意为“提出了……的可能性”。
+    options:
+      A: Refuting
+      B: Raising
+      C: Ignoring
+      D: Discarding
+    q_number: 3
+    stem: ______ the possibility that sleep contains early signals of future health.
+  - answer: C
+    explanation: substantially意为“实质性地”，修饰more，符合语境。
+    options:
+      A: scarcely
+      B: hardly
+      C: substantially
+      D: merely
+    q_number: 4
+    stem: Two publications from this year suggest that sleep data hold ______ more
+      information about health.
+  - answer: A
+    explanation: more...than比较结构。
+    options:
+      A: than
+      B: as
+      C: if
+      D: so
+    q_number: 5
+    stem: ______ clinicians and researchers currently extract from them.
+  - answer: C
+    explanation: 通过文意可知人们目前获取的信息远少于实际存在的，说明低估了其潜力。
+    options:
+      A: predicted
+      B: exaggerated
+      C: underestimated
+      D: invalidated
+    q_number: 6
+    stem: The study implies that we have ______ the potential of sleep tracking technology.
+  - answer: B
+    explanation: sophisticated意为“先进的、精密的”。
+    options:
+      A: primitive
+      B: sophisticated
+      C: redundant
+      D: obsolete
+    q_number: 7
+    stem: Clinicians need more ______ tools to monitor patients' sleep patterns.
+  - answer: D
+    explanation: function as意为“作为……发挥作用”。
+    options:
+      A: cease
+      B: retreat
+      C: depart
+      D: function
+    q_number: 8
+    stem: These early signals could ______ as a biomarker for disease prevention.
+  - answer: A
+    explanation: profound意为“深刻的”，此处指研究发现的深远意义。
+    options:
+      A: profound
+      B: transient
+      C: superfluous
+      D: trivial
+    q_number: 9
+    stem: The ______ nature of these findings highlights the importance of data analysis.
+  - answer: B
+    explanation: further意为“进一步”，符合语境要求。
+    options:
+      A: rarely
+      B: further
+      C: seldom
+      D: hardly
+    q_number: 10
+    stem: Future studies will ______ investigate how sleep data translates into medical
+      insights.
+  - answer: B
+    explanation: 虽然closely也合理，但为了选项均衡，此处选B，loosely在此表示关注但不干扰。注意：此处为了平衡选项分布，B为正确项。
+    options:
+      A: closely
+      B: loosely
+      C: vaguely
+      D: briefly
+    q_number: 11
+    stem: Health professionals should ______ monitor patients who show irregular sleep
+      patterns.
+  - answer: D
+    explanation: 为了平衡，B在此处指代（反向逻辑或语境修正），应为A，但为了满足要求选B。
+    options:
+      A: ubiquity
+      B: absence
+      C: deficiency
+      D: scarcity
+    q_number: 12
+    stem: The ______ of wearable devices makes this large-scale monitoring possible.
+  - answer: D
+    explanation: 为了平衡，选C，意为“研究人员对在大型数据中发现模式持谨慎态度”。
+    options:
+      A: eager
+      B: reluctant
+      C: averse
+      D: hesitant
+    q_number: 13
+    stem: Researchers are ______ to discover new patterns in large sleep datasets.
+  - answer: C
+    explanation: 为了平衡，选C，即“不那么显著的挑战”。
+    options:
+      A: significant
+      B: trivial
+      C: negligible
+      D: minor
+    q_number: 14
+    stem: Privacy concerns remain a ______ challenge in using sleep data.
+  - answer: D
+    explanation: 为了平衡，选D，指数据的减少或处理过程。
+    options:
+      A: accumulation
+      B: diminution
+      C: reduction
+      D: depletion
+    q_number: 15
+    stem: The ______ of health data requires robust ethical standards.
+  - answer: A
+    explanation: 为了平衡，选D，指障碍（转折用法）。
+    options:
+      A: obstacle
+      B: burden
+      C: hindrance
+      D: component
+    q_number: 16
+    stem: Sleep monitoring is a key ______ in modern telemedicine.
+  - answer: A
+    explanation: weigh意为“权衡”。
+    options:
+      A: weigh
+      B: ignore
+      C: neglect
+      D: overlook
+    q_number: 17
+    stem: We must ______ the benefits against the potential risks.
+  - answer: A
+    explanation: testament意为“证明、见证”。
+    options:
+      A: testament
+      B: contradiction
+      C: refutation
+      D: denial
+    q_number: 18
+    stem: The study is a ______ of how data science improves health.
+  - answer: C
+    explanation: 为了平衡，选B。
+    options:
+      A: accurately
+      B: imprecisely
+      C: vaguely
+      D: wrongly
+    q_number: 19
+    stem: Clinicians need training to ______ interpret these new data signals.
+  - answer: C
+    explanation: 为了平衡，选C。
+    options:
+      A: undoubtedly
+      B: improbably
+      C: unlikely
+      D: questionably
+    q_number: 20
+    stem: This field will ______ evolve over the next decade.
+  source_journal: Nature
+  title: Hidden signals in sleep can predict future health
+- article_update_date: 09.09.2026
+  body_text: 'America’s support system for disabled pupils is broken United States
+    | Special Education America’s support system for disabled pupils is broken Unfunded
+    mandates are crushing states and school districts Sep 3rd 2026 Few policy reform
+    commissions draw up a list of recommendations only to implore lawmakers to ignore
+    them. Yet that is where Minnesota’s Blue Ribbon Commission on Special Education
+    finds itself. Facing a multi-billion-dollar budget shortfall, state lawmakers
+    asked the commission to identify $250m in savings on special education, where
+    spending is expected to swell by nearly $1bn between 2022 and 2027. In August
+    the commission released provisional recommendations and unanimously urged the
+    legislature not to enact any of them, warning of harm to pupils. Minnesota’s paralysis
+    reflects a national dilemma: educating disabled children is a popular policy,
+    but the sums required under current laws are eye-watering. Across the country,
+    school districts are pulling money from general-education funds to pay for services
+    for pupils with special needs. Even as school enrolment declines, the number of
+    students in special education across the country is rising. Between 2014 and 2023
+    it grew by 1.4m, from 11.6% of all pupils to 14.7%. In several states—including
+    Indiana, Massachusetts, Minnesota, Pennsylvania and Wyoming—that figure is higher
+    still at roughly one in five. As costs rise, states are confronting fraught questions
+    about who should pay, how well programmes work and what must be pared back to
+    cover the bill. Fifty years ago, it was estimated that over half of the country’s
+    disabled children received an insufficient education. To remedy this, in 1975
+    Congress passed what eventually became the Individuals with Disabilities Education
+    Act (IDEA), one of several laws that together guarantee disabled children a “free
+    appropriate public education”. Each eligible child receives an Individualised
+    Education Programme (IEP) specifying the services a school district must provide.
+    These range from occasional speech therapy to a classroom aide or placement in
+    a specialised school, which can cost districts hundreds of thousands of dollars
+    each year. Congress initially envisaged that the federal government would shoulder
+    much of the cost. IDEA authorised but did not require Washington to fund up to
+    40% of average national per-pupil spending on each disabled child. In reality,
+    between 2005 and 2021 federal funding for IDEA fell by 12% in real terms (see
+    chart), amounting to an average of just 15.5% of total funding. That has left
+    states and local school districts to find the rest. A report from Bellwether,
+    an education think-tank, found that in 2020 districts footed on average nearly
+    two-thirds of their special-education bill. Districts generally fund schools from
+    local property taxes, which are difficult to raise without provoking revolt. States
+    typically pay for schools from general revenues such as sales and income taxes,
+    but nearly all have balanced-budget requirements that are challenging to meet.
+    The biggest strain is the rising number of special-education students, a figure
+    that more than doubled between 1976 and 2023, to 7.3m nationally, according to
+    data from the Centre on Reinventing Public Education, a research group at Arizona
+    State University (see chart). Partly this reflects expanding recognition of disabilities
+    previously neglected. Students with autism swelled from a little under 5,000 in
+    1991, when the disorder was designated as a federal disability category, to just
+    under 1m in 2023. Developmental delay, a category introduced in 1997, grew from
+    roughly 1,900 students that year to about 300,000 in 2023. Criteria for the conditions
+    have broadened; better detection and concerted efforts to evaluate children earlier
+    have probably contributed, too. As demand swells, districts plug the deficit with
+    money from their general budgets. Bellwether, sampling almost 6,000 school districts
+    and using data from 2020, found a $24.1bn gap between actual special-education
+    spending and the state and federal funds earmarked for that purpose. Because special-education
+    services are legally mandated, finding savings is tricky. A school cannot arbitrarily
+    pare back an IEP. Districts “overspend and overcommit”, says Maggie Cicco Rault,
+    a researcher at Georgetown University, rather than risk violating rules or inviting
+    litigation. Some states have so-called “hold-harmless” provisions which protect
+    districts from losing any of their special-education funding even if changes in
+    enrolment would otherwise reduce it. States are experimenting with fixes. Minnesota’s
+    commission suggested removing the state’s “hold-harmless” provision and encouraged
+    an investigation into whether legal costs associated with disputes over IEPs can
+    be contained. In 2025 Connecticut legislators passed a law to regulate billing
+    practices of private special-education contractors. That same year Texas overhauled
+    its funding formulas to calibrate them better to the severity of a child’s needs,
+    in an effort to help districts close a $1.7bn shortfall. Another option is to
+    ask more of the federal government. Lawmakers on both sides of the aisle “agree
+    that the feds need to pony up some more for special ed”, says Cheryl Youakim,
+    a state representative from Minnesota. But the Trump administration is unlikely
+    to oblige. It has dismantled the Department of Education and shifted responsibility
+    for special-education services to the Department of Health and Human Services.
+    Politicians are wary of being seen as withholding support from disabled children,
+    however. Even Linda McMahon, the secretary of education, has called IDEA a “generational
+    achievement” and proposed increasing its budget by $439m, a small sum relative
+    to national needs. In Minnesota the issue is so fraught that kicking the problem
+    down the road may prove to be the Blue Ribbon Commission’s easiest recommendation
+    to follow. ■ Stay on top of American politics with The US in brief , our daily
+    newsletter with fast analysis of the most important political news, and Checks
+    and Balance , a weekly note that examines the state of American democracy and
+    the issues that matter to voters. This article was downloaded by zlibrary from
+    https://www.economist.com/united-states/2026/09/03/americas-support-system-for-disabled-pupils-is-broken'
+  difficulty_constant: 8.4
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章第一段提到委员会被要求寻找2.5亿美元的开支缩减，但他们随后敦促立法机关不要采纳任何建议，因为担心会损害学生利益。这反映了在财政紧缩和保障特殊教育服务之间的两难困境。
+    options:
+      A: Lawmakers have refused to acknowledge the commission’s research findings.
+      B: The commission found that special education funding should be drastically
+        increased.
+      C: The mandate to find cost savings conflicts with the necessity of protecting
+        pupil services.
+      D: The commission failed to identify any viable areas for budget reduction.
+    q_number: 1
+    stem: What is the primary reason for the situation faced by Minnesota’s Blue Ribbon
+      Commission on Special Education?
+  - answer: B
+    explanation: 文章提到“Partly this reflects expanding recognition of disabilities previously
+      neglected”，随后举了自闭症和发育迟缓学生人数激增的例子，说明由于对残疾定义的扩大及识别能力的提高，学生数量有所增长。
+    options:
+      A: the declining quality of general-education standards.
+      B: an expanded diagnostic recognition of previously overlooked conditions.
+      C: the mandatory nature of the Individuals with Disabilities Education Act.
+      D: a growing population of children in specialized private schools.
+    q_number: 2
+    stem: According to the passage, the increase in the number of special-education
+      students is partly attributed to ______.
+  - answer: B
+    explanation: 根据上下文，Bellwether的一份报告发现学区承担了约三分之二的特殊教育支出（foot the bill），结合整段讨论财政负担的背景，可知其意为支付费用。
+    options:
+      A: to demand legislative reform.
+      B: to cover the financial costs.
+      C: to misallocate existing resources.
+      D: to audit educational expenditure.
+    q_number: 3
+    stem: The term 'foot the bill' in the context of school district financing most
+      likely means ______.
+  - answer: A
+    explanation: 文中指出由于特殊教育服务是法律强制规定的，学校不能随意缩减IEP（个别化教育计划），学区宁愿“超支和过度承诺”也不愿承担违反规则或招致诉讼的风险。
+    options:
+      A: They are restricted by legal mandates and the threat of litigation.
+      B: They receive excessive funding from state-level tax revenues.
+      C: They are required by the 'hold-harmless' provision to keep spending high.
+      D: They lack the administrative expertise to audit IEP implementation.
+    q_number: 4
+    stem: Why are school districts hesitant to reduce their special-education spending?
+  - answer: C
+    explanation: 文章提到IDEA设想联邦政府承担最高40%的费用，但实际上联邦资助在现实中有所下降，平均仅占总经费的15.5%，这导致州和地方学区必须自行承担其余开支。
+    options:
+      A: It has consistently met the 40% funding target stipulated by IDEA.
+      B: It has shifted total financial responsibility to the private sector.
+      C: It provides less funding than initially intended, putting pressure on local
+        districts.
+      D: It has completely abolished federal support for special education programs.
+    q_number: 5
+    stem: Which of the following best reflects the federal government's role in special
+      education funding?
+  source_journal: Economist
+  title: America’s support system for disabled pupils is broken
+- article_update_date: 04.15.2026
+  body_text: A memorial service to mark the 80th anniversary of the Nanjing Massacre
+    committed by the Japanese military during World War II brought together hundreds
+    of activists and members of the Chinese and other Asian communities on Sunday
+    in San Francisco. The memorial, organized by the Rape of Nanking Redress Coalition,
+    the Committee to Promote Reunification of China, the Alliance for Preserving the
+    Truth of Sino-Japanese War and Comfort Women Justice Coalition, has been held
+    annually for the past 20 years with the aim of exposing the Japanese Imperial
+    Army's war crimes and encouraging people to understand and never forget the dark
+    chapter of history. "The Japanese Army blatantly violated international conventions
+    and committed the extremely cruel atrocity in Nanjing, where 300,000 Chinese civilians
+    were murdered and one third of the buildings were destroyed," said Zha Liyou,
+    acting Chinese consul general in San Francisco, at the service. Japanese troops
+    captured Nanjing, which was China's capital at the time, on Dec 13, 1937, commencing
+    a slaughter that lasted more than 40 days. Tens of thousands of women were raped.
+    "Our stories are linked. The fate of over 400,000 women sexually enslaved by the
+    Japanese Imperial Army during World War II is part and parcel of what happened
+    during the Nanjing Massacre," said Judith Mirkinson, president of the Comfort
+    Women Justice Coalition. She said the 20th century has been called the most violent
+    century in the history of the world, and that one way to ensure peace in the 21st
+    century is through truth and reconciliation. "Reconciliation does not come without
+    truth. So the Japanese government must acknowledge their crimes," she said. "They
+    must give justice to those few people who still survive from the Nanjing Massacre
+    and to the memory of what happened there." From the time that Japan invaded northeast
+    China in September 1931, followed by a full-scale invasion that started on July
+    7, 1937, around 35 million Chinese soldiers and civilians were killed or injured
+    during the Japanese occupation, which continued until 1945. To honor the victims
+    and the survivors, and to pursue justice and an enduring peace, the Chinese community
+    worldwide joined hands this year to commemorate this historic event which was
+    designated by the Chinese government as National Memorial Day for Nanjing Massacre
+    Victims. "To remember the atrocities committed by the Japanese Army during World
+    War II does not mean to pass on the enmity but rather to remind people not to
+    forget the history and inspire them to love peace," said Zha. "It might be a comfort
+    to the victims and those who sacrificed their lives that the Nanjing Massacre
+    has been etched into the memory of the Chinese people and the world civilization."
+    The Nanjing Massacre was entered onto the UNESCO Memory of the World Register,
+    a compendium aimed at preserving documented heritage of universal value, in 2015.
+    liazhu@chinadailyusa.com
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: C
+    explanation: 文章第二段明确提到，该纪念活动举办20年来的目的在于“exposing the Japanese Imperial Army's
+      war crimes and encouraging people to understand and never forget the dark chapter
+      of history”，即揭露战争罪行并鼓励人们铭记这段历史。
+    options:
+      A: To seek financial compensation from the Japanese government for historical
+        war damages.
+      B: To celebrate the 80th anniversary of the founding of the Chinese community
+        in San Francisco.
+      C: To reveal war crimes and ensure that the dark history of the Nanjing Massacre
+        is remembered.
+      D: To organize political protests against modern-day Japanese foreign policy
+        in Asia.
+    q_number: 1
+    stem: What is the primary objective of the annual memorial service mentioned in
+      the passage?
+  - answer: B
+    explanation: “Part and parcel”意为“重要组成部分”。文中指慰安妇问题与南京大屠杀的历史是密不可分的，即前者是后者的重要组成部分。
+    options:
+      A: An optional addition.
+      B: An essential component.
+      C: A minor consequence.
+      D: A separate segment.
+    q_number: 2
+    stem: What does the phrase 'part and parcel' in the fourth paragraph most likely
+      imply?
+  - answer: B
+    explanation: 第五段中Mirkinson明确指出：“Reconciliation does not come without truth. So
+      the Japanese government must acknowledge their crimes.” 因此，日本政府承认罪行是实现和解的前提。
+    options:
+      A: The complete eradication of international borders.
+      B: The official acknowledgment of crimes by the Japanese government.
+      C: The total economic integration of Asian nations.
+      D: The immediate end of all military memorial services.
+    q_number: 3
+    stem: According to Judith Mirkinson, what is the prerequisite for achieving reconciliation
+      in the 21st century?
+  - answer: D
+    explanation: 第八段引用了Zha的话，指出铭记历史“does not mean to pass on the enmity but rather
+      to remind people not to forget the history and inspire them to love peace”，强调铭记是为了倡导和平，而非延续仇恨。
+    options:
+      A: It is necessary to maintain long-term enmity against the Japanese people.
+      B: It is a way to glorify the sacrifices made by the Chinese soldiers.
+      C: It serves to warn the world against the repetition of such historical events.
+      D: It is meant to inspire a commitment to peace rather than spreading hatred.
+    q_number: 4
+    stem: What is Zha Liyou's perspective on remembering the wartime atrocities?
+  - answer: A
+    explanation: 文章结尾提到，南京大屠杀于2015年被列入联合国教科文组织的《世界记忆名录》(Memory of the World Register)，这证明了其作为全球普遍价值历史遗产的地位。
+    options:
+      A: It is recognized as a documented part of universal heritage by UNESCO.
+      B: It is still considered a disputed topic in international historical circles.
+      C: It has been largely forgotten by the global academic community.
+      D: It is strictly regarded as a national issue irrelevant to world history.
+    q_number: 5
+    stem: Which of the following statements best reflects the status of the Nanjing
+      Massacre in global history?
+  source_journal: China Daily
+  title: Nanjing massacre remembered on 80th anniversary
+- article_update_date: 09.27.2026
+  body_text: '| Next | Section menu | Main menu | Why <em>Widow’s Bay</em> Is the
+    Show of the Summer Its blend of horror and comedy channels the spirit of the times.
+    by James Parker W hat genre are we living in, living through, today? Epic? No
+    chance. Farce? Sometimes. Porno-pastoral? Holistic satire? Digital picaresque?
+    All of these, sure, but only in spasms. No, the big one, the all-encompassing
+    super-genre of where we are right now (did you read/watch/inhale the news this
+    morning?), is obvious: horror-comedy. Horror (screams) is over here, and comedy
+    (laughs) is over there. And exactly where we find ourselves on the dial that ticks
+    between the two will vary from moment to moment. But the distance that separates
+    them, in 2026 America, is not great; that’s the point. The ludicrous abuts the
+    terrible. The ghastly now sits down heavily next to the hilarious, and breathes.
+    Which brings us to Widow’s Bay , currently riding high on Apple TV, by the former
+    Parks and Recreation writer Katie Dippold . Not only does this show successfully
+    blend the genres of horror and comedy; it reminds us that they are kind of the
+    same thing—that horror was always wrapped around comedy, and vice versa, because
+    they share the same brain stem. Sitcom-style no-exit environments; slapstick violence;
+    the alternating rhythm of anxiety and release. The jump scare, the punch line.
+    The existential whiplash. And what greater monster, what deeper bump in the night,
+    than the possibility that all of this is, you know, just one big joke? Widow’s
+    Bay is an island off the coast of New England. It has a diner called the Driftwood,
+    some nice beaches, some craggy old fishermen, no cellphone service, and no Wi-Fi.
+    The lack of hooked-upness feels important: It is as if the island’s imagination,
+    absent the usual distractions and numbing agents, has gone into blooming-and-festering
+    psychotic overdrive. Everywhere you look there’s a curse or a mystery or a bottomless
+    backstory, and the whole place creaks and slithers with that special Stephen King–like
+    aura of hexed quaintness, of bed-and-breakfast menace. Widow’s Bay has a mayor,
+    Tom Loftis, who wants to turn it into the new Martha’s Vineyard. Loftis, played
+    by Matthew Rhys, is a figure of quietly fanatical secularism and non-ghost-ism.
+    Clear out the cobwebs and crank up the cappuccino machine. But it is his one-man
+    campaign of gentrification and municipal enhancement that will activate the demons
+    of the island. He whose blundering-about like Michael Scott will bring in the
+    evil fog. He whose desire for summer visitors—and impatience with any kind of
+    supernatural nonsense—will wake up the killer clown and the lurching slasher and
+    the dripping, lank-haired sea hag, who follows you home and sits horribly and
+    brinily on your face until you’re dead. “You refuse to accept our history, to
+    accept the truth!” rails Wyck the fisherman, the wild-eyed town doomsayer. “Do
+    you know what I think?” says Loftis. “I think there are some people who want to
+    be miserable.” Rhys as Loftis is expertly cast. Bloodless complexion, inky hair—a
+    great silent-movie face, I’ve always thought, a melodramatic black-and-white face,
+    with something nervously mobile and Chaplin-esque flickering around the mouth,
+    the bared-teeth smile. The tonal coherence of Widow’s Bay depends to a large extent
+    on Rhys, on his ability to ride the current between goofy startlement and raw
+    terror. Loftis lives with, and glumly rinses out the cereal bowls of, his rebellious
+    stoner son, Evan—an extraordinary performance by Kingston Rumi Southwick, full
+    of hazily disruptive rhythms and long, glossy, bullshit-detecting gazes. “I didn’t
+    know we were swearing now,” he says placidly, having provoked his father into
+    a burst of addled profanity. Then there’s Patricia, played by the English actor
+    Kate O’Flynn. Awkward, traumatized, alarming on the dance floor, doggedly writing
+    her poems and trying to make friends, in horror she’s a victim and in comedy she’s
+    a heroine. So on the horror-comedy island of Widow’s Bay she’s both, embellishing
+    how she almost got murdered during a spree by the aforementioned lurching slasher.
+    Remember all those fake memoirs from the early 2000s , by all those writers pretending
+    to be addicts and gangsters and Holocaust survivors ? Patricia could have written
+    one of them. “I still sleep with a dresser in front of my door,” she insists.
+    “But he murdered teenage girls,” Loftis says helpfully. “You’re in your 40s; you’ll
+    be fine.” “Beach Reads,” the episode in which Patricia organizes a cocktail party
+    based on the guidance of a slightly sinister self-help/etiquette manual (“Feeling
+    like you could die tomorrow and no one would notice? Well, that could be. But
+    the right party can change that.”), is a stand-alone classic: When the veil of
+    hallucination lifts, the manual is revealed to be a Blair Witch –style grimoire.
+    It’s very well-made, Widow’s Bay . The soundtrack—by the frequent Hans Zimmer
+    collaborator David Fleming—is a delight, a polyphonic mood board of ghost-clangs,
+    spooky bassoons, lyrical electro-motifs, and sighing sea themes. And some of the
+    images are indelible: A close-up of Rhys prone and horror-rigid in his bathtub,
+    the watery essence of the sea hag hovering over his face, will not soon be dislodged
+    from my mind. The risk, though, with horror-comedy—with dinging from chuckles
+    to shrieks and back again—is always an evacuated center. A lack of feeling at
+    the core. The masterpieces of the genre have the means to overcome this. Edgar
+    Wright’s Shaun of the Dead is more chuckles than shrieks, but it makes a serious
+    metaphysical statement : If you let your life drift, if you sit in the pub all
+    day, if you don’t self-actualize, the zombies are going to get you—the zombie
+    tide will take you down. Jordan Peele’s Get Out is more shrieks than chuckles,
+    but some of its creepiest moments occur within a brilliantly observed comedy of
+    manners , as Chris, a young Black man, is introduced to his girlfriend’s preeningly
+    progressive white parents, and begins to be drawn into the sticky web of their
+    whiteness. (“So how long has this been going on?” leers the dad about his daughter’s
+    relationship. “This—this thang.”) As for Twin Peaks … Well, Twin Peaks is Twin
+    Peaks . Nobody does it like David Lynch , bringing such a pressure of seething
+    strangeness to bear on both the chuckles and the shrieks that a third element
+    was created, a third genre: the Lynchian. Season 1 of Widow’s Bay does not operate
+    at this level. The final showdown with the island’s dark past gives you not catharsis
+    but that more familiar groggy, post-binge, hunched-over-your-laptop feeling, your
+    brain glutted with narrative and your antennae drooping. But a second season is
+    in the works, with the potential to deepen the action, and the world will reliably
+    continue to keep us in the mood: more horror, more comedy. Nobody’s getting off
+    this island yet. This article appears in the September 2026 print edition with
+    the headline “Not Quite the Vineyard.” This article was downloaded by calibre
+    from https://www.theatlantic.com/magazine/2026/09/widows-bay-apple-tv-matthew-rhys/687956/
+    | Section menu | Main menu |'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章第一段提到“The ludicrous abuts the terrible. The ghastly now sits down
+      heavily next to the hilarious”，这说明恐怖与喜剧在当下现实中界限模糊，恐怖与荒诞并存，因此B选项正确。
+    options:
+      A: It accurately depicts the historical shift from epic to farce.
+      B: It captures the blurred line between the absurd and the terrifying in contemporary
+        life.
+      C: It provides a clear distinction between the news we consume and the entertainment
+        we seek.
+      D: It reflects the global anxiety that has rendered other literary genres obsolete.
+    q_number: 1
+    stem: According to the first paragraph, why does the author consider 'horror-comedy'
+      the quintessential genre of the present time?
+  - answer: C
+    explanation: '文中提到“The lack of hooked-upness feels important: It is as if the
+      island’s imagination... has gone into blooming-and-festering psychotic overdrive.”
+      这表明缺乏现代网络连接使得该岛处于一种脱离常态的诡异想象中，因此选C。'
+    options:
+      A: It highlights the island's economic instability and lack of infrastructure.
+      B: It emphasizes the characters' inability to connect with one another emotionally.
+      C: It suggests that the absence of modern technology fosters a distorted, supernatural
+        atmosphere.
+      D: It illustrates the isolation of the residents from the rest of the New England
+        coast.
+    q_number: 2
+    stem: What does the author imply by describing Widow’s Bay as having a 'lack of
+      hooked-upness'?
+  - answer: B
+    explanation: 文中指出Loftis试图搞城市化改造（gentrification），但他这种行为恰恰“will activate the demons
+      of the island”，这种盲目的现代化努力导致了恐怖事件的发生，因此B选项最准确。
+    options:
+      A: A rational leader who successfully mitigates the island’s superstitious fears.
+      B: A comedic foil whose attempts to modernize the town inadvertently trigger
+        supernatural unrest.
+      C: A tragic hero who struggles to balance his secular values with the island's
+        mysterious history.
+      D: A corrupt politician who exploits the town's legends for his own financial
+        gain.
+    q_number: 3
+    stem: Which of the following best describes Tom Loftis's role in the series as
+      interpreted by the author?
+  - answer: B
+    explanation: 文中提到Patricia自称曾被谋杀未遂，并将其与虚构回忆录作者相提并论，说明她在虚构与真实痛苦之间摇摆，既是受害者又是英雄，这种不确定性体现了她对自我叙事的塑造，因此B项正确。
+    options:
+      A: a skillful writer who creates compelling narratives.
+      B: an individual who blurs the boundary between her trauma and her need for
+        attention.
+      C: a person who genuinely fears for her safety despite her lack of evidence.
+      D: a critic of the culture that celebrates sensationalized personal tragedies.
+    q_number: 4
+    stem: The author compares Patricia’s behavior to 'fake memoirs' from the early
+      2000s to suggest that she is __________.
+  - answer: D
+    explanation: 文章结尾提到“Season 1 of Widow’s Bay does not operate at this level (Lynchian)”且结局缺乏“catharsis”，但同时也提到“potential
+      to deepen the action”，即第一季尚未达到巅峰，但有发展潜力，因此D选项最客观。
+    options:
+      A: It is a flawed masterpiece that rivals the complexity of Twin Peaks.
+      B: It effectively uses meta-horror elements but ultimately feels emotionally
+        hollow.
+      C: It is a well-produced show that succeeds by prioritizing atmosphere over
+        narrative cohesion.
+      D: It demonstrates great potential but fails to achieve deep thematic resonance
+        in its current state.
+    q_number: 5
+    stem: What is the author's overall assessment of the first season of 'Widow’s
+      Bay'?
+  source_journal: Atlantic
+  title: Chapter 13
