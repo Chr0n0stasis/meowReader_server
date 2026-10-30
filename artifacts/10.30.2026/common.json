@@ -1,0 +1,465 @@
+{
+  "group_update_date": "10.30.2026",
+  "papers": [
+    {
+      "title": "Beverly Gage, a Pulitzer-prizewinning historian, takes the wheel",
+      "article_update_date": "06.03.2026",
+      "source_journal": "Economist",
+      "body_text": "Beverly Gage, a Pulitzer-prizewinning historian, takes the wheel Culture | A perfect brake Beverly Gage, a Pulitzer-prizewinning historian, takes the wheel A new book offers an enjoyable tour of America at 250 May 28th 2026 AMERICANS drive a lot. That habit has some detrimental effects, from air pollution and immense car parks to an inflated reverence for Jack Kerouac. But it also has benefits, such as the American road trip, used by generations of parents to annoy their captive children and by novelists to tell stories of new beginnings (“The Grapes of Wrath”) and catastrophic endings ( “The Road” ). In a charming new book, Beverly Gage—a historian at Yale, who won a Pulitzer prize for her biography of J. Edgar Hoover—drives through American history. From George Washington to Ronald Reagan, and from Philadelphia to California, she roams among historic homes, monuments, parks and presidential libraries “in an attempt to explore, if not reconcile, the greatest tensions of American history”. That sounds like a tall order for a road trip, but Ms Gage is a fun travelling companion. And her timing is good, with this year marking America’s semiquincentennial and the centennial of Route 66, one of the nation’s original highways. The book begins, fittingly, with Washington, who tried to discover his country by road. Six months after taking office, he was back in the saddle, riding around New England and sleeping in taverns and inns “to commune with ordinary Americans”. Washington found that most Americans did not think of themselves as such: they identified with their town or region rather than their country. That was for good reason: the United States was barely an adolescent. To her credit, Ms Gage avoids both the simplistic history of the Trumpian right and the fatalism of the progressive left. Visiting the Legacy Museum in Montgomery, Alabama, focused on racial injustice, Ms Gage takes issue with the museum’s contention that “Slavery did not end. It evolved.” Such pessimism is unhelpful: abolition involved “massive, heroic efforts and near-impossible efforts…I’m not sure what’s gained by suggesting they didn’t make much difference,” she argues. The book’s pleasure is its journey, so it spoils nothing to say that she ends her trip feeling buoyed. On the road Ms Gage found faith in American progress that opinion polls fail to capture. However fractious today’s politics are, the country retains a great capacity for reinvention. Putting down the phone and picking up car keys this summer may also make others feel heartened. ■ For more on the latest books, films, TV shows, albums and controversies, sign up to Plot Twist , our weekly subscriber-only newsletter This article was downloaded by zlibrary from https://www.economist.com//culture/2026/05/28/beverly-gage-a-pulitzer-prizewinning-historian-takes-the-wheel",
+      "difficulty_constant": 8.5,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "Beverly Gage, a historian, ________ the wheel of American historical analysis in her new book.",
+          "options": {
+            "A": "breaks",
+            "B": "spins",
+            "C": "takes",
+            "D": "lost"
+          },
+          "answer": "C",
+          "explanation": "根据上下文takes the wheel指掌控或引领，符合语境。"
+        },
+        {
+          "q_number": 2,
+          "stem": "That habit has some ________ effects, such as air pollution and immense car parks.",
+          "options": {
+            "A": "detrimental",
+            "B": "benign",
+            "C": "superficial",
+            "D": "negligible"
+          },
+          "answer": "A",
+          "explanation": "后文提到污染和巨大的停车场，显然是负面影响，故选detrimental。"
+        },
+        {
+          "q_number": 3,
+          "stem": "The American road trip has been used by novelists to tell stories of both new beginnings and ________ endings.",
+          "options": {
+            "A": "optimistic",
+            "B": "catastrophic",
+            "C": "trivial",
+            "D": "gradual"
+          },
+          "answer": "B",
+          "explanation": "对比new beginnings（新开端），此处应为负面词汇，catastrophic（灾难性的）符合语境。"
+        },
+        {
+          "q_number": 4,
+          "stem": "Gage ________ through American history in her charming new book, visiting various historical sites.",
+          "options": {
+            "A": "drives",
+            "B": "plods",
+            "C": "fumbles",
+            "D": "stumbles"
+          },
+          "answer": "A",
+          "explanation": "全书以公路旅行为隐喻，drives through既呼应主题又符合语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "She roams among historic homes, monuments and libraries in an ________ to explore the greatest tensions of American history.",
+          "options": {
+            "A": "omission",
+            "B": "objection",
+            "C": "enactment",
+            "D": "attempt"
+          },
+          "answer": "D",
+          "explanation": "in an attempt to do something为固定搭配，意为“试图做某事”。"
+        },
+        {
+          "q_number": 6,
+          "stem": "That sounds like a ________ order for a road trip, but Ms Gage is a fun travelling companion.",
+          "options": {
+            "A": "light",
+            "B": "small",
+            "C": "tall",
+            "D": "brief"
+          },
+          "answer": "C",
+          "explanation": "tall order意为“艰巨的任务/过高的要求”，符合语境。"
+        },
+        {
+          "q_number": 7,
+          "stem": "Her timing is good, with this year ________ America’s semiquincentennial and the centennial of Route 66.",
+          "options": {
+            "A": "evading",
+            "B": "hiding",
+            "C": "marking",
+            "D": "spoiling"
+          },
+          "answer": "C",
+          "explanation": "marking表示纪念或标志着某个时间节点。"
+        },
+        {
+          "q_number": 8,
+          "stem": "The book begins, ________, with Washington, who tried to discover his country by road.",
+          "options": {
+            "A": "regrettably",
+            "B": "excessively",
+            "C": "randomly",
+            "D": "fittingly"
+          },
+          "answer": "D",
+          "explanation": "既然是写美国历史的公路旅行书，从华盛顿开始是“恰当的”，即fittingly。"
+        },
+        {
+          "q_number": 9,
+          "stem": "Washington was riding around New England to ________ with ordinary Americans.",
+          "options": {
+            "A": "clash",
+            "B": "compete",
+            "C": "commune",
+            "D": "counsel"
+          },
+          "answer": "C",
+          "explanation": "commune with在此意为与某人建立深层联系或交流。"
+        },
+        {
+          "q_number": 10,
+          "stem": "Washington found that most Americans identified with their town or region rather than their ________.",
+          "options": {
+            "A": "country",
+            "B": "ideology",
+            "C": "religion",
+            "D": "colleague"
+          },
+          "answer": "A",
+          "explanation": "对比词为region（地区），另一端应为country（国家）。"
+        },
+        {
+          "q_number": 11,
+          "stem": "The United States was ________ an adolescent at that time.",
+          "options": {
+            "A": "virtually",
+            "B": "barely",
+            "C": "largely",
+            "D": "highly"
+          },
+          "answer": "B",
+          "explanation": "barely表示“仅仅，几乎不”，符合美国早期国家状态的描述。"
+        },
+        {
+          "q_number": 12,
+          "stem": "Ms Gage ________ both the simplistic history of the Trumpian right and the fatalism of the progressive left.",
+          "options": {
+            "A": "promotes",
+            "B": "embraces",
+            "C": "avoids",
+            "D": "ignites"
+          },
+          "answer": "C",
+          "explanation": "根据后文她对各种观点的平衡态度，此处应表示她避开了极端观点，故选avoids。"
+        },
+        {
+          "q_number": 13,
+          "stem": "Ms Gage takes ________ with the museum’s contention that slavery did not end but evolved.",
+          "options": {
+            "A": "pride",
+            "B": "note",
+            "C": "advantage",
+            "D": "issue"
+          },
+          "answer": "D",
+          "explanation": "take issue with意为“不赞同/持有异议”，是考研常考短语。"
+        },
+        {
+          "q_number": 14,
+          "stem": "Such pessimism is unhelpful; abolition involved ________ and heroic efforts.",
+          "options": {
+            "A": "massive",
+            "B": "scanty",
+            "C": "negligent",
+            "D": "cautious"
+          },
+          "answer": "A",
+          "explanation": "massive在此形容规模之大，与heroic匹配。"
+        },
+        {
+          "q_number": 15,
+          "stem": "She argues that suggesting they did not make much difference is ________.",
+          "options": {
+            "A": "essential",
+            "B": "justifiable",
+            "C": "logical",
+            "D": "unhelpful"
+          },
+          "answer": "D",
+          "explanation": "前文已经点明Such pessimism is unhelpful，此处对应。"
+        },
+        {
+          "q_number": 16,
+          "stem": "The book’s pleasure is its journey, so it ________ nothing to say that she ends her trip feeling buoyed.",
+          "options": {
+            "A": "spoils",
+            "B": "enriches",
+            "C": "conceals",
+            "D": "improves"
+          },
+          "answer": "A",
+          "explanation": "spoils something指剧透，此处意思是提前说出来也不会毁掉读者的阅读体验。"
+        },
+        {
+          "q_number": 17,
+          "stem": "She ends her trip feeling ________.",
+          "options": {
+            "A": "resigned",
+            "B": "buoyed",
+            "C": "outraged",
+            "D": "exhausted"
+          },
+          "answer": "B",
+          "explanation": "buoyed意为受到鼓舞，与全文对国家未来的乐观态度相符。"
+        },
+        {
+          "q_number": 18,
+          "stem": "She found faith in American progress that ________ polls fail to capture.",
+          "options": {
+            "A": "inaccurate",
+            "B": "exit",
+            "C": "fictional",
+            "D": "opinion"
+          },
+          "answer": "D",
+          "explanation": "opinion polls为固定搭配，意为“民意调查”。"
+        },
+        {
+          "q_number": 19,
+          "stem": "However ________ today’s politics are, the country retains a great capacity for reinvention.",
+          "options": {
+            "A": "stable",
+            "B": "fractious",
+            "C": "durable",
+            "D": "peaceful"
+          },
+          "answer": "B",
+          "explanation": "however引导让步状语从句，fractious（难以驾驭的/纷争的）与后文的reinvention形成对比。"
+        },
+        {
+          "q_number": 20,
+          "stem": "Putting down the phone and picking up car keys this summer may also make others feel ________.",
+          "options": {
+            "A": "bored",
+            "B": "heartened",
+            "C": "puzzled",
+            "D": "indifferent"
+          },
+          "answer": "B",
+          "explanation": "heartened意为感到振奋，呼应文中积极的主旨。"
+        }
+      ]
+    },
+    {
+      "title": "New US Ebola patient arrives in Germany for treatment",
+      "article_update_date": "07.14.2026",
+      "source_journal": "The Guardian",
+      "body_text": "A US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Berlin said on Monday, weeks after another American infected with Ebola in the DRC was treated in Berlin. Meanwhile, the Trump administration on Monday said it was blocking American citizens in ⁠the DRC from traveling to the US on commercial flights, Reuters reported, citing a White House official. The new American patient landed in Frankfurt overnight and was transferred to the city’s university hospital, according to the German health ministry. The head of the World Health Organization (WHO) said the man was a “humanitarian worker” who had been in Bunia, the capital of the north-eastern Ituri province of the DRC. Ituri is the center of an Ebola outbreak that the DRC declared in mid-May – its 17th. The WHO had provided the infected man with “clinical care and close monitoring”, The WHO director-general, Tedros Adhanom Ghebreyesus, said on X. “The patient has been safely transferred to Germany for continued follow-up care,” he added. An official working for the Christian aid group Samaritan’s Purse confirmed to Reuters that the patient, in his 60s, was a full-time employee of the organization working as a warehouse manager in the DRC. The DRC’s ongoing outbreak is caused by the Bundibugyo strain of the virus – for which there is no vaccine or cure. There have been more than 1,900 confirmed cases in the outbreak and more than 700 confirmed deaths, according to the WHO. The German health ministry said the US patient represented “no danger for the general population or for other patients” in the Frankfurt hospital. “The risk of someone infected with Ebola entering Germany is very low,” the ministry said. It added that US authorities had requested help from Germany because of the country’s expertise in treating Ebola cases and the shorter flight time from the DRC to Germany. Another US patient with the virus was quarantined at the end of May along with his family at Berlin’s Charité hospital. He made a recovery after two weeks of treatment. The Trump administration’s barring Americans in the DRC from traveling to the United States on commercial flights is being done under a transportation authority known as Title 49, according to Reuters’ reporting. That will place US citizens in the DRC or those who have recently left on a “do-not-board” list until they have spent at least 21 days in a third country, Reuters reported, citing a White House official. About two dozen Americans were set to board flights to the United States on Tuesday after having ‌traveled to the DRC, according to the US official quoted by Reuters. Reuters reported that the US state department would support those American citizens and others affected during the ​waiting period. Ebola spreads through direct contact with bodily fluids from infected people or animals – and the often fatal viral disease causes symptoms that can include high fever, vomiting and internal and external bleeding.",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, why was the American Ebola patient transported to Germany?",
+          "options": {
+            "A": "Germany was the only country willing to accept humanitarian workers infected with the virus.",
+            "B": "The US administration prohibited the patient from returning to the United States on commercial flights.",
+            "C": "Germany possesses specialized medical expertise for Ebola treatment and is geographically closer to the DRC.",
+            "D": "The patient's employer, Samaritan’s Purse, insisted on treatment at the Frankfurt university hospital."
+          },
+          "answer": "C",
+          "explanation": "文章提到，德国卫生部表示，美方请求德国提供协助，原因在于德国在治疗埃博拉病例方面的专业知识，以及从刚果民主共和国到德国的飞行时间较短。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What is the implication of the Trump administration's decision regarding US citizens in the DRC?",
+          "options": {
+            "A": "It imposes a mandatory 21-day quarantine in a third country before citizens can fly to the US.",
+            "B": "It permanently revokes the travel rights of any American who has visited the Ituri province.",
+            "C": "It effectively halts all diplomatic communication between the US and the DRC health authorities.",
+            "D": "It forces infected individuals to seek immediate asylum in European medical facilities."
+          },
+          "answer": "A",
+          "explanation": "文中提到，根据路透社援引白宫官员的说法，受影响的美国公民将被列入“禁止登机”名单，直到他们在第三国停留至少21天。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is true regarding the Ebola outbreak in the DRC?",
+          "options": {
+            "A": "The Bundibugyo strain involved in the current outbreak has a readily available vaccine.",
+            "B": "The WHO has confirmed that the outbreak is now under full control.",
+            "C": "The current outbreak is the first one recorded in the region since May.",
+            "D": "The virus transmits through direct contact with bodily fluids from affected individuals."
+          },
+          "answer": "D",
+          "explanation": "文章结尾明确指出，埃博拉病毒通过与受感染者或动物的体液直接接触传播。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The phrase 'barring Americans' in the context of the Trump administration's policy most closely means:",
+          "options": {
+            "A": "Encouraging.",
+            "B": "Prohibiting.",
+            "C": "Escorting.",
+            "D": "Monitoring."
+          },
+          "answer": "B",
+          "explanation": "Barring在此处意为阻止、禁止，与Prohibiting同义，指政府禁止美国公民乘坐商业航班回国。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What can be inferred about the risk of Ebola in Germany based on the ministry's statement?",
+          "options": {
+            "A": "The risk is negligible due to strict containment protocols.",
+            "B": "The risk is escalating due to the influx of infected patients.",
+            "C": "Germany lacks the necessary equipment to manage potential outbreaks.",
+            "D": "The public is warned to avoid contact with all hospital staff."
+          },
+          "answer": "A",
+          "explanation": "德国卫生部明确表示，美国病人对法兰克福医院的普通人群或其他病人不构成危险，且感染埃博拉的人进入德国的风险非常低。"
+        }
+      ]
+    },
+    {
+      "title": "Satellite lofted for first Arab country",
+      "article_update_date": "06.12.2026",
+      "source_journal": "China Daily",
+      "body_text": "Algeria's first communications satellite is launched on Monday. JU ZHENHUA/XINHUA A Chinese-made communications satellite became the first \"export\" of such a spacecraft to an Arab country when it was launched by China on Monday for Algeria. A Long March 3B carrier rocket blasted off at the Xichang Satellite Launch Center in the southwestern province of Sichuan at 12:40 am. It soared for about 26 minutes before placing the Alcomsat-1, the Algeria's first communications satellite, into geostationary transfer orbit, according to a news release from China Great Wall Industry Corp, the project contractor. President Xi Jinping and his Algerian counterpart Abdelaziz Bouteflika exchanged congratulatory messages on Monday morning on the successful mission. In his message, Xi said that the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership. It has become a good example of space cooperation between China and Arab countries and will play a significant role in promoting Algeria's economic and social development, he said. Xi said that Beijing is willing to work with Algeria to strengthen exchanges and cooperation in various fields, deepening the bilateral partnership so as to benefit the two countries and peoples. Bouteflika said that Alcomsat-1 is a remarkable achievement in space cooperation between the two countries and reflects the deep traditional friendship between the two sides. Algeria is willing to work with China to strengthen cooperation, he said. The satellite contract was signed in December 2013 between the Algerian Space Agency and China Great Wall Industry Corp, the country's largest space contractor in the international market. Alcomsat-1 was designed and manufactured by the China Academy of Space Technology, part of China Aerospace Science and Technology Corp, based on the DFH-4 satellite platform. With a liftoff weight of 5.2 metric tons and a designed life of 15 years, the satellite will be used for a wide variety of public services such as television broadcasting, emergency communications, remote education and satellite-based signal augmentation, according to Great Wall Industry. Fu Zhiheng, vice-president of the company, said Alcomsat-1 is as good as Western communications satellites in terms of technology and capacity. He said there are other contracts between his firm and Arab countries, without elaborating. zhaolei@chinadaily.com.cn",
+      "difficulty_constant": 6.8,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the launch of Alcomsat-1 is significant mainly because it is ______.",
+          "options": {
+            "A": "a result of the long-term collaboration between China and Arab nations in space",
+            "B": "the first communications satellite ever launched by the China Great Wall Industry Corp",
+            "C": "the first of its kind exported by China to an Arab country",
+            "D": "a strategic milestone that challenges the technological monopoly of Western satellites"
+          },
+          "answer": "C",
+          "explanation": "文章第一段提到“A Chinese-made communications satellite became the first 'export' of such a spacecraft to an Arab country”，直接对应C选项。"
+        },
+        {
+          "q_number": 2,
+          "stem": "What does President Xi Jinping suggest about the satellite project in his message?",
+          "options": {
+            "A": "It marks the end of economic barriers between China and Algeria",
+            "B": "It represents a vital component of the bilateral comprehensive strategic partnership",
+            "C": "It is a temporary solution to Algeria's social development issues",
+            "D": "It signals a shift in China's focus from domestic to international space projects"
+          },
+          "answer": "B",
+          "explanation": "文章第三段明确提到“Xi said that the satellite project is an important manifestation of the China-Algeria comprehensive strategic partnership”，B选项“vital component”与“important manifestation”语义一致。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Which of the following is true regarding the technical specifications of Alcomsat-1?",
+          "options": {
+            "A": "It has a liftoff weight of 5.2 tons and a service span of over 15 years",
+            "B": "It was exclusively designed to serve Algeria's remote education needs",
+            "C": "It was developed by the China Academy of Space Technology based on the DFH-4 platform",
+            "D": "It represents the smallest satellite model successfully launched by the Long March 3B rocket"
+          },
+          "answer": "C",
+          "explanation": "根据倒数第二段，“Alcomsat-1 was designed and manufactured by the China Academy of Space Technology... based on the DFH-4 satellite platform”，C选项完全符合原文描述。A选项中15年为设计寿命，并非“超过15年”。"
+        },
+        {
+          "q_number": 4,
+          "stem": "The term 'without elaborating' in the final paragraph implies that Fu Zhiheng ______.",
+          "options": {
+            "A": "is cautious about disclosing sensitive details regarding future contracts",
+            "B": "lacks sufficient information to provide further specifics about the deals",
+            "C": "prefers to emphasize technological prowess rather than commercial outcomes",
+            "D": "believes that the audience is already familiar with the contents of those contracts"
+          },
+          "answer": "A",
+          "explanation": "在文章末尾提到有其他合同但“without elaborating”，这通常意味着出于谨慎或商业保密考虑，不想详细说明。A选项“cautious about disclosing”符合语境。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the primary tone of the passage?",
+          "options": {
+            "A": "Critical and analytical",
+            "B": "Objective and informative",
+            "C": "Subjective and optimistic",
+            "D": "Urgent and persuasive"
+          },
+          "answer": "B",
+          "explanation": "文章主要通过引用事实、发布会内容及双方领导人的表态来陈述事实，没有强烈的个人情感色彩，属于典型的新闻报道风格，故选B。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 30",
+      "article_update_date": "08.23.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Jasper Craven The Big Story Jan 8, 2026 6:00 AM True Patriots Are Cashing In on the Apocalypse How two big names in mainstream disaster preparedness helped sell Americans on fear, anxiety, and a new generator. 4Patriots chief engineer Tyler Stapleton demonstrates a 4Patriots Patriot Pure Personal Water Filter Straw by drinking out of a toilet on September 10, 2025, in Lindon, Utah. Photograph: SINNA NASSERI When it comes to prepping, look to the Mormons. It’s right there, in the official name of the religion: To be a “Latter-day Saint”' is explicitly to believe in, and prepare for, the end times. This is why, on a calm morning last September, I arrive just outside Salt Lake City in a place called American Fork and knock on the door of Tyler Stapleton, the chief product engineer for off-grid power products at 4Patriots, one of the biggest companies pushing preparedness into the mainstream. Church members play outsize roles in this multibillion-dollar industry—a global concern where politics and technology collide, with sales fueled by social media and conspiracy theories, in addition to the undeniable rise in world chaos. Stapleton is a bit sheepish but very nice, a nerdy mechanical engineer with degrees from Brigham Young University who lives with his wife and three young children. Inside their tidy home is a big clock, a bright kitchen, and the Book of Mormon on the shelf. After exchanging pleasantries, Stapleton begins showing off new products and prototypes, including a sleek “James Bond-like” solar generator that packs up like a briefcase. All the while, he sticks to the company line, telling me that the typical owner of a 4Patriots power product is not some zealot in camouflage preparing to live in a bunker “for days on end” but rather a family man seeking “energy independence” for the occasional moments when the grid goes down. It’s a well-placed piece of rhetoric, though the line loses some of its luster an hour later, when Tyler lets slip that his childhood home nearby does, indeed, feature a modest bunker, then reluctantly agrees to take us to it. Today, the US government advises every citizen to build a disaster kit and concoct plans for an array of cataclysms. According to a 2023 survey from the Federal Emergency Management Agency, 51 percent of Americans are in some way “prepared for a disaster.” This helps explain why the prepping industry’s market cap is forecast to be nearly $300 billion by the end of the decade. Two of the firms competing for market share have nearly identical names and offer the same basic slate of products: power generators, dehydrated food, and water filtration. There’s Stapleton’s employer, 4Patriots, and its rival, My Patriot Supply. While exact revenue figures are difficult to pin down, officials at My Patriot Supply tell me that, before the pandemic, they rented part of a 45,000-square-foot space; today, the company built and fully utilizes a 428,000-square-foot warehouse not far from Stapleton’s home. These two firms are aggressively jockeying to be the industry’s true patriot prepping company, with one official from My Patriot Supply claiming that 4Patriots is their “archnemesis.” My Patriot Supply is particularly bellicose, deeming the other company and its competitors “ fake patriots ”in a video. Meanwhile, both firms have notched their share of consumer complaints with government and business watchdogs over the years. 4Patriots customers have alleged that the company produces faulty water filters, defective generators, and dubious food. One person said their order was rife with roaches, while another claimed the company's Aztec Chili with Mango made them “can’t leave the bathroom sick” for a week. (According to the Better Business Bureau website, someone associated with 4Patriots replied to this alleged complaint a day later, adding, \"I'm so sorry that you had many issues after consuming the survival food kits.”) In 2016, the company voluntarily recalled a couple thousand generators due to an unforeseen fire hazard, and consumer complaints allege their generators continue to suffer from potentially dangerous electrical defects. (After putting 4Patriots’ 1,800-watt solar generator through lab testing, Consumer Reports rated it 46 out of 100 .) Certainly, recalls and bad reviews are part and parcel of many businesses today, though an explicit part of the pitch from 4Patriots and its competitors is the rock-hard reliability of their goods when disaster strikes. In a comment to WIRED, a 4Patriots official said the company shipped over 5 million products to consumers over the past three years and that it places “product quality and customer safety above all else.” He declined to detail the company’s return or refund rates, asserting that to equate those numbers with “product failure or customer dissatisfaction would be inaccurate.” Video: Sinna Nasseri Stapleton, for his part, is bullish about the current generation of 4Patriots’ generators. We end his house tour in the kitchen, where he volunteers to demonstrate the company’s AlphaCase suitcase-sized generator, a product that is “powerful enough,” he says, to run his refrigerator. As he shimmies it out from a kitchen wall, Stapleton talks excitedly about the incredible advances in battery technology pioneered in recent years by firms like Tesla. “It’s competitive, and that’s a good thing,” Stapleton says. “There’s a lot of people pushing the envelope on what’s possible. And so we are working hard to stay ahead of that.” As the climactic moment arrives, Stapleton unplugs his fridge and hooks it up to the 4Patriots power pack. It buzzes quietly for a few seconds, then emits a beeping sound. At this point, a message shoots up on the screen. “That’s just the overload message,” Stapleton awkwardly explains, adding that “this guy”—meaning his generator, which he had just said would run a refrigerator and which the website claims, too—is “a little bit small for powering fridges.” The garden at Stapleton’s father’s home. Photograph: SINNA NASSERI When, in the mid-1800s, the Mormons first fled west to the Utah Territory, they viewed prepping as a means of survival and autonomy from government persecution. They subsequently formed an off-grid society, with the church operating its own bank, printing its own currency, and directing a militia. In an October 1980 speech before thousands in Salt Lake City, church leader Ezra Taft Benson articulated a far more practical ethic of preparedness. A well-studied farmer, Benson spearheaded the reintroduction of missionary work in Europe following World War II. In his speech, Benson recalled the “terrible physical and social side effects of hunger” he witnessed in the wake of the war, his voice breaking with emotion. “Too often,” he said, “we bask in our comfortable complacency and rationalize that the ravages of war, economic disaster, famine, and earthquake cannot happen here.” Mormons, of course, were not the only group of Americans to worry about the future; Boy Scouts who hope to become Eagles have long needed to earn an Emergency Preparedness Merit Badge. In their 2024 book, Be Prepared: Doomsday Prepping in the United States , Robert E. Kirsch and Emily Ray trace how American prepping has long been wed to consumerism through its alluring pitch to “purchase your way to safety.” Today, America’s roulette wheel of routine calamity includes extreme heat, power grid overload, crop failure, water contamination, climate-change-induced natural disasters, climate-change-induced disease, government shutdowns, political corruption, troops in the streets, fervent militia activity, mass shootings—and, new for 2026, regime change in Latin America. It also seems that every few years an asteroid just barely misses Earth . Final Famine , a book by Teddy Daniels stocked at the My Patriot Supply warehouse in Salt Lake City. Photograph: SINNA NASSERI Founded in 2008, 4Patriots initially focused on food, appealing to people who started stocking emergency rations after the election of Barack Obama. Its unlikely founder is Allen Baler, who has an English degree from Obama’s law school alma mater, Harvard, and a corporate marketing background, traits that My Patriot Supply has spoofed in YouTube content showing a Baler-esque figure in a Harvard half-zip who resorts to “scarcity” tactics and other cynical sales tricks. The face of the firm back then was Frank Bates, a slick pitchman and Vietnam veteran living near Nashville, Tennessee, who wrote about how Obama's policies had hurt his family, his business, and America. He alleged various government plots, including one that the FEMA was hoarding food because “it knows that if you control the food supply, then you control the people.” When the company’s emergency offerings expanded into power supplies, 4Patriots teased the “dirty little secret that President Obama and the big energy monopolies have been trying to bury.” 4Patriots once described its core customer base as “55+ year-old conservatives in ‘red’ states with a strong sense of self-reliance.” Baler first tapped into this constituency in 2011, with an ad buy at a then-fledgling conservative news outlet called Newsmax, a hub, in his words, of “affluent, conservative men who surprisingly like to buy a lot of stuff online.” He subsequently expanded his messaging to The National Review , Glenn Beck’s conservative news network, The Blaze , and then Fox News, which has repeatedly plugged 4Patriots products on air . In 2014, ThinkProgress alleged that Bates wasn’t real. They could find no one in Nashville with his name and background. Then the site discovered his likeness on a stock image site , captioned “friendly man with arms crossed.” 4Patriots denied any deception and, to this day, occasionally features materials signed by the mysterious Mr. Bates. (On its FAQ page, 4Patriots assures longtime customers that Bates is, indeed, real but that he uses a pen name “to protect his privacy.”) In general, 4Patriots has toned things down, presumably to reach other constituencies , like crunchy off-gridders, tailgaters, campers, and people living in hurricane zones or tornado alley. Still, according to Stapleton, the firm’s customer base continues to include “a lot of conservative individuals.” Stapleton in his garage in American Fork, Utah, near Salt Lake City. Photograph: SINNA NASSERI Both of the patriotic prepping companies promote their products through traditional TV ads and active YouTube channels . My Patriot Supply also produces podcast-style content about the various dangers that necessitate a prepping mindset, while its competitor has launched 4Patriots University , a set of preparedness master classes taught weekly by Seth Weller, a wiry former Boy Scout (and scoutmaster), who has been working in preparedness for a quarter-century. Weller insists that his curriculum focuses strictly on developing contingencies and building community support networks, not pushing product. He argues that too many Americans use prepping as a form of “retail therapy,” buying products “to remove that fear” without building the requisite expertise to actually use them. Weller’s long career on the front lines of American prepping has made him a canny diagnostician of the emotional currents fueling the phenomenon. In his estimation, many of his clients have experienced some sort of profound loss, whether it’s heartache, the death of a loved one, or a storm. “It’s not necessarily some major catastrophic event, but it’s something that changed their lives,” he tells me. “And in that process, they realized that this happened because, well, they had a dependency. And then they turn around, like, ‘I don’t ever want to feel that again.’ So, they realize they have to gain some control. They’ve got to gain independence.” When I ask Weller what thrust him into this world, he points not to an earthquake or a flood but to the painful and unexpected loss of his luxury port-a-potty and shower trailer business. He seems genuinely driven to help people secure calm from their anxieties, arguing that it’s interpersonal prepping networks and skills that can best meet this challenge, not simply gear from prepping companies, which, Weller candidly admits, doesn’t always work. Unprompted, Weller invokes a hypothetically wonky generator, bought “under the guise” that it can power a critical household appliance, only for the lights to go out and the consumer to realize that the product “doesn’t work.” Obviously unaware of my prior experience in Stapleton’s kitchen, Weller",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What does the author suggest about the relationship between the Mormon faith and the 'prepping' industry?",
+          "options": {
+            "A": "The industry was established primarily by church leaders to fund religious missionary work.",
+            "B": "The theological belief in the 'end times' provides a cultural foundation for preparedness.",
+            "C": "The church mandates that all members must purchase specific survival gear from local companies.",
+            "D": "The industry relies exclusively on church members to validate the effectiveness of their products."
+          },
+          "answer": "B",
+          "explanation": "文章开头提到“To be a ‘Latter-day Saint’ is explicitly to believe in, and prepare for, the end times”，这说明该宗教对末世论的信仰为“预备主义”提供了文化和心理基础，故B项正确。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author includes the incident in Tyler Stapleton's kitchen to demonstrate that:",
+          "options": {
+            "A": "Stapleton is an incompetent engineer who lacks technical knowledge.",
+            "B": "The company’s products are intentionally designed to fail under pressure.",
+            "C": "There is a gap between the company’s marketing rhetoric and product performance.",
+            "D": "Stapleton is intentionally trying to sabotage his company’s reputation."
+          },
+          "answer": "C",
+          "explanation": "文章中Stapleton宣称发电机能带动冰箱，但实测时却显示过载报错，这直接反衬出营销宣传与产品实际性能之间的鸿沟，故C项符合题意。"
+        },
+        {
+          "q_number": 3,
+          "stem": "According to the text, why did 4Patriots initially target '55+ year-old conservatives'?",
+          "options": {
+            "A": "They were the most likely to be affected by the Obama administration's policies.",
+            "B": "They possessed the technical skills required to build survivalist bunkers.",
+            "C": "They were perceived as an affluent, self-reliant demographic receptive to online marketing.",
+            "D": "They had a history of distrusting mainstream media outlets like Newsmax and Fox News."
+          },
+          "answer": "C",
+          "explanation": "文中明确提到4Patriots通过Newsmax投放广告，将其客户定位为“affluent, conservative men who surprisingly like to buy a lot of stuff online”，这体现了针对该群体的消费属性定位。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What is implied by the mention of the 'Frank Bates' mystery in the text?",
+          "options": {
+            "A": "The company used deceptive practices to create a relatable persona for its brand.",
+            "B": "Frank Bates was an actual whistleblower who exposed the company’s internal flaws.",
+            "C": "The company transparently disclosed that Bates was a pseudonym to protect his privacy.",
+            "D": "The identity of the pitchman was irrelevant to the success of the company’s marketing."
+          },
+          "answer": "A",
+          "explanation": "文中指出媒体无法找到名为Frank Bates的人，且其照片来自库存图片，公司虽解释为隐私保护，但文章语境暗示这是为了打造可信赖形象而使用的欺骗性手段。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What does Seth Weller identify as the underlying motivation for many of his clients in the prepping community?",
+          "options": {
+            "A": "A rational response to imminent and inevitable global catastrophes.",
+            "B": "An obsession with accumulating advanced technology to gain power.",
+            "C": "A deep-seated psychological need to reclaim control following personal trauma or dependency.",
+            "D": "A desire to participate in a community-based political movement against the government."
+          },
+          "answer": "C",
+          "explanation": "Weller在文中解释，许多客户是因为经历了某种失控的打击（依赖感或失去亲人等），为了不再经历这种无助感，才转而寻求“独立”与“控制感”，故C项最准确。"
+        }
+      ]
+    }
+  ]
+}
