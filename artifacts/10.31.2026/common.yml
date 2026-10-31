@@ -1,0 +1,621 @@
+group_update_date: 10.31.2026
+papers:
+- article_update_date: 06.25.2026
+  body_text: Transition metal catalysis serves as a fundamental strategy for transforming
+    inert C−H bonds into valuable functional motifs.1,2 However, achieving regioselective
+    activation of remote C−H bonds remains challenging, particularly in unbiased hydrocarbon
+    frameworks.2,3 In this context, distal C(sp3)−H bonds are especially difficult
+    to functionalize, as conformational flexibility favors proximal C−H activation.3,4
+    In this study, we demonstrate a ligand-enabled strategy using designed O-allyl
+    amido ester (OAAE) ligands for palladium-catalyzed activation of γ-methylene and
+    methine C−H sites in unbiased aliphatic carboxylic acids, derived from readily
+    available fatty and cyclic acid feedstocks. This protocol enables direct transformation
+    of aliphatic carboxylic acid substrates into distal desaturated γ-lactones and
+    double dehydrogenated γ-spirolactones. Mechanistic studies are consistent with
+    a pathway involving Pd(II)-mediated γ-C(sp3)−H activation, followed by dehydrogenation
+    and intramolecular cyclization. These lactones with an unsaturated arm, serve
+    as key intermediates for the formation of complex natural products and pharmaceuticals.
+    For instance, muricatacin (from soursop/laxman phal) and its analogue were rapidly
+    assembled in three steps from margaric acid using this strategy and evaluated
+    for anticancer activity, thereby demonstrating the potential of our approach for
+    providing a rapid access to biologically relevant frameworks for traditional medicine.
+    The introduced distal desaturation further opens up new avenues for remote functionalization,
+    streamlining access to diverse bioactive molecules with improved step and atom
+    economy.
+  difficulty_constant: 12.8
+  question_type: Use of English
+  questions:
+  - answer: C
+    explanation: Fundamental意为基本的，符合语境中催化作为转化化学键的基础策略。
+    options:
+      A: negligible
+      B: superficial
+      C: fundamental
+      D: transient
+    q_number: 1
+    stem: Transition metal catalysis serves as a __________ strategy for transforming
+      inert C−H bonds into valuable functional motifs.
+  - answer: D
+    explanation: Challenging意为具有挑战性的，与前文However转折以及语境相符。
+    options:
+      A: plausible
+      B: expedient
+      C: trivial
+      D: challenging
+    q_number: 2
+    stem: However, achieving regioselective activation of remote C−H bonds remains
+      __________, particularly in unbiased hydrocarbon frameworks.
+  - answer: A
+    explanation: Favors意为偏向，构象灵活性使得近端C-H活化更易发生，从而导致远端活化困难。
+    options:
+      A: favors
+      B: undermines
+      C: inhibits
+      D: abates
+    q_number: 3
+    stem: In this context, distal C(sp3)−H bonds are especially difficult to functionalize,
+      as conformational flexibility __________ proximal C−H activation.
+  - answer: D
+    explanation: Designed意为经过专门设计的，对应科研成果中配体的选择。
+    options:
+      A: vague
+      B: random
+      C: obsolete
+      D: designed
+    q_number: 4
+    stem: In this study, we demonstrate a ligand-enabled strategy using __________
+      O-allyl amido ester (OAAE) ligands for palladium-catalyzed activation.
+  - answer: D
+    explanation: Transformation意为转化，是化学合成中将底物变为产物的标准术语。
+    options:
+      A: reversion
+      B: regression
+      C: interruption
+      D: transformation
+    q_number: 5
+    stem: This protocol enables direct __________ of aliphatic carboxylic acid substrates
+      into distal desaturated γ-lactones.
+  - answer: B
+    explanation: Derived from意为源自，符合化学反应原料的选择逻辑。
+    options:
+      A: integrated
+      B: derived
+      C: detached
+      D: deviated
+    q_number: 6
+    stem: These substrates are __________ from readily available fatty and cyclic
+      acid feedstocks.
+  - answer: A
+    explanation: Involving意为涉及，机制研究表明路径涉及特定的活化步骤。
+    options:
+      A: involving
+      B: omitting
+      C: isolating
+      D: detaching
+    q_number: 7
+    stem: Mechanistic studies are consistent with a pathway __________ Pd(II)-mediated
+      γ-C(sp3)−H activation.
+  - answer: D
+    explanation: Intermediates意为中间体，在复杂分子合成中起到核心衔接作用。
+    options:
+      A: byproducts
+      B: residues
+      C: impurities
+      D: intermediates
+    q_number: 8
+    stem: These lactones with an unsaturated arm, serve as key __________ for the
+      formation of complex natural products.
+  - answer: C
+    explanation: Assembled意为合成或构建，用于描述复杂分子的快速合成过程。
+    options:
+      A: fragmented
+      B: dissected
+      C: assembled
+      D: dissolved
+    q_number: 9
+    stem: For instance, muricatacin and its analogue were rapidly __________ in three
+      steps from margaric acid.
+  - answer: B
+    explanation: Potential意为潜力，展示了该方法在生物医学应用上的价值。
+    options:
+      A: futility
+      B: potential
+      C: detriment
+      D: obsolescence
+    q_number: 10
+    stem: These compounds were evaluated for anticancer activity, thereby demonstrating
+      the __________ of our approach.
+  - answer: B
+    explanation: Traditional medicine意为传统医学，符合文中提到的天然产物药物研究背景。
+    options:
+      A: redundant
+      B: traditional
+      C: theoretical
+      D: hypothetical
+    q_number: 11
+    stem: This approach provides a rapid access to biologically relevant frameworks
+      for __________ medicine.
+  - answer: C
+    explanation: Avenues意为途径或方向，此处指为研究开辟了新空间。
+    options:
+      A: detours
+      B: obstacles
+      C: avenues
+      D: deadlocks
+    q_number: 12
+    stem: The introduced distal desaturation further opens up new __________ for remote
+      functionalization.
+  - answer: A
+    explanation: Streamlining意为简化，使获得生物活性分子的过程更高效。
+    options:
+      A: streamlining
+      B: stifling
+      C: obstructing
+      D: hampering
+    q_number: 13
+    stem: This method is useful for __________ access to diverse bioactive molecules.
+  - answer: B
+    explanation: Atom economy（原子经济性）是绿色化学中的术语。
+    options:
+      A: waste
+      B: economy
+      C: deficit
+      D: extravagance
+    q_number: 14
+    stem: The approach achieves improved step and atom __________.
+  - answer: B
+    explanation: Favors表明构象灵活性使得近端活化更优先。
+    options:
+      A: negates
+      B: favors
+      C: deters
+      D: precludes
+    q_number: 15
+    stem: The flexibility __________ proximal C-H activation over distal activation.
+  - answer: D
+    explanation: Using表示利用某种配体技术进行催化。
+    options:
+      A: facilitating
+      B: hindering
+      C: obstructing
+      D: using
+    q_number: 16
+    stem: We demonstrate a ligand-enabled strategy __________ palladium-catalyzed
+      activation.
+  - answer: A
+    explanation: Derived是动词分词形式，在此句法结构中修饰酸底物。
+    options:
+      A: lost
+      B: ignored
+      C: derived
+      D: withdrawn
+    q_number: 17
+    stem: The study focuses on unbiased aliphatic carboxylic acids __________ from
+      feedstock.
+  - answer: C
+    explanation: Pathway意为反应路径，符合化学机制的研究范畴。
+    options:
+      A: result
+      B: denial
+      C: pathway
+      D: decline
+    q_number: 18
+    stem: Mechanistic studies involve a __________ involving Pd(II)-mediated activation.
+  - answer: A
+    explanation: Formation意为形成，是化学合成的核心目的。
+    options:
+      A: decay
+      B: dismantling
+      C: decomposition
+      D: formation
+    q_number: 19
+    stem: The lactones serve as key intermediates for the __________ of complex natural
+      products.
+  - answer: C
+    explanation: Biologically relevant指具有生物相关性，为固定搭配。
+    options:
+      A: irrelevant
+      B: biologically
+      C: chemically
+      D: structurally
+    q_number: 20
+    stem: The approach demonstrates the potential for providing rapid access to __________
+      frameworks.
+  source_journal: Nature
+  title: Ligand-enabled distal desaturative lactonization of aliphatic acids
+- article_update_date: 08.25.2026
+  body_text: Kazakhstan prepares to vote in a cosmetic election Asia | Reset or repress?
+    Kazakhstan prepares to vote in a cosmetic election Despite promises of renewal,
+    it is still an authoritarian state Aug 20th 2026 “Vote for renewal,” urge giant
+    billboards as Kazakhstan heads into a parliamentary election on August 23rd. Kassym-Jomart
+    Tokayev, the president, calls this a turning point in the building of a “new Kazakhstan”—shorthand
+    for a political reset that began after civil unrest demanding political change
+    had left at least 238 people dead in 2022. At first glance, much about this election
+    is indeed new. Taking place under a new constitution, it will deliver a parliament
+    with a new structure and a new name, certain to be dominated by a new party. This,
+    ostensibly, is the reforming “new Kazakhstan” in action. But scratch the surface
+    and the political trappings of the old Kazakhstan—associated with Nursultan Nazarbayev,
+    Mr Tokayev’s long-serving predecessor and discredited political patron—emerge.
+    The newly formed Justice party that is set to win a big parliamentary majority
+    is in fact a revamped version of the old ruling party that dominated for decades.
+    And parliament will still be a rubber-stamp affair, because no genuine opposition
+    parties are being allowed to run. Pluralism is thriving in Kazakhstan, so Mr Tokayev
+    said recently—only days after Amangeldy Dzhakhin, an opposition leader, had been
+    jailed for seven years on spurious charges of extremism. His predecessor suffered
+    the same fate, and it is not just politicians who are targeted. Reporters and
+    social-media personalities have also been variously imprisoned, slapped with travel
+    bans and barred from doing journalism on flimsy-looking charges. In a blatantly
+    political case, a satirical post poking fun at the president recently landed a
+    YouTuber behind bars. This election follows the adoption of a new constitution,
+    which Mr Tokayev has depicted as Kazakhstan “casting off the super-presidential
+    form of rule”. That was a reference to his predecessor, who monopolised power
+    for three decades before resigning in 2019. Mr Nazarbayev’s designated successor
+    was Mr Tokayev. The pair ruled in tandem until the 2022 unrest, which left Mr
+    Nazarbayev sidelined and Mr Tokayev scrambling to dissociate himself from his
+    former mentor. He rolled back some presidential powers in 2022, but clawed some
+    back again in the new constitution, adopted by referendum against a backdrop of
+    arrests of critics. One important reform remains in force. In 2022 Mr Tokayev
+    introduced a single presidential term-limit. He has pledged to abide by this,
+    but the constitution offers him a loophole. He has the right to a new “first”
+    term, the Constitutional Court recently ruled, so he could run again—a tried-and-tested
+    tactic to cling to power loved by Central Asian autocrats as well as by Vladimir
+    Putin in Russia and Recep Tayyip Erdogan in Turkey. The end of his current (second)
+    term in 2029 will thus become a litmus test of Mr Tokayev’s professed commitment
+    to ridding Kazakhstan of monarchical rule. ■ For exclusive coverage of Asian politics,
+    economics and security, sign up to Asia Bulletin , our weekly subscriber-only
+    newsletter. This article was downloaded by zlibrary from https://www.economist.com/asia/2026/08/20/kazakhstan-prepares-to-vote-in-a-cosmetic-election
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: A
+    explanation: The author uses words like 'cosmetic', 'ostensibly', and 'rubber-stamp'
+      to characterize the election, indicating a clear skepticism towards the supposed
+      'renewal' promised by the government.
+    options:
+      A: Skeptical and dismissive
+      B: Optimistic and hopeful
+      C: Neutral and objective
+      D: Indifferent and detached
+    q_number: 1
+    stem: Which of the following best describes the author's attitude towards the
+      parliamentary election in Kazakhstan?
+  - answer: C
+    explanation: A 'rubber-stamp' institution is one that automatically approves decisions
+      made by higher authorities without independent scrutiny, suggesting a lack of
+      genuine legislative power.
+    options:
+      A: operate with absolute independence
+      B: function as a genuine legislative body
+      C: lack real power to challenge the executive
+      D: promote pluralism through new reforms
+    q_number: 2
+    stem: The phrase 'rubber-stamp affair' (Paragraph 3) implies that the parliament
+      is likely to ________.
+  - answer: B
+    explanation: The author contrasts Mr. Tokayev’s claim that 'Pluralism is thriving'
+      with the reality of an opposition leader being jailed on 'spurious charges,'
+      highlighting the contradiction.
+    options:
+      A: To illustrate the success of the new constitution
+      B: To highlight the contradiction between rhetoric and reality
+      C: To explain the history of the Justice party
+      D: To show the president's commitment to fighting extremism
+    q_number: 3
+    stem: According to the passage, why does the author mention the imprisonment of
+      Amangeldy Dzhakhin?
+  - answer: C
+    explanation: The passage notes that the constitution offers a 'loophole' allowing
+      a new 'first' term, a tactic used by other autocrats to cling to power.
+    options:
+      A: It permanently bans him from future elections
+      B: It is an unprecedented approach in the region
+      C: It contains a technicality that may allow him to remain in power
+      D: It was immediately rejected by the Constitutional Court
+    q_number: 4
+    stem: What does the author suggest about Mr. Tokayev's current constitutional
+      reform regarding term limits?
+  - answer: D
+    explanation: The text explicitly states that reporters and social-media personalities
+      have been imprisoned and barred from working, confirming the risks faced by
+      critics.
+    options:
+      A: Mr. Tokayev has completely erased the influence of his predecessor.
+      B: The 2022 civil unrest led to the strengthening of democracy.
+      C: The new Justice party represents a significant departure from previous ruling
+        entities.
+      D: Reporters and critics in Kazakhstan face significant legal and personal risks.
+    q_number: 5
+    stem: Which of the following statements is true according to the passage?
+  source_journal: Economist
+  title: Kazakhstan prepares to vote in a cosmetic election
+- article_update_date: 10.17.2026
+  body_text: 'Comment Donald Trump After the Midterms If the coming election does
+    result in a blue wave, Trump will be faced with the fact of his diminishment.
+    The rest of us will be faced with the wreckage. By David Remnick Photo illustration
+    by Cristiana Couceiro; Source photographs from Getty Signs of a midterm blue wave
+    are everywhere, and yet it would be journalistic malpractice not to attach some
+    nervous caveats to any prediction. Polls are sketchy. Campaigns have never been
+    more subject to the desires of the wealthy. What is more, the President of the
+    United States has the impulse control of a toddler, though most toddlers have
+    neither the authority nor the inclination to spark an insurrection, destabilize
+    the Western alliance, live-stream an execution, or threaten to end “a whole civilization.”
+    We are subjected daily to the caprices of a mind both unregulated and amoral.
+    As Mark Milley, the former chairman of the Joint Chiefs of Staff, has said, the
+    Commander-in-Chief is “fascist to the core.” You may prefer milder terminology.
+    Fine. But, after a decade defined by Donald Trump’s unceasing presence, a growing
+    percentage of the American electorate appears to recognize the uniqueness of this
+    President and the mayhem that he has instigated from the Oval Office. We are,
+    collectively, on guard against undue optimism. Still, if the coming election does
+    result in a blue wave, Trump will be faced with the fact of his diminishment.
+    The rest of us will be faced with the wreckage. A decade ago, those who believed
+    that Trump’s ascent represented a grave and multifaceted danger, a national emergency,
+    were often met with sneering dismissal. The right generally regarded Trump’s most
+    vocal opponents as pussy-hatted snowflakes, woke snobs indifferent to the struggles
+    of working people. They were, in a word, “deranged.” Some on the left, too, insisted
+    that those who thought of Trump as aberrant and sought nightly salvation in a
+    tankard of Chardonnay and “The Rachel Maddow Show” ignored America’s complicated
+    legacy. Was Trump really so much worse than his predecessors? Hardly! In fact,
+    he was practically mainstream, “not some strange eddy in the current of American
+    history,” one knowing essayist wrote in The New Republic . “He is where the ordinary
+    river flowed.” All that distinguished Trump was “aesthetics”—“He is vulgar. He
+    is rude.” In the passage from lame duck to pensioner, Trump still has plenty of
+    time to inflict further damage on the Republic while milking it for profit. He
+    is the sum of his whims and his rages, and, a change in Congress or not, he will
+    likely go on flouting the law, tightening the screws on universities, cultural
+    institutions, and the press. What he seems to value most of late is the humiliation
+    of his enemies and, even more, the accumulation of vast wealth. Since the second
+    Inauguration, the Trumps and their satraps have operated with all the commercial
+    cunning of the Corleone family; the White House is their front, their Genco Pura
+    Olive Oil Company. The Attorney General, Todd Blanche, is an obedient Tom Hagen.
+    Recently, Kristen Welker, of NBC’s “Meet the Press,” asked Blanche, “If the President
+    asks you to do something that you feel crosses an ethical or legal line, would
+    you do it?” Blanche replied, “The President will never ask me to do something
+    unethical or illegal. He never has. He never will.” Not a wartime consigliere,
+    perhaps, but Blanche understands the expectations of his Don. Every week brings
+    word of a new grift, a new meme coin, a Melania doc, a pay-for-access club, or
+    fresh funds from Gulf grandees looking for leverage. The other day, we learned
+    that Kimberly Guilfoyle, Donald, Jr.,’s ex and the U.S. Ambassador to Greece,
+    texted a maga donor insisting that he pay off her hundred-thousand-dollar Amex
+    bill in exchange for favors from, in no particular order, the I.R.S., Tucker Carlson,
+    and Kid Rock. (Guilfoyle has disputed the authenticity of the messages, which
+    include, “Honey please I need you to get this done for me today.”) But who cares?
+    The Administration counts on an exhausted nation’s distraction. This may well
+    have been the singular lesson that Trump absorbed from his moral instructor, Roy
+    Cohn: if you keep up a steady stream of bullshit, if you keep denying and counterattacking,
+    all of Monday’s trespasses will be forgotten by Tuesday. There are signs that
+    the President is unravelling, in ways that are different from late-period Joe
+    Biden but are alarming all the same. It’s not so much the thickening ankles as
+    it is the loosening inhibitions. Nearly every morning, the Daily Beast publishes
+    headlines that archly reflect the situation: “Confused Trump, 80, Makes Bizarre
+    Blunder in Late-Night Meltdown”; “Sleepless Trump, 80, Goes Full Disney Adult
+    in 1 A.M. Posting Frenzy”; “Trump, 80, Repeatedly Slumps in Chair Ahead of Midterm
+    Blitz.” What more and more voters are coming to understand is how profoundly they
+    have been betrayed. And this is not just about the price of gas and groceries,
+    though “affordability” is scarcely the joke the President thinks it is. Vladimir
+    Putin long ago set out to mock the United States for its hypocrisies. You are
+    no better than us —that was his message and his cover to crush dissent at home
+    and the liberties of an independent Ukraine. When Trump threatens Greenland and
+    Canada or greases a media merger in his interest, he is proving Putin’s point.
+    When the titans of tech obediently line up at Trump’s Inauguration and fund his
+    ballroom, Putin smiles. Who are we to lecture him about oligarchy? This is the
+    ethos of the era defined by Putin and Trump: morality in politics is for dupes;
+    all that matters is interests. Because Trump is simultaneously an autocrat and
+    a performance artist, because Americans tend to cling reflexively to the fraying
+    notion of national exceptionalism, it is difficult to reckon with the idea that
+    a President might be not merely shambolic and incompetent but something far darker,
+    even evil. But if we are uncomfortable using a word like “evil,” how else are
+    we to describe the spectacle of the President unleashing Elon Musk, the wealthiest
+    person in the history of humankind, to slash the budget of the U.S. Agency for
+    International Development? According to an article in The Lancet and the intensive
+    research of Atul Gawande, a surgeon, a former assistant administrator for U.S.A.I.D.,
+    and a writer for this magazine, the agency’s support—focussed on fighting malaria,
+    polio, malnutrition, tuberculosis, and H.I.V.—saved at least ninety million lives
+    in the previous two decades. Researchers estimate that the cruelty-by-budget-cut
+    has been responsible for the loss of as many as seven hundred thousand lives.
+    This is among the many depredations that this supposedly mainstream Administration
+    has committed. In 1788, at a ratifying convention in Richmond, James Madison defended
+    the newly drafted Constitution, but warned that its fulfillment would depend on
+    the quality of the people as well as the document’s written principles. “To suppose
+    that any form of Government will secure liberty or happiness without any virtue
+    in the people,” he said, “is a chimerical idea.” Election Day is November 3rd.
+    In some states, voting has already begun. ♦'
+  difficulty_constant: 11.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: The author compares Trump's impulse control to that of a toddler,
+      but emphasizes that unlike a toddler, Trump holds significant authority, which
+      makes his unrestrained and amoral behavior a source of national and global instability.
+    options:
+      A: misaligned with his actual capacity for leadership.
+      B: exceptionally dangerous due to his lack of emotional regulation.
+      C: a reflection of the American public's own infantile political demands.
+      D: a standard characteristic observed in modern political leadership.
+    q_number: 1
+    stem: 'According to the passage, the author mentions the behavior of ''toddlers''
+      primarily to illustrate that Trump''s authority is:'
+  - answer: A
+    explanation: The passage notes that those who warned of a 'national emergency'
+      were sneered at, and some critics argued Trump was simply 'mainstream' and part
+      of the 'ordinary river' of history, illustrating that his true danger was often
+      downplayed or dismissed.
+    options:
+      A: many critics initially underestimated the structural threats posed by Trump.
+      B: Trump was widely recognized as a unique departure from American political
+        norms.
+      C: the left and the right reached a consensus on Trump's moral character.
+      D: Trump's political survival was driven by his mastery of mainstream media.
+    q_number: 2
+    stem: 'The author cites the perspective of some essayists in The New Republic
+      to show that:'
+  - answer: C
+    explanation: The Genco Pura Olive Oil Company is the fictional front for the Corleone
+      crime family in 'The Godfather.' The metaphor highlights the author's argument
+      that the Trump administration operates like an organized crime syndicate prioritizing
+      profit and loyalty over law and ethics.
+    options:
+      A: maintains a strict, legitimate corporate hierarchy.
+      B: prioritizes public service over personal commercial gain.
+      C: functions primarily as a front for unethical self-enrichment.
+      D: is managed by individuals with deep experience in Mediterranean commerce.
+    q_number: 3
+    stem: 'By comparing the White House to the ''Genco Pura Olive Oil Company,'' the
+      author implies that the Trump administration:'
+  - answer: B
+    explanation: The passage explicitly states that the lesson learned from Roy Cohn
+      is to maintain a 'steady stream of bullshit,' and through constant denial and
+      counter-attacking, past trespasses are erased from public memory.
+    options:
+      A: The importance of building a loyal base of political supporters.
+      B: The effectiveness of constant obfuscation and aggressive counter-narratives.
+      C: The necessity of maintaining a coherent long-term strategic vision.
+      D: The value of public humility to win over skeptical voters.
+    q_number: 4
+    stem: What does the author suggest is the 'singular lesson' Trump learned from
+      Roy Cohn?
+  - answer: B
+    explanation: Madison argued that a government structure alone cannot guarantee
+      liberty or happiness without 'virtue in the people.' The author uses this to
+      underscore that the survival of the American Republic depends on the moral standard
+      of its citizens in the face of executive degradation.
+    options:
+      A: the U.S. Constitution is inherently flawed and requires immediate reform.
+      B: the quality and virtue of the citizenry are essential to sustaining liberty.
+      C: government efficiency depends primarily on the wealth of its leaders.
+      D: political institutions are immune to the failings of individuals.
+    q_number: 5
+    stem: 'The author references James Madison’s 1788 speech to support the argument
+      that:'
+  source_journal: New Yorker
+  title: Chapter 7
+- article_update_date: 06.07.2026
+  body_text: 'Former top US officials and other experts are urging the Trump administration
+    to abandon plans for an Ebola quarantine and treatment centre in Kenya, as the
+    union for workers with the US Centers for Disease Control and Prevention (CDC)
+    calls for Americans exposed to Ebola to be brought home for treatment. Soon after
+    the US revealed it was setting up a field hospital in Kenya for the Ebola quarantine
+    and treatment of Americans, the Kenyan high court blocked the order – but the
+    Kenyan and US governments moved forward anyway, with the first American responders
+    reportedly landing at the Laikipia airbase on Saturday. Several former US health
+    leaders, including previous top-level CDC officials, laid out their objections
+    in a letter to Congress. “This policy raises profound clinical, ethical, operational
+    and legal concerns,” they wrote. Daniel Jernigan, who spent 31 years at the CDC,
+    including overseeing the agency’s Ebola response in 2014-15, before resigning
+    last year, said it was not clear how current officials had arrived at this plan
+    “because it’s against so many ethical underpinnings that we have relied on for
+    all of the past responses”. View image in fullscreen European Commission Civil
+    Protection and Humanitarian Aid Operations (ECHO) crew after loading essential
+    medical supplies on to a plane in Nairobi, Kenya. Photograph: Monicah Mwangi/Reuters
+    The US is in the process of building a 50-bed unit at the airbase. Patients would
+    have access to medications and some respiratory support, but those needing higher
+    levels of care would be flown to as-yet unidentified hospitals in Europe. Yolanda
+    Jacobs, the president of the AFGE Local 2883 government employees’ union, said
+    in a statement that the Trump administration was “abandoning” CDC workers responding
+    to the outbreak, in “a sharp departure from the standard upheld by every previous
+    administration”. The White House did not respond to inquires about whether the
+    facility would be accessible to Kenyans and others working on the Ebola response,
+    and whether all Americans working on the Ebola response would be required to quarantine
+    or whether it would be required only of Americans with high-risk exposures. Previously,
+    the White House did not say whether Americans wishing to return home rather than
+    going to Kenya would be allowed to do so. The US Department of Health and Human
+    Services referred inquiries to the state department, which has been approached
+    for comment. Last week the US secretary of state, Marco Rubio, said: “We cannot
+    and will not allow any cases of Ebola to enter the United States.”. During the
+    2014 Ebola epidemic in west Africa, several people treating patients were safely
+    evacuated to and treated at US facilities in Atlanta, Bethesda, Omaha and New
+    York, with no onward transmission. The US president, Donald Trump, vehemently
+    opposed the move at the time, saying that returning volunteers “must suffer the
+    consequences” and should not be allowed into the US. Ronald Nahass, the president
+    of the Infectious Diseases Society of America and the medical director of research
+    at ID Care, said Americans could safely quarantine in place after a high-risk
+    exposure to Ebola, and that if they developed symptoms, the US had some of the
+    best quarantine and treatment facilities in the world. “We’ve spent taxpayer dollars
+    to create some really first-class biocontainment units to specifically address
+    this type of an issue and have trained staff who are extraordinarily expert in
+    dealing with this,” Nahass said. Those facilities “can handle it in a better way
+    than a field hospital in Kenya”, he added. “Why wouldn’t you evacuate American
+    citizens if you’re concerned?” During the 2014 outbreak, the US created a field
+    hospital specifically for health workers from all countries who might need Ebola
+    care. “If you come over to west Africa to help, we’ve got your back,” Jernigan
+    said of the 2014 approach. Creating a quarantine centre in another country for
+    Americans only would be highly unusual and a major reversal from such plans, he
+    said. It is also not clear what would happen to Americans in quarantine if they
+    needed outside medical care for non-Ebola causes, such as a heart attack or appendicitis,
+    Jernigan said. “Are you going to send them to Kenyatta hospital in Nairobi, and
+    if so, are you going to send them in a bubble and have a dedicated ward there?
+    If you would just send them back to the United States to a designated facility
+    that has already been established with millions of dollars to do it, they’re surrounded
+    by specialists.” Travel bans and restrictions such as these were ineffective at
+    stopping the spread of disease, Nahass said. “Borders are porous, you can’t keep
+    infectious diseases out of the country” in this way, he said. Instead, Nahass
+    said, tried-and-true public health measures such as monitoring potential exposures
+    and making sure health care providers are prepared for potential cases wooould
+    be much more effective. International collaboration is also crucial for controlling
+    outbreaks, Nahass said. “​These are global events and not being part of the global
+    discussion in which the platform for that is the WHO [World Health Organization]
+    is problematic.” America’s absence on the world stage is notable and will have
+    lasting repercussions, he added.'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到Daniel Jernigan认为该计划违反了“all of the past responses”所依赖的“ethical
+      underpinnings”，这与选项B一致。
+    options:
+      A: They believe the field hospital lacks the medical supplies necessary for
+        treating Ebola.
+      B: They argue the plan violates the ethical standards that guided previous outbreak
+        responses.
+      C: They fear the Kenyan high court will impose legal sanctions on American responders.
+      D: They suggest the cost of building a new unit is excessive compared to utilizing
+        existing facilities.
+    q_number: 1
+    stem: According to the text, why do former US health officials object to the administration's
+      plan in Kenya?
+  - answer: C
+    explanation: Yolanda Jacobs指出特朗普政府的行为是对“standard upheld by every previous administration”的背离，意为抛弃了CDC员工，即选项C。
+    options:
+      A: The administration is failing to provide adequate protective gear for workers.
+      B: The administration is isolating workers from their families back in the US.
+      C: The administration is abandoning its duty of care, departing from established
+        precedents.
+      D: The administration is forcing workers to quarantine in inadequate, non-clinical
+        settings.
+    q_number: 2
+    stem: What is the primary concern raised by Yolanda Jacobs regarding the treatment
+      of CDC workers?
+  - answer: A
+    explanation: 文章回顾2014年时提到，当时患病人员被安全疏散并治疗于美国的医疗设施中，这与当前在肯尼亚设立方舱医院的计划形成对比。
+    options:
+      A: The 2014 approach emphasized evacuating health workers to the US for safe
+        treatment.
+      B: The 2014 approach relied heavily on field hospitals located in European countries.
+      C: The 2014 approach was criticized for being too expensive and poorly managed.
+      D: The 2014 approach involved strictly closing borders to prevent any potential
+        transmission.
+    q_number: 3
+    stem: How does the author characterize the US government's approach to the 2014
+      Ebola outbreak compared to the current one?
+  - answer: C
+    explanation: Nahass认为禁令无效，因为“Borders are porous”，无法阻止传染病进入，选项C表述最准确。
+    options:
+      A: They are the only way to ensure the safety of the domestic population.
+      B: They are effective but require higher levels of international cooperation.
+      C: They are fundamentally flawed because they ignore the porous nature of borders.
+      D: They are secondary to the primary goal of providing high-tech biocontainment
+        units.
+    q_number: 4
+    stem: What is Ronald Nahass’s stance on the effectiveness of travel bans and quarantine
+      policies?
+  - answer: B
+    explanation: 文中专家如Jernigan和Nahass多次强调该政策在伦理、临床和实操层面的违背常规与无效性，整体态度是批评性的。
+    options:
+      A: Indifferent toward the geopolitical implications of the policy.
+      B: Critical of the shift away from established public health practices.
+      C: Optimistic about the future of international collaboration on Ebola.
+      D: Supportive of the administration's cautious approach to national security.
+    q_number: 5
+    stem: Which of the following best reflects the tone of the experts quoted in the
+      passage?
+  source_journal: The Guardian
+  title: Experts criticise plan for American-only Ebola quarantine centre in Kenya
