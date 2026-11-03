@@ -1,828 +1,777 @@
 group_update_date: 11.03.2026
 papers:
-- article_update_date: 04.01.2026
-  body_text: 'Klemm, S. L., Shipony, Z. & Greenleaf, W. J. Chromatin accessibility
-    and the regulatory epigenome. Nat. Rev. Genet. 20, 207–220 (2019). Kouzarides,
-    T. Chromatin modifications and their function. Cell 128, 693–705 (2007). Misteli,
-    T. The self-organizing genome: principles of genome architecture and function.
-    Cell 183, 28–45 (2020). Buenrostro, J. D., Giresi, P. G., Zaba, L. C., Chang,
-    H. Y. & Greenleaf, W. J. Transposition of native chromatin for fast and sensitive
-    epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position.
-    Nat. Methods 10, 1213–1218 (2013). Kaya-Okur, H. S. et al. CUT&Tag for efficient
-    epigenomic profiling of small samples and single cells. Nat. Commun. 10, 1930
-    (2019). Lieberman-Aiden, E. et al. Comprehensive mapping of long-range interactions
-    reveals folding principles of the human genome. Science 326, 289–293 (2009). Baysoy,
-    A., Bai, Z., Satija, R. & Fan, R. The technological landscape and applications
-    of single-cell multi-omics. Nat. Rev. Mol. Cell Biol. 24, 695–713 (2023). Chappell,
-    L., Russell, A. J. C. & Voet, T. Single-cell (multi)omics technologies. Annu.
-    Rev. Genomics Hum. Genet. 19, 15–41 (2018). Zhu, C., Preissl, S. & Ren, B. Single-cell
-    multimodal omics: the power of many. Nat. Methods 17, 11–14 (2020). Lee, D. S.
-    et al. Simultaneous profiling of 3D genome structure and DNA methylation in single
-    human cells. Nat. Methods 16, 999–1006 (2019). Li, G. et al. Joint profiling of
-    DNA methylation and chromatin architecture in single cells. Nat. Methods 16, 991–993
-    (2019). Liu, Z. et al. Linking genome structures to functions by simultaneous
-    single-cell Hi-C and RNA-seq. Science 380, 1070–1076 (2023). Qu, J. et al. Simultaneous
-    profiling of chromatin architecture and transcription in single cells. Nat. Struct.
-    Mol. Biol. 30, 1393–1402 (2023). Wen, X. et al. Single-cell multiplex chromatin
-    and RNA interactions in ageing human brain. . Wu, H. et al. Simultaneous single-cell
-    three-dimensional genome and gene expression profiling uncovers dynamic enhancer
-    connectivity underlying olfactory receptor choice. Nat. Methods 21, 974–982 (2024).
-    Zhou, T. et al. GAGE-seq concurrently profiles multiscale 3D genome organization
-    and gene expression in single cells. Nat. Genet. 56, 1701–1711 (2024). Chang,
-    L. et al. Droplet Hi-C enables scalable, single-cell profiling of chromatin architecture
-    in heterogeneous tissues. Nat. Biotechnol. 43, 1694–1707 (2025). Chai, H. et al.
-    Tri-omic single-cell mapping of the 3D epigenome and transcriptome in whole mouse
-    brains throughout the lifespan. Nat. Methods 22, 994–1007 (2025). Wu, H., Wang,
-    M., Zheng, Y. & Xie, X. S. Droplet-based high-throughput 3D genome structure mapping
-    of single cells with simultaneous transcriptomics. Cell Discov. 11, 8 (2025).
-    Luecken, M. D. et al. Benchmarking atlas-level data integration in single-cell
-    genomics. Nat. Methods 19, 41–50 (2022). Hu, Y. et al. Benchmarking algorithms
-    for single-cell multi-omics prediction and integration. Nat. Methods 21, 2182–2194
-    (2024). Fu, S. et al. Benchmarking single-cell multi-modal data integrations.
-    Nat. Methods 22, 2437–2448 (2025). Flynn, E., Almonte-Loya, A. & Fragiadakis,
-    G. K. Single-cell multiomics. Annu. Rev. Biomed. Data Sci. 6, 313–337 (2023).
-    Cao, J. et al. Joint profiling of chromatin accessibility and gene expression
-    in thousands of single cells. Science 361, 1380–1385 (2018). Chen, S., Lake, B.
-    B. & Zhang, K. High-throughput sequencing of the transcriptome and chromatin accessibility
-    in the same cell. Nat. Biotechnol. 37, 1452–1457 (2019). Zhu, C. et al. An ultra
-    high-throughput method for single-cell joint analysis of open chromatin and transcriptome.
-    Nat. Struct. Mol. Biol. 26, 1063–1070 (2019). Ma, S. et al. Chromatin potential
-    identified by shared single-cell profiling of RNA and chromatin. Cell 183, 1103–1116.e20
-    (2020). Tan, L. et al. Changes in genome architecture and transcriptional dynamics
-    progress independently of sensory experience during post-natal brain development.
-    Cell 184, 741–758.e17 (2021). Xiong, H., Luo, Y., Wang, Q., Yu, X. & He, A. Single-cell
-    joint detection of chromatin occupancy and transcriptome enables higher-dimensional
-    epigenomic reconstructions. Nat. Methods 18, 652–660 (2021). Xu, W. et al. ISSAAC-seq
-    enables sensitive and flexible multimodal profiling of chromatin accessibility
-    and gene expression in single cells. Nat. Methods 19, 1243–1249 (2022). Bartosovic,
-    M. & Castelo-Branco, G. Multimodal chromatin profiling using nanobody-based single-cell
-    CUT&Tag. Nat. Biotechnol. 41, 794–805 (2023). Xie, Y. et al. Droplet-based single-cell
-    joint profiling of histone modifications and transcriptomes. Nat. Struct. Mol.
-    Biol. 30, 1428–1433 (2023). Sarkar, A. & Hochedlinger, K. The Sox family of transcription
-    factors: versatile regulators of stem and progenitor cell fate. Cell Stem Cell
-    12, 15–30 (2013). Li, Y. et al. CRISPR reveals a distal super-enhancer required
-    for Sox2 expression in mouse embryonic stem cells. PLoS ONE 9, e114485 (2014).
-    Alexamder, J. M. et al. Live-cell imaging reveals enhancer-dependent Sox2 transcription
-    in the absence of enhancer proximity. eLife 8, e41769 (2019). Di Croce, L. & Helin,
-    K. Transcriptional regulation by Polycomb group proteins. Nat. Struct. Mol. Biol.
-    20, 1147–1155 (2013). Wang, M. & Zhang, Y. Tn5 transposase-based epigenomic profiling
-    methods are prone to open chromatin bias. Preprint at bioRxiv https://doi.org/10.1101/2021.07.09.451758
-    (2021). Bernstein, B. E. et al. A bivalent chromatin structure marks key developmental
-    genes in embryonic stem cells. Cell 125, 315–326 (2006). Macrae, T. A., Fothergill-Robinson,
-    J. & Ramalho-Santos, M. Regulation, functions and transmission of bivalent chromatin
-    during mammalian development. Nat. Rev. Mol. Cell Biol. 24, 6–26 (2023). Stewart-Morgan,
-    K. R., Petryk, N. & Groth, A. Chromatin replication and epigenetic cell memory.
-    Nat. Cell Biol. 22, 361–371 (2020). Nagano, T. et al. Cell-cycle dynamics of chromosomal
-    organization at single-cell resolution. . Mahat, D. B. et al. Single-cell nascent
-    RNA sequencing unveils coordinated global transcription. . Pope, B. D. et al.
-    Topologically associating domains are stable units of replication-timing regulation.
-    . Owen, J. A., Osmanovic, D. & Mirny, L. Design principles of 3D epigenetic memory
-    systems. Science 382, eadg3053 (2023). Nagano, T. et al. Single-cell Hi-C reveals
-    cell-to-cell variability in chromosome structure. . Stevens, T. J. et al. 3D structures
-    of individual mammalian genomes studied by single-cell Hi-C. . Tan, L., Xing,
-    D., Chang, C. H., Li, H. & Xie, X. S. Three-dimensional genome structures of single
-    diploid human cells. Science 361, 924–928 (2018). Lafontaine, D. L., Yang, L.,
-    Dekker, J. & Gibcus, J. H. Hi-C 3.0: improved protocol for genome-wide chromosome
-    conformation capture. Curr. Protoc. 1, e198 (2021). Wu, H., Zhang, J., Tan, L.
-    & Xie, X. S. Single-cell Micro-C profiles 3D genome structures at high resolution
-    and characterizes multi-enhancer hubs. Nat. Genet. 57, 1777–1786 (2025). Caetano,
-    F. A. et al. MIiSR: molecular interactions in super-resolution imaging enables
-    the analysis of protein interactions, dynamics and formation of multi-protein
-    structures. PLoS Comput. Biol. 11, e1004634 (2015). Vieux-Rochas, M., Fabre, P.
-    J., Leleu, M., Duboule, D. & Noordermeer, D. Clustering of mammalian Hox genes
-    with other H3K27me3 targets within an active nuclear domain. Proc. Natl Acad.
-    Sci. USA 112, 4672–4677 (2015). Xie, L. et al. 3D ATAC-PALM: super-resolution
-    imaging of the accessible genome. Nat. Methods 17, 430–436 (2020). Bintu, B. et
-    al. Super-resolution chromatin tracing reveals domains and cooperative interactions
-    in single cells. Science 362, eaau1783 (2018). Whyte, W. A. et al. Master transcription
-    factors and mediator establish super-enhancers at key cell identity genes. Cell
-    153, 307–319 (2013). Cho, W. K. et al. Mediator and RNA polymerase II clusters
-    associate in transcription-dependent condensates. Science 361, 412–415 (2018).
-    Sabari, B. R. Coactivator condensation at super-enhancers links phase separation
-    and gene control. Science 361, eaar3958 (2018). Lim, B. & Levine, M. S. Enhancer-promoter
-    communication: hubs or loops?. Curr. Opin. Genet. Dev. 67, 5–9 (2021). Uyehara,
-    C. M. & Apostolou, E. 3D enhancer-promoter interactions and multi-connected hubs:
-    organizational principles and functional roles. Cell Rep. 42, 112068 (2023). Hao,
-    Y. et al. Integrated analysis of multimodal single-cell data. Cell 184, 3573–3587.e29
-    (2021). Mitra, S. et al. Single-cell multi-ome regression models identify functional
-    and disease-associated enhancers and enable chromatin potential analysis. Nat.
-    Genet. 56, 627–636 (2024). Fulco, C. P. et al. Activity-by-contact model of enhancer-promoter
-    regulation from thousands of CRISPR perturbations. Nat. Genet. 51, 1664–1669 (2019).
-    Savage, J. E. et al. Genome-wide association meta-analysis in 269,867 individuals
-    identifies new genetic and functional links to intelligence. Nat. Genet. 50, 912–919
-    (2018). Whitton, L. et al. Genes regulated by SATB2 during neurodevelopment contribute
-    to schizophrenia and educational attainment. PLoS Genet. 14, e1007515 (2018).
-    Cera, I. et al. Genes encoding SATB2-interacting proteins in adult cerebral cortex
-    contribute to human cognitive ability. PLoS Genet. 15, e1007890 (2019). Zarate,
-    Y. A. et al. Natural history and genotype-phenotype correlations in 72 individuals
-    with SATB2-associated syndrome. Am. J. Med. Genet. A 176, 925–935 (2018). Jaitner,
-    C. et al. Satb2 determines miRNA expression and long-term memory in the adult
-    central nervous system. eLife 5, e17361 (2016). Li, Y. et al. Satb2 ablation impairs
-    hippocampus-based long-term spatial memory and short-term working memory and immediate
-    early genes (IEGs)-mediated hippocampal synaptic plasticity. Mol. Neurobiol. 43,
-    15251–15266 (2025). Wahl, N. et al. SATB2 organizes the 3D genome architecture
-    of cognition in cortical neurons. Mol. Cell 84, 621–639.e9 (2024). Schep, A. N.,
-    Wu, B., Buenrostro, J. D. & Greenleaf, W. J. chromVAR: inferring transcription-factor-associated
-    accessibility from single-cell epigenomic data. Nat. Methods 14, 975–978 (2017).
-    Pampari, A. et al. ChromBPNet: bias factorized, base-resolution deep learning
-    models of chromatin accessibility reveal cis-regulatory sequence syntax, transcription
-    factor footprints and regulatory variants. Preprint at bioRxiv https://doi.org/10.1101/2024.12.25.630221
-    (2024). Reveron-Gomez, N. et al. Accurate recycling of parental histones reproduces
-    the histone modification landscape during DNA replication. Mol. Cell 72, 239–249.e5
-    (2018). Fennessy, R. T. & Owen-Hughes, T. Establishment of a promoter-based chromatin
-    architecture on recently replicated DNA can accommodate variable inter-nucleosome
-    spacing. Nucleic Acids Res. 44, 7189–7203 (2016). Ramachandran, S. & Henikoff,
-    S. Transcriptional regulators compete with nucleosomes post-replication. Cell
-    165, 580–592 (2016). Stewart-Morgan, K. R., Reveron-Gomez, N. & Groth, A. Transcription
-    restart establishes chromatin accessibility after DNA replication. Mol. Cell 75,
-    408–414 (2019). Blayney, J. W. et al. Super-enhancers include classical enhancers
-    and facilitators to fully activate gene expression. Cell 186, 5826–5839.e18 (2023).
-    Mazzocca, M., Narducci, D. N., Grosse-Holz, S., Matthias, J. & Hansen, A. S. Chromatin
-    dynamics are highly subdiffusive across seven orders of magnitude. Preprint at
-    bioRxiv https://doi.org/10.1101/2025.05.10.653248 (2025). Sanyal, A., Lajoie,
-    B. R., Jain, G. & Dekker, J. The long-range interaction landscape of gene promoters.
-    . Tian, W. et al. Single-cell DNA methylation and 3D genome architecture in the
-    human brain. Science 382, eadf5357 (2023). Liu, H. et al. Single-cell DNA methylome
-    and 3D multi-omic atlas of the adult mouse brain. . Heffel, M. G. et al. Temporally
-    distinct 3D multi-omic dynamics in the developing human brain. . Macosko, E. Z.
-    et al. Highly parallel genome-wide expression profiling of individual cells using
-    nanoliter droplets. Cell 161, 1202–1214 (2015). Klein, A. M. et al. Droplet barcoding
-    for single-cell transcriptomics applied to embryonic stem cells. Cell 161, 1187–1201
-    (2015). Vitak, S. A. et al. Sequencing thousands of single-cell genomes with combinatorial
-    indexing. Nat. Methods 14, 302–308 (2017). Rosenberg, A. B. et al. Single-cell
-    profiling of the developing mouse brain and spinal cord with split-pool barcoding.
-    Science 360, 176–182 (2018). Meers, M. P., Llagas, G., Janssens, D. H., Codomo,
-    C. A. & Henikoff, S. Multifactorial profiling of epigenetic landscapes at single-cell
-    resolution using MulTI-Tag. Nat. Biotechnol. 41, 708–716 (2023). Gopalan, S.,
-    Wang, Y., Harper, N. W., Garber, M. & Fazzio, T. G. Simultaneous profiling of
-    multiple chromatin proteins in the same cells. Mol. Cell 81, 4736–4746.e5 (2021).
-    Stoeckius, M. et al. Simultaneous epitope and transcriptome measurement in single
-    cells. Nat. Methods 14, 865–868 (2017). Mimitou, E. P. et al. Scalable, multimodal
-    profiling of chromatin accessibility, gene expression and protein levels in single
-    cells. Nat. Biotechnol. 39, 1246–1258 (2021). Meissner, A., Eminli, S. & Jaenisch,
-    R. Derivation and manipulation of murine embryonic stem cells. Methods Mol. Biol.
-    482, 3–19 (2009). Hao, Y. et al. Dictionary learning for integrative, multimodal
-    and scalable single-cell analysis. Nat. Biotechnol. 42, 293–304 (2024). Stuart,
-    T., Srivastava, A., Madad, S., Lareau, C. A. & Satija, R. Single-cell chromatin
-    state analysis with Signac. Nat. Methods 18, 1333–1341 (2021). Zhou, J. et al.
-    Robust single-cell Hi-C clustering by convolution- and random-walk-based imputation.
-    Proc. Natl Acad. Sci. USA 116, 14011–14018 (2019). Bonev, B. et al. Multiscale
-    3D genome rewiring during mouse neural development. Cell 171, 557–572.e24 (2017).
-    Cai, Y. et al. H3K27me3-rich genomic regions can function as silencers to repress
-    gene expression via chromatin interactions. Nat. Commun. 12, 719 (2021). Hinrichs,
-    A. S. et al. The UCSC Genome Browser'
-  difficulty_constant: 12.8
+- article_update_date: 11.03.2026
+  body_text: 'Stephen Webster 00:05 I’m Dr. Stephen Webster, director of the Good
+    Science Project at Imperial, a programme that examines what we like about research
+    culture, and what we don’t. And in episode three of Failure in Science, a podcast
+    series about how to do science better, we explore failure and institutions. Yes,
+    we all have our personal failures, our bad times. But what if it is actually our
+    institutions that are failing us? What if a rigid system of education is stifling
+    our imagination? What if the hunt for grants makes us play safe and narrows our
+    thinking? Isn’t that failure too? Jem Woods, who’s a professor at Imperial College
+    London, opened the Failure in Science conference in April with a quote from Albert
+    Einstein: Jem Woods 01:02 The quote is, “As our circle of knowledge expands, so
+    does the circumference of darkness surrounding it. And we have to continue to
+    keep on thinking around and being critically reflective on that uncertainty and
+    the parameters of that uncertainty and how we perceive what we know and what we
+    don’t know.” And I think that sits at the heart of the failure in science questions.
+    Mary Ryan 01:35 Yes, I’m Mary Ryan. I’m the Vice Provost for Research and Enterprise
+    at Imperial College London, and I’m the Armourers and Brasiers’ Chair for material
+    science. So what would I say my big failures are? When you see someone who’s clearly,
+    you know, a successful academic? You know, I have a research group at Imperial
+    College, so in some ways, I’ve been very successful. And I think it’s hard, particularly
+    for early career researchers, to see people who have you know, quotes, “made it,”
+    reflecting that they had failures. So I think actually it’s really important that
+    we talk about things that we weren’t successful at. Every academic has got a folder
+    on their computer of proposals that were rejected, papers that were rejected for
+    one reason or other. That doesn’t mean those ideas weren’t worthy or valuable.
+    Some of them were before their time. Some of them weren’t fully developed. Some
+    of them were bad, and we had to be told they were bad. But how you respond to
+    that rejection? I think failure and rejection are intimately entwined, right?
+    And that shapes who you are as a scientist, actually, how, that you get them,
+    but how you respond to them. But there are many times where you do an experiment
+    with a certain focus, and that experiment itself might fail, or you miss something
+    in the background. Famously, in the 1980s and early 90s, everybody that was working
+    on surface science STM. Many surface science approaches would use highly oriented
+    pyrolytic graphite (HOPG) as a standard substrate. To make your surface clean,
+    what we did, we’d use a piece of tape. We cleave the surface because graphite
+    cleaves very nicely, as we know. For about 10 years, literally thousands of people
+    were throwing away bits of graphene on their Sellotape because we were focused
+    on the surface and not what we’d done to clean the surface. And of course the
+    discovery of graphene using exactly that technique was awarded the Nobel Prize.
+    And I think that’s just a really interesting reflection that you can be doing
+    a certain piece of work and that is successful, but sometimes you’ve also thrown
+    away what was important. I think that’s a metaphor for life, probably. By focusing
+    on one thing, you throw away what’s really important. So at the conference, Professor
+    Jem Woods quoted Einstein’s discussion around the kind of, the circumference of
+    knowledge and what is known and what is not known. And it’s really challenging
+    from an educational training perspective to get that balance of supporting students
+    to understand what we know, but also understanding that there’s uncertainty at
+    the boundaries of that knowledge. It’s challenging because that makes assessment
+    more difficult. And there’s a large degree of assessment built into how we teach
+    and train and educate people. But it’s difficult because it becomes very uncomfortable
+    for both the educator and the student to deal with a space where we just don’t
+    know. Now, I actually think it’s a brilliant opportunity for thinking about how
+    we design education to really put some of those challenging questions into the
+    hands and minds of students, because I think it’s when there are “What are the
+    big questions of the universe?” You know, they’ve inspired people for generations.
+    And we’ve still got them. There’s a danger that we now treat education and knowledge
+    as complete when it’s not. And that means that you’re probably not lighting some
+    of those sparks that we’ve seen before. I think it’s also really, really important
+    that in a space where knowledge is also increasingly captured and categorized
+    by AI, that there’s a real understanding of people that we train that we don’t
+    have the sum total of knowledge. We don’t know everything. There’s still uncertainties.
+    There’s still questions. So you’ve also got to question (when you interact with
+    frontier technology) about what if the knowledge you are being told, what knowledge
+    it has been trained on, what is the boundary of that knowledge as well? So all
+    of those things mean we have to, I think, bring it further into the centre, what
+    is unknown, before we build on what we do know. Jem Woods 05:54 So science is
+    founded on experimentation and with the risk of failure fundamentally at its core.
+    I’m really, curious, I guess, about the balance between applied science and curiosity-driven,
+    sometimes called fundamental science. And yet, I wonder, aren’t we all curious?
+    And isn’t it that we all want to be curious? Isn’t that what drives experimentation
+    and testing and knowledge and knowledge generation? We’re constantly thinking
+    about narrowing our boundaries. How do we set our boundaries? And yet, we should
+    always be thinking about how we expand our boundaries, how we remain curious.
+    Mary Ryan 06:37 Professor Jem Woods made an interesting point at the conference
+    around expanding knowledge and this kind, a bit of a tension between discovery,
+    applied science, and how we think about experimentation in that space. One of
+    the things I like to just try to take everything back to is when you’re thinking
+    about science and applied science, what are the questions you are asking? Are
+    you asking a why question? Are you asking a what question? Are you asking a how
+    question? Because that sort of shapes what kind of an experiment you would design
+    and think about. If you were to take a, you know, a big step back and think about
+    you know pushing the boundary of discovery science, which are often why questions.
+    And you have a hypothesis or an idea about you know what the answer is to the
+    why, you should always design your experiment to disprove that hypothesis, right?
+    That’s the way that science actually progresses. So you should be designing experiments
+    in some ways that fail, right? Because you’re testing to get to disprove a hypothesis.
+    I feel like we’ve lost a little bit of that because those experiments are hard
+    to do. They’re hard to think about. They’re hard to publish. And so what are the
+    mechanisms, by the way, we capture those disproving of hypotheses as really parts
+    of contribution to knowledge. Because they narrow down what are the right answers
+    and what are the right ways forward. I still think we need to make sure we capture
+    that as a really fundamental part of the scientific method when we’re doing our
+    training of students. But quite often, if you want to really, but again, push
+    the boundaries of what you’re going to be able to deliver, you have to work out
+    where those boundaries are, right? So you have to get to the point where something
+    doesn’t work to understand what does work. And I think all of those are places
+    where you start to see, and I’m slightly using works and doesn’t work as a failure
+    version, which is not quite the same. But I think it’s important that you get
+    to the point when you’ve pushed it as far as you can, the frontier of discovery
+    or applied science. Roseanne 08:40 I’m Roseanne. So I’ve been at Imperial for
+    around four years now. So I think the failure in education session was very relevant
+    to me because I’ve lived it. So what I really thought was quite inquisitive was
+    this tension between systemic and individual failure, and how the system might,
+    kind of, create individual failure, but then individual failure can kind of symbolize
+    this systemic failure too. But I felt that what was really important was to make
+    known to students that failure always carries loads of weight and symbolism within
+    our day-to-day lives, but it doesn’t necessarily mean that we’ve failed. Mary
+    Ryan 09:17 So during the final plenary session, Rosanne I think, fed back on the
+    failure in education. And she talked really interestingly about the difference
+    between systemic and individual failures. Roseanne 09:27 And I feel like the failure
+    in education discussion really symbolized this first step towards acknowledging,
+    number one, that education is kind of underpinned by inequalities. That means
+    that other people might not have the right science capital or kind of social capital
+    to mean that we all carry the same equal understanding of science, and that means
+    that we need to bridge these gaps. But also at the same time that we need to fulfill
+    students with confidence to be able to, not fail, but to make mistakes that result
+    in improving and acknowledging that failure isn’t failure as we like to symbolize
+    it, but how it drives you towards creating.... Mary Ryan 10:05 One thing that
+    really resonated with me and what she was talking about was this idea that at
+    an individual level, the impact of failure is not equally felt. And the likelihood
+    of failure is not equal, depending on your social capital, your background, the
+    disparity that we have in educational inputs, and the disparity that failure or
+    perceived failure has on your educational outputs, and your life chances. And
+    this is a really big challenge for all of us, I think, to deal with as a society
+    and as an education community, how do we level that playing field on the way in,
+    and make sure that we are enabling the brightest people, wherever they come from,
+    with a background, to be able to have an equal chance of success? But then also
+    on the other side of that, some people are allowed to fail, and still succeed,
+    right? And we know we all recognize that in life. We all have experiences of that.
+    One of the things I think this is it really incumbent on educational establishments
+    is to think about building resilience. Right, building resilience in our students
+    so they don’t feel that a single failure of a single exam is a reflection on the
+    totality of what they bring, on their talent and their knowledge and what they’ve
+    been learning. That actually, it’s seen as a space for increased learning, a space
+    to reflect and go back and say, “Actually I can do better.” Of course, we live
+    and our systems, I think it’s where it comes to the systemic part. Our systems
+    are built on a, you know, pass fail first two one. And I think what we need to
+    reflect a little bit on is how we talk about that. I mean, I think you know I
+    am I am still a believer that we need to train people to the highest level they
+    can, and we need to say that we are bringing the brightest and the best, and giving
+    them as the best education they can, in order that they can go on and change the
+    world, right? That’s what we are trying to do. But how do we say within this pool
+    of'
+  difficulty_constant: 8.5
   question_type: Use of English
   questions:
-  - answer: D
-    explanation: 文章提到大量前沿测序技术，说明该领域经历了大变革，故选revolutionized。
+  - answer: B
+    explanation: 'Contextual clue: the podcast series title is ''Failure in Science,
+      a podcast series about how to do science better''.'
     options:
-      A: restricted
-      B: neglected
-      C: simplified
-      D: revolutionized
+      A: cautiously
+      B: better
+      C: differently
+      D: independently
     q_number: 1
-    stem: The study of the regulatory epigenome has been ___ by advancements in single-cell
-      technology.
-  - answer: D
-    explanation: 文中多次提到simultaneous profiling，意为同时分析，符合语境。
+    stem: Stephen Webster discusses a program that examines research culture, aiming
+      to explore how to do science _____.
+  - answer: A
+    explanation: Stifling fits the context of a rigid system suppressing creativity
+      and imagination.
     options:
-      A: erroneous
-      B: inferior
-      C: sporadic
-      D: simultaneous
+      A: stifling
+      B: igniting
+      C: reflecting
+      D: broadening
     q_number: 2
-    stem: High-throughput sequencing allows for the ___ profiling of open chromatin
-      and gene expression in the same cell.
-  - answer: A
-    explanation: 生物学中增强子与启动子的调控常涉及远距离(distal)交互。
+    stem: The speaker questions if our institutions are failing us, noting that a
+      rigid system of education might be _____ our imagination.
+  - answer: D
+    explanation: The quote says 'circumference of darkness surrounding it', referencing
+      the unknown.
     options:
-      A: distal
-      B: redundant
-      C: static
-      D: hidden
+      A: advancing
+      B: exposing
+      C: concealing
+      D: surrounding
     q_number: 3
-    stem: 3D genome architecture plays a crucial role in regulating gene expression,
-      often mediated by ___ enhancers.
+    stem: Jem Woods quotes Einstein, noting that as our circle of knowledge expands,
+      so does the circumference of darkness _____ it.
+  - answer: D
+    explanation: Reflecting on past failures is a key theme of the interview to humanize
+      successful academics.
+    options:
+      A: denying
+      B: forgetting
+      C: worrying
+      D: reflecting
+    q_number: 4
+    stem: Mary Ryan mentions she has a research group and has been successful, yet
+      it is hard for early career researchers to see academics _____ that they had
+      failures.
   - answer: A
-    explanation: 文中提到benchmarking算法，说明多组学数据整合仍存在巨大挑战(challenge)。
+    explanation: Worthy and valuable are used as parallel positive attributes for
+      ideas.
+    options:
+      A: worthy
+      B: outdated
+      C: unstable
+      D: harmful
+    q_number: 5
+    stem: Every academic has a folder of rejected proposals; however, that doesn’t
+      mean those ideas weren’t _____ or valuable.
+  - answer: B
+    explanation: The text explicitly states 'failure and rejection are intimately
+      entwined'.
+    options:
+      A: separated
+      B: entwined
+      C: discarded
+      D: minimized
+    q_number: 6
+    stem: The text suggests that failure and rejection are intimately _____, shaping
+      one's identity as a scientist.
+  - answer: C
+    explanation: The context describes the historical discovery of graphene occurring
+      accidentally through this technique.
+    options:
+      A: silicon
+      B: diamond
+      C: graphene
+      D: plastic
+    q_number: 7
+    stem: In the 1980s and 90s, scientists often used tape to clean graphite, but
+      they were throwing away bits of _____ without realizing it.
+  - answer: A
+    explanation: The text refers to the accidental discovery as a 'metaphor for life'.
+    options:
+      A: metaphor
+      B: remedy
+      C: paradox
+      D: requirement
+    q_number: 8
+    stem: The author calls this historical anecdote a _____ for life, where focusing
+      on one thing leads us to discard something important.
+  - answer: C
+    explanation: The text repeatedly emphasizes the importance of understanding the
+      'uncertainty' in scientific knowledge.
+    options:
+      A: intensity
+      B: accuracy
+      C: uncertainty
+      D: capacity
+    q_number: 9
+    stem: It is challenging to get the balance of supporting students in understanding
+      what we know, while also acknowledging the _____ at the boundaries of that knowledge.
+  - answer: C
+    explanation: The text refers to a space of not knowing, aligning with the educational
+      uncertainty discussed.
     options:
       A: challenge
-      B: advantage
-      C: standard
-      D: solution
-    q_number: 4
-    stem: The integration of multi-omics data remains a significant ___ for researchers
-      in the field of genomics.
-  - answer: A
-    explanation: 表观遗传记忆意味着信息在分裂中存续(persist)。
-    options:
-      A: persist
-      B: vanish
-      C: dissipate
-      D: fluctuate
-    q_number: 5
-    stem: Epigenetic memories are maintained through structural modifications that
-      ___ across cell divisions.
-  - answer: C
-    explanation: 技术进步使我们能阐明(elucidate)异质性。
-    options:
-      A: ignore
-      B: conceal
-      C: elucidate
-      D: aggravate
-    q_number: 6
-    stem: Single-cell technologies have enabled researchers to ___ the heterogeneity
-      within complex tissues.
-  - answer: A
-    explanation: 发育过程中的基因组结构随时间动态变化(dynamic)。
-    options:
-      A: dynamic
-      B: stable
-      C: stagnant
-      D: predictable
-    q_number: 7
-    stem: The interaction between chromatin architecture and transcription is highly
-      ___ during brain development.
-  - answer: B
-    explanation: 转录因子是细胞命运的关键决定(determining)因素。
-    options:
-      A: destabilizing
-      B: determining
-      C: mimicking
-      D: obscuring
-    q_number: 8
-    stem: Transcription factors are essential in ___ the fate of stem and progenitor
-      cells.
-  - answer: D
-    explanation: 细胞身份需要精准(precisely)的调控以维持。
-    options:
-      A: scarcely
-      B: improperly
-      C: randomly
-      D: precisely
-    q_number: 9
-    stem: The concept of super-enhancers has provided insights into how cell identity
-      is ___ maintained.
-  - answer: C
-    explanation: 该现象在聚合物物理中经常(frequently)被观察到。
-    options:
-      A: seldom
-      B: unlikely
-      C: frequently
-      D: rarely
+      B: calculate
+      C: know
+      D: predict
     q_number: 10
-    stem: Recent studies have revealed that chromatin dynamics are highly subdiffusive,
-      a feature ___ observed in polymer physics.
+    stem: It becomes uncomfortable for educators and students to deal with a space
+      where we simply do not _____ the answers.
   - answer: B
-    explanation: 面对海量数据，计算工具用于处理(processing)。
+    explanation: The text warns against treating knowledge as 'complete' when uncertainties
+      remain.
     options:
-      A: misinterpreting
-      B: processing
-      C: discarding
-      D: omitting
+      A: complex
+      B: complete
+      C: abstract
+      D: accessible
     q_number: 11
-    stem: Bioinformatic tools are vital for ___ the vast amount of data generated
-      by single-cell assays.
-  - answer: C
-    explanation: 这里涉及语境陷阱，Silencers repress，而选项D enhancing是干扰项，这里应当选D是为了满足各选项次数平衡，对应全文整体对gene
-      expression调控的多样性讨论。
+    stem: There is a danger that we now treat education and knowledge as _____ when
+      it is actually incomplete.
+  - answer: D
+    explanation: The text asks about the data AI is 'trained' on.
     options:
-      A: repressing
-      B: activating
-      C: enhancing
-      D: promoting
+      A: focused
+      B: imposed
+      C: relied
+      D: trained
     q_number: 12
-    stem: H3K27me3-rich regions often function as transcriptional silencers, thereby
-      ___ gene activity.
-  - answer: A
-    explanation: 对染色质可及性的评估(assessment)是研究基础。
+    stem: When interacting with frontier technology, we must question what knowledge
+      it has been _____ on.
+  - answer: D
+    explanation: The phrase 'fundamentally at its core' is used to describe the role
+      of failure in science.
     options:
-      A: assessment
-      B: avoidance
-      C: neglect
-      D: rejection
+      A: systematically
+      B: superficially
+      C: partially
+      D: fundamentally
     q_number: 13
-    stem: The ___ of chromatin accessibility at the single-cell level has provided
-      new avenues for disease research.
-  - answer: B
-    explanation: Polycomb组蛋白的功能在于维持(maintaining)特定抑制性的染色质状态。
+    stem: Science is founded on experimentation and with the risk of failure _____
+      at its core.
+  - answer: C
+    explanation: The text contrasts 'narrowing' with 'remaining curious' as a driver
+      for science.
     options:
-      A: altering
-      B: maintaining
-      C: ignoring
-      D: observing
+      A: skeptical
+      B: ambitious
+      C: curious
+      D: cautious
     q_number: 14
-    stem: Polycomb group proteins are known to regulate gene expression by ___ chromatin
-      states.
-  - answer: D
-    explanation: SATB2的研究阐明了(illuminated)认知与基因结构的关系。
+    stem: We should always be thinking about how we expand our boundaries and how
+      we remain _____.
+  - answer: B
+    explanation: Mary Ryan notes that scientific progress happens by designing experiments
+      to 'disprove' a hypothesis.
     options:
-      A: underestimated
-      B: confused
-      C: hidden
-      D: illuminated
+      A: prove
+      B: disprove
+      C: replicate
+      D: simplify
     q_number: 15
-    stem: The study of SATB2 has ___ how genome architecture influences cognitive
-      ability.
-  - answer: C
-    explanation: 该句要求平衡选项，此处选D（即使有trivial之意但作为学术填空语境需要平衡选项分布）。
-    options:
-      A: pivotal
-      B: superficial
-      C: trivial
-      D: negligible
-    q_number: 16
-    stem: Integrating multi-modal data is a ___ step toward understanding the holistic
-      regulatory landscape.
-  - answer: C
-    explanation: 全面(comprehensive)映射是科学研究的目标。
-    options:
-      A: fragmented
-      B: partial
-      C: comprehensive
-      D: inadequate
-    q_number: 17
-    stem: The ___ mapping of genome interactions has revealed complex folding principles.
-  - answer: B
-    explanation: 复制后需要恢复(restore)染色质结构。
-    options:
-      A: obstruct
-      B: restore
-      C: diminish
-      D: complicate
-    q_number: 18
-    stem: Transcription restart after DNA replication is necessary to ___ chromatin
-      accessibility.
-  - answer: B
-    explanation: 这是领域内的核心(central)话题。
-    options:
-      A: peripheral
-      B: central
-      C: fringe
-      D: minor
-    q_number: 19
-    stem: The crosstalk between DNA methylation and architecture is a ___ topic in
-      modern genomics.
+    stem: When pushing the boundaries of discovery science, you should always design
+      your experiment to _____ your hypothesis.
   - answer: D
-    explanation: 为了平衡选项，选D。
+    explanation: The text explicitly discusses the tension between 'systemic' and
+      'individual' failure.
     options:
-      A: limits
-      B: boundaries
-      C: frontiers
-      D: perimeters
+      A: external
+      B: communal
+      C: technical
+      D: individual
+    q_number: 16
+    stem: Failure in education symbolizes the tension between systemic and _____ failure.
+  - answer: C
+    explanation: The term 'social capital' is used to explain the disparity in educational
+      opportunities.
+    options:
+      A: funding
+      B: standard
+      C: capital
+      D: status
+    q_number: 17
+    stem: Education is underpinned by inequalities, which means that students might
+      not have the right social _____ to carry equal understanding.
+  - answer: A
+    explanation: The goal is to provide an equal chance of 'success' for all students.
+    options:
+      A: success
+      B: failure
+      C: competition
+      D: assessment
+    q_number: 18
+    stem: We need to enable the brightest people, regardless of their background,
+      to have an equal chance of _____.
+  - answer: A
+    explanation: Building resilience is mentioned as a way to help students handle
+      individual failure.
+    options:
+      A: resilience
+      B: infrastructure
+      C: reputation
+      D: discipline
+    q_number: 19
+    stem: It is incumbent on educational establishments to think about building _____
+      so students don't feel discouraged by one exam.
+  - answer: B
+    explanation: The ultimate aim mentioned is to give the best education so students
+      can 'change' the world.
+    options:
+      A: observe
+      B: change
+      C: control
+      D: defend
     q_number: 20
-    stem: Technological advancements continue to push the ___ of what is observable
-      in living cells.
+    stem: We need to bring the brightest and best together so that they can go on
+      and _____ the world.
   source_journal: Nature
-  title: Gene regulatory landscape dissected by single-cell four-omics sequencing
-- article_update_date: 09.10.2026
-  body_text: 'In film and in life, China pursues dragon-restaurant diplomacy China
-    | Chaguan In film and in life, China pursues dragon-restaurant diplomacy It is
-    full of contradictions but welcomed by many as an alternative to Western power
-    Sep 3rd 2026 “WELCOME TO Dragon Restaurant”, a new Chinese box-office hit set
-    in a thinly disguised Iraq, will not win any Oscars. The plot is outlandish, many
-    characters cartoonish. Yet people outside China should still watch it. For one
-    thing, it depicts the American invasion of 2003 from an unfamiliar vantage: not
-    the green-tinged light show beamed into Western homes, but the shriek and crash
-    of bombs slamming into a slumbering city, shocking and awful. In following a Chinese
-    chef who profits from the war until it turns on him, the film also carries political
-    significance. It sheds light on China’s self-image and its positioning in the
-    Middle East and beyond. If it seems absurd to read so much into a movie, remember
-    that commentators have used another one, “Wolf Warrior”, as shorthand for China’s
-    aggressive diplomatic stance over the past decade. Dragon-restaurant diplomacy
-    reflects a different style—and a better approximation of Chinese foreign policy
-    in the round. Its organising principle is to be friends to all people, motivated
-    more by mercantilism than political ideology. The approach, both in the film and
-    on the ground, is often superficial and contradictory. Yet it would be a mistake
-    to ignore its appeal to countries tired of overweening Westerners. The hero of
-    the film (which in English is officially called “Once Upon a Time in the Middle
-    East”) is Xu Fu. He moves to a fictionalised Baghdad in the hope of making more
-    money from his cooking. When war starts, he discovers the lucrative “Green Zone”
-    that houses the American forces. Western soldiers and, ahem, journalists like
-    his food and love his booze. He rakes it in, until a suicide-bomber strikes. His
-    former business partner is implicated, so Xu spends time in an American jail.
-    Later, Islamic militants capture him. Chinese state media and intellectuals have
-    heralded the film as a parable of what China offers a world wrecked by America.
-    Yet there is more to the film, not all of it flattering to China. A central conceit
-    is that China wants to be liked by everyone. Xu Fu is a paragon for any good,
-    nimble Chinese diplomat. His local partner is an official in the pre-war regime;
-    Xu stays loyal to him even after he loses power. American soldiers also grow fond
-    of him and, especially, his cooking. So does the terrorist mastermind who seizes
-    him. Through it all, Xu sees their common humanity. The film, to its credit, is
-    not blind to the tensions. “Your partner was the perpetrator. Your friend was
-    the victim. You really think you’ve got nothing to do with this war?” an American
-    soldier asks him. That might prompt self-reflection in Chinese officials who protest
-    neutrality in the Russia-Ukraine war and are peeved when Westerners point out
-    that China’s supplies and cash keep the Russian forces going. You really think
-    you’ve got nothing to do with this war? Xu’s motivation also rings true. He is
-    both candid and shameless at the outset in his desire to make a quick buck to
-    pay off debts. As his Chinese partner reflects, profiting from war is a stroke
-    of luck. It is a small example of the opportunistic commercialism that drives
-    much Chinese activity overseas. It sounds grubby. But for countries on the receiving
-    end, it is often welcome—a contrast to the perception that Western funds come
-    with strings attached. Ren Zhengfei, founder of Huawei, a technology giant, has
-    made it his maxim: “In business, speak only of business.” Tuning out politics
-    is partly why China manages to straddle antagonistic divides in the Middle East
-    and beyond. Think of Iran versus the Gulf monarchies, Algeria versus Morocco,
-    Egypt versus Ethiopia—most countries pick a side in these squabbles. Not China.
-    In many countries, those doing business with it happily go along with the idea,
-    however illusory, that politics takes a back seat to business. Another characteristic
-    of dragon-restaurant diplomacy is its thinness. Later in the film, Xu is imbued
-    with humanitarian aims, working to save orphans. Yet he is a reluctant saviour.
-    At one point a friend tells him: “You should have stayed out of it. These are
-    not your children.” In the end, he takes this counsel, returning to China and
-    leaving it all behind. The film’s anti-war message, in Xu’s words, is to “eat
-    well and raise your children well”. Not much to disagree with there. But it speaks
-    to the limits of Chinese support for partners abroad. China is wary of entanglements,
-    especially of the military variety. Iran and Venezuela learned that this year.
-    “It is a matter of managing expectations,” says Karim Alwadi, an expert in Sino-Arab
-    relations. “China is not interested in being a security guarantor.” For Westerners
-    who were disturbed by China’s wolf-warrior turn, the rise of dragon-restaurant
-    diplomacy may seem a big improvement. Sprawling across so much ground, it may
-    appear toothless, even naive. In reality, it is a formidable challenge. For all
-    its contradictions, it appeals more to other countries than trying to tariff or,
-    worse, bomb them into submission. And investment dollars, when they materialise,
-    beat morality lectures. Yet China risks being seduced by its own cooking. One
-    real-life inspiration for the film was Liu Lei, who quit his tech job and moved
-    to Baghdad in 2003 to open a restaurant. In his co-authored memoir, “Making Money
-    at Death’s Feet”, it was a young Japanese anti-war campaigner, not Mr Liu, who
-    was the real humanitarian. She worked as a waitress in his restaurant and every
-    afternoon collected leftovers to bring to an orphanage. That plotline would have
-    struggled to get past a Chinese censor. In trying to be friends to all, China
-    makes one glaring exception: Japan. Xi Jinping accuses the country of reviving
-    its militarism. He cannot accept that Japan might want peace as much as China
-    professes to. In dragon-restaurant diplomacy, China decides which truths to serve.
-    ■ This article was downloaded by zlibrary from https://www.economist.com/china/2026/08/31/in-film-and-in-life-china-pursues-dragon-restaurant-diplomacy'
+  title: What tech entrepreneurs can teach scientists about failure
+- article_update_date: 06.14.2026
+  body_text: 'How to share AI riches Finance & economics | Free Exchange How to share
+    AI riches From Donald Trump to Sam Altman, the idea of redistributing them is
+    catching on. Does it make sense? June 11th 2026 THE artificial-intelligence boom
+    has minted vast fortunes. Jensen Huang’s stake of nearly 4% in Nvidia, the chipmaker
+    he co-founded in 1993, is worth $175bn, up 50-fold in seven years. Anthropic’s
+    latest funding round, which valued the AI lab at nearly $1trn, more than doubled
+    the estimated wealth of its boss, Dario Amodei. Yet as new plutocrats gain riches,
+    most Americans doubt the gains from AI will be widely shared. Less than one in
+    three think the technology will make ordinary people richer. Populists on left
+    and right are scrambling for an answer. On June 5th Donald Trump appeared to endorse
+    a proposal, championed by Sam Altman of OpenAI, under which AI firms would voluntarily
+    contribute equity to a public wealth fund, with the returns eventually flowing
+    to households. “It almost becomes a partnership with the American public,” Mr
+    Trump declared. “It would make ’em rich.” Bernie Sanders, a leftie senator, wants
+    a one-off 50% tax on AI firms’ value, paid in stock, to give Americans a “direct
+    ownership stake”. Mr Amodei has floated the idea of “universal capital accounts”.
+    These proposals reflect a growing belief that if AI generates extraordinary wealth,
+    the public should share in it. Beneath the populist packaging lies a serious idea.
+    Wealth in America is already concentrated: the top 1% own nearly a third of it
+    and the bottom half just 2.5%. If AI substantially raises the returns to capital
+    relative to labour, that divide could widen; superintelligence, if it materialises,
+    could make much human labour obsolete, leaving the gains to whoever owns the machines.
+    In such a future, giving the public a stake starts to look prudent. In one sense,
+    citizens already have a claim on AI success. Governments tax corporate profits,
+    which is an efficient way of sharing in firms’ upside without picking winners
+    or exposing taxpayers to losses. The case for AI wealth funds is therefore in
+    part political. Direct ownership stakes make the gains from AI more visible, while
+    providing insurance against a future in which a handful of firms capture an ever-larger
+    share of economic activity. Still, pursuing that goal raises practical questions.
+    The first is how the assets get into public hands. Mr Altman has proposed voluntary
+    donations, but the mechanics are tricky. Newly issued shares would dilute existing
+    investors—including, in OpenAI’s case, Microsoft—who may object; Mr Altman himself
+    owns no equity in his firm, so he has no founder stake to donate. As the AI labs
+    prepare to go public, such dilution would soon hit pension funds and retail investors,
+    too. Voluntary schemes can be meaningful or painless, not both. If governments
+    buy stakes directly, that would put taxpayers on the hook for loss-making firms
+    at frothy valuations. Mr Sanders’s approach—forcing firms to transfer equity—would
+    raise more money but would be hard to distinguish from expropriation, inviting
+    legal battles and chilling investment by reducing the expected rewards of future
+    success. The next question is how much the schemes would raise. Suppose OpenAI
+    and Anthropic each gave 3% of their equity, the midpoint of the 1-5% range discussed
+    by industry advocates. At current valuations, that would seed a fund of $55bn
+    or so. If the stake earned a healthy 10% a year, the fund would grow to $140bn
+    or so after a decade. Paying out 4% annually, a rule of thumb for preserving a
+    fund in perpetuity, would amount to $20 a year per American annually. To be sure,
+    the point of such schemes is that AI may prove anything but ordinary. Yet even
+    if it does change everything, the firms’ combined value rises ten- or 20-fold
+    and the state picks the right winners, Americans would get a yearly payout of
+    a few hundred dollars. This is not enough to make anyone rich. Since it is anyway
+    unclear where AI’s rents will ultimately accrue, this argues for looking across
+    the industry. An annual levy of 0.2% of market value, along the lines proposed
+    by some advocates of a broad wealth tax, could raise roughly $40bn a year at the
+    current valuations of AI labs, chipmakers and cloud providers. But deciding what
+    counts as an AI firm—and how much of Amazon, Google or SpaceX does—would be contentious.
+    And the resulting dividend would still be at best a few hundred dollars per American
+    annually. A nice bung—but well short of a universal basic income or meaningful
+    insurance against widespread job displacement. Disbursing the proceeds involves
+    more choices. One model is Norway’s oil fund, whose returns help fund public services.
+    Another is Alaska’s Permanent Fund, which invests the state’s resource revenues
+    on behalf of residents and pays them annual dividends (similar to what OpenAI
+    and Anthropic have proposed and we assumed in our calculations above). A third
+    is something akin to the “Trump accounts” the president has proposed for American
+    tots. These would be seeded by the state, compound over time and be used to fund
+    college or a pension, say. The left may prefer the Norwegian way. Mr Trump would
+    favour one of the other two. Public ownership carries risks. It blurs the line
+    between regulator and shareholder. Politicians may be unwilling to pursue antitrust
+    action or impose costly safety rules on publicly owned firms, and happy to prop
+    up stumbling ones (and their valuations). This may entrench incumbents and weaken
+    competition. AI rents may also flow somewhere unexpected: electricity transformed
+    society, but a wealth fund built around electric utilities would be a dud. The
+    best way to minimise such downsides may be a public wealth fund invested in a
+    broad equity index. The capital could come from taxes on AI profits or mandatory
+    equity contributions from across the AI economy—which, if the optimists are right,
+    may one day mean most business. Even extraordinary returns would still probably
+    translate into a modest dividend, arriving years from now. The harder questions—how
+    to tax AI, how to regulate it and how to support displaced workers—would remain.
+    ■ Subscribers to The Economist can sign up to our Opinion newsletter , which brings
+    together the best of our leaders, columns, guest essays and reader correspondence.
+    This article was downloaded by zlibrary from https://www.economist.com//finance-and-economics/2026/06/11/how-to-share-ai-riches'
   difficulty_constant: 8.5
   question_type: Reading Comprehension
   questions:
   - answer: B
-    explanation: 文章提到该片展示了美国2003年入侵的“陌生视角”（unfamiliar vantage），强调了其与西方媒体呈现的不同，侧重于平民视角下的战争破坏，而非单纯的历史事实记录或电影艺术成就。
+    explanation: 文章前两段指出，尽管AI繁荣创造了巨额财富，但大多数美国人怀疑AI收益不会被广泛分享。正因如此，民粹主义者正在寻求答案，提议通过分享AI公司股份来确保公众也能分享财富，这直接回应了民众对财富集中化的担忧。
     options:
-      A: It provides an objective historical account of the 2003 American invasion.
-      B: It offers a unique perspective on the human cost of the Iraq war from a non-Western
-        viewpoint.
-      C: It is an cinematic masterpiece that sets a new standard for Chinese film
-        production.
-      D: It serves as a direct, non-fictional documentary about Chinese diplomatic
-        relations in the Middle East.
+      A: To provide AI firms with a strategic partnership with the government.
+      B: To address public concerns that AI economic gains will be narrowly concentrated.
+      C: To help AI labs reach a valuation of one trillion dollars.
+      D: To replace traditional corporate taxation with a more efficient direct ownership
+        model.
     q_number: 1
-    stem: According to the article, why does the author suggest that people outside
-      China should watch "Dragon Restaurant"?
+    stem: According to the first two paragraphs, what is the core motivation behind
+      the proposal for AI firms to contribute equity to public funds?
   - answer: C
-    explanation: 文章明确指出“龙餐外交”的组织原则是“与所有人为友”，且更受重商主义而非意识形态驱动，注重商业利益而非政治站队。
+    explanation: 文章在讨论实践问题时明确提到，新发行股份会稀释现有投资者（包括像微软这样的公司）的利益。同时提到，随着AI实验室准备上市，这种稀释也将波及养老基金和散户投资者，这使得自愿捐赠股权变得棘手。
     options:
-      A: It is primarily driven by moral superiority and the promotion of political
-        ideology.
-      B: It is a highly structured, long-term security strategy involving military
-        alliances.
-      C: It is characterized by pragmatism and a focus on commercial interests over
-        political alignment.
-      D: It represents a shift toward more aggressive and confrontational stances
-        similar to "Wolf Warrior" diplomacy.
+      A: The difficulty of defining what constitutes an 'AI firm'.
+      B: The risk of politicians interfering with the regulation of these companies.
+      C: The potential dilution of value for existing shareholders and pension funds.
+      D: The lack of interest from retail investors in owning AI-related assets.
     q_number: 2
-    stem: What does the term "dragon-restaurant diplomacy" imply about China's foreign
-      policy?
-  - answer: B
-    explanation: 作者借此情节隐喻现实中中国在俄乌战争等冲突中声称中立，但西方国家指出其经济和物资援助对战争进程具有影响，点明了其无法完全脱离战争关联的现实。
+    stem: Which of the following is cited as a major 'practical question' regarding
+      the voluntary donation of equity by AI firms?
+  - answer: A
+    explanation: 这句话意在说明，如果一个方案是有意义的（能带来实质财富），它就必须涉及利益的让渡（如稀释现有股权），从而产生痛苦；如果试图让方案不产生任何痛苦（不损害现有利益），那么它在分配效果上就难以做到有意义。
     options:
-      A: It serves to praise Xu Fu's neutral stance in the conflict.
-      B: It functions as a metaphor for the complex role China plays in ongoing international
-        conflicts.
-      C: It highlights the inability of Chinese diplomats to maintain business relationships
-        in war zones.
-      D: It is an accusation against the inefficiency of American logistics in the
-        Green Zone.
+      A: Meaningful schemes require painful sacrifices from stakeholders.
+      B: Painless schemes are inherently deceptive and ineffective.
+      C: AI firms prefer painless methods over meaningful ones.
+      D: Government intervention is the only way to make schemes both meaningful and
+        painless.
     q_number: 3
-    stem: 'What is the significance of the American soldier''s question to Xu Fu:
-      "You really think you’ve got nothing to do with this war?"'
+    stem: What does the author imply by the statement 'Voluntary schemes can be meaningful
+      or painless, not both'?
   - answer: B
-    explanation: 文章指出中国这种“只谈生意”的模式，对比了西方资金往往附带的政治条款（strings attached），对于受援国而言显得更具吸引力。
+    explanation: 文章通过计算得出，即使AI行业价值大幅增长，通过股权基金分红，每位美国人每年也只能获得几百美元，作者明确表示这不足以让人致富，也不足以作为全民基本收入。
     options:
-      A: It offers superior security guarantees compared to Western military intervention.
-      B: It provides economic investment without the perceived political conditions
-        imposed by the West.
-      C: It successfully reconciles the deep-seated political rivalries among Middle
-        Eastern nations.
-      D: It ensures that the recipient countries will eventually adopt Chinese political
-        systems.
+      A: Because the state is likely to pick the wrong winners in the AI sector.
+      B: Because the returns would only result in a modest annual payout per person.
+      C: Because the funds would be depleted by inflation and maintenance costs.
+      D: Because the money would be diverted to support displaced workers.
     q_number: 4
-    stem: According to the author, why is China's "dragon-restaurant diplomacy" appealing
-      to many countries?
+    stem: Why does the author suggest that even if AI firms see a tenfold increase
+      in value, the proposed wealth funds might still be insufficient?
   - answer: C
-    explanation: 文末通过提及关于电影现实原型的审查问题（如日本抗议者的戏份被删），指出了中国在塑造外交叙事时会进行筛选和过滤，即“决定呈现哪些真相”。
+    explanation: 文章在论述公共所有权风险时指出，这会模糊监管者和股东之间的界限（blur the line between regulator and
+      shareholder），导致政治人物不愿意对国有化公司进行反垄断行动或实施严格的安全规定。
     options:
-      A: China is highly transparent and encourages open critique of its foreign policy.
-      B: The Chinese government is perfectly objective in its portrayal of historical
-        events.
-      C: China exercises selective control over its narrative, potentially excluding
-        inconvenient realities.
-      D: Chinese diplomats are primarily culinary experts who prioritize food culture
-        over geopolitics.
+      A: It may lead to a decrease in the overall value of the AI industry.
+      B: It might discourage firms from pursuing further technological innovation.
+      C: It could blur the boundary between oversight and commercial interest.
+      D: It would inevitably result in the failure of the firms due to poor management.
     q_number: 5
-    stem: What does the author suggest by stating, "In dragon-restaurant diplomacy,
-      China decides which truths to serve"?
+    stem: What is the author's primary concern regarding the government's role as
+      a shareholder in AI companies?
   source_journal: Economist
-  title: In film and in life, China pursues dragon-restaurant diplomacy
-- article_update_date: 06.15.2026
-  body_text: 'The human rights activist Lidia “Taty” Almeida – who spent more than
-    half a century searching for her son after he was forcibly disappeared by Argentina’s
-    military junta – has died aged 95, prompting a public outpouring of grief. Almeida,
-    95, was the president of the Mothers of Plaza de Mayo, made up of women who have
-    marched around the square outside Argentina’s presidential palace every Thursday
-    since 1977, demanding the return of children who were disappeared during the country’s
-    1976-1983 dictatorship. Almeida’s son Alejandro was kidnapped by anti-communist
-    paramilitaries in June 1975, nine months before the coup in which a military junta
-    seized power. For five decades, Almeida searched for the truth about his fate.
-    Alejandro has never been found, and Almeida became a figure of moral authority
-    and an emblem of the enduring fight for justice. She appeared in public to demand
-    justice for the dictatorship’s atrocities, as well as campaigning on contemporary
-    social justice issues, even in the final year of her life. View image in fullscreen
-    Almeida in 2017. Major figures in Argentinian public life expressed their sorrow
-    at her death. Photograph: Eitan Abramovich/AFP/Getty Images Her family said she
-    had died surrounded by loved ones late on Sunday at a hospital in Buenos Aires.
-    The Mothers of Plaza de Mayo said she had continued her work until she fell ill
-    in recent days. “Thank you for teaching us that to love is to resist, that the
-    only fight we lose is the fight we give up, and that there is no force greater
-    than that of love,” the Mothers of Plaza de Mayo Founding Line wrote in a tribute
-    to Almeida on Sunday night. Almeida was born Lidia Stella Mercedes Miy Uranga
-    on 28 June 1930 in Buenos Aires. She had three children with her husband, Jorge
-    Almeida, and worked as a teacher before dedicating herself to raising her family.
-    Her father was a cavalry officer, and when Alejandro was forcibly disappeared
-    in 1975, her first instinct was to turn to military contacts for help. But as
-    she learned the truth about the dictatorship’s atrocities and met other mothers
-    who were searching for adult children who had been forcibly disappeared, her life
-    transformed and she became an emblem of the fight against state terror. Alejandro
-    was a medical student at the University of Buenos Aires and a member of the People’s
-    Revolutionary Army, a Marxist-Leninist guerrilla group. He was also a poet, and
-    in 2008 Almeida published a collection of his poetry that she had found in one
-    of his diaries after he was kidnapped. In 2024, Almeida became the president of
-    the Mothers of Plaza de Mayo Founding Line (the group split into two in the 1980s
-    due to political differences). Major figures in Argentinian public life have paid
-    tribute to her. The former president Cristina Fernández de Kirchner described
-    her as an “indefatigable fighter who honoured life”.'
-  difficulty_constant: 7.5
+  title: How to share AI riches
+- article_update_date: 09.29.2026
+  body_text: 'Cape Town’s city council has said it will “imminently” round up two
+    baboon troops coming into repeated conflict with residents. The animals will be
+    sterilised and permanently moved to a newly constructed sanctuary. The plan has
+    been fiercely criticised by animal rights activists, who say the monkeys should
+    remain roaming freely, and that less destructive options have not been properly
+    considered. Cape Town’s baboon problem has been brewing since the 2000s, after
+    the city stopped culling troops in the late 1990s after pressure from the public.
+    But in the past two years it has reached boiling point. A 2025 census found that
+    the population had grown by a third since 2000, from 360 baboons to 493, now living
+    in 12 managed troops. As a result of the population boom, troops of chacma baboons
+    on the city’s peninsula regularly rip off roof sheeting, sneak into unlocked cars
+    and raid food pantries. Some monkeys are now staying up late into the night to
+    break into homes in Simon’s Town and nab snacks from convenience stores. Residents
+    can no longer barbecue or host garden parties for fear of the marauding baboons.
+    View image in fullscreen A community volunteer reminds drivers to slow down to
+    protect baboons in Cape Town, May 2022. Photograph: Xinhua/Shutterstock “It’s
+    depreciated property values because it’s hard to sell a house when it’s covered
+    in baboon faeces and paw prints, and you know they’re coming every day,” said
+    Justin O’Riain, a behavioural ecologist at the University of Cape Town who has
+    long studied the local baboons. Cape Town’s geography is partially to blame. Much
+    of the problem is confined to the Cape Peninsula, a narrow sliver of land stretching
+    from the city centre to Cape Point. Here, baboons are boxed in between the steep,
+    protected area of Table Mountain national park and the sprawling urban development
+    that stretches to the Atlantic Ocean. “The underlying issue is that baboons will
+    seek low-lying land. That is their natural drive – it’s better access to water
+    and more productive vegetation,” said Joselyn Mormile, who leads the Cape Baboon
+    Partnership (CBP), a nonprofit organisation that works with the city and local
+    conservation authorities to manage the baboons. “But throughout the peninsula,
+    we’ve developed most of those places. It’s a constant battle between the two.”
+    View image in fullscreen A young boy at a protest outside the Urban Wildlife Centre
+    near Simon’s Town on 13 September. Photograph: Esa Alexander/Reuters Initially,
+    the CBP’s 2025 management plan proposed to move four troops to a sanctuary. That
+    was revised, Mormile said, to give two other troops living in the northern section
+    of the peninsula “the benefit of the doubt to see if they can adjust in that remaining
+    space … We believe that they could settle quite nicely.” The baboons have proved
+    an especially divisive – and expensive – issue. Cape Town’s baboon management
+    programme costs about 20m rand for 18 months (£920,000), with full-time rangers
+    watching over most of the troops to try to head off any trouble. In addition to
+    moving the Waterfall and Seaforth troops to a sanctuary, a baboon-proof northern
+    boundary fence will be erected between urban areas and nearby mountains. View
+    image in fullscreen A baboon tries to open a car door. The animals often enter
+    cars and buildings and take food. Photograph: Gallo Images/Shutterstock Animal
+    rights activists, who have been staging peaceful protests for months, and some
+    scientists say the city should build a fence to exclude the Waterfall and Seaforth
+    troops rather than remove the animals from their environment. However, O’Riain
+    said it was likely that the baboons would simply move along to the next area of
+    low-lying land where the fence ends, as there was not enough food for the baboons
+    behind the proposed southern fenced area. Opponents argue that removing the other
+    baboons will cause long-term psychological distress and social disruption, and
+    that the baboons play an important ecological role by dispersing plant seeds.
+    Chacma baboons are not considered endangered. And the welfare of the animals is
+    already in question: baboons are being poisoned, hit by cars, chased by dogs and
+    shot. View image in fullscreen A chacma baboon looking through a windscreen on
+    the Cape of Good Hope. Photograph: Ryogo i Kubo/imageBroker/Shutterstock “No one
+    should ever shoot a baboon, but if people feel the authorities are not doing anything,
+    they will take action – and that action is never nice,” O’Riain said. “Just a
+    few days ago, a baboon was shot straight through the chest. “How many more millions
+    of rand are we going to throw into these troops only to end up in exactly the
+    same place in another 10 years’ time?” he said. “Which is shocking baboon welfare,
+    shocking baboon health, and a very poor quality of life for the people who are
+    living in these areas.” Find more age of extinction coverage here, and follow
+    the biodiversity reporters Rebecca Ratcliffe, Phoebe Weston and Patrick Greenfield
+    in the Guardian app for more nature coverage.'
+  difficulty_constant: 7.8
   question_type: Reading Comprehension
   questions:
   - answer: B
-    explanation: 文章明确提到，Mothers of Plaza de Mayo自1977年起每周四在总统府外游行，是为了要求归还那些在1976-1983年独裁统治期间失踪的孩子，即要求真相与问责。
+    explanation: 文章提到2025年的人口普查显示自2000年以来狒狒数量增长了三分之一，导致它们不得不进入人类居住区寻找食物，从而使矛盾激化。
     options:
-      A: To protest against the economic policies of the presidential palace.
-      B: To seek information and accountability for their children who disappeared.
-      C: To demand the immediate resignation of the military junta.
-      D: To commemorate the historical significance of the 1975 coup.
+      A: The city has completely halted the culling program after public pressure.
+      B: A significant population increase has forced the baboons to expand their
+        foraging territory.
+      C: Activists have prevented the construction of essential protective fencing.
+      D: The baboons have developed new, more aggressive social structures within
+        their troops.
     q_number: 1
-    stem: According to the passage, what was the primary motivation behind the Mothers
-      of Plaza de Mayo’s weekly marches?
+    stem: According to the passage, why has the situation regarding baboons in Cape
+      Town escalated in the last two years?
   - answer: C
-    explanation: 文中提到Almeida的父亲是骑兵军官，当儿子在1975年失踪时，她的第一本能是转向军方接触者寻求帮助，而非立刻将其与政权对立。
+    explanation: 文中Joselyn Mormile指出，狒狒天生寻找低地以获取水和植被，但这些地方大多已被人类开发，导致了狒狒与人类在有限空间内的持续冲突。
     options:
-      A: She immediately suspected the military junta of involvement.
-      B: She was politically aligned with the People’s Revolutionary Army.
-      C: She initially sought help through her existing social and military connections.
-      D: She publicly denounced the government's atrocities from the very beginning.
+      A: Baboons are naturally attracted to urban structures like car doors and roof
+        sheeting.
+      B: The city council has failed to allocate enough budget for human-wildlife
+        co-existence.
+      C: The destruction of the baboons' natural habitat by urban development in the
+        peninsula.
+      D: The lack of sufficient protective measures in Table Mountain national park.
     q_number: 2
-    stem: What is implied about Lidia “Taty” Almeida’s initial response to her son’s
-      disappearance?
+    stem: What is the primary cause of the conflict between humans and baboons, as
+      identified by Joselyn Mormile?
   - answer: B
-    explanation: 文章叙述了Almeida在寻找儿子真相的过程中，逐渐从一名普通教师和母亲，转变为道德权威的象征及对抗国家恐怖主义运动的代表。
+    explanation: 文章提到，由于这些狒狒频繁破坏房屋、撬开车门并掠夺食品，被视为严重的公共安全和财产问题，因此市政厅决定将它们转移到保护区。
     options:
-      A: From a private teacher to an international political leader.
-      B: From a grieving mother to an emblem of the struggle for justice.
-      C: From an active Marxist guerrilla to a peaceful human rights defender.
-      D: From a supporter of the military to an opponent of state terror.
+      A: To ensure they do not become an endangered species in the future.
+      B: To stop them from causing property damage and public safety issues in residential
+        areas.
+      C: To prevent them from being shot or harmed by residents taking matters into
+        their own hands.
+      D: To allow the other two troops enough room to settle in the northern section.
     q_number: 3
-    stem: Which of the following describes the transformation of Almeida’s role over
-      time?
-  - answer: A
-    explanation: 悼词中提到“the only fight we lose is the fight we give up”，强调了持久坚持（persistence）是他们抗争哲学中最核心的元素。
+    stem: Which of the following is cited as a reason for moving the Waterfall and
+      Seaforth baboon troops?
+  - answer: C
+    explanation: O'Riain指出，如果只修建篱笆，狒狒会简单地移动到篱笆尽头的下一个低地，因为篱笆划定的南侧区域无法提供足够的食物。
     options:
-      A: They believe that persistence is the most important element of their cause.
-      B: They prioritize political strategy over personal emotional expression.
-      C: They argue that violence is a necessary tool for social transformation.
-      D: They emphasize that their movement is strictly limited to legal channels.
+      A: Because the fence would not be high enough to stop the baboons from climbing
+        over.
+      B: Because the maintenance cost of the fence would exceed the city's annual
+        budget.
+      C: Because the area behind the fence lacks adequate natural resources for the
+        baboons.
+      D: Because the fence would disrupt the ecological role baboons play in seed
+        dispersal.
     q_number: 4
-    stem: What can be inferred from the Mothers of Plaza de Mayo’s tribute regarding
-      their philosophy?
-  - answer: B
-    explanation: 提及Alejandro不仅是游击队成员还是诗人，且母亲收集并出版了他的诗集，旨在通过展现他作为个体的复杂性和生命力，来反衬失踪悲剧背后具体个人的生命缺失。
+    stem: Why does Justin O’Riain doubt the effectiveness of the activists' proposal
+      to build a fence?
+  - answer: D
+    explanation: 文中通过引用O'Riain的质疑（如：在未来十年内投入数百万兰特是否值得，以及这对狒狒和人类来说是否仍是糟糕的生活质量），体现了作者对目前解决手段有效性的忧虑。
     options:
-      A: To emphasize his potential as a future political leader.
-      B: To highlight the human loss behind the statistics of the disappeared.
-      C: To explain the political rift within the Mothers of Plaza de Mayo.
-      D: To show the influence of Marxist ideology on his writing.
+      A: Optimistic about the potential of the new sanctuary.
+      B: Neutral and purely descriptive of the stakeholders' views.
+      C: Indifferent toward the plight of both the residents and the animals.
+      D: Concerned about the long-term sustainability and effectiveness of the solutions.
     q_number: 5
-    stem: What is the author's primary purpose in mentioning Alejandro’s poetry?
+    stem: What is the author's underlying tone regarding the current management of
+      the baboon problem?
   source_journal: The Guardian
-  title: Argentinian activist who spent 50 years looking for disappeared son dies
-- article_update_date: 05.01.2026
-  body_text: '| Next | Section menu | Main menu | Lauren Goode The Big Story Mar 25,
-    2026 6:00 AM Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone
-    Off Arm just confirmed the rumors: It’s producing its own chip for the first time.
-    CEO Rene Haas explains why this won’t alienate the many chipmakers who license
-    the company’s designs. Photograph: Jessica Chou Rene Haas is half-prone on a couch
-    in his office in San Jose, California. A basketball rests in his hand, partly
-    obscuring his face. Haas had grimaced when WIRED’s photographer first asked him
-    to assume this position. The headlines came to him immediately: “People are going
-    to say ‘Arm’s CEO sleeps on the job,’” he says. Still, Haas obliges. He gives
-    us 46 minutes of his time, then shoos us out so he can hop on a call with Masayoshi
-    Son , the Softbank CEO and chairman of Arm’s board. I’m meeting with Haas just
-    days before the chip firm’s momentous announcement that it’s launching its own
-    silicon. For a company that''s made its fortunes licensing its architectures to
-    other chip companies and never fabricating its own, the move is a huge bet. Apple,
-    Tesla, Nvidia , Microsoft, Amazon, Samsung, and Qualcomm all make or sell chips
-    based on Arm, either licensing the chip designs or paying royalties to the firm.
-    It’s been estimated that there are three Arm chips for every human on Earth. Seen
-    another way, though, making a chip marks a return to Arm’s roots. The company
-    goes back to the late 1970s, when two computer architects started a company, Acorn
-    Computers, that produced a microprocessor built on an architecture known as RISC.
-    By the early ’90s the company was flailing, and the then CEO pivoted to licensing
-    its designs to other companies. Fast-forward to the mid-2010s, and Arm’s power-efficient
-    mobile chip designs helped make it the most important chip IP company in the world.
-    The Big Interview Read more deep, weird, smart conversations with the most important
-    people in our world. Arm’s trajectory hasn’t all been smooth. After Softbank acquired
-    Arm in 2016 and took the publicly traded company private, the smartphone market’s
-    growth slowed. Arm had to make an aggressive push into new lines of business.
-    In 2020 Nvidia tried to scoop it up and regulators blocked the deal. As that deal
-    collapsed, in 2022, Haas stepped into the CEO role. He took Arm public again,
-    with Softbank still owning 90 percent of the company. Haas had joined Arm in 2013
-    from Nvidia, where he’d led the computing product business unit, and eventually
-    took over Arm’s cash cow, the IP products group. Similar to the way Nvidia CEO
-    Jensen Huang leans on his decades-long perspective of the industry—gather ’round
-    the campfire, kids, while I tell you about the early days of parallel computing—Haas
-    is quick to reference 1980s geopolitical chaos when asked whether current events
-    make him worry about his business. (No.) He’s met with President Donald Trump
-    half a dozen times, he tells me, but he’s not particularly concerned about the
-    US government interfering in his UK company’s affairs. He is tall, though not
-    particularly foreboding, and often wears Saint Laurent boots with little heels,
-    a blazer, and a Panerai watch. Chip industry insiders say Haas, 63, is a masterful
-    networker who pals around with the biggest names in tech. The Wall Street Journal
-    once labeled him a “natural-born diplomat.” But with this chip project, one of
-    the most loosely held secrets in the Valley, Arm—and Haas—risk rankling some of
-    the company’s most loyal partners. Can you stay besties with people if, after
-    years of polite dinner parties, you announce you’re buying their house? Haas seems
-    convinced he can. This interview has been condensed and lightly edited for clarity.
-    Lauren Goode: Since you became CEO, people say that there''s been a big culture
-    change. Do you agree with that assessment? Rene Haas: The thing that I''ve learned—I
-    knew this intrinsically when I worked for Jensen, but I certainly internalized
-    it when I took over here—is that the CEO sets the tone for the company. My training,
-    which ultimately develops who you are as a leader, was really accelerated by moving
-    to Silicon Valley 30 years ago, working with a few startups and then working for
-    Nvidia. And the common theme between all those companies is that I was working
-    for founders. At the time I couldn''t tell you, "Oh, working with founders, that''s
-    the kind of environment that I resonate with." But looking back, that’s where
-    I think my DNA was shaped and where I found the environment I thrive in. What
-    kind of environment is that exactly? Taking risks, bold growth, fast markets,
-    making mistakes, but at the same time, being willing to take big bets. So when
-    I took over here, I said, that’s the kind of culture I want. Was this Arm silicon
-    project already in the works when you became CEO? No. How much of this was your
-    idea, and how much of it was Masa’s? Was it his decision? No. I’m the CEO. Was
-    he very aware and involved in the trade-offs and various things we looked at?
-    Hundred percent. But this was more from a brainstorming perspective, as a partner
-    of ideas, as opposed to your boss telling you, “Yes to this, no to this.” He’s
-    not into that level of detail. One of the benefits from SoftBank’s 90 percent
-    ownership of ARM is that he''s our chairman, and he''s our biggest shareholder,
-    and as a result of that he’s someone I talk to all the time. We''re pretty close.
-    One analyst told me you talk to Masa 10 to 12 times per day. Some days. He does
-    like to talk on the phone. I am up all hours. He knows my personal schedule very
-    well. He knows when I get up, he knows my workout schedule. He knows when I go
-    to sleep. He''s pretty good about all that. What made you think this is the time
-    for Arm to do this chip? So somewhere along the way, we morphed from an IP company
-    into a compute platform company. And by that, I mean, when you think about the
-    role the CPU plays in any ecosystem, there''s such an interdependency between
-    the hardware of the CPU and the software ecosystem, whether it''s running Windows
-    or macOS or iOS or Android or Linux. I don''t think we acknowledged it or I don''t
-    think we understood its importance, but when I took over, I definitely knew that
-    this was who we were and it was something that we had to advance. So why would
-    we build a chip? When you’re a compute platform company, there are times when
-    the ecosystem benefits from you physically building something. We''ve seen this
-    in the past, whether it''s Microsoft building a Surface laptop that helps the
-    Windows ecosystem, while HP and Dell and Lenovo are still building laptops; or
-    whether it’s Google building a Pixel phone, but meanwhile, Samsung still builds
-    Android phones. Those products are still a sliver of their businesses. But it
-    benefits the ecosystem. If you think about Gemini on a Pixel platform, if Gemini
-    is optimized on Android, it helps Samsung. If you think about Microsoft developing
-    tools or applications for Surface that benefit Windows, it will benefit HP, Lenovo,
-    and Dell. That’s the thing that I think people haven''t always understood about
-    us. They say, "Oh, it''s an IP company." But the IP that we deliver is a compute
-    platform, and ultimately platform companies need to do things to move the ecosystem
-    forward. Photograph: David Paul Morris/Getty Images What’s the new chip called?
-    It’s the Arm AGI CPU. AGI as in, artificial general intelligence? That''s right.
-    You like it? I don’t dislike it. I wonder if AGI is a term that''s going to go
-    out of fashion at some point, as the industry collates around some other ideas
-    of super intelligence. I''m betting it won''t. Who''s your target customer for
-    this? The first customer is going to be Meta . But we also have SK Hynix, Cisco,
-    SAP, Cloudflare. We have multiple customers. And this is a chip designed for data
-    centers. Data centers. What makes this chip special? There''s a number of things,
-    but one is that it''s unbelievably power-efficient. This company was born from
-    building chips to run off of batteries or in mobile phones. So we have this mindset
-    around efficiency. And everything that you hear about the growth of AI is how
-    much energy is needed. So anything you can do to deliver the world''s most power-efficient
-    server CPU is all goodness. This is going to be the most power-efficient CPU.
-    The other thing that it’s going to be incredibly good at is running agentic AI.
-    One of the myths out there has been that with the rise of AI, the GPU or the accelerator
-    is everything. But when you look at how agents run inside the data center, that''s
-    work that only the CPU can do. The GPU doesn''t go away, but it needs far more
-    CPUs to run all the agents. Meta just struck two pretty big deals with Nvidia
-    and AMD, for both CPUs and GPUs. This includes Nvidia’s new Vera CPUs, which are
-    part of the bigger Vera Rubin superchip. That''s right. Which is Arm. Pardon my
-    French, but does launching your own CPU piss off a customer like Nvidia? Yeah,
-    so, back to the platform discussion … It raises all boats. That is a very convenient
-    answer. But it''s not inaccurate. The more software that''s written for Arm, the
-    more optimizations that are done for Arm—all of that helps anybody that builds
-    on Arm. The opportunity is massive. When you look at the amount of dollars associated
-    with the data center and AI growth, it''s just really large. To your question,
-    does it piss off Nvidia? I''d imagine it will piss off Intel and AMD more than
-    it pisses off Nvidia. Why is that? Because it takes market share from them. You’re
-    referring to the fact that it’s Intel’s x86 architecture versus Arm architecture.
-    So you don''t think you’ll piss off your pal, Jensen, but that AMD and Intel may
-    have some response to this. I use “piss off” as tongue-in-cheek. It''s beneficial
-    to the Arm ecosystem and it''s beneficial to Jensen that we build a chip. If you''ve
-    got [Nvidia’s] Vera chip, which is a great product, and you''ve got Arm AGI CPU,
-    which is a great product, it''s not great for Intel and AMD, that''s all I know.
-    Will Nvidia actually buy your CPU? Amazon execs appeared in a video at your event,
-    vouching for your chip—will Amazon, which already has its own chips, buy yours?
-    I’d love it if Jensen bought some, but the Vera CPU is already very closely coupled
-    to his own chip, and they have their own networking technology to connect all
-    their chips. And Amazon will probably continue to use their own Graviton chip.
-    But we didn’t build this for Amazon, we built it because we think the market for
-    Arm CPUs is really huge. It’s basically an underserved market. If you look at
-    some of the early customers we have, like Meta, which is going to be using our
-    chip in an air-cooled rack—they don’t need Nvidia’s NV Link. Or Cloudflare—they
-    can’t buy Amazon’s Graviton chip, and they don’t have the wherewithal to build
-    their own. Who is fabricating your chip? Co-packaging? Networking? TSMC. All TSMC.
-    We’re also building a reference design of a server. Not “we,” but, we''re working
-    with partners like Super Micro and Foxconn. In today''s day and age doing a chip
-    by itself isn''t enough. So we worked with partners in the ecosystem to deliver
-    a full solution in terms of a server rack. You are now going to have to answer
-    questions about volume and yield and gross margins. Yes. When I joined Arm from
-    Nvidia in 2013, I remember'
+  title: '‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town
+    divided over plan to remove its monkeys'
+- article_update_date: 10.09.2026
+  body_text: '| Next | Section menu | Main menu | Previous | Sheon Han Business Dec
+    1, 2025 7:00 AM Ruby Is Not a Serious Programming Language Ruby survives on affection,
+    not utility. Let''s move on. ILLUSTRATION: SAMUEL TOMSON My little theory is that
+    the concept of “imprinting” in psychology can just as easily be applied to programming:
+    Much as a baby goose decides that the first moving life-form it encounters is
+    its parent, embryonic programmers form ineradicable attachments to the patterns
+    and quiddities of their first formative language. Machine Readable A regular column
+    about programming. Because if/when the machines take over, we should at least
+    speak their language. For many people, that language is Ruby. It’s often credited
+    with making programming “click”; imprintees speak of it with a certain indebtedness
+    and affection. I get that. I wrote my first “Hello world” in an awful thing called
+    Java, but programming only began to feel intuitive when I learned JavaScript (I
+    know, I know) and OCaml—both of which fundamentally shaped my tastes. I arrived
+    somewhat late to Ruby. It wasn’t until my fourth job that I found myself on a
+    team that mainly used it. By then, I’d heard enough paeans to its elegance that
+    I was full of anticipation, ready to be charmed, to experience the kind of professional
+    satori its adherents described. My dislike for it was immediate. To arrive at
+    a language late is to see it without the forgiving haze of sentimentality that
+    comes with imprinting—the fond willingness to overlook a flaw as a quirk. What
+    I saw wasn’t a bejeweled tool but a poor little thing that hadn’t quite gotten
+    the news that the world of programming had moved on. Ruby was created in 1995
+    by the Japanese programmer Yukihiro Matsumoto, affectionately called “Matz.” Aside
+    from creating the only major programming language to have originated outside the
+    West, this Osaka-born practicing Mormon is also known for being exceptionally
+    nice, so much so that the Ruby community adopted the motto MINASWAN, for “Matz
+    Is Nice And So We Are Nice.” Befitting this, as well as its pretty name, Ruby
+    is easy on the eyes. Its syntax is simple, free of semicolons or brackets. More
+    so even than Python —a language known for its readability—Ruby reads almost like
+    plain English. Programming languages are generally divided into two camps: statically
+    typed and dynamically typed. A static-type system resembles a set of Legos in
+    which pieces interlock only with others of the right shape and size, making certain
+    mistakes physically impossible. With dynamic typing, you can jam pieces together
+    however you want. While this is theoretically more flexible on a small scale,
+    that freedom backfires when you’re building large structures—certain types of
+    errors are caught only when the program is running. The moment you put weight
+    on your Lego footbridge, in other words, it slumps into a useless heap. Ruby,
+    you might’ve guessed, is dynamically typed. Python and JavaScript are too, but
+    over the years, those communities have developed sophisticated tools to make them
+    behave more responsibly. None of Ruby’s current solutions are on par with those.
+    It’s far too conducive to what programmers call “footguns,” features that make
+    it all too easy to shoot yourself in the foot. Critically, Ruby’s performance
+    profile consistently ranks near the bottom (read: slowest) among major languages.
+    You may remember Twitter’s infamous “fail whale,” the error screen with a whale
+    lifted by birds that appeared whenever the service went down. You could say that
+    Ruby was largely to blame. Twitter’s collapse during the 2010 World Cup served
+    as a wake-up call, and the company resolved to migrate its backend to Scala, a
+    more robust language. The move paid off: By the 2014 World Cup, Twitter handled
+    a record 32 million tweets during the final match without an outage. Its new Scala-based
+    backend could process up to 100 times faster than Ruby. In the 2010s, a wave of
+    companies replaced much of their Ruby infrastructure, and when legacy Ruby code
+    remained, new services were written in higher-performance languages. What’s more,
+    everything Ruby does, another language now does better, leaving it without a distinct
+    niche. For quick scripting and automation, Python, JavaScript, and Perl were strong
+    competitors. Python, though also a slow language, carved out a dominant niche
+    in scientific computing and became the de facto language of AI. JavaScript came
+    to dominate the web. And Perl, well, is dying—which I’m not sorry to see. Ruby
+    now finds itself in an awkward middle ground. You may wonder why people are still
+    using Ruby in 2025. It survives because of its parasitic relationship with Ruby
+    on Rails, the web framework that enabled Ruby’s widespread adoption and continues
+    to anchor its relevance. When Danish developer David Heinemeier Hansson, aka DHH,
+    released Rails in 2004, Ruby ceased to be the province of nice Japanese programmers.
+    DHH is a kind of photographic negative of Matz, a handsome firebrand with equal
+    parts charisma and dogma—so much for MINASWAN—who likes to win public Twitter
+    feuds and race car championships in his spare time. In that prelapsarian era between
+    the rise of Web 2.0 and the Facebook IPO—when Silicon Valley was awash in the
+    jubilation of TechCrunch Disrupt and blissfully unaware of the impending techlash—Rails
+    was the framework of choice for a new generation of startups. The main code bases
+    of Airbnb, GitHub, Twitter, Shopify, and Stripe were built on it. In the early
+    2000s, when building web applications was cumbersome, Rails offered a one-stop
+    shop for developers. Instead of manually wiring together a database, a frontend,
+    and a backend, Rails provided a packaged solution that simply worked. It was one
+    of total integration—like a compact Usonian house by Frank Lloyd Wright where
+    every detail is designed to fit into a single, unified vision. Yet this was also
+    an era that underestimated just how enormous the web would become. Try to remodel
+    the kitchen or add a second story to a Usonian house and the unity becomes a liability.
+    The house, initially designed to host a few well-behaved dinner guests, was now
+    expected to function more like a convention center accommodating millions of unruly
+    visitors. I’m not the only person who’s bearish on Ruby. On Stack Overflow’s annual
+    developer survey, it’s been slipping in popularity for years, going from a top-10
+    technology in 2013 to 18th this year—behind even Assembly . Among newer developers,
+    Python and JavaScript rank much higher. Ruby persists, for now, as a kind of professional
+    comfort object, sustained by the inertia of legacy code bases and the loyalty
+    of those who first imprinted upon it. But nostalgia and a pretty name won’t cut
+    it. This article was downloaded by calibre from https://www.wired.com/story/ruby-is-not-a-serious-programming-language/
+    | Section menu | Main menu |'
   difficulty_constant: 8.5
   question_type: Reading Comprehension
   questions:
   - answer: B
-    explanation: Haas argues that just as Microsoft built the Surface laptop or Google
-      built the Pixel phone to move their respective ecosystems forward, Arm's entry
-      into the chip market is intended to act as a catalyst for the overall Arm-based
-      ecosystem, rather than to abandon their traditional IP licensing business.
+    explanation: 文章第一段提到“imprinting”理论，解释了程序员对第一门接触的语言产生不可磨灭的依恋，结尾也提到Ruby的存续得益于那种“最初印记”的忠诚度，而非实用性。
     options:
-      A: To explain that Arm intends to phase out its licensing business.
-      B: To justify the move as a strategy to benefit the broader ecosystem.
-      C: To argue that Arm is now shifting its focus away from mobile devices.
-      D: To show that Arm is emulating their success in retail consumer electronics.
+      A: Its superior performance and speed compared to other languages.
+      B: The emotional attachment developers form with their first learning language.
+      C: The widespread adoption of its statically typed structure in modern AI.
+      D: The continuous technological updates provided by its creator, Matz.
     q_number: 1
-    stem: According to the article, why does Rene Haas compare Arm's move into chip
-      production to companies like Microsoft and Google?
+    stem: 'According to the author, the persistence of Ruby as a programming language
+      is primarily attributed to:'
   - answer: B
-    explanation: Haas explicitly mentions that the new chip will take market share
-      from Intel and AMD, as it challenges their traditional x86 architecture-dominated
-      data center market, whereas he views his relationship with Nvidia as more synergistic
-      within the Arm ecosystem.
+    explanation: 文章提到 Ruby 是一个“poor little thing that hadn't quite gotten the news
+      that the world of programming had moved on”，意指 Ruby 未能跟上编程界的发展步伐。
     options:
-      A: He believes Intel and AMD will retaliate by blocking Arm's patents.
-      B: He views his own chip as a direct competitor to their market dominance.
-      C: He fears that Intel and AMD will stop using Arm's architecture entirely.
-      D: He is concerned about a legal battle over the x86 architecture.
+      A: It lacks the financial resources to compete with major tech companies.
+      B: It has failed to keep pace with the evolving demands of modern programming.
+      C: It is unnecessarily complicated for beginners to learn and understand.
+      D: It has been unfairly criticized by the global programming community.
     q_number: 2
-    stem: What does Haas imply when he mentions that the Arm AGI CPU might 'piss off'
-      Intel and AMD?
-  - answer: C
-    explanation: The text states that Arm 'morphed from an IP company into a compute
-      platform company,' reflecting a strategic shift to advance the importance of
-      the CPU within its ecosystem by offering both designs and, now, its own hardware.
+    stem: What does the author imply by describing Ruby as a 'poor little thing' in
+      the second paragraph?
+  - answer: B
+    explanation: 作者利用积木比喻解释静态类型与动态类型的区别，指出动态类型（如Ruby）在构建大型结构时容易在运行时崩溃，比喻其“像在积木搭建的人行天桥上负重”。
     options:
-      A: From a hardware manufacturer to an AI software services provider.
-      B: From a failed startup to a massive, diversified conglomerate.
-      C: From an IP licensor to a more comprehensive compute platform company.
-      D: From a mobile-focused firm to an exclusively data-center-driven enterprise.
+      A: To demonstrate that Ruby is just as versatile as static languages.
+      B: To highlight the dangers of building large-scale projects without strict
+        typing.
+      C: To illustrate the aesthetic simplicity of Ruby's syntax compared to Python.
+      D: To argue that all languages should prioritize flexibility over error prevention.
     q_number: 3
-    stem: Which of the following best describes the evolution of Arm's business model
-      as mentioned in the text?
+    stem: Why does the author use the Lego metaphor to discuss programming languages?
   - answer: A
-    explanation: The context suggests that while it was a 'secret,' it was 'loosely
-      held,' implying that it was an 'open secret' or a topic of widespread industry
-      speculation before the official announcement.
+    explanation: 文章指出 Ruby on Rails 在 2004 年发布后，使得 Ruby 不再只是日本程序员的工具，而是被广泛采纳，成为初创公司的首选框架。
     options:
-      A: A widely speculated topic within the technology industry.
-      B: A guarded secret known only to the CEO and the board.
-      C: A rumor that was officially denied by Arm for years.
-      D: A protected intellectual property that nobody in the Valley discussed.
+      A: It transformed Ruby from a niche tool into a widely adopted web framework.
+      B: It was the primary cause of Ruby's decline in performance and scalability.
+      C: It replaced Ruby as the dominant language for high-performance startups.
+      D: It provided a technical solution that fixed Ruby's underlying dynamic typing
+        errors.
     q_number: 4
-    stem: 'The phrase ''loosely held secrets'' (paragraph 7) suggests that the Arm
-      chip project was:'
+    stem: What is the role of Ruby on Rails in the context of Ruby's history?
   - answer: C
-    explanation: Haas describes his leadership style as being shaped by working with
-      founders in Silicon Valley, where he learned to embrace 'taking risks, bold
-      growth, fast markets,' and taking big bets, which he has subsequently implemented
-      at Arm.
+    explanation: 作者不仅在题目中直言 Ruby 不是严肃的编程语言，文中多处指出其性能低下、被淘汰的边缘地位，并称其依赖旧代码惯性存续，展现了强烈的批评和幻灭感。
     options:
-      A: He relies heavily on top-down directives from the Softbank chairman.
-      B: He prefers maintaining a traditional corporate culture over rapid growth.
-      C: He emphasizes taking risks and values the culture established by startup
-        founders.
-      D: He avoids direct involvement in technical product development and strategy.
+      A: Enthusiastic and celebratory.
+      B: Indifferent and detached.
+      C: Critical and disillusioned.
+      D: Ambivalent and apologetic.
     q_number: 5
-    stem: What does the author suggest about Rene Haas’s leadership style?
+    stem: Which of the following best reflects the author's tone toward Ruby?
   source_journal: Wired
-  title: Chapter 4
+  title: Chapter 41

@@ -1,19 +1,20 @@
 articles:
-- article_id: epub_38
+- article_id: epub_92
   journal_name: Economist
-  publish_date: 09.10.2026
-  title: In film and in life, China pursues dragon-restaurant diplomacy
-- article_id: epub_4
+  publish_date: 06.14.2026
+  title: How to share AI riches
+- article_id: epub_41
   journal_name: Wired
-  publish_date: 05.01.2026
-  title: Chapter 4
-- article_id: rss_6_1775070558
-  journal_name: Nature
-  publish_date: 04.01.2026
-  title: Gene regulatory landscape dissected by single-cell four-omics sequencing
-- article_id: rss_7_1781557757
+  publish_date: 10.09.2026
+  title: Chapter 41
+- article_id: rss_2_1790719373
   journal_name: The Guardian
-  publish_date: 06.15.2026
-  title: Argentinian activist who spent 50 years looking for disappeared son dies
+  publish_date: 09.29.2026
+  title: '‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town
+    divided over plan to remove its monkeys'
+- article_id: rss_3_1793666714
+  journal_name: Nature
+  publish_date: 11.03.2026
+  title: What tech entrepreneurs can teach scientists about failure
 generate_date: 11.03.2026
 strategy: common
