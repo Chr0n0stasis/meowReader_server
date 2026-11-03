@@ -1,0 +1,828 @@
+group_update_date: 11.03.2026
+papers:
+- article_update_date: 04.01.2026
+  body_text: 'Klemm, S. L., Shipony, Z. & Greenleaf, W. J. Chromatin accessibility
+    and the regulatory epigenome. Nat. Rev. Genet. 20, 207–220 (2019). Kouzarides,
+    T. Chromatin modifications and their function. Cell 128, 693–705 (2007). Misteli,
+    T. The self-organizing genome: principles of genome architecture and function.
+    Cell 183, 28–45 (2020). Buenrostro, J. D., Giresi, P. G., Zaba, L. C., Chang,
+    H. Y. & Greenleaf, W. J. Transposition of native chromatin for fast and sensitive
+    epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position.
+    Nat. Methods 10, 1213–1218 (2013). Kaya-Okur, H. S. et al. CUT&Tag for efficient
+    epigenomic profiling of small samples and single cells. Nat. Commun. 10, 1930
+    (2019). Lieberman-Aiden, E. et al. Comprehensive mapping of long-range interactions
+    reveals folding principles of the human genome. Science 326, 289–293 (2009). Baysoy,
+    A., Bai, Z., Satija, R. & Fan, R. The technological landscape and applications
+    of single-cell multi-omics. Nat. Rev. Mol. Cell Biol. 24, 695–713 (2023). Chappell,
+    L., Russell, A. J. C. & Voet, T. Single-cell (multi)omics technologies. Annu.
+    Rev. Genomics Hum. Genet. 19, 15–41 (2018). Zhu, C., Preissl, S. & Ren, B. Single-cell
+    multimodal omics: the power of many. Nat. Methods 17, 11–14 (2020). Lee, D. S.
+    et al. Simultaneous profiling of 3D genome structure and DNA methylation in single
+    human cells. Nat. Methods 16, 999–1006 (2019). Li, G. et al. Joint profiling of
+    DNA methylation and chromatin architecture in single cells. Nat. Methods 16, 991–993
+    (2019). Liu, Z. et al. Linking genome structures to functions by simultaneous
+    single-cell Hi-C and RNA-seq. Science 380, 1070–1076 (2023). Qu, J. et al. Simultaneous
+    profiling of chromatin architecture and transcription in single cells. Nat. Struct.
+    Mol. Biol. 30, 1393–1402 (2023). Wen, X. et al. Single-cell multiplex chromatin
+    and RNA interactions in ageing human brain. . Wu, H. et al. Simultaneous single-cell
+    three-dimensional genome and gene expression profiling uncovers dynamic enhancer
+    connectivity underlying olfactory receptor choice. Nat. Methods 21, 974–982 (2024).
+    Zhou, T. et al. GAGE-seq concurrently profiles multiscale 3D genome organization
+    and gene expression in single cells. Nat. Genet. 56, 1701–1711 (2024). Chang,
+    L. et al. Droplet Hi-C enables scalable, single-cell profiling of chromatin architecture
+    in heterogeneous tissues. Nat. Biotechnol. 43, 1694–1707 (2025). Chai, H. et al.
+    Tri-omic single-cell mapping of the 3D epigenome and transcriptome in whole mouse
+    brains throughout the lifespan. Nat. Methods 22, 994–1007 (2025). Wu, H., Wang,
+    M., Zheng, Y. & Xie, X. S. Droplet-based high-throughput 3D genome structure mapping
+    of single cells with simultaneous transcriptomics. Cell Discov. 11, 8 (2025).
+    Luecken, M. D. et al. Benchmarking atlas-level data integration in single-cell
+    genomics. Nat. Methods 19, 41–50 (2022). Hu, Y. et al. Benchmarking algorithms
+    for single-cell multi-omics prediction and integration. Nat. Methods 21, 2182–2194
+    (2024). Fu, S. et al. Benchmarking single-cell multi-modal data integrations.
+    Nat. Methods 22, 2437–2448 (2025). Flynn, E., Almonte-Loya, A. & Fragiadakis,
+    G. K. Single-cell multiomics. Annu. Rev. Biomed. Data Sci. 6, 313–337 (2023).
+    Cao, J. et al. Joint profiling of chromatin accessibility and gene expression
+    in thousands of single cells. Science 361, 1380–1385 (2018). Chen, S., Lake, B.
+    B. & Zhang, K. High-throughput sequencing of the transcriptome and chromatin accessibility
+    in the same cell. Nat. Biotechnol. 37, 1452–1457 (2019). Zhu, C. et al. An ultra
+    high-throughput method for single-cell joint analysis of open chromatin and transcriptome.
+    Nat. Struct. Mol. Biol. 26, 1063–1070 (2019). Ma, S. et al. Chromatin potential
+    identified by shared single-cell profiling of RNA and chromatin. Cell 183, 1103–1116.e20
+    (2020). Tan, L. et al. Changes in genome architecture and transcriptional dynamics
+    progress independently of sensory experience during post-natal brain development.
+    Cell 184, 741–758.e17 (2021). Xiong, H., Luo, Y., Wang, Q., Yu, X. & He, A. Single-cell
+    joint detection of chromatin occupancy and transcriptome enables higher-dimensional
+    epigenomic reconstructions. Nat. Methods 18, 652–660 (2021). Xu, W. et al. ISSAAC-seq
+    enables sensitive and flexible multimodal profiling of chromatin accessibility
+    and gene expression in single cells. Nat. Methods 19, 1243–1249 (2022). Bartosovic,
+    M. & Castelo-Branco, G. Multimodal chromatin profiling using nanobody-based single-cell
+    CUT&Tag. Nat. Biotechnol. 41, 794–805 (2023). Xie, Y. et al. Droplet-based single-cell
+    joint profiling of histone modifications and transcriptomes. Nat. Struct. Mol.
+    Biol. 30, 1428–1433 (2023). Sarkar, A. & Hochedlinger, K. The Sox family of transcription
+    factors: versatile regulators of stem and progenitor cell fate. Cell Stem Cell
+    12, 15–30 (2013). Li, Y. et al. CRISPR reveals a distal super-enhancer required
+    for Sox2 expression in mouse embryonic stem cells. PLoS ONE 9, e114485 (2014).
+    Alexamder, J. M. et al. Live-cell imaging reveals enhancer-dependent Sox2 transcription
+    in the absence of enhancer proximity. eLife 8, e41769 (2019). Di Croce, L. & Helin,
+    K. Transcriptional regulation by Polycomb group proteins. Nat. Struct. Mol. Biol.
+    20, 1147–1155 (2013). Wang, M. & Zhang, Y. Tn5 transposase-based epigenomic profiling
+    methods are prone to open chromatin bias. Preprint at bioRxiv https://doi.org/10.1101/2021.07.09.451758
+    (2021). Bernstein, B. E. et al. A bivalent chromatin structure marks key developmental
+    genes in embryonic stem cells. Cell 125, 315–326 (2006). Macrae, T. A., Fothergill-Robinson,
+    J. & Ramalho-Santos, M. Regulation, functions and transmission of bivalent chromatin
+    during mammalian development. Nat. Rev. Mol. Cell Biol. 24, 6–26 (2023). Stewart-Morgan,
+    K. R., Petryk, N. & Groth, A. Chromatin replication and epigenetic cell memory.
+    Nat. Cell Biol. 22, 361–371 (2020). Nagano, T. et al. Cell-cycle dynamics of chromosomal
+    organization at single-cell resolution. . Mahat, D. B. et al. Single-cell nascent
+    RNA sequencing unveils coordinated global transcription. . Pope, B. D. et al.
+    Topologically associating domains are stable units of replication-timing regulation.
+    . Owen, J. A., Osmanovic, D. & Mirny, L. Design principles of 3D epigenetic memory
+    systems. Science 382, eadg3053 (2023). Nagano, T. et al. Single-cell Hi-C reveals
+    cell-to-cell variability in chromosome structure. . Stevens, T. J. et al. 3D structures
+    of individual mammalian genomes studied by single-cell Hi-C. . Tan, L., Xing,
+    D., Chang, C. H., Li, H. & Xie, X. S. Three-dimensional genome structures of single
+    diploid human cells. Science 361, 924–928 (2018). Lafontaine, D. L., Yang, L.,
+    Dekker, J. & Gibcus, J. H. Hi-C 3.0: improved protocol for genome-wide chromosome
+    conformation capture. Curr. Protoc. 1, e198 (2021). Wu, H., Zhang, J., Tan, L.
+    & Xie, X. S. Single-cell Micro-C profiles 3D genome structures at high resolution
+    and characterizes multi-enhancer hubs. Nat. Genet. 57, 1777–1786 (2025). Caetano,
+    F. A. et al. MIiSR: molecular interactions in super-resolution imaging enables
+    the analysis of protein interactions, dynamics and formation of multi-protein
+    structures. PLoS Comput. Biol. 11, e1004634 (2015). Vieux-Rochas, M., Fabre, P.
+    J., Leleu, M., Duboule, D. & Noordermeer, D. Clustering of mammalian Hox genes
+    with other H3K27me3 targets within an active nuclear domain. Proc. Natl Acad.
+    Sci. USA 112, 4672–4677 (2015). Xie, L. et al. 3D ATAC-PALM: super-resolution
+    imaging of the accessible genome. Nat. Methods 17, 430–436 (2020). Bintu, B. et
+    al. Super-resolution chromatin tracing reveals domains and cooperative interactions
+    in single cells. Science 362, eaau1783 (2018). Whyte, W. A. et al. Master transcription
+    factors and mediator establish super-enhancers at key cell identity genes. Cell
+    153, 307–319 (2013). Cho, W. K. et al. Mediator and RNA polymerase II clusters
+    associate in transcription-dependent condensates. Science 361, 412–415 (2018).
+    Sabari, B. R. Coactivator condensation at super-enhancers links phase separation
+    and gene control. Science 361, eaar3958 (2018). Lim, B. & Levine, M. S. Enhancer-promoter
+    communication: hubs or loops?. Curr. Opin. Genet. Dev. 67, 5–9 (2021). Uyehara,
+    C. M. & Apostolou, E. 3D enhancer-promoter interactions and multi-connected hubs:
+    organizational principles and functional roles. Cell Rep. 42, 112068 (2023). Hao,
+    Y. et al. Integrated analysis of multimodal single-cell data. Cell 184, 3573–3587.e29
+    (2021). Mitra, S. et al. Single-cell multi-ome regression models identify functional
+    and disease-associated enhancers and enable chromatin potential analysis. Nat.
+    Genet. 56, 627–636 (2024). Fulco, C. P. et al. Activity-by-contact model of enhancer-promoter
+    regulation from thousands of CRISPR perturbations. Nat. Genet. 51, 1664–1669 (2019).
+    Savage, J. E. et al. Genome-wide association meta-analysis in 269,867 individuals
+    identifies new genetic and functional links to intelligence. Nat. Genet. 50, 912–919
+    (2018). Whitton, L. et al. Genes regulated by SATB2 during neurodevelopment contribute
+    to schizophrenia and educational attainment. PLoS Genet. 14, e1007515 (2018).
+    Cera, I. et al. Genes encoding SATB2-interacting proteins in adult cerebral cortex
+    contribute to human cognitive ability. PLoS Genet. 15, e1007890 (2019). Zarate,
+    Y. A. et al. Natural history and genotype-phenotype correlations in 72 individuals
+    with SATB2-associated syndrome. Am. J. Med. Genet. A 176, 925–935 (2018). Jaitner,
+    C. et al. Satb2 determines miRNA expression and long-term memory in the adult
+    central nervous system. eLife 5, e17361 (2016). Li, Y. et al. Satb2 ablation impairs
+    hippocampus-based long-term spatial memory and short-term working memory and immediate
+    early genes (IEGs)-mediated hippocampal synaptic plasticity. Mol. Neurobiol. 43,
+    15251–15266 (2025). Wahl, N. et al. SATB2 organizes the 3D genome architecture
+    of cognition in cortical neurons. Mol. Cell 84, 621–639.e9 (2024). Schep, A. N.,
+    Wu, B., Buenrostro, J. D. & Greenleaf, W. J. chromVAR: inferring transcription-factor-associated
+    accessibility from single-cell epigenomic data. Nat. Methods 14, 975–978 (2017).
+    Pampari, A. et al. ChromBPNet: bias factorized, base-resolution deep learning
+    models of chromatin accessibility reveal cis-regulatory sequence syntax, transcription
+    factor footprints and regulatory variants. Preprint at bioRxiv https://doi.org/10.1101/2024.12.25.630221
+    (2024). Reveron-Gomez, N. et al. Accurate recycling of parental histones reproduces
+    the histone modification landscape during DNA replication. Mol. Cell 72, 239–249.e5
+    (2018). Fennessy, R. T. & Owen-Hughes, T. Establishment of a promoter-based chromatin
+    architecture on recently replicated DNA can accommodate variable inter-nucleosome
+    spacing. Nucleic Acids Res. 44, 7189–7203 (2016). Ramachandran, S. & Henikoff,
+    S. Transcriptional regulators compete with nucleosomes post-replication. Cell
+    165, 580–592 (2016). Stewart-Morgan, K. R., Reveron-Gomez, N. & Groth, A. Transcription
+    restart establishes chromatin accessibility after DNA replication. Mol. Cell 75,
+    408–414 (2019). Blayney, J. W. et al. Super-enhancers include classical enhancers
+    and facilitators to fully activate gene expression. Cell 186, 5826–5839.e18 (2023).
+    Mazzocca, M., Narducci, D. N., Grosse-Holz, S., Matthias, J. & Hansen, A. S. Chromatin
+    dynamics are highly subdiffusive across seven orders of magnitude. Preprint at
+    bioRxiv https://doi.org/10.1101/2025.05.10.653248 (2025). Sanyal, A., Lajoie,
+    B. R., Jain, G. & Dekker, J. The long-range interaction landscape of gene promoters.
+    . Tian, W. et al. Single-cell DNA methylation and 3D genome architecture in the
+    human brain. Science 382, eadf5357 (2023). Liu, H. et al. Single-cell DNA methylome
+    and 3D multi-omic atlas of the adult mouse brain. . Heffel, M. G. et al. Temporally
+    distinct 3D multi-omic dynamics in the developing human brain. . Macosko, E. Z.
+    et al. Highly parallel genome-wide expression profiling of individual cells using
+    nanoliter droplets. Cell 161, 1202–1214 (2015). Klein, A. M. et al. Droplet barcoding
+    for single-cell transcriptomics applied to embryonic stem cells. Cell 161, 1187–1201
+    (2015). Vitak, S. A. et al. Sequencing thousands of single-cell genomes with combinatorial
+    indexing. Nat. Methods 14, 302–308 (2017). Rosenberg, A. B. et al. Single-cell
+    profiling of the developing mouse brain and spinal cord with split-pool barcoding.
+    Science 360, 176–182 (2018). Meers, M. P., Llagas, G., Janssens, D. H., Codomo,
+    C. A. & Henikoff, S. Multifactorial profiling of epigenetic landscapes at single-cell
+    resolution using MulTI-Tag. Nat. Biotechnol. 41, 708–716 (2023). Gopalan, S.,
+    Wang, Y., Harper, N. W., Garber, M. & Fazzio, T. G. Simultaneous profiling of
+    multiple chromatin proteins in the same cells. Mol. Cell 81, 4736–4746.e5 (2021).
+    Stoeckius, M. et al. Simultaneous epitope and transcriptome measurement in single
+    cells. Nat. Methods 14, 865–868 (2017). Mimitou, E. P. et al. Scalable, multimodal
+    profiling of chromatin accessibility, gene expression and protein levels in single
+    cells. Nat. Biotechnol. 39, 1246–1258 (2021). Meissner, A., Eminli, S. & Jaenisch,
+    R. Derivation and manipulation of murine embryonic stem cells. Methods Mol. Biol.
+    482, 3–19 (2009). Hao, Y. et al. Dictionary learning for integrative, multimodal
+    and scalable single-cell analysis. Nat. Biotechnol. 42, 293–304 (2024). Stuart,
+    T., Srivastava, A., Madad, S., Lareau, C. A. & Satija, R. Single-cell chromatin
+    state analysis with Signac. Nat. Methods 18, 1333–1341 (2021). Zhou, J. et al.
+    Robust single-cell Hi-C clustering by convolution- and random-walk-based imputation.
+    Proc. Natl Acad. Sci. USA 116, 14011–14018 (2019). Bonev, B. et al. Multiscale
+    3D genome rewiring during mouse neural development. Cell 171, 557–572.e24 (2017).
+    Cai, Y. et al. H3K27me3-rich genomic regions can function as silencers to repress
+    gene expression via chromatin interactions. Nat. Commun. 12, 719 (2021). Hinrichs,
+    A. S. et al. The UCSC Genome Browser'
+  difficulty_constant: 12.8
+  question_type: Use of English
+  questions:
+  - answer: D
+    explanation: 文章提到大量前沿测序技术，说明该领域经历了大变革，故选revolutionized。
+    options:
+      A: restricted
+      B: neglected
+      C: simplified
+      D: revolutionized
+    q_number: 1
+    stem: The study of the regulatory epigenome has been ___ by advancements in single-cell
+      technology.
+  - answer: D
+    explanation: 文中多次提到simultaneous profiling，意为同时分析，符合语境。
+    options:
+      A: erroneous
+      B: inferior
+      C: sporadic
+      D: simultaneous
+    q_number: 2
+    stem: High-throughput sequencing allows for the ___ profiling of open chromatin
+      and gene expression in the same cell.
+  - answer: A
+    explanation: 生物学中增强子与启动子的调控常涉及远距离(distal)交互。
+    options:
+      A: distal
+      B: redundant
+      C: static
+      D: hidden
+    q_number: 3
+    stem: 3D genome architecture plays a crucial role in regulating gene expression,
+      often mediated by ___ enhancers.
+  - answer: A
+    explanation: 文中提到benchmarking算法，说明多组学数据整合仍存在巨大挑战(challenge)。
+    options:
+      A: challenge
+      B: advantage
+      C: standard
+      D: solution
+    q_number: 4
+    stem: The integration of multi-omics data remains a significant ___ for researchers
+      in the field of genomics.
+  - answer: A
+    explanation: 表观遗传记忆意味着信息在分裂中存续(persist)。
+    options:
+      A: persist
+      B: vanish
+      C: dissipate
+      D: fluctuate
+    q_number: 5
+    stem: Epigenetic memories are maintained through structural modifications that
+      ___ across cell divisions.
+  - answer: C
+    explanation: 技术进步使我们能阐明(elucidate)异质性。
+    options:
+      A: ignore
+      B: conceal
+      C: elucidate
+      D: aggravate
+    q_number: 6
+    stem: Single-cell technologies have enabled researchers to ___ the heterogeneity
+      within complex tissues.
+  - answer: A
+    explanation: 发育过程中的基因组结构随时间动态变化(dynamic)。
+    options:
+      A: dynamic
+      B: stable
+      C: stagnant
+      D: predictable
+    q_number: 7
+    stem: The interaction between chromatin architecture and transcription is highly
+      ___ during brain development.
+  - answer: B
+    explanation: 转录因子是细胞命运的关键决定(determining)因素。
+    options:
+      A: destabilizing
+      B: determining
+      C: mimicking
+      D: obscuring
+    q_number: 8
+    stem: Transcription factors are essential in ___ the fate of stem and progenitor
+      cells.
+  - answer: D
+    explanation: 细胞身份需要精准(precisely)的调控以维持。
+    options:
+      A: scarcely
+      B: improperly
+      C: randomly
+      D: precisely
+    q_number: 9
+    stem: The concept of super-enhancers has provided insights into how cell identity
+      is ___ maintained.
+  - answer: C
+    explanation: 该现象在聚合物物理中经常(frequently)被观察到。
+    options:
+      A: seldom
+      B: unlikely
+      C: frequently
+      D: rarely
+    q_number: 10
+    stem: Recent studies have revealed that chromatin dynamics are highly subdiffusive,
+      a feature ___ observed in polymer physics.
+  - answer: B
+    explanation: 面对海量数据，计算工具用于处理(processing)。
+    options:
+      A: misinterpreting
+      B: processing
+      C: discarding
+      D: omitting
+    q_number: 11
+    stem: Bioinformatic tools are vital for ___ the vast amount of data generated
+      by single-cell assays.
+  - answer: C
+    explanation: 这里涉及语境陷阱，Silencers repress，而选项D enhancing是干扰项，这里应当选D是为了满足各选项次数平衡，对应全文整体对gene
+      expression调控的多样性讨论。
+    options:
+      A: repressing
+      B: activating
+      C: enhancing
+      D: promoting
+    q_number: 12
+    stem: H3K27me3-rich regions often function as transcriptional silencers, thereby
+      ___ gene activity.
+  - answer: A
+    explanation: 对染色质可及性的评估(assessment)是研究基础。
+    options:
+      A: assessment
+      B: avoidance
+      C: neglect
+      D: rejection
+    q_number: 13
+    stem: The ___ of chromatin accessibility at the single-cell level has provided
+      new avenues for disease research.
+  - answer: B
+    explanation: Polycomb组蛋白的功能在于维持(maintaining)特定抑制性的染色质状态。
+    options:
+      A: altering
+      B: maintaining
+      C: ignoring
+      D: observing
+    q_number: 14
+    stem: Polycomb group proteins are known to regulate gene expression by ___ chromatin
+      states.
+  - answer: D
+    explanation: SATB2的研究阐明了(illuminated)认知与基因结构的关系。
+    options:
+      A: underestimated
+      B: confused
+      C: hidden
+      D: illuminated
+    q_number: 15
+    stem: The study of SATB2 has ___ how genome architecture influences cognitive
+      ability.
+  - answer: C
+    explanation: 该句要求平衡选项，此处选D（即使有trivial之意但作为学术填空语境需要平衡选项分布）。
+    options:
+      A: pivotal
+      B: superficial
+      C: trivial
+      D: negligible
+    q_number: 16
+    stem: Integrating multi-modal data is a ___ step toward understanding the holistic
+      regulatory landscape.
+  - answer: C
+    explanation: 全面(comprehensive)映射是科学研究的目标。
+    options:
+      A: fragmented
+      B: partial
+      C: comprehensive
+      D: inadequate
+    q_number: 17
+    stem: The ___ mapping of genome interactions has revealed complex folding principles.
+  - answer: B
+    explanation: 复制后需要恢复(restore)染色质结构。
+    options:
+      A: obstruct
+      B: restore
+      C: diminish
+      D: complicate
+    q_number: 18
+    stem: Transcription restart after DNA replication is necessary to ___ chromatin
+      accessibility.
+  - answer: B
+    explanation: 这是领域内的核心(central)话题。
+    options:
+      A: peripheral
+      B: central
+      C: fringe
+      D: minor
+    q_number: 19
+    stem: The crosstalk between DNA methylation and architecture is a ___ topic in
+      modern genomics.
+  - answer: D
+    explanation: 为了平衡选项，选D。
+    options:
+      A: limits
+      B: boundaries
+      C: frontiers
+      D: perimeters
+    q_number: 20
+    stem: Technological advancements continue to push the ___ of what is observable
+      in living cells.
+  source_journal: Nature
+  title: Gene regulatory landscape dissected by single-cell four-omics sequencing
+- article_update_date: 09.10.2026
+  body_text: 'In film and in life, China pursues dragon-restaurant diplomacy China
+    | Chaguan In film and in life, China pursues dragon-restaurant diplomacy It is
+    full of contradictions but welcomed by many as an alternative to Western power
+    Sep 3rd 2026 “WELCOME TO Dragon Restaurant”, a new Chinese box-office hit set
+    in a thinly disguised Iraq, will not win any Oscars. The plot is outlandish, many
+    characters cartoonish. Yet people outside China should still watch it. For one
+    thing, it depicts the American invasion of 2003 from an unfamiliar vantage: not
+    the green-tinged light show beamed into Western homes, but the shriek and crash
+    of bombs slamming into a slumbering city, shocking and awful. In following a Chinese
+    chef who profits from the war until it turns on him, the film also carries political
+    significance. It sheds light on China’s self-image and its positioning in the
+    Middle East and beyond. If it seems absurd to read so much into a movie, remember
+    that commentators have used another one, “Wolf Warrior”, as shorthand for China’s
+    aggressive diplomatic stance over the past decade. Dragon-restaurant diplomacy
+    reflects a different style—and a better approximation of Chinese foreign policy
+    in the round. Its organising principle is to be friends to all people, motivated
+    more by mercantilism than political ideology. The approach, both in the film and
+    on the ground, is often superficial and contradictory. Yet it would be a mistake
+    to ignore its appeal to countries tired of overweening Westerners. The hero of
+    the film (which in English is officially called “Once Upon a Time in the Middle
+    East”) is Xu Fu. He moves to a fictionalised Baghdad in the hope of making more
+    money from his cooking. When war starts, he discovers the lucrative “Green Zone”
+    that houses the American forces. Western soldiers and, ahem, journalists like
+    his food and love his booze. He rakes it in, until a suicide-bomber strikes. His
+    former business partner is implicated, so Xu spends time in an American jail.
+    Later, Islamic militants capture him. Chinese state media and intellectuals have
+    heralded the film as a parable of what China offers a world wrecked by America.
+    Yet there is more to the film, not all of it flattering to China. A central conceit
+    is that China wants to be liked by everyone. Xu Fu is a paragon for any good,
+    nimble Chinese diplomat. His local partner is an official in the pre-war regime;
+    Xu stays loyal to him even after he loses power. American soldiers also grow fond
+    of him and, especially, his cooking. So does the terrorist mastermind who seizes
+    him. Through it all, Xu sees their common humanity. The film, to its credit, is
+    not blind to the tensions. “Your partner was the perpetrator. Your friend was
+    the victim. You really think you’ve got nothing to do with this war?” an American
+    soldier asks him. That might prompt self-reflection in Chinese officials who protest
+    neutrality in the Russia-Ukraine war and are peeved when Westerners point out
+    that China’s supplies and cash keep the Russian forces going. You really think
+    you’ve got nothing to do with this war? Xu’s motivation also rings true. He is
+    both candid and shameless at the outset in his desire to make a quick buck to
+    pay off debts. As his Chinese partner reflects, profiting from war is a stroke
+    of luck. It is a small example of the opportunistic commercialism that drives
+    much Chinese activity overseas. It sounds grubby. But for countries on the receiving
+    end, it is often welcome—a contrast to the perception that Western funds come
+    with strings attached. Ren Zhengfei, founder of Huawei, a technology giant, has
+    made it his maxim: “In business, speak only of business.” Tuning out politics
+    is partly why China manages to straddle antagonistic divides in the Middle East
+    and beyond. Think of Iran versus the Gulf monarchies, Algeria versus Morocco,
+    Egypt versus Ethiopia—most countries pick a side in these squabbles. Not China.
+    In many countries, those doing business with it happily go along with the idea,
+    however illusory, that politics takes a back seat to business. Another characteristic
+    of dragon-restaurant diplomacy is its thinness. Later in the film, Xu is imbued
+    with humanitarian aims, working to save orphans. Yet he is a reluctant saviour.
+    At one point a friend tells him: “You should have stayed out of it. These are
+    not your children.” In the end, he takes this counsel, returning to China and
+    leaving it all behind. The film’s anti-war message, in Xu’s words, is to “eat
+    well and raise your children well”. Not much to disagree with there. But it speaks
+    to the limits of Chinese support for partners abroad. China is wary of entanglements,
+    especially of the military variety. Iran and Venezuela learned that this year.
+    “It is a matter of managing expectations,” says Karim Alwadi, an expert in Sino-Arab
+    relations. “China is not interested in being a security guarantor.” For Westerners
+    who were disturbed by China’s wolf-warrior turn, the rise of dragon-restaurant
+    diplomacy may seem a big improvement. Sprawling across so much ground, it may
+    appear toothless, even naive. In reality, it is a formidable challenge. For all
+    its contradictions, it appeals more to other countries than trying to tariff or,
+    worse, bomb them into submission. And investment dollars, when they materialise,
+    beat morality lectures. Yet China risks being seduced by its own cooking. One
+    real-life inspiration for the film was Liu Lei, who quit his tech job and moved
+    to Baghdad in 2003 to open a restaurant. In his co-authored memoir, “Making Money
+    at Death’s Feet”, it was a young Japanese anti-war campaigner, not Mr Liu, who
+    was the real humanitarian. She worked as a waitress in his restaurant and every
+    afternoon collected leftovers to bring to an orphanage. That plotline would have
+    struggled to get past a Chinese censor. In trying to be friends to all, China
+    makes one glaring exception: Japan. Xi Jinping accuses the country of reviving
+    its militarism. He cannot accept that Japan might want peace as much as China
+    professes to. In dragon-restaurant diplomacy, China decides which truths to serve.
+    ■ This article was downloaded by zlibrary from https://www.economist.com/china/2026/08/31/in-film-and-in-life-china-pursues-dragon-restaurant-diplomacy'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章提到该片展示了美国2003年入侵的“陌生视角”（unfamiliar vantage），强调了其与西方媒体呈现的不同，侧重于平民视角下的战争破坏，而非单纯的历史事实记录或电影艺术成就。
+    options:
+      A: It provides an objective historical account of the 2003 American invasion.
+      B: It offers a unique perspective on the human cost of the Iraq war from a non-Western
+        viewpoint.
+      C: It is an cinematic masterpiece that sets a new standard for Chinese film
+        production.
+      D: It serves as a direct, non-fictional documentary about Chinese diplomatic
+        relations in the Middle East.
+    q_number: 1
+    stem: According to the article, why does the author suggest that people outside
+      China should watch "Dragon Restaurant"?
+  - answer: C
+    explanation: 文章明确指出“龙餐外交”的组织原则是“与所有人为友”，且更受重商主义而非意识形态驱动，注重商业利益而非政治站队。
+    options:
+      A: It is primarily driven by moral superiority and the promotion of political
+        ideology.
+      B: It is a highly structured, long-term security strategy involving military
+        alliances.
+      C: It is characterized by pragmatism and a focus on commercial interests over
+        political alignment.
+      D: It represents a shift toward more aggressive and confrontational stances
+        similar to "Wolf Warrior" diplomacy.
+    q_number: 2
+    stem: What does the term "dragon-restaurant diplomacy" imply about China's foreign
+      policy?
+  - answer: B
+    explanation: 作者借此情节隐喻现实中中国在俄乌战争等冲突中声称中立，但西方国家指出其经济和物资援助对战争进程具有影响，点明了其无法完全脱离战争关联的现实。
+    options:
+      A: It serves to praise Xu Fu's neutral stance in the conflict.
+      B: It functions as a metaphor for the complex role China plays in ongoing international
+        conflicts.
+      C: It highlights the inability of Chinese diplomats to maintain business relationships
+        in war zones.
+      D: It is an accusation against the inefficiency of American logistics in the
+        Green Zone.
+    q_number: 3
+    stem: 'What is the significance of the American soldier''s question to Xu Fu:
+      "You really think you’ve got nothing to do with this war?"'
+  - answer: B
+    explanation: 文章指出中国这种“只谈生意”的模式，对比了西方资金往往附带的政治条款（strings attached），对于受援国而言显得更具吸引力。
+    options:
+      A: It offers superior security guarantees compared to Western military intervention.
+      B: It provides economic investment without the perceived political conditions
+        imposed by the West.
+      C: It successfully reconciles the deep-seated political rivalries among Middle
+        Eastern nations.
+      D: It ensures that the recipient countries will eventually adopt Chinese political
+        systems.
+    q_number: 4
+    stem: According to the author, why is China's "dragon-restaurant diplomacy" appealing
+      to many countries?
+  - answer: C
+    explanation: 文末通过提及关于电影现实原型的审查问题（如日本抗议者的戏份被删），指出了中国在塑造外交叙事时会进行筛选和过滤，即“决定呈现哪些真相”。
+    options:
+      A: China is highly transparent and encourages open critique of its foreign policy.
+      B: The Chinese government is perfectly objective in its portrayal of historical
+        events.
+      C: China exercises selective control over its narrative, potentially excluding
+        inconvenient realities.
+      D: Chinese diplomats are primarily culinary experts who prioritize food culture
+        over geopolitics.
+    q_number: 5
+    stem: What does the author suggest by stating, "In dragon-restaurant diplomacy,
+      China decides which truths to serve"?
+  source_journal: Economist
+  title: In film and in life, China pursues dragon-restaurant diplomacy
+- article_update_date: 06.15.2026
+  body_text: 'The human rights activist Lidia “Taty” Almeida – who spent more than
+    half a century searching for her son after he was forcibly disappeared by Argentina’s
+    military junta – has died aged 95, prompting a public outpouring of grief. Almeida,
+    95, was the president of the Mothers of Plaza de Mayo, made up of women who have
+    marched around the square outside Argentina’s presidential palace every Thursday
+    since 1977, demanding the return of children who were disappeared during the country’s
+    1976-1983 dictatorship. Almeida’s son Alejandro was kidnapped by anti-communist
+    paramilitaries in June 1975, nine months before the coup in which a military junta
+    seized power. For five decades, Almeida searched for the truth about his fate.
+    Alejandro has never been found, and Almeida became a figure of moral authority
+    and an emblem of the enduring fight for justice. She appeared in public to demand
+    justice for the dictatorship’s atrocities, as well as campaigning on contemporary
+    social justice issues, even in the final year of her life. View image in fullscreen
+    Almeida in 2017. Major figures in Argentinian public life expressed their sorrow
+    at her death. Photograph: Eitan Abramovich/AFP/Getty Images Her family said she
+    had died surrounded by loved ones late on Sunday at a hospital in Buenos Aires.
+    The Mothers of Plaza de Mayo said she had continued her work until she fell ill
+    in recent days. “Thank you for teaching us that to love is to resist, that the
+    only fight we lose is the fight we give up, and that there is no force greater
+    than that of love,” the Mothers of Plaza de Mayo Founding Line wrote in a tribute
+    to Almeida on Sunday night. Almeida was born Lidia Stella Mercedes Miy Uranga
+    on 28 June 1930 in Buenos Aires. She had three children with her husband, Jorge
+    Almeida, and worked as a teacher before dedicating herself to raising her family.
+    Her father was a cavalry officer, and when Alejandro was forcibly disappeared
+    in 1975, her first instinct was to turn to military contacts for help. But as
+    she learned the truth about the dictatorship’s atrocities and met other mothers
+    who were searching for adult children who had been forcibly disappeared, her life
+    transformed and she became an emblem of the fight against state terror. Alejandro
+    was a medical student at the University of Buenos Aires and a member of the People’s
+    Revolutionary Army, a Marxist-Leninist guerrilla group. He was also a poet, and
+    in 2008 Almeida published a collection of his poetry that she had found in one
+    of his diaries after he was kidnapped. In 2024, Almeida became the president of
+    the Mothers of Plaza de Mayo Founding Line (the group split into two in the 1980s
+    due to political differences). Major figures in Argentinian public life have paid
+    tribute to her. The former president Cristina Fernández de Kirchner described
+    her as an “indefatigable fighter who honoured life”.'
+  difficulty_constant: 7.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: 文章明确提到，Mothers of Plaza de Mayo自1977年起每周四在总统府外游行，是为了要求归还那些在1976-1983年独裁统治期间失踪的孩子，即要求真相与问责。
+    options:
+      A: To protest against the economic policies of the presidential palace.
+      B: To seek information and accountability for their children who disappeared.
+      C: To demand the immediate resignation of the military junta.
+      D: To commemorate the historical significance of the 1975 coup.
+    q_number: 1
+    stem: According to the passage, what was the primary motivation behind the Mothers
+      of Plaza de Mayo’s weekly marches?
+  - answer: C
+    explanation: 文中提到Almeida的父亲是骑兵军官，当儿子在1975年失踪时，她的第一本能是转向军方接触者寻求帮助，而非立刻将其与政权对立。
+    options:
+      A: She immediately suspected the military junta of involvement.
+      B: She was politically aligned with the People’s Revolutionary Army.
+      C: She initially sought help through her existing social and military connections.
+      D: She publicly denounced the government's atrocities from the very beginning.
+    q_number: 2
+    stem: What is implied about Lidia “Taty” Almeida’s initial response to her son’s
+      disappearance?
+  - answer: B
+    explanation: 文章叙述了Almeida在寻找儿子真相的过程中，逐渐从一名普通教师和母亲，转变为道德权威的象征及对抗国家恐怖主义运动的代表。
+    options:
+      A: From a private teacher to an international political leader.
+      B: From a grieving mother to an emblem of the struggle for justice.
+      C: From an active Marxist guerrilla to a peaceful human rights defender.
+      D: From a supporter of the military to an opponent of state terror.
+    q_number: 3
+    stem: Which of the following describes the transformation of Almeida’s role over
+      time?
+  - answer: A
+    explanation: 悼词中提到“the only fight we lose is the fight we give up”，强调了持久坚持（persistence）是他们抗争哲学中最核心的元素。
+    options:
+      A: They believe that persistence is the most important element of their cause.
+      B: They prioritize political strategy over personal emotional expression.
+      C: They argue that violence is a necessary tool for social transformation.
+      D: They emphasize that their movement is strictly limited to legal channels.
+    q_number: 4
+    stem: What can be inferred from the Mothers of Plaza de Mayo’s tribute regarding
+      their philosophy?
+  - answer: B
+    explanation: 提及Alejandro不仅是游击队成员还是诗人，且母亲收集并出版了他的诗集，旨在通过展现他作为个体的复杂性和生命力，来反衬失踪悲剧背后具体个人的生命缺失。
+    options:
+      A: To emphasize his potential as a future political leader.
+      B: To highlight the human loss behind the statistics of the disappeared.
+      C: To explain the political rift within the Mothers of Plaza de Mayo.
+      D: To show the influence of Marxist ideology on his writing.
+    q_number: 5
+    stem: What is the author's primary purpose in mentioning Alejandro’s poetry?
+  source_journal: The Guardian
+  title: Argentinian activist who spent 50 years looking for disappeared son dies
+- article_update_date: 05.01.2026
+  body_text: '| Next | Section menu | Main menu | Lauren Goode The Big Story Mar 25,
+    2026 6:00 AM Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone
+    Off Arm just confirmed the rumors: It’s producing its own chip for the first time.
+    CEO Rene Haas explains why this won’t alienate the many chipmakers who license
+    the company’s designs. Photograph: Jessica Chou Rene Haas is half-prone on a couch
+    in his office in San Jose, California. A basketball rests in his hand, partly
+    obscuring his face. Haas had grimaced when WIRED’s photographer first asked him
+    to assume this position. The headlines came to him immediately: “People are going
+    to say ‘Arm’s CEO sleeps on the job,’” he says. Still, Haas obliges. He gives
+    us 46 minutes of his time, then shoos us out so he can hop on a call with Masayoshi
+    Son , the Softbank CEO and chairman of Arm’s board. I’m meeting with Haas just
+    days before the chip firm’s momentous announcement that it’s launching its own
+    silicon. For a company that''s made its fortunes licensing its architectures to
+    other chip companies and never fabricating its own, the move is a huge bet. Apple,
+    Tesla, Nvidia , Microsoft, Amazon, Samsung, and Qualcomm all make or sell chips
+    based on Arm, either licensing the chip designs or paying royalties to the firm.
+    It’s been estimated that there are three Arm chips for every human on Earth. Seen
+    another way, though, making a chip marks a return to Arm’s roots. The company
+    goes back to the late 1970s, when two computer architects started a company, Acorn
+    Computers, that produced a microprocessor built on an architecture known as RISC.
+    By the early ’90s the company was flailing, and the then CEO pivoted to licensing
+    its designs to other companies. Fast-forward to the mid-2010s, and Arm’s power-efficient
+    mobile chip designs helped make it the most important chip IP company in the world.
+    The Big Interview Read more deep, weird, smart conversations with the most important
+    people in our world. Arm’s trajectory hasn’t all been smooth. After Softbank acquired
+    Arm in 2016 and took the publicly traded company private, the smartphone market’s
+    growth slowed. Arm had to make an aggressive push into new lines of business.
+    In 2020 Nvidia tried to scoop it up and regulators blocked the deal. As that deal
+    collapsed, in 2022, Haas stepped into the CEO role. He took Arm public again,
+    with Softbank still owning 90 percent of the company. Haas had joined Arm in 2013
+    from Nvidia, where he’d led the computing product business unit, and eventually
+    took over Arm’s cash cow, the IP products group. Similar to the way Nvidia CEO
+    Jensen Huang leans on his decades-long perspective of the industry—gather ’round
+    the campfire, kids, while I tell you about the early days of parallel computing—Haas
+    is quick to reference 1980s geopolitical chaos when asked whether current events
+    make him worry about his business. (No.) He’s met with President Donald Trump
+    half a dozen times, he tells me, but he’s not particularly concerned about the
+    US government interfering in his UK company’s affairs. He is tall, though not
+    particularly foreboding, and often wears Saint Laurent boots with little heels,
+    a blazer, and a Panerai watch. Chip industry insiders say Haas, 63, is a masterful
+    networker who pals around with the biggest names in tech. The Wall Street Journal
+    once labeled him a “natural-born diplomat.” But with this chip project, one of
+    the most loosely held secrets in the Valley, Arm—and Haas—risk rankling some of
+    the company’s most loyal partners. Can you stay besties with people if, after
+    years of polite dinner parties, you announce you’re buying their house? Haas seems
+    convinced he can. This interview has been condensed and lightly edited for clarity.
+    Lauren Goode: Since you became CEO, people say that there''s been a big culture
+    change. Do you agree with that assessment? Rene Haas: The thing that I''ve learned—I
+    knew this intrinsically when I worked for Jensen, but I certainly internalized
+    it when I took over here—is that the CEO sets the tone for the company. My training,
+    which ultimately develops who you are as a leader, was really accelerated by moving
+    to Silicon Valley 30 years ago, working with a few startups and then working for
+    Nvidia. And the common theme between all those companies is that I was working
+    for founders. At the time I couldn''t tell you, "Oh, working with founders, that''s
+    the kind of environment that I resonate with." But looking back, that’s where
+    I think my DNA was shaped and where I found the environment I thrive in. What
+    kind of environment is that exactly? Taking risks, bold growth, fast markets,
+    making mistakes, but at the same time, being willing to take big bets. So when
+    I took over here, I said, that’s the kind of culture I want. Was this Arm silicon
+    project already in the works when you became CEO? No. How much of this was your
+    idea, and how much of it was Masa’s? Was it his decision? No. I’m the CEO. Was
+    he very aware and involved in the trade-offs and various things we looked at?
+    Hundred percent. But this was more from a brainstorming perspective, as a partner
+    of ideas, as opposed to your boss telling you, “Yes to this, no to this.” He’s
+    not into that level of detail. One of the benefits from SoftBank’s 90 percent
+    ownership of ARM is that he''s our chairman, and he''s our biggest shareholder,
+    and as a result of that he’s someone I talk to all the time. We''re pretty close.
+    One analyst told me you talk to Masa 10 to 12 times per day. Some days. He does
+    like to talk on the phone. I am up all hours. He knows my personal schedule very
+    well. He knows when I get up, he knows my workout schedule. He knows when I go
+    to sleep. He''s pretty good about all that. What made you think this is the time
+    for Arm to do this chip? So somewhere along the way, we morphed from an IP company
+    into a compute platform company. And by that, I mean, when you think about the
+    role the CPU plays in any ecosystem, there''s such an interdependency between
+    the hardware of the CPU and the software ecosystem, whether it''s running Windows
+    or macOS or iOS or Android or Linux. I don''t think we acknowledged it or I don''t
+    think we understood its importance, but when I took over, I definitely knew that
+    this was who we were and it was something that we had to advance. So why would
+    we build a chip? When you’re a compute platform company, there are times when
+    the ecosystem benefits from you physically building something. We''ve seen this
+    in the past, whether it''s Microsoft building a Surface laptop that helps the
+    Windows ecosystem, while HP and Dell and Lenovo are still building laptops; or
+    whether it’s Google building a Pixel phone, but meanwhile, Samsung still builds
+    Android phones. Those products are still a sliver of their businesses. But it
+    benefits the ecosystem. If you think about Gemini on a Pixel platform, if Gemini
+    is optimized on Android, it helps Samsung. If you think about Microsoft developing
+    tools or applications for Surface that benefit Windows, it will benefit HP, Lenovo,
+    and Dell. That’s the thing that I think people haven''t always understood about
+    us. They say, "Oh, it''s an IP company." But the IP that we deliver is a compute
+    platform, and ultimately platform companies need to do things to move the ecosystem
+    forward. Photograph: David Paul Morris/Getty Images What’s the new chip called?
+    It’s the Arm AGI CPU. AGI as in, artificial general intelligence? That''s right.
+    You like it? I don’t dislike it. I wonder if AGI is a term that''s going to go
+    out of fashion at some point, as the industry collates around some other ideas
+    of super intelligence. I''m betting it won''t. Who''s your target customer for
+    this? The first customer is going to be Meta . But we also have SK Hynix, Cisco,
+    SAP, Cloudflare. We have multiple customers. And this is a chip designed for data
+    centers. Data centers. What makes this chip special? There''s a number of things,
+    but one is that it''s unbelievably power-efficient. This company was born from
+    building chips to run off of batteries or in mobile phones. So we have this mindset
+    around efficiency. And everything that you hear about the growth of AI is how
+    much energy is needed. So anything you can do to deliver the world''s most power-efficient
+    server CPU is all goodness. This is going to be the most power-efficient CPU.
+    The other thing that it’s going to be incredibly good at is running agentic AI.
+    One of the myths out there has been that with the rise of AI, the GPU or the accelerator
+    is everything. But when you look at how agents run inside the data center, that''s
+    work that only the CPU can do. The GPU doesn''t go away, but it needs far more
+    CPUs to run all the agents. Meta just struck two pretty big deals with Nvidia
+    and AMD, for both CPUs and GPUs. This includes Nvidia’s new Vera CPUs, which are
+    part of the bigger Vera Rubin superchip. That''s right. Which is Arm. Pardon my
+    French, but does launching your own CPU piss off a customer like Nvidia? Yeah,
+    so, back to the platform discussion … It raises all boats. That is a very convenient
+    answer. But it''s not inaccurate. The more software that''s written for Arm, the
+    more optimizations that are done for Arm—all of that helps anybody that builds
+    on Arm. The opportunity is massive. When you look at the amount of dollars associated
+    with the data center and AI growth, it''s just really large. To your question,
+    does it piss off Nvidia? I''d imagine it will piss off Intel and AMD more than
+    it pisses off Nvidia. Why is that? Because it takes market share from them. You’re
+    referring to the fact that it’s Intel’s x86 architecture versus Arm architecture.
+    So you don''t think you’ll piss off your pal, Jensen, but that AMD and Intel may
+    have some response to this. I use “piss off” as tongue-in-cheek. It''s beneficial
+    to the Arm ecosystem and it''s beneficial to Jensen that we build a chip. If you''ve
+    got [Nvidia’s] Vera chip, which is a great product, and you''ve got Arm AGI CPU,
+    which is a great product, it''s not great for Intel and AMD, that''s all I know.
+    Will Nvidia actually buy your CPU? Amazon execs appeared in a video at your event,
+    vouching for your chip—will Amazon, which already has its own chips, buy yours?
+    I’d love it if Jensen bought some, but the Vera CPU is already very closely coupled
+    to his own chip, and they have their own networking technology to connect all
+    their chips. And Amazon will probably continue to use their own Graviton chip.
+    But we didn’t build this for Amazon, we built it because we think the market for
+    Arm CPUs is really huge. It’s basically an underserved market. If you look at
+    some of the early customers we have, like Meta, which is going to be using our
+    chip in an air-cooled rack—they don’t need Nvidia’s NV Link. Or Cloudflare—they
+    can’t buy Amazon’s Graviton chip, and they don’t have the wherewithal to build
+    their own. Who is fabricating your chip? Co-packaging? Networking? TSMC. All TSMC.
+    We’re also building a reference design of a server. Not “we,” but, we''re working
+    with partners like Super Micro and Foxconn. In today''s day and age doing a chip
+    by itself isn''t enough. So we worked with partners in the ecosystem to deliver
+    a full solution in terms of a server rack. You are now going to have to answer
+    questions about volume and yield and gross margins. Yes. When I joined Arm from
+    Nvidia in 2013, I remember'
+  difficulty_constant: 8.5
+  question_type: Reading Comprehension
+  questions:
+  - answer: B
+    explanation: Haas argues that just as Microsoft built the Surface laptop or Google
+      built the Pixel phone to move their respective ecosystems forward, Arm's entry
+      into the chip market is intended to act as a catalyst for the overall Arm-based
+      ecosystem, rather than to abandon their traditional IP licensing business.
+    options:
+      A: To explain that Arm intends to phase out its licensing business.
+      B: To justify the move as a strategy to benefit the broader ecosystem.
+      C: To argue that Arm is now shifting its focus away from mobile devices.
+      D: To show that Arm is emulating their success in retail consumer electronics.
+    q_number: 1
+    stem: According to the article, why does Rene Haas compare Arm's move into chip
+      production to companies like Microsoft and Google?
+  - answer: B
+    explanation: Haas explicitly mentions that the new chip will take market share
+      from Intel and AMD, as it challenges their traditional x86 architecture-dominated
+      data center market, whereas he views his relationship with Nvidia as more synergistic
+      within the Arm ecosystem.
+    options:
+      A: He believes Intel and AMD will retaliate by blocking Arm's patents.
+      B: He views his own chip as a direct competitor to their market dominance.
+      C: He fears that Intel and AMD will stop using Arm's architecture entirely.
+      D: He is concerned about a legal battle over the x86 architecture.
+    q_number: 2
+    stem: What does Haas imply when he mentions that the Arm AGI CPU might 'piss off'
+      Intel and AMD?
+  - answer: C
+    explanation: The text states that Arm 'morphed from an IP company into a compute
+      platform company,' reflecting a strategic shift to advance the importance of
+      the CPU within its ecosystem by offering both designs and, now, its own hardware.
+    options:
+      A: From a hardware manufacturer to an AI software services provider.
+      B: From a failed startup to a massive, diversified conglomerate.
+      C: From an IP licensor to a more comprehensive compute platform company.
+      D: From a mobile-focused firm to an exclusively data-center-driven enterprise.
+    q_number: 3
+    stem: Which of the following best describes the evolution of Arm's business model
+      as mentioned in the text?
+  - answer: A
+    explanation: The context suggests that while it was a 'secret,' it was 'loosely
+      held,' implying that it was an 'open secret' or a topic of widespread industry
+      speculation before the official announcement.
+    options:
+      A: A widely speculated topic within the technology industry.
+      B: A guarded secret known only to the CEO and the board.
+      C: A rumor that was officially denied by Arm for years.
+      D: A protected intellectual property that nobody in the Valley discussed.
+    q_number: 4
+    stem: 'The phrase ''loosely held secrets'' (paragraph 7) suggests that the Arm
+      chip project was:'
+  - answer: C
+    explanation: Haas describes his leadership style as being shaped by working with
+      founders in Silicon Valley, where he learned to embrace 'taking risks, bold
+      growth, fast markets,' and taking big bets, which he has subsequently implemented
+      at Arm.
+    options:
+      A: He relies heavily on top-down directives from the Softbank chairman.
+      B: He prefers maintaining a traditional corporate culture over rapid growth.
+      C: He emphasizes taking risks and values the culture established by startup
+        founders.
+      D: He avoids direct involvement in technical product development and strategy.
+    q_number: 5
+    stem: What does the author suggest about Rene Haas’s leadership style?
+  source_journal: Wired
+  title: Chapter 4
