@@ -1,0 +1,465 @@
+{
+  "group_update_date": "11.05.2026",
+  "papers": [
+    {
+      "title": "Elusive snow leopards and evasive particles: Books in brief",
+      "article_update_date": "10.24.2026",
+      "source_journal": "Nature",
+      "body_text": "Wonders of the Quantum World Danni Holmes Melbourne Univ. Press (2026) “If a fully-fledged quantum computer arrived on our doorstep today, it would be like giving a caveman a smartphone,” writes physicist Danni Holmes. Her first book is a sparkling analysis of the quantum world. It takes the non-physicist reader through the laws of classical physics discovered by Isaac Newton and James Clerk Maxwell to more-recent fascinating facets of the field, such as the reason why black holes don’t last forever and whether human consciousness could have a quantum origin. The Age of Cures Barry Werth Simon & Schuster (2026) Any study of the US pharmaceutical industry involves finance as well as science, as journalist Barry Werth unpacked in his first book, The Billion-Dollar Molecule. His latest book discusses the United States’ “eighty-year-long preeminence in drug research”, which began during the Second World War under the direction of presidential science adviser Vannevar Bush. Focusing on Bush and five post-war leaders in the field of pharmacology, such as Max Tishler, Werth illuminates the value of long-term investment in science. Divination Engines Xiaochang Li Univ. Chicago Press (2026) Communication researcher Xiaochang Li describes her complex book as a cultural history of both technology and communication. It analyses “how words became data, how data became imperative, and how the problem of language came to shape the very foundations of algorithmic culture” — including for large language models and artificial intelligence. Li recounts vigorous debates between linguists, computer scientists and communication engineers, triggered by the thorny relationship between speech and writing. The Matter of Architecture Paul Dobraszczyk Reaktion (2026)",
+      "difficulty_constant": 8.4,
+      "question_type": "Use of English",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "In the phrase \"fully-fledged quantum computer\", \"fully-fledged\" is closest in meaning to ________.",
+          "options": {
+            "A": "miniaturized",
+            "B": "theoretical",
+            "C": "experimental",
+            "D": "developed"
+          },
+          "answer": "D",
+          "explanation": "Fully-fledged means complete or fully developed. Context implies a finished, operational computer."
+        },
+        {
+          "q_number": 2,
+          "stem": "The author uses the caveman comparison to ________ the complexity of quantum computing.",
+          "options": {
+            "A": "diminish",
+            "B": "illustrate",
+            "C": "complicate",
+            "D": "contradict"
+          },
+          "answer": "B",
+          "explanation": "The analogy serves to illustrate how advanced and perhaps inaccessible quantum technology is to the average person."
+        },
+        {
+          "q_number": 3,
+          "stem": "Danni Holmes' book is described as a \"sparkling analysis,\" implying that it is ________.",
+          "options": {
+            "A": "brilliant",
+            "B": "superficial",
+            "C": "controversial",
+            "D": "outdated"
+          },
+          "answer": "A",
+          "explanation": "Sparkling in this context means lively, brilliant, or impressive."
+        },
+        {
+          "q_number": 4,
+          "stem": "The book discusses \"facets\" of the field, which means ________.",
+          "options": {
+            "A": "aspects",
+            "B": "origins",
+            "C": "limitations",
+            "D": "definitions"
+          },
+          "answer": "A",
+          "explanation": "Facets refer to different sides or aspects of a subject."
+        },
+        {
+          "q_number": 5,
+          "stem": "Regarding human consciousness, the book explores whether it has a quantum ________.",
+          "options": {
+            "A": "perspective",
+            "B": "function",
+            "C": "mechanism",
+            "D": "origin"
+          },
+          "answer": "D",
+          "explanation": "The text specifically asks whether consciousness could have a quantum origin."
+        },
+        {
+          "q_number": 6,
+          "stem": "Studying the pharmaceutical industry requires looking at finance ________ science.",
+          "options": {
+            "A": "regardless of",
+            "B": "rather than",
+            "C": "in place of",
+            "D": "as well as"
+          },
+          "answer": "D",
+          "explanation": "The text notes the industry involves both components equally."
+        },
+        {
+          "q_number": 7,
+          "stem": "Barry Werth's book \"unpacked\" the complexity of the industry, meaning he ________ it.",
+          "options": {
+            "A": "ignored",
+            "B": "explained",
+            "C": "concealed",
+            "D": "distorted"
+          },
+          "answer": "B",
+          "explanation": "Unpack in academic discourse means to explain or analyze something complex."
+        },
+        {
+          "q_number": 8,
+          "stem": "The US has maintained \"eighty-year-long preeminence\" in drug research, which means ________.",
+          "options": {
+            "A": "superiority",
+            "B": "stagnation",
+            "C": "competition",
+            "D": "indifference"
+          },
+          "answer": "A",
+          "explanation": "Preeminence signifies being superior or having the highest status."
+        },
+        {
+          "q_number": 9,
+          "stem": "The drug research efforts were ________ by Vannevar Bush.",
+          "options": {
+            "A": "hindered",
+            "B": "monitored",
+            "C": "rejected",
+            "D": "directed"
+          },
+          "answer": "D",
+          "explanation": "The text states the research happened under the direction of Bush."
+        },
+        {
+          "q_number": 10,
+          "stem": "Werth ________ the value of long-term investment in his latest work.",
+          "options": {
+            "A": "questions",
+            "B": "neglects",
+            "C": "underestimates",
+            "D": "illuminates"
+          },
+          "answer": "D",
+          "explanation": "To illuminate means to clarify or shed light on the value of something."
+        },
+        {
+          "q_number": 11,
+          "stem": "Xiaochang Li characterizes her book as a ________ history.",
+          "options": {
+            "A": "cultural",
+            "B": "personal",
+            "C": "fictional",
+            "D": "statistical"
+          },
+          "answer": "A",
+          "explanation": "Li explicitly describes the book as a cultural history."
+        },
+        {
+          "q_number": 12,
+          "stem": "Words eventually became data, and data became ________ in the digital age.",
+          "options": {
+            "A": "optional",
+            "B": "imperative",
+            "C": "negligible",
+            "D": "redundant"
+          },
+          "answer": "B",
+          "explanation": "Imperative refers to something of vital importance or urgency."
+        },
+        {
+          "q_number": 13,
+          "stem": "The problem of language helped ________ the foundations of culture.",
+          "options": {
+            "A": "destabilize",
+            "B": "conceal",
+            "C": "shape",
+            "D": "abolish"
+          },
+          "answer": "C",
+          "explanation": "The text states language shaped the very foundations of algorithmic culture."
+        },
+        {
+          "q_number": 14,
+          "stem": "The debates were ________ by the relationship between speech and writing.",
+          "options": {
+            "A": "avoided",
+            "B": "resolved",
+            "C": "triggered",
+            "D": "suppressed"
+          },
+          "answer": "C",
+          "explanation": "The text says debates were triggered by the thorny relationship."
+        },
+        {
+          "q_number": 15,
+          "stem": "The relationship between speech and writing is described as \"thorny,\" meaning it is ________.",
+          "options": {
+            "A": "simple",
+            "B": "complex",
+            "C": "clear",
+            "D": "irrelevant"
+          },
+          "answer": "B",
+          "explanation": "Thorny problems are those that are difficult or complex to handle."
+        },
+        {
+          "q_number": 16,
+          "stem": "Which word best describes the tone of the debates mentioned in Li's book?",
+          "options": {
+            "A": "Compliant",
+            "B": "Apathetic",
+            "C": "Vigorous",
+            "D": "Subdued"
+          },
+          "answer": "C",
+          "explanation": "The text describes the debates as vigorous, meaning forceful and energetic."
+        },
+        {
+          "q_number": 17,
+          "stem": "The book refers to the \"foundations\" of algorithmic culture, which refers to its ________.",
+          "options": {
+            "A": "exterior",
+            "B": "basis",
+            "C": "extension",
+            "D": "outcome"
+          },
+          "answer": "B",
+          "explanation": "Foundations refer to the underlying basis of a system."
+        },
+        {
+          "q_number": 18,
+          "stem": "The focus on \"artificial intelligence\" suggests that the book is ________ to modern concerns.",
+          "options": {
+            "A": "relevant",
+            "B": "unrelated",
+            "C": "detrimental",
+            "D": "secondary"
+          },
+          "answer": "A",
+          "explanation": "The mention of current technologies like LLMs makes the topic relevant."
+        },
+        {
+          "q_number": 19,
+          "stem": "Werth's work provides a __________ of the pharmaceutical industry's leaders.",
+          "options": {
+            "A": "critique",
+            "B": "omission",
+            "C": "profile",
+            "D": "refutation"
+          },
+          "answer": "C",
+          "explanation": "Focusing on five leaders in the field implies profiling them."
+        },
+        {
+          "q_number": 20,
+          "stem": "Ultimately, the passage as a whole is designed to ________ several academic books.",
+          "options": {
+            "A": "advertise",
+            "B": "review",
+            "C": "reorganize",
+            "D": "dismiss"
+          },
+          "answer": "C",
+          "explanation": "The passage provides summary information about four distinct books."
+        }
+      ]
+    },
+    {
+      "title": "The world’s biggest maker of spectacles faces a crisis",
+      "article_update_date": "10.31.2026",
+      "source_journal": "Economist",
+      "body_text": "The world’s biggest maker of spectacles faces a crisis Business | Blindsided The world’s biggest maker of spectacles faces a crisis EssilorLuxottica has been rocked by a petty feud Oct 29th 2026 Two years before his death in 2022, Leonardo Del Vecchio, the Italian billionaire who built EssilorLuxottica into the world’s biggest eyewear-maker, handed control of the business to his trusted confidante, Francesco Milleri. To his heirs, Del Vecchio left equal stakes in a holding company, Delfin, which owns 32% of EssilorLuxottica, alongside stakes in various other Italian companies. For a time, there was harmony. At its peak in November last year the market value of EssilorLuxottica, which owns brands including Ray-Ban and Oliver Peoples, reached €148bn ($172bn), nearly triple what it is was worth when Mr Milleri took charge. Since then it has plunged back down to €81bn amid a governance crisis brought about by Leonardo Maria Del Vecchio (pictured), the 31-year-old heir who until August served as the company’s strategy chief. Investors fear that the dysfunction is set to coincide with a period of technological upheaval for the company. Over the past month the crisis has spilled out into the open—in sometimes bizarre fashion. First came a podcast in which Leonardo Maria lamented a lack of love from his father, shared his struggles with drug abuse, boasted of his sexual exploits (2,000 women, many seduced by singing Enrique Iglesias’s “Hero”)—and declared that his former mentor Mr Milleri should be “nervous” about his handling of EssilorLuxottica. Then in a rambling radio interview on October 26th the wayward heir claimed that Mr Milleri had been appointed chief executive only as a caretaker with the job of finding a successor, which he had failed to do. Mr Milleri says he has known Leonardo Maria since he was a baby and has treated him like a son, which makes their falling out all the more painful. EssilorLuxottica’s underlying business has continued to perform solidly. On October 20th the firm reported that its revenue was up by 9%, year on year. Insiders say that the feud instead stems from Leonardo Maria’s bitterness over the failure of his plan to become the leading shareholder in Delfin by acquiring the stakes of two of his siblings, Luca and Paola, for €10bn. Mr Milleri, who chairs Delfin’s board, supported the plan, but three of the five directors refused to agree to the conditions imposed by Leonardo Maria’s lenders, including guaranteed dividends to help cover the interest bill. The heir blamed Mr Milleri for failing to win the board over. Leonardo Maria’s desire for change at Delfin is understandable. “The governance is broken,” argues Bernardo Bertoldi, an expert on family businesses at Turin University. Delfin is set up such that each of its eight equal shareholders—the founder’s six children, his stepson and his widow—in effect has a veto over the many decisions that require an 88% supermajority. The elder Del Vecchio’s hope had been to keep his family united through the need for consensus. In practice, the structure he created is too rigid, argues Mr Bertoldi. Even so, for EssilorLuxottica’s investors, the drama is worrying. Mr Milleri’s current term will end in April. The dysfunction at Delfin could put his reappointment in doubt (though the holding company’s board has expressed its support). “Concern about governance has weighed heavily on the stock,” says Luca Solca of Bernstein, a broker. The uncertainty has coincided with growing nervousness about the long-term impact of smart glasses on EssilorLuxottica’s business. For now the technology is giving a boost to the company; a partnership with Meta, a social-media giant, to develop Ray-Ban smart glasses has been a notable success. But other Silicon Valley titans, including Apple and Google, also have their sights on the opportunity. Eventually their products could eat away at EssilorLuxottica’s traditional eyewear business, much as smart watches have hurt sales of timepieces. Mr Milleri says he is confident that EssilorLuxottica will emerge a winner from the technology—which he reckons could one day replace the smartphone—pointing to EssilorLuxottica’s beloved brands and global retail network. He will have to hope the Del Vecchio heirs do not get in the way of his vision. ■ This article was downloaded by zlibrary from https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the text, the primary cause of the recent decline in EssilorLuxottica’s market value is attributed to:",
+          "options": {
+            "A": "a significant decrease in annual revenue growth.",
+            "B": "an internal governance crisis involving the founder's heir.",
+            "C": "the intense competition from Silicon Valley tech companies.",
+            "D": "the resignation of Francesco Milleri as the chief executive."
+          },
+          "answer": "B",
+          "explanation": "The text explicitly states that the company's value plummeted 'amid a governance crisis brought about by Leonardo Maria Del Vecchio'. While the text mentions competition from tech companies later, the immediate market decline is linked to the internal conflict."
+        },
+        {
+          "q_number": 2,
+          "stem": "What does the author imply about Leonardo Maria Del Vecchio's public behavior?",
+          "options": {
+            "A": "It is a calculated strategy to increase his shareholding in Delfin.",
+            "B": "It reflects a professional concern for the company's technological future.",
+            "C": "It is erratic and potentially damaging to the company's reputation.",
+            "D": "It is a justified response to the board's failure to respect his father's wishes."
+          },
+          "answer": "C",
+          "explanation": "The text describes Leonardo Maria’s behavior as a 'petty feud', 'bizarre', and 'wayward', citing a podcast where he boasted about sexual exploits and drug abuse. This portrays his actions as erratic and harmful to the company's stability."
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does Bernardo Bertoldi criticize the structure of the holding company, Delfin?",
+          "options": {
+            "A": "It creates too much concentration of power in Mr. Milleri's hands.",
+            "B": "It fails to provide enough dividends for the younger heirs.",
+            "C": "It is excessively rigid and requires an impractical level of consensus.",
+            "D": "It prevents the company from investing in new technologies like smart glasses."
+          },
+          "answer": "C",
+          "explanation": "Bertoldi argues that the structure is 'too rigid' because the requirement for an 88% supermajority effectively gives every shareholder a veto, making decision-making extremely difficult."
+        },
+        {
+          "q_number": 4,
+          "stem": "What is the relationship between the current management crisis and the smart glasses industry?",
+          "options": {
+            "A": "The crisis prevents EssilorLuxottica from pursuing its partnership with Meta.",
+            "B": "The management dysfunction may distract the firm during a critical technological transition.",
+            "C": "Investors are optimistic that smart glasses will solve the internal governance issues.",
+            "D": "The technology is currently a failure, worsening the financial situation caused by the feud."
+          },
+          "answer": "B",
+          "explanation": "The text notes that investors fear the dysfunction will 'coincide with a period of technological upheaval'. The uncertainty in leadership comes at a time when the company needs to focus on competition from tech giants."
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best describes Francesco Milleri's position at the end of the text?",
+          "options": {
+            "A": "He is planning to step down to avoid further family conflict.",
+            "B": "He is confident about the future despite the challenges posed by the heirs.",
+            "C": "He has been dismissed by the Delfin board due to poor performance.",
+            "D": "He is primarily focused on acquiring the stakes held by the Del Vecchio siblings."
+          },
+          "answer": "B",
+          "explanation": "The final paragraph states that Mr. Milleri is 'confident that EssilorLuxottica will emerge a winner from the technology' and relies on the company's strong brand and retail network, despite needing to navigate the heirs' interference."
+        }
+      ]
+    },
+    {
+      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
+      "article_update_date": "09.02.2026",
+      "source_journal": "The Guardian",
+      "body_text": "Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December. According to provisional results, 70% of voters approved sweeping changes in the tiny west African state’s first constitutional amendment since revisions that ended the one-party socialist state more than three decades ago. The turnout for Sunday’s referendum was reportedly over 55%, amounting to an estimated 544,060 people. The new constitution will reduce the number of seats in parliament from 102 to 65 and cut electoral constituencies from 29 to 12. New provisions will require presidential candidates to have lived continuously in the country for at least five years before the vote, which is believed to target diaspora-based politicians with significant followings. View image in fullscreen Election officials wait for voters to cast their ballots in the referendum in Bissau. The turnout was reportedly over 55% of the population. Photograph: Darcicio Barbosa/AP The referendum’s outcome is expected to pave the way for December’s elections, which many hope will steady the political landscape in Guinea-Bissau, which has been through a series of politically turbulent periods since its declaration of independence from Portugal was globally recognised in 1974. Since then it has had at least 10 coup attempts, half of which have been successful. The most recent came after last November’s disputed presidential elections. Both candidates declared themselves winners, citing electoral malpractice by the other’s camp. The military forcefully intervened, setting up a transitional ruling council headed by Gen Horta Inta-A Na Man, a former military chief of general staff. Na Man said: “What we want after this referendum is to allow whoever wins the elections to see out their mandate without hindrance.” Nelson Moreira, the second vice-president of the transitional council, said the outgoing constitution, which came into effect in 1993, had often been cited as “the cause of instability in Guinea”. The leading opposition party, the African Party for the Independence of Guinea and Cape Verde (PAIGC), which was barred from fielding a presidential candidate in the 2025 election, had asked its supporters to boycott the referendum, which it called a democratic farce. “What will happen on 30 August is the continuation of the coup d’état carried out on 26 November,” its leader, Domingos Simões Pereira, had said.",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "What is the primary concern raised by critics regarding the new constitution in Guinea-Bissau?",
+          "options": {
+            "A": "It will worsen the economic instability of the tiny West African state.",
+            "B": "It will likely weaken the foundations of democratic governance.",
+            "C": "It will immediately terminate the parliamentary system of government.",
+            "D": "It will prohibit the diaspora from participating in future elections."
+          },
+          "answer": "B",
+          "explanation": "文章第一段提到“critics say will undermine democracy”，undermine democracy即削弱民主，与B选项含义一致。"
+        },
+        {
+          "q_number": 2,
+          "stem": "According to the passage, what effect will the new constitution have on the parliament?",
+          "options": {
+            "A": "It will expand the number of parliamentary seats to encourage wider representation.",
+            "B": "It will abolish the parliamentary system and replace it with a council.",
+            "C": "It will reduce both the number of parliamentary seats and the electoral constituencies.",
+            "D": "It will increase the number of electoral constituencies to match population growth."
+          },
+          "answer": "C",
+          "explanation": "文章第二段明确指出“The new constitution will reduce the number of seats in parliament from 102 to 65 and cut electoral constituencies from 29 to 12”，故C正确。"
+        },
+        {
+          "q_number": 3,
+          "stem": "What is implied by the new residency requirement for presidential candidates?",
+          "options": {
+            "A": "It serves as a mechanism to exclude certain political rivals living abroad.",
+            "B": "It encourages diaspora-based politicians to return to the country.",
+            "C": "It is intended to increase the total number of presidential candidates.",
+            "D": "It ensures that only those with military backgrounds can run for office."
+          },
+          "answer": "A",
+          "explanation": "文章第二段提到该规定“is believed to target diaspora-based politicians with significant followings”，意指该条款旨在针对海外有影响力的政客，即排斥竞争对手。"
+        },
+        {
+          "q_number": 4,
+          "stem": "How does the passage characterize Guinea-Bissau's political history since 1974?",
+          "options": {
+            "A": "It has been marked by long periods of unchallenged democratic stability.",
+            "B": "It has experienced frequent political turbulence and multiple coup attempts.",
+            "C": "It has enjoyed a peaceful transition of power due to the 1993 constitution.",
+            "D": "It has successfully avoided military intervention in its electoral processes."
+          },
+          "answer": "B",
+          "explanation": "文章第三段提到该国自1974年独立以来“has been through a series of politically turbulent periods”且“had at least 10 coup attempts”，故B项正确。"
+        },
+        {
+          "q_number": 5,
+          "stem": "What is the stance of the PAIGC regarding the recent referendum?",
+          "options": {
+            "A": "They believe it is a necessary step to stabilize the nation's political landscape.",
+            "B": "They support the constitutional amendments as a solution to the instability of 1993.",
+            "C": "They actively encouraged their followers to participate in the voting process.",
+            "D": "They view the referendum as an illegitimate continuation of a previous coup."
+          },
+          "answer": "D",
+          "explanation": "最后一段提到PAIGC将该公投称为“a democratic farce”，并称其为“the continuation of the coup d’état”，表明他们认为这是非法的延续。"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 19",
+      "article_update_date": "06.14.2026",
+      "source_journal": "Wired",
+      "body_text": "| Next | Section menu | Main menu | Previous | Jeremy Wallace The Big Story Jan 20, 2026 6:00 AM China’s Renewable Energy Revolution Is a Huge Mess That Might Save the World A global onslaught of cheap Chinese green power is upending everything in its path. No one is ready for its repercussions. ILLUSTRATION: PINGNAN LU There’s a particular kind of sci-fi nerd who equates fusion tech with utopia. If we could only harness the engine of the stars, it would uncork near limitless energy and neatly sweep away a whole mess of humanity’s problems. But how would that work exactly? What would the transition look like? You don’t have to wonder. It’s happening now. Solar panels and wind turbines capture the fusion of the sun and convert it to electricity. And at the scale and pace that China is producing them, plenty of things stand to be swept away—including, quite possibly, the once seemingly intractable problems of energy poverty and fossil-fuel dependence. In 2024, the total installed electricity capacity of the planet—every coal, gas, hydro, and nuclear plant and all of the renewables—was about 10 terawatts. The Chinese solar supply chain can now pump out 1 terawatt of panels every year . In China itself, vast energy megabases combining solar and wind stretch for miles in the country’s western deserts and Tibetan highlands, each producing the power of multiple nuclear plants and connecting to population centers in the country’s east via ultrahigh-voltage power lines. At the smaller end of the scale, panels have sprouted on rooftops all over the more populated eastern half of the country, thanks to policies that standardize the process and paperwork required to install and tie them into the grid. Huge factories, urban apartment buildings, and humble village homes are plastered with panels. In Europe, Chinese-made photovoltaic panels are so cheap that they cost less than fencing materials. Globally, the glut of solar has lowered the average cost of generating electricity to 4 cents a kilowatt hour—perhaps the cheapest form of energy ever. By now, major headlines have begun to catch on to the reality that China’s renewable energy revolution is one of the biggest stories in the world, while Donald Trump ’s anti-renewable vision of American energy dominance is a backward sideshow by comparison. But chroniclers of this green tech revolution almost always understate its chaos. At this point, it is far less a tightly managed, top-down creation of state subsidies than a runaway train of competition. The resulting, onrushing utopia is anything but neat. It is a panorama of coal communities decimated, price wars sweeping across one market after another, and electrical grids destabilizing as they become more central to the energy system. And absolutely no one—least of all some monolithic “China” at the control switch—knows how to deal with its repercussions. In the United States, 2024 was a record-breaking year for solar. Across the entire country, those 12 months saw some 50 gigawatts of new solar capacity added. (Solar projects are typically measured by their power output, not their square footage.) The China Issue PHOTOGRAPH: ANDRIA LO Here are 23 ways China is rewiring the future . Now consider some different numbers, for scale and contrast. In China, the first three months of 2025 alone saw 60 gigawatts of new solar capacity added to the national grid. Then April packed in 45 more gigawatts. Finally, May added an eye-watering 92 gigawatts of new capacity, or 3 gigawatts every day. The reason for this brain-warping mad dash of solar development? At the start of 2025—in an attempt to rein in the renewables sector—Beijing announced that it would discontinue a long-standing policy that had effectively propped up renewable energy prices, pegging them to that of the “baseline” coal power in each province. Any solar capacity that went in after May 2025, Beijing declared, would no longer get this deal. So the all-out solar installation frenzy was simply a mass attempt to get in under the old terms. After May, sure enough, new solar deployments plummeted. The ensuing four months each added just 10 gigawatts of new solar on average, half of the prior year’s pace—but that’s still considerably faster than America at its peak. In China, one problem with all this burgeoning, majestic new solar is that it’s completely overwhelming the national electrical grid, technically and economically. For electricity markets to work, grid managers must constantly balance supply and demand—but the former can’t always be throttled back when it exceeds the latter. Nuclear power plants can’t just be switched on and off whenever solar power floods the grid. And some Chinese coal plants provide heat to communities through steam—so they need to run even if the electricity they generate is superfluous. One perverse result of all this energetic over-supply is that a lot of solar power simply gets wasted, or “curtailed,” to make way for dirty forms of energy that are harder to turn off. Another is that the inherently intermittent power of renewables simply makes it more challenging for managers to keep the grid stable. In August 2024, in China’s far western region of Xinjiang—where the renewables build-out is at its most grandiose—poorly handled voltage fluctuations from solar and wind caused a regional blackout and even threatened the national electrical system, according to the South China Morning Post. As challenging as the glut is to manage at the technical level, its economics are even more vexing. As Econ 101 teaches, prices go down when supply rises faster than demand. But in most markets, there’s an end point to this process: free. Electricity markets are different. Some power-generating entities (like the aforementioned coal and nuclear plants) are so loath to ramp down their production that they offer to pay for the privilege of continuing to generate power. This, combined with the absolute imperative to keep the grid balanced, can create negative prices, which have become common in China’s heavily populated Shandong Province. It’s an untenable situation, but energy-hungry industrial firms are happy to milk it. Decades ago, the metals giant Weiqiao Aluminum left the Shandong grid in favor of running its own captive coal fleet to power its smelters; this past year it plugged back into the grid to take advantage of cheaper rates coming from green tech. What’s more, Chinese solar manufacturers—who, if you’ll remember, might just be saving the world—are not even making money for their troubles. They’re struggling to survive a gauntlet of competition. At the root of the solar supply chain are makers of polysilicon, the purified silicon substrate base of panels. Oversupply of this product has caused prices and profits to collapse. The Chinese government has tried to get supply under control by pushing the strongest polysilicon firms to form a cartel and squeeze out lesser players who refuse to exit the market. But so far, this seems to be a long shot. Workers in Zhejiang Province manufacture solar infrastructure to be exported to Southeast Asia. Getty Images The story is similar higher up the supply chain: Manufacturing capacity to produce solar ingots, wafers, and panels exceeds demand, sparking profit-killing price wars as firms try to keep their market share. Meanwhile, rapid technological innovation keeps forcing firms to invest in expansion with the latest and greatest designs, lest they get left behind by their competitors. When a completely new breed of solar panels yields a 10 percent difference in generation capacity, manufacturers who fail to quickly set up new production lines do so at their own peril. For the consumer, this added capacity means more energy with less real estate, perhaps a smaller parcel of land to purchase for your solar farm. For the manufacturer, it means the difference between commanding a viable price versus being dumped in the remainder bin. As the oversupply of Chinese panels has spilled into the international market, the bizarre dynamics have spread with them. Just as in Shandong Province, negative prices for electricity have also become common in Germany, thanks to Chinese panels. Or take Pakistan. Around 2022, a global spike in natural gas prices made the Pakistani electrical grid even more expensive and less reliable than usual. But instead of just suffering or firing up diesel generators, millions of Pakistanis installed solar panels to free themselves from the grid. The country imported so many Chinese solar panels that the grid as a whole began to fall into what is called a death spiral. Customers started opting out, leaving the grid to charge ever higher prices, which led even more people to flee, and so on. Who benefits, aside from the environment? It’s actually hard to say. The Chinese government is one of the Pakistani grid’s major creditors. So Chinese firms are undermining the economics of major development projects funded by state-owned banks. If only there was more electrical storage—technology that holds solar power generated during the day and releases it in the evening—then a lot of the issues that torture China’s renewables market would be resolved. Solar panels would become more valuable to the grid, their generation wouldn’t have to be curtailed, and the producers would be able to sell more of their products at better prices. Of course, China has come to dominate this fast-growing sector as well: It is by far the world’s largest battery maker. But China’s electrical system hasn’t figured out the rules and pricing to push battery capacity onto the grid fast enough to keep up. And besides, the vast majority of the batteries that China is churning out do not end up in grid storage. They’re revolutionizing another increasingly Chinese-dominated green industry that is going fast, cheap, and out of control: automobiles. In 2018, the city of Shanghai lured Tesla in to build a gigafactory with what seemed like an especially attractive offer. For years, foreign automakers like Ford, GM, Volkswagen, and Toyota had dominated the Chinese car market—the world’s largest—but were required to form joint ventures with Chinese firms for the privilege of doing business in the country. Shanghai told Tesla it could fully own its Chinese operations. Subsidies for land and cheap loans were proffered as well. A major solar farm in Shandong Province. Getty Images Tesla’s Shanghai gigafactory was completed in 168 days. It quickly became Tesla’s largest in the world. And it was fed by a network of local component suppliers that cropped up around it. The only problem—for Tesla, anyway—was that those local firms eventually became the basis for a Chinese supply chain that supercharged the nascent electric vehicle sector in the country. Nearly overnight, firms like Nio and BYD were producing plug-in cars that could rival Tesla in cost and quality. As with solar, a wave of entrants battled for market share, causing profits to evaporate but giving consumers great choices at excellent prices. By 2024, nearly half of all cars sold in China had plugs. Internal combustion automakers in China are suffering or shuttering. And the reverberations are perhaps even stronger abroad. China shifted from an also-ran to the world’s dominant auto exporter over the past five years, displacing Japan, South Korea, and Germany. It shipped more than 5.5 million cars overseas in 2024. Other countries have begun to panic that their own auto sectors could be eviscerated by the competition of cheaper, cleaner vehicles from China. The United States has effectively banned imports from China, while Europe has imposed serious tariffs. Yet just like in the solar sector, where thin profits and high debts have turned some firms into sprinting zombies, the Chinese EV space is full of failed and failing enterprises. Even BYD, the biggest player globally, seems to be dangerously close to spinning out of control. Its sales over the past few months have faltered badly compared with the previous year, and murmurs about its debt burden lead some to wonder if it too might collapse—even as people around the world are still dying to get their hands on these cars, and other automakers strain to compete. Indeed, the greatest beneficiaries of China’s renewables",
+      "difficulty_constant": 8.5,
+      "question_type": "Reading Comprehension",
+      "questions": [
+        {
+          "q_number": 1,
+          "stem": "According to the passage, the primary reason for the sudden surge in China's solar capacity in early 2025 was:",
+          "options": {
+            "A": "a technological breakthrough that significantly reduced production costs.",
+            "B": "an urgent mandate from the government to combat global climate change.",
+            "C": "a strategic move by manufacturers to secure favorable pricing before policy changes.",
+            "D": "an unexpected spike in electricity demand from industrial sectors."
+          },
+          "answer": "C",
+          "explanation": "文章提到Beijing宣布取消一项长期补贴政策（pegging prices to baseline coal），该政策于2025年5月到期。因此，企业为了在政策截止前锁定旧的优惠条件，引发了“all-out solar installation frenzy”。"
+        },
+        {
+          "q_number": 2,
+          "stem": "The author characterizes China's renewable energy revolution as a \"runaway train of competition\" primarily because:",
+          "options": {
+            "A": "the government has lost all control over state-run energy enterprises.",
+            "B": "it is driven more by market rivalry than by centralized planning.",
+            "C": "it has led to the rapid destruction of the national electrical grid.",
+            "D": "international trade barriers are causing excessive production backlogs."
+          },
+          "answer": "B",
+          "explanation": "文章指出该革命“far less a tightly managed, top-down creation of state subsidies than a runaway train of competition”，强调了竞争（competition）而非自上而下的规划（top-down creation）是核心驱动力。"
+        },
+        {
+          "q_number": 3,
+          "stem": "Why does the author describe some Chinese power-generating entities as \"sprinting zombies\"?",
+          "options": {
+            "A": "They operate using outdated, highly polluting coal technology.",
+            "B": "They are kept alive by state bailouts despite being technically bankrupt.",
+            "C": "They continue to produce power and expand despite severe financial instability.",
+            "D": "They suffer from a total lack of skilled labor and management."
+          },
+          "answer": "C",
+          "explanation": "文中提到由于利润微薄和高负债，企业处于“sprinting zombies”状态，但这并没有阻止它们继续在激烈的市场竞争中狂奔，即在财务濒临崩溃的情况下仍保持生产和扩张。"
+        },
+        {
+          "q_number": 4,
+          "stem": "What does the example of Pakistan illustrate regarding the global impact of Chinese solar panels?",
+          "options": {
+            "A": "The effectiveness of Chinese aid in stabilizing developing nations' energy grids.",
+            "B": "The unforeseen economic consequences of individual grid-defying choices.",
+            "C": "The successful integration of Chinese storage technology into foreign infrastructure.",
+            "D": "The rapid shift of developing nations towards full reliance on state-owned energy."
+          },
+          "answer": "B",
+          "explanation": "在巴基斯坦的例子中，个人纷纷选择安装中国太阳能板摆脱电网，导致电网陷入“death spiral”，这说明个人选择导致了电网经济的连锁负面影响。"
+        },
+        {
+          "q_number": 5,
+          "stem": "Which of the following best summarizes the author's tone toward China's renewable energy industry?",
+          "options": {
+            "A": "Celebratory and uncritical.",
+            "B": "Detached and purely statistical.",
+            "C": "Alarmist and xenophobic.",
+            "D": "Balanced and analytical regarding its chaos and potential."
+          },
+          "answer": "D",
+          "explanation": "作者既指出了这一革命在解决能源贫困和化石燃料依赖方面的巨大潜力（save the world），又详细剖析了其带来的混乱（chaos）、产能过剩、电网负荷等深层问题，态度是客观且辩证的。"
+        }
+      ]
+    }
+  ]
+}
